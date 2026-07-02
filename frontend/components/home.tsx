@@ -314,9 +314,6 @@ export function Home({ articles }: { articles: Article[] }) {
             Signal over noise — the AI and crypto stories that actually matter,
             ranked and summarized for you.
           </p>
-          <p className="mx-auto mt-3 text-xs uppercase tracking-widest text-neutral-500">
-            Move your mouse to explore ↔
-          </p>
         </div>
       </section>
 

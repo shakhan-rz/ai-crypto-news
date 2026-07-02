@@ -7,8 +7,9 @@ const VIDEO_SRC =
   'https://d8j0ntlcm91z4.cloudfront.net/user_38xzZboKViGWJOttwIXH07lWA1P/hf_20260530_042513_df96a13b-6155-4f6e-8b93-c9dee66fba08.mp4'
 
 // Horizontal mouse movement scrubs the video timeline instead of it autoplaying.
-// Higher = a small mouse move covers more of the clip.
-const SENSITIVITY = 0.8
+// Higher = a small mouse move covers more of the clip. Lower feels smoother
+// because each seek jumps a shorter distance.
+const SENSITIVITY = 0.45
 
 export function VideoBackground({ className }: { className?: string }) {
   const videoRef = useRef<HTMLVideoElement>(null)
@@ -77,8 +78,8 @@ export function VideoBackground({ className }: { className?: string }) {
       playsInline
       preload="auto"
       aria-hidden="true"
-      className={cn('pointer-events-none fixed inset-0 h-full w-full object-cover', className)}
-      style={{ objectPosition: '70% center' }}
+      className={cn('pointer-events-none fixed inset-0 h-full w-full object-contain', className)}
+      style={{ objectPosition: 'center' }}
     />
   )
 }
