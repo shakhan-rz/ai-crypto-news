@@ -2,8 +2,10 @@
 
 import { useEffect, useMemo, useState } from 'react'
 import { AnimatePresence, motion } from 'framer-motion'
+import { Check, Share2 } from 'lucide-react'
 import { Card, CardContent, CardHeader, CardTitle } from '@/components/ui/card'
 import { Badge } from '@/components/ui/badge'
+import { Skeleton } from '@/components/ui/skeleton'
 import { Spotlight } from '@/components/ui/spotlight'
 import { SplineScene } from '@/components/ui/splite'
 import { Button } from '@/components/ui/neon-button'
@@ -30,6 +32,85 @@ function scoreColor(score: number) {
   return 'text-neutral-400'
 }
 
+function ShareButton({ article }: { article: Article }) {
+  const [copied, setCopied] = useState(false)
+
+  async function handleShare(e: React.MouseEvent) {
+    e.preventDefault()
+    e.stopPropagation()
+
+    if (navigator.share) {
+      try {
+        await navigator.share({ title: article.title, url: article.link })
+        return
+      } catch {
+        // user cancelled or share failed — fall back to copy
+      }
+    }
+
+    try {
+      await navigator.clipboard.writeText(article.link)
+      setCopied(true)
+      setTimeout(() => setCopied(false), 2000)
+    } catch {
+      // clipboard unavailable — nothing else we can do
+    }
+  }
+
+  return (
+    <button
+      onClick={handleShare}
+      aria-label={copied ? 'Link copied' : 'Share article'}
+      className="relative z-10 flex h-8 w-8 shrink-0 items-center justify-center rounded-full text-neutral-400 transition-colors hover:bg-neutral-800 hover:text-neutral-100"
+    >
+      <AnimatePresence mode="wait" initial={false}>
+        {copied ? (
+          <motion.span
+            key="check"
+            initial={{ scale: 0.5, opacity: 0 }}
+            animate={{ scale: 1, opacity: 1 }}
+            exit={{ scale: 0.5, opacity: 0 }}
+            transition={{ duration: 0.15 }}
+            className="text-emerald-400"
+          >
+            <Check className="h-4 w-4" />
+          </motion.span>
+        ) : (
+          <motion.span
+            key="share"
+            initial={{ scale: 0.5, opacity: 0 }}
+            animate={{ scale: 1, opacity: 1 }}
+            exit={{ scale: 0.5, opacity: 0 }}
+            transition={{ duration: 0.15 }}
+          >
+            <Share2 className="h-4 w-4" />
+          </motion.span>
+        )}
+      </AnimatePresence>
+    </button>
+  )
+}
+
+function ArticleSkeleton() {
+  return (
+    <Card className="overflow-hidden rounded-xl border-neutral-800/80 bg-gradient-to-b from-neutral-900 to-neutral-950">
+      <CardHeader className="pb-3">
+        <div className="flex items-center gap-2">
+          <Skeleton className="h-5 w-16 rounded-full" />
+          <Skeleton className="h-3 w-20" />
+          <Skeleton className="ml-auto h-5 w-12 rounded-full" />
+        </div>
+        <Skeleton className="mt-2 h-5 w-3/4" />
+      </CardHeader>
+      <CardContent className="pt-0">
+        <Skeleton className="h-3 w-full" />
+        <Skeleton className="mt-2 h-3 w-11/12" />
+        <Skeleton className="mt-2 h-3 w-2/3" />
+      </CardContent>
+    </Card>
+  )
+}
+
 function FilterButton({
   label,
   count,
@@ -50,7 +131,7 @@ function FilterButton({
       className={cn(
         'px-4 py-1.5 text-sm font-medium',
         isActive
-          ? 'border-neutral-100 bg-neutral-100 text-neutral-900'
+          ? 'border-orange-500 bg-gradient-to-br from-orange-400 to-orange-600 text-black shadow-sm shadow-orange-500/30'
           : 'border-neutral-800 bg-black/40 text-neutral-300 backdrop-blur-sm hover:border-neutral-600 hover:bg-neutral-900 hover:text-neutral-100',
         className
       )}
@@ -78,6 +159,7 @@ function useIsMobile() {
 export function Home({ articles }: { articles: Article[] }) {
   const [active, setActive] = useState<FilterKey | null>(null)
   const [shownCount, setShownCount] = useState(PAGE_SIZE)
+  const [loading, setLoading] = useState(false)
   const isMobile = useIsMobile()
 
   const counts = useMemo(
@@ -103,7 +185,14 @@ export function Home({ articles }: { articles: Article[] }) {
   const hasMore = shownCount < filtered.length
 
   function selectFilter(key: FilterKey) {
-    setActive((prev) => (prev === key ? null : key))
+    setActive((prev) => {
+      const next = prev === key ? null : key
+      if (next !== null) {
+        setLoading(true)
+        setTimeout(() => setLoading(false), 400)
+      }
+      return next
+    })
     setShownCount(PAGE_SIZE)
   }
 
@@ -192,7 +281,16 @@ export function Home({ articles }: { articles: Article[] }) {
           </p>
         )}
 
+        {active !== null && loading && (
+          <div className="grid gap-4">
+            {Array.from({ length: PAGE_SIZE }).map((_, i) => (
+              <ArticleSkeleton key={i} />
+            ))}
+          </div>
+        )}
+
         <AnimatePresence mode="wait">
+          {active !== null && !loading && (
           <motion.div
             key={active ?? 'none'}
             initial={{ opacity: 0 }}
@@ -230,6 +328,7 @@ export function Home({ articles }: { articles: Article[] }) {
                         </span>
                         <span className="text-neutral-600">/10</span>
                       </span>
+                      <ShareButton article={article} />
                     </div>
                     <CardTitle className="mt-2 text-base leading-snug text-neutral-100 transition-colors group-hover:text-white">
                       <a
@@ -253,6 +352,7 @@ export function Home({ articles }: { articles: Article[] }) {
               </motion.div>
             ))}
           </motion.div>
+          )}
         </AnimatePresence>
 
         {hasMore && (

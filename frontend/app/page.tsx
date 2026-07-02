@@ -1,5 +1,6 @@
 import { DottedSurface } from '@/components/ui/dotted-surface'
 import { Navbar } from '@/components/navbar'
+import { Footer } from '@/components/footer'
 import { Home, type Article } from '@/components/home'
 import rawArticles from '../../data/processed-articles.json'
 
@@ -17,6 +18,7 @@ export default function HomePage() {
       <div className="relative z-10">
         <Navbar />
         <Home articles={articles} />
+        <Footer />
       </div>
     </main>
   )
