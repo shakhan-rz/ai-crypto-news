@@ -1,13 +1,11 @@
 'use client'
 
-import { useEffect, useMemo, useState } from 'react'
+import { useMemo, useState } from 'react'
 import { AnimatePresence, motion } from 'framer-motion'
 import { Check, Search, Share2, X } from 'lucide-react'
 import { Card, CardContent, CardHeader, CardTitle } from '@/components/ui/card'
 import { Badge } from '@/components/ui/badge'
 import { Skeleton } from '@/components/ui/skeleton'
-import { Spotlight } from '@/components/ui/spotlight'
-import { SplineScene } from '@/components/ui/splite'
 import { Button } from '@/components/ui/neon-button'
 import { cn } from '@/lib/utils'
 
@@ -164,26 +162,11 @@ function FilterButton({
   )
 }
 
-function useIsMobile() {
-  const [isMobile, setIsMobile] = useState(false)
-
-  useEffect(() => {
-    const query = window.matchMedia('(max-width: 767px)')
-    setIsMobile(query.matches)
-    const handler = (e: MediaQueryListEvent) => setIsMobile(e.matches)
-    query.addEventListener('change', handler)
-    return () => query.removeEventListener('change', handler)
-  }, [])
-
-  return isMobile
-}
-
 export function Home({ articles }: { articles: Article[] }) {
   const [active, setActive] = useState<FilterKey | null>(null)
   const [query, setQuery] = useState('')
   const [shownCount, setShownCount] = useState(PAGE_SIZE)
   const [loading, setLoading] = useState(false)
-  const isMobile = useIsMobile()
 
   const trimmedQuery = query.trim().toLowerCase()
   const hasQuery = trimmedQuery.length > 0
@@ -237,53 +220,13 @@ export function Home({ articles }: { articles: Article[] }) {
   return (
     <>
       {/* Hero */}
-      <section className="mx-auto max-w-6xl px-4 py-8">
-        <Card className="relative w-full overflow-hidden rounded-3xl border-transparent bg-neutral-950 py-0 ring-1 ring-neutral-200 dark:bg-transparent dark:ring-0">
-          <Spotlight className="-top-40 left-0 md:-top-20 md:left-60" />
-          <div className="relative z-10 flex flex-col items-center">
-            <div
-              className="relative h-[420px] w-full"
-              style={{
-                maskImage: 'linear-gradient(to bottom, black 0%, black 72%, transparent 92%)',
-                WebkitMaskImage: 'linear-gradient(to bottom, black 0%, black 72%, transparent 92%)',
-              }}
-            >
-              {/* Orange halo behind the robot */}
-              <div className="robot-glow pointer-events-none absolute left-1/2 top-1/2 h-[360px] w-[360px] -translate-x-1/2 -translate-y-1/2" />
-              {/* Ground shadow / pedestal */}
-              <div className="robot-shadow pointer-events-none absolute bottom-8 left-1/2 h-10 w-64 -translate-x-1/2" />
-              {/* Robot with a gentle floating motion.
-                  The contrast/brightness filter tones down the harsh white
-                  specular glare on the robot's glossy face.
-                  Skipped on mobile: the Spline WebGL scene (~2MB + its own
-                  GPU context) is too heavy for phones, so we show a static
-                  glow instead of stalling the page. */}
-              {isMobile ? (
-                <div className="robot-float flex h-full w-full items-center justify-center">
-                  <div className="h-40 w-40 rounded-full bg-gradient-to-br from-orange-400/40 to-orange-600/10 blur-2xl" />
-                </div>
-              ) : (
-                <div
-                  className="robot-float relative h-full w-full"
-                  style={{ filter: 'contrast(0.9) brightness(0.95)' }}
-                >
-                  <SplineScene
-                    scene="https://prod.spline.design/kZDDjO5HuC9GJUM2/scene.splinecode"
-                    className="h-full w-full"
-                  />
-                </div>
-              )}
-            </div>
-            <div className="flex flex-col items-center px-8 pb-12 text-center">
-              <h1 className="bg-gradient-to-b from-neutral-50 to-neutral-400 bg-clip-text text-4xl font-bold text-transparent md:text-6xl">
-                AI + Crypto News
-              </h1>
-              <p className="mt-4 max-w-lg text-neutral-300">
-                The most important AI and crypto news
-              </p>
-            </div>
-          </div>
-        </Card>
+      <section className="mx-auto max-w-6xl px-4 pt-20 pb-8 text-center">
+        <h1 className="bg-gradient-to-b from-neutral-900 to-neutral-500 bg-clip-text text-4xl font-bold text-transparent dark:from-neutral-50 dark:to-neutral-400 md:text-6xl">
+          AI + Crypto News
+        </h1>
+        <p className="mx-auto mt-4 max-w-lg text-neutral-600 dark:text-neutral-300">
+          The most important AI and crypto news
+        </p>
       </section>
 
       {/* News feed */}
