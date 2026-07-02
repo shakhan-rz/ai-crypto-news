@@ -212,45 +212,43 @@ export function Home({ articles }: { articles: Article[] }) {
                   ease: 'easeOut',
                 }}
               >
-                <Card className="border-neutral-800 bg-neutral-900 transition-colors hover:border-neutral-700">
-                  <CardHeader>
-                    <div className="flex items-start justify-between gap-4">
-                      <CardTitle className="leading-snug text-neutral-100">
-                        <a
-                          href={article.link}
-                          target="_blank"
-                          rel="noopener noreferrer"
-                          className="hover:underline"
-                        >
-                          {article.title}
-                        </a>
-                      </CardTitle>
-                      <div className="shrink-0 rounded-md bg-neutral-800 px-2.5 py-1 text-sm font-semibold">
-                        <span className={scoreColor(article.importance)}>
-                          {article.importance}
-                        </span>
-                        <span className="text-neutral-500">/10</span>
-                      </div>
-                    </div>
-                  </CardHeader>
-                  <CardContent className="space-y-3">
-                    {article.summary && (
-                      <p className="text-sm leading-relaxed text-neutral-400">
-                        {article.summary}
-                      </p>
-                    )}
+                <Card className="group relative overflow-hidden rounded-xl border-neutral-800/80 bg-gradient-to-b from-neutral-900 to-neutral-950 transition-all duration-200 hover:-translate-y-0.5 hover:border-neutral-700 hover:shadow-lg hover:shadow-black/40">
+                  <CardHeader className="pb-3">
                     <div className="flex items-center gap-2">
                       <Badge
                         variant="secondary"
-                        className="bg-neutral-800 uppercase tracking-wide text-neutral-300"
+                        className="rounded-full bg-neutral-800/80 px-2.5 py-0.5 text-[11px] font-medium uppercase tracking-wider text-neutral-300"
                       >
                         {article.category}
                       </Badge>
                       <span className="text-xs text-neutral-500">
                         {article.source}
                       </span>
+                      <span className="ml-auto flex shrink-0 items-center gap-1 rounded-full bg-neutral-800/60 px-2 py-0.5 text-xs font-semibold tabular-nums">
+                        <span className={scoreColor(article.importance)}>
+                          {article.importance}
+                        </span>
+                        <span className="text-neutral-600">/10</span>
+                      </span>
                     </div>
-                  </CardContent>
+                    <CardTitle className="mt-2 text-base leading-snug text-neutral-100 transition-colors group-hover:text-white">
+                      <a
+                        href={article.link}
+                        target="_blank"
+                        rel="noopener noreferrer"
+                        className="after:absolute after:inset-0"
+                      >
+                        {article.title}
+                      </a>
+                    </CardTitle>
+                  </CardHeader>
+                  {article.summary && (
+                    <CardContent className="pt-0">
+                      <p className="line-clamp-3 text-sm leading-relaxed text-neutral-400">
+                        {article.summary}
+                      </p>
+                    </CardContent>
+                  )}
                 </Card>
               </motion.div>
             ))}
