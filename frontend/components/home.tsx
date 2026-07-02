@@ -23,6 +23,17 @@ export type Article = {
 }
 
 type FilterKey = 'all' | 'ai' | 'crypto'
+type SortKey = 'importance' | 'newest'
+
+function categoryBadgeClass(category: string): string {
+  if (category === 'ai') {
+    return 'bg-sky-100 text-sky-700 dark:bg-sky-500/15 dark:text-sky-300'
+  }
+  if (category === 'crypto') {
+    return 'bg-orange-100 text-orange-700 dark:bg-orange-500/15 dark:text-orange-300'
+  }
+  return 'bg-neutral-100 text-neutral-600 dark:bg-neutral-800/80 dark:text-neutral-300'
+}
 
 const PAGE_SIZE = 5
 
@@ -229,6 +240,7 @@ export function Home({ articles }: { articles: Article[] }) {
   const [query, setQuery] = useState('')
   const [shownCount, setShownCount] = useState(PAGE_SIZE)
   const [loading, setLoading] = useState(false)
+  const [sortBy, setSortBy] = useState<SortKey>('importance')
 
   const trimmedQuery = query.trim().toLowerCase()
   const hasQuery = trimmedQuery.length > 0
@@ -262,10 +274,22 @@ export function Home({ articles }: { articles: Article[] }) {
     )
   }, [articles, active, hasQuery, trimmedQuery])
 
-  const visible = filtered.slice(0, shownCount)
-  const hasMore = shownCount < filtered.length
+  const sorted = useMemo(() => {
+    const copy = [...filtered]
+    if (sortBy === 'newest') {
+      copy.sort(
+        (a, b) => new Date(b.pubDate).getTime() - new Date(a.pubDate).getTime()
+      )
+    } else {
+      copy.sort((a, b) => b.importance - a.importance)
+    }
+    return copy
+  }, [filtered, sortBy])
+
+  const visible = sorted.slice(0, shownCount)
+  const hasMore = shownCount < sorted.length
   const showEmptyState =
-    !loading && (active !== null || hasQuery) && filtered.length === 0
+    !loading && (active !== null || hasQuery) && sorted.length === 0
 
   function selectFilter(key: FilterKey) {
     const next = active === key ? null : key
@@ -370,8 +394,33 @@ export function Home({ articles }: { articles: Article[] }) {
           </div>
         )}
 
-        {(active !== null || hasQuery) && !loading && filtered.length > 0 && (
-          <div key={`${active ?? 'none'}-${trimmedQuery}`} className="grid gap-4">
+        {(active !== null || hasQuery) && !loading && sorted.length > 0 && (
+          <div className="mb-4 flex items-center justify-end gap-2 text-sm">
+            <span className="text-neutral-500">Sort by</span>
+            <div className="inline-flex overflow-hidden rounded-full border border-neutral-300 dark:border-neutral-800">
+              {(['importance', 'newest'] as SortKey[]).map((key) => (
+                <button
+                  key={key}
+                  onClick={() => {
+                    setSortBy(key)
+                    setShownCount(PAGE_SIZE)
+                  }}
+                  className={cn(
+                    'px-3 py-1 text-xs font-medium transition-colors',
+                    sortBy === key
+                      ? 'bg-gradient-to-br from-orange-400 to-orange-600 text-black'
+                      : 'text-neutral-600 hover:bg-neutral-100 dark:text-neutral-300 dark:hover:bg-neutral-900'
+                  )}
+                >
+                  {key === 'importance' ? 'Most important' : 'Newest'}
+                </button>
+              ))}
+            </div>
+          </div>
+        )}
+
+        {(active !== null || hasQuery) && !loading && sorted.length > 0 && (
+          <div key={`${active ?? 'none'}-${trimmedQuery}-${sortBy}`} className="grid gap-4">
             {visible.map((article, i) => (
               <motion.div
                 key={article.link || article.title}
@@ -389,7 +438,10 @@ export function Home({ articles }: { articles: Article[] }) {
                     <div className="flex items-center gap-2">
                       <Badge
                         variant="secondary"
-                        className="rounded-full bg-neutral-100 px-2.5 py-0.5 text-[11px] font-medium uppercase tracking-wider text-neutral-600 dark:bg-neutral-800/80 dark:text-neutral-300"
+                        className={cn(
+                          'rounded-full px-2.5 py-0.5 text-[11px] font-medium uppercase tracking-wider',
+                          categoryBadgeClass(article.category)
+                        )}
                       >
                         {article.category}
                       </Badge>
