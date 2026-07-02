@@ -176,11 +176,11 @@
   0%,
   100% {
     opacity: 0.75;
-    transform: translate(-50%, -50%) scale(1);
+    scale: 1;
   }
   50% {
     opacity: 1;
-    transform: translate(-50%, -50%) scale(1.12);
+    scale: 1.12;
   }
 }
 
@@ -198,11 +198,11 @@
 @keyframes robot-shadow-pulse {
   0%,
   100% {
-    transform: translateX(-50%) scale(1);
+    scale: 1;
     opacity: 0.9;
   }
   50% {
-    transform: translateX(-50%) scale(0.82);
+    scale: 0.82;
     opacity: 0.6;
   }
 }
