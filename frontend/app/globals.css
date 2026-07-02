@@ -144,22 +144,23 @@
   }
 }
 
-/* Gentle up/down bob for the 3D robot */
+/* Gentle bob + subtle sway for the 3D robot so it feels alive */
 .robot-float {
-  animation: robot-float 6s ease-in-out infinite;
+  animation: robot-float 7s ease-in-out infinite;
+  transform-origin: center 40%;
 }
 
 @keyframes robot-float {
   0%,
   100% {
-    transform: translateY(0);
+    transform: translateY(0) rotate(-1.2deg);
   }
   50% {
-    transform: translateY(-14px);
+    transform: translateY(-18px) rotate(1.2deg);
   }
 }
 
-/* Soft orange halo behind the robot */
+/* Soft orange halo behind the robot — slowly breathes to add life */
 .robot-glow {
   background: radial-gradient(
     closest-side,
@@ -168,9 +169,22 @@
     transparent 75%
   );
   filter: blur(40px);
+  animation: robot-glow-pulse 5s ease-in-out infinite;
 }
 
-/* Elliptical ground shadow / pedestal under the robot */
+@keyframes robot-glow-pulse {
+  0%,
+  100% {
+    opacity: 0.75;
+    transform: translate(-50%, -50%) scale(1);
+  }
+  50% {
+    opacity: 1;
+    transform: translate(-50%, -50%) scale(1.12);
+  }
+}
+
+/* Elliptical ground shadow / pedestal — shrinks as the robot lifts */
 .robot-shadow {
   background: radial-gradient(
     closest-side,
@@ -178,4 +192,26 @@
     transparent 70%
   );
   filter: blur(12px);
+  animation: robot-shadow-pulse 7s ease-in-out infinite;
+}
+
+@keyframes robot-shadow-pulse {
+  0%,
+  100% {
+    transform: translateX(-50%) scale(1);
+    opacity: 0.9;
+  }
+  50% {
+    transform: translateX(-50%) scale(0.82);
+    opacity: 0.6;
+  }
+}
+
+/* Respect users who prefer reduced motion */
+@media (prefers-reduced-motion: reduce) {
+  .robot-float,
+  .robot-glow,
+  .robot-shadow {
+    animation: none;
+  }
 }
