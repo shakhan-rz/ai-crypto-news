@@ -1,5 +1,53 @@
 [
   {
+    "title": "Securitize tokenizes $295 million of its own stock on Solana and Avalanche amid NYSE debut",
+    "link": "https://www.coindesk.com/business/2026/07/02/securitize-tokenizes-usd295-million-of-its-own-stock-on-solana-and-avalanche-amid-nyse-debut",
+    "pubDate": "Thu, 02 Jul 2026 19:00:03 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "The newly-public company's shares are the largest issuer-sponsored tokenized stock at launch, aiming to make a point against rival third-party stock token issuers."
+  },
+  {
+    "title": "EToro invests in onchain derivatives platform Extended as brokers race into DeFi",
+    "link": "https://www.coindesk.com/business/2026/07/02/etoro-invests-in-onchain-derivatives-platform-extended-as-brokers-race-into-defi",
+    "pubDate": "Thu, 02 Jul 2026 17:00:00 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "The broker plans to bring perpetual futures into Zengo wallet and expand DeFi products to its core platform as rivals like Robinhood expand onchain offerings."
+  },
+  {
+    "title": "Bitwise says STRC selloff signals crypto cycle nearing a bottom, not Strategy’s breaking point",
+    "link": "https://www.coindesk.com/markets/2026/07/02/bitwise-says-strc-selloff-signals-crypto-cycle-nearing-a-bottom-not-strategy-s-breaking-point",
+    "pubDate": "Thu, 02 Jul 2026 16:51:36 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "Bitwise said STRC's volatility reflects a late-cycle leverage unwind, with institutions poised to replace Strategy as bitcoin's biggest buyer."
+  },
+  {
+    "title": "US Treasury sanctions over 100 ISIS-K crypto addresses that moved over $1.4 million",
+    "link": "https://www.coindesk.com/policy/2026/07/02/us-treasury-sanctions-over-100-isis-k-crypto-addresses-in-latest-enforcement-action",
+    "pubDate": "Thu, 02 Jul 2026 14:49:05 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "ISIS-K allegedly used its media wing to solicit donations via Tron, Monero, and Bitcoin, highlighting stablecoin issuers' growing role in sanctions enforcement."
+  },
+  {
+    "title": "SBI Crypto to shut down mining pool that holds roughly 2% of Bitcoin's hashrate",
+    "link": "https://www.coindesk.com/business/2026/07/02/sbi-crypto-to-shut-down-mining-pool-that-holds-roughly-2-of-bitcoin-s-hashrate",
+    "pubDate": "Thu, 02 Jul 2026 14:44:55 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "Miners must redirect their hashrate before the July 31 cutoff, as the pool will stop accepting contributions after that date."
+  },
+  {
+    "title": "Ondo Finance debuts SEC-aligned tokenized stock model with BlackRock ETF, Micron shares",
+    "link": "https://www.coindesk.com/business/2026/07/01/ondo-finance-debuts-sec-aligned-tokenized-stock-model-with-blackrock-etf-micron-shares",
+    "pubDate": "Thu, 02 Jul 2026 14:16:02 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "Broadridge and transfer agent Oasis Pro underpin a new structure that keeps tokenized securities within existing U.S. market rules, based on the SEC's third-party custodial model."
+  },
+  {
     "title": "JPMorgan says Strategy's bitcoin sales policy adds 'two-way risk' to crypto markets",
     "link": "https://www.coindesk.com/markets/2026/07/02/jpmorgan-says-strategy-s-bitcoin-sales-policy-adds-two-way-risk-to-crypto-markets",
     "pubDate": "Thu, 02 Jul 2026 13:11:22 +0000",
@@ -64,7 +112,7 @@
     "content": "The proposal aims to give the American public a financial stake in AI while easing political scrutiny of the industry."
   },
   {
-    "title": "Live markets: Bitcoin rises above $61,000 as U.S. jobs data for June disappoints",
+    "title": "Live updates: Bitcoin holds above $61,000 as momentum stocks plunge to start quarter",
     "link": "https://www.coindesk.com/tech/2026/07/02/live-markets-bitcoin-holds-above-usd60-000-as-yen-jumps-on-intervention-fears",
     "pubDate": "Thu, 02 Jul 2026 09:42:41 +0000",
     "source": "CoinDesk",
@@ -152,52 +200,36 @@
     "content": "The Ethereum Foundation said policymakers should distinguish between decentralized public blockchains and networks that remain controlled by corporations or foundations, arguing that governance structures will play a critical role in determining which platforms are suitable for long-term public sector use."
   },
   {
-    "title": "Jefferies warns against buying the dip in Circle as Open USD raises new competition fears",
-    "link": "https://www.coindesk.com/markets/2026/07/01/jefferies-warns-against-buying-the-dip-in-circle-as-open-usd-raises-new-competition-fears",
-    "pubDate": "Wed, 01 Jul 2026 16:11:50 +0000",
-    "source": "CoinDesk",
+    "title": "Russia on track for digital ruble rollout on Sept. 1: Central bank governor ",
+    "link": "https://cointelegraph.com/news/russia-digital-ruble-rollout-september-central-bank-governor?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Thu, 02 Jul 2026 19:04:55 +0000",
+    "source": "Cointelegraph",
     "category": "crypto",
-    "content": "The investment bank said new competition from the Stripe- and Coinbase-backed stablecoin consortium could pressure USDC's growth."
+    "content": "EU authorities already preemptively sanctioned Russia’s digital ruble in 2025 as part of measures in response to the country’s war against Ukraine."
   },
   {
-    "title": "Cantor says bitcoin bear market may be entering final stretch",
-    "link": "https://www.coindesk.com/markets/2026/07/01/cantor-says-bitcoin-bear-market-may-be-entering-final-stretch",
-    "pubDate": "Wed, 01 Jul 2026 15:11:46 +0000",
-    "source": "CoinDesk",
+    "title": "Bitcoin price taps new July high above $62K on weak US jobs data",
+    "link": "https://cointelegraph.com/markets/bitcoin-returns-to-62k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Thu, 02 Jul 2026 17:41:26 +0000",
+    "source": "Cointelegraph",
     "category": "crypto",
-    "content": "The bank said in a note bitcoin's cycle points to a market bottom in the coming months, urging investors to focus on networks with durable value accrual."
+    "content": "Bitcoin took daily gains to nearly 4% on the second day of \"green July\" as US labor-market signals supported an easing inflation policy from the Federal Reserve."
   },
   {
-    "title": "Goliath Ventures CEO pleads guilty in $400 million crypto Ponzi case",
-    "link": "https://www.coindesk.com/policy/2026/07/01/goliath-ventures-ceo-pleads-guilty-in-usd400-million-crypto-ponzi-case",
-    "pubDate": "Wed, 01 Jul 2026 15:06:22 +0000",
-    "source": "CoinDesk",
+    "title": "FBI director discloses Strategy holdings months after deadline: Report",
+    "link": "https://cointelegraph.com/news/fbi-director-kash-patel-strategy-bitcoin-disclosure?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Thu, 02 Jul 2026 17:04:32 +0000",
+    "source": "Cointelegraph",
     "category": "crypto",
-    "content": "Christopher Delgado allegedly used investor funds for a lavish lifestyle, including luxury properties and vehicles, while running a fraudulent scheme from 2023 to 2026."
+    "content": "Strategy is a registered US government contractor, though Kash Patel claimed that “no current conflict exists” with his $100,001 and $250,000 worth of the company’s stock that he reported late."
   },
   {
-    "title": "Bitcoin breaks above $60,000 after Fed Chair Warsh said inflation risks has come down",
-    "link": "https://www.coindesk.com/markets/2026/07/01/bitcoin-retakes-usd60-000-level-after-fed-chair-warsh-said-inflation-risks-has-come-down",
-    "pubDate": "Wed, 01 Jul 2026 14:36:00 +0000",
-    "source": "CoinDesk",
+    "title": "Ondo expands tokenized equities with onchain shareholder voting",
+    "link": "https://cointelegraph.com/news/ondo-tokenized-stocks-shareholder-voting?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Thu, 02 Jul 2026 16:25:01 +0000",
+    "source": "Cointelegraph",
     "category": "crypto",
-    "content": "The Fed chair reiterated the central bank's commitment to its 2% inflation target while signaling artificial intelligence could reshape the economy and monetary policy."
-  },
-  {
-    "title": "EthLabs launches as Ethereum undergoes its biggest leadership transition in years ",
-    "link": "https://www.coindesk.com/tech/2026/07/01/ethlabs-launches-as-ethereum-undergoes-its-biggest-leadership-transition-in-years",
-    "pubDate": "Wed, 01 Jul 2026 14:09:56 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "In this week's edition of The Protocol Newsletter, we’re diving into the creation of EthLabs, and why it was launched during a period of transition for the ecosystem."
-  },
-  {
-    "title": "Europe's MiCA rollout sparks debate over who wins under new crypto rules",
-    "link": "https://www.coindesk.com/policy/2026/07/01/europe-s-mica-rollout-sparks-debate-over-who-wins-under-new-crypto-rules",
-    "pubDate": "Wed, 01 Jul 2026 14:00:24 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "As Europe's crypto rulebook takes full effect, industry leaders agree regulation is here to stay, but disagree over whether it protects consumers or favors the biggest firms."
+    "content": "Ondo's latest partnership adds shareholder governance to tokenized stocks as competition in blockchain-based equity offerings accelerates."
   },
   {
     "title": "The biggest blockchain upgrades still to come in 2026",
@@ -408,36 +440,44 @@
     "content": "The integration addresses one of the biggest obstacles keeping institutional capital on the sidelines of crypto markets: exchange counterparty risk."
   },
   {
-    "title": "Bitcoin price returns to $60K as US dollar strength rejects weekly high",
-    "link": "https://cointelegraph.com/markets/bitcoin-price-returns-to-60k-as-us-dollar-strength-rejects-from-weekly-high?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Wed, 01 Jul 2026 16:47:01 +0000",
-    "source": "Cointelegraph",
+    "title": "CFTC’s Selig says Illinois lawmakers ‘decided they know better’ on crypto tax",
+    "link": "https://www.theblock.co/post/407094/cftcs-selig-says-illinois-lawmakers-decided-they-know-better-on-crypto-tax?utm_source=rss&utm_medium=rss",
+    "pubDate": "Thu, 02 Jul 2026 15:12:45 -0400",
+    "source": "The Block",
     "category": "crypto",
-    "content": "Bitcoin started July with a bang, rallying above $60,000 as traders predict a relief rally as the “base case” throughout the month."
+    "content": "CFTC Chair Michael Selig sharply criticized Illinois' decision to pass a law that puts into place a 0.2% tax on crypto transactions."
   },
   {
-    "title": "Ethereum backers launch nonprofit to lead institutional adoption efforts",
-    "link": "https://cointelegraph.com/news/ethereum-institutional-nonprofit-launches-institutional-adoption?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Wed, 01 Jul 2026 16:39:28 +0000",
-    "source": "Cointelegraph",
+    "title": "JPMorgan says Strategy’s bitcoin sale policy introduced ‘avoidable’ risk into crypto markets",
+    "link": "https://www.theblock.co/post/407071/jpmorgan-strategy-mstr-bitcoin-sale-policy-risk-crypto-markets?utm_source=rss&utm_medium=rss",
+    "pubDate": "Thu, 02 Jul 2026 14:52:29 -0400",
+    "source": "The Block",
     "category": "crypto",
-    "content": "Backed by Joe Lubin, BitMine and SharpLink, the independent organization will serve as a liaison for financial institutions exploring Ethereum as competition for institutional capital heats up."
+    "content": "Strategy introduced \"avoidable two-way risk\" into crypto markets with its recent bitcoin sale policy, according to JPMorgan analysts."
   },
   {
-    "title": "French banking giant Crédit Agricole launches EURXT euro stablecoin",
-    "link": "https://cointelegraph.com/news/credit-agricole-eurxt-euro-stablecoin-caceis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Wed, 01 Jul 2026 14:24:19 +0000",
-    "source": "Cointelegraph",
+    "title": "Irish authorities recover another 500 bitcoins from lost Clifton Collins drug stash",
+    "link": "https://www.theblock.co/post/407062/irish-authorities-recover-another-500-bitcoins-lost-clifton-collins-drug-stash?utm_source=rss&utm_medium=rss",
+    "pubDate": "Thu, 02 Jul 2026 13:30:59 -0400",
+    "source": "The Block",
     "category": "crypto",
-    "content": "Crédit Agricole’s CACEIS launches a euro-pegged stablecoin on Ethereum with 20.02 million tokens issued, targeting institutional flows and tokenized fund access."
+    "content": "Onchain data from Arkham Intelligence now shows wallets tagged \"Clifton Collins\" holding roughly 4,500 BTC."
   },
   {
-    "title": "Bank of Korea governor outlines tokenized bond vision, unified ledger plan",
-    "link": "https://cointelegraph.com/news/bank-korea-governor-tokenized-government-bonds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Wed, 01 Jul 2026 13:36:13 +0000",
-    "source": "Cointelegraph",
+    "title": "Robinhood CEO says future of crypto is in real-world assets, not memecoins",
+    "link": "https://www.theblock.co/post/407047/robinhood-ceo-says-future-of-crypto-is-in-real-world-assets-not-memecoins?utm_source=rss&utm_medium=rss",
+    "pubDate": "Thu, 02 Jul 2026 12:05:44 -0400",
+    "source": "The Block",
     "category": "crypto",
-    "content": "The Bank of Korea’s governor praised tokenized government bonds for easing the issuance and management of government debt during a panel discussion at the ECB Forum."
+    "content": "Vlad Tenev spoke to his belief in the merging of TradFi and crypto when asked if digital assets have entered an \"enduring\" downturn."
+  },
+  {
+    "title": "Humanity Protocol repositions toward enterprise AI after $36 million hack, founder says",
+    "link": "https://www.theblock.co/post/407049/humanity-protocol-repositions-toward-enterprise-ai-after-36-million-hack-founder-says?utm_source=rss&utm_medium=rss",
+    "pubDate": "Thu, 02 Jul 2026 11:46:37 -0400",
+    "source": "The Block",
+    "category": "crypto",
+    "content": "Humanity Protocol founder Terence Kwok says the project is pivoting to enterprise AI after a $36 million exploit, with fund recovery odds low."
   },
   {
     "title": "Ondo tokenizes BlackRock’s IVV ETF and Micron stock under US custodial model",
@@ -560,44 +600,28 @@
     "content": "Erik Voorhees' crypto-AI startup Venice has raised $65 million in a Series A funding round at a $1 billion equity valuation, led by Dragonfly."
   },
   {
-    "title": "‘An honest, neutral counterpart:’ Bitmine, Sharplink and Joe Lubin back new Ethereum Institutional non-profit",
-    "link": "https://www.theblock.co/post/406920/neutral-counterpart-bitmine-sharplink-joe-lubin-back-ethereum-institutional-non-profit?utm_source=rss&utm_medium=rss",
-    "pubDate": "Wed, 01 Jul 2026 12:44:52 -0400",
-    "source": "The Block",
+    "title": "Wavespace Launches MiCA-Compliant Self-Custodial Bitcoin Debit Card Powered by Lightning and NWC",
+    "link": "https://bitcoinmagazine.com/business/wavespace-launches-mica-compliant-self-custodial-bitcoin-debit-card-powered-by-lightning-and-nwc",
+    "pubDate": "Thu, 02 Jul 2026 19:11:07 +0000",
+    "source": "Bitcoin Magazine",
     "category": "crypto",
-    "content": "Bitmine, Sharplink and Consensys CEO Joseph Lubin are backing another Ethereum-focused non-profit called the Ethereum Institutional."
+    "content": "Bitcoin Magazine\n\nWavespace Launches MiCA-Compliant Self-Custodial Bitcoin Debit Card Powered by Lightning and NWC\nWavespace, the Bitcoin-only neobank, has achieved MiCA compliance and launched its self-custodial wavecard® that uses Nostr Wallet Connect to automatically top up from users’ Lightning nodes, eliminating custodial preloading risks.\nThis post Wavespace Launches MiCA-Compliant Self-Custodial Bitcoin Debit Card Powered by Lightning and NWC first appeared on Bitcoin Magazine and is written by Juan Galt."
   },
   {
-    "title": "Forward Industries jumps 17% after expanding Solana treasury to 7.55 million SOL",
-    "link": "https://www.theblock.co/post/406903/forward-industries-stock-jumps-expanding-solana-treasury-7-55-million-sol?utm_source=rss&utm_medium=rss",
-    "pubDate": "Wed, 01 Jul 2026 11:53:25 -0400",
-    "source": "The Block",
+    "title": "Bitget Bolsters Stock+ Platform With U.S. Stock Options Trading",
+    "link": "https://bitcoinmagazine.com/news/bitget-bolsters-stock-options-trading",
+    "pubDate": "Thu, 02 Jul 2026 17:08:49 +0000",
+    "source": "Bitcoin Magazine",
     "category": "crypto",
-    "content": "Forward Industries holds more SOL than the next three largest publicly traded Solana treasury companies combined."
+    "content": "Bitcoin Magazine\n\nBitget Bolsters Stock+ Platform With U.S. Stock Options Trading\nBitget has expanded its Stock+ platform by launching U.S. stock options trading, adding long call and put options to its lineup as part of its push to combine crypto and traditional financial markets in a single trading platform.\nThis post Bitget Bolsters Stock+ Platform With U.S. Stock Options Trading first appeared on Bitcoin Magazine and is written by Micah Zimmerman."
   },
   {
-    "title": "Solana-based prediction market app on Phantom wallet launches",
-    "link": "https://www.theblock.co/post/406900/solana-based-prediction-market-app-on-phantom-wallet-launches?utm_source=rss&utm_medium=rss",
-    "pubDate": "Wed, 01 Jul 2026 11:34:21 -0400",
-    "source": "The Block",
+    "title": "FBI Director Kash Patel Did Not Disclose Six-Figure Strategy (MSTR) Stake: Report",
+    "link": "https://bitcoinmagazine.com/news/fbi-director-kash-patel-did-not-disclose",
+    "pubDate": "Thu, 02 Jul 2026 14:49:36 +0000",
+    "source": "Bitcoin Magazine",
     "category": "crypto",
-    "content": "“Prediction markets are one of the most powerful applications you can build on a high-performance blockchain,” said Solana Foundation."
-  },
-  {
-    "title": "‘We are bullish on Morpho’: Standard Chartered sees token at $60 by 2030, outperforming bitcoin and ether",
-    "link": "https://www.theblock.co/post/406888/bullish-on-morpho-standard-chartered-sees-token-at-60-by-2030-outperforming-bitcoin-ether?utm_source=rss&utm_medium=rss",
-    "pubDate": "Wed, 01 Jul 2026 09:25:39 -0400",
-    "source": "The Block",
-    "category": "crypto",
-    "content": "Standard Chartered forecasts Morpho at $60 by 2030, citing vault growth, TradFi adoption and a projected 37x DeFi expansion."
-  },
-  {
-    "title": "Panther Hollow launches multi-strategy merchant bank focused on compliant RWA and yield strategies",
-    "link": "https://www.theblock.co/post/406875/panther-hollow-launches-multi-strategy-merchant-bank-focused-on-compliant-rwa-and-yield-strategies?utm_source=rss&utm_medium=rss",
-    "pubDate": "Wed, 01 Jul 2026 09:18:25 -0400",
-    "source": "The Block",
-    "category": "crypto",
-    "content": "Panther is a hybrid merchant bank, fund complex, and incubator focused on Ethereum, Canton, Solana, and StarkNet."
+    "content": "Bitcoin Magazine\n\nFBI Director Kash Patel Did Not Disclose Six-Figure Strategy (MSTR) Stake: Report\nThe late disclosure of FBI Director Kash Patel's six-figure investment in Strategy has reignited some scrutiny over ethics compliance.\nThis post FBI Director Kash Patel Did Not Disclose Six-Figure Strategy (MSTR) Stake: Report first appeared on Bitcoin Magazine and is written by Micah Zimmerman."
   },
   {
     "title": "Metaplanet Adds 2,823 Bitcoin, Reaches 43,000 BTC and Becomes World’s Third-Largest Corporate Treasury",
@@ -656,28 +680,12 @@
     "content": "Bitcoin Magazine\n\nStandard Chartered and LMAX Group Execute First Live Digital Asset Prime Brokerage Trades\nStandard Chartered executed its first digital asset prime brokerage trades with LMAX Group, using its own balance sheet to intermediate institutional Bitcoin trades in a move that advances bank-backed crypto market infrastructure.\nThis post Standard Chartered and LMAX Group Execute First Live Digital Asset Prime Brokerage Trades first appeared on Bitcoin Magazine and is written by Micah Zimmerman."
   },
   {
-    "title": "Citi Slashes Bitcoin Target to $82,000 as ETF Money Heads for the Exits",
-    "link": "https://bitcoinmagazine.com/news/citi-slashes-bitcoin-target-to-82000",
-    "pubDate": "Wed, 01 Jul 2026 16:18:45 +0000",
-    "source": "Bitcoin Magazine",
-    "category": "crypto",
-    "content": "Bitcoin Magazine\n\nCiti Slashes Bitcoin Target to $82,000 as ETF Money Heads for the Exits\nCiti sharply lowered its 12-month Bitcoin price target to $82,000, citing collapsing ETF demand, weaker investor sentiment and delayed U.S. crypto legislation.\nThis post Citi Slashes Bitcoin Target to $82,000 as ETF Money Heads for the Exits first appeared on Bitcoin Magazine and is written by Micah Zimmerman."
-  },
-  {
-    "title": "Trump-Backed American Bitcoin (ABTC) Sets Reverse Split for July 2",
-    "link": "https://bitcoinmagazine.com/news/trump-backed-american-bitcoin-july-2",
-    "pubDate": "Wed, 01 Jul 2026 15:29:00 +0000",
-    "source": "Bitcoin Magazine",
-    "category": "crypto",
-    "content": "Bitcoin Magazine\n\nTrump-Backed American Bitcoin (ABTC) Sets Reverse Split for July 2\nAmerican Bitcoin (Nasdaq: ABTC) will implement a 1-for-15 reverse stock split effective July 2, reducing its outstanding shares to about 73 million ahead of reverse split-adjusted trading beginning July 6.\nThis post Trump-Backed American Bitcoin (ABTC) Sets Reverse Split for July 2 first appeared on Bitcoin Magazine and is written by Micah Zimmerman."
-  },
-  {
-    "title": "SEC’s Peirce Sees Clarity Act Passing This Summer as Crypto Rules Take Shape",
-    "link": "https://bitcoinmagazine.com/news/secs-peirce-sees-clarity-act-passing",
-    "pubDate": "Wed, 01 Jul 2026 14:56:51 +0000",
-    "source": "Bitcoin Magazine",
-    "category": "crypto",
-    "content": "Bitcoin Magazine\n\nSEC’s Peirce Sees Clarity Act Passing This Summer as Crypto Rules Take Shape\nSEC leaders Hester Peirce and Paul Atkins said the U.S. is moving toward clearer crypto rules and freer capital markets, with Peirce expecting the Clarity Act to pass this summer and Atkins reaffirming the Trump administration's push to make America the global crypto hub.\nThis post SEC’s Peirce Sees Clarity Act Passing This Summer as Crypto Rules Take Shape first appeared on Bitcoin Magazine and is written by Micah Zimmerman."
+    "title": "Achieving operational excellence with AI",
+    "link": "https://www.technologyreview.com/2026/07/02/1140045/achieving-operational-excellence-with-ai/",
+    "pubDate": "Thu, 02 Jul 2026 15:37:08 +0000",
+    "source": "MIT Technology Review",
+    "category": "ai",
+    "content": "Frameworks like Lean Six Sigma and business process management (BPM) first gained traction because they promised clarity in the chaos—a structured way to bring order to messy, sprawling operations. Lean Six Sigma emphasized statistical rigor and quality control; BPM created end-to-end maps of how work should flow across departments. Both offered a repeatable way to…"
   },
   {
     "title": "Teaching AI to run with the turbines",
@@ -752,12 +760,28 @@
     "content": "Artificial intelligence is transforming what is possible in agriculture, but industry leaders should be wary of investing in AI without first laying the groundwork.  The use cases are promising, especially for an industry navigating volatile fertilizer costs, unpredictable weather, and margins that leave little room for error. Research shows AI-enabled predictive models can improve crop…"
   },
   {
-    "title": "Building tech in the world’s secret R&D hub",
-    "link": "https://www.technologyreview.com/2026/06/30/1139661/building-tech-in-the-worlds-secret-rd-hub/",
-    "pubDate": "Tue, 30 Jun 2026 10:23:30 +0000",
-    "source": "MIT Technology Review",
+    "title": "Meta quietly launches vibe-coded gaming app Pocket",
+    "link": "https://techcrunch.com/2026/07/02/meta-quietly-launches-vibe-coded-gaming-app-pocket/",
+    "pubDate": "Thu, 02 Jul 2026 18:44:02 +0000",
+    "source": "TechCrunch AI",
     "category": "ai",
-    "content": "Apple. Anthropic. Disney Research. Google. Meta. Microsoft. NVIDIA. OpenAI. Few places outside Silicon Valley can claim R&D hubs from all of these companies. Fewer still are concentrated in a city of just over 400,000 people—roughly half the size of San Francisco. Over the past two decades, however, many of the world’s most influential technology companies…"
+    "content": "Meta has quietly launched Pocket, an experimental AI app that lets users generate and share interactive mini games using text prompts."
+  },
+  {
+    "title": "Anthropic is discussing a new custom chip with Samsung",
+    "link": "https://techcrunch.com/2026/07/02/anthropic-is-discussing-a-new-custom-chip-with-samsung/",
+    "pubDate": "Thu, 02 Jul 2026 18:31:09 +0000",
+    "source": "TechCrunch AI",
+    "category": "ai",
+    "content": "The news comes about a week after OpenAI announced its own custom AI chip in a partnership with Broadcom."
+  },
+  {
+    "title": "OpenAI proposed donating 5% of its equity to a US sovereign wealth fund",
+    "link": "https://techcrunch.com/2026/07/02/openai-proposed-donating-5-of-its-equity-to-a-us-sovereign-wealth-fund/",
+    "pubDate": "Thu, 02 Jul 2026 15:20:51 +0000",
+    "source": "TechCrunch AI",
+    "category": "ai",
+    "content": "OpenAI CEO Sam Altman has reportedly proposed giving 5% of the company’s equity to a U.S. sovereign wealth fund, reviving discussions about letting the public share in the financial gains from the AI boom."
   },
   {
     "title": "Microsoft launches its own AI deployment company with $2.5 billion commitment",
@@ -765,7 +789,7 @@
     "pubDate": "Thu, 02 Jul 2026 13:53:00 +0000",
     "source": "TechCrunch AI",
     "category": "ai",
-    "content": "Microsoft follows Amazon, OpenAI and Anthropic with its new AI deployment group."
+    "content": "Microsoft follows Amazon, OpenAI, and Anthropic with its new AI deployment group."
   },
   {
     "title": "Yep, we’re using OpenClaw to date now",
@@ -896,30 +920,6 @@
     "content": "Nvidia AI chip competitor Etched says it has already booked $1 billion under contract for the inference systems powered by its chip."
   },
   {
-    "title": "Anthropic launches Claude Sonnet 5 as a cheaper way to run agents",
-    "link": "https://techcrunch.com/2026/06/30/anthropic-launches-claude-sonnet-5-as-a-cheaper-way-to-run-agents/",
-    "pubDate": "Tue, 30 Jun 2026 18:00:00 +0000",
-    "source": "TechCrunch AI",
-    "category": "ai",
-    "content": "Anthropic’s Claude Sonnet 5 brings stronger agentic capabilities, lower pricing, and improved safety, positioning the model as a cheaper alternative to Opus, GPT-5.5, and Gemini Pro."
-  },
-  {
-    "title": "Acti puts AI agents directly into your smartphone keyboard",
-    "link": "https://techcrunch.com/2026/06/30/acti-puts-ai-agents-directly-into-your-smartphone-keyboard/",
-    "pubDate": "Tue, 30 Jun 2026 17:52:46 +0000",
-    "source": "TechCrunch AI",
-    "category": "ai",
-    "content": "Acti is betting the smartphone keyboard is the next home for AI assistants. The startup's new keyboard for iOS and Android works across apps and lets users create custom AI-powered shortcuts using natural language."
-  },
-  {
-    "title": "Anthropic’s Claude Science bets on workflow, not a new model, to win over scientists",
-    "link": "https://techcrunch.com/2026/06/30/anthropics-claude-science-bets-on-workflow-not-a-new-model-to-win-over-scientists/",
-    "pubDate": "Tue, 30 Jun 2026 17:00:00 +0000",
-    "source": "TechCrunch AI",
-    "category": "ai",
-    "content": "Anthropic's Claude Science is a workbench that gives scientists one environment to do computational research, saving them from the need to bounce between databases, pipelines, and tools."
-  },
-  {
     "title": "OpenAI floats giving Trump administration 5 percent cut of AI boom ",
     "link": "https://www.theverge.com/ai-artificial-intelligence/960588/openai-government-5-percent-stake-trump",
     "pubDate": "2026-07-02T10:23:27.000Z",
@@ -998,6 +998,22 @@
     "source": "The Verge AI",
     "category": "ai",
     "content": "A new proposal would ban the sale of Americans' health and location information to data brokers - including information people reveal to an AI chatbot like ChatGPT or Claude. \nIn the coming weeks, Senator Elizabeth Warren (D-MA) and Representative Mary Gay Scanlon (D-PA) are planning to debut a new version of the Health and Location Data Protection Act that's better suited to the AI era. The former version of the bill, first introduced in June 2022, prohibited data brokers from collecting and selling health and location data. Four years later, it's expanded to ban other companies from selling such data to brokers, and to specifically cover  …\nRead the full story at The Verge."
+  },
+  {
+    "title": "Trump gets OpenAI to offer US 5% stake, far lower than Sanders’ target",
+    "link": "https://arstechnica.com/tech-policy/2026/07/openai-floats-giving-us-5-stake-to-win-over-ai-haters/",
+    "pubDate": "Thu, 02 Jul 2026 15:12:25 +0000",
+    "source": "Ars Technica AI",
+    "category": "ai",
+    "content": "Insiders say Sam Altman is in active talks with the Trump administration."
+  },
+  {
+    "title": "Musk’s X poses “serious risk to Americans’ privacy,” advocates warn FTC",
+    "link": "https://arstechnica.com/tech-policy/2026/07/musks-x-poses-serious-risk-to-americans-privacy-advocates-warn-ftc/",
+    "pubDate": "Thu, 02 Jul 2026 14:39:17 +0000",
+    "source": "Ars Technica AI",
+    "category": "ai",
+    "content": "FTC urged to reject Elon Musk’s bid to end X monitoring amid AI concerns."
   },
   {
     "title": "Google’s AI buildout drove 37% increase in electricity use in 2025",
@@ -1142,21 +1158,5 @@
     "source": "Ars Technica AI",
     "category": "ai",
     "content": "The company warned about dangers of advanced AI far more than rival OpenAI."
-  },
-  {
-    "title": "As China looms, Taiwan makes more drones for defense and the US military",
-    "link": "https://arstechnica.com/ai/2026/06/as-china-looms-taiwan-makes-more-drones-for-defense-and-the-us-military/",
-    "pubDate": "Thu, 18 Jun 2026 21:21:26 +0000",
-    "source": "Ars Technica AI",
-    "category": "ai",
-    "content": "Taiwan's drone spending plans for defense could also boost business overseas."
-  },
-  {
-    "title": "Bernie Sanders unveils $7 trillion plan to give Americans control of AI industry",
-    "link": "https://arstechnica.com/tech-policy/2026/06/bernie-sanders-unveils-7-trillion-plan-to-give-americans-control-of-ai-industry/",
-    "pubDate": "Thu, 18 Jun 2026 17:02:49 +0000",
-    "source": "Ars Technica AI",
-    "category": "ai",
-    "content": "Biggest AI firms will likely recoil at Bernie Sanders' AI wealth fund."
   }
 ]
