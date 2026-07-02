@@ -223,15 +223,15 @@ export function Home({ articles }: { articles: Article[] }) {
     !loading && (active !== null || hasQuery) && filtered.length === 0
 
   function selectFilter(key: FilterKey) {
-    setActive((prev) => {
-      const next = prev === key ? null : key
-      if (next !== null) {
-        setLoading(true)
-        setTimeout(() => setLoading(false), 400)
-      }
-      return next
-    })
+    const next = active === key ? null : key
+    setActive(next)
     setShownCount(PAGE_SIZE)
+    if (next !== null) {
+      setLoading(true)
+      setTimeout(() => setLoading(false), 400)
+    } else {
+      setLoading(false)
+    }
   }
 
   return (
@@ -362,16 +362,8 @@ export function Home({ articles }: { articles: Article[] }) {
           </div>
         )}
 
-        <AnimatePresence mode="wait">
-          {(active !== null || hasQuery) && !loading && filtered.length > 0 && (
-          <motion.div
-            key={`${active ?? 'none'}-${trimmedQuery}`}
-            initial={{ opacity: 0 }}
-            animate={{ opacity: 1 }}
-            exit={{ opacity: 0 }}
-            transition={{ duration: 0.2, ease: 'easeOut' }}
-            className="grid gap-4"
-          >
+        {(active !== null || hasQuery) && !loading && filtered.length > 0 && (
+          <div key={`${active ?? 'none'}-${trimmedQuery}`} className="grid gap-4">
             {visible.map((article, i) => (
               <motion.div
                 key={article.link || article.title}
@@ -432,9 +424,8 @@ export function Home({ articles }: { articles: Article[] }) {
                 </Card>
               </motion.div>
             ))}
-          </motion.div>
-          )}
-        </AnimatePresence>
+          </div>
+        )}
 
         {hasMore && (
           <div className="mt-8 flex justify-center">
