@@ -114,7 +114,13 @@ export function Home({ articles }: { articles: Article[] }) {
         <Card className="relative w-full overflow-hidden border-transparent bg-transparent py-0">
           <Spotlight className="-top-40 left-0 md:-top-20 md:left-60" />
           <div className="relative z-10 flex flex-col items-center">
-            <div className="relative h-[420px] w-full">
+            <div
+              className="relative h-[420px] w-full"
+              style={{
+                maskImage: 'linear-gradient(to bottom, black 0%, black 55%, transparent 85%)',
+                WebkitMaskImage: 'linear-gradient(to bottom, black 0%, black 55%, transparent 85%)',
+              }}
+            >
               {/* Orange halo behind the robot */}
               <div className="robot-glow pointer-events-none absolute left-1/2 top-1/2 h-[360px] w-[360px] -translate-x-1/2 -translate-y-1/2" />
               {/* Ground shadow / pedestal */}
