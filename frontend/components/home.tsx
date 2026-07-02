@@ -310,8 +310,12 @@ export function Home({ articles }: { articles: Article[] }) {
           <h1 className="bg-gradient-to-b from-neutral-900 to-neutral-500 bg-clip-text text-4xl font-bold text-transparent dark:from-neutral-50 dark:to-neutral-400 md:text-6xl">
             <RotatingWord /> News
           </h1>
-          <p className="mx-auto mt-4 max-w-lg text-neutral-600 dark:text-neutral-300">
-            The most important AI and crypto news
+          <p className="mx-auto mt-4 max-w-lg text-neutral-300">
+            Signal over noise — the AI and crypto stories that actually matter,
+            ranked and summarized for you.
+          </p>
+          <p className="mx-auto mt-3 text-xs uppercase tracking-widest text-neutral-500">
+            Move your mouse to explore ↔
           </p>
         </div>
       </section>
