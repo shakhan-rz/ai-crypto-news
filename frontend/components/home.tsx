@@ -238,7 +238,7 @@ export function Home({ articles }: { articles: Article[] }) {
     <>
       {/* Hero */}
       <section className="mx-auto max-w-6xl px-4 py-8">
-        <Card className="relative w-full overflow-hidden border-transparent bg-transparent py-0">
+        <Card className="relative w-full overflow-hidden rounded-3xl border-transparent bg-neutral-950 py-0 ring-1 ring-neutral-200 dark:bg-transparent dark:ring-0">
           <Spotlight className="-top-40 left-0 md:-top-20 md:left-60" />
           <div className="relative z-10 flex flex-col items-center">
             <div
@@ -275,10 +275,10 @@ export function Home({ articles }: { articles: Article[] }) {
               )}
             </div>
             <div className="flex flex-col items-center px-8 pb-12 text-center">
-              <h1 className="bg-gradient-to-b from-neutral-900 to-neutral-500 bg-clip-text text-4xl font-bold text-transparent md:text-6xl dark:from-neutral-50 dark:to-neutral-400">
+              <h1 className="bg-gradient-to-b from-neutral-50 to-neutral-400 bg-clip-text text-4xl font-bold text-transparent md:text-6xl">
                 AI + Crypto News
               </h1>
-              <p className="mt-4 max-w-lg text-neutral-600 dark:text-neutral-300">
+              <p className="mt-4 max-w-lg text-neutral-300">
                 The most important AI and crypto news
               </p>
             </div>
