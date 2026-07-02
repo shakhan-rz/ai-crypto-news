@@ -44,10 +44,12 @@ export function ShaderBackground({ className = '' }: { className?: string }) {
   const canvasRef = useRef<HTMLCanvasElement>(null)
 
   useEffect(() => {
-    const canvas = canvasRef.current
+    const canvas: HTMLCanvasElement | null = canvasRef.current
     if (!canvas) return
-    const gl = canvas.getContext('webgl2')
-    if (!gl) return
+    const cvs: HTMLCanvasElement = canvas
+    const context = cvs.getContext('webgl2')
+    if (!context) return
+    const gl: WebGL2RenderingContext = context
 
     const vs = gl.createShader(gl.VERTEX_SHADER)!
     gl.shaderSource(vs, vertexSrc)
@@ -77,16 +79,16 @@ export function ShaderBackground({ className = '' }: { className?: string }) {
 
     const dpr = Math.max(1, 0.5 * window.devicePixelRatio)
     function resize() {
-      canvas.width = Math.floor(window.innerWidth * dpr)
-      canvas.height = Math.floor(window.innerHeight * dpr)
-      gl.viewport(0, 0, canvas.width, canvas.height)
+      cvs.width = Math.floor(window.innerWidth * dpr)
+      cvs.height = Math.floor(window.innerHeight * dpr)
+      gl.viewport(0, 0, cvs.width, cvs.height)
     }
     resize()
     window.addEventListener('resize', resize)
 
     function draw(now: number) {
       gl.useProgram(program)
-      gl.uniform2f(uRes, canvas.width, canvas.height)
+      gl.uniform2f(uRes, cvs.width, cvs.height)
       gl.uniform1f(uTime, now * 1e-3)
       gl.drawArrays(gl.TRIANGLE_STRIP, 0, 4)
     }
