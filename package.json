@@ -1,0 +1,21 @@
+{
+  "name": "frist-site",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "fetch": "node src/fetchFeeds.js",
+    "process": "node src/processArticles.js",
+    "pipeline": "node src/fetchFeeds.js && node src/processArticles.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "@google/generative-ai": "^0.24.1",
+    "dotenv": "^17.4.2",
+    "openai": "^6.45.0",
+    "rss-parser": "^3.13.0"
+  }
+}
