@@ -2,7 +2,7 @@
 
 import { useEffect, useMemo, useState } from 'react'
 import { AnimatePresence, motion } from 'framer-motion'
-import { Bookmark, Check, Search, Share2, X } from 'lucide-react'
+import { Check, Search, Share2, X } from 'lucide-react'
 import { Card, CardContent, CardHeader, CardTitle } from '@/components/ui/card'
 import { Badge } from '@/components/ui/badge'
 import { Skeleton } from '@/components/ui/skeleton'
@@ -22,9 +22,7 @@ export type Article = {
   image?: string
 }
 
-type FilterKey = 'all' | 'ai' | 'crypto' | 'saved'
-
-const STORAGE_KEY = 'saved-articles'
+type FilterKey = 'all' | 'ai' | 'crypto'
 
 const PAGE_SIZE = 5
 
@@ -54,64 +52,6 @@ function timeAgo(pubDate: string): string | null {
   if (months < 12) return `${months}mo ago`
 
   return `${Math.round(months / 12)}y ago`
-}
-
-// Saved articles live in localStorage keyed by link. The hook keeps a Set in
-// state and mirrors every change back to storage so bookmarks survive reloads.
-function useBookmarks() {
-  const [saved, setSaved] = useState<Set<string>>(new Set())
-
-  useEffect(() => {
-    try {
-      const raw = localStorage.getItem(STORAGE_KEY)
-      if (raw) setSaved(new Set(JSON.parse(raw) as string[]))
-    } catch {
-      // corrupt/unavailable storage — start empty
-    }
-  }, [])
-
-  function toggle(link: string) {
-    setSaved((prev) => {
-      const next = new Set(prev)
-      if (next.has(link)) next.delete(link)
-      else next.add(link)
-      try {
-        localStorage.setItem(STORAGE_KEY, JSON.stringify([...next]))
-      } catch {
-        // ignore write failures (private mode, quota)
-      }
-      return next
-    })
-  }
-
-  return { saved, toggle }
-}
-
-function BookmarkButton({
-  isSaved,
-  onToggle,
-}: {
-  isSaved: boolean
-  onToggle: () => void
-}) {
-  return (
-    <button
-      onClick={(e) => {
-        e.preventDefault()
-        e.stopPropagation()
-        onToggle()
-      }}
-      aria-label={isSaved ? 'Remove bookmark' : 'Save article'}
-      className={cn(
-        'relative z-10 flex h-8 w-8 shrink-0 items-center justify-center rounded-full transition-colors',
-        isSaved
-          ? 'text-orange-500 hover:bg-orange-500/10'
-          : 'text-neutral-400 hover:bg-neutral-200 hover:text-neutral-700 dark:hover:bg-neutral-800 dark:hover:text-neutral-100'
-      )}
-    >
-      <Bookmark className={cn('h-4 w-4', isSaved && 'fill-current')} />
-    </button>
-  )
 }
 
 // Remote RSS thumbnails are unreliable — hide the whole block if the image 404s
@@ -289,7 +229,6 @@ export function Home({ articles }: { articles: Article[] }) {
   const [query, setQuery] = useState('')
   const [shownCount, setShownCount] = useState(PAGE_SIZE)
   const [loading, setLoading] = useState(false)
-  const { saved, toggle } = useBookmarks()
 
   const trimmedQuery = query.trim().toLowerCase()
   const hasQuery = trimmedQuery.length > 0
@@ -299,9 +238,8 @@ export function Home({ articles }: { articles: Article[] }) {
       all: articles.length,
       ai: articles.filter((a) => a.category === 'ai').length,
       crypto: articles.filter((a) => a.category === 'crypto').length,
-      saved: saved.size,
     }),
-    [articles, saved]
+    [articles]
   )
 
   const filtered = useMemo(() => {
@@ -313,9 +251,7 @@ export function Home({ articles }: { articles: Article[] }) {
           : []
         : active === 'all'
           ? articles
-          : active === 'saved'
-            ? articles.filter((a) => saved.has(a.link))
-            : articles.filter((a) => a.category === active)
+          : articles.filter((a) => a.category === active)
 
     if (!hasQuery) return base
 
@@ -324,7 +260,7 @@ export function Home({ articles }: { articles: Article[] }) {
         a.title.toLowerCase().includes(trimmedQuery) ||
         a.summary.toLowerCase().includes(trimmedQuery)
     )
-  }, [articles, active, hasQuery, trimmedQuery, saved])
+  }, [articles, active, hasQuery, trimmedQuery])
 
   const visible = filtered.slice(0, shownCount)
   const hasMore = shownCount < filtered.length
@@ -412,12 +348,6 @@ export function Home({ articles }: { articles: Article[] }) {
             isActive={active === 'crypto'}
             onClick={() => selectFilter('crypto')}
           />
-          <FilterButton
-            label="Saved"
-            count={counts.saved}
-            isActive={active === 'saved'}
-            onClick={() => selectFilter('saved')}
-          />
         </div>
 
         {active === null && !hasQuery && (
@@ -428,9 +358,7 @@ export function Home({ articles }: { articles: Article[] }) {
 
         {showEmptyState && (
           <p className="text-center text-sm text-neutral-500">
-            {active === 'saved' && !hasQuery
-              ? 'No saved articles yet — tap the bookmark icon on any story.'
-              : `No news found${hasQuery ? ` for “${query.trim()}”` : ''}.`}
+            No news found{hasQuery ? ` for “${query.trim()}”` : ''}.
           </p>
         )}
 
@@ -482,10 +410,6 @@ export function Home({ articles }: { articles: Article[] }) {
                         </span>
                         <span className="text-neutral-400 dark:text-neutral-600">/10</span>
                       </span>
-                      <BookmarkButton
-                        isSaved={saved.has(article.link)}
-                        onToggle={() => toggle(article.link)}
-                      />
                       <ShareButton article={article} />
                     </div>
                     <CardTitle className="mt-2 text-base leading-snug text-neutral-900 transition-colors group-hover:text-black dark:text-neutral-100 dark:group-hover:text-white">
