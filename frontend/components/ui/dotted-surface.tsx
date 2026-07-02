@@ -22,9 +22,10 @@ export function DottedSurface({ className, ...props }: DottedSurfaceProps) {
 	useEffect(() => {
 		if (!containerRef.current) return
 
+		const isMobile = window.innerWidth < 768
 		const SEPARATION = 150
-		const AMOUNTX = 40
-		const AMOUNTY = 60
+		const AMOUNTX = isMobile ? 20 : 40
+		const AMOUNTY = isMobile ? 30 : 60
 
 		// Scene setup
 		const scene = new THREE.Scene()

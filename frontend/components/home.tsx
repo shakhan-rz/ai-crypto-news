@@ -1,6 +1,6 @@
 'use client'
 
-import { useMemo, useState } from 'react'
+import { useEffect, useMemo, useState } from 'react'
 import { AnimatePresence, motion } from 'framer-motion'
 import { Card, CardContent, CardHeader, CardTitle } from '@/components/ui/card'
 import { Badge } from '@/components/ui/badge'
@@ -61,9 +61,24 @@ function FilterButton({
   )
 }
 
+function useIsMobile() {
+  const [isMobile, setIsMobile] = useState(false)
+
+  useEffect(() => {
+    const query = window.matchMedia('(max-width: 767px)')
+    setIsMobile(query.matches)
+    const handler = (e: MediaQueryListEvent) => setIsMobile(e.matches)
+    query.addEventListener('change', handler)
+    return () => query.removeEventListener('change', handler)
+  }, [])
+
+  return isMobile
+}
+
 export function Home({ articles }: { articles: Article[] }) {
   const [active, setActive] = useState<FilterKey | null>(null)
   const [shownCount, setShownCount] = useState(PAGE_SIZE)
+  const isMobile = useIsMobile()
 
   const counts = useMemo(
     () => ({
@@ -106,16 +121,25 @@ export function Home({ articles }: { articles: Article[] }) {
               <div className="robot-shadow pointer-events-none absolute bottom-8 left-1/2 h-10 w-64 -translate-x-1/2" />
               {/* Robot with a gentle floating motion.
                   The contrast/brightness filter tones down the harsh white
-                  specular glare on the robot's glossy face. */}
-              <div
-                className="robot-float relative h-full w-full"
-                style={{ filter: 'contrast(0.9) brightness(0.95)' }}
-              >
-                <SplineScene
-                  scene="https://prod.spline.design/kZDDjO5HuC9GJUM2/scene.splinecode"
-                  className="h-full w-full"
-                />
-              </div>
+                  specular glare on the robot's glossy face.
+                  Skipped on mobile: the Spline WebGL scene (~2MB + its own
+                  GPU context) is too heavy for phones, so we show a static
+                  glow instead of stalling the page. */}
+              {isMobile ? (
+                <div className="robot-float flex h-full w-full items-center justify-center">
+                  <div className="h-40 w-40 rounded-full bg-gradient-to-br from-orange-400/40 to-orange-600/10 blur-2xl" />
+                </div>
+              ) : (
+                <div
+                  className="robot-float relative h-full w-full"
+                  style={{ filter: 'contrast(0.9) brightness(0.95)' }}
+                >
+                  <SplineScene
+                    scene="https://prod.spline.design/kZDDjO5HuC9GJUM2/scene.splinecode"
+                    className="h-full w-full"
+                  />
+                </div>
+              )}
             </div>
             <div className="flex flex-col items-center px-8 pb-12 text-center">
               <h1 className="bg-gradient-to-b from-neutral-50 to-neutral-400 bg-clip-text text-4xl font-bold text-transparent md:text-6xl">
