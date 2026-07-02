@@ -143,3 +143,48 @@
     transform: rotate(360deg);
   }
 }
+
+/* Robot mascot — gentle bob and a soft breathing halo */
+.robot-mascot-float {
+  animation: robot-mascot-float 6s ease-in-out infinite;
+}
+
+@keyframes robot-mascot-float {
+  0%,
+  100% {
+    transform: translateY(0);
+  }
+  50% {
+    transform: translateY(-12px);
+  }
+}
+
+.robot-mascot-glow {
+  background: radial-gradient(
+    closest-side,
+    rgba(251, 146, 60, 0.35),
+    rgba(251, 146, 60, 0.1) 55%,
+    transparent 75%
+  );
+  filter: blur(36px);
+  animation: robot-mascot-glow 5s ease-in-out infinite;
+}
+
+@keyframes robot-mascot-glow {
+  0%,
+  100% {
+    opacity: 0.7;
+    scale: 1;
+  }
+  50% {
+    opacity: 1;
+    scale: 1.1;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .robot-mascot-float,
+  .robot-mascot-glow {
+    animation: none;
+  }
+}
