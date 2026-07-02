@@ -120,13 +120,20 @@ function ArticleImage({ src, alt }: { src: string; alt: string }) {
   const [failed, setFailed] = useState(false)
   if (failed) return null
   return (
-    <div className="relative aspect-[16/9] w-full overflow-hidden bg-neutral-100 dark:bg-neutral-900">
+    <div className="relative h-44 w-full overflow-hidden bg-neutral-100 sm:h-52 dark:bg-neutral-900">
       {/* eslint-disable-next-line @next/next/no-img-element */}
       <img
         src={src}
         alt={alt}
         loading="lazy"
+        referrerPolicy="no-referrer"
         onError={() => setFailed(true)}
+        onLoad={(e) => {
+          // Some feeds ship 1x1 tracking pixels or tiny placeholders — treat
+          // those as "no image" rather than showing an empty stretched box.
+          const img = e.currentTarget
+          if (img.naturalWidth < 200 || img.naturalHeight < 120) setFailed(true)
+        }}
         className="h-full w-full object-cover transition-transform duration-300 group-hover:scale-105"
       />
     </div>
@@ -255,8 +262,12 @@ function RotatingWord() {
     return () => clearInterval(id)
   }, [])
 
+  // The animated span carries its own gradient+clip. It can't inherit the
+  // parent <h1>'s background-clip:text because framer-motion adds a transform,
+  // which breaks background-clip across the transformed layer (text goes
+  // invisible). Giving the span its own clipped gradient fixes that.
   return (
-    <span className="relative inline-flex overflow-hidden align-bottom">
+    <span className="relative inline-flex overflow-hidden pb-1 align-bottom">
       <AnimatePresence mode="wait" initial={false}>
         <motion.span
           key={ROTATING_WORDS[i]}
@@ -264,7 +275,7 @@ function RotatingWord() {
           animate={{ y: 0, opacity: 1 }}
           exit={{ y: '-100%', opacity: 0 }}
           transition={{ duration: 0.4, ease: 'easeOut' }}
-          className="inline-block"
+          className="inline-block bg-gradient-to-b from-orange-300 to-orange-600 bg-clip-text text-transparent"
         >
           {ROTATING_WORDS[i]}
         </motion.span>
