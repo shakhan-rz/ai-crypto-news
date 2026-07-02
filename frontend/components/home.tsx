@@ -221,14 +221,16 @@ export function Home({ articles }: { articles: Article[] }) {
   return (
     <>
       {/* Hero */}
-      <section className="mx-auto max-w-6xl px-4 pt-10 pb-8 text-center">
+      <section className="mx-auto flex max-w-6xl flex-col items-center gap-6 px-4 pt-16 pb-10 md:flex-row md:justify-between md:gap-8">
+        <div className="text-center md:text-left">
+          <h1 className="bg-gradient-to-b from-neutral-900 to-neutral-500 bg-clip-text text-4xl font-bold text-transparent dark:from-neutral-50 dark:to-neutral-400 md:text-6xl">
+            AI + Crypto News
+          </h1>
+          <p className="mx-auto mt-4 max-w-lg text-neutral-600 dark:text-neutral-300 md:mx-0">
+            The most important AI and crypto news
+          </p>
+        </div>
         <HeroScene />
-        <h1 className="mt-2 bg-gradient-to-b from-neutral-900 to-neutral-500 bg-clip-text text-4xl font-bold text-transparent dark:from-neutral-50 dark:to-neutral-400 md:text-6xl">
-          AI + Crypto News
-        </h1>
-        <p className="mx-auto mt-4 max-w-lg text-neutral-600 dark:text-neutral-300">
-          The most important AI and crypto news
-        </p>
       </section>
 
       {/* News feed */}
