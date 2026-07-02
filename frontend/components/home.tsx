@@ -120,7 +120,7 @@ function ArticleImage({ src, alt }: { src: string; alt: string }) {
   const [failed, setFailed] = useState(false)
   if (failed) return null
   return (
-    <div className="relative h-44 w-full overflow-hidden bg-neutral-100 sm:h-52 dark:bg-neutral-900">
+    <div className="relative w-full shrink-0 overflow-hidden bg-neutral-100 sm:w-64 sm:self-stretch dark:bg-neutral-900">
       {/* eslint-disable-next-line @next/next/no-img-element */}
       <img
         src={src}
@@ -134,7 +134,7 @@ function ArticleImage({ src, alt }: { src: string; alt: string }) {
           const img = e.currentTarget
           if (img.naturalWidth < 200 || img.naturalHeight < 120) setFailed(true)
         }}
-        className="h-full w-full object-cover transition-transform duration-300 group-hover:scale-105"
+        className="h-44 w-full object-cover transition-transform duration-300 group-hover:scale-105 sm:h-full"
       />
     </div>
   )
@@ -455,10 +455,8 @@ export function Home({ articles }: { articles: Article[] }) {
                   ease: 'easeOut',
                 }}
               >
-                <Card className="group relative overflow-hidden rounded-xl border-neutral-200 bg-white transition-all duration-200 hover:-translate-y-0.5 hover:border-neutral-300 hover:shadow-lg hover:shadow-neutral-300/50 dark:border-neutral-800/80 dark:bg-gradient-to-b dark:from-neutral-900 dark:to-neutral-950 dark:hover:border-neutral-700 dark:hover:shadow-black/40">
-                  {article.image && (
-                    <ArticleImage src={article.image} alt={article.title} />
-                  )}
+                <Card className="group relative flex flex-col overflow-hidden rounded-xl border-neutral-200 bg-white transition-all duration-200 hover:-translate-y-0.5 hover:border-neutral-300 hover:shadow-lg hover:shadow-neutral-300/50 sm:flex-row dark:border-neutral-800/80 dark:bg-gradient-to-b dark:from-neutral-900 dark:to-neutral-950 dark:hover:border-neutral-700 dark:hover:shadow-black/40">
+                  <div className="flex min-w-0 flex-1 flex-col">
                   <CardHeader className="pb-3">
                     <div className="flex items-center gap-2">
                       <Badge
@@ -507,6 +505,10 @@ export function Home({ articles }: { articles: Article[] }) {
                         {article.summary}
                       </p>
                     </CardContent>
+                  )}
+                  </div>
+                  {article.image && (
+                    <ArticleImage src={article.image} alt={article.title} />
                   )}
                 </Card>
               </motion.div>
