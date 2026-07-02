@@ -1,8 +1,8 @@
 'use client'
 
-import { useMemo, useState } from 'react'
+import { useEffect, useMemo, useState } from 'react'
 import { AnimatePresence, motion } from 'framer-motion'
-import { Check, Search, Share2, X } from 'lucide-react'
+import { Bookmark, Check, Search, Share2, X } from 'lucide-react'
 import { Card, CardContent, CardHeader, CardTitle } from '@/components/ui/card'
 import { Badge } from '@/components/ui/badge'
 import { Skeleton } from '@/components/ui/skeleton'
@@ -19,9 +19,12 @@ export type Article = {
   content: string
   summary: string
   importance: number
+  image?: string
 }
 
-type FilterKey = 'all' | 'ai' | 'crypto'
+type FilterKey = 'all' | 'ai' | 'crypto' | 'saved'
+
+const STORAGE_KEY = 'saved-articles'
 
 const PAGE_SIZE = 5
 
@@ -51,6 +54,83 @@ function timeAgo(pubDate: string): string | null {
   if (months < 12) return `${months}mo ago`
 
   return `${Math.round(months / 12)}y ago`
+}
+
+// Saved articles live in localStorage keyed by link. The hook keeps a Set in
+// state and mirrors every change back to storage so bookmarks survive reloads.
+function useBookmarks() {
+  const [saved, setSaved] = useState<Set<string>>(new Set())
+
+  useEffect(() => {
+    try {
+      const raw = localStorage.getItem(STORAGE_KEY)
+      if (raw) setSaved(new Set(JSON.parse(raw) as string[]))
+    } catch {
+      // corrupt/unavailable storage — start empty
+    }
+  }, [])
+
+  function toggle(link: string) {
+    setSaved((prev) => {
+      const next = new Set(prev)
+      if (next.has(link)) next.delete(link)
+      else next.add(link)
+      try {
+        localStorage.setItem(STORAGE_KEY, JSON.stringify([...next]))
+      } catch {
+        // ignore write failures (private mode, quota)
+      }
+      return next
+    })
+  }
+
+  return { saved, toggle }
+}
+
+function BookmarkButton({
+  isSaved,
+  onToggle,
+}: {
+  isSaved: boolean
+  onToggle: () => void
+}) {
+  return (
+    <button
+      onClick={(e) => {
+        e.preventDefault()
+        e.stopPropagation()
+        onToggle()
+      }}
+      aria-label={isSaved ? 'Remove bookmark' : 'Save article'}
+      className={cn(
+        'relative z-10 flex h-8 w-8 shrink-0 items-center justify-center rounded-full transition-colors',
+        isSaved
+          ? 'text-orange-500 hover:bg-orange-500/10'
+          : 'text-neutral-400 hover:bg-neutral-200 hover:text-neutral-700 dark:hover:bg-neutral-800 dark:hover:text-neutral-100'
+      )}
+    >
+      <Bookmark className={cn('h-4 w-4', isSaved && 'fill-current')} />
+    </button>
+  )
+}
+
+// Remote RSS thumbnails are unreliable — hide the whole block if the image 404s
+// or the feed didn't provide one.
+function ArticleImage({ src, alt }: { src: string; alt: string }) {
+  const [failed, setFailed] = useState(false)
+  if (failed) return null
+  return (
+    <div className="relative aspect-[16/9] w-full overflow-hidden bg-neutral-100 dark:bg-neutral-900">
+      {/* eslint-disable-next-line @next/next/no-img-element */}
+      <img
+        src={src}
+        alt={alt}
+        loading="lazy"
+        onError={() => setFailed(true)}
+        className="h-full w-full object-cover transition-transform duration-300 group-hover:scale-105"
+      />
+    </div>
+  )
 }
 
 function ShareButton({ article }: { article: Article }) {
@@ -163,11 +243,42 @@ function FilterButton({
   )
 }
 
+// Cycles through the topics we cover so the headline feels alive without being
+// distracting. The gradient/clip styling comes from the parent <h1>.
+const ROTATING_WORDS = ['AI + Crypto', 'Bitcoin', 'Ethereum', 'AI Agents', 'Web3']
+
+function RotatingWord() {
+  const [i, setI] = useState(0)
+
+  useEffect(() => {
+    const id = setInterval(() => setI((n) => (n + 1) % ROTATING_WORDS.length), 2200)
+    return () => clearInterval(id)
+  }, [])
+
+  return (
+    <span className="relative inline-flex overflow-hidden align-bottom">
+      <AnimatePresence mode="wait" initial={false}>
+        <motion.span
+          key={ROTATING_WORDS[i]}
+          initial={{ y: '100%', opacity: 0 }}
+          animate={{ y: 0, opacity: 1 }}
+          exit={{ y: '-100%', opacity: 0 }}
+          transition={{ duration: 0.4, ease: 'easeOut' }}
+          className="inline-block"
+        >
+          {ROTATING_WORDS[i]}
+        </motion.span>
+      </AnimatePresence>
+    </span>
+  )
+}
+
 export function Home({ articles }: { articles: Article[] }) {
   const [active, setActive] = useState<FilterKey | null>(null)
   const [query, setQuery] = useState('')
   const [shownCount, setShownCount] = useState(PAGE_SIZE)
   const [loading, setLoading] = useState(false)
+  const { saved, toggle } = useBookmarks()
 
   const trimmedQuery = query.trim().toLowerCase()
   const hasQuery = trimmedQuery.length > 0
@@ -177,8 +288,9 @@ export function Home({ articles }: { articles: Article[] }) {
       all: articles.length,
       ai: articles.filter((a) => a.category === 'ai').length,
       crypto: articles.filter((a) => a.category === 'crypto').length,
+      saved: saved.size,
     }),
-    [articles]
+    [articles, saved]
   )
 
   const filtered = useMemo(() => {
@@ -190,7 +302,9 @@ export function Home({ articles }: { articles: Article[] }) {
           : []
         : active === 'all'
           ? articles
-          : articles.filter((a) => a.category === active)
+          : active === 'saved'
+            ? articles.filter((a) => saved.has(a.link))
+            : articles.filter((a) => a.category === active)
 
     if (!hasQuery) return base
 
@@ -199,7 +313,7 @@ export function Home({ articles }: { articles: Article[] }) {
         a.title.toLowerCase().includes(trimmedQuery) ||
         a.summary.toLowerCase().includes(trimmedQuery)
     )
-  }, [articles, active, hasQuery, trimmedQuery])
+  }, [articles, active, hasQuery, trimmedQuery, saved])
 
   const visible = filtered.slice(0, shownCount)
   const hasMore = shownCount < filtered.length
@@ -224,7 +338,7 @@ export function Home({ articles }: { articles: Article[] }) {
       <section className="mx-auto flex max-w-6xl flex-col items-center gap-6 px-4 pt-16 pb-10 md:flex-row md:justify-between md:gap-8">
         <div className="text-center md:text-left">
           <h1 className="bg-gradient-to-b from-neutral-900 to-neutral-500 bg-clip-text text-4xl font-bold text-transparent dark:from-neutral-50 dark:to-neutral-400 md:text-6xl">
-            AI + Crypto News
+            <RotatingWord /> News
           </h1>
           <p className="mx-auto mt-4 max-w-lg text-neutral-600 dark:text-neutral-300 md:mx-0">
             The most important AI and crypto news
@@ -287,6 +401,12 @@ export function Home({ articles }: { articles: Article[] }) {
             isActive={active === 'crypto'}
             onClick={() => selectFilter('crypto')}
           />
+          <FilterButton
+            label="Saved"
+            count={counts.saved}
+            isActive={active === 'saved'}
+            onClick={() => selectFilter('saved')}
+          />
         </div>
 
         {active === null && !hasQuery && (
@@ -297,7 +417,9 @@ export function Home({ articles }: { articles: Article[] }) {
 
         {showEmptyState && (
           <p className="text-center text-sm text-neutral-500">
-            No news found{hasQuery ? ` for “${query.trim()}”` : ''}.
+            {active === 'saved' && !hasQuery
+              ? 'No saved articles yet — tap the bookmark icon on any story.'
+              : `No news found${hasQuery ? ` for “${query.trim()}”` : ''}.`}
           </p>
         )}
 
@@ -323,6 +445,9 @@ export function Home({ articles }: { articles: Article[] }) {
                 }}
               >
                 <Card className="group relative overflow-hidden rounded-xl border-neutral-200 bg-white transition-all duration-200 hover:-translate-y-0.5 hover:border-neutral-300 hover:shadow-lg hover:shadow-neutral-300/50 dark:border-neutral-800/80 dark:bg-gradient-to-b dark:from-neutral-900 dark:to-neutral-950 dark:hover:border-neutral-700 dark:hover:shadow-black/40">
+                  {article.image && (
+                    <ArticleImage src={article.image} alt={article.title} />
+                  )}
                   <CardHeader className="pb-3">
                     <div className="flex items-center gap-2">
                       <Badge
@@ -348,6 +473,10 @@ export function Home({ articles }: { articles: Article[] }) {
                         </span>
                         <span className="text-neutral-400 dark:text-neutral-600">/10</span>
                       </span>
+                      <BookmarkButton
+                        isSaved={saved.has(article.link)}
+                        onToggle={() => toggle(article.link)}
+                      />
                       <ShareButton article={article} />
                     </div>
                     <CardTitle className="mt-2 text-base leading-snug text-neutral-900 transition-colors group-hover:text-black dark:text-neutral-100 dark:group-hover:text-white">
