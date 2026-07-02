@@ -1,56 +1,56 @@
 # AI + Crypto News
 
-RSS خبرها را از منابع AI و کریپتو جمع می‌کند، با هوش مصنوعی خلاصه و امتیازدهی می‌کند،
-و در یک فرانت‌اند Next.js با یک ربات سه‌بعدی Spline و بخش خبری فیلترشونده نمایش می‌دهد.
+Collects RSS news from AI and crypto sources, summarizes and scores them with AI,
+and displays them in a Next.js frontend with a 3D Spline robot and a filterable news feed.
 
-## ساختار پروژه
+## Project Structure
 
 ```
 .
-├── config/feeds.json          # لیست ۸ منبع RSS (AI / crypto)
-├── src/fetchFeeds.js          # خواندن فیدها -> data/raw-articles.json
-├── src/processArticles.js     # خلاصه + امتیاز با AI -> data/processed-articles.json
-├── data/                      # خروجی دیتا (فرانت از processed-articles.json می‌خواند)
-└── frontend/                  # اپ Next.js (App Router + Tailwind + shadcn)
+├── config/feeds.json          # List of 8 RSS sources (AI / crypto)
+├── src/fetchFeeds.js          # Reads feeds -> data/raw-articles.json
+├── src/processArticles.js     # Summarizes + scores with AI -> data/processed-articles.json
+├── data/                      # Output data (frontend reads from processed-articles.json)
+└── frontend/                  # Next.js app (App Router + Tailwind + shadcn)
 ```
 
-## پیش‌نیازها
+## Requirements
 
-- Node.js 20 یا بالاتر
-- کلید API حداقل یکی از سه ارائه‌دهنده: Gemini، Groq، OpenRouter
+- Node.js 20 or later
+- API key for at least one provider: Gemini, Groq, or OpenRouter
 
-## راه‌اندازی
+## Setup
 
-۱. نصب پکیج‌ها (هم ریشه، هم فرانت‌اند):
+1. Install packages (both root and frontend):
 
 ```bash
 npm install
 cd frontend && npm install && cd ..
 ```
 
-۲. ساخت فایل `.env` از روی نمونه و گذاشتن کلیدها:
+2. Create a `.env` file from the example and add your keys:
 
 ```bash
-cp .env.example .env      # روی ویندوز: copy .env.example .env
+cp .env.example .env      # on Windows: copy .env.example .env
 ```
 
-## اجرای پایپلاین دیتا
+## Running the Data Pipeline
 
 ```bash
-npm run fetch      # فیدها را می‌گیرد -> data/raw-articles.json
-npm run process    # خلاصه و امتیاز می‌دهد -> data/processed-articles.json
-# یا هر دو با هم:
+npm run fetch      # fetches feeds -> data/raw-articles.json
+npm run process    # summarizes and scores -> data/processed-articles.json
+# or run both together:
 npm run pipeline
 ```
 
-> اگر فقط می‌خواهی فرانت را ببینی، `data/processed-articles.json` از قبل توی ریپو هست
-> و لازم نیست پایپلاین را اجرا کنی.
+> If you only want to view the frontend, `data/processed-articles.json` is already
+> included in the repo, so you don't need to run the pipeline.
 
-## اجرای فرانت‌اند
+## Running the Frontend
 
 ```bash
 cd frontend
 npm run dev        # http://localhost:3000
 ```
 
-فرانت‌اند فایل `../data/processed-articles.json` را می‌خواند، پس این فایل باید موجود باشد.
+The frontend reads `../data/processed-articles.json`, so this file must exist.
