@@ -4,7 +4,12 @@ const Parser = require('rss-parser');
 
 const feeds = require('../config/feeds.json');
 
-const parser = new Parser();
+const parser = new Parser({
+  headers: {
+    'User-Agent':
+      'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36',
+  },
+});
 
 const DATA_DIR = path.join(__dirname, '..', 'data');
 const OUTPUT_FILE = path.join(DATA_DIR, 'raw-articles.json');

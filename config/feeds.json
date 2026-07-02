@@ -1,10 +1,10 @@
 [
   { "name": "CoinDesk", "category": "crypto", "url": "https://www.coindesk.com/arc/outboundfeeds/rss/" },
-  { "name": "Decrypt", "category": "crypto", "url": "https://decrypt.co/feed" },
   { "name": "Cointelegraph", "category": "crypto", "url": "https://cointelegraph.com/rss" },
   { "name": "The Block", "category": "crypto", "url": "https://www.theblock.co/rss.xml" },
-  { "name": "MarkTechPost", "category": "ai", "url": "https://www.marktechpost.com/feed/" },
-  { "name": "VentureBeat AI", "category": "ai", "url": "https://venturebeat.com/category/ai/feed/" },
+  { "name": "Bitcoin Magazine", "category": "crypto", "url": "https://bitcoinmagazine.com/feed" },
+  { "name": "MIT Technology Review", "category": "ai", "url": "https://www.technologyreview.com/feed/" },
   { "name": "TechCrunch AI", "category": "ai", "url": "https://techcrunch.com/category/artificial-intelligence/feed/" },
-  { "name": "The Verge AI", "category": "ai", "url": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml" }
+  { "name": "The Verge AI", "category": "ai", "url": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml" },
+  { "name": "Ars Technica AI", "category": "ai", "url": "https://arstechnica.com/ai/feed/" }
 ]
