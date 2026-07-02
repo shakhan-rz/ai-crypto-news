@@ -1,4 +1,5 @@
 import { Sparkles } from 'lucide-react'
+import { ThemeToggle } from '@/components/theme-toggle'
 
 function GithubIcon({ className }: { className?: string }) {
   return (
@@ -15,13 +16,13 @@ function GithubIcon({ className }: { className?: string }) {
 
 export function Navbar() {
   return (
-    <header className="sticky top-0 z-50 border-b border-neutral-800/60 bg-black/40 backdrop-blur-md">
+    <header className="sticky top-0 z-50 border-b border-neutral-200 bg-white/70 backdrop-blur-md dark:border-neutral-800/60 dark:bg-black/40">
       <nav className="mx-auto flex max-w-6xl items-center justify-between px-4 py-3">
         <a href="#top" className="flex items-center gap-2">
           <span className="flex h-7 w-7 items-center justify-center rounded-lg bg-gradient-to-br from-orange-400 to-orange-600 text-black">
             <Sparkles className="h-4 w-4" />
           </span>
-          <span className="text-sm font-semibold tracking-tight text-neutral-100">
+          <span className="text-sm font-semibold tracking-tight text-neutral-900 dark:text-neutral-100">
             AI + Crypto News
           </span>
         </a>
@@ -29,16 +30,17 @@ export function Navbar() {
         <div className="flex items-center gap-1">
           <a
             href="#news"
-            className="rounded-full px-3 py-1.5 text-sm font-medium text-neutral-300 transition-colors hover:bg-neutral-800/60 hover:text-neutral-100"
+            className="rounded-full px-3 py-1.5 text-sm font-medium text-neutral-600 transition-colors hover:bg-neutral-200 hover:text-neutral-900 dark:text-neutral-300 dark:hover:bg-neutral-800/60 dark:hover:text-neutral-100"
           >
             News
           </a>
+          <ThemeToggle />
           <a
             href="https://github.com/shakhan-rz/ai-crypto-news"
             target="_blank"
             rel="noopener noreferrer"
             aria-label="View source on GitHub"
-            className="flex h-9 w-9 items-center justify-center rounded-full text-neutral-300 transition-colors hover:bg-neutral-800/60 hover:text-neutral-100"
+            className="flex h-9 w-9 items-center justify-center rounded-full text-neutral-600 transition-colors hover:bg-neutral-200 hover:text-neutral-900 dark:text-neutral-300 dark:hover:bg-neutral-800/60 dark:hover:text-neutral-100"
           >
             <GithubIcon className="h-4 w-4" />
           </a>

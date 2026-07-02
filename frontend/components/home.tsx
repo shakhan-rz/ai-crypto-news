@@ -27,9 +27,31 @@ type FilterKey = 'all' | 'ai' | 'crypto'
 const PAGE_SIZE = 5
 
 function scoreColor(score: number) {
-  if (score >= 8) return 'text-emerald-400'
-  if (score >= 5) return 'text-amber-400'
-  return 'text-neutral-400'
+  if (score >= 8) return 'text-emerald-500 dark:text-emerald-400'
+  if (score >= 5) return 'text-amber-500 dark:text-amber-400'
+  return 'text-neutral-500 dark:text-neutral-400'
+}
+
+function timeAgo(pubDate: string): string | null {
+  const then = new Date(pubDate).getTime()
+  if (Number.isNaN(then)) return null
+
+  const seconds = Math.round((Date.now() - then) / 1000)
+  if (seconds < 60) return 'just now'
+
+  const minutes = Math.round(seconds / 60)
+  if (minutes < 60) return `${minutes}m ago`
+
+  const hours = Math.round(minutes / 60)
+  if (hours < 24) return `${hours}h ago`
+
+  const days = Math.round(hours / 24)
+  if (days < 30) return `${days}d ago`
+
+  const months = Math.round(days / 30)
+  if (months < 12) return `${months}mo ago`
+
+  return `${Math.round(months / 12)}y ago`
 }
 
 function ShareButton({ article }: { article: Article }) {
@@ -61,7 +83,7 @@ function ShareButton({ article }: { article: Article }) {
     <button
       onClick={handleShare}
       aria-label={copied ? 'Link copied' : 'Share article'}
-      className="relative z-10 flex h-8 w-8 shrink-0 items-center justify-center rounded-full text-neutral-400 transition-colors hover:bg-neutral-800 hover:text-neutral-100"
+      className="relative z-10 flex h-8 w-8 shrink-0 items-center justify-center rounded-full text-neutral-400 transition-colors hover:bg-neutral-200 hover:text-neutral-700 dark:hover:bg-neutral-800 dark:hover:text-neutral-100"
     >
       <AnimatePresence mode="wait" initial={false}>
         {copied ? (
@@ -93,7 +115,7 @@ function ShareButton({ article }: { article: Article }) {
 
 function ArticleSkeleton() {
   return (
-    <Card className="overflow-hidden rounded-xl border-neutral-800/80 bg-gradient-to-b from-neutral-900 to-neutral-950">
+    <Card className="overflow-hidden rounded-xl border-neutral-200 bg-white dark:border-neutral-800/80 dark:bg-gradient-to-b dark:from-neutral-900 dark:to-neutral-950">
       <CardHeader className="pb-3">
         <div className="flex items-center gap-2">
           <Skeleton className="h-5 w-16 rounded-full" />
@@ -132,7 +154,7 @@ function FilterButton({
         'px-4 py-1.5 text-sm font-medium',
         isActive
           ? 'border-orange-500 bg-gradient-to-br from-orange-400 to-orange-600 text-black shadow-sm shadow-orange-500/30'
-          : 'border-neutral-800 bg-black/40 text-neutral-300 backdrop-blur-sm hover:border-neutral-600 hover:bg-neutral-900 hover:text-neutral-100',
+          : 'border-neutral-300 bg-white/60 text-neutral-600 backdrop-blur-sm hover:border-neutral-400 hover:bg-neutral-100 hover:text-neutral-900 dark:border-neutral-800 dark:bg-black/40 dark:text-neutral-300 dark:hover:border-neutral-600 dark:hover:bg-neutral-900 dark:hover:text-neutral-100',
         className
       )}
     >
@@ -253,10 +275,10 @@ export function Home({ articles }: { articles: Article[] }) {
               )}
             </div>
             <div className="flex flex-col items-center px-8 pb-12 text-center">
-              <h1 className="bg-gradient-to-b from-neutral-50 to-neutral-400 bg-clip-text text-4xl font-bold text-transparent md:text-6xl">
+              <h1 className="bg-gradient-to-b from-neutral-900 to-neutral-500 bg-clip-text text-4xl font-bold text-transparent md:text-6xl dark:from-neutral-50 dark:to-neutral-400">
                 AI + Crypto News
               </h1>
-              <p className="mt-4 max-w-lg text-neutral-300">
+              <p className="mt-4 max-w-lg text-neutral-600 dark:text-neutral-300">
                 The most important AI and crypto news
               </p>
             </div>
@@ -266,7 +288,7 @@ export function Home({ articles }: { articles: Article[] }) {
 
       {/* News feed */}
       <section id="news" className="mx-auto max-w-5xl px-4 py-12 scroll-mt-16">
-        <h2 className="mb-6 text-center text-2xl font-bold text-neutral-100">
+        <h2 className="mb-6 text-center text-2xl font-bold text-neutral-900 dark:text-neutral-100">
           Latest, ranked by importance
         </h2>
 
@@ -282,7 +304,7 @@ export function Home({ articles }: { articles: Article[] }) {
               }}
               placeholder="Search news…"
               aria-label="Search news"
-              className="w-full rounded-full border border-neutral-800 bg-black/40 py-2.5 pl-10 pr-10 text-sm text-neutral-100 placeholder:text-neutral-500 backdrop-blur-sm transition-colors focus:border-orange-500/60 focus:outline-none focus:ring-1 focus:ring-orange-500/40"
+              className="w-full rounded-full border border-neutral-300 bg-white/60 py-2.5 pl-10 pr-10 text-sm text-neutral-900 placeholder:text-neutral-400 backdrop-blur-sm transition-colors focus:border-orange-500/60 focus:outline-none focus:ring-1 focus:ring-orange-500/40 dark:border-neutral-800 dark:bg-black/40 dark:text-neutral-100 dark:placeholder:text-neutral-500"
             />
             {hasQuery && (
               <button
@@ -291,7 +313,7 @@ export function Home({ articles }: { articles: Article[] }) {
                   setShownCount(PAGE_SIZE)
                 }}
                 aria-label="Clear search"
-                className="absolute right-2 top-1/2 flex h-6 w-6 -translate-y-1/2 items-center justify-center rounded-full text-neutral-500 transition-colors hover:bg-neutral-800 hover:text-neutral-200"
+                className="absolute right-2 top-1/2 flex h-6 w-6 -translate-y-1/2 items-center justify-center rounded-full text-neutral-500 transition-colors hover:bg-neutral-200 hover:text-neutral-700 dark:hover:bg-neutral-800 dark:hover:text-neutral-200"
               >
                 <X className="h-3.5 w-3.5" />
               </button>
@@ -361,27 +383,35 @@ export function Home({ articles }: { articles: Article[] }) {
                   ease: 'easeOut',
                 }}
               >
-                <Card className="group relative overflow-hidden rounded-xl border-neutral-800/80 bg-gradient-to-b from-neutral-900 to-neutral-950 transition-all duration-200 hover:-translate-y-0.5 hover:border-neutral-700 hover:shadow-lg hover:shadow-black/40">
+                <Card className="group relative overflow-hidden rounded-xl border-neutral-200 bg-white transition-all duration-200 hover:-translate-y-0.5 hover:border-neutral-300 hover:shadow-lg hover:shadow-neutral-300/50 dark:border-neutral-800/80 dark:bg-gradient-to-b dark:from-neutral-900 dark:to-neutral-950 dark:hover:border-neutral-700 dark:hover:shadow-black/40">
                   <CardHeader className="pb-3">
                     <div className="flex items-center gap-2">
                       <Badge
                         variant="secondary"
-                        className="rounded-full bg-neutral-800/80 px-2.5 py-0.5 text-[11px] font-medium uppercase tracking-wider text-neutral-300"
+                        className="rounded-full bg-neutral-100 px-2.5 py-0.5 text-[11px] font-medium uppercase tracking-wider text-neutral-600 dark:bg-neutral-800/80 dark:text-neutral-300"
                       >
                         {article.category}
                       </Badge>
                       <span className="text-xs text-neutral-500">
                         {article.source}
                       </span>
-                      <span className="ml-auto flex shrink-0 items-center gap-1 rounded-full bg-neutral-800/60 px-2 py-0.5 text-xs font-semibold tabular-nums">
+                      {timeAgo(article.pubDate) && (
+                        <>
+                          <span className="text-neutral-400 dark:text-neutral-600">·</span>
+                          <span className="text-xs text-neutral-500">
+                            {timeAgo(article.pubDate)}
+                          </span>
+                        </>
+                      )}
+                      <span className="ml-auto flex shrink-0 items-center gap-1 rounded-full bg-neutral-100 px-2 py-0.5 text-xs font-semibold tabular-nums dark:bg-neutral-800/60">
                         <span className={scoreColor(article.importance)}>
                           {article.importance}
                         </span>
-                        <span className="text-neutral-600">/10</span>
+                        <span className="text-neutral-400 dark:text-neutral-600">/10</span>
                       </span>
                       <ShareButton article={article} />
                     </div>
-                    <CardTitle className="mt-2 text-base leading-snug text-neutral-100 transition-colors group-hover:text-white">
+                    <CardTitle className="mt-2 text-base leading-snug text-neutral-900 transition-colors group-hover:text-black dark:text-neutral-100 dark:group-hover:text-white">
                       <a
                         href={article.link}
                         target="_blank"
@@ -394,7 +424,7 @@ export function Home({ articles }: { articles: Article[] }) {
                   </CardHeader>
                   {article.summary && (
                     <CardContent className="pt-0">
-                      <p className="line-clamp-3 text-sm leading-relaxed text-neutral-400">
+                      <p className="line-clamp-3 text-sm leading-relaxed text-neutral-600 dark:text-neutral-400">
                         {article.summary}
                       </p>
                     </CardContent>
@@ -410,7 +440,7 @@ export function Home({ articles }: { articles: Article[] }) {
           <div className="mt-8 flex justify-center">
             <button
               onClick={() => setShownCount((c) => c + PAGE_SIZE)}
-              className="rounded-full border border-neutral-800 bg-transparent px-6 py-2 text-sm font-medium text-neutral-300 transition-colors hover:border-neutral-600 hover:bg-neutral-900 hover:text-neutral-100"
+              className="rounded-full border border-neutral-300 bg-transparent px-6 py-2 text-sm font-medium text-neutral-600 transition-colors hover:border-neutral-400 hover:bg-neutral-100 hover:text-neutral-900 dark:border-neutral-800 dark:text-neutral-300 dark:hover:border-neutral-600 dark:hover:bg-neutral-900 dark:hover:text-neutral-100"
             >
               Load more
             </button>

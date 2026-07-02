@@ -12,7 +12,7 @@ const articles = [...(rawArticles as Article[])].sort(
 
 export default function HomePage() {
   return (
-    <main id="top" className="relative min-h-screen bg-[rgb(10,10,10)]">
+    <main id="top" className="relative min-h-screen bg-neutral-50 dark:bg-[rgb(10,10,10)]">
       <DottedSurface className="z-0" />
 
       <div className="relative z-10">
