@@ -1,4 +1,5 @@
 import { DottedSurface } from '@/components/ui/dotted-surface'
+import { Navbar } from '@/components/navbar'
 import { Home, type Article } from '@/components/home'
 import rawArticles from '../../data/processed-articles.json'
 
@@ -10,10 +11,11 @@ const articles = [...(rawArticles as Article[])].sort(
 
 export default function HomePage() {
   return (
-    <main className="relative min-h-screen bg-[rgb(10,10,10)]">
+    <main id="top" className="relative min-h-screen bg-[rgb(10,10,10)]">
       <DottedSurface className="z-0" />
 
       <div className="relative z-10">
+        <Navbar />
         <Home articles={articles} />
       </div>
     </main>

@@ -160,7 +160,7 @@ export function Home({ articles }: { articles: Article[] }) {
       </section>
 
       {/* News feed */}
-      <section className="mx-auto max-w-5xl px-4 py-12">
+      <section id="news" className="mx-auto max-w-5xl px-4 py-12 scroll-mt-16">
         <h2 className="mb-6 text-center text-2xl font-bold text-neutral-100">
           Latest, ranked by importance
         </h2>
