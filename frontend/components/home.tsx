@@ -117,8 +117,8 @@ export function Home({ articles }: { articles: Article[] }) {
             <div
               className="relative h-[420px] w-full"
               style={{
-                maskImage: 'linear-gradient(to bottom, black 0%, black 55%, transparent 85%)',
-                WebkitMaskImage: 'linear-gradient(to bottom, black 0%, black 55%, transparent 85%)',
+                maskImage: 'linear-gradient(to bottom, black 0%, black 72%, transparent 92%)',
+                WebkitMaskImage: 'linear-gradient(to bottom, black 0%, black 72%, transparent 92%)',
               }}
             >
               {/* Orange halo behind the robot */}
