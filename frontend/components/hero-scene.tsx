@@ -42,7 +42,11 @@ export function HeroScene() {
       <div className="robot-mascot-glow pointer-events-none absolute left-1/2 top-1/2 h-64 w-64 -translate-x-1/2 -translate-y-1/2" />
       <div
         className="robot-mascot-float relative h-full w-full"
-        style={{ filter: 'contrast(0.9) brightness(0.95)' }}
+        style={{
+          filter: 'contrast(0.9) brightness(0.95)',
+          maskImage: 'linear-gradient(to bottom, black 0%, black 48%, transparent 82%)',
+          WebkitMaskImage: 'linear-gradient(to bottom, black 0%, black 48%, transparent 82%)',
+        }}
       >
         <SplineScene
           scene="https://prod.spline.design/kZDDjO5HuC9GJUM2/scene.splinecode"
