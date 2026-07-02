@@ -2,7 +2,7 @@
 
 import { useEffect, useMemo, useState } from 'react'
 import { AnimatePresence, motion } from 'framer-motion'
-import { Check, Share2 } from 'lucide-react'
+import { Check, Search, Share2, X } from 'lucide-react'
 import { Card, CardContent, CardHeader, CardTitle } from '@/components/ui/card'
 import { Badge } from '@/components/ui/badge'
 import { Skeleton } from '@/components/ui/skeleton'
@@ -158,9 +158,13 @@ function useIsMobile() {
 
 export function Home({ articles }: { articles: Article[] }) {
   const [active, setActive] = useState<FilterKey | null>(null)
+  const [query, setQuery] = useState('')
   const [shownCount, setShownCount] = useState(PAGE_SIZE)
   const [loading, setLoading] = useState(false)
   const isMobile = useIsMobile()
+
+  const trimmedQuery = query.trim().toLowerCase()
+  const hasQuery = trimmedQuery.length > 0
 
   const counts = useMemo(
     () => ({
@@ -171,18 +175,30 @@ export function Home({ articles }: { articles: Article[] }) {
     [articles]
   )
 
-  const filtered = useMemo(
-    () =>
+  const filtered = useMemo(() => {
+    // With no category selected we only show anything once the user searches.
+    const base =
       active === null
-        ? []
+        ? hasQuery
+          ? articles
+          : []
         : active === 'all'
           ? articles
-          : articles.filter((a) => a.category === active),
-    [articles, active]
-  )
+          : articles.filter((a) => a.category === active)
+
+    if (!hasQuery) return base
+
+    return base.filter(
+      (a) =>
+        a.title.toLowerCase().includes(trimmedQuery) ||
+        a.summary.toLowerCase().includes(trimmedQuery)
+    )
+  }, [articles, active, hasQuery, trimmedQuery])
 
   const visible = filtered.slice(0, shownCount)
   const hasMore = shownCount < filtered.length
+  const showEmptyState =
+    !loading && (active !== null || hasQuery) && filtered.length === 0
 
   function selectFilter(key: FilterKey) {
     setActive((prev) => {
@@ -254,6 +270,35 @@ export function Home({ articles }: { articles: Article[] }) {
           Latest, ranked by importance
         </h2>
 
+        <div className="mx-auto mb-6 max-w-md">
+          <div className="relative">
+            <Search className="pointer-events-none absolute left-3 top-1/2 h-4 w-4 -translate-y-1/2 text-neutral-500" />
+            <input
+              type="text"
+              value={query}
+              onChange={(e) => {
+                setQuery(e.target.value)
+                setShownCount(PAGE_SIZE)
+              }}
+              placeholder="Search news…"
+              aria-label="Search news"
+              className="w-full rounded-full border border-neutral-800 bg-black/40 py-2.5 pl-10 pr-10 text-sm text-neutral-100 placeholder:text-neutral-500 backdrop-blur-sm transition-colors focus:border-orange-500/60 focus:outline-none focus:ring-1 focus:ring-orange-500/40"
+            />
+            {hasQuery && (
+              <button
+                onClick={() => {
+                  setQuery('')
+                  setShownCount(PAGE_SIZE)
+                }}
+                aria-label="Clear search"
+                className="absolute right-2 top-1/2 flex h-6 w-6 -translate-y-1/2 items-center justify-center rounded-full text-neutral-500 transition-colors hover:bg-neutral-800 hover:text-neutral-200"
+              >
+                <X className="h-3.5 w-3.5" />
+              </button>
+            )}
+          </div>
+        </div>
+
         <div className="mb-8 flex flex-wrap justify-center gap-2">
           <FilterButton
             label="All"
@@ -275,9 +320,15 @@ export function Home({ articles }: { articles: Article[] }) {
           />
         </div>
 
-        {active === null && (
+        {active === null && !hasQuery && (
           <p className="text-center text-sm text-neutral-500">
-            Pick a category above to see the news.
+            Pick a category above or search to see the news.
+          </p>
+        )}
+
+        {showEmptyState && (
+          <p className="text-center text-sm text-neutral-500">
+            No news found{hasQuery ? ` for “${query.trim()}”` : ''}.
           </p>
         )}
 
@@ -290,9 +341,9 @@ export function Home({ articles }: { articles: Article[] }) {
         )}
 
         <AnimatePresence mode="wait">
-          {active !== null && !loading && (
+          {(active !== null || hasQuery) && !loading && filtered.length > 0 && (
           <motion.div
-            key={active ?? 'none'}
+            key={`${active ?? 'none'}-${trimmedQuery}`}
             initial={{ opacity: 0 }}
             animate={{ opacity: 1 }}
             exit={{ opacity: 0 }}
