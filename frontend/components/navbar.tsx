@@ -1,5 +1,4 @@
 import { Sparkles } from 'lucide-react'
-import { ThemeToggle } from '@/components/theme-toggle'
 
 function GithubIcon({ className }: { className?: string }) {
   return (
@@ -34,7 +33,6 @@ export function Navbar() {
           >
             News
           </a>
-          <ThemeToggle />
           <a
             href="https://github.com/shakhan-rz/ai-crypto-news"
             target="_blank"
