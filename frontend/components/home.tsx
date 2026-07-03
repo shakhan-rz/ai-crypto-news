@@ -413,27 +413,23 @@ export function Home({
             <CryptoPrices />
           </div>
 
-          <div className="mt-8 flex justify-center gap-8 text-center md:justify-start md:text-left">
-            <div>
-              <p className="text-2xl font-bold tabular-nums text-neutral-900 dark:text-neutral-100">
-                {articles.length}
-              </p>
-              <p className="text-xs text-neutral-500">stories tracked</p>
-            </div>
-            <div>
-              <p className="text-2xl font-bold tabular-nums text-neutral-900 dark:text-neutral-100">
-                {sourceCount}
-              </p>
-              <p className="text-xs text-neutral-500">news sources</p>
-            </div>
-            {lastUpdated && timeAgo(lastUpdated) && (
-              <div>
-                <p className="text-2xl font-bold tabular-nums text-neutral-900 dark:text-neutral-100">
-                  {timeAgo(lastUpdated)}
+          <div className="mt-8 inline-flex items-center divide-x divide-neutral-300 rounded-2xl border border-neutral-300 bg-white/60 backdrop-blur-sm dark:divide-neutral-800 dark:border-neutral-800/80 dark:bg-black/40">
+            {[
+              [String(articles.length), 'Stories tracked'],
+              [String(sourceCount), 'News sources'],
+              ...(lastUpdated && timeAgo(lastUpdated)
+                ? [[timeAgo(lastUpdated) as string, 'Last updated']]
+                : []),
+            ].map(([value, label]) => (
+              <div key={label} className="px-5 py-3 text-center md:px-6">
+                <p className="text-xl font-bold tabular-nums text-neutral-900 dark:text-neutral-50 md:text-2xl">
+                  {value}
                 </p>
-                <p className="text-xs text-neutral-500">last updated</p>
+                <p className="mt-0.5 text-[10px] font-medium uppercase tracking-widest text-neutral-500 dark:text-neutral-400">
+                  {label}
+                </p>
               </div>
-            )}
+            ))}
           </div>
         </div>
         <HeroScene />
