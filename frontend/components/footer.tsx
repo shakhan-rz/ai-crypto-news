@@ -1,6 +1,7 @@
 import { Sparkles } from 'lucide-react'
+import feeds from '../../config/feeds.json'
 
-const SOURCES = ['CoinDesk', 'Cointelegraph', 'The Verge', 'TechCrunch', 'Decrypt']
+const SOURCES = feeds.map((f) => f.name)
 
 export function Footer() {
   return (
