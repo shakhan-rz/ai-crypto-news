@@ -3,7 +3,7 @@
 import { useEffect, useMemo, useState } from 'react'
 import Link from 'next/link'
 import { AnimatePresence, motion } from 'framer-motion'
-import { ArrowDown, Check, Flame, Search, Share2, TrendingDown, TrendingUp, X } from 'lucide-react'
+import { ArrowDown, ArrowUp, Check, Flame, Search, Share2, TrendingDown, TrendingUp, X } from 'lucide-react'
 import { Card, CardContent, CardHeader, CardTitle } from '@/components/ui/card'
 import { Badge } from '@/components/ui/badge'
 import { Skeleton } from '@/components/ui/skeleton'
@@ -198,9 +198,18 @@ function CryptoPrices() {
             className="flex items-center gap-1.5 rounded-full border border-neutral-300 bg-white/60 px-3 py-1 text-xs font-medium tabular-nums backdrop-blur-sm dark:border-neutral-800 dark:bg-black/40"
           >
             <span className="text-neutral-500">{label}</span>
-            <span className="text-neutral-900 dark:text-neutral-100">
-              ${price.usd.toLocaleString('en-US', { maximumFractionDigits: 0 })}
-            </span>
+            <AnimatePresence mode="popLayout" initial={false}>
+              <motion.span
+                key={price.usd}
+                initial={{ opacity: 0, y: 8 }}
+                animate={{ opacity: 1, y: 0 }}
+                exit={{ opacity: 0, y: -8 }}
+                transition={{ duration: 0.25, ease: 'easeOut' }}
+                className="text-neutral-900 dark:text-neutral-100"
+              >
+                ${price.usd.toLocaleString('en-US', { maximumFractionDigits: 0 })}
+              </motion.span>
+            </AnimatePresence>
             <span
               className={cn(
                 'flex items-center gap-0.5',
@@ -214,6 +223,35 @@ function CryptoPrices() {
         )
       })}
     </div>
+  )
+}
+
+function BackToTop() {
+  const [show, setShow] = useState(false)
+
+  useEffect(() => {
+    const onScroll = () => setShow(window.scrollY > 600)
+    onScroll()
+    window.addEventListener('scroll', onScroll, { passive: true })
+    return () => window.removeEventListener('scroll', onScroll)
+  }, [])
+
+  return (
+    <AnimatePresence>
+      {show && (
+        <motion.button
+          initial={{ opacity: 0, y: 16 }}
+          animate={{ opacity: 1, y: 0 }}
+          exit={{ opacity: 0, y: 16 }}
+          transition={{ duration: 0.2 }}
+          onClick={() => window.scrollTo({ top: 0, behavior: 'smooth' })}
+          aria-label="Back to top"
+          className="fixed bottom-6 right-6 z-50 flex h-11 w-11 items-center justify-center rounded-full border border-neutral-300 bg-white/80 text-neutral-700 shadow-lg backdrop-blur-md transition-colors hover:bg-white dark:border-neutral-700 dark:bg-neutral-900/80 dark:text-neutral-200 dark:hover:bg-neutral-800"
+        >
+          <ArrowUp className="h-5 w-5" />
+        </motion.button>
+      )}
+    </AnimatePresence>
   )
 }
 
@@ -414,6 +452,7 @@ export function Home({
 
       {/* Breaking headlines ticker */}
       <NewsTicker articles={articles} />
+      <BackToTop />
 
       {/* News feed */}
       <section id="news" className="mx-auto max-w-5xl px-4 py-12 scroll-mt-16">
