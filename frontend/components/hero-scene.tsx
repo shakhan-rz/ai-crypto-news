@@ -1,6 +1,6 @@
 'use client'
 
-import { useEffect, useRef } from 'react'
+import { useEffect, useRef, useState } from 'react'
 import { SplineScene } from '@/components/ui/splite'
 
 // The original glossy black 3D robot (Spline WebGL scene). Spline only tracks
@@ -13,6 +13,15 @@ import { SplineScene } from '@/components/ui/splite'
 export function HeroScene() {
   const wrap = useRef<HTMLDivElement>(null)
   const canvasRef = useRef<HTMLCanvasElement | null>(null)
+  // The Spline scene plays a close-up intro zoom on load; at its closest the
+  // head fills the canvas and its hard edges read as a "box". Keep the robot
+  // hidden until the camera has pulled back, then fade it in.
+  const [revealed, setRevealed] = useState(false)
+
+  useEffect(() => {
+    const id = setTimeout(() => setRevealed(true), 1700)
+    return () => clearTimeout(id)
+  }, [])
 
   useEffect(() => {
     function onMove(e: PointerEvent) {
@@ -41,17 +50,18 @@ export function HeroScene() {
       {/* Soft halo behind the robot */}
       <div className="robot-mascot-glow pointer-events-none absolute left-1/2 top-1/2 h-64 w-64 -translate-x-1/2 -translate-y-1/2" />
       <div
-        className="robot-mascot-float relative h-full w-full"
+        className="robot-mascot-float relative h-full w-full transition-opacity duration-1000 ease-out"
         style={{
+          opacity: revealed ? 1 : 0,
           filter: 'contrast(0.9) brightness(0.95)',
           // Feather every edge (radial ellipse) instead of only the bottom, so
           // wherever the robot's arms/shoulders reach the canvas bounds they
           // dissolve into the background rather than showing a hard rectangular
           // "box" cut. Center sits slightly high so the lower body fades more.
           maskImage:
-            'radial-gradient(120% 95% at 50% 40%, black 50%, rgba(0,0,0,0.6) 72%, transparent 92%)',
+            'radial-gradient(115% 90% at 50% 42%, black 40%, rgba(0,0,0,0.55) 68%, transparent 85%)',
           WebkitMaskImage:
-            'radial-gradient(120% 95% at 50% 40%, black 50%, rgba(0,0,0,0.6) 72%, transparent 92%)',
+            'radial-gradient(115% 90% at 50% 42%, black 40%, rgba(0,0,0,0.55) 68%, transparent 85%)',
         }}
       >
         {/* Slight scale-down gives the arms breathing room inside the canvas. */}
