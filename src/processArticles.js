@@ -23,6 +23,21 @@ const openrouter = new OpenAI({
   baseURL: 'https://openrouter.ai/api/v1',
 });
 
+const cerebras = new OpenAI({
+  apiKey: process.env.CEREBRAS_API_KEY,
+  baseURL: 'https://api.cerebras.ai/v1',
+});
+
+const mistral = new OpenAI({
+  apiKey: process.env.MISTRAL_API_KEY,
+  baseURL: 'https://api.mistral.ai/v1',
+});
+
+const githubModels = new OpenAI({
+  apiKey: process.env.GITHUB_TOKEN,
+  baseURL: 'https://models.github.ai/inference',
+});
+
 function sleep(ms) {
   return new Promise((resolve) => setTimeout(resolve, ms));
 }
@@ -82,11 +97,38 @@ async function callOpenRouter(prompt) {
   return completion.choices[0].message.content;
 }
 
+async function callCerebras(prompt) {
+  const completion = await cerebras.chat.completions.create({
+    model: 'gpt-oss-120b',
+    messages: [{ role: 'user', content: prompt }],
+  });
+  return completion.choices[0].message.content;
+}
+
+async function callMistral(prompt) {
+  const completion = await mistral.chat.completions.create({
+    model: 'mistral-small-latest',
+    messages: [{ role: 'user', content: prompt }],
+  });
+  return completion.choices[0].message.content;
+}
+
+async function callGithubModels(prompt) {
+  const completion = await githubModels.chat.completions.create({
+    model: 'openai/gpt-4o-mini',
+    messages: [{ role: 'user', content: prompt }],
+  });
+  return completion.choices[0].message.content;
+}
+
 const PROVIDERS = [
-  { name: 'Gemini', call: callGemini },
-  { name: 'Groq', call: callGroq },
-  { name: 'OpenRouter', call: callOpenRouter },
-];
+  process.env.GEMINI_API_KEY && { name: 'Gemini', call: callGemini },
+  process.env.GROQ_API_KEY && { name: 'Groq', call: callGroq },
+  process.env.OPENROUTER_API_KEY && { name: 'OpenRouter', call: callOpenRouter },
+  process.env.CEREBRAS_API_KEY && { name: 'Cerebras', call: callCerebras },
+  process.env.MISTRAL_API_KEY && { name: 'Mistral', call: callMistral },
+  process.env.GITHUB_TOKEN && { name: 'GitHub Models', call: callGithubModels },
+].filter(Boolean);
 
 async function processArticle(article, index, total) {
   const prompt = buildPrompt(article);
@@ -121,9 +163,10 @@ async function processArticle(article, index, total) {
 }
 
 async function main() {
-  if (!process.env.GEMINI_API_KEY || !process.env.GROQ_API_KEY || !process.env.OPENROUTER_API_KEY) {
-    throw new Error('GEMINI_API_KEY, GROQ_API_KEY and OPENROUTER_API_KEY must all be set in .env');
+  if (PROVIDERS.length === 0) {
+    throw new Error('No LLM provider API keys are set in .env');
   }
+  console.log(`Providers available: ${PROVIDERS.map((p) => p.name).join(', ')}`);
 
   const rawArticles = JSON.parse(fs.readFileSync(INPUT_FILE, 'utf-8'));
 
