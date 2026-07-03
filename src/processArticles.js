@@ -101,7 +101,15 @@ async function processArticle(article, index, total) {
         : `processed via ${provider.name}`;
       console.log(`Article ${index + 1}/${total}: ${status}`);
       // Fall back to the feed's category if the model returned an invalid one.
-      return { ...article, summary, importance, category: category || article.category };
+      // `classified` marks that the category came from the model, so cached
+      // pre-classification entries (feed-based labels) get reprocessed once.
+      return {
+        ...article,
+        summary,
+        importance,
+        category: category || article.category,
+        classified: true,
+      };
     } catch (err) {
       console.error(`Article ${index + 1}/${total}: ${provider.name} failed - ${err.message}`);
       failedProviders.push(provider.name);
@@ -118,15 +126,51 @@ async function main() {
   }
 
   const rawArticles = JSON.parse(fs.readFileSync(INPUT_FILE, 'utf-8'));
+
+  // Reuse results from the previous run so only new articles hit the LLMs —
+  // otherwise every 3-hour run reprocesses all ~145 articles and burns through
+  // the free-tier quotas of all three providers.
+  let cache = new Map();
+  if (fs.existsSync(OUTPUT_FILE)) {
+    try {
+      const previous = JSON.parse(fs.readFileSync(OUTPUT_FILE, 'utf-8'));
+      // Entries with an empty summary are earlier failures — leave them out of
+      // the cache so they get retried.
+      cache = new Map(
+        previous
+          .filter((a) => a.link && a.summary && a.classified)
+          .map((a) => [a.link, a])
+      );
+    } catch {
+      // corrupt/missing previous output — process everything from scratch
+    }
+  }
+
   const processed = [];
+  let reused = 0;
 
   for (let i = 0; i < rawArticles.length; i++) {
-    const result = await processArticle(rawArticles[i], i, rawArticles.length);
+    const article = rawArticles[i];
+    const cached = cache.get(article.link);
+    if (cached) {
+      processed.push({
+        ...article,
+        summary: cached.summary,
+        importance: cached.importance,
+        category: cached.category || article.category,
+        classified: true,
+      });
+      reused++;
+      continue;
+    }
+    const result = await processArticle(article, i, rawArticles.length);
     processed.push(result);
     if (i < rawArticles.length - 1) {
       await sleep(DELAY_MS);
     }
   }
+
+  console.log(`Reused ${reused} cached articles, processed ${processed.length - reused} new ones`);
 
   processed.sort((a, b) => b.importance - a.importance);
 
