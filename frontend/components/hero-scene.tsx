@@ -60,9 +60,9 @@ export function HeroScene() {
           // background around waist level — so no feet or bottom box edge ever
           // appears.
           maskImage:
-            'radial-gradient(120% 100% at 50% 38%, black 55%, transparent 90%), linear-gradient(to bottom, black 0%, black 46%, transparent 72%)',
+            'radial-gradient(120% 105% at 50% 40%, black 62%, transparent 92%), linear-gradient(to bottom, black 0%, black 64%, transparent 86%)',
           WebkitMaskImage:
-            'radial-gradient(120% 100% at 50% 38%, black 55%, transparent 90%), linear-gradient(to bottom, black 0%, black 46%, transparent 72%)',
+            'radial-gradient(120% 105% at 50% 40%, black 62%, transparent 92%), linear-gradient(to bottom, black 0%, black 64%, transparent 86%)',
           maskComposite: 'intersect',
           WebkitMaskComposite: 'source-in',
         }}
