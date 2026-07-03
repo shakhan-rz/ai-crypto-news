@@ -87,6 +87,7 @@ export default async function ArticlePage({
             Back to all news
           </Link>
 
+          <div className="rounded-2xl border border-neutral-800/60 bg-black/70 p-6 shadow-2xl backdrop-blur-md md:p-10">
           <div className="flex flex-wrap items-center gap-2">
             <Badge
               variant="secondary"
@@ -171,6 +172,7 @@ export default async function ArticlePage({
               </div>
             </section>
           )}
+          </div>
         </article>
 
         <Footer />
