@@ -28,14 +28,18 @@ function sleep(ms) {
 }
 
 function buildPrompt(article) {
-  return `Read the news article below and return ONLY a valid JSON object with exactly these two keys, with no extra text or explanation:
-{"summary": "a 2-3 sentence summary of the article in English", "importance": an integer between 1 and 10}
+  return `Read the news article below and return ONLY a valid JSON object with exactly these three keys, with no extra text or explanation:
+{"summary": "a 2-3 sentence summary of the article in English", "importance": an integer between 1 and 10, "category": "ai" or "crypto" or "both"}
 
 Score importance based on how significant and noteworthy this news is for an AI and crypto community (10 = highly important, 1 = not important).
+
+Choose category based on the article's actual topic, not its publisher: "ai" if it is about artificial intelligence, "crypto" if it is about cryptocurrency/blockchain, "both" if it genuinely covers both.
 
 Title: ${article.title}
 Content: ${article.content}`;
 }
+
+const VALID_CATEGORIES = new Set(['ai', 'crypto', 'both']);
 
 function parseModelResponse(text) {
   const match = text.match(/\{[\s\S]*\}/);
@@ -49,7 +53,12 @@ function parseModelResponse(text) {
     throw new Error('response missing summary/importance fields');
   }
   importance = Math.max(1, Math.min(10, Math.round(importance)));
-  return { summary, importance };
+  const category = String(parsed.category || '').trim().toLowerCase();
+  return {
+    summary,
+    importance,
+    category: VALID_CATEGORIES.has(category) ? category : null,
+  };
 }
 
 async function callGemini(prompt) {
@@ -86,12 +95,13 @@ async function processArticle(article, index, total) {
   for (const provider of PROVIDERS) {
     try {
       const text = await provider.call(prompt);
-      const { summary, importance } = parseModelResponse(text);
+      const { summary, importance, category } = parseModelResponse(text);
       const status = failedProviders.length
         ? `${failedProviders.join(' failed, ')} failed, processed via ${provider.name}`
         : `processed via ${provider.name}`;
       console.log(`Article ${index + 1}/${total}: ${status}`);
-      return { ...article, summary, importance };
+      // Fall back to the feed's category if the model returned an invalid one.
+      return { ...article, summary, importance, category: category || article.category };
     } catch (err) {
       console.error(`Article ${index + 1}/${total}: ${provider.name} failed - ${err.message}`);
       failedProviders.push(provider.name);

@@ -46,7 +46,13 @@ export function getArticleBySlug(slug: string): Article | undefined {
 export function getRelatedArticles(article: Article, limit = 4): Article[] {
   const self = articleSlug(article)
   return articles
-    .filter((a) => a.category === article.category && articleSlug(a) !== self)
+    .filter(
+      (a) =>
+        articleSlug(a) !== self &&
+        (a.category === article.category ||
+          a.category === 'both' ||
+          article.category === 'both')
+    )
     .slice(0, limit)
 }
 

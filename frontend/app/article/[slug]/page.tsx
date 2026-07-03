@@ -47,6 +47,7 @@ export async function generateMetadata({
 function categoryBadgeClass(category: string): string {
   if (category === 'ai') return 'bg-sky-500/15 text-sky-300'
   if (category === 'crypto') return 'bg-orange-500/15 text-orange-300'
+  if (category === 'both') return 'bg-violet-500/15 text-violet-300'
   return 'bg-neutral-800/80 text-neutral-300'
 }
 

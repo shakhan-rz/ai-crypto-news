@@ -30,7 +30,15 @@ function categoryBadgeClass(category: string): string {
   if (category === 'crypto') {
     return 'bg-orange-100 text-orange-700 dark:bg-orange-500/15 dark:text-orange-300'
   }
+  if (category === 'both') {
+    return 'bg-violet-100 text-violet-700 dark:bg-violet-500/15 dark:text-violet-300'
+  }
   return 'bg-neutral-100 text-neutral-600 dark:bg-neutral-800/80 dark:text-neutral-300'
+}
+
+// Articles tagged "both" belong to the AI and the Crypto filter alike.
+function inCategory(article: Article, key: 'ai' | 'crypto'): boolean {
+  return article.category === key || article.category === 'both'
 }
 
 const PAGE_SIZE = 5
@@ -221,8 +229,8 @@ export function Home({
   const counts = useMemo(
     () => ({
       all: articles.length,
-      ai: articles.filter((a) => a.category === 'ai').length,
-      crypto: articles.filter((a) => a.category === 'crypto').length,
+      ai: articles.filter((a) => inCategory(a, 'ai')).length,
+      crypto: articles.filter((a) => inCategory(a, 'crypto')).length,
     }),
     [articles]
   )
@@ -236,7 +244,7 @@ export function Home({
           : []
         : active === 'all'
           ? articles
-          : articles.filter((a) => a.category === active)
+          : articles.filter((a) => inCategory(a, active))
 
     const inWindow =
       timeRange === 'any'
