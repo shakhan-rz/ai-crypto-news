@@ -7,6 +7,7 @@ import { Card, CardContent, CardHeader, CardTitle } from '@/components/ui/card'
 import { Badge } from '@/components/ui/badge'
 import { Skeleton } from '@/components/ui/skeleton'
 import { Button } from '@/components/ui/neon-button'
+import { HeroScene } from '@/components/hero-scene'
 import { cn } from '@/lib/utils'
 
 export type Article = {
@@ -305,16 +306,17 @@ export function Home({ articles }: { articles: Article[] }) {
   return (
     <>
       {/* Hero */}
-      <section className="mx-auto flex max-w-6xl flex-col items-center px-4 pt-16 pb-10">
-        <div className="text-center">
+      <section className="mx-auto flex max-w-6xl flex-col items-center gap-6 px-4 pt-16 pb-10 md:flex-row md:justify-between md:gap-8">
+        <div className="text-center md:text-left">
           <h1 className="bg-gradient-to-b from-neutral-900 to-neutral-500 bg-clip-text text-4xl font-bold text-transparent dark:from-neutral-50 dark:to-neutral-400 md:text-6xl">
             <RotatingWord /> News
           </h1>
-          <p className="mx-auto mt-4 max-w-lg text-neutral-300">
+          <p className="mx-auto mt-4 max-w-lg text-neutral-600 dark:text-neutral-300 md:mx-0">
             Signal over noise — the AI and crypto stories that actually matter,
             ranked and summarized for you.
           </p>
         </div>
+        <HeroScene />
       </section>
 
       {/* News feed */}
