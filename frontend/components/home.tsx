@@ -1,9 +1,9 @@
 'use client'
 
-import { useMemo, useState } from 'react'
+import { useEffect, useMemo, useState } from 'react'
 import Link from 'next/link'
 import { AnimatePresence, motion } from 'framer-motion'
-import { Check, Flame, Search, Share2, X } from 'lucide-react'
+import { ArrowDown, Check, Flame, Search, Share2, TrendingDown, TrendingUp, X } from 'lucide-react'
 import { Card, CardContent, CardHeader, CardTitle } from '@/components/ui/card'
 import { Badge } from '@/components/ui/badge'
 import { Skeleton } from '@/components/ui/skeleton'
@@ -158,6 +158,89 @@ function ShareButton({ article }: { article: Article }) {
   )
 }
 
+type Price = { usd: number; usd_24h_change: number }
+
+function CryptoPrices() {
+  const [prices, setPrices] = useState<{ bitcoin?: Price; ethereum?: Price } | null>(null)
+
+  useEffect(() => {
+    const ctrl = new AbortController()
+    fetch(
+      'https://api.coingecko.com/api/v3/simple/price?ids=bitcoin,ethereum&vs_currencies=usd&include_24hr_change=true',
+      { signal: ctrl.signal }
+    )
+      .then((r) => (r.ok ? r.json() : null))
+      .then((data) => data && setPrices(data))
+      .catch(() => {})
+    return () => ctrl.abort()
+  }, [])
+
+  if (!prices?.bitcoin || !prices?.ethereum) return null
+
+  const coins = [
+    { label: 'BTC', price: prices.bitcoin },
+    { label: 'ETH', price: prices.ethereum },
+  ]
+
+  return (
+    <div className="flex gap-2">
+      {coins.map(({ label, price }) => {
+        const up = price.usd_24h_change >= 0
+        return (
+          <span
+            key={label}
+            className="flex items-center gap-1.5 rounded-full border border-neutral-300 bg-white/60 px-3 py-1 text-xs font-medium tabular-nums backdrop-blur-sm dark:border-neutral-800 dark:bg-black/40"
+          >
+            <span className="text-neutral-500">{label}</span>
+            <span className="text-neutral-900 dark:text-neutral-100">
+              ${price.usd.toLocaleString('en-US', { maximumFractionDigits: 0 })}
+            </span>
+            <span
+              className={cn(
+                'flex items-center gap-0.5',
+                up ? 'text-emerald-500 dark:text-emerald-400' : 'text-red-500 dark:text-red-400'
+              )}
+            >
+              {up ? <TrendingUp className="h-3 w-3" /> : <TrendingDown className="h-3 w-3" />}
+              {Math.abs(price.usd_24h_change).toFixed(1)}%
+            </span>
+          </span>
+        )
+      })}
+    </div>
+  )
+}
+
+function NewsTicker({ articles }: { articles: Article[] }) {
+  const hot = articles.filter((a) => a.importance >= 8).slice(0, 12)
+  if (hot.length < 3) return null
+
+  // Two copies of the list make the CSS loop seamless.
+  const items = [...hot, ...hot]
+
+  return (
+    <div className="relative overflow-hidden border-y border-neutral-200 bg-white/40 py-2.5 backdrop-blur-sm dark:border-neutral-800/80 dark:bg-black/40">
+      <div className="ticker-track">
+        {items.map((a, i) => (
+          <Link
+            key={`${a.link}-${i}`}
+            href={`/article/${articleSlug(a)}`}
+            className="group flex shrink-0 items-center gap-2 px-6 text-sm text-neutral-600 transition-colors hover:text-neutral-900 dark:text-neutral-300 dark:hover:text-white"
+          >
+            <Flame className="h-3.5 w-3.5 shrink-0 text-red-500 dark:text-red-400" />
+            <span className="max-w-md truncate">{a.title}</span>
+            <span className="text-xs text-neutral-400 dark:text-neutral-600">·</span>
+            <span className="shrink-0 text-xs text-neutral-500">{a.source}</span>
+          </Link>
+        ))}
+      </div>
+      {/* Edge fades so headlines dissolve instead of hard-clipping */}
+      <div className="pointer-events-none absolute inset-y-0 left-0 w-16 bg-gradient-to-r from-white to-transparent dark:from-black" />
+      <div className="pointer-events-none absolute inset-y-0 right-0 w-16 bg-gradient-to-l from-white to-transparent dark:from-black" />
+    </div>
+  )
+}
+
 function ArticleSkeleton() {
   return (
     <Card className="overflow-hidden rounded-xl border-neutral-200 bg-white dark:border-neutral-800/80 dark:bg-gradient-to-b dark:from-neutral-900 dark:to-neutral-950">
@@ -225,6 +308,11 @@ export function Home({
 
   const trimmedQuery = query.trim().toLowerCase()
   const hasQuery = trimmedQuery.length > 0
+
+  const sourceCount = useMemo(
+    () => new Set(articles.map((a) => a.source)).size,
+    [articles]
+  )
 
   const counts = useMemo(
     () => ({
@@ -307,9 +395,46 @@ export function Home({
             Signal over noise. The AI and crypto stories that actually matter,
             ranked and summarized for you.
           </p>
+
+          <div className="mt-6 flex flex-wrap items-center justify-center gap-3 md:justify-start">
+            <a
+              href="#news"
+              className="inline-flex items-center gap-2 rounded-full border border-orange-500/60 bg-gradient-to-br from-orange-400 to-orange-600 px-6 py-2.5 text-sm font-semibold text-black shadow-sm shadow-orange-500/30 transition-transform hover:scale-[1.03]"
+            >
+              Browse the news
+              <ArrowDown className="h-4 w-4" />
+            </a>
+            <CryptoPrices />
+          </div>
+
+          <div className="mt-8 flex justify-center gap-8 text-center md:justify-start md:text-left">
+            <div>
+              <p className="text-2xl font-bold tabular-nums text-neutral-900 dark:text-neutral-100">
+                {articles.length}
+              </p>
+              <p className="text-xs text-neutral-500">stories tracked</p>
+            </div>
+            <div>
+              <p className="text-2xl font-bold tabular-nums text-neutral-900 dark:text-neutral-100">
+                {sourceCount}
+              </p>
+              <p className="text-xs text-neutral-500">news sources</p>
+            </div>
+            {lastUpdated && timeAgo(lastUpdated) && (
+              <div>
+                <p className="text-2xl font-bold tabular-nums text-neutral-900 dark:text-neutral-100">
+                  {timeAgo(lastUpdated)}
+                </p>
+                <p className="text-xs text-neutral-500">last updated</p>
+              </div>
+            )}
+          </div>
         </div>
         <HeroScene />
       </section>
+
+      {/* Breaking headlines ticker */}
+      <NewsTicker articles={articles} />
 
       {/* News feed */}
       <section id="news" className="mx-auto max-w-5xl px-4 py-12 scroll-mt-16">
