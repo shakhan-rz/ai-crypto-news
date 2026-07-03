@@ -54,20 +54,22 @@ export function HeroScene() {
         style={{
           opacity: revealed ? 1 : 0,
           filter: 'contrast(0.9) brightness(0.95)',
-          // Feather every edge (radial ellipse) instead of only the bottom, so
-          // wherever the robot's arms/shoulders reach the canvas bounds they
-          // dissolve into the background rather than showing a hard rectangular
-          // "box" cut. Center sits slightly high so the lower body fades more.
+          // Two masks combined: a radial feather softens the side/top edges so
+          // shoulders/arms don't show a hard rectangular cut, and a strong
+          // linear bottom fade dissolves the lower body/legs into the
+          // background around waist level — so no feet or bottom box edge ever
+          // appears.
           maskImage:
-            'radial-gradient(115% 90% at 50% 42%, black 40%, rgba(0,0,0,0.55) 68%, transparent 85%)',
+            'radial-gradient(120% 100% at 50% 38%, black 55%, transparent 90%), linear-gradient(to bottom, black 0%, black 46%, transparent 72%)',
           WebkitMaskImage:
-            'radial-gradient(115% 90% at 50% 42%, black 40%, rgba(0,0,0,0.55) 68%, transparent 85%)',
+            'radial-gradient(120% 100% at 50% 38%, black 55%, transparent 90%), linear-gradient(to bottom, black 0%, black 46%, transparent 72%)',
+          maskComposite: 'intersect',
+          WebkitMaskComposite: 'source-in',
         }}
       >
-        {/* Slight scale-down gives the arms breathing room inside the canvas. */}
         <SplineScene
           scene="https://prod.spline.design/kZDDjO5HuC9GJUM2/scene.splinecode"
-          className="h-full w-full scale-90"
+          className="h-full w-full"
           onLoad={() => {
             canvasRef.current = wrap.current?.querySelector('canvas') ?? null
           }}
