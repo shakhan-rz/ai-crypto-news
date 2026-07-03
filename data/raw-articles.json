@@ -1,5 +1,32 @@
 [
   {
+    "title": "Finally. $221 million flow into Bitcoin ETFs, ending a painful 10-day outflow streak",
+    "link": "https://www.coindesk.com/markets/2026/07/03/finally-usd221-million-flow-into-bitcoin-etfs-ending-a-painful-10-day-outflow-streak",
+    "pubDate": "Fri, 03 Jul 2026 05:54:51 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "Spot ETFs had their strongest inflow day in two months, driven by funds other than BlackRock’s IBIT.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/ef5792240e68641d8cb2648225031fd7638aafd0-3000x2001.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
+  },
+  {
+    "title": "XRP bulls test path back toward $1.10 as token zips 4% higher",
+    "link": "https://www.coindesk.com/markets/2026/07/03/xrp-bulls-test-path-back-toward-usd1-10-as-token-zips-4-higher",
+    "pubDate": "Fri, 03 Jul 2026 05:29:00 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "Buyers defended a higher low and pushed XRP toward near-term resistance, though the move still needs a clean break above $1.10 to confirm momentum.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/f47e6969c97eae73a343de175986d26fe536fc3f-1194x728.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
+  },
+  {
+    "title": "Ether and solana extend gains as a short squeeze lifts bitcoin toward $62,000",
+    "link": "https://www.coindesk.com/markets/2026/07/03/ether-and-solana-extend-gains-as-a-short-squeeze-lifts-bitcoin-toward-usd62-000",
+    "pubDate": "Fri, 03 Jul 2026 05:18:58 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "Bearish traders lost $281 million in liquidations over 24 hours, nearly double the longs, as bitcoin pushed to its strongest level in two weeks. Ether is up almost 10% on the week and solana nearly 19% while a rebound in tech stocks eased the pressure from the AI trade.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/fce15d9b832d4f087056ff45ef32cee4441b4240-7360x4912.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
+  },
+  {
     "title": "Securitize tokenizes $295 million of its own stock on Solana and Avalanche amid NYSE debut",
     "link": "https://www.coindesk.com/business/2026/07/02/securitize-tokenizes-usd295-million-of-its-own-stock-on-solana-and-avalanche-amid-nyse-debut",
     "pubDate": "Thu, 02 Jul 2026 19:00:03 +0000",
@@ -198,31 +225,40 @@
     "image": "https://cdn.sanity.io/images/s3y3vcno/production/05c58474e0b2a9084c90166362a5180a6c7627e9-1900x1268.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
   },
   {
-    "title": "Ethereum Institutional launch draws support from across the Ethereum ecosystem",
-    "link": "https://www.coindesk.com/tech/2026/07/01/ethereum-institutional-launch-draws-support-from-across-the-ethereum-ecosystem",
-    "pubDate": "Wed, 01 Jul 2026 21:13:24 +0000",
-    "source": "CoinDesk",
+    "title": "AI agent development hasn’t accelerated as expected, Zuckerberg says",
+    "link": "https://cointelegraph.com/news/ai-agent-development-hasnt-accelerated-as-expected-says-zuckerberg?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Fri, 03 Jul 2026 06:07:10 +0000",
+    "source": "Cointelegraph",
     "category": "crypto",
-    "content": "Its launch comes as Ethereum's support ecosystem undergoes a broader evolution, following the debut of EthLabs and amid ongoing efforts by the Ethereum Foundation to respond to community criticism over transparency, communication and its role within the ecosystem.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/c357579ddef2051b405b9e89f8525dd02709081d-5760x3240.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
+    "content": "Mark Zuckerberg’s comments came on the same day that Meta expanded its Meta Business Agent globally for businesses on Instagram, Messenger and WhatsApp.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-facebook-will-destroy-web3-if-we-dont-stop-it.jpg"
   },
   {
-    "title": "Robinhood rolls out public blockchain as it expands deeper into crypto",
-    "link": "https://www.coindesk.com/business/2026/07/01/robinhood-rolls-out-public-blockchain-as-it-expands-deeper-into-crypto",
-    "pubDate": "Wed, 01 Jul 2026 18:25:00 +0000",
-    "source": "CoinDesk",
+    "title": "US dominates Polymarket political bets despite geoblock: Report",
+    "link": "https://cointelegraph.com/news/us-dominates-polymarket-political-bets-despite-geoblock?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Fri, 03 Jul 2026 03:38:37 +0000",
+    "source": "Cointelegraph",
     "category": "crypto",
-    "content": "Robinhood's product push continues to blur the line between crypto and more traditional finance.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/8dac34908164b1ab4703e87687fa15502ddfa1e8-2048x1152.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
+    "content": "New data from Allium suggest that US users are bypassing geoblocks to bet on markets offered on Polymarket’s global platform.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/investmentmoneycryptodollarcrowdfunding.jpg"
   },
   {
-    "title": "Ethereum Foundation lays out use cases for governments, institutions in new policy guide",
-    "link": "https://www.coindesk.com/policy/2026/07/01/ethereum-foundation-lays-out-use-cases-for-governments-institutions-in-new-policy-guide",
-    "pubDate": "Wed, 01 Jul 2026 17:52:33 +0000",
-    "source": "CoinDesk",
+    "title": "Strategy will be ‘less important’ in Bitcoin after STRC incident: Bitwise",
+    "link": "https://cointelegraph.com/news/strategy-will-be-less-important-in-bitcoin-after-strc-incident-bitwise?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Fri, 03 Jul 2026 03:12:04 +0000",
+    "source": "Cointelegraph",
     "category": "crypto",
-    "content": "The Ethereum Foundation said policymakers should distinguish between decentralized public blockchains and networks that remain controlled by corporations or foundations, arguing that governance structures will play a critical role in determining which platforms are suitable for long-term public sector use.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/ab9ea8c9d8346f05438e6f0a8739ddc6e4639afa-1920x1242.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
+    "content": "Bitwise’s Matt Hougan said Strategy's STRC offer of high yields and low volatility was always a questionable fit for buying Bitcoin, as the cryptocurrency offers neither.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-why-saylors-strategy-keeps-buying-bitcoin-the-long-term-bet-explained-4.jpg"
+  },
+  {
+    "title": "Securitize gains on NYSE debut with tokenized stocks live on Solana, Avalanche",
+    "link": "https://cointelegraph.com/news/securitize-gains-on-nyse-debut-with-tokenized-stock-live-on-solana-avalanche?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Fri, 03 Jul 2026 02:35:34 +0000",
+    "source": "Cointelegraph",
+    "category": "crypto",
+    "content": "Securitize has issued tokenized versions of its shares on Solana and Avalanche, marking the first time a newly public company has done so on its debut.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-sponsored-story-illustration-for-decoin1.jpg"
   },
   {
     "title": "Bitcoin holds $61K after US jobs data report, AI sector weakness: Did BTC bottom?",
@@ -459,40 +495,13 @@
     "image": "https://s3-images.ctmedia.io/media/article-covers/bitcoin-price-market-analysis-us-1.jpg"
   },
   {
-    "title": "Bitcoin tops $60K amid Fed inflation talks: Is bull trap or $65K next? ",
-    "link": "https://cointelegraph.com/markets/bitcoin-pings-60k-amid-fed-inflation-talks-is-bull-trap-or-65k-next?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Wed, 01 Jul 2026 22:02:40 +0000",
-    "source": "Cointelegraph",
+    "title": "Institutional Bitcoin Adoption Explained: How Blackrock, Fidelity and Others Embraced BTC",
+    "link": "https://www.theblock.co/learn/407111/institutional-bitcoin-adoption-explained-how-blackrock-fidelity-and-others-embraced-btc?utm_source=rss&utm_medium=rss",
+    "pubDate": "Fri, 03 Jul 2026 02:26:57 -0400",
+    "source": "The Block",
     "category": "crypto",
-    "content": "Bitcoin rallied above $60,000 despite Federal Reserve rate hike fears and steady outflows from the BTC spot ETFs. Is the rally a bull trap?",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/article-covers-224014-dead-cat-bounce-to-118k-5-things-bitcoin-this-week.jpg"
-  },
-  {
-    "title": "Robinhood rolls out public blockchain, plans crypto trading for UK residents",
-    "link": "https://cointelegraph.com/news/robinhood-public-blockchain-mainnet-launch?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Wed, 01 Jul 2026 21:38:49 +0000",
-    "source": "Cointelegraph",
-    "category": "crypto",
-    "content": "The company announced a suite of DeFi products, plans for launching crypto trading in the UK and its public mainnet after months of testing.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/robinhood.png"
-  },
-  {
-    "title": "Tradeweb executes real-time tokenized US Treasury transaction on Canton Network",
-    "link": "https://cointelegraph.com/news/tradeweb-executes-real-time-tokenized-us-treasury-transaction-on-canton-network?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Wed, 01 Jul 2026 20:38:39 +0000",
-    "source": "Cointelegraph",
-    "category": "crypto",
-    "content": "Franklin Templeton transferred a tokenized US Treasury to Virtu Financial in what Tradeweb said was the first real-time transaction settled against USDCx.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-bond-follow-up-bybit.png"
-  },
-  {
-    "title": "Bitcoin bounces off 21-month low, but leverage data signals caution: Was $57K the bottom?",
-    "link": "https://cointelegraph.com/markets/bitcoin-bounces-off-21-month-low-but-leverage-data-signals-caution-was-57k-the-bottom?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Wed, 01 Jul 2026 20:27:49 +0000",
-    "source": "Cointelegraph",
-    "category": "crypto",
-    "content": "Bitcoin found its footing after bulls took steps to reclaim the $60,000 level, but data casts doubt on whether it will flip back to support.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/article-covers-213733-bitcoin-bear-market-in-october-with-50k-bottom-target-analysis.jpg"
+    "content": "Institutional adoption is when organizations such as asset managers, corporations, hedge funds, banks, pension funds, and insurers get involved in crypto. This can mean investing in bitcoin directly or building products and services around it. The trend accelerated sharply after spot bitcoin ETFs launched in January 2024 and now spans most categories of regulated institutional […]",
+    "image": "https://www.tbstat.com/wp/uploads/2026/04/20260410_Bitcoin_News-800x450.jpg"
   },
   {
     "title": "Securitize becomes first to debut shares on NYSE and onchain, but it won’t be the last",
@@ -664,15 +673,6 @@
     "category": "crypto",
     "content": "American Bitcoin's reverse split will reduce outstanding shares from roughly 1.09 billion to about 73 million.",
     "image": "https://www.tbstat.com/wp/uploads/2025/08/20250818_Eric-Trump_News-800x450.jpg"
-  },
-  {
-    "title": "‘We desperately need legislation that includes an agreement on ethics:’ Trump financial filing adds urgency to crypto bill negotiations",
-    "link": "https://www.theblock.co/post/406953/desperately-need-legislation-on-ethics-trump-financial-filing-adds-urgency-to-crypto-bill-negotiations?utm_source=rss&utm_medium=rss",
-    "pubDate": "Wed, 01 Jul 2026 15:03:57 -0400",
-    "source": "The Block",
-    "category": "crypto",
-    "content": "Trump's financial disclosure, revealing millions in crypto-related income, is adding urgency to write ethics restrictions into a crypto bill.",
-    "image": "https://www.tbstat.com/wp/uploads/2024/11/20241125_Trump_News_2-800x450.jpg"
   },
   {
     "title": "Bitcoin Exchange Inflows Spike to 49,000 BTC in a Day, Signaling More Volatility is Coming: Report",
