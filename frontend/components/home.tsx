@@ -165,14 +165,20 @@ function CryptoPrices() {
 
   useEffect(() => {
     const ctrl = new AbortController()
-    fetch(
-      'https://api.coingecko.com/api/v3/simple/price?ids=bitcoin,ethereum&vs_currencies=usd&include_24hr_change=true',
-      { signal: ctrl.signal }
-    )
-      .then((r) => (r.ok ? r.json() : null))
-      .then((data) => data && setPrices(data))
-      .catch(() => {})
-    return () => ctrl.abort()
+    const load = () =>
+      fetch(
+        'https://api.coingecko.com/api/v3/simple/price?ids=bitcoin,ethereum&vs_currencies=usd&include_24hr_change=true',
+        { signal: ctrl.signal }
+      )
+        .then((r) => (r.ok ? r.json() : null))
+        .then((data) => data && setPrices(data))
+        .catch(() => {})
+    load()
+    const id = setInterval(load, 60_000)
+    return () => {
+      clearInterval(id)
+      ctrl.abort()
+    }
   }, [])
 
   if (!prices?.bitcoin || !prices?.ethereum) return null
