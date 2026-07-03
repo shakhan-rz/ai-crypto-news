@@ -1,4 +1,8 @@
+'use client'
+
+import { useEffect, useState } from 'react'
 import { Sparkles } from 'lucide-react'
+import { cn } from '@/lib/utils'
 
 function GithubIcon({ className }: { className?: string }) {
   return (
@@ -13,11 +17,75 @@ function GithubIcon({ className }: { className?: string }) {
   )
 }
 
-export function Navbar() {
+function fearGreedColor(value: number): string {
+  if (value <= 25) return 'text-red-500 dark:text-red-400'
+  if (value <= 45) return 'text-orange-500 dark:text-orange-400'
+  if (value <= 55) return 'text-yellow-500 dark:text-yellow-400'
+  if (value <= 75) return 'text-lime-500 dark:text-lime-400'
+  return 'text-emerald-500 dark:text-emerald-400'
+}
+
+function FearGreed() {
+  const [data, setData] = useState<{ value: number; label: string } | null>(null)
+
+  useEffect(() => {
+    const ctrl = new AbortController()
+    fetch('https://api.alternative.me/fng/', { signal: ctrl.signal })
+      .then((r) => (r.ok ? r.json() : null))
+      .then((json) => {
+        const d = json?.data?.[0]
+        if (d) {
+          setData({ value: Number(d.value), label: d.value_classification })
+        }
+      })
+      .catch(() => {})
+    return () => ctrl.abort()
+  }, [])
+
+  if (!data) return null
+
   return (
-    <header className="sticky top-0 z-50 border-b border-neutral-200 bg-white/70 backdrop-blur-md dark:border-neutral-800/60 dark:bg-black/40">
+    <span
+      title="Crypto Fear & Greed Index"
+      className="hidden items-center gap-1.5 rounded-full border border-neutral-300 px-2.5 py-1 text-xs font-medium tabular-nums sm:flex dark:border-neutral-800"
+    >
+      <span className="text-neutral-500">Fear &amp; Greed</span>
+      <span className={cn('font-semibold', fearGreedColor(data.value))}>
+        {data.value}
+      </span>
+      <span className={cn('hidden md:inline', fearGreedColor(data.value))}>
+        {data.label}
+      </span>
+    </span>
+  )
+}
+
+const NAV_LINKS = [
+  { label: 'AI', href: '/?cat=ai#news' },
+  { label: 'Crypto', href: '/?cat=crypto#news' },
+] as const
+
+export function Navbar() {
+  const [scrolled, setScrolled] = useState(false)
+
+  useEffect(() => {
+    const onScroll = () => setScrolled(window.scrollY > 24)
+    onScroll()
+    window.addEventListener('scroll', onScroll, { passive: true })
+    return () => window.removeEventListener('scroll', onScroll)
+  }, [])
+
+  return (
+    <header
+      className={cn(
+        'sticky top-0 z-50 transition-all duration-300',
+        scrolled
+          ? 'border-b border-neutral-200 bg-white/70 shadow-sm backdrop-blur-md dark:border-neutral-800/60 dark:bg-black/60'
+          : 'border-b border-transparent bg-transparent'
+      )}
+    >
       <nav className="mx-auto flex max-w-6xl items-center justify-between px-4 py-3">
-        <a href="#top" className="flex items-center gap-2">
+        <a href="/#top" className="flex items-center gap-2">
           <span className="flex h-7 w-7 items-center justify-center rounded-lg bg-gradient-to-br from-orange-400 to-orange-600 text-black">
             <Sparkles className="h-4 w-4" />
           </span>
@@ -27,12 +95,16 @@ export function Navbar() {
         </a>
 
         <div className="flex items-center gap-1">
-          <a
-            href="#news"
-            className="rounded-full px-3 py-1.5 text-sm font-medium text-neutral-600 transition-colors hover:bg-neutral-200 hover:text-neutral-900 dark:text-neutral-300 dark:hover:bg-neutral-800/60 dark:hover:text-neutral-100"
-          >
-            News
-          </a>
+          <FearGreed />
+          {NAV_LINKS.map(({ label, href }) => (
+            <a
+              key={label}
+              href={href}
+              className="rounded-full px-3 py-1.5 text-sm font-medium text-neutral-600 transition-colors hover:bg-neutral-200 hover:text-neutral-900 dark:text-neutral-300 dark:hover:bg-neutral-800/60 dark:hover:text-neutral-100"
+            >
+              {label}
+            </a>
+          ))}
           <a
             href="https://github.com/shakhan-rz/ai-crypto-news"
             target="_blank"

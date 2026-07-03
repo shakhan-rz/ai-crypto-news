@@ -353,6 +353,14 @@ export function Home({
   const trimmedQuery = query.trim().toLowerCase()
   const hasQuery = trimmedQuery.length > 0
 
+  // Let navbar links (/?cat=ai#news) preselect a category.
+  useEffect(() => {
+    const cat = new URLSearchParams(window.location.search).get('cat')
+    if (cat === 'ai' || cat === 'crypto' || cat === 'all') {
+      setActive(cat)
+    }
+  }, [])
+
   const counts = useMemo(
     () => ({
       all: articles.length,
