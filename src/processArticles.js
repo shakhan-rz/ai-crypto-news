@@ -130,11 +130,20 @@ const PROVIDERS = [
   process.env.GITHUB_TOKEN && { name: 'GitHub Models', call: callGithubModels },
 ].filter(Boolean);
 
+// Providers that hit their daily/rate quota (429) are skipped for the rest
+// of the run — retrying them for every article wastes minutes per run.
+const exhaustedProviders = new Set();
+
+function isQuotaError(err) {
+  return err.status === 429 || /429|quota|rate limit/i.test(err.message);
+}
+
 async function processArticle(article, index, total) {
   const prompt = buildPrompt(article);
   const failedProviders = [];
 
   for (const provider of PROVIDERS) {
+    if (exhaustedProviders.has(provider.name)) continue;
     try {
       const text = await provider.call(prompt);
       const { summary, importance, category } = parseModelResponse(text);
@@ -155,6 +164,10 @@ async function processArticle(article, index, total) {
     } catch (err) {
       console.error(`Article ${index + 1}/${total}: ${provider.name} failed - ${err.message}`);
       failedProviders.push(provider.name);
+      if (isQuotaError(err)) {
+        exhaustedProviders.add(provider.name);
+        console.error(`${provider.name} hit its quota - skipping it for the rest of this run`);
+      }
     }
   }
 
