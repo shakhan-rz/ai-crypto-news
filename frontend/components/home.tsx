@@ -1,29 +1,27 @@
 'use client'
 
-import { useEffect, useMemo, useState } from 'react'
+import { useMemo, useState } from 'react'
+import Link from 'next/link'
 import { AnimatePresence, motion } from 'framer-motion'
-import { Check, Search, Share2, X } from 'lucide-react'
+import { Check, Flame, Search, Share2, X } from 'lucide-react'
 import { Card, CardContent, CardHeader, CardTitle } from '@/components/ui/card'
 import { Badge } from '@/components/ui/badge'
 import { Skeleton } from '@/components/ui/skeleton'
 import { Button } from '@/components/ui/neon-button'
 import { HeroScene } from '@/components/hero-scene'
 import { cn } from '@/lib/utils'
+import { articleSlug, type Article } from '@/lib/articles'
 
-export type Article = {
-  title: string
-  link: string
-  pubDate: string
-  source: string
-  category: string
-  content: string
-  summary: string
-  importance: number
-  image?: string
-}
+export type { Article }
 
 type FilterKey = 'all' | 'ai' | 'crypto'
 type SortKey = 'importance' | 'newest'
+type TimeKey = 'any' | 'day' | 'week'
+
+const TIME_WINDOWS: Record<Exclude<TimeKey, 'any'>, number> = {
+  day: 24 * 60 * 60 * 1000,
+  week: 7 * 24 * 60 * 60 * 1000,
+}
 
 function categoryBadgeClass(category: string): string {
   if (category === 'ai') {
@@ -98,9 +96,11 @@ function ShareButton({ article }: { article: Article }) {
     e.preventDefault()
     e.stopPropagation()
 
+    const url = `${window.location.origin}/article/${articleSlug(article)}`
+
     if (navigator.share) {
       try {
-        await navigator.share({ title: article.title, url: article.link })
+        await navigator.share({ title: article.title, url })
         return
       } catch {
         // user cancelled or share failed — fall back to copy
@@ -108,7 +108,7 @@ function ShareButton({ article }: { article: Article }) {
     }
 
     try {
-      await navigator.clipboard.writeText(article.link)
+      await navigator.clipboard.writeText(url)
       setCopied(true)
       setTimeout(() => setCopied(false), 2000)
     } catch {
@@ -201,12 +201,19 @@ function FilterButton({
   )
 }
 
-export function Home({ articles }: { articles: Article[] }) {
+export function Home({
+  articles,
+  lastUpdated,
+}: {
+  articles: Article[]
+  lastUpdated?: string
+}) {
   const [active, setActive] = useState<FilterKey | null>(null)
   const [query, setQuery] = useState('')
   const [shownCount, setShownCount] = useState(PAGE_SIZE)
   const [loading, setLoading] = useState(false)
   const [sortBy, setSortBy] = useState<SortKey>('importance')
+  const [timeRange, setTimeRange] = useState<TimeKey>('any')
 
   const trimmedQuery = query.trim().toLowerCase()
   const hasQuery = trimmedQuery.length > 0
@@ -231,14 +238,22 @@ export function Home({ articles }: { articles: Article[] }) {
           ? articles
           : articles.filter((a) => a.category === active)
 
-    if (!hasQuery) return base
+    const inWindow =
+      timeRange === 'any'
+        ? base
+        : base.filter((a) => {
+            const t = new Date(a.pubDate).getTime()
+            return !Number.isNaN(t) && Date.now() - t <= TIME_WINDOWS[timeRange]
+          })
 
-    return base.filter(
+    if (!hasQuery) return inWindow
+
+    return inWindow.filter(
       (a) =>
         a.title.toLowerCase().includes(trimmedQuery) ||
         a.summary.toLowerCase().includes(trimmedQuery)
     )
-  }, [articles, active, hasQuery, trimmedQuery])
+  }, [articles, active, hasQuery, trimmedQuery, timeRange])
 
   const sorted = useMemo(() => {
     const copy = [...filtered]
@@ -290,9 +305,14 @@ export function Home({ articles }: { articles: Article[] }) {
 
       {/* News feed */}
       <section id="news" className="mx-auto max-w-5xl px-4 py-12 scroll-mt-16">
-        <h2 className="mb-6 text-center text-2xl font-bold text-neutral-900 dark:text-neutral-100">
+        <h2 className="mb-2 text-center text-2xl font-bold text-neutral-900 dark:text-neutral-100">
           Latest, ranked by importance
         </h2>
+        {lastUpdated && timeAgo(lastUpdated) && (
+          <p className="mb-6 text-center text-xs text-neutral-500">
+            Updated {timeAgo(lastUpdated)}
+          </p>
+        )}
 
         <div className="mx-auto mb-6 max-w-md">
           <div className="relative">
@@ -343,6 +363,37 @@ export function Home({ articles }: { articles: Article[] }) {
             onClick={() => selectFilter('crypto')}
           />
         </div>
+
+        {(active !== null || hasQuery) && (
+          <div className="mb-8 flex items-center justify-center gap-2 text-sm">
+            <span className="text-neutral-500">From</span>
+            <div className="inline-flex overflow-hidden rounded-full border border-neutral-300 dark:border-neutral-800">
+              {(
+                [
+                  ['any', 'All time'],
+                  ['day', 'Last 24h'],
+                  ['week', 'This week'],
+                ] as [TimeKey, string][]
+              ).map(([key, label]) => (
+                <button
+                  key={key}
+                  onClick={() => {
+                    setTimeRange(key)
+                    setShownCount(PAGE_SIZE)
+                  }}
+                  className={cn(
+                    'px-3 py-1 text-xs font-medium transition-colors',
+                    timeRange === key
+                      ? 'bg-gradient-to-br from-orange-400 to-orange-600 text-black'
+                      : 'text-neutral-600 hover:bg-neutral-100 dark:text-neutral-300 dark:hover:bg-neutral-900'
+                  )}
+                >
+                  {label}
+                </button>
+              ))}
+            </div>
+          </div>
+        )}
 
         {active === null && !hasQuery && (
           <p className="text-center text-sm text-neutral-500">
@@ -415,6 +466,15 @@ export function Home({ articles }: { articles: Article[] }) {
                       >
                         {article.category}
                       </Badge>
+                      {article.importance >= 8 && (
+                        <Badge
+                          variant="secondary"
+                          className="flex items-center gap-1 rounded-full bg-red-100 px-2 py-0.5 text-[11px] font-medium uppercase tracking-wider text-red-700 dark:bg-red-500/15 dark:text-red-400"
+                        >
+                          <Flame className="h-3 w-3" />
+                          Hot
+                        </Badge>
+                      )}
                       <span className="text-xs text-neutral-500">
                         {article.source}
                       </span>
@@ -435,14 +495,12 @@ export function Home({ articles }: { articles: Article[] }) {
                       <ShareButton article={article} />
                     </div>
                     <CardTitle className="mt-2 text-base leading-snug text-neutral-900 transition-colors group-hover:text-black dark:text-neutral-100 dark:group-hover:text-white">
-                      <a
-                        href={article.link}
-                        target="_blank"
-                        rel="noopener noreferrer"
+                      <Link
+                        href={`/article/${articleSlug(article)}`}
                         className="after:absolute after:inset-0"
                       >
                         {article.title}
-                      </a>
+                      </Link>
                     </CardTitle>
                   </CardHeader>
                   {article.summary && (

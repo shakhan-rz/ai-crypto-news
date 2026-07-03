@@ -1,6 +1,6 @@
 'use client'
 
-import { useEffect, useRef } from 'react'
+import { useEffect, useRef, useState } from 'react'
 
 // Full-screen animated WebGL2 shader (cosmic clouds by Matthias Hurrle
 // @atzedent). The cloud shader only reads `resolution` and `time`, so the
@@ -42,8 +42,17 @@ void main(void){
 
 export function ShaderBackground({ className = '' }: { className?: string }) {
   const canvasRef = useRef<HTMLCanvasElement>(null)
+  // The animated shader is too heavy for phones (continuous GPU render loop
+  // next to the Spline scene). On small screens skip WebGL entirely — the
+  // canvas keeps a static CSS gradient that matches the shader's palette.
+  const [enabled, setEnabled] = useState(false)
 
   useEffect(() => {
+    setEnabled(window.matchMedia('(min-width: 768px)').matches)
+  }, [])
+
+  useEffect(() => {
+    if (!enabled) return
     const canvas: HTMLCanvasElement | null = canvasRef.current
     if (!canvas) return
     const cvs: HTMLCanvasElement = canvas
@@ -113,13 +122,21 @@ export function ShaderBackground({ className = '' }: { className?: string }) {
       gl.deleteShader(fs)
       gl.deleteBuffer(buffer)
     }
-  }, [])
+  }, [enabled])
 
   return (
     <canvas
       ref={canvasRef}
       aria-hidden="true"
       className={`pointer-events-none fixed inset-0 h-full w-full bg-black ${className}`}
+      style={
+        enabled
+          ? undefined
+          : {
+              backgroundImage:
+                'radial-gradient(120% 80% at 70% 20%, rgba(194,105,26,0.35) 0%, rgba(120,60,15,0.18) 40%, rgba(0,0,0,0) 75%), radial-gradient(100% 70% at 20% 80%, rgba(150,80,20,0.22) 0%, rgba(0,0,0,0) 70%)',
+            }
+      }
     />
   )
 }

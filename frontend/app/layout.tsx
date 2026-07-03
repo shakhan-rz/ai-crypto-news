@@ -14,8 +14,28 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "AI + Crypto News",
-  description: "The most important AI and crypto news, ranked by importance.",
+  metadataBase: new URL("https://ai-crypto-news-ten.vercel.app"),
+  title: {
+    default: "AI + Crypto News",
+    template: "%s | AI + Crypto News",
+  },
+  description:
+    "Signal over noise. The most important AI and crypto news, ranked by importance and summarized for you.",
+  keywords: ["AI news", "crypto news", "artificial intelligence", "bitcoin", "blockchain"],
+  openGraph: {
+    type: "website",
+    siteName: "AI + Crypto News",
+    title: "AI + Crypto News",
+    description:
+      "Signal over noise. The most important AI and crypto news, ranked by importance and summarized for you.",
+  },
+  twitter: {
+    card: "summary",
+    title: "AI + Crypto News",
+    description:
+      "The most important AI and crypto news, ranked by importance.",
+  },
+  robots: { index: true, follow: true },
 };
 
 export default function RootLayout({
