@@ -17,12 +17,48 @@ function GithubIcon({ className }: { className?: string }) {
   )
 }
 
-function fearGreedColor(value: number): string {
-  if (value <= 25) return 'text-red-500 dark:text-red-400'
-  if (value <= 45) return 'text-orange-500 dark:text-orange-400'
-  if (value <= 55) return 'text-yellow-500 dark:text-yellow-400'
-  if (value <= 75) return 'text-lime-500 dark:text-lime-400'
-  return 'text-emerald-500 dark:text-emerald-400'
+function fearGreedHex(value: number): string {
+  if (value <= 25) return '#f87171'
+  if (value <= 45) return '#fb923c'
+  if (value <= 55) return '#facc15'
+  if (value <= 75) return '#a3e635'
+  return '#34d399'
+}
+
+function FearGreedGauge({ value }: { value: number }) {
+  // Semi-circle gauge: needle sweeps from -90deg (0) to +90deg (100)
+  const angle = (value / 100) * 180 - 90
+  return (
+    <svg viewBox="0 0 40 22" className="h-[18px] w-8" aria-hidden="true">
+      <defs>
+        <linearGradient id="fg-scale" x1="0" y1="0" x2="1" y2="0">
+          <stop offset="0" stopColor="#f87171" />
+          <stop offset="0.5" stopColor="#facc15" />
+          <stop offset="1" stopColor="#34d399" />
+        </linearGradient>
+      </defs>
+      <path
+        d="M 4 20 A 16 16 0 0 1 36 20"
+        fill="none"
+        stroke="url(#fg-scale)"
+        strokeWidth="4"
+        strokeLinecap="round"
+        opacity="0.9"
+      />
+      <g transform={`rotate(${angle} 20 20)`}>
+        <line
+          x1="20"
+          y1="20"
+          x2="20"
+          y2="8"
+          stroke="currentColor"
+          strokeWidth="2"
+          strokeLinecap="round"
+        />
+      </g>
+      <circle cx="20" cy="20" r="2.5" fill="currentColor" />
+    </svg>
+  )
 }
 
 function FearGreed() {
@@ -44,17 +80,28 @@ function FearGreed() {
 
   if (!data) return null
 
+  const color = fearGreedHex(data.value)
+
   return (
     <span
-      title="Crypto Fear & Greed Index"
-      className="hidden items-center gap-1.5 rounded-full border border-neutral-300 px-2.5 py-1 text-xs font-medium tabular-nums sm:flex dark:border-neutral-800"
+      title={`Crypto Fear & Greed Index: ${data.value} — ${data.label}`}
+      className="mr-1 hidden items-center gap-2 rounded-full border border-neutral-300 bg-white/50 py-1 pl-2 pr-3 text-xs font-medium tabular-nums shadow-sm sm:flex dark:border-neutral-800 dark:bg-neutral-900/60"
     >
-      <span className="text-neutral-500">Fear &amp; Greed</span>
-      <span className={cn('font-semibold', fearGreedColor(data.value))}>
-        {data.value}
+      <span className="text-neutral-700 dark:text-neutral-300">
+        <FearGreedGauge value={data.value} />
       </span>
-      <span className={cn('hidden md:inline', fearGreedColor(data.value))}>
-        {data.label}
+      <span className="flex flex-col leading-none">
+        <span className="flex items-baseline gap-1">
+          <span className="text-sm font-bold" style={{ color }}>
+            {data.value}
+          </span>
+          <span className="text-[10px] font-semibold uppercase tracking-wide" style={{ color }}>
+            {data.label}
+          </span>
+        </span>
+        <span className="mt-0.5 text-[9px] uppercase tracking-wider text-neutral-500">
+          Fear &amp; Greed
+        </span>
       </span>
     </span>
   )
