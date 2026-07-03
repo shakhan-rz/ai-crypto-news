@@ -549,8 +549,11 @@ export function Home({
         )}
 
         {(active !== null || hasQuery) && !loading && sorted.length > 0 && (
-          <div className="mb-4 flex items-center justify-end gap-2 text-sm">
-            <span className="text-neutral-500">Sort by</span>
+          <div className="mb-4 flex items-center justify-between gap-2 text-sm">
+            <span className="tabular-nums text-neutral-500">
+              {sorted.length} {sorted.length === 1 ? 'story' : 'stories'}
+            </span>
+            <span className="ml-auto text-neutral-500">Sort by</span>
             <div className="inline-flex overflow-hidden rounded-full border border-neutral-300 dark:border-neutral-800">
               {(['importance', 'newest'] as SortKey[]).map((key) => (
                 <button
