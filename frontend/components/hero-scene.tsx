@@ -44,13 +44,20 @@ export function HeroScene() {
         className="robot-mascot-float relative h-full w-full"
         style={{
           filter: 'contrast(0.9) brightness(0.95)',
-          maskImage: 'linear-gradient(to bottom, black 0%, black 78%, transparent 98%)',
-          WebkitMaskImage: 'linear-gradient(to bottom, black 0%, black 78%, transparent 98%)',
+          // Feather every edge (radial ellipse) instead of only the bottom, so
+          // wherever the robot's arms/shoulders reach the canvas bounds they
+          // dissolve into the background rather than showing a hard rectangular
+          // "box" cut. Center sits slightly high so the lower body fades more.
+          maskImage:
+            'radial-gradient(120% 95% at 50% 40%, black 50%, rgba(0,0,0,0.6) 72%, transparent 92%)',
+          WebkitMaskImage:
+            'radial-gradient(120% 95% at 50% 40%, black 50%, rgba(0,0,0,0.6) 72%, transparent 92%)',
         }}
       >
+        {/* Slight scale-down gives the arms breathing room inside the canvas. */}
         <SplineScene
           scene="https://prod.spline.design/kZDDjO5HuC9GJUM2/scene.splinecode"
-          className="h-full w-full"
+          className="h-full w-full scale-90"
           onLoad={() => {
             canvasRef.current = wrap.current?.querySelector('canvas') ?? null
           }}
