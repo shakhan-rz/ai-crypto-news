@@ -44,8 +44,8 @@ export function HeroScene() {
         className="robot-mascot-float relative h-full w-full"
         style={{
           filter: 'contrast(0.9) brightness(0.95)',
-          maskImage: 'linear-gradient(to bottom, black 0%, black 48%, transparent 82%)',
-          WebkitMaskImage: 'linear-gradient(to bottom, black 0%, black 48%, transparent 82%)',
+          maskImage: 'linear-gradient(to bottom, black 0%, black 78%, transparent 98%)',
+          WebkitMaskImage: 'linear-gradient(to bottom, black 0%, black 78%, transparent 98%)',
         }}
       >
         <SplineScene

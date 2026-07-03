@@ -281,7 +281,7 @@ export function Home({ articles }: { articles: Article[] }) {
             News
           </h1>
           <p className="mx-auto mt-4 max-w-lg text-neutral-600 dark:text-neutral-300 md:mx-0">
-            Signal over noise — the AI and crypto stories that actually matter,
+            Signal over noise. The AI and crypto stories that actually matter,
             ranked and summarized for you.
           </p>
         </div>
