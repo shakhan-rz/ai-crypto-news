@@ -315,11 +315,6 @@ export function Home({
   const trimmedQuery = query.trim().toLowerCase()
   const hasQuery = trimmedQuery.length > 0
 
-  const sourceCount = useMemo(
-    () => new Set(articles.map((a) => a.source)).size,
-    [articles]
-  )
-
   const counts = useMemo(
     () => ({
       all: articles.length,
@@ -413,24 +408,6 @@ export function Home({
             <CryptoPrices />
           </div>
 
-          <div className="mt-8 inline-flex items-center divide-x divide-neutral-300 rounded-2xl border border-neutral-300 bg-white/60 backdrop-blur-sm dark:divide-neutral-800 dark:border-neutral-800/80 dark:bg-black/40">
-            {[
-              [String(articles.length), 'Stories tracked'],
-              [String(sourceCount), 'News sources'],
-              ...(lastUpdated && timeAgo(lastUpdated)
-                ? [[timeAgo(lastUpdated) as string, 'Last updated']]
-                : []),
-            ].map(([value, label]) => (
-              <div key={label} className="px-5 py-3 text-center md:px-6">
-                <p className="text-xl font-bold tabular-nums text-neutral-900 dark:text-neutral-50 md:text-2xl">
-                  {value}
-                </p>
-                <p className="mt-0.5 text-[10px] font-medium uppercase tracking-widest text-neutral-500 dark:text-neutral-400">
-                  {label}
-                </p>
-              </div>
-            ))}
-          </div>
         </div>
         <HeroScene />
       </section>
