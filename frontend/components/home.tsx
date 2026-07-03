@@ -201,40 +201,6 @@ function FilterButton({
   )
 }
 
-// Cycles through the topics we cover so the headline feels alive without being
-// distracting. The gradient/clip styling comes from the parent <h1>.
-const ROTATING_WORDS = ['AI + Crypto', 'Bitcoin', 'Ethereum', 'AI Agents', 'Web3']
-
-function RotatingWord() {
-  const [i, setI] = useState(0)
-
-  useEffect(() => {
-    const id = setInterval(() => setI((n) => (n + 1) % ROTATING_WORDS.length), 2200)
-    return () => clearInterval(id)
-  }, [])
-
-  // The animated span carries its own gradient+clip. It can't inherit the
-  // parent <h1>'s background-clip:text because framer-motion adds a transform,
-  // which breaks background-clip across the transformed layer (text goes
-  // invisible). Giving the span its own clipped gradient fixes that.
-  return (
-    <span className="relative inline-flex overflow-hidden pb-1 align-bottom">
-      <AnimatePresence mode="wait" initial={false}>
-        <motion.span
-          key={ROTATING_WORDS[i]}
-          initial={{ y: '100%', opacity: 0 }}
-          animate={{ y: 0, opacity: 1 }}
-          exit={{ y: '-100%', opacity: 0 }}
-          transition={{ duration: 0.4, ease: 'easeOut' }}
-          className="inline-block bg-gradient-to-b from-orange-300 to-orange-600 bg-clip-text text-transparent"
-        >
-          {ROTATING_WORDS[i]}
-        </motion.span>
-      </AnimatePresence>
-    </span>
-  )
-}
-
 export function Home({ articles }: { articles: Article[] }) {
   const [active, setActive] = useState<FilterKey | null>(null)
   const [query, setQuery] = useState('')
@@ -309,7 +275,10 @@ export function Home({ articles }: { articles: Article[] }) {
       <section className="mx-auto flex max-w-6xl flex-col items-center gap-6 px-4 pt-16 pb-10 md:flex-row md:justify-between md:gap-8">
         <div className="text-center md:text-left">
           <h1 className="bg-gradient-to-b from-neutral-900 to-neutral-500 bg-clip-text text-4xl font-bold text-transparent dark:from-neutral-50 dark:to-neutral-400 md:text-6xl">
-            <RotatingWord /> News
+            <span className="bg-gradient-to-b from-orange-300 to-orange-600 bg-clip-text text-transparent">
+              AI + Crypto
+            </span>{' '}
+            News
           </h1>
           <p className="mx-auto mt-4 max-w-lg text-neutral-600 dark:text-neutral-300 md:mx-0">
             Signal over noise — the AI and crypto stories that actually matter,
