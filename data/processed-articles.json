@@ -1,5 +1,17 @@
 [
   {
+    "title": "UK's bold new crypto rules promise to unlock global trading, but huge compliance hurdles still threaten the rollout",
+    "link": "https://www.coindesk.com/policy/2026/07/04/uk-s-bold-new-crypto-rules-promise-to-unlock-global-trading-but-huge-compliance-hurdles-still-threaten-the-rollout",
+    "pubDate": "Sat, 04 Jul 2026 12:00:00 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "The U.K. FCA's crypto framework has been praised for prioritizing global liquidity and institutional adoption, but the authorization process is expected to be daunting.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/e0513d0a4817ed047117319c2338d720ea07bb82-1920x1439.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "The U.K.'s Financial Conduct Authority (FCA) has introduced new crypto rules designed to enhance global liquidity and facilitate institutional adoption within the cryptocurrency market. While the framework has garnered praise for its forward-thinking approach, its implementation is expected to face significant challenges due to a complex and daunting authorization process.",
+    "importance": 8,
+    "classified": true
+  },
+  {
     "title": "Bitcoin’s next parabolic run may need $1 trillion in fresh capital",
     "link": "https://www.coindesk.com/markets/2026/07/04/bitcoin-s-next-parabolic-run-may-need-usd1-trillion-in-fresh-capital",
     "pubDate": "Sat, 04 Jul 2026 06:48:42 +0000",
@@ -276,6 +288,18 @@
     "classified": true
   },
   {
+    "title": "Revolut to delist USDT in August, citing regulatory and risk concerns",
+    "link": "https://cointelegraph.com/news/revolut-usdt-delisting-regulatory-risk-concerns?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Sat, 04 Jul 2026 11:25:34 +0000",
+    "source": "Cointelegraph",
+    "category": "crypto",
+    "content": "Revolut notified some customers it will delist USDT after Aug. 31, with remaining holdings automatically converted into users’ base currency.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-kraken-to-delist-tether-usdt.png",
+    "summary": "Revolut is delisting the stablecoin USDT for some customers after August 31st, citing regulatory and risk concerns. Any USDT holdings remaining after this date will be automatically converted into the user's base currency.",
+    "importance": 7,
+    "classified": true
+  },
+  {
     "title": "Tim Draper denies moving Bitcoin, reiterates $250,000 BTC prediction",
     "link": "https://cointelegraph.com/news/tim-draper-denies-moving-bitcoin-250k-btc-prediction?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "pubDate": "Sat, 04 Jul 2026 08:31:02 +0000",
@@ -344,18 +368,6 @@
     "content": "Securitize has issued tokenized versions of its shares on Solana and Avalanche, marking the first time a newly public company has done so on its debut.",
     "image": "https://s3-images.ctmedia.io/media/article-covers/hi-sponsored-story-illustration-for-decoin1.jpg",
     "summary": "Securitize, a newly listed NYSE company, has issued tokenized versions of its own shares on the Solana and Avalanche blockchains, marking the first time a fresh public firm launches tokenized stock on its debut. This move highlights the growing integration of traditional equities with blockchain technology.",
-    "importance": 7,
-    "classified": true
-  },
-  {
-    "title": "IMF says tokenization could transform settlement and financial stability",
-    "link": "https://cointelegraph.com/news/imf-tokenization-financial-markets-settlement-risks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Thu, 02 Jul 2026 19:17:32 +0000",
-    "source": "Cointelegraph",
-    "category": "crypto",
-    "content": "The global lender says blockchain-based finance could streamline markets but warns that fragmented standards and regulations may create new systemic risks.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-imf-and-blockchain.jpg",
-    "summary": "The IMF says that tokenization of assets using blockchain could improve settlement processes and enhance financial stability. However, it warns that fragmented standards and regulations may create new systemic risks.",
     "importance": 7,
     "classified": true
   },
@@ -572,6 +584,18 @@
     "content": "Meta is developing plans for a cloud infrastructure business, selling access to AI compute power and models. The move would pit it against the big cloud providers like Amazon Web Services, Google Cloud, and Microsoft Azure.",
     "image": "",
     "summary": "Meta plans to launch a cloud infrastructure service that sells access to its surplus AI compute power and models, positioning itself against major cloud providers such as AWS, Google Cloud, and Microsoft Azure. The initiative mirrors SpaceX's strategy of monetizing excess capacity, aiming to generate revenue from unused AI resources.",
+    "importance": 7,
+    "classified": true
+  },
+  {
+    "title": "The fanfiction community is at war with AI — and itself",
+    "link": "https://www.theverge.com/tech/960854/ai-fanfiction-ao3-claude-detector",
+    "pubDate": "2026-07-04T12:00:00.000Z",
+    "source": "The Verge AI",
+    "category": "ai",
+    "content": "Fanfiction communities are trying to hunt down writers who haven’t written works with their own hands. | Image: Álvaro Bernis / The Verge\t\n\nOver the past week, a new fanworks movement has kicked off, with the aim to root out authors using generative AI. But the detection methods being implemented are questionable, and any fanfic writer could be caught in the crossfire.\nBroad distaste around the use of Claude, ChatGPT, and other AI tools has long been a thing in creative communities, including the world of fanfiction. Readers and writers have passed around tips for spotting supposedly AI-generated works, citing anything from em dashes to the broad concept of purple prose. But on June 29th, an anonymous X account called @heatedrivalryai promised a seemingly more reliable solution …\nRead the full story at The Verge.",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/AI_Hands_A_Bernis_02.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "summary": "The fanfiction community has launched a movement to identify and remove works created using generative AI tools like Claude and ChatGPT. This effort stems from a broad dislike of AI-generated content, but the detection methods being used are questionable and risk unfairly targeting human writers. An anonymous X account has emerged, promising a more reliable solution to this conflict within the community.",
     "importance": 7,
     "classified": true
   },
@@ -800,18 +824,6 @@
     "content": "The Nasdaq-listed Korean media company once lined up $1 billion in financing to buy 10,000 bitcoin. A recent filing confirms its balance is now zero as it pivots to AI infrastructure and fights to stay listed.",
     "image": "https://cdn.sanity.io/images/s3y3vcno/production/bfb4779e9245468a88a2a948bb0e1677ae7e7858-3840x2160.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
     "summary": "A Nasdaq-listed Korean media company that once secured $1 billion to purchase 10,000 bitcoins has now exhausted its crypto holdings and is pivoting to AI infrastructure in an effort to remain publicly listed.",
-    "importance": 6,
-    "classified": true
-  },
-  {
-    "title": "Warsh's comments set the stage for U.S. jobs data to ignite bitcoin, gold rally",
-    "link": "https://www.coindesk.com/daybook-us/2026/07/02/warsh-s-comments-set-the-stage-for-u-s-jobs-data-to-ignite-bitcoin-gold-rally",
-    "pubDate": "Thu, 02 Jul 2026 11:47:06 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "Your day-ahead look for July 2, 2026",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/0ee5eca8e4dbb143c3fbd6418fa5bfc8c12f0469-1600x977.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "The article notes that comments from Fed official Warsh are expected to shape market sentiment ahead of the U.S. jobs data release. This backdrop could spark a rally in Bitcoin and gold on July 2, 2026.",
     "importance": 6,
     "classified": true
   },
@@ -1356,18 +1368,6 @@
     "classified": true
   },
   {
-    "title": "Tidal won’t pay royalties on AI-generated music, but isn’t banning it outright",
-    "link": "https://www.theverge.com/tech/959211/tidal-ai-music-policy-demonetizingdetect-label",
-    "pubDate": "2026-06-29T19:47:35.000Z",
-    "source": "The Verge AI",
-    "category": "ai",
-    "content": "Tidal shared its new policies regarding AI-generated music today and how the platform plans to \"protect artists\" and \"inform listeners.\" Instead of banning it outright, starting on July 15th Tidal will label tracks it has identified as being 100 percent AI-generated with an icon. But starting today those tracks will no longer be monetizable. \"Tidal's priority is ensuring royalties go to original works directly produced, written, and performed by people. We will therefore not knowingly attribute royalties to music we identify as wholly AI-generated,\" the company's announcement reads. \nThe platform didn't specify what tools it's using to iden …\nRead the full story at The Verge.",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25319678/STK301_Tidal_01.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "summary": "Tidal announced that it will cease paying royalties on tracks identified as 100% AI-generated, though it will not ban such music. Starting July 15, these tracks will be marked with an AI icon, and they are already non‑monetizable as of today.",
-    "importance": 6,
-    "classified": true
-  },
-  {
     "title": "Musk’s X poses “serious risk to Americans’ privacy,” advocates warn FTC",
     "link": "https://arstechnica.com/tech-policy/2026/07/musks-x-poses-serious-risk-to-americans-privacy-advocates-warn-ftc/",
     "pubDate": "Thu, 02 Jul 2026 14:39:17 +0000",
@@ -1562,7 +1562,7 @@
   {
     "title": "Here’s what happened in crypto today",
     "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Sat, 04 Jul 2026 05:02:44 +0000",
+    "pubDate": "Sat, 04 Jul 2026 12:04:07 +0000",
     "source": "Cointelegraph",
     "category": "crypto",
     "content": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
