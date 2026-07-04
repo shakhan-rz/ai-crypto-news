@@ -1,5 +1,29 @@
 [
   {
+    "title": "How ethical hackers with just a $3,000 server found a flaw that could've put $70 billion in crypto at risk",
+    "link": "https://www.coindesk.com/tech/2026/07/04/how-ethical-hackers-with-just-a-usd3-000-server-found-a-flaw-that-could-ve-put-usd70-billion-in-crypto-at-risk",
+    "pubDate": "Sat, 04 Jul 2026 18:00:00 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "A critical flaw in the Aptos blockchain, which was patched, gave researchers a near-90% success rate at breaking a core security guarantee, with attack costs of just hundreds of dollars.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/6c28c3dcd5461d3803d6e6200f1da0686dde993f-1920x1082.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "Ethical hackers discovered and patched a critical flaw in the Aptos blockchain that could have put $70 billion in crypto at risk. Utilizing a $3,000 server, they demonstrated a nearly 90% success rate in exploiting the vulnerability with attack costs of just hundreds of dollars.",
+    "importance": 9,
+    "classified": true
+  },
+  {
+    "title": "Nearly 1 million wallets are down $3.81 billion on Trump’s memecoin: report",
+    "link": "https://www.theblock.co/post/407170/nearly-1-million-wallets-are-down-3-81-billion-on-trumps-memecoin-report?utm_source=rss&utm_medium=rss",
+    "pubDate": "Sat, 04 Jul 2026 16:44:18 -0400",
+    "source": "The Block",
+    "category": "crypto",
+    "content": "Trump's annual financial disclosure showed a $636 million payout tied to the token and more than $1.4 billion in total crypto-related income for 2025.",
+    "image": "https://www.tbstat.com/wp/uploads/2024/07/20240715_Trump_News_2-800x450.jpg",
+    "summary": "A report indicates that nearly 1 million wallets have collectively lost $3.81 billion on a Trump-themed memecoin. Concurrently, Donald Trump's financial disclosures show a $636 million payout tied to this token, contributing to his more than $1.4 billion in total crypto-related income for 2025.",
+    "importance": 9,
+    "classified": true
+  },
+  {
     "title": "What is Mistral AI? Everything to know about the OpenAI competitor",
     "link": "https://techcrunch.com/2026/07/04/what-is-mistral-ai-everything-to-know-about-the-openai-competitor/",
     "pubDate": "Sat, 04 Jul 2026 15:51:32 +0000",
@@ -96,14 +120,14 @@
     "classified": true
   },
   {
-    "title": "US Treasury sanctions over 100 ISIS-K crypto addresses that moved over $1.4 million",
-    "link": "https://www.coindesk.com/policy/2026/07/02/us-treasury-sanctions-over-100-isis-k-crypto-addresses-in-latest-enforcement-action",
-    "pubDate": "Thu, 02 Jul 2026 14:49:05 +0000",
-    "source": "CoinDesk",
+    "title": "Kraken lets traders use tokenized stocks as collateral for leveraged trades",
+    "link": "https://cointelegraph.com/news/kraken-lets-traders-use-tokenized-stocks-as-collateral-for-leveraged-trades?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Sat, 04 Jul 2026 19:37:11 +0000",
+    "source": "Cointelegraph",
     "category": "crypto",
-    "content": "ISIS-K allegedly used its media wing to solicit donations via Tron, Monero, and Bitcoin, highlighting stablecoin issuers' growing role in sanctions enforcement.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/e2c649b60df6550632e6e0f31c5910ba116bbc5d-1920x1280.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "The U.S. Treasury has sanctioned more than 100 cryptocurrency addresses linked to ISIS-K, which reportedly raised over $1.4 million through donations made via Tron, Monero, and Bitcoin. The sanctions highlight the increasing role of stablecoin issuers and other crypto platforms in sanctions enforcement against terrorist financing.",
+    "content": "Eligible users can now use select tokenized stocks and ETFs as collateral for futures and margin trading without selling their holdings.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-cover-imagereview-of-us-stocks.png",
+    "summary": "Kraken has launched a new feature enabling eligible users to utilize select tokenized stocks and ETFs as collateral for futures and margin trading. This allows traders to engage in leveraged trades without needing to sell their existing tokenized holdings.",
     "importance": 8,
     "classified": true
   },
@@ -285,6 +309,18 @@
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/openai-broadcom-jalapeno-inference-chip-image-1152x648.webp",
     "summary": "OpenAI and Broadcom have announced a new chip specifically built for large language model inference at scale, aiming to meet the surging demand for AI compute power. The announcement underscores the intensifying silicon race as companies race to provide hardware capable of handling massive AI workloads.",
     "importance": 8,
+    "classified": true
+  },
+  {
+    "title": "Tokenization's next use case is personalized portfolios, NYLIM executive says",
+    "link": "https://www.coindesk.com/business/2026/07/02/tokenization-s-next-use-case-is-personalized-portfolios-nylim-executive-says",
+    "pubDate": "Sat, 04 Jul 2026 20:00:00 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "Thomas Sy, head of multi-asset solutions at the $800-million asset manager, says blockchain can enable complex portfolio construction that's not yet possible in traditional finance.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/8082bae2b57a9811078afac63d9be93264695df1-1035x818.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "Thomas Sy, head of multi-asset solutions at NYLIM, believes that blockchain technology will enable a new use case for tokenization: personalized portfolios. He suggests this technology can facilitate complex portfolio construction that is not currently achievable within traditional finance.",
+    "importance": 7,
     "classified": true
   },
   {
@@ -480,18 +516,6 @@
     "classified": true
   },
   {
-    "title": "Peter Thiel-backed crypto-friendly Erebor Bank eyes $8 billion valuation as deposits nearly quadruple: Bloomberg",
-    "link": "https://www.theblock.co/post/407026/peter-thiel-backed-crypto-friendly-erebor-bank-eyes-8-billion-valuation-as-deposits-nearly-quadruple-bloomberg?utm_source=rss&utm_medium=rss",
-    "pubDate": "Thu, 02 Jul 2026 09:22:49 -0400",
-    "source": "The Block",
-    "category": "crypto",
-    "content": "Erebor Bank, backed by Palmer Luckey and Peter Thiel, is in talks to raise funding at a valuation of at least $8 billion, per Bloomberg.",
-    "image": "https://www.tbstat.com/wp/uploads/2026/01/20220906_Funding_News-800x450.jpg",
-    "summary": "Erebor Bank, a crypto-friendly institution backed by Peter Thiel and Palmer Luckey, is seeking a valuation of at least $8 billion as its deposits have nearly quadrupled. The bank is currently in talks to raise new funding, according to Bloomberg.",
-    "importance": 7,
-    "classified": true
-  },
-  {
     "title": "Wavespace Launches MiCA-Compliant Self-Custodial Bitcoin Debit Card Powered by Lightning and NWC",
     "link": "https://bitcoinmagazine.com/business/wavespace-launches-mica-compliant-self-custodial-bitcoin-debit-card-powered-by-lightning-and-nwc",
     "pubDate": "Thu, 02 Jul 2026 19:11:07 +0000",
@@ -632,18 +656,6 @@
     "content": "Venice AI is already profitable, with annualized run-rate revenues of over $70 million, CEO Erik Voorhees said.",
     "image": "",
     "summary": "Venice AI, a privacy‑first artificial intelligence platform founded by Erik Voorhees, announced a $65 million Series A round that values the company as a unicorn. The startup is already profitable, reporting an annualized run‑rate of over $70 million in revenue.",
-    "importance": 7,
-    "classified": true
-  },
-  {
-    "title": "Meta, like SpaceX, looks to turn excess AI compute into cash",
-    "link": "https://techcrunch.com/2026/07/01/meta-like-spacex-looks-to-turn-excess-ai-compute-into-cash/",
-    "pubDate": "Wed, 01 Jul 2026 13:43:07 +0000",
-    "source": "TechCrunch AI",
-    "category": "ai",
-    "content": "Meta is developing plans for a cloud infrastructure business, selling access to AI compute power and models. The move would pit it against the big cloud providers like Amazon Web Services, Google Cloud, and Microsoft Azure.",
-    "image": "",
-    "summary": "Meta plans to launch a cloud infrastructure service that sells access to its surplus AI compute power and models, positioning itself against major cloud providers such as AWS, Google Cloud, and Microsoft Azure. The initiative mirrors SpaceX's strategy of monetizing excess capacity, aiming to generate revenue from unused AI resources.",
     "importance": 7,
     "classified": true
   },
@@ -1020,18 +1032,6 @@
     "classified": true
   },
   {
-    "title": "Bitcoin holds $61K after US jobs data report, AI sector weakness: Did BTC bottom?",
-    "link": "https://cointelegraph.com/markets/bitcoin-holds-61k-after-us-jobs-data-report-ai-sector-weakness-did-btc-bottom?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Fri, 03 Jul 2026 00:01:01 +0000",
-    "source": "Cointelegraph",
-    "category": "crypto",
-    "content": "Bitcoin bulls may make a run on $70,000 after weak US jobs data eased rate hike fears and capital looks to rotate into BTC and gold.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/article-covers-229366-fed-whisperer-reveals-internal-split-over-rate-cuts-can-bitcoin-hold-its-rebound.jpg",
-    "summary": "Bitcoin maintained its $61,000 level after weak US jobs data reduced expectations of further rate hikes, prompting capital to shift into BTC and gold. The article notes that a softening AI sector also contributed to market dynamics, raising speculation that Bitcoin could soon target $70,000.",
-    "importance": 6,
-    "classified": true
-  },
-  {
     "title": "CryptoQuant says bitcoin and altcoin exchange deposits have spiked, indicating higher volatility ahead",
     "link": "https://www.theblock.co/post/407160/cryptoquant-bitcoin-ether-altcoin-exchange-deposits-volatility?utm_source=rss&utm_medium=rss",
     "pubDate": "Fri, 03 Jul 2026 13:55:56 -0400",
@@ -1248,6 +1248,18 @@
     "classified": true
   },
   {
+    "title": "New Google commercial imagines a Declaration of Independence written with help from AI",
+    "link": "https://techcrunch.com/2026/07/04/new-google-commercial-imagines-a-declaration-of-independence-written-with-help-from-ai/",
+    "pubDate": "Sat, 04 Jul 2026 20:55:25 +0000",
+    "source": "TechCrunch AI",
+    "category": "ai",
+    "content": "Two hundred and fifty years after the signing of the Declaration of Independence, a new commercial asks: What if the Founding Fathers had access to Google Workspace?",
+    "image": "",
+    "summary": "A new Google commercial envisions the Founding Fathers using Google Workspace, powered by AI, to write the Declaration of Independence. The ad explores how AI could have assisted in the creation of this historic document. This concept highlights the potential of AI in enhancing human creativity and productivity.",
+    "importance": 6,
+    "classified": true
+  },
+  {
     "title": "Alibaba reportedly bans employees from using Claude Code",
     "link": "https://techcrunch.com/2026/07/04/alibaba-reportedly-bans-employees-from-using-claude-code/",
     "pubDate": "Sat, 04 Jul 2026 16:32:08 +0000",
@@ -1460,18 +1472,6 @@
     "content": "Buyers defended a higher low and pushed XRP toward near-term resistance, though the move still needs a clean break above $1.10 to confirm momentum.",
     "image": "https://cdn.sanity.io/images/s3y3vcno/production/f47e6969c97eae73a343de175986d26fe536fc3f-1194x728.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
     "summary": "The article reports that XRP buyers have defended a higher low, pushing the token up 4% and testing the near-term resistance level. A clean break above $1.10 is needed to confirm continued momentum toward the $1.10 target.",
-    "importance": 5,
-    "classified": true
-  },
-  {
-    "title": "Bitwise says STRC selloff signals crypto cycle nearing a bottom, not Strategy’s breaking point",
-    "link": "https://www.coindesk.com/markets/2026/07/02/bitwise-says-strc-selloff-signals-crypto-cycle-nearing-a-bottom-not-strategy-s-breaking-point",
-    "pubDate": "Thu, 02 Jul 2026 16:51:36 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "Bitwise said STRC's volatility reflects a late-cycle leverage unwind, with institutions poised to replace Strategy as bitcoin's biggest buyer.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/a34f85098aeb0abf6143a6f966e3775d6f42fc8a-931x557.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "Bitwise says the recent volatility and selloff in STRC reflect a late‑cycle leverage unwind, indicating the crypto market may be nearing a bottom rather than a breakdown, and that institutions are poised to become the next major Bitcoin buyers.",
     "importance": 5,
     "classified": true
   },
