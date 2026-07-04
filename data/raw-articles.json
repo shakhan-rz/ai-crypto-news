@@ -1,5 +1,32 @@
 [
   {
+    "title": "Bitcoin jumps above $63,000, reversing end-June losses",
+    "link": "https://www.coindesk.com/markets/2026/07/04/bitcoin-jumps-above-usd63-000-reversing-end-june-losses",
+    "pubDate": "Sat, 04 Jul 2026 18:07:17 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "The token hit its highest in over a month during thin July 4 trading, with XRP up 5% in 24 hours to lead gains among majors.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/9671b1d7488457d9192370d402ecbdd3c3ea9589-4452x2504.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
+  },
+  {
+    "title": "Bitcoin experts split over plan to freeze Satoshi's 1.1 million bitcoin as quantum threat grows",
+    "link": "https://www.coindesk.com/business/2026/07/04/bitcoin-experts-split-over-plan-to-freeze-satoshi-s-1-1-million-bitcoin-as-quantum-threat-grows",
+    "pubDate": "Sat, 04 Jul 2026 18:00:00 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "Binance founder Changpeng Zhao said Satoshi Nakamoto's bitcoin should be frozen before quantum computers can steal it. Not everyone agrees.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/58eab2c21500ffeaf7befff78c12ae0576153044-3721x2093.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
+  },
+  {
+    "title": "Why bitcoin's disconnect from record-high stocks won't last",
+    "link": "https://www.coindesk.com/markets/2026/07/03/why-bitcoin-s-disconnect-from-record-high-stocks-won-t-last",
+    "pubDate": "Sat, 04 Jul 2026 16:00:00 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "Researchers at Schwab and Hashdex said AI has diverted capital from digital assets while bitcoin continues to follow a familiar post-halving recovery pattern.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/7a39a5a5c2bfa63c4f773a6ab3f70e9634da4f5e-6960x4640.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
+  },
+  {
     "title": "Trump's crypto token buyers are down $3.8 billion, blockchain data shows",
     "link": "https://www.coindesk.com/business/2026/07/04/trump-s-crypto-token-buyers-are-down-usd3-8-billion-blockchain-data-shows",
     "pubDate": "Sat, 04 Jul 2026 15:30:52 +0000",
@@ -198,31 +225,13 @@
     "image": "https://cdn.sanity.io/images/s3y3vcno/production/e2c649b60df6550632e6e0f31c5910ba116bbc5d-1920x1280.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
   },
   {
-    "title": "SBI Crypto to shut down mining pool that holds roughly 2% of Bitcoin's hashrate",
-    "link": "https://www.coindesk.com/business/2026/07/02/sbi-crypto-to-shut-down-mining-pool-that-holds-roughly-2-of-bitcoin-s-hashrate",
-    "pubDate": "Thu, 02 Jul 2026 14:44:55 +0000",
-    "source": "CoinDesk",
+    "title": "Kalshi hits record June trading volume as World Cup fuels prediction markets",
+    "link": "https://cointelegraph.com/news/world-cup-drives-prediction-markets-to-record-june-trading-volumes?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Sat, 04 Jul 2026 16:47:27 +0000",
+    "source": "Cointelegraph",
     "category": "crypto",
-    "content": "Miners must redirect their hashrate before the July 31 cutoff, as the pool will stop accepting contributions after that date.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/e4ca7bbcf33940ac3a79675ca9923d61aeededd5-1920x1077.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
-  },
-  {
-    "title": "Ondo Finance debuts SEC-aligned tokenized stock model with BlackRock ETF, Micron shares",
-    "link": "https://www.coindesk.com/business/2026/07/01/ondo-finance-debuts-sec-aligned-tokenized-stock-model-with-blackrock-etf-micron-shares",
-    "pubDate": "Thu, 02 Jul 2026 14:16:02 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "Broadridge and transfer agent Oasis Pro underpin a new structure that keeps tokenized securities within existing U.S. market rules, based on the SEC's third-party custodial model.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/3f1dbd8cb41598099316bf369b152214dad2811d-4869x3240.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
-  },
-  {
-    "title": "JPMorgan says Strategy's bitcoin sales policy adds 'two-way risk' to crypto markets",
-    "link": "https://www.coindesk.com/markets/2026/07/02/jpmorgan-says-strategy-s-bitcoin-sales-policy-adds-two-way-risk-to-crypto-markets",
-    "pubDate": "Thu, 02 Jul 2026 13:11:22 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "The bank said Strategy's bitcoin sales policy adds avoidable market uncertainty and should be replaced with equity issuance to build cash reserves.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/3a6393eb4ae1f1db4ef1caec0023161c16707226-6000x3376.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip"
+    "content": "DefiLlama data shows Kalshi posted a record month for trading volume as the expanded FIFA World Cup boosted prediction market activity.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-nft-at-the-fifa-world-cup.png"
   },
   {
     "title": "Bollinger Bands creator eyes Bitcoin bear-market end, 'W'-shaped reversal",
@@ -486,13 +495,13 @@
     "image": "https://s3-images.ctmedia.io/media/article-covers/article-covers-229366-fed-whisperer-reveals-internal-split-over-rate-cuts-can-bitcoin-hold-its-rebound.jpg"
   },
   {
-    "title": "Is Bitcoin heading for $65K? Sharplink buys $16M ETH: Market Moves",
-    "link": "https://cointelegraph.com/features/is-bitcoin-heading-for-65k-sharplink-buys-16m-eth-market-moves?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Thu, 02 Jul 2026 23:17:47 +0000",
-    "source": "Cointelegraph",
+    "title": "Aave’s new Monad market tops $100 million in deposits two days after launch",
+    "link": "https://www.theblock.co/post/407167/aaves-new-monad-market-tops-100-million-in-deposits-two-days-after-launch?utm_source=rss&utm_medium=rss",
+    "pubDate": "Sat, 04 Jul 2026 12:32:20 -0400",
+    "source": "The Block",
     "category": "crypto",
-    "content": "Analysts are divided on Bitcoin's next move, but there's some hope at last. Meanwhile, SharpLink has resumed buying Ether after an eight-week pause, and other market news.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/market-moves.jpg"
+    "content": "Aave's V4 deployment also crossed $250 million in deposits on Saturday, a new all-time high for that version of the protocol.",
+    "image": "https://www.tbstat.com/wp/uploads/2024/08/20240819_Aave_News-800x450.jpg"
   },
   {
     "title": "CryptoQuant says bitcoin and altcoin exchange deposits have spiked, indicating higher volatility ahead",
@@ -666,15 +675,6 @@
     "image": "https://www.tbstat.com/wp/uploads/2026/01/20220906_Funding_News-800x450.jpg"
   },
   {
-    "title": "Anchorage Digital adds Lido support, giving institutions access to wstETH",
-    "link": "https://www.theblock.co/post/406587/anchorage-digital-adds-lido-support-giving-institutions-access-to-wsteth?utm_source=rss&utm_medium=rss",
-    "pubDate": "Thu, 02 Jul 2026 09:00:00 -0400",
-    "source": "The Block",
-    "category": "crypto",
-    "content": "Through the integration, institutional clients gain direct access to Lido's wrapped staked ETH token, wstETH, via Anchorage’s platform.",
-    "image": "https://www.tbstat.com/wp/uploads/2023/03/Anchorage-Digital-White-Logo-800x339.png"
-  },
-  {
     "title": "Bitcoin Exchange Inflows Spike to 49,000 BTC in a Day, Signaling More Volatility is Coming: Report",
     "link": "https://bitcoinmagazine.com/markets/bitcoin-exchange-inflows-spike-to-49000",
     "pubDate": "Thu, 02 Jul 2026 19:56:52 +0000",
@@ -770,7 +770,7 @@
     "pubDate": "Fri, 03 Jul 2026 17:34:37 +0000",
     "source": "MIT Technology Review",
     "category": "ai",
-    "content": "It’s not easy to transplant a whole human eye. The surgery is difficult. And the eyes themselves start to degenerate as soon as they’ve left the body. When surgeons attempted it a few years ago, the newly-transplanted eye wasn’t able to see. But researchers believe they might have a solution: a device that maintains and…",
+    "content": "It’s not easy to transplant a whole human eye. The surgery is difficult. And the eyes themselves start to degenerate as soon as they’ve left the body. When surgeons attempted it a few years ago, the newly transplanted eye wasn’t able to see. But researchers believe they might have a solution: a device that maintains…",
     "image": ""
   },
   {
@@ -852,6 +852,24 @@
     "source": "MIT Technology Review",
     "category": "ai",
     "content": "At an event for pharmaceutical executives, biotech founders, and researchers on Tuesday, Anthropic announced Claude Science, a major new product intended to support scientific research in the same way that Claude Code supports software engineering. Like Claude Code, Claude Science can autonomously carry out meaningful work when given concise, high-level instructions, and it has access…",
+    "image": ""
+  },
+  {
+    "title": "Midjourney wants Hollywood studios to reveal the details of their AI usage",
+    "link": "https://techcrunch.com/2026/07/04/midjourney-wants-hollywood-studios-to-reveal-the-details-of-their-ai-usage/",
+    "pubDate": "Sat, 04 Jul 2026 18:00:05 +0000",
+    "source": "TechCrunch AI",
+    "category": "ai",
+    "content": "As part of an ongoing legal dispute with three Hollywood studios, Midjourney is seeking to compel those studios to reveal how they use AI themselves.",
+    "image": ""
+  },
+  {
+    "title": "Alibaba reportedly bans employees from using Claude Code",
+    "link": "https://techcrunch.com/2026/07/04/alibaba-reportedly-bans-employees-from-using-claude-code/",
+    "pubDate": "Sat, 04 Jul 2026 16:32:08 +0000",
+    "source": "TechCrunch AI",
+    "category": "ai",
+    "content": "Alibaba has reportedly classified Claude Code as high-risk software.",
     "image": ""
   },
   {
@@ -1014,24 +1032,6 @@
     "source": "TechCrunch AI",
     "category": "ai",
     "content": "Meta is developing plans for a cloud infrastructure business, selling access to AI compute power and models. The move would pit it against the big cloud providers like Amazon Web Services, Google Cloud, and Microsoft Azure.",
-    "image": ""
-  },
-  {
-    "title": "The ‘Father of the Internet’ is finally retiring",
-    "link": "https://techcrunch.com/2026/06/30/the-father-of-the-internet-is-finally-retiring/",
-    "pubDate": "Wed, 01 Jul 2026 03:15:37 +0000",
-    "source": "TechCrunch AI",
-    "category": "ai",
-    "content": "Vinton Cerf, one of the creators of the protocols underlying the internet, will step down as Google's chief internet evangelist next week.",
-    "image": ""
-  },
-  {
-    "title": "Trump drops restrictions on Anthropic’s Mythos and Fable models",
-    "link": "https://techcrunch.com/2026/06/30/trump-drops-restrictions-on-anthropics-mythos-and-fable-models/",
-    "pubDate": "Wed, 01 Jul 2026 02:16:06 +0000",
-    "source": "TechCrunch AI",
-    "category": "ai",
-    "content": "The Trump administration's erratic approach to AI policymaking has left companies across the industry with little clarity about what will govern future model releases.",
     "image": ""
   },
   {
