@@ -149,6 +149,15 @@ export function Home({
     const next = active === key ? null : key
     setActive(next)
     setShownCount(PAGE_SIZE)
+    // Keep the selection in the URL so it survives navigating to an article
+    // and back.
+    const url = new URL(window.location.href)
+    if (next === null) {
+      url.searchParams.delete('cat')
+    } else {
+      url.searchParams.set('cat', next)
+    }
+    window.history.replaceState(null, '', url)
     if (next !== null) {
       setLoading(true)
       setTimeout(() => setLoading(false), 400)

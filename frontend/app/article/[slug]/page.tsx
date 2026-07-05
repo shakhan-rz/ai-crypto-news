@@ -1,7 +1,8 @@
 import type { Metadata } from 'next'
 import Link from 'next/link'
 import { notFound } from 'next/navigation'
-import { ArrowLeft, ExternalLink } from 'lucide-react'
+import { ExternalLink } from 'lucide-react'
+import { BackLink } from '@/components/back-link'
 import { ShaderBackground } from '@/components/ui/shader-background'
 import { Navbar } from '@/components/navbar'
 import { Footer } from '@/components/footer'
@@ -79,13 +80,7 @@ export default async function ArticlePage({
         <Navbar />
 
         <article className="mx-auto max-w-3xl px-4 py-12">
-          <Link
-            href="/"
-            className="mb-8 inline-flex items-center gap-1.5 text-sm text-neutral-400 transition-colors hover:text-neutral-100"
-          >
-            <ArrowLeft className="h-4 w-4" />
-            Back to all news
-          </Link>
+          <BackLink />
 
           <div className="rounded-2xl border border-neutral-800/60 bg-black/70 p-6 shadow-2xl backdrop-blur-md md:p-10">
           <div className="flex flex-wrap items-center gap-2">
