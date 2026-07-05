@@ -2,7 +2,7 @@
 
 import { useEffect, useMemo, useState } from 'react'
 import { motion } from 'framer-motion'
-import { ArrowDown, Search, X } from 'lucide-react'
+import { ArrowDown, Bitcoin, Bot, Search, Sparkles, X } from 'lucide-react'
 import { Button } from '@/components/ui/neon-button'
 import { HeroScene } from '@/components/hero-scene'
 import {
@@ -38,12 +38,14 @@ const PAGE_SIZE = 5
 function FilterButton({
   label,
   count,
+  icon,
   isActive,
   onClick,
   className,
 }: {
   label: string
   count: number
+  icon: React.ReactNode
   isActive: boolean
   onClick: () => void
   className?: string
@@ -53,15 +55,18 @@ function FilterButton({
       onClick={onClick}
       size="sm"
       className={cn(
-        'px-4 py-1.5 text-sm font-medium',
+        'inline-flex items-center gap-1.5 px-4 py-1.5 text-sm font-medium',
         isActive
           ? 'border-orange-500 bg-gradient-to-br from-orange-400 to-orange-600 text-black shadow-sm shadow-orange-500/30'
           : 'border-neutral-300 bg-white/60 text-neutral-600 backdrop-blur-sm hover:border-neutral-400 hover:bg-neutral-100 hover:text-neutral-900 dark:border-neutral-800 dark:bg-black/40 dark:text-neutral-300 dark:hover:border-neutral-600 dark:hover:bg-neutral-900 dark:hover:text-neutral-100',
         className
       )}
     >
+      {icon}
       {label}{' '}
-      <span className="text-neutral-500">({count})</span>
+      <span className={isActive ? 'text-black/60' : 'text-neutral-500'}>
+        ({count})
+      </span>
     </Button>
   )
 }
@@ -207,8 +212,12 @@ export function Home({
           Latest, ranked by importance
         </h2>
         {lastUpdated && timeAgo(lastUpdated) && (
-          <p className="mb-6 text-center text-sm text-neutral-500">
-            Updated {timeAgo(lastUpdated)}
+          <p className="mb-6 flex items-center justify-center gap-2 text-center text-sm text-neutral-500">
+            <span className="relative flex h-2 w-2">
+              <span className="absolute inline-flex h-full w-full animate-ping rounded-full bg-emerald-400 opacity-60" />
+              <span className="relative inline-flex h-2 w-2 rounded-full bg-emerald-500" />
+            </span>
+            Live · updated {timeAgo(lastUpdated)}
           </p>
         )}
 
@@ -245,18 +254,21 @@ export function Home({
           <FilterButton
             label="All"
             count={counts.all}
+            icon={<Sparkles className="h-3.5 w-3.5" />}
             isActive={active === 'all'}
             onClick={() => selectFilter('all')}
           />
           <FilterButton
             label="AI"
             count={counts.ai}
+            icon={<Bot className="h-4 w-4" />}
             isActive={active === 'ai'}
             onClick={() => selectFilter('ai')}
           />
           <FilterButton
             label="Crypto"
             count={counts.crypto}
+            icon={<Bitcoin className="h-4 w-4" />}
             isActive={active === 'crypto'}
             onClick={() => selectFilter('crypto')}
           />
@@ -347,10 +359,11 @@ export function Home({
               <motion.div
                 key={article.link || article.title}
                 initial={{ opacity: 0, y: 24 }}
-                animate={{ opacity: 1, y: 0 }}
+                whileInView={{ opacity: 1, y: 0 }}
+                viewport={{ once: true, margin: '0px 0px -40px 0px' }}
                 transition={{
                   duration: 0.35,
-                  delay: Math.min(i * 0.03, 0.4),
+                  delay: Math.min(i * 0.03, 0.2),
                   ease: 'easeOut',
                 }}
               >
