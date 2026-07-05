@@ -126,10 +126,13 @@ export function Home({
 
     if (!hasQuery) return inWindow
 
+    // Match at word starts only, so "sol" finds "Solana" but not the "sol"
+    // inside "consolidates".
+    const escaped = trimmedQuery.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')
+    const wordStart = new RegExp(`(?:^|[^\\p{L}\\p{N}])${escaped}`, 'iu')
+
     return inWindow.filter(
-      (a) =>
-        a.title.toLowerCase().includes(trimmedQuery) ||
-        a.summary.toLowerCase().includes(trimmedQuery)
+      (a) => wordStart.test(a.title) || wordStart.test(a.summary)
     )
   }, [articles, active, hasQuery, trimmedQuery, timeRange])
 
