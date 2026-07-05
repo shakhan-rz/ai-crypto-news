@@ -36,6 +36,42 @@
     "classified": true
   },
   {
+    "title": "Clarity and Congress's summer break: State of Crypto ",
+    "link": "https://www.coindesk.com/policy/2026/07/05/clarity-and-congress-s-summer-break-state-of-crypto",
+    "pubDate": "Sun, 05 Jul 2026 18:30:00 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "All parties are still optimistic that Clarity can happen before the midterms, but time is really starting to run out.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/976ce7e305132fada910cfe9bc3b0d8254ad588b-1920x1080.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "Optimism persists among all parties that the \"Clarity\" initiative for crypto can be enacted before the upcoming midterms. However, the window for action is rapidly closing, especially with Congress's summer break.",
+    "importance": 8,
+    "classified": true
+  },
+  {
+    "title": "Banks have stopped asking if stablecoins belong in finance, now they're considering how",
+    "link": "https://www.coindesk.com/business/2026/07/05/banks-have-stopped-asking-if-stablecoins-belong-in-finance-now-they-re-considering-how",
+    "pubDate": "Sun, 05 Jul 2026 14:00:00 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "Financial institutions are racing to become the secure gateways for stablecoins as digital asset volume is projected to explode by 2030.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/126370357bab503bb185dc1c4df52756ebf449e2-1280x960.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "Financial institutions are shifting from questioning stablecoins' place in finance to actively planning their integration, as they compete to become secure gateways for these digital assets. This move is driven by projections of a massive increase in digital asset volume by 2030.",
+    "importance": 8,
+    "classified": true
+  },
+  {
+    "title": "Collateral, not yield, will decide which stablecoins win",
+    "link": "https://www.coindesk.com/opinion/2026/07/05/collateral-not-yield-will-decide-which-stablecoins-win",
+    "pubDate": "Sun, 05 Jul 2026 13:00:00 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "As yield-bearing stablecoins race toward a $50 billion market capitalization, the industry is optimizing for the wrong metric, argues Artem Tolkachev, chief RWA officer at Falcon Finance.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/f11b1f8e85c5dff9843e693f431efd9d43b3da60-5315x3543.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "Artem Tolkachev of Falcon Finance argues that the stablecoin industry is mistakenly prioritizing yield as the key metric for success. He contends that collateral, rather than yield, will ultimately determine which stablecoins prevail in the market. The industry is racing towards a $50 billion market cap, but Tolkachev believes the focus should shift to the strength of their underlying collateral.",
+    "importance": 8,
+    "classified": true
+  },
+  {
     "title": "Bitcoin experts split over plan to freeze Satoshi's 1.1 million bitcoin as quantum threat grows",
     "link": "https://www.coindesk.com/business/2026/07/04/bitcoin-experts-split-over-plan-to-freeze-satoshi-s-1-1-million-bitcoin-as-quantum-threat-grows",
     "pubDate": "Sat, 04 Jul 2026 18:00:00 +0000",
@@ -108,18 +144,6 @@
     "classified": true
   },
   {
-    "title": "Securitize tokenizes $295 million of its own stock on Solana and Avalanche amid NYSE debut",
-    "link": "https://www.coindesk.com/business/2026/07/02/securitize-tokenizes-usd295-million-of-its-own-stock-on-solana-and-avalanche-amid-nyse-debut",
-    "pubDate": "Thu, 02 Jul 2026 19:00:03 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "The newly-public company's shares are the largest issuer-sponsored tokenized stock at launch, aiming to make a point against rival third-party stock token issuers.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/0df058fe321b648948d8a5b690588aaafbb157fe-2048x1152.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "Securitize has tokenized $295 million of its own NYSE‑listed shares on the Solana and Avalanche blockchains, creating the largest ever issuer‑backed tokenized stock at launch. The move is intended to demonstrate the advantages of issuer‑issued tokens over third‑party tokenization platforms.",
-    "importance": 8,
-    "classified": true
-  },
-  {
     "title": "Binance outflows triple to $1.2B as ETH withdrawals hit 3-year high",
     "link": "https://cointelegraph.com/news/binance-outflows-1-23-billion-eth-withdrawals-3-year-high?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "pubDate": "Sun, 05 Jul 2026 08:33:39 +0000",
@@ -150,7 +174,7 @@
     "source": "Cointelegraph",
     "category": "both",
     "content": "Moonbeam didn’t provide a timeline for when it would launch the AI agent platform but told GLMR holders to bridge their tokens from the Polkadot parachain to Base before July 31.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/magazine-ai-agents-on-base.jpg",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-how-to-use-chatgpt-agent-for-crypto-trading-in-2025.jpg",
     "summary": "Moonbeam is pivoting from the Polkadot parachain to Base and will launch an AI agent framework. GLMR token holders are advised to bridge their tokens to Base before July 31.",
     "importance": 8,
     "classified": true
@@ -158,7 +182,7 @@
   {
     "title": "Kraken lets traders use tokenized stocks as collateral for leveraged trades",
     "link": "https://cointelegraph.com/news/kraken-lets-traders-use-tokenized-stocks-as-collateral-for-leveraged-trades?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Sat, 04 Jul 2026 19:37:11 +0000",
+    "pubDate": "Sat, 04 Jul 2026 19:40:00 +0000",
     "source": "Cointelegraph",
     "category": "crypto",
     "content": "Eligible users can now use select tokenized stocks and ETFs as collateral for futures and margin trading without selling their holdings.",
@@ -212,6 +236,18 @@
     "content": "A defendant who owns one of the dormant Bitcoin wallets filed to dismiss the New York case, which seeks ownership of $229 billion worth of Bitcoin considered lost.",
     "image": "https://s3-images.ctmedia.io/media/article-covers/hi-the-evolution-of-crypto-regulations-in-2024-what-it-means-for-2025.jpg",
     "summary": "A defendant who controls one of the dormant Bitcoin wallets has filed a motion to dismiss a New York lawsuit that seeks to determine ownership of 39,069 wallets containing roughly $229 billion worth of Bitcoin. The case could set precedent for how lost or unclaimed crypto assets are handled.",
+    "importance": 8,
+    "classified": true
+  },
+  {
+    "title": "Vitalik Buterin says Ethereum’s next rebuild will rival the Merge, and take three to four years",
+    "link": "https://www.theblock.co/post/407176/vitalik-buterin-says-ethereums-next-rebuild-will-rival-the-merge-and-take-three-to-four-years?utm_source=rss&utm_medium=rss",
+    "pubDate": "Sun, 05 Jul 2026 15:56:39 -0400",
+    "source": "The Block",
+    "category": "crypto",
+    "content": "He said quantum safety has \"shifted up a LOT in priority\" and that Hegota, slated for later this year, will likely be Ethereum's last \"pre-Lean\" hard fork.",
+    "image": "https://www.tbstat.com/wp/uploads/2024/10/20241001_Vitalik_News_2-800x450.jpg",
+    "summary": "Vitalik Buterin stated that Ethereum's next rebuild will be as significant as the Merge and is expected to take three to four years. He also mentioned that quantum safety has become a higher priority and that Hegota, a hard fork slated for later this year, will likely be Ethereum's last before a major overhaul. This overhaul aims to improve Ethereum's performance and security.",
     "importance": 8,
     "classified": true
   },
@@ -348,6 +384,18 @@
     "classified": true
   },
   {
+    "title": "Americans traded $571 million on Polymarket politic bets despite U.S. ban",
+    "link": "https://www.coindesk.com/tech/2026/07/03/americans-traded-usd571-million-on-polymarket-politic-bets-despite-u-s-ban",
+    "pubDate": "Sun, 05 Jul 2026 15:00:00 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "U.S.-linked wallets traded $571 million in political contracts over the past year, more than any other country, even though the platform legally cannot serve them. The money leans toward the foreign-conflict markets U.S. venues do not list.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/5fbba5388730dd204ccc2859e2e85f0f6a9a52b5-1024x768.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "Americans traded $571 million in political prediction contracts on Polymarket over the past year, making them the largest national trading group despite the platform being legally banned from serving U.S. users. This significant trading volume primarily focused on foreign-conflict markets not available on domestic U.S. platforms.",
+    "importance": 7,
+    "classified": true
+  },
+  {
     "title": "Tokenization's next use case is personalized portfolios, NYLIM executive says",
     "link": "https://www.coindesk.com/business/2026/07/02/tokenization-s-next-use-case-is-personalized-portfolios-nylim-executive-says",
     "pubDate": "Sat, 04 Jul 2026 20:00:00 +0000",
@@ -392,18 +440,6 @@
     "content": "After dominating markets in 2026, AI-tied memory and semiconductor stocks are losing momentum, raising the question whether capital will shift back into bitcoin.",
     "image": "https://cdn.sanity.io/images/s3y3vcno/production/21e312e582be6a8487e4b40e8a2fb61dc5b288be-2130x1736.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
     "summary": "AI‑related memory and semiconductor stocks that dominated the market in 2026 are losing steam, prompting speculation about a shift in capital. At the same time, Bitcoin is rebounding, suggesting investors may be turning their attention back to cryptocurrency.",
-    "importance": 7,
-    "classified": true
-  },
-  {
-    "title": "Ether and solana extend gains as a short squeeze lifts bitcoin toward $62,000",
-    "link": "https://www.coindesk.com/markets/2026/07/03/ether-and-solana-extend-gains-as-a-short-squeeze-lifts-bitcoin-toward-usd62-000",
-    "pubDate": "Fri, 03 Jul 2026 05:18:58 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "Bearish traders lost $281 million in liquidations over 24 hours, nearly double the longs, as bitcoin pushed to its strongest level in two weeks. Ether is up almost 10% on the week and solana nearly 19% while a rebound in tech stocks eased the pressure from the AI trade.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/fce15d9b832d4f087056ff45ef32cee4441b4240-7360x4912.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "Bitcoin surged to its strongest level in two weeks, prompting a short squeeze that lifted Ether nearly 10% and Solana almost 19% this week. Bearish traders faced $281 million in liquidations, nearly double the long positions, while a rebound in tech stocks eased pressure from AI-related trades.",
     "importance": 7,
     "classified": true
   },
@@ -524,18 +560,6 @@
     "content": "Humanity Protocol founder Terence Kwok says the project is pivoting to enterprise AI after a $36 million exploit, with fund recovery odds low.",
     "image": "https://www.tbstat.com/wp/uploads/2023/04/20230411_Hack_Generic-800x450.jpg",
     "summary": "Humanity Protocol founder Terence Kwok announced that the project will shift its focus toward enterprise AI after a $36 million exploit, acknowledging that the chances of recovering the stolen funds are low. The pivot aims to leverage AI capabilities while moving away from the vulnerable aspects that led to the hack.",
-    "importance": 7,
-    "classified": true
-  },
-  {
-    "title": "Ondo tokenizes BlackRock’s IVV ETF and Micron stock under US custodial model",
-    "link": "https://www.theblock.co/post/407031/ondo-tokenizes-blackrocks-ivv-etf-and-micron-stock-under-us-custodial-model?utm_source=rss&utm_medium=rss",
-    "pubDate": "Thu, 02 Jul 2026 09:56:02 -0400",
-    "source": "The Block",
-    "category": "crypto",
-    "content": "Ondo Finance launches tokenized BlackRock IVV ETF and Micron shares under SEC-defined custodial model with Ethereum-based settlement.",
-    "image": "https://www.tbstat.com/wp/uploads/2025/09/20230216_Ondo-800x450.jpg",
-    "summary": "Ondo Finance announced the launch of tokenized versions of BlackRock's IVV ETF and Micron stock, utilizing a U.S. SEC-defined custodial framework. The tokens are settled on the Ethereum blockchain, marking a regulated approach to bringing traditional securities onto a crypto infrastructure.",
     "importance": 7,
     "classified": true
   },
@@ -804,6 +828,18 @@
     "classified": true
   },
   {
+    "title": "Kalshi and prediction market sector embroiled in mixed bag of legal fights across U.S.",
+    "link": "https://www.coindesk.com/news-analysis/2026/07/02/kalshi-and-prediction-market-sector-embroiled-in-mixed-bag-of-legal-fights-across-u-s",
+    "pubDate": "Sun, 05 Jul 2026 13:00:00 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "Some of the many battles with state gaming regulators aren't going well for the industry at the moment, but it isn't without its would-be government protectors.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/51e4c497a68d1977349b5d13f16f9c4322b57771-4032x2268.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "The prediction market sector, including Kalshi, is currently entangled in numerous legal disputes with state gaming regulators across the U.S., experiencing mixed outcomes. While some battles are not favorable for the industry, it also has government supporters advocating on its behalf.",
+    "importance": 6,
+    "classified": true
+  },
+  {
     "title": "Bitcoin jumps above $63,000, reversing end-June losses",
     "link": "https://www.coindesk.com/markets/2026/07/04/bitcoin-jumps-above-usd63-000-reversing-end-june-losses",
     "pubDate": "Sat, 04 Jul 2026 18:07:17 +0000",
@@ -864,37 +900,37 @@
     "classified": true
   },
   {
-    "title": "Binance says MiCA should be judged by who it licenses, not who it excludes",
-    "link": "https://www.coindesk.com/policy/2026/07/03/binance-says-mica-should-be-judged-by-who-it-licenses-not-who-it-excludes",
-    "pubDate": "Fri, 03 Jul 2026 06:30:00 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "Europe head Gillian Lynch said Binance met Greece's licensing requirements and that the company remains committed to the EU, despite withdrawing its MiCA application days before the July 1 deadline.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/791e2ac6e07aa6b1a6244c99813a0a0a421ab60e-1630x1080.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "Binance's European head Gillian Lynch confirmed that the exchange satisfied Greece's licensing criteria and reaffirmed its commitment to the EU market, even though Binance withdrew its MiCA application just days before the July 1 deadline. The statement emphasizes that MiCA licensing should focus on who is granted permission rather than who is excluded.",
-    "importance": 6,
-    "classified": true
-  },
-  {
-    "title": "Bitcoin ETFs see $221 million inflow, finally ending a painful 10-day selling streak",
-    "link": "https://www.coindesk.com/markets/2026/07/03/finally-usd221-million-flow-into-bitcoin-etfs-ending-a-painful-10-day-outflow-streak",
-    "pubDate": "Fri, 03 Jul 2026 05:54:51 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "Spot ETFs had their strongest inflow day in two months, driven by funds other than BlackRock’s IBIT.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/a8b1afda8bc4bbceda92d8c23ad79d59bf6af2b3-1500x1000.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "Bitcoin spot ETFs saw a $221 million inflow, ending a ten‑day outflow streak and marking the strongest daily inflow in two months. The surge was driven by funds other than BlackRock’s IBIT, signaling renewed investor interest in Bitcoin ETFs.",
-    "importance": 6,
-    "classified": true
-  },
-  {
-    "title": "Kalshi hits record June trading volume as World Cup fuels prediction markets",
-    "link": "https://cointelegraph.com/news/world-cup-drives-prediction-markets-to-record-june-trading-volumes?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Sat, 04 Jul 2026 16:47:27 +0000",
+    "title": "Bitcoin nears $63.5K into weekly close as trader warns of 'terrible' Monday",
+    "link": "https://cointelegraph.com/markets/bitcoin-nears-635k-into-weekly-close-as-trader-warns-of-terrible-monday?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Sun, 05 Jul 2026 16:06:20 +0000",
     "source": "Cointelegraph",
     "category": "crypto",
-    "content": "DefiLlama data shows Kalshi posted a record month for trading volume as the expanded FIFA World Cup boosted prediction market activity.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-nft-at-the-fifa-world-cup.png",
+    "content": "Bitcoin reached its highest levels in nearly a fortnight over the weekend, but BTC price action faced an \"absolutely terrible\" Monday track record.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-transactions-stopped-danger.jpg",
+    "summary": "Bitcoin's price neared $63.5K over the weekend, reaching its highest level in nearly two weeks. However, traders are cautioning about a potentially 'terrible' Monday based on historical BTC price action.",
+    "importance": 6,
+    "classified": true
+  },
+  {
+    "title": "South Africa proposes crypto tax guidance under existing framework",
+    "link": "https://cointelegraph.com/news/south-africa-proposes-crypto-tax-draft-guidance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Sun, 05 Jul 2026 11:52:47 +0000",
+    "source": "Cointelegraph",
+    "category": "crypto",
+    "content": "South Africa’s tax authority proposed draft guidance clarifying how crypto assets are taxed under existing income and capital gains tax rules, seeking public input until Aug. 31.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/booksouth-africa.png",
+    "summary": "South Africa's tax authority has proposed draft guidance on taxing crypto assets under existing income and capital gains tax rules, and is seeking public input until August 31. The guidance aims to clarify how crypto assets are taxed. This move is part of the country's efforts to regulate the crypto industry.",
+    "importance": 6,
+    "classified": true
+  },
+  {
+    "title": "Kalshi June trading volume tops $9B as World Cup fuels prediction markets",
+    "link": "https://cointelegraph.com/news/world-cup-drives-prediction-markets-to-record-june-trading-volumes?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Sat, 04 Jul 2026 16:50:00 +0000",
+    "source": "Cointelegraph",
+    "category": "crypto",
+    "content": "Kalshi posted a record month for trading volume as the expanded FIFA World Cup boosted prediction market activity, DefiLlama data shows.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/sports-fan1.jpg",
     "summary": "Kalshi, a prediction market platform, achieved record-breaking trading volume in June, as reported by DefiLlama data. This surge in activity was largely driven by the expanded FIFA World Cup, which fueled participation in prediction markets.",
     "importance": 6,
     "classified": true
@@ -992,30 +1028,6 @@
     "content": "US spot Bitcoin ETFs post $221.7 million inflows, the strongest daily intake since early May, as Bitcoin recovers above $61,000.",
     "image": "https://s3-images.ctmedia.io/media/article-covers/hi-bitcoin-etf-is-now-superior-over-dollar-2.jpg",
     "summary": "US spot Bitcoin exchange-traded funds recorded $221.7 million in net inflows, the biggest daily amount since early May, as Bitcoin's price climbed above $61,000.",
-    "importance": 6,
-    "classified": true
-  },
-  {
-    "title": "Teen ‘Scattered Spider’ suspect extradited to US over $8M crypto ransom",
-    "link": "https://cointelegraph.com/news/teen-scattered-spider-suspect-extradited-to-us-over-8m-crypto-ransom?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Fri, 03 Jul 2026 06:18:20 +0000",
-    "source": "Cointelegraph",
-    "category": "crypto",
-    "content": "Peter Stokes, 19, has been charged in the US for allegedly taking part in a hacking group’s unsuccessful $8 million crypto ransom scheme.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/arrest-police-crime-detention.jpg",
-    "summary": "Teen hacker Peter Stokes, 19, was extradited to the United States and charged for his alleged role in the Scattered Spider group’s failed $8 million cryptocurrency ransom scheme. The case highlights ongoing law‑enforcement efforts against crypto‑related cybercrime.",
-    "importance": 6,
-    "classified": true
-  },
-  {
-    "title": "AI agent development hasn’t accelerated as expected, Zuckerberg says",
-    "link": "https://cointelegraph.com/news/ai-agent-development-hasnt-accelerated-as-expected-says-zuckerberg?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Fri, 03 Jul 2026 06:07:10 +0000",
-    "source": "Cointelegraph",
-    "category": "ai",
-    "content": "Mark Zuckerberg’s comments came on the same day that Meta expanded its Meta Business Agent globally for businesses on Instagram, Messenger and WhatsApp.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-a-letter-to-zuckerberg-the-metaverse-is-not-what-you-think-it-is-7.jpg",
-    "summary": "Mark Zuckerberg said that the development of AI agents has not progressed as quickly as expected. On the same day, Meta announced a global rollout of its Meta Business Agent across Instagram, Messenger, and WhatsApp to help businesses.",
     "importance": 6,
     "classified": true
   },
@@ -1236,6 +1248,18 @@
     "classified": true
   },
   {
+    "title": "Amazon will stop accepting new customers for Mechanical Turk",
+    "link": "https://techcrunch.com/2026/07/05/amazon-will-stop-accepting-new-customers-for-mechanical-turk/",
+    "pubDate": "Sun, 05 Jul 2026 17:43:36 +0000",
+    "source": "TechCrunch AI",
+    "category": "ai",
+    "content": "These may be the last days of Amazon’s Mechanical Turk.",
+    "image": "",
+    "summary": "Amazon's Mechanical Turk, a platform for crowdsourced work, will stop accepting new customers, marking a potential end to the service. Mechanical Turk has been used for various tasks, including data labeling for AI models. The move may impact businesses and researchers relying on the platform.",
+    "importance": 6,
+    "classified": true
+  },
+  {
     "title": "New Google commercial imagines a Declaration of Independence written with help from AI",
     "link": "https://techcrunch.com/2026/07/04/new-google-commercial-imagines-a-declaration-of-independence-written-with-help-from-ai/",
     "pubDate": "Sat, 04 Jul 2026 20:55:25 +0000",
@@ -1344,6 +1368,18 @@
     "classified": true
   },
   {
+    "title": "Infuriating Google commercial imagines the founding fathers embracing AI",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/961468/google-ai-commercial-founding-fathers-declaration-of-independence",
+    "pubDate": "2026-07-05T14:23:11.000Z",
+    "source": "The Verge AI",
+    "category": "ai",
+    "content": "I call BS: the founding fathers definitely would have been Microsoft Teams users. | Image: Google\t\n\n\"Group project, but make it 1776.\" That's how a new commercial for Google Workspace opens. And things only get cringier from there. The clip imagines what it would be like if the founding fathers turned to Google's collaboration tools and Gemini to help them draft the Declaration of Independence. \nBen Franklin texts Thomas Jefferson to check on the status of a draft, who takes a photo and uses AI to transcribe it into a Google Doc. Franklin and Adams hop in to make edits in suggestion mode, Gemini finds them a meeting time, takes notes during a Google Meet call, and then Nano Banana whips up a seal for the United States featuring a turkey ( …\nRead the full story at The Verge.",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Q3RjZY-rSsc-HD.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "summary": "A new Google commercial imagines the founding fathers using Google Workspace and AI to draft the Declaration of Independence, with Ben Franklin and Thomas Jefferson utilizing collaboration tools and AI transcription. The clip showcases the potential of AI in historical contexts. The ad is part of Google's marketing efforts for its Workspace platform.",
+    "importance": 6,
+    "classified": true
+  },
+  {
     "title": "A behind-the-scenes look at Midjourney’s medical scanner leaves many questions unanswered",
     "link": "https://www.theverge.com/ai-artificial-intelligence/961265/midjourney-medical-ultrasound-scanner-behind-the-scenes-video",
     "pubDate": "2026-07-03T11:49:10.000Z",
@@ -1392,18 +1428,6 @@
     "classified": true
   },
   {
-    "title": "Meet the lawyer who beat Elon Musk — twice",
-    "link": "https://www.theverge.com/column/959270/elon-musk-open-ai-bill-savitt-twitter",
-    "pubDate": "2026-06-30T12:00:00.000Z",
-    "source": "The Verge AI",
-    "category": "ai",
-    "content": "“After college, my plan was to come to New York and get a record deal.” | Cath Virginia / The Verge, Getty Images\t\n\nWatching Elon Musk fulminate at Bill Savitt during Musk v. Altman - the case in which Musk sued Sam Altman and OpenAI instead of seeing a therapist about his AI failures - was a bit like watching a toddler have a temper tantrum at his nursery school teacher. Savitt's questions were \"designed to trick me,\" Musk said. He also told Savitt at one point, \"You mostly do unfair questions.\"\nSavitt, who has the approximate demeanor of a handsome Droopy Dog, gently told Musk, \"I am trying to put the questions as fairly as I can. I am doing my best.\" \nI've seen a number of styles of cross-examination. Savitt's was mild-mannered and soft-spoken; his q …\nRead the full story at The Verge.",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/268607_An_interview_with_William_Savitt_Elon_Musks_courtroom_nemesis_CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "summary": "The article profiles lawyer Bill Savitt, who successfully defended against Elon Musk's legal challenges in the Musk v. Altman case, where Musk sued OpenAI over alleged AI failures. It highlights Savitt's calm cross-examination style and Musk's accusations of unfair questioning, portraying the courtroom drama as a high‑profile AI dispute.",
-    "importance": 6,
-    "classified": true
-  },
-  {
     "title": "Musk’s X poses “serious risk to Americans’ privacy,” advocates warn FTC",
     "link": "https://arstechnica.com/tech-policy/2026/07/musks-x-poses-serious-risk-to-americans-privacy-advocates-warn-ftc/",
     "pubDate": "Thu, 02 Jul 2026 14:39:17 +0000",
@@ -1448,18 +1472,6 @@
     "content": "The TRUMP token is down 96% from its peak, and 85% of secondary market wallets for WLFI are underwater, reflecting a broader downturn in the sector.",
     "image": "https://cdn.sanity.io/images/s3y3vcno/production/84a461bc77fdc8be2e55a8cfa0a0aa196e958396-4928x2772.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
     "summary": "Buyers of Trump-branded crypto tokens, including TRUMP and WLFI, have experienced substantial losses, with the TRUMP token down 96% from its peak and 85% of WLFI secondary market wallets underwater. Overall, buyers are down $3.8 billion, reflecting a broader downturn within this specific sector of the crypto market.",
-    "importance": 5,
-    "classified": true
-  },
-  {
-    "title": "XRP bulls test path back toward $1.10 as token zips 4% higher",
-    "link": "https://www.coindesk.com/markets/2026/07/03/xrp-bulls-test-path-back-toward-usd1-10-as-token-zips-4-higher",
-    "pubDate": "Fri, 03 Jul 2026 05:29:00 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "Buyers defended a higher low and pushed XRP toward near-term resistance, though the move still needs a clean break above $1.10 to confirm momentum.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/f47e6969c97eae73a343de175986d26fe536fc3f-1194x728.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "The article reports that XRP buyers have defended a higher low, pushing the token up 4% and testing the near-term resistance level. A clean break above $1.10 is needed to confirm continued momentum toward the $1.10 target.",
     "importance": 5,
     "classified": true
   },
@@ -1640,18 +1652,6 @@
     "content": "Ben Guez has \"a bunch of potential international wives in [his] DMs,\" thanks to an automated script he set up using OpenClaw, Claude code, and Instagram trials.",
     "image": "",
     "summary": "Ben Guez created an automated script using OpenClaw, Claude code, and Instagram experiments to send messages to potential international partners, essentially using AI to aid his dating efforts.",
-    "importance": 3,
-    "classified": true
-  },
-  {
-    "title": "Builders Stage agenda revealed: Practical strategies for scaling startups at TechCrunch Disrupt 2026",
-    "link": "https://techcrunch.com/2026/07/01/builders-stage-agenda-revealed-practical-strategies-for-scaling-startups-at-techcrunch-disrupt-2026/",
-    "pubDate": "Wed, 01 Jul 2026 14:00:00 +0000",
-    "source": "TechCrunch AI",
-    "category": "both",
-    "content": "The Builders Stage is returning to TechCrunch Disrupt 2026, bringing together 10,000+ founders, startup operators, and investors for practical conversations. and Q&A on what it takes to build and scale successful companies. Register now to save up to $330.",
-    "image": "",
-    "summary": "The Builders Stage is returning to TechCrunch Disrupt 2026, bringing together more than 10,000 founders, startup operators, and investors for practical conversations and Q&A on building and scaling successful companies. Registrants can now sign up to receive a discount of up to $330.",
     "importance": 3,
     "classified": true
   },
