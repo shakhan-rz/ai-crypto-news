@@ -30,6 +30,18 @@ function scoreColor(score: number) {
   return 'text-neutral-500 dark:text-neutral-400'
 }
 
+// Thin edge bar mirroring the importance score, so ranking reads at a glance.
+function scoreBarClass(score: number) {
+  if (score >= 8) return 'bg-emerald-500/70'
+  if (score >= 5) return 'bg-amber-500/60'
+  return 'bg-neutral-600/50'
+}
+
+// Shared "floating glass" card look: translucent surface + hairline border,
+// warming up with an orange glow on hover.
+const glassCard =
+  'group relative overflow-hidden rounded-xl border-neutral-200 bg-white transition-all duration-300 [transition-timing-function:cubic-bezier(0.16,1,0.3,1)] hover:-translate-y-0.5 hover:scale-[1.01] hover:border-orange-300 hover:shadow-lg hover:shadow-orange-500/10 dark:border-white/[0.08] dark:bg-white/[0.04] dark:backdrop-blur-md dark:hover:border-orange-500/40 dark:hover:bg-white/[0.06] dark:hover:shadow-xl dark:hover:shadow-orange-500/10'
+
 // Remote RSS thumbnails are unreliable — hide the whole block if the image 404s
 // or the feed didn't provide one.
 function ArticleImage({ src, alt }: { src: string; alt: string }) {
@@ -119,8 +131,15 @@ function ShareButton({ article }: { article: Article }) {
 
 export function ArticleCard({ article }: { article: Article }) {
   return (
-    <Card className="group relative flex flex-col overflow-hidden rounded-xl border-neutral-200 bg-white transition-all duration-200 hover:-translate-y-0.5 hover:border-neutral-300 hover:shadow-lg hover:shadow-neutral-300/50 sm:flex-row dark:border-neutral-800/80 dark:bg-gradient-to-b dark:from-neutral-900 dark:to-neutral-950 dark:hover:border-neutral-700 dark:hover:shadow-black/40">
-      <div className="flex min-w-0 flex-1 flex-col">
+    <Card className={cn(glassCard, 'flex flex-col sm:flex-row')}>
+      <span
+        aria-hidden="true"
+        className={cn(
+          'absolute inset-y-0 left-0 z-10 w-1',
+          scoreBarClass(article.importance)
+        )}
+      />
+      <div className="flex min-w-0 flex-1 flex-col pl-1">
         <CardHeader className="pb-3">
           <div className="flex items-center gap-2">
             <Badge
@@ -176,6 +195,87 @@ export function ArticleCard({ article }: { article: Article }) {
         )}
       </div>
       {article.image && <ArticleImage src={article.image} alt={article.title} />}
+    </Card>
+  )
+}
+
+// Magazine-style lead card for the top-ranked story: full-width image,
+// oversized headline.
+export function FeaturedArticleCard({ article }: { article: Article }) {
+  return (
+    <Card className={cn(glassCard, 'flex flex-col')}>
+      <span
+        aria-hidden="true"
+        className={cn(
+          'absolute inset-y-0 left-0 z-10 w-1',
+          scoreBarClass(article.importance)
+        )}
+      />
+      {article.image && (
+        <div className="relative h-56 w-full overflow-hidden bg-neutral-100 md:h-72 dark:bg-neutral-900">
+          {/* eslint-disable-next-line @next/next/no-img-element */}
+          <img
+            src={article.image}
+            alt={article.title}
+            referrerPolicy="no-referrer"
+            className="h-full w-full object-cover transition-transform duration-500 group-hover:scale-105"
+          />
+          <div className="absolute inset-0 bg-gradient-to-t from-black/60 via-transparent to-transparent" />
+        </div>
+      )}
+      <div className="flex min-w-0 flex-1 flex-col pl-1">
+        <CardHeader className="pb-3">
+          <div className="flex items-center gap-2">
+            <Badge
+              variant="secondary"
+              className="flex items-center gap-1 rounded-full bg-orange-100 px-2.5 py-0.5 text-[11px] font-semibold uppercase tracking-wider text-orange-700 dark:bg-orange-500/15 dark:text-orange-300"
+            >
+              <Flame className="h-3 w-3" />
+              Top story
+            </Badge>
+            <Badge
+              variant="secondary"
+              className={cn(
+                'rounded-full px-2.5 py-0.5 text-[11px] font-medium uppercase tracking-wider',
+                categoryBadgeClass(article.category)
+              )}
+            >
+              {article.category}
+            </Badge>
+            <span className="text-xs text-neutral-500">{article.source}</span>
+            {timeAgo(article.pubDate) && (
+              <>
+                <span className="text-neutral-400 dark:text-neutral-600">·</span>
+                <span className="text-xs text-neutral-500">
+                  {timeAgo(article.pubDate)}
+                </span>
+              </>
+            )}
+            <span className="ml-auto flex shrink-0 items-center gap-1 rounded-full bg-neutral-100 px-2 py-0.5 text-xs font-semibold tabular-nums dark:bg-neutral-800/60">
+              <span className={scoreColor(article.importance)}>
+                {article.importance}
+              </span>
+              <span className="text-neutral-400 dark:text-neutral-600">/10</span>
+            </span>
+            <ShareButton article={article} />
+          </div>
+          <CardTitle className="mt-3 text-2xl font-bold leading-tight text-neutral-900 transition-colors group-hover:text-black md:text-3xl dark:text-neutral-100 dark:group-hover:text-white">
+            <Link
+              href={`/article/${articleSlug(article)}`}
+              className="after:absolute after:inset-0"
+            >
+              {article.title}
+            </Link>
+          </CardTitle>
+        </CardHeader>
+        {article.summary && (
+          <CardContent className="pt-0">
+            <p className="line-clamp-3 text-base leading-relaxed text-neutral-600 dark:text-neutral-300">
+              {article.summary}
+            </p>
+          </CardContent>
+        )}
+      </div>
     </Card>
   )
 }

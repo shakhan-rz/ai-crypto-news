@@ -5,7 +5,11 @@ import { motion } from 'framer-motion'
 import { ArrowDown, Search, X } from 'lucide-react'
 import { Button } from '@/components/ui/neon-button'
 import { HeroScene } from '@/components/hero-scene'
-import { ArticleCard, ArticleSkeleton } from '@/components/article-card'
+import {
+  ArticleCard,
+  ArticleSkeleton,
+  FeaturedArticleCard,
+} from '@/components/article-card'
 import { CryptoPrices } from '@/components/crypto-prices'
 import { NewsTicker } from '@/components/news-ticker'
 import { BackToTop } from '@/components/back-to-top'
@@ -69,7 +73,8 @@ export function Home({
   articles: Article[]
   lastUpdated?: string
 }) {
-  const [active, setActive] = useState<FilterKey | null>(null)
+  // Default to "All" so visitors land on content, never an empty page.
+  const [active, setActive] = useState<FilterKey | null>('all')
   const [query, setQuery] = useState('')
   const [shownCount, setShownCount] = useState(PAGE_SIZE)
   const [loading, setLoading] = useState(false)
@@ -172,7 +177,7 @@ export function Home({
           <div className="mt-6 flex flex-wrap items-center justify-center gap-3 md:justify-start">
             <a
               href="#news"
-              className="inline-flex items-center gap-2 rounded-full border border-orange-500/60 bg-gradient-to-br from-orange-400 to-orange-600 px-6 py-2.5 text-sm font-semibold text-black shadow-sm shadow-orange-500/30 transition-transform hover:scale-[1.03]"
+              className="inline-flex items-center gap-2 rounded-full border border-orange-500/60 bg-gradient-to-br from-orange-400 to-orange-600 px-6 py-2.5 text-sm font-semibold text-black shadow-[0_0_24px_rgba(249,115,22,0.45)] transition-all duration-300 hover:scale-[1.03] hover:shadow-[0_0_36px_rgba(249,115,22,0.65)]"
             >
               Browse the news
               <ArrowDown className="h-4 w-4" />
@@ -341,7 +346,11 @@ export function Home({
                   ease: 'easeOut',
                 }}
               >
-                <ArticleCard article={article} />
+                {i === 0 ? (
+                  <FeaturedArticleCard article={article} />
+                ) : (
+                  <ArticleCard article={article} />
+                )}
               </motion.div>
             ))}
           </div>
