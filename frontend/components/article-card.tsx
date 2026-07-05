@@ -158,7 +158,7 @@ export function ArticleCard({ article }: { article: Article }) {
             </span>
             <ShareButton article={article} />
           </div>
-          <CardTitle className="mt-2 text-base leading-snug text-neutral-900 transition-colors group-hover:text-black dark:text-neutral-100 dark:group-hover:text-white">
+          <CardTitle className="mt-2 text-lg leading-snug text-neutral-900 transition-colors group-hover:text-black dark:text-neutral-100 dark:group-hover:text-white">
             <Link
               href={`/article/${articleSlug(article)}`}
               className="after:absolute after:inset-0"
@@ -169,7 +169,7 @@ export function ArticleCard({ article }: { article: Article }) {
         </CardHeader>
         {article.summary && (
           <CardContent className="pt-0">
-            <p className="line-clamp-3 text-sm leading-relaxed text-neutral-600 dark:text-neutral-400">
+            <p className="line-clamp-3 text-[15px] leading-relaxed text-neutral-600 dark:text-neutral-400">
               {article.summary}
             </p>
           </CardContent>

@@ -164,7 +164,7 @@ export function Home({
             </span>{' '}
             News
           </h1>
-          <p className="mx-auto mt-4 max-w-lg text-neutral-600 dark:text-neutral-300 md:mx-0">
+          <p className="mx-auto mt-4 max-w-lg text-lg leading-relaxed text-neutral-600 dark:text-neutral-300 md:mx-0">
             Signal over noise. The AI and crypto stories that actually matter,
             ranked and summarized for you.
           </p>
@@ -190,11 +190,11 @@ export function Home({
 
       {/* News feed */}
       <section id="news" className="mx-auto max-w-5xl px-4 py-12 scroll-mt-16">
-        <h2 className="mb-2 text-center text-2xl font-bold text-neutral-900 dark:text-neutral-100">
+        <h2 className="mb-2 text-center text-3xl font-bold text-neutral-900 dark:text-neutral-100">
           Latest, ranked by importance
         </h2>
         {lastUpdated && timeAgo(lastUpdated) && (
-          <p className="mb-6 text-center text-xs text-neutral-500">
+          <p className="mb-6 text-center text-sm text-neutral-500">
             Updated {timeAgo(lastUpdated)}
           </p>
         )}
@@ -281,7 +281,7 @@ export function Home({
         )}
 
         {active === null && !hasQuery && (
-          <p className="text-center text-sm text-neutral-500">
+          <p className="text-center text-base text-neutral-500">
             Pick a category above or search to see the news.
           </p>
         )}

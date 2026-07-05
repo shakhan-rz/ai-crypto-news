@@ -17,7 +17,7 @@ export function Footer() {
                 AI + Crypto News
               </span>
             </div>
-            <p className="mt-3 text-sm leading-relaxed text-neutral-600 dark:text-neutral-400">
+            <p className="mt-3 text-[15px] leading-relaxed text-neutral-600 dark:text-neutral-400">
               The most important AI and crypto news, ranked by importance and
               summarized automatically.
             </p>
