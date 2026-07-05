@@ -40,7 +40,7 @@ function scoreBarClass(score: number) {
 // Shared "floating glass" card look: translucent surface + hairline border,
 // warming up with an orange glow on hover.
 const glassCard =
-  'group relative overflow-hidden rounded-xl border-neutral-200 bg-white transition-all duration-300 [transition-timing-function:cubic-bezier(0.16,1,0.3,1)] hover:-translate-y-0.5 hover:scale-[1.01] hover:border-orange-300 hover:shadow-lg hover:shadow-orange-500/10 dark:border-white/[0.08] dark:bg-white/[0.04] dark:backdrop-blur-md dark:hover:border-orange-500/40 dark:hover:bg-white/[0.06] dark:hover:shadow-xl dark:hover:shadow-orange-500/10'
+  'group relative overflow-hidden rounded-xl border-neutral-200 bg-white transition-all duration-300 [transition-timing-function:cubic-bezier(0.16,1,0.3,1)] hover:-translate-y-0.5 hover:scale-[1.01] hover:border-orange-300 hover:shadow-lg hover:shadow-orange-500/10 dark:border-white/[0.08] dark:bg-black/60 dark:backdrop-blur-md dark:hover:border-orange-500/40 dark:hover:bg-black/70 dark:hover:shadow-xl dark:hover:shadow-orange-500/10'
 
 // Remote RSS thumbnails are unreliable — hide the whole block if the image 404s
 // or the feed didn't provide one.
