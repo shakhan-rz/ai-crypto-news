@@ -212,7 +212,7 @@ export function FeaturedArticleCard({ article }: { article: Article }) {
         )}
       />
       {article.image && (
-        <div className="relative h-56 w-full overflow-hidden bg-neutral-100 md:h-72 dark:bg-neutral-900">
+        <div className="relative h-40 w-full overflow-hidden bg-neutral-100 md:h-52 dark:bg-neutral-900">
           {/* eslint-disable-next-line @next/next/no-img-element */}
           <img
             src={article.image}
