@@ -17,6 +17,13 @@ export function HeroScene() {
   // head fills the canvas and its hard edges read as a "box". Keep the robot
   // hidden until the camera has pulled back, then fade it in.
   const [revealed, setRevealed] = useState(false)
+  // The wrapper is CSS-hidden below md, but React would still download the
+  // ~2MB Spline runtime + scene. Skip mounting it entirely on small screens.
+  const [isDesktop, setIsDesktop] = useState(false)
+
+  useEffect(() => {
+    setIsDesktop(window.matchMedia('(min-width: 768px)').matches)
+  }, [])
 
   useEffect(() => {
     const id = setTimeout(() => setRevealed(true), 1700)
@@ -65,13 +72,15 @@ export function HeroScene() {
             'linear-gradient(to bottom, black 0%, black 80%, transparent 98%)',
         }}
       >
-        <SplineScene
-          scene="https://prod.spline.design/kZDDjO5HuC9GJUM2/scene.splinecode"
-          className="h-full w-full"
-          onLoad={() => {
-            canvasRef.current = wrap.current?.querySelector('canvas') ?? null
-          }}
-        />
+        {isDesktop && (
+          <SplineScene
+            scene="https://prod.spline.design/kZDDjO5HuC9GJUM2/scene.splinecode"
+            className="h-full w-full"
+            onLoad={() => {
+              canvasRef.current = wrap.current?.querySelector('canvas') ?? null
+            }}
+          />
+        )}
       </div>
     </div>
   )

@@ -1,2 +1,5 @@
 node_modules/
 .env
+
+# intermediate pipeline output — regenerated on every run
+data/raw-articles.json

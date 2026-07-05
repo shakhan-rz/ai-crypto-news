@@ -1,16 +1,17 @@
 'use client'
 
 import { useEffect, useMemo, useState } from 'react'
-import Link from 'next/link'
-import { AnimatePresence, motion } from 'framer-motion'
-import { ArrowDown, ArrowUp, Check, Flame, Search, Share2, TrendingDown, TrendingUp, X } from 'lucide-react'
-import { Card, CardContent, CardHeader, CardTitle } from '@/components/ui/card'
-import { Badge } from '@/components/ui/badge'
-import { Skeleton } from '@/components/ui/skeleton'
+import { motion } from 'framer-motion'
+import { ArrowDown, Search, X } from 'lucide-react'
 import { Button } from '@/components/ui/neon-button'
 import { HeroScene } from '@/components/hero-scene'
+import { ArticleCard, ArticleSkeleton } from '@/components/article-card'
+import { CryptoPrices } from '@/components/crypto-prices'
+import { NewsTicker } from '@/components/news-ticker'
+import { BackToTop } from '@/components/back-to-top'
 import { cn } from '@/lib/utils'
-import { articleSlug, type Article } from '@/lib/articles'
+import { timeAgo } from '@/lib/format'
+import { type Article } from '@/lib/articles'
 
 export type { Article }
 
@@ -23,287 +24,12 @@ const TIME_WINDOWS: Record<Exclude<TimeKey, 'any'>, number> = {
   week: 7 * 24 * 60 * 60 * 1000,
 }
 
-function categoryBadgeClass(category: string): string {
-  if (category === 'ai') {
-    return 'bg-sky-100 text-sky-700 dark:bg-sky-500/15 dark:text-sky-300'
-  }
-  if (category === 'crypto') {
-    return 'bg-orange-100 text-orange-700 dark:bg-orange-500/15 dark:text-orange-300'
-  }
-  if (category === 'both') {
-    return 'bg-violet-100 text-violet-700 dark:bg-violet-500/15 dark:text-violet-300'
-  }
-  return 'bg-neutral-100 text-neutral-600 dark:bg-neutral-800/80 dark:text-neutral-300'
-}
-
 // Articles tagged "both" belong to the AI and the Crypto filter alike.
 function inCategory(article: Article, key: 'ai' | 'crypto'): boolean {
   return article.category === key || article.category === 'both'
 }
 
 const PAGE_SIZE = 5
-
-function scoreColor(score: number) {
-  if (score >= 8) return 'text-emerald-500 dark:text-emerald-400'
-  if (score >= 5) return 'text-amber-500 dark:text-amber-400'
-  return 'text-neutral-500 dark:text-neutral-400'
-}
-
-function timeAgo(pubDate: string): string | null {
-  const then = new Date(pubDate).getTime()
-  if (Number.isNaN(then)) return null
-
-  const seconds = Math.round((Date.now() - then) / 1000)
-  if (seconds < 60) return 'just now'
-
-  const minutes = Math.round(seconds / 60)
-  if (minutes < 60) return `${minutes}m ago`
-
-  const hours = Math.round(minutes / 60)
-  if (hours < 24) return `${hours}h ago`
-
-  const days = Math.round(hours / 24)
-  if (days < 30) return `${days}d ago`
-
-  const months = Math.round(days / 30)
-  if (months < 12) return `${months}mo ago`
-
-  return `${Math.round(months / 12)}y ago`
-}
-
-// Remote RSS thumbnails are unreliable — hide the whole block if the image 404s
-// or the feed didn't provide one.
-function ArticleImage({ src, alt }: { src: string; alt: string }) {
-  const [failed, setFailed] = useState(false)
-  if (failed) return null
-  return (
-    <div className="relative w-full shrink-0 overflow-hidden bg-neutral-100 sm:w-64 sm:self-stretch dark:bg-neutral-900">
-      {/* eslint-disable-next-line @next/next/no-img-element */}
-      <img
-        src={src}
-        alt={alt}
-        loading="lazy"
-        referrerPolicy="no-referrer"
-        onError={() => setFailed(true)}
-        onLoad={(e) => {
-          // Some feeds ship 1x1 tracking pixels or tiny placeholders — treat
-          // those as "no image" rather than showing an empty stretched box.
-          const img = e.currentTarget
-          if (img.naturalWidth < 200 || img.naturalHeight < 120) setFailed(true)
-        }}
-        className="h-44 w-full object-cover transition-transform duration-300 group-hover:scale-105 sm:h-full"
-      />
-    </div>
-  )
-}
-
-function ShareButton({ article }: { article: Article }) {
-  const [copied, setCopied] = useState(false)
-
-  async function handleShare(e: React.MouseEvent) {
-    e.preventDefault()
-    e.stopPropagation()
-
-    const url = `${window.location.origin}/article/${articleSlug(article)}`
-
-    if (navigator.share) {
-      try {
-        await navigator.share({ title: article.title, url })
-        return
-      } catch {
-        // user cancelled or share failed — fall back to copy
-      }
-    }
-
-    try {
-      await navigator.clipboard.writeText(url)
-      setCopied(true)
-      setTimeout(() => setCopied(false), 2000)
-    } catch {
-      // clipboard unavailable — nothing else we can do
-    }
-  }
-
-  return (
-    <button
-      onClick={handleShare}
-      aria-label={copied ? 'Link copied' : 'Share article'}
-      className="relative z-10 flex h-8 w-8 shrink-0 items-center justify-center rounded-full text-neutral-400 transition-colors hover:bg-neutral-200 hover:text-neutral-700 dark:hover:bg-neutral-800 dark:hover:text-neutral-100"
-    >
-      <AnimatePresence mode="wait" initial={false}>
-        {copied ? (
-          <motion.span
-            key="check"
-            initial={{ scale: 0.5, opacity: 0 }}
-            animate={{ scale: 1, opacity: 1 }}
-            exit={{ scale: 0.5, opacity: 0 }}
-            transition={{ duration: 0.15 }}
-            className="text-emerald-400"
-          >
-            <Check className="h-4 w-4" />
-          </motion.span>
-        ) : (
-          <motion.span
-            key="share"
-            initial={{ scale: 0.5, opacity: 0 }}
-            animate={{ scale: 1, opacity: 1 }}
-            exit={{ scale: 0.5, opacity: 0 }}
-            transition={{ duration: 0.15 }}
-          >
-            <Share2 className="h-4 w-4" />
-          </motion.span>
-        )}
-      </AnimatePresence>
-    </button>
-  )
-}
-
-type Price = { usd: number; usd_24h_change: number }
-
-function CryptoPrices() {
-  const [prices, setPrices] = useState<{ bitcoin?: Price; ethereum?: Price } | null>(null)
-
-  useEffect(() => {
-    const ctrl = new AbortController()
-    const load = () =>
-      fetch(
-        'https://api.coingecko.com/api/v3/simple/price?ids=bitcoin,ethereum&vs_currencies=usd&include_24hr_change=true',
-        { signal: ctrl.signal }
-      )
-        .then((r) => (r.ok ? r.json() : null))
-        .then((data) => data && setPrices(data))
-        .catch(() => {})
-    load()
-    const id = setInterval(load, 60_000)
-    return () => {
-      clearInterval(id)
-      ctrl.abort()
-    }
-  }, [])
-
-  if (!prices?.bitcoin || !prices?.ethereum) return null
-
-  const coins = [
-    { label: 'BTC', price: prices.bitcoin },
-    { label: 'ETH', price: prices.ethereum },
-  ]
-
-  return (
-    <div className="flex gap-2">
-      {coins.map(({ label, price }) => {
-        const up = price.usd_24h_change >= 0
-        return (
-          <span
-            key={label}
-            className="flex items-center gap-1.5 rounded-full border border-neutral-300 bg-white/60 px-3 py-1 text-xs font-medium tabular-nums backdrop-blur-sm dark:border-neutral-800 dark:bg-black/40"
-          >
-            <span className="text-neutral-500">{label}</span>
-            <AnimatePresence mode="popLayout" initial={false}>
-              <motion.span
-                key={price.usd}
-                initial={{ opacity: 0, y: 8 }}
-                animate={{ opacity: 1, y: 0 }}
-                exit={{ opacity: 0, y: -8 }}
-                transition={{ duration: 0.25, ease: 'easeOut' }}
-                className="text-neutral-900 dark:text-neutral-100"
-              >
-                ${price.usd.toLocaleString('en-US', { maximumFractionDigits: 0 })}
-              </motion.span>
-            </AnimatePresence>
-            <span
-              className={cn(
-                'flex items-center gap-0.5',
-                up ? 'text-emerald-500 dark:text-emerald-400' : 'text-red-500 dark:text-red-400'
-              )}
-            >
-              {up ? <TrendingUp className="h-3 w-3" /> : <TrendingDown className="h-3 w-3" />}
-              {Math.abs(price.usd_24h_change).toFixed(1)}%
-            </span>
-          </span>
-        )
-      })}
-    </div>
-  )
-}
-
-function BackToTop() {
-  const [show, setShow] = useState(false)
-
-  useEffect(() => {
-    const onScroll = () => setShow(window.scrollY > 600)
-    onScroll()
-    window.addEventListener('scroll', onScroll, { passive: true })
-    return () => window.removeEventListener('scroll', onScroll)
-  }, [])
-
-  return (
-    <AnimatePresence>
-      {show && (
-        <motion.button
-          initial={{ opacity: 0, y: 16 }}
-          animate={{ opacity: 1, y: 0 }}
-          exit={{ opacity: 0, y: 16 }}
-          transition={{ duration: 0.2 }}
-          onClick={() => window.scrollTo({ top: 0, behavior: 'smooth' })}
-          aria-label="Back to top"
-          className="fixed bottom-6 right-6 z-50 flex h-11 w-11 items-center justify-center rounded-full border border-neutral-300 bg-white/80 text-neutral-700 shadow-lg backdrop-blur-md transition-colors hover:bg-white dark:border-neutral-700 dark:bg-neutral-900/80 dark:text-neutral-200 dark:hover:bg-neutral-800"
-        >
-          <ArrowUp className="h-5 w-5" />
-        </motion.button>
-      )}
-    </AnimatePresence>
-  )
-}
-
-function NewsTicker({ articles }: { articles: Article[] }) {
-  const hot = articles.filter((a) => a.importance >= 8).slice(0, 12)
-  if (hot.length < 3) return null
-
-  // Two copies of the list make the CSS loop seamless.
-  const items = [...hot, ...hot]
-
-  return (
-    <div className="relative overflow-hidden border-y border-neutral-200 bg-white/40 py-2.5 backdrop-blur-sm dark:border-neutral-800/80 dark:bg-black/40">
-      <div className="ticker-track">
-        {items.map((a, i) => (
-          <Link
-            key={`${a.link}-${i}`}
-            href={`/article/${articleSlug(a)}`}
-            className="group flex shrink-0 items-center gap-2 px-6 text-sm text-neutral-600 transition-colors hover:text-neutral-900 dark:text-neutral-300 dark:hover:text-white"
-          >
-            <Flame className="h-3.5 w-3.5 shrink-0 text-red-500 dark:text-red-400" />
-            <span className="max-w-md truncate">{a.title}</span>
-            <span className="text-xs text-neutral-400 dark:text-neutral-600">·</span>
-            <span className="shrink-0 text-xs text-neutral-500">{a.source}</span>
-          </Link>
-        ))}
-      </div>
-      {/* Edge fades so headlines dissolve instead of hard-clipping */}
-      <div className="pointer-events-none absolute inset-y-0 left-0 w-16 bg-gradient-to-r from-white to-transparent dark:from-black" />
-      <div className="pointer-events-none absolute inset-y-0 right-0 w-16 bg-gradient-to-l from-white to-transparent dark:from-black" />
-    </div>
-  )
-}
-
-function ArticleSkeleton() {
-  return (
-    <Card className="overflow-hidden rounded-xl border-neutral-200 bg-white dark:border-neutral-800/80 dark:bg-gradient-to-b dark:from-neutral-900 dark:to-neutral-950">
-      <CardHeader className="pb-3">
-        <div className="flex items-center gap-2">
-          <Skeleton className="h-5 w-16 rounded-full" />
-          <Skeleton className="h-3 w-20" />
-          <Skeleton className="ml-auto h-5 w-12 rounded-full" />
-        </div>
-        <Skeleton className="mt-2 h-5 w-3/4" />
-      </CardHeader>
-      <CardContent className="pt-0">
-        <Skeleton className="h-3 w-full" />
-        <Skeleton className="mt-2 h-3 w-11/12" />
-        <Skeleton className="mt-2 h-3 w-2/3" />
-      </CardContent>
-    </Card>
-  )
-}
 
 function FilterButton({
   label,
@@ -615,68 +341,7 @@ export function Home({
                   ease: 'easeOut',
                 }}
               >
-                <Card className="group relative flex flex-col overflow-hidden rounded-xl border-neutral-200 bg-white transition-all duration-200 hover:-translate-y-0.5 hover:border-neutral-300 hover:shadow-lg hover:shadow-neutral-300/50 sm:flex-row dark:border-neutral-800/80 dark:bg-gradient-to-b dark:from-neutral-900 dark:to-neutral-950 dark:hover:border-neutral-700 dark:hover:shadow-black/40">
-                  <div className="flex min-w-0 flex-1 flex-col">
-                  <CardHeader className="pb-3">
-                    <div className="flex items-center gap-2">
-                      <Badge
-                        variant="secondary"
-                        className={cn(
-                          'rounded-full px-2.5 py-0.5 text-[11px] font-medium uppercase tracking-wider',
-                          categoryBadgeClass(article.category)
-                        )}
-                      >
-                        {article.category}
-                      </Badge>
-                      {article.importance >= 8 && (
-                        <Badge
-                          variant="secondary"
-                          className="flex items-center gap-1 rounded-full bg-red-100 px-2 py-0.5 text-[11px] font-medium uppercase tracking-wider text-red-700 dark:bg-red-500/15 dark:text-red-400"
-                        >
-                          <Flame className="h-3 w-3" />
-                          Hot
-                        </Badge>
-                      )}
-                      <span className="text-xs text-neutral-500">
-                        {article.source}
-                      </span>
-                      {timeAgo(article.pubDate) && (
-                        <>
-                          <span className="text-neutral-400 dark:text-neutral-600">·</span>
-                          <span className="text-xs text-neutral-500">
-                            {timeAgo(article.pubDate)}
-                          </span>
-                        </>
-                      )}
-                      <span className="ml-auto flex shrink-0 items-center gap-1 rounded-full bg-neutral-100 px-2 py-0.5 text-xs font-semibold tabular-nums dark:bg-neutral-800/60">
-                        <span className={scoreColor(article.importance)}>
-                          {article.importance}
-                        </span>
-                        <span className="text-neutral-400 dark:text-neutral-600">/10</span>
-                      </span>
-                      <ShareButton article={article} />
-                    </div>
-                    <CardTitle className="mt-2 text-base leading-snug text-neutral-900 transition-colors group-hover:text-black dark:text-neutral-100 dark:group-hover:text-white">
-                      <Link
-                        href={`/article/${articleSlug(article)}`}
-                        className="after:absolute after:inset-0"
-                      >
-                        {article.title}
-                      </Link>
-                    </CardTitle>
-                  </CardHeader>
-                  {article.summary && (
-                    <CardContent className="pt-0">
-                      <p className="line-clamp-3 text-sm leading-relaxed text-neutral-600 dark:text-neutral-400">
-                        {article.summary}
-                      </p>
-                    </CardContent>
-                  )}
-                  </div>
-                  {article.image && (
-                    <ArticleImage src={article.image} alt={article.title} />
-                  )}
-                </Card>
+                <ArticleCard article={article} />
               </motion.div>
             ))}
           </div>
