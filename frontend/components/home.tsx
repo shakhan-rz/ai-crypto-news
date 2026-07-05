@@ -73,8 +73,7 @@ export function Home({
   articles: Article[]
   lastUpdated?: string
 }) {
-  // Default to "All" so visitors land on content, never an empty page.
-  const [active, setActive] = useState<FilterKey | null>('all')
+  const [active, setActive] = useState<FilterKey | null>(null)
   const [query, setQuery] = useState('')
   const [shownCount, setShownCount] = useState(PAGE_SIZE)
   const [loading, setLoading] = useState(false)
