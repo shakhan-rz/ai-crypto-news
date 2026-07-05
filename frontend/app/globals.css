@@ -156,6 +156,32 @@
   scrollbar-color: #ea580c #0a0a0a;
 }
 
+/* Hero headline: orange gradient that slowly shimmers across the text. */
+.hero-shimmer {
+  background-image: linear-gradient(
+    110deg,
+    #fdba74 20%,
+    #f97316 40%,
+    #ea580c 50%,
+    #f97316 60%,
+    #fdba74 80%
+  );
+  background-size: 200% auto;
+  animation: hero-shimmer 5s linear infinite;
+}
+
+@keyframes hero-shimmer {
+  to {
+    background-position: -200% center;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .hero-shimmer {
+    animation: none;
+  }
+}
+
 .loader {
   width: 40px;
   height: 40px;

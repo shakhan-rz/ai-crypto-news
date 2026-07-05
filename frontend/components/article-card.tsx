@@ -42,6 +42,27 @@ function scoreBarClass(score: number) {
 const glassCard =
   'group relative overflow-hidden rounded-xl border-neutral-200 bg-white transition-all duration-300 [transition-timing-function:cubic-bezier(0.16,1,0.3,1)] hover:-translate-y-0.5 hover:scale-[1.01] hover:border-orange-300 hover:shadow-lg hover:shadow-orange-500/10 dark:border-white/[0.08] dark:bg-black/60 dark:backdrop-blur-md dark:hover:border-orange-500/40 dark:hover:bg-black/70 dark:hover:shadow-xl dark:hover:shadow-orange-500/10'
 
+// Tracks the cursor inside a card so the spotlight overlay can follow it.
+function trackSpotlight(e: React.MouseEvent<HTMLElement>) {
+  const rect = e.currentTarget.getBoundingClientRect()
+  e.currentTarget.style.setProperty('--spot-x', `${e.clientX - rect.left}px`)
+  e.currentTarget.style.setProperty('--spot-y', `${e.clientY - rect.top}px`)
+}
+
+// Soft orange glow that follows the mouse, only visible while hovering.
+function Spotlight() {
+  return (
+    <span
+      aria-hidden="true"
+      className="pointer-events-none absolute inset-0 z-0 opacity-0 transition-opacity duration-300 group-hover:opacity-100"
+      style={{
+        background:
+          'radial-gradient(320px circle at var(--spot-x, 50%) var(--spot-y, 50%), rgba(249,115,22,0.12), transparent 70%)',
+      }}
+    />
+  )
+}
+
 // Remote RSS thumbnails are unreliable — hide the whole block if the image 404s
 // or the feed didn't provide one.
 function ArticleImage({ src, alt }: { src: string; alt: string }) {
@@ -131,7 +152,11 @@ function ShareButton({ article }: { article: Article }) {
 
 export function ArticleCard({ article }: { article: Article }) {
   return (
-    <Card className={cn(glassCard, 'flex flex-col sm:flex-row')}>
+    <Card
+      className={cn(glassCard, 'flex flex-col sm:flex-row')}
+      onMouseMove={trackSpotlight}
+    >
+      <Spotlight />
       <span
         aria-hidden="true"
         className={cn(
@@ -203,7 +228,11 @@ export function ArticleCard({ article }: { article: Article }) {
 // oversized headline.
 export function FeaturedArticleCard({ article }: { article: Article }) {
   return (
-    <Card className={cn(glassCard, 'flex flex-col sm:flex-row')}>
+    <Card
+      className={cn(glassCard, 'flex flex-col sm:flex-row')}
+      onMouseMove={trackSpotlight}
+    >
+      <Spotlight />
       <span
         aria-hidden="true"
         className={cn(

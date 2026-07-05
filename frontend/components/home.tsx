@@ -180,7 +180,7 @@ export function Home({
       <section className="mx-auto flex max-w-6xl flex-col items-center gap-6 px-4 pt-16 pb-10 md:flex-row md:justify-between md:gap-8">
         <div className="text-center md:text-left">
           <h1 className="bg-gradient-to-b from-neutral-900 to-neutral-500 bg-clip-text text-4xl font-bold text-transparent dark:from-neutral-50 dark:to-neutral-400 md:text-6xl">
-            <span className="bg-gradient-to-b from-orange-300 to-orange-600 bg-clip-text text-transparent">
+            <span className="hero-shimmer bg-clip-text text-transparent">
               AI + Crypto
             </span>{' '}
             News
