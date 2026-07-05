@@ -203,7 +203,7 @@ export function ArticleCard({ article }: { article: Article }) {
 // oversized headline.
 export function FeaturedArticleCard({ article }: { article: Article }) {
   return (
-    <Card className={cn(glassCard, 'flex flex-col')}>
+    <Card className={cn(glassCard, 'flex flex-col sm:flex-row')}>
       <span
         aria-hidden="true"
         className={cn(
@@ -211,18 +211,6 @@ export function FeaturedArticleCard({ article }: { article: Article }) {
           scoreBarClass(article.importance)
         )}
       />
-      {article.image && (
-        <div className="relative h-40 w-full overflow-hidden bg-neutral-100 md:h-52 dark:bg-neutral-900">
-          {/* eslint-disable-next-line @next/next/no-img-element */}
-          <img
-            src={article.image}
-            alt={article.title}
-            referrerPolicy="no-referrer"
-            className="h-full w-full object-cover transition-transform duration-500 group-hover:scale-105"
-          />
-          <div className="absolute inset-0 bg-gradient-to-t from-black/60 via-transparent to-transparent" />
-        </div>
-      )}
       <div className="flex min-w-0 flex-1 flex-col pl-1">
         <CardHeader className="pb-3">
           <div className="flex items-center gap-2">
@@ -276,6 +264,7 @@ export function FeaturedArticleCard({ article }: { article: Article }) {
           </CardContent>
         )}
       </div>
+      {article.image && <ArticleImage src={article.image} alt={article.title} />}
     </Card>
   )
 }
