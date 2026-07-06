@@ -1,5 +1,17 @@
 [
   {
+    "title": "Vitalik Buterin says Ethereum is preparing its 'biggest rebuild' since the Merge",
+    "link": "https://www.coindesk.com/tech/2026/07/06/vitalik-buterin-says-ethereum-is-preparing-its-biggest-rebuild-since-the-merge",
+    "pubDate": "Mon, 06 Jul 2026 07:44:58 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "A revised roadmap details how the multi-year overhaul would replace nearly every major part of Ethereum's protocol, with quantum resistance and privacy moving up the priority list. It lands as ether rallies more than 12% in the past seven days.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/4d36b4d555058a50f2056e7f58d881601b0021d4-3840x2160.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "Ethereum is undergoing a significant rebuild, replacing major parts of its protocol, with a focus on quantum resistance and privacy. This overhaul is considered the biggest since the Merge. Ether has rallied over 12% in the past week.",
+    "importance": 9,
+    "classified": true
+  },
+  {
     "title": "How ethical hackers with just a $3,000 server found a flaw that could've put $70 billion in crypto at risk",
     "link": "https://www.coindesk.com/tech/2026/07/04/how-ethical-hackers-with-just-a-usd3-000-server-found-a-flaw-that-could-ve-put-usd70-billion-in-crypto-at-risk",
     "pubDate": "Sat, 04 Jul 2026 18:00:00 +0000",
@@ -45,6 +57,78 @@
     "image": "",
     "summary": "Mistral AI, an OpenAI competitor founded in 2023, has secured significant funding to advance its mission of making frontier AI accessible to everyone. The company is notable for offering several open-source AI models.",
     "importance": 9,
+    "classified": true
+  },
+  {
+    "title": "Michael Saylor's Strategy dramatically ups pace of bitcoin sales, raising $216 million",
+    "link": "https://www.coindesk.com/markets/2026/07/06/michael-saylor-s-strategy-dramatically-ups-pace-of-bitcoin-sales-raising-usd216-million",
+    "pubDate": "Mon, 06 Jul 2026 12:16:28 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "The company sold 3,588 bitcoin last week to replenish its dollar reserves for dividends on its preferred stock.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/0339788ec6da49e65916e89c4bf0f137635275cd-720x406.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "Michael Saylor's company significantly increased its pace of bitcoin sales last week, offloading 3,588 BTC to raise $216 million. This strategic move was executed to replenish dollar reserves, specifically for paying dividends on its preferred stock.",
+    "importance": 8,
+    "classified": true
+  },
+  {
+    "title": "Russia's largest bank plans crypto wallet launch as Moscow clears market path",
+    "link": "https://www.coindesk.com/business/2026/07/06/russia-s-largest-bank-plans-crypto-wallet-launch-as-moscow-clears-market-path",
+    "pubDate": "Mon, 06 Jul 2026 11:36:05 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "Services will integrate into \"Sberbank Online\" and \"SberInvestments\" once the \"On Digital Currency and Digital Rights\" bill takes effect in September.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/69d88d811de6cddb538ec7d407061b9d441d2dd2-2048x1536.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "Russia's largest bank, Sberbank, plans to launch integrated crypto wallet services within its \"Sberbank Online\" and \"SberInvestments\" platforms. This move is contingent on the new \"On Digital Currency and Digital Rights\" bill taking effect in September, clearing the market path for such offerings.",
+    "importance": 8,
+    "classified": true
+  },
+  {
+    "title": "U.S. inflation outlook underpins bitcoin bulls after best week since March",
+    "link": "https://www.coindesk.com/daybook-us/2026/07/06/u-s-inflation-outlook-underpins-bitcoin-bulls-after-best-week-since-march",
+    "pubDate": "Mon, 06 Jul 2026 11:15:00 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "Your day-ahead look for July 6, 2026",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/dd01b66b66df0443b467b0ff748fed12359bdc67-5472x3078.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "The U.S. inflation outlook is reportedly bolstering Bitcoin, which recently experienced its strongest weekly performance since March. This article provides a forward-looking market update for July 6, 2026, highlighting the macroeconomic factors influencing cryptocurrency.",
+    "importance": 8,
+    "classified": true
+  },
+  {
+    "title": "Ripple's preliminary crypto asset provider license in Luxembourg upgraded to fully compliant",
+    "link": "https://www.coindesk.com/policy/2026/07/06/ripple-s-preliminary-crypto-asset-provider-license-in-luxembourg-upgraded-to-fully-compliant",
+    "pubDate": "Mon, 06 Jul 2026 10:01:24 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "The approval means Ripple is now fully MiCA-compliant for payments, financial institutions, corporates and businesses across all 30 European Economic Area countries.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/f51f4fb1abaeae6f744f3245167da2a894eac1b1-1024x569.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "Ripple's crypto asset provider license in Luxembourg has been upgraded to fully compliant, allowing the company to operate in all 30 European Economic Area countries. This upgrade brings Ripple in line with the MiCA regulations for payments and financial institutions. The move is expected to expand Ripple's reach in Europe.",
+    "importance": 8,
+    "classified": true
+  },
+  {
+    "title": "Coinbase AI draws backlash after erroneously publishing World Cup result before kickoff",
+    "link": "https://www.coindesk.com/business/2026/07/06/coinbase-ai-draws-backlash-after-pushing-world-cup-result-before-kickoff",
+    "pubDate": "Mon, 06 Jul 2026 09:39:52 +0000",
+    "source": "CoinDesk",
+    "category": "both",
+    "content": "CEO Brian Armstrong investigated, and the firm said it made updates to prevent future AI-generated inaccuracies.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/5ea9cb945aa1177a164c59ca24af6f2903a369fe-4662x2622.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "Coinbase's AI system faced criticism for incorrectly publishing a World Cup result before the match started. The company's CEO, Brian Armstrong, looked into the matter and made updates to prevent similar AI-generated mistakes in the future. This incident highlights the potential pitfalls of relying on AI for real-time information.",
+    "importance": 8,
+    "classified": true
+  },
+  {
+    "title": "Live markets: Saylor's Strategy amps up bitcoin sales, raising $216 million",
+    "link": "https://www.coindesk.com/tech/2026/07/06/live-markets-bitcoin-pops-to-usd63-900-then-reverses-as-week-begins",
+    "pubDate": "Mon, 06 Jul 2026 07:43:21 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "Bitcoin gave up weekend gains, dipping back under $62,000 following the news.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/b493c99f24041995835d8e2277b6bfaa7d3d802d-1500x922.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "Bitcoin prices fell below $62,000 after news broke that Saylor's Strategy would be raising $216 million through bitcoin sales. The sales are part of a larger strategy, and the news caused bitcoin to give up its weekend gains. Bitcoin's price has been volatile in recent times, with various factors influencing its value.",
+    "importance": 8,
     "classified": true
   },
   {
@@ -108,50 +192,14 @@
     "classified": true
   },
   {
-    "title": "Europe led on crypto regulation. Now implementation must match ambition",
-    "link": "https://www.coindesk.com/opinion/2026/07/04/europe-led-on-crypto-regulation-now-implementation-must-match-ambition",
-    "pubDate": "Sat, 04 Jul 2026 14:00:00 +0000",
-    "source": "CoinDesk",
+    "title": "Dormant $1.9M Bitcoin tied to New York lawsuit moves after nearly 15 years",
+    "link": "https://cointelegraph.com/news/dormant-bitcoin-new-york-lawsuit-moved-15-years?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Mon, 06 Jul 2026 09:20:14 +0000",
+    "source": "Cointelegraph",
     "category": "crypto",
-    "content": "",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/d66edc8a47164a492bb2c8c22015c0908dc4cd8c-8256x5504.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "Europe has taken a pioneering role in establishing comprehensive crypto regulations. The current challenge is to ensure that the practical implementation of these ambitious frameworks matches the initial regulatory leadership.",
-    "importance": 8,
-    "classified": true
-  },
-  {
-    "title": "UK's bold new crypto rules promise to unlock global trading, but huge compliance hurdles still threaten the rollout",
-    "link": "https://www.coindesk.com/policy/2026/07/04/uk-s-bold-new-crypto-rules-promise-to-unlock-global-trading-but-huge-compliance-hurdles-still-threaten-the-rollout",
-    "pubDate": "Sat, 04 Jul 2026 12:00:00 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "The U.K. FCA's crypto framework has been praised for prioritizing global liquidity and institutional adoption, but the authorization process is expected to be daunting.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/e0513d0a4817ed047117319c2338d720ea07bb82-1920x1439.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "The U.K.'s Financial Conduct Authority (FCA) has introduced new crypto rules designed to enhance global liquidity and facilitate institutional adoption within the cryptocurrency market. While the framework has garnered praise for its forward-thinking approach, its implementation is expected to face significant challenges due to a complex and daunting authorization process.",
-    "importance": 8,
-    "classified": true
-  },
-  {
-    "title": "Bitcoin’s next parabolic run may need $1 trillion in fresh capital",
-    "link": "https://www.coindesk.com/markets/2026/07/04/bitcoin-s-next-parabolic-run-may-need-usd1-trillion-in-fresh-capital",
-    "pubDate": "Sat, 04 Jul 2026 06:48:42 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "This cycle, about $697 billion in new money has generated a roughly 689% gain, compared with earlier cycles where far less capital drove returns of upto 50,000%.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/acf831401ea851c7551eb13183b3f53d9be886a8-7146x4766.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "Bitcoin's current market cycle shows a 689% gain from $697 billion in new capital, a significantly lower percentage return compared to past cycles that required far less capital for much higher gains. Analysts suggest that Bitcoin's next major price surge could require $1 trillion in fresh investment.",
-    "importance": 8,
-    "classified": true
-  },
-  {
-    "title": "Bitcoin whales bought $16.7 billion of bitcoin in 2 weeks even as ETFs bled a record $4 billion",
-    "link": "https://www.coindesk.com/markets/2026/07/03/bitcoin-whales-bought-270-000-btc-in-two-weeks-even-as-etfs-bled-a-record-usd4-billion",
-    "pubDate": "Fri, 03 Jul 2026 11:45:33 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "U.S. institutional demand had its worst month ever in June. Large holders absorbed the selling, marking a divergence that has shown up near past cycle bottoms.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/b53d077c4e5949d0efd6629978ef575ece087f83-2400x1350.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "In a two‑week period, large bitcoin holders (whales) purchased roughly $16.7 billion worth of bitcoin, while U.S. institutional demand hit a record low in June. At the same time, bitcoin ETFs experienced a historic outflow of about $4 billion, indicating a divergence between retail and institutional activity near a potential cycle bottom.",
+    "content": "A Bitcoin address dormant for nearly 15 years moved $1.9 million in BTC as a New York lawsuit seeks ownership of thousands of inactive holdings.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-what-happened-in-crypto-legal-news-breaking-news.jpg",
+    "summary": "A dormant Bitcoin address has moved $1.9 million in BTC after nearly 15 years, amidst a New York lawsuit seeking ownership of inactive holdings. The lawsuit aims to claim thousands of inactive Bitcoin holdings. The movement of the funds has sparked interest in the crypto community.",
     "importance": 8,
     "classified": true
   },
@@ -276,6 +324,66 @@
     "classified": true
   },
   {
+    "title": "Strategy sells 3,588 BTC for $216 million, with total bitcoin holdings still underwater",
+    "link": "https://www.theblock.co/post/407217/strategy-bitcoin-digital-energy?utm_source=rss&utm_medium=rss",
+    "pubDate": "Mon, 06 Jul 2026 08:22:55 -0400",
+    "source": "The Block",
+    "category": "crypto",
+    "content": "Strategy's total holdings account for more than 4% of the 21 million bitcoin supply cap — worth around $52.3 billion.",
+    "image": "https://www.tbstat.com/wp/uploads/2025/03/20250304_Strategy_News_2-800x450.jpg",
+    "summary": "Strategy sold 3,588 BTC for $216 million, but their total bitcoin holdings are still valued below their purchase price. This sale represents a small portion of their overall holdings, which account for over 4% of the total bitcoin supply. The company's bitcoin holdings are worth around $52.3 billion.",
+    "importance": 8,
+    "classified": true
+  },
+  {
+    "title": "‘Any signs of life?’ Bernstein holds ‘ambitious’ $150K year-end bitcoin target despite 54% drawdown",
+    "link": "https://www.theblock.co/post/407212/any-signs-of-life-bernstein-holds-ambitious-150k-year-end-bitcoin-target-despite-54-drawdown?utm_source=rss&utm_medium=rss",
+    "pubDate": "Mon, 06 Jul 2026 06:49:28 -0400",
+    "source": "The Block",
+    "category": "crypto",
+    "content": "Bernstein says bitcoin's 54% drawdown is milder than past cycles, retaining its \"ambitious\" $150K year-end target.",
+    "image": "https://www.tbstat.com/wp/uploads/2024/01/20240111_Bitcoin_News_1-800x450.jpg",
+    "summary": "Bernstein retains its year-end bitcoin target of $150K despite a 54% drawdown, considering it milder than past cycles. The target is deemed ambitious, reflecting optimism about bitcoin's future. This prediction may significantly impact the cryptocurrency market.",
+    "importance": 8,
+    "classified": true
+  },
+  {
+    "title": "Ripple secures full MiCA CASP authorization for crypto services across 30 EEA countries",
+    "link": "https://www.theblock.co/post/407207/ripple-secures-full-mica-casp-authorization-for-crypto-services-across-30-eea-countries?utm_source=rss&utm_medium=rss",
+    "pubDate": "Mon, 06 Jul 2026 05:30:56 -0400",
+    "source": "The Block",
+    "category": "crypto",
+    "content": "Ripple secured full MiCA CASP authorization from Luxembourg for regulated crypto services across all 30 European Economic Area countries.",
+    "image": "https://www.tbstat.com/wp/uploads/2025/06/ripple-xrp-payment-800x450.jpg",
+    "summary": "Ripple has secured full MiCA CASP authorization from Luxembourg, allowing the company to provide regulated crypto services across 30 European Economic Area countries. This move expands Ripple's presence in the European market and marks a significant milestone for the company. The authorization enables Ripple to operate in a more secure and compliant environment.",
+    "importance": 8,
+    "classified": true
+  },
+  {
+    "title": "DeFi protocol Summer Finance exploited for $6 million; analysts point to flash loan attack",
+    "link": "https://www.theblock.co/post/407198/summer-finance-exploited?utm_source=rss&utm_medium=rss",
+    "pubDate": "Mon, 06 Jul 2026 04:49:56 -0400",
+    "source": "The Block",
+    "category": "crypto",
+    "content": "The attacker reportedly used a $65.4 million flash loan to obtain a $70.9 million redemption on Summer.fi's Lazy Summer Protocol.",
+    "image": "https://www.tbstat.com/wp/uploads/2021/12/20211102_Hacker_General1-800x450.jpg",
+    "summary": "A DeFi protocol called Summer Finance was exploited for $6 million through a flash loan attack, where the attacker used a $65.4 million loan to obtain a $70.9 million redemption. The attack was carried out on Summer.fi's Lazy Summer Protocol. The exploit resulted in a significant loss for the protocol.",
+    "importance": 8,
+    "classified": true
+  },
+  {
+    "title": "South Korea develops crypto-specific procedures for asset seizures and liquidation: report",
+    "link": "https://www.theblock.co/post/407183/south-korea-crypto-specific-procedure?utm_source=rss&utm_medium=rss",
+    "pubDate": "Mon, 06 Jul 2026 04:35:54 -0400",
+    "source": "The Block",
+    "category": "crypto",
+    "content": "The amendments aim to formalize how courts handle the forced execution of civil judgments against cryptocurrency holdings.",
+    "image": "https://www.tbstat.com/wp/uploads/2024/02/20240220_SouthKorea_News5-800x450.jpg",
+    "summary": "South Korea has developed procedures for seizing and liquidating cryptocurrency assets in civil judgment cases, aiming to formalize the process. The amendments will handle the forced execution of judgments against crypto holdings. This move is expected to bring clarity to the process.",
+    "importance": 8,
+    "classified": true
+  },
+  {
     "title": "Vitalik Buterin says Ethereum’s next rebuild will rival the Merge, and take three to four years",
     "link": "https://www.theblock.co/post/407176/vitalik-buterin-says-ethereums-next-rebuild-will-rival-the-merge-and-take-three-to-four-years?utm_source=rss&utm_medium=rss",
     "pubDate": "Sun, 05 Jul 2026 15:56:39 -0400",
@@ -312,14 +420,14 @@
     "classified": true
   },
   {
-    "title": "Securitize becomes first to debut shares on NYSE and onchain, but it won’t be the last",
-    "link": "https://www.theblock.co/post/407104/securitize-first-debut-shares-nyse-onchain-but-wont-be-last?utm_source=rss&utm_medium=rss",
-    "pubDate": "Thu, 02 Jul 2026 16:10:16 -0400",
-    "source": "The Block",
+    "title": "Strategy (MSTR) Sells 3,588 Bitcoin to Cover Preferred Dividends",
+    "link": "https://bitcoinmagazine.com/news/strategy-mstr-sells-3588-bitcoin",
+    "pubDate": "Mon, 06 Jul 2026 12:27:23 +0000",
+    "source": "Bitcoin Magazine",
     "category": "crypto",
-    "content": "President Brett Redfearn said the firm is in discussions to tokenize other IPOs \"definitely ... within the next year.”",
-    "image": "https://www.tbstat.com/wp/uploads/2025/10/20251028_Secrutize_News_2-800x450.jpg",
-    "summary": "Securitize has become the first company to list its shares simultaneously on the New York Stock Exchange and on a blockchain, marking a pioneering step in security token offerings. Its president Brett Redfearn says the firm is already in talks to tokenize additional IPOs within the next year, indicating that more on‑chain equity listings are likely to follow.",
+    "content": "Bitcoin Magazine\n\nStrategy (MSTR) Sells 3,588 Bitcoin to Cover Preferred Dividends\nStrategy (MSTR) sold a record 3,588 bitcoin for $216 million to fund preferred stock dividends.\nThis post Strategy (MSTR) Sells 3,588 Bitcoin to Cover Preferred Dividends first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
+    "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/01/Michael-Saylors-Strategy-MSTR-Spends-2.13-Billion-to-Buy-22305-Bitcoin.jpg",
+    "summary": "Strategy (MSTR) sold 3,588 bitcoin for $216 million to fund preferred stock dividends, marking a significant sale of cryptocurrency to cover financial obligations. The move is noteworthy for its scale and the use of bitcoin to meet financial commitments. This transaction highlights the ongoing interaction between traditional finance and cryptocurrency.",
     "importance": 8,
     "classified": true
   },
@@ -372,18 +480,6 @@
     "classified": true
   },
   {
-    "title": "Libby will filter out AI content, kind of",
-    "link": "https://www.theverge.com/column/959433/libby-ai-filter",
-    "pubDate": "2026-06-30T15:30:00.000Z",
-    "source": "The Verge AI",
-    "category": "ai",
-    "content": "This is Lowpass by Janko Roettgers, a newsletter on the ever-evolving intersection of tech and entertainment, syndicated just for The Verge subscribers once a week.\n\"AI is the new frontier for us,\" says Marc DeBevoise, who took over as the new CEO of OverDrive last week. OverDrive is best known for the ebook lending app Libby that is available through tens of thousands of public libraries. Like the rest of the digital publishing industry, it's poised to face massive disruption from a huge wave of AI-generated books.\nTo prepare for the AI onslaught, Libby is now getting ready to introduce AI content controls, allowing readers to select in t …\nRead the full story at The Verge.",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24148705/PXL_20221028_153245856.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "summary": "Libby, an ebook lending app, will introduce AI content controls to filter out AI-generated books, as the digital publishing industry prepares for disruption from AI, according to OverDrive's new CEO Marc DeBevoise. The move aims to help readers distinguish between human-created and AI-generated content. This development is part of the evolving intersection of tech and entertainment.",
-    "importance": 8,
-    "classified": true
-  },
-  {
     "title": "After spooking Trump into safety testing, Anthropic AI models get global release",
     "link": "https://arstechnica.com/tech-policy/2026/07/after-spooking-trump-into-safety-testing-anthropic-ai-models-get-global-release/",
     "pubDate": "Wed, 01 Jul 2026 16:44:18 +0000",
@@ -432,6 +528,18 @@
     "classified": true
   },
   {
+    "title": "Crypto bounces back from the brink as altcoin optimism returns despite pockets of weakness",
+    "link": "https://www.coindesk.com/markets/2026/07/06/crypto-bounces-back-from-the-brink-as-altcoin-optimism-returns-despite-pockets-of-weakness",
+    "pubDate": "Mon, 06 Jul 2026 10:44:45 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "BTC holds at $62,800 after last week's brush with $58,000, while LIT surges 50% and the Altcoin Season indicator hits its highest reading in three months.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/f500e3a1b14d6d0c3b93d4aa334be0beb08143db-1868x1000.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "Bitcoin has stabilized around $62,800 following a recent dip to $58,000, signaling a recovery in the crypto market. Altcoins are experiencing renewed optimism, with LIT surging 50% and the Altcoin Season indicator reaching its highest reading in three months.",
+    "importance": 7,
+    "classified": true
+  },
+  {
     "title": "Americans traded $571 million on Polymarket politic bets despite U.S. ban",
     "link": "https://www.coindesk.com/tech/2026/07/03/americans-traded-usd571-million-on-polymarket-politic-bets-despite-u-s-ban",
     "pubDate": "Sun, 05 Jul 2026 15:00:00 +0000",
@@ -452,30 +560,6 @@
     "content": "Thomas Sy, head of multi-asset solutions at the $800-million asset manager, says blockchain can enable complex portfolio construction that's not yet possible in traditional finance.",
     "image": "https://cdn.sanity.io/images/s3y3vcno/production/8082bae2b57a9811078afac63d9be93264695df1-1035x818.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
     "summary": "Thomas Sy, head of multi-asset solutions at NYLIM, believes that blockchain technology will enable a new use case for tokenization: personalized portfolios. He suggests this technology can facilitate complex portfolio construction that is not currently achievable within traditional finance.",
-    "importance": 7,
-    "classified": true
-  },
-  {
-    "title": "This sanctioned Russian stablecoin claims it processes billions, but blockchain analysts disagree",
-    "link": "https://www.coindesk.com/business/2026/07/03/this-sanctioned-russian-stablecoin-claims-it-processes-billions-but-blockchain-analysts-disagree",
-    "pubDate": "Fri, 03 Jul 2026 19:18:59 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "A7A5 claims crypto data providers understate its trading activity, while blockchain analytics firms say the ruble-backed token's volumes have fallen sharply this year.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/35b2ee60b948629fd54d874f686cbe501b176e3f-2961x1986.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "A sanctioned Russian stablecoin, A7A5, claims to process billions and accuses crypto data providers of understating its trading activity. However, blockchain analytics firms dispute these claims, reporting that the ruble-backed token's volumes have sharply declined this year.",
-    "importance": 7,
-    "classified": true
-  },
-  {
-    "title": "Trump says there is ‘nothing wrong’ with family’s crypto windfall",
-    "link": "https://www.coindesk.com/policy/2026/07/03/trump-says-there-is-nothing-wrong-with-family-s-crypto-windfall",
-    "pubDate": "Fri, 03 Jul 2026 12:04:15 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "The president reported at least $1.4 billion in crypto income for 2025. He told CNBC he did nothing illegal and was not aware of the extent of his holdings. Critics say he is profiting from the office while his administration writes the industry's rules.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/6ff371ab9765f78e75b1f20ec18d05af8cc0fb85-4000x2250.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "Former President Donald Trump said there is 'nothing wrong' with his family's crypto windfall, reporting at least $1.4 billion in crypto income for 2025. He claimed he did nothing illegal and was unaware of the full extent of the holdings, while critics argue he is profiting from his office as his administration shapes industry regulation.",
     "importance": 7,
     "classified": true
   },
@@ -524,18 +608,6 @@
     "content": "The US President disclosed earning more than $1 billion from crypto ventures amid discussions of a digital asset market structure bill in Congress and legislation to ban CBDCs awaiting his desk.",
     "image": "https://s3-images.ctmedia.io/media/article-covers/trump-is-doing-nah-1.jpg",
     "summary": "President Donald Trump disclosed that he earned more than $1 billion from cryptocurrency ventures and said there is nothing wrong with the windfall, even as Congress debates a digital asset market structure bill and legislation to prohibit central bank digital currencies.",
-    "importance": 7,
-    "classified": true
-  },
-  {
-    "title": "EU crypto rulebook faces enforcement challenge as MiCA transition ends",
-    "link": "https://cointelegraph.com/news/eu-crypto-rulebook-enforcement-challenge-mica-transition-end?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Fri, 03 Jul 2026 13:59:16 +0000",
-    "source": "Cointelegraph",
-    "category": "crypto",
-    "content": "Lawyers and industry executives expect EU regulators to enforce MiCA differently as unauthorized crypto companies are required to wind down operations.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-european-mica-regulation-on-digital-euro-where-do-we-stand.jpg",
-    "summary": "EU regulators are expected to apply the MiCA framework differently as the transition period ends, forcing unauthorized crypto firms to cease operations. Lawyers and industry leaders warn that enforcement will pose challenges for the sector.",
     "importance": 7,
     "classified": true
   },
@@ -644,18 +716,6 @@
     "content": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Claude Science is Anthropic’s newest flagship product At an event for pharmaceutical executives, biotech founders, and researchers yesterday, Anthropic announced Claude Science, a major new product intended to support scientific research…",
     "image": "https://wp.technologyreview.com/wp-content/uploads/2023/02/Selman-MIT-pill-resize.jpeg?w=3000",
     "summary": "Anthropic announced Claude Science, its latest flagship AI product designed to assist pharmaceutical executives, biotech founders, and researchers with scientific research. The launch was highlighted alongside a discussion of California's carbon manure calculations, framing the news within broader technology and environmental contexts.",
-    "importance": 7,
-    "classified": true
-  },
-  {
-    "title": "Claude Science is Anthropic’s newest flagship product",
-    "link": "https://www.technologyreview.com/2026/06/30/1139987/claude-science-is-anthropics-newest-flagship-product/",
-    "pubDate": "Tue, 30 Jun 2026 21:50:04 +0000",
-    "source": "MIT Technology Review",
-    "category": "ai",
-    "content": "At an event for pharmaceutical executives, biotech founders, and researchers on Tuesday, Anthropic announced Claude Science, a major new product intended to support scientific research in the same way that Claude Code supports software engineering. Like Claude Code, Claude Science can autonomously carry out meaningful work when given concise, high-level instructions, and it has access…",
-    "image": "",
-    "summary": "Anthropic unveiled Claude Science, a new flagship AI model designed to aid scientific research, extending the capabilities of its Claude Code product for software engineering. The model can autonomously perform research tasks based on high‑level instructions, aiming to accelerate discovery in biotech and pharma.",
     "importance": 7,
     "classified": true
   },
@@ -828,6 +888,30 @@
     "classified": true
   },
   {
+    "title": "Bitcoin's Sharpe Ratio slides to lowest since 2022. Here's what it means.",
+    "link": "https://www.coindesk.com/markets/2026/07/06/bitcoin-s-sharpe-ratio-slides-to-lowest-since-2022-here-s-what-it-means",
+    "pubDate": "Mon, 06 Jul 2026 10:19:56 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "A reading that negative means investors would have been better off in risk-free assets like 10-year U.S. Treasuries.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/3ee6f29ce17006b72bc6ae9c914e5367186c64d1-2400x1350.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "Bitcoin's Sharpe Ratio has fallen to its lowest level since 2022, a negative reading that indicates investors would have achieved better returns by investing in risk-free assets such as 10-year U.S. Treasuries. This suggests that Bitcoin's risk-adjusted returns have recently been unfavorable compared to safer traditional investments.",
+    "importance": 6,
+    "classified": true
+  },
+  {
+    "title": "FOMC minutes, SpaceX joins Nasdaq 100: Crypto Week Ahead",
+    "link": "https://www.coindesk.com/markets/2026/07/06/fomc-minutes-spacex-joins-nasdaq-100-crypto-week-ahead",
+    "pubDate": "Mon, 06 Jul 2026 08:18:05 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "Your look at what's coming in the week starting July 6.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/b6e96032161d6dcf99d95c60578a52fdca91b2f3-5594x3147.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "The upcoming week starting July 6 is expected to bring notable events, including the release of FOMC minutes and SpaceX joining the Nasdaq 100. This may impact cryptocurrency markets. The week ahead is anticipated to be significant for crypto investors.",
+    "importance": 6,
+    "classified": true
+  },
+  {
     "title": "I am contemplating selling some of my bitcoin for gold, veteran trader Peter Brandt says",
     "link": "https://www.coindesk.com/markets/2026/07/06/i-am-contemplating-selling-some-of-my-bitcoin-for-gold-veteran-trader-peter-brandt-says",
     "pubDate": "Mon, 06 Jul 2026 06:03:29 +0000",
@@ -876,26 +960,38 @@
     "classified": true
   },
   {
-    "title": "XRP climbs 8% as record holder losses signal better risk-reward for buyers",
-    "link": "https://www.coindesk.com/markets/2026/07/04/xrp-climbs-8-as-one-onchain-gauge-signal-shows-favorable-risk-reward-for-buyers",
-    "pubDate": "Sat, 04 Jul 2026 07:08:00 +0000",
-    "source": "CoinDesk",
+    "title": "Belgian regulator flags six unauthorized crypto providers after MiCA deadline ",
+    "link": "https://cointelegraph.com/news/belgium-unauthorized-crypto-firms-mica-deadline?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Mon, 06 Jul 2026 12:15:20 +0000",
+    "source": "Cointelegraph",
     "category": "crypto",
-    "content": "The token's 30-day and 365-day MVRV, a measure of how far holders are underwater, sit near -45% and -47%, lows Santiment says XRP has never reached before. Some traders read stretched losses as a contrarian signal.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/341ec0cc75f21e4a7dff5d86d7ee120a3f79c843-1593x1194.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "XRP has experienced an 8% price increase, which some traders interpret as a contrarian buy signal. This surge follows unprecedented losses for its holders, with the token's 30-day and 365-day MVRV indicators reaching record lows of approximately -45% and -47%.",
+    "content": "Belgium’s FSMA warned consumers about six crypto-asset service providers it added to a fraudulent CASP list days after the EU’s MiCA transitional period expired.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/european-union-eu-european-parliament-brussels-1.jpg",
+    "summary": "Belgium's FSMA has warned consumers about six unauthorized crypto-asset service providers, adding them to a list of fraudulent CASPs after the EU's MiCA transitional period ended. The move aims to protect consumers from potential scams. The FSMA's warning highlights the regulator's efforts to enforce compliance with EU regulations.",
     "importance": 6,
     "classified": true
   },
   {
-    "title": "Crypto bulls on firmer footing as U.S. rate-hike risk recedes ",
-    "link": "https://www.coindesk.com/markets/2026/07/03/crypto-bulls-on-firmer-footing-as-u-s-rate-hike-risk-recedes",
-    "pubDate": "Fri, 03 Jul 2026 11:11:39 +0000",
-    "source": "CoinDesk",
+    "title": "$60.4K Becomes 'most important area': Five things to know in Bitcoin this week",
+    "link": "https://cointelegraph.com/markets/604k-becomes-most-important-area-five-things-to-know-in-bitcoin-this-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Mon, 06 Jul 2026 10:25:20 +0000",
+    "source": "Cointelegraph",
     "category": "crypto",
-    "content": "Crypto ended the week in a more buoyant state after weak U.S. jobs data reduced the chances of a Fed interest-rate increase and Uniswap gained on a link-up with Robinhood.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/4fc97025fc923d4eb331b31ca38c1879cf94e841-1854x992.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "Crypto markets rose after weak U.S. jobs data lowered expectations of a Federal Reserve rate hike, boosting investor confidence. Additionally, Uniswap's partnership with Robinhood helped lift its price.",
+    "content": "Bitcoin saw its highest levels in nearly two weeks at the weekly close, but bulls needed a push beyond $65,000 for real trend inflection, said the latest BTC price analysis.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/analysis-psychoanalyst2.jpg",
+    "summary": "Bitcoin saw its highest levels in nearly two weeks, reaching a weekly close, but needs to push beyond $65,000 for a trend inflection. The latest BTC price analysis highlights the importance of the $60,400 area. Bitcoin's price movement is being closely watched for potential trends.",
+    "importance": 6,
+    "classified": true
+  },
+  {
+    "title": "South Korea weighs action against Polymarket over gambling concerns ",
+    "link": "https://cointelegraph.com/news/south-korea-polymarket-gambling-review-corrective-action?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Mon, 06 Jul 2026 09:53:34 +0000",
+    "source": "Cointelegraph",
+    "category": "crypto",
+    "content": "South Korea’s media and communications review body will hear from Polymarket before deciding whether to issue a corrective request against the prediction market platform.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/courtroomcourtjudgesemen3.jpg",
+    "summary": "South Korea's media and communications review body is considering taking action against Polymarket, a prediction market platform, due to concerns over gambling. The body will hear from Polymarket before making a decision on whether to issue a corrective request. This decision may impact the operation of similar platforms in the country.",
     "importance": 6,
     "classified": true
   },
@@ -905,7 +1001,7 @@
     "pubDate": "Mon, 06 Jul 2026 03:12:14 +0000",
     "source": "Cointelegraph",
     "category": "crypto",
-    "content": "Nansen analysis shows that just under half a million wallets had profited on Donald Trump’s memecoin, while the large majority of buyers have lost out.",
+    "content": "Nansen analysis shows that just under half a million wallets profited on Donald Trump’s memecoin, while the large majority of buyers lost out.",
     "image": "https://s3-images.ctmedia.io/media/article-covers/hi-trump-china-tariffs.png",
     "summary": "A report by Nansen found that nearly half a million wallets profited from Donald Trump's memecoin, but the majority of buyers have lost out, with total losses exceeding $3.8 billion. The analysis highlights the risky nature of investing in memecoins. The significant loss may serve as a warning to investors in the cryptocurrency market.",
     "importance": 6,
@@ -992,30 +1088,6 @@
     "content": "Strategy authorizes Bitcoin sales, Open USD takes on USDT and USDC, Fidelity defends Bitcoin security and crypto ramps up political spending for 2026.",
     "image": "https://s3-images.ctmedia.io/media/article-covers/hi-the-meaningful-shift-from-bitcoin-maximalism-to-bitcoin-realism.jpg",
     "summary": "The article examines how Bitcoin maximalists are confronting the realities of capital markets, with strategies now authorizing Bitcoin sales and Open USD introducing USDT and USDC. It also notes Fidelity's defense of Bitcoin security and the crypto industry's ramped-up political spending ahead of the 2026 elections, signaling deeper integration of Bitcoin into mainstream finance.",
-    "importance": 6,
-    "classified": true
-  },
-  {
-    "title": "Belgian police arrest suspected phishing gang leader tied to $572K theft",
-    "link": "https://cointelegraph.com/news/belgian-police-arrest-phishing-gang-leader-572k-stolen?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Fri, 03 Jul 2026 12:43:47 +0000",
-    "source": "Cointelegraph",
-    "category": "crypto",
-    "content": "Belgian authorities say a European phishing gang stole over $572,000 from victims before laundering the proceeds through cryptocurrency.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/hacker-with-a-rod.jpg",
-    "summary": "Belgian police have arrested the leader of a European phishing gang that stole over $572,000 from victims. The stolen funds were laundered using cryptocurrency, highlighting the role of digital assets in cybercrime.",
-    "importance": 6,
-    "classified": true
-  },
-  {
-    "title": "StanChart joins ESMA's first MiCA register update since deadline",
-    "link": "https://cointelegraph.com/news/esma-mica-register-new-casps-stanchart-update?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Fri, 03 Jul 2026 12:02:41 +0000",
-    "source": "Cointelegraph",
-    "category": "crypto",
-    "content": "ESMA publishes its first post-deadline MiCA register update, adding 37 crypto-asset service providers, including Standard Chartered and FalconX.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-protecting-your-crypto-investment3333.jpg",
-    "summary": "The European Securities and Markets Authority (ESMA) has released its first update to the MiCA register after the deadline, adding 37 crypto-asset service providers. Among the newly listed firms are Standard Chartered and FalconX, indicating growing institutional participation in the EU's crypto regulatory framework.",
     "importance": 6,
     "classified": true
   },
@@ -1116,54 +1188,6 @@
     "classified": true
   },
   {
-    "title": "eToro leads $12.5 million round in onchain perps exchange Extended",
-    "link": "https://www.theblock.co/post/407093/etoro-leads-12-5-million-round-in-onchain-perps-exchange-extended?utm_source=rss&utm_medium=rss",
-    "pubDate": "Thu, 02 Jul 2026 15:23:16 -0400",
-    "source": "The Block",
-    "category": "crypto",
-    "content": "\"The partnership will focus on expanding access to global financial markets through next-generation on-chain infrastructure,\" eToro said.",
-    "image": "https://www.tbstat.com/wp/uploads/2019/08/etoro-800x450.jpg",
-    "summary": "eToro led a $12.5 million funding round for a new on-chain perpetuals exchange. The partnership aims to broaden access to global financial markets using next‑generation on‑chain infrastructure.",
-    "importance": 6,
-    "classified": true
-  },
-  {
-    "title": "CFTC’s Selig says Illinois lawmakers ‘decided they know better’ on crypto tax",
-    "link": "https://www.theblock.co/post/407094/cftcs-selig-says-illinois-lawmakers-decided-they-know-better-on-crypto-tax?utm_source=rss&utm_medium=rss",
-    "pubDate": "Thu, 02 Jul 2026 15:12:45 -0400",
-    "source": "The Block",
-    "category": "crypto",
-    "content": "CFTC Chair Michael Selig sharply criticized Illinois' decision to pass a law that puts into place a 0.2% tax on crypto transactions.",
-    "image": "https://www.tbstat.com/wp/uploads/2020/06/20200630_CFTC-Daily-800x450.jpg",
-    "summary": "CFTC Chair Michael Selig sharply criticized Illinois lawmakers for passing a law that imposes a 0.2% tax on cryptocurrency transactions, arguing that the state overstepped its authority. He said the lawmakers acted as if they \"know better\" than federal regulators on crypto tax matters.",
-    "importance": 6,
-    "classified": true
-  },
-  {
-    "title": "JPMorgan says Strategy’s bitcoin sale policy introduced ‘avoidable’ risk into crypto markets",
-    "link": "https://www.theblock.co/post/407071/jpmorgan-strategy-mstr-bitcoin-sale-policy-risk-crypto-markets?utm_source=rss&utm_medium=rss",
-    "pubDate": "Thu, 02 Jul 2026 14:52:29 -0400",
-    "source": "The Block",
-    "category": "crypto",
-    "content": "Strategy introduced \"avoidable two-way risk\" into crypto markets with its recent bitcoin sale policy, according to JPMorgan analysts.",
-    "image": "https://www.tbstat.com/wp/uploads/2020/10/20201026_JPMorgan-Crypto-Org-800x450.jpg",
-    "summary": "JPMorgan analysts claim that Strategy's recent Bitcoin sale policy has created an 'avoidable two‑way risk' in the cryptocurrency market. They argue the policy introduces unnecessary volatility and could destabilize crypto trading.",
-    "importance": 6,
-    "classified": true
-  },
-  {
-    "title": "Irish authorities recover another 500 bitcoins from lost Clifton Collins drug stash",
-    "link": "https://www.theblock.co/post/407062/irish-authorities-recover-another-500-bitcoins-lost-clifton-collins-drug-stash?utm_source=rss&utm_medium=rss",
-    "pubDate": "Thu, 02 Jul 2026 13:30:59 -0400",
-    "source": "The Block",
-    "category": "crypto",
-    "content": "Onchain data from Arkham Intelligence now shows wallets tagged \"Clifton Collins\" holding roughly 4,500 BTC.",
-    "image": "https://www.tbstat.com/wp/uploads/2024/05/20240509_Bitcoin_News_3-800x450.jpg",
-    "summary": "Irish authorities have recovered an additional 500 bitcoins linked to a drug stash previously associated with Clifton Collins. Onchain analysis from Arkham Intelligence reveals that wallets tagged with his name now hold approximately 4,500 BTC in total.",
-    "importance": 6,
-    "classified": true
-  },
-  {
     "title": "Bitcoin Exchange Inflows Spike to 49,000 BTC in a Day, Signaling More Volatility is Coming: Report",
     "link": "https://bitcoinmagazine.com/markets/bitcoin-exchange-inflows-spike-to-49000",
     "pubDate": "Thu, 02 Jul 2026 19:56:52 +0000",
@@ -1220,18 +1244,6 @@
     "content": "Bitcoin Magazine\n\nBitcoin Price Reclaims $60,000 As Strategy (MSTR) and Strive (ASST) Jump More Than 10%\nBitcoin price climbed back above $60,000 on Wednesday, lifting Bitcoin treasury stocks, with Strategy (MSTR) and Strive (ASST) surging more than 10% intraday.\nThis post Bitcoin Price Reclaims $60,000 As Strategy (MSTR) and Strive (ASST) Jump More Than 10% first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
     "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/06/Bitcoin-Price-Rises-Above-65000-as-ETF-Outflows-Slow-Iran-Deal-and-Fed-Pull-in-Opposite-Directions.jpg",
     "summary": "Bitcoin’s price rose back above $60,000, prompting a rebound in Bitcoin treasury holdings. The surge also drove shares of Strategy (MSTR) and Strive (ASST) up more than 10% during intraday trading.",
-    "importance": 6,
-    "classified": true
-  },
-  {
-    "title": "Preferred Stock Is Becoming Bitcoin Treasury Firms’ Financing Tool of Choice: Report",
-    "link": "https://bitcoinmagazine.com/news/preferred-stock-is-becoming-bitcoin",
-    "pubDate": "Wed, 01 Jul 2026 18:36:32 +0000",
-    "source": "Bitcoin Magazine",
-    "category": "crypto",
-    "content": "Bitcoin Magazine\n\nPreferred Stock Is Becoming Bitcoin Treasury Firms’ Financing Tool of Choice: Report\nBitcoin-backed preferred shares — led by Strategy and emerging players like Strive—have grown into a roughly $13B market by offering high-yield.\nThis post Preferred Stock Is Becoming Bitcoin Treasury Firms’ Financing Tool of Choice: Report first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
-    "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/06/Mexican-Billionaire-Ricardo-Salinas-Bets-70-of-His-Portfolio-on-Bitcoin-Eyes-1-Million-Price.jpg",
-    "summary": "Bitcoin-backed preferred shares have emerged as a popular financing instrument for firms holding Bitcoin treasuries. Led by Strategy and newcomers such as Strive, the market has expanded to about $13 billion, offering high-yield returns.",
     "importance": 6,
     "classified": true
   },
@@ -1356,6 +1368,30 @@
     "classified": true
   },
   {
+    "title": "Some of the nation’s rich are letting AI teach their kids",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/961505/wealthy-ai-schools-alpha-forge-prep",
+    "pubDate": "2026-07-05T22:30:54.000Z",
+    "source": "The Verge AI",
+    "category": "ai",
+    "content": "Most Americans don't trust AI. It's proven that it doesn't know what safe toppings for pizza are. People don't even want to listen to AI music. But none of that matters for some of America's wealthy, who are turning to AI to teach their kids instead of traditional schools.\nCompanies like Forge Prep and Alpha School are charging families tens of thousands of dollars to turn their kids into beta testers for AI tutors and \"interactive project-based workshops.\" Unsurprisingly, Silicon Valley have been major adopters of this new model. Shaun Johnson, a San Francisco-based venture capitalist, told The Wall Street Journal that he plans to send his …\nRead the full story at The Verge.",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25584700/STK483_EDUCATION_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "summary": "Wealthy American families are using AI to teach their kids, with companies like Forge Prep and Alpha School offering AI-powered tutoring and workshops for tens of thousands of dollars. This trend is particularly popular in Silicon Valley, with some venture capitalists embracing the new model. The move reflects a growing interest in AI-based education among the affluent.",
+    "importance": 6,
+    "classified": true
+  },
+  {
+    "title": "Infuriating Google commercial imagines the founding fathers embracing AI",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/961468/google-ai-commercial-founding-fathers-declaration-of-independence",
+    "pubDate": "2026-07-05T14:23:11.000Z",
+    "source": "The Verge AI",
+    "category": "ai",
+    "content": "I call BS: the founding fathers definitely would have been Microsoft Teams users. | Image: Google\t\n\n\"Group project, but make it 1776.\" That's how a new commercial for Google Workspace opens. And things only get cringier from there. The clip imagines what it would be like if the founding fathers turned to Google's collaboration tools and Gemini to help them draft the Declaration of Independence. \nBen Franklin texts Thomas Jefferson to check on the status of a draft, who takes a photo and uses AI to transcribe it into a Google Doc. Franklin and Adams hop in to make edits in suggestion mode, Gemini finds them a meeting time, takes notes during a Google Meet call, and then Nano Banana whips up a seal for the United States featuring a turkey ( …\nRead the full story at The Verge.",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Q3RjZY-rSsc-HD.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "summary": "A new Google commercial imagines the founding fathers using Google Workspace and AI to draft the Declaration of Independence, with features like text transcription and virtual meetings. The ad showcases Google's collaboration tools in a humorous and anachronistic way. The commercial highlights the potential of AI and Google's tools to enhance productivity and teamwork.",
+    "importance": 6,
+    "classified": true
+  },
+  {
     "title": "A behind-the-scenes look at Midjourney’s medical scanner leaves many questions unanswered",
     "link": "https://www.theverge.com/ai-artificial-intelligence/961265/midjourney-medical-ultrasound-scanner-behind-the-scenes-video",
     "pubDate": "2026-07-03T11:49:10.000Z",
@@ -1404,18 +1440,6 @@
     "classified": true
   },
   {
-    "title": "Meet the lawyer who beat Elon Musk — twice",
-    "link": "https://www.theverge.com/column/959270/elon-musk-open-ai-bill-savitt-twitter",
-    "pubDate": "2026-06-30T12:00:00.000Z",
-    "source": "The Verge AI",
-    "category": "ai",
-    "content": "“After college, my plan was to come to New York and get a record deal.” | Cath Virginia / The Verge, Getty Images\t\n\nWatching Elon Musk fulminate at Bill Savitt during Musk v. Altman - the case in which Musk sued Sam Altman and OpenAI instead of seeing a therapist about his AI failures - was a bit like watching a toddler have a temper tantrum at his nursery school teacher. Savitt's questions were \"designed to trick me,\" Musk said. He also told Savitt at one point, \"You mostly do unfair questions.\"\nSavitt, who has the approximate demeanor of a handsome Droopy Dog, gently told Musk, \"I am trying to put the questions as fairly as I can. I am doing my best.\" \nI've seen a number of styles of cross-examination. Savitt's was mild-mannered and soft-spoken; his q …\nRead the full story at The Verge.",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/268607_An_interview_with_William_Savitt_Elon_Musks_courtroom_nemesis_CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "summary": "A lawyer named Bill Savitt questioned Elon Musk in a court case, remaining calm despite Musk's frustrations, and has successfully represented clients against Musk twice. Musk's behavior in the case is compared to a temper tantrum. The case involves Musk's lawsuit against Sam Altman and OpenAI.",
-    "importance": 6,
-    "classified": true
-  },
-  {
     "title": "Musk’s X poses “serious risk to Americans’ privacy,” advocates warn FTC",
     "link": "https://arstechnica.com/tech-policy/2026/07/musks-x-poses-serious-risk-to-americans-privacy-advocates-warn-ftc/",
     "pubDate": "Thu, 02 Jul 2026 14:39:17 +0000",
@@ -1449,18 +1473,6 @@
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-2212917669-1152x648.jpg",
     "summary": "Oracle plans to use the cost savings from its 21,000 job cuts to fund its debt‑driven push into artificial intelligence, allocating billions of dollars toward expanding data‑center infrastructure that will power AI workloads. The company’s aggressive investment signals a bet on AI as a growth engine despite financial pressures.",
     "importance": 6,
-    "classified": true
-  },
-  {
-    "title": "Trump's crypto token buyers are down $3.8 billion, blockchain data shows",
-    "link": "https://www.coindesk.com/business/2026/07/04/trump-s-crypto-token-buyers-are-down-usd3-8-billion-blockchain-data-shows",
-    "pubDate": "Sat, 04 Jul 2026 15:30:52 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "The TRUMP token is down 96% from its peak, and 85% of secondary market wallets for WLFI are underwater, reflecting a broader downturn in the sector.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/84a461bc77fdc8be2e55a8cfa0a0aa196e958396-4928x2772.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "Buyers of Trump-branded crypto tokens, including TRUMP and WLFI, have experienced substantial losses, with the TRUMP token down 96% from its peak and 85% of WLFI secondary market wallets underwater. Overall, buyers are down $3.8 billion, reflecting a broader downturn within this specific sector of the crypto market.",
-    "importance": 5,
     "classified": true
   },
   {
@@ -1548,30 +1560,6 @@
     "classified": true
   },
   {
-    "title": "EU moves to block retail investors from explosive boom of multibillion-dollar prediction markets",
-    "link": "https://www.coindesk.com/policy/2026/07/04/eu-moves-to-block-retail-investors-from-explosive-boom-of-multibillion-dollar-prediction-markets",
-    "pubDate": "Sat, 04 Jul 2026 13:56:27 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "The region's regulators emphasized that a product's actual function as a derivative matters more than its commercial name or labeling when assessing compliance.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/4b2b0c4fb42c84e87e79191a60ccfaa14114efd5-1440x1080.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "The European Union is taking steps to prevent retail investors from participating in the rapidly growing multibillion-dollar prediction markets. Regulators will assess compliance based on a product's actual function as a derivative, rather than its commercial name or labeling.",
-    "importance": 4,
-    "classified": true
-  },
-  {
-    "title": "Bitcoin, ether traders aren't fully buying the bounce, options markets show",
-    "link": "https://www.coindesk.com/daybook-us/2026/07/03/bitcoin-ether-traders-aren-t-fully-buying-the-bounce-options-markets-show",
-    "pubDate": "Fri, 03 Jul 2026 11:27:44 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "Your day-ahead look for July 3, 2026",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/3a5f22979dcf5b1de42cdd835413cbb79e8e020d-1500x995.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "The options market shows that Bitcoin and Ethereum traders are hesitant to fully embrace the recent price bounce, indicating cautious sentiment. The day-ahead outlook for July 3, 2026 highlights this uncertainty in the crypto markets.",
-    "importance": 4,
-    "classified": true
-  },
-  {
     "title": "Here’s what happened in crypto today",
     "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "pubDate": "Mon, 06 Jul 2026 05:59:40 +0000",
@@ -1580,18 +1568,6 @@
     "content": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
     "image": "https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg",
     "summary": "The article provides a daily roundup of the latest news affecting the cryptocurrency market, covering topics such as Bitcoin price movements, blockchain developments, DeFi, Web3, and regulatory updates. It serves as a quick guide to current trends and events in the crypto space.",
-    "importance": 4,
-    "classified": true
-  },
-  {
-    "title": "Upbit says it only expressed interest in future OUSD participation",
-    "link": "https://cointelegraph.com/news/upbit-clarifies-ousd-role-open-standard-partner-list?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Fri, 03 Jul 2026 13:19:49 +0000",
-    "source": "Cointelegraph",
-    "category": "crypto",
-    "content": "Upbit said it only expressed interest in potentially joining the OpenStandard ecosystem in the future, as several South Korean firms distanced themselves from the OUSD initiative.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/judge-hammer-regulation-court-law-judgment-south-korea.jpg",
-    "summary": "Upbit clarified that it has only expressed interest in possibly joining the OpenStandard (OUSD) ecosystem at a later date. The statement comes as several South Korean companies are distancing themselves from the OUSD initiative.",
     "importance": 4,
     "classified": true
   },
@@ -1737,6 +1713,30 @@
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-2280560807-1024x648.jpg",
     "summary": "According to sources, former President Trump approached Elon Musk about a large donation of SpaceX stock to fund savings accounts for American children. The report suggests Musk is considering a sizable contribution to the Trump-backed initiative.",
     "importance": 2,
+    "classified": true
+  },
+  {
+    "title": "SpaceX's Nasdaq 100 inclusion comes with a historical warning",
+    "link": "https://www.coindesk.com/markets/2026/07/06/spacex-s-nasdaq-100-inclusion-comes-with-a-historical-warning",
+    "pubDate": "Mon, 06 Jul 2026 11:16:26 +0000",
+    "source": "CoinDesk",
+    "category": "both",
+    "content": "The largest IPO ever enters the Nasdaq 100. Previous additions like Palantir and Strategy saw volatility after the index inclusion rather than the start of new rallies.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/084e95101d71efadd675d7db1c30a6b624ee9c34-1500x1000.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "SpaceX is set to join the Nasdaq 100, but historical data suggests that previous major additions, such as Palantir and MicroStrategy, experienced stock volatility rather than new rallies post-inclusion. This warns that SpaceX's inclusion might not immediately lead to significant gains.",
+    "importance": 1,
+    "classified": true
+  },
+  {
+    "title": "South Korea’s hottest new bachelors are chip workers",
+    "link": "https://www.technologyreview.com/2026/07/06/1140000/south-korea-bachelors-samsung-skhynix-chip-workers/",
+    "pubDate": "Mon, 06 Jul 2026 09:00:00 +0000",
+    "source": "MIT Technology Review",
+    "category": "ai",
+    "content": "Baek, a 35-year-old manager at the South Korean semiconductor titan SK Hynix, was enrolled in Sunoo, a matchmaking company based in Seoul, a year ago. In a move typical of anxious South Korean parents, his mother signed him up, hoping to find a good wife for her son. Lately, says Baek (who asked to be…",
+    "image": "",
+    "summary": "A South Korean matchmaking company has seen an increase in semiconductor workers as eligible bachelors, with one 35-year-old manager at SK Hynix being enrolled by his mother, a trend reflecting anxious parents seeking suitable spouses for their children. This trend is unique to South Korea's culture. The article does not directly relate to AI or crypto.",
+    "importance": 1,
     "classified": true
   }
 ]
