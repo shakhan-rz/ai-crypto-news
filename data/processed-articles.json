@@ -144,6 +144,18 @@
     "classified": true
   },
   {
+    "title": "Dubai tops Asian crypto hubs, Taiwan passes crypto laws: Asia Express ",
+    "link": "https://cointelegraph.com/features/asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Sun, 05 Jul 2026 23:35:03 +0000",
+    "source": "Cointelegraph",
+    "category": "crypto",
+    "content": "Japan's SBI Crypto shuts down 12th largest Bitcoin mining pool in the world, Russia gears up to launch digital ruble despite EU sanctions, and more: Asia Express.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/asia-express-3.jpg",
+    "summary": "Dubai has become the top crypto hub in Asia, while Taiwan recently passed new cryptocurrency laws. In other news, Japan's SBI Crypto has shut down the world's 12th largest Bitcoin mining pool, and Russia is preparing to launch its digital ruble despite ongoing EU sanctions.",
+    "importance": 8,
+    "classified": true
+  },
+  {
     "title": "Binance outflows triple to $1.2B as ETH withdrawals hit 3-year high",
     "link": "https://cointelegraph.com/news/binance-outflows-1-23-billion-eth-withdrawals-3-year-high?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "pubDate": "Sun, 05 Jul 2026 08:33:39 +0000",
@@ -552,18 +564,6 @@
     "classified": true
   },
   {
-    "title": "Humanity Protocol repositions toward enterprise AI after $36 million hack, founder says",
-    "link": "https://www.theblock.co/post/407049/humanity-protocol-repositions-toward-enterprise-ai-after-36-million-hack-founder-says?utm_source=rss&utm_medium=rss",
-    "pubDate": "Thu, 02 Jul 2026 11:46:37 -0400",
-    "source": "The Block",
-    "category": "both",
-    "content": "Humanity Protocol founder Terence Kwok says the project is pivoting to enterprise AI after a $36 million exploit, with fund recovery odds low.",
-    "image": "https://www.tbstat.com/wp/uploads/2023/04/20230411_Hack_Generic-800x450.jpg",
-    "summary": "Humanity Protocol founder Terence Kwok announced that the project will shift its focus toward enterprise AI after a $36 million exploit, acknowledging that the chances of recovering the stolen funds are low. The pivot aims to leverage AI capabilities while moving away from the vulnerable aspects that led to the hack.",
-    "importance": 7,
-    "classified": true
-  },
-  {
     "title": "Wavespace Launches MiCA-Compliant Self-Custodial Bitcoin Debit Card Powered by Lightning and NWC",
     "link": "https://bitcoinmagazine.com/business/wavespace-launches-mica-compliant-self-custodial-bitcoin-debit-card-powered-by-lightning-and-nwc",
     "pubDate": "Thu, 02 Jul 2026 19:11:07 +0000",
@@ -704,6 +704,18 @@
     "content": "Venice AI is already profitable, with annualized run-rate revenues of over $70 million, CEO Erik Voorhees said.",
     "image": "",
     "summary": "Venice AI, a privacy‑first artificial intelligence platform founded by Erik Voorhees, announced a $65 million Series A round that values the company as a unicorn. The startup is already profitable, reporting an annualized run‑rate of over $70 million in revenue.",
+    "importance": 7,
+    "classified": true
+  },
+  {
+    "title": "Some of the nation’s rich are letting AI teach their kids",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/961505/wealthy-ai-schools-alpha-forge-prep",
+    "pubDate": "2026-07-05T22:30:54.000Z",
+    "source": "The Verge AI",
+    "category": "ai",
+    "content": "Most Americans don't trust AI. It's proven that it doesn't know what safe toppings for pizza are. People don't even want to listen to AI music. But none of that matters for some of America's wealthy, who are turning to AI to teach their kids instead of traditional schools.\nCompanies like Forge Prep and Alpha School are charging families tens of thousands of dollars to turn their kids into beta testers for AI tutors and \"interactive project-based workshops.\" Unsurprisingly, Silicon Valley have been major adopters of this new model. Shaun Johnson, a San Francisco-based venture capitalist, told the Wall Street Journal that he plans to send his …\nRead the full story at The Verge.",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25584700/STK483_EDUCATION_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "summary": "Wealthy Americans, especially in Silicon Valley, are increasingly using AI tutors and \"interactive project-based workshops\" from companies like Forge Prep and Alpha School to educate their children. Despite general public distrust in AI, these families are paying tens of thousands of dollars, effectively making their kids beta testers for AI-driven education models. This trend indicates a new, high-end application for artificial intelligence in learning.",
     "importance": 7,
     "classified": true
   },
@@ -1016,18 +1028,6 @@
     "content": "Irish authorities recovered 500 Bitcoin in criminal proceeds, bringing the total seized by the Criminal Assets Bureau to about $92 million in BTC for 2026.",
     "image": "https://s3-images.ctmedia.io/media/article-covers/hi-how-irish-police-cracked-a-lost-bitcoin-wallet-holding-500-btc-1.jpg",
     "summary": "Irish authorities seized an additional 500 Bitcoin, raising the total recovered by the Criminal Assets Bureau to about $92 million (1,500 BTC) for 2026.",
-    "importance": 6,
-    "classified": true
-  },
-  {
-    "title": "US spot Bitcoin ETFs top $200M in daily inflows for first time since May",
-    "link": "https://cointelegraph.com/news/spot-bitcoin-etfs-222-million-daily-inflow-reverse?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Fri, 03 Jul 2026 07:56:40 +0000",
-    "source": "Cointelegraph",
-    "category": "crypto",
-    "content": "US spot Bitcoin ETFs post $221.7 million inflows, the strongest daily intake since early May, as Bitcoin recovers above $61,000.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-bitcoin-etf-is-now-superior-over-dollar-2.jpg",
-    "summary": "US spot Bitcoin exchange-traded funds recorded $221.7 million in net inflows, the biggest daily amount since early May, as Bitcoin's price climbed above $61,000.",
     "importance": 6,
     "classified": true
   },
@@ -1512,18 +1512,6 @@
     "classified": true
   },
   {
-    "title": "Libby will filter out AI content, kind of",
-    "link": "https://www.theverge.com/column/959433/libby-ai-filter",
-    "pubDate": "2026-06-30T15:30:00.000Z",
-    "source": "The Verge AI",
-    "category": "ai",
-    "content": "This is Lowpass by Janko Roettgers, a newsletter on the ever-evolving intersection of tech and entertainment, syndicated just for The Verge subscribers once a week.\n\"AI is the new frontier for us,\" says Marc DeBevoise, who took over as the new CEO of OverDrive last week. OverDrive is best known for the ebook lending app Libby that is available through tens of thousands of public libraries. Like the rest of the digital publishing industry, it's poised to face massive disruption from a huge wave of AI-generated books.\nTo prepare for the AI onslaught, Libby is now getting ready to introduce AI content controls, allowing readers to select in t …\nRead the full story at The Verge.",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24148705/PXL_20221028_153245856.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "summary": "OverDrive’s new CEO says the ebook lending platform Libby will soon add controls that let users filter out AI‑generated books, as the digital publishing industry braces for a surge of AI‑created content. The feature aims to give readers a choice about whether to see AI‑authored titles amid concerns about quality and authenticity.",
-    "importance": 5,
-    "classified": true
-  },
-  {
     "title": "Trump's plan to redesign every .gov website leads to AI-designed horrors",
     "link": "https://arstechnica.com/tech-policy/2026/06/trumps-plan-to-redesign-every-gov-website-leads-to-ai-designed-horrors/",
     "pubDate": "Tue, 30 Jun 2026 16:59:02 +0000",
@@ -1629,6 +1617,18 @@
     "image": "",
     "summary": "The author examined the IPO filing of sandwich chain Jersey Mike’s and discovered that, despite its unrelated industry, the document references artificial intelligence. This odd inclusion is used to illustrate how pervasive and exaggerated AI hype has become across various sectors.",
     "importance": 4,
+    "classified": true
+  },
+  {
+    "title": "Nigel Farage failed to declare funding from crypto gambling figure convicted of fraud: Sunday Times",
+    "link": "https://www.theblock.co/post/407178/nigel-farage-failed-to-declare-funding-from-crypto-gambling-figure-convicted-of-fraud-sunday-times?utm_source=rss&utm_medium=rss",
+    "pubDate": "Sun, 05 Jul 2026 18:53:05 -0400",
+    "source": "The Block",
+    "category": "crypto",
+    "content": "Farage already faces a parliamentary standards investigation over an undisclosed £5 million gift from Tether stakeholder Christopher Harborne.",
+    "image": "https://www.tbstat.com/wp/uploads/2022/04/220331_Bank_of_England1-800x450.jpg",
+    "summary": "Nigel Farage is under fire for failing to declare funding from a crypto gambling figure convicted of fraud, as reported by The Sunday Times. This comes while he already faces a parliamentary investigation concerning an undisclosed £5 million gift from Tether stakeholder Christopher Harborne.",
+    "importance": 3,
     "classified": true
   },
   {
