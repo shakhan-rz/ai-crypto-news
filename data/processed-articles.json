@@ -24,6 +24,18 @@
     "classified": true
   },
   {
+    "title": "Crypto exchange Kraken is trying to become a bank in Europe",
+    "link": "https://www.coindesk.com/business/2026/07/07/crypto-exchange-kraken-is-trying-to-become-a-bank-in-europe",
+    "pubDate": "Tue, 07 Jul 2026 18:38:10 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "Kraken's focus is on Lithuania as the jurisdiction to secure the license, according to a person familiar with the plans.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/60eaa4392d735a85d254d5ac89ec08baf0b7a62e-2048x1152.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "Kraken, a crypto exchange, is attempting to obtain a banking license in Lithuania, aiming to become a bank in Europe. This move would allow Kraken to expand its services and operate under stricter regulations. The license would be a significant step for the company's growth in the region.",
+    "importance": 8,
+    "classified": true
+  },
+  {
     "title": "U.S. SEC to propose crypto rule as soon as this month to ease startups, fundraising",
     "link": "https://www.coindesk.com/policy/2026/07/07/u-s-sec-to-propose-crypto-rule-as-soon-as-this-month-to-ease-startups-fundraising",
     "pubDate": "Tue, 07 Jul 2026 16:08:19 +0000",
@@ -108,7 +120,7 @@
     "classified": true
   },
   {
-    "title": "Live markets: Bitcoin climbs near $64,000 as AI favorites plunge on Tuesday",
+    "title": "Live markets: Iran returns to the headlines, hitting markets",
     "link": "https://www.coindesk.com/tech/2026/07/07/live-markets-bitcoin-and-ether-etfs-drew-inflows-on-monday",
     "pubDate": "Tue, 07 Jul 2026 06:51:28 +0000",
     "source": "CoinDesk",
@@ -180,14 +192,26 @@
     "classified": true
   },
   {
-    "title": "DeFi protocol Summer.fi halts Lazy Summer vaults after $6 million exploit",
-    "link": "https://www.coindesk.com/web3/2026/07/06/defi-protocol-summer-fi-halts-lazy-summer-vaults-after-usd6-million-exploit",
-    "pubDate": "Mon, 06 Jul 2026 13:42:12 +0000",
-    "source": "CoinDesk",
+    "title": "Kraken wins $22M arbitration against former auditor Mazars",
+    "link": "https://cointelegraph.com/news/kraken-wins-22m-arbitration-against-former-auditor-mazars?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Tue, 07 Jul 2026 19:31:03 +0000",
+    "source": "Cointelegraph",
     "category": "crypto",
-    "content": "The protocol’s SUMR token fell by over 18% after the incident.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/82b2e4099b4d0b8962fcbb1164ca2ad3ffd9fe50-1920x1276.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "DeFi protocol Summer.fi has halted its Lazy Summer vaults following a $6 million exploit. This incident led to an over 18% drop in the protocol's SUMR token.",
+    "content": "The crypto exchange's parent company says Mazars' withdrawal from its 2022 audit caused millions in damages and tied the dispute to Operation Chokepoint 2.0.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/courtroom-court-lawsuit-justice-jurisdiction-breaking-news.png",
+    "summary": "Kraken's parent company has won a $22M arbitration against former auditor Mazars, citing the auditor's withdrawal from its 2022 audit caused millions in damages, allegedly linked to Operation Chokepoint 2.0. The dispute highlights the challenges crypto exchanges face in securing auditors. The outcome may have implications for the broader crypto industry.",
+    "importance": 8,
+    "classified": true
+  },
+  {
+    "title": "USDT wins payments, USDC wins DeFi as stablecoins diverge: Dune",
+    "link": "https://cointelegraph.com/news/usdt-wins-payments-usdc-wins-defi-as-stablecoins-diverge-dune?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Tue, 07 Jul 2026 18:05:08 +0000",
+    "source": "Cointelegraph",
+    "category": "crypto",
+    "content": "Dune data shows Tether's USDT has become crypto’s dominant payments stablecoin while Circle's USDC powers DeFi, highlighting how blockchain choice shapes stablecoin use.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-usdt-vs-usdc-whats-the-difference.jpg",
+    "summary": "According to Dune data, Tether's USDT is leading in payments, while Circle's USDC is dominating the DeFi space, showing the divergence in stablecoin usage based on blockchain choice. This highlights the distinct use cases for different stablecoins. USDT and USDC are used in different areas of the crypto ecosystem.",
     "importance": 8,
     "classified": true
   },
@@ -384,26 +408,14 @@
     "classified": true
   },
   {
-    "title": "UN agency moves Stellar blockchain payment initiative beyond pilot stage",
-    "link": "https://cointelegraph.com/news/undp-moves-stellar-blockchain-payment-initiative-beyond-pilot-stage?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Mon, 06 Jul 2026 17:08:57 +0000",
-    "source": "Cointelegraph",
+    "title": "ZEC jumps 12% as Zcash nears mathematical proof against hidden counterfeit bugs",
+    "link": "https://www.theblock.co/post/407495/zec-price-jumps-zcash-nears-mathematical-proof-hidden-counterfeit-bugs?utm_source=rss&utm_medium=rss",
+    "pubDate": "Tue, 07 Jul 2026 14:12:51 -0400",
+    "source": "The Block",
     "category": "crypto",
-    "content": "The UN Development Programme said blockchain payment pilots in five countries cut costs, improved resilience and will now inform wider use across its humanitarian and development programs.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/cube-blockchain-science-scientist-un-1.png",
-    "summary": "The UN Development Programme has moved its Stellar blockchain payment initiative beyond the pilot stage after successful trials in five countries, which reduced costs and improved resilience. This initiative will now inform wider use across the programme's humanitarian and development programs. The success of the pilots is expected to lead to increased adoption of blockchain technology in the programme's operations.",
-    "importance": 8,
-    "classified": true
-  },
-  {
-    "title": "TeraWulf shares rise after $19B Anthropic AI lease, JV sale",
-    "link": "https://cointelegraph.com/news/terawulf-shares-rise-after-19b-anthropic-ai-lease-jv-sale?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Mon, 06 Jul 2026 16:43:21 +0000",
-    "source": "Cointelegraph",
-    "category": "both",
-    "content": "The Bitcoin miner signed a 20-year AI infrastructure lease with Anthropic and sold its majority stake in a separate AI data center joint venture.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-ai-is-now-paying-bitcoin-miners-more-than-mining-1.png",
-    "summary": "TeraWulf, a Bitcoin miner, has signed a 20-year lease with Anthropic for AI infrastructure and sold its majority stake in an AI data center joint venture, causing its shares to rise. This partnership aims to advance AI capabilities. The deal is valued at $19B.",
+    "content": "Project Tachyon outlined new details of its verification effort for Zcash's upcoming Ironwood shielded pool.",
+    "image": "https://www.tbstat.com/wp/uploads/2025/12/20251202_ZCash_News_2-800x450.jpg",
+    "summary": "Zcash's upcoming Ironwood shielded pool is nearing a mathematical proof against hidden counterfeit bugs, thanks to Project Tachyon's verification effort, causing ZEC to jump 12% in value. This development aims to enhance the security of Zcash's blockchain. The verification effort is a significant step towards ensuring the integrity of the network.",
     "importance": 8,
     "classified": true
   },
@@ -600,26 +612,38 @@
     "classified": true
   },
   {
-    "title": "Judge revives fraud claim against Barry Silbert, DCG in Genesis Yield lawsuit",
-    "link": "https://www.theblock.co/post/407337/judge-revives-fraud-claim-against-barry-silbert-dcg-genesis-yield-lawsuit?utm_source=rss&utm_medium=rss",
-    "pubDate": "Mon, 06 Jul 2026 14:55:49 -0400",
-    "source": "The Block",
+    "title": "Kraken Seeks Final Judgment After $22 Million Award Against Former Auditor",
+    "link": "https://bitcoinmagazine.com/news/kraken-seeks-final-judgment-after-22",
+    "pubDate": "Tue, 07 Jul 2026 19:35:05 +0000",
+    "source": "Bitcoin Magazine",
     "category": "crypto",
-    "content": "The class action centers on Genesis Yield, a lending program that let customers deposit crypto in exchange for interest payments.",
-    "image": "https://www.tbstat.com/wp/uploads/2023/01/20230111_DCG-800x450.jpg",
-    "summary": "A class action lawsuit against Barry Silbert and DCG has been revived, focusing on the Genesis Yield lending program, which allowed customers to deposit cryptocurrency in exchange for interest payments. The lawsuit alleges fraud and seeks damages. The revival of the claim may have implications for the crypto lending industry.",
+    "content": "Bitcoin Magazine\n\nKraken Seeks Final Judgment After $22 Million Award Against Former Auditor\nKraken is seeking a final Delaware court judgment against former auditor Mazars after winning a $22 million arbitration award, arguing the firm's abrupt resignation during heightened U.S. regulatory pressure caused significant financial and operational harm.\nThis post Kraken Seeks Final Judgment After $22 Million Award Against Former Auditor first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
+    "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/03/Kraken-Pauses-IPO-Due-to-Market-Uncertainty-Report.jpg",
+    "summary": "Kraken is seeking a final judgment against its former auditor Mazars after being awarded $22 million in arbitration. The award was granted due to Mazars' abrupt resignation, which caused significant financial and operational harm to Kraken. The resignation occurred during a time of heightened US regulatory pressure.",
     "importance": 8,
     "classified": true
   },
   {
-    "title": "Vitalik Buterin proposes ‘Extremely Lean’ Ethereum, shrinking the chain to near-zero state with ZK proofs",
-    "link": "https://www.theblock.co/post/407319/vitalik-buterin-extremely-lean-ethereum-shrinking-chain-to-near-zero-state-zk-proofs?utm_source=rss&utm_medium=rss",
-    "pubDate": "Mon, 06 Jul 2026 12:34:32 -0400",
-    "source": "The Block",
+    "title": "Vanguard Warms to Crypto With Search for Digital Assets Chief",
+    "link": "https://bitcoinmagazine.com/news/vanguard-warms-to-crypto-hiring",
+    "pubDate": "Tue, 07 Jul 2026 17:41:17 +0000",
+    "source": "Bitcoin Magazine",
     "category": "crypto",
-    "content": "Buterin outlined a two-step plan to shift Ethereum's state management to validators and replace per-epoch balance updates with ZK proofs.",
-    "image": "https://www.tbstat.com/wp/uploads/2020/05/20200511_Vitalik-Buterin-ETH-Ethereum-800x450.jpg",
-    "summary": "Vitalik Buterin has proposed a two-step plan to optimize Ethereum's state management by shifting it to validators and utilizing ZK proofs, aiming to shrink the chain to near-zero state. This plan would replace per-epoch balance updates, increasing efficiency. The proposal is part of an 'Extremely Lean' Ethereum concept.",
+    "content": "Bitcoin Magazine\n\nVanguard Warms to Crypto With Search for Digital Assets Chief\nVanguard is hiring its first head of digital assets to develop a long-term crypto and blockchain strategy.\nThis post Vanguard Warms to Crypto With Search for Digital Assets Chief first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
+    "image": "https://bitcoinmagazine.com/wp-content/uploads/2025/12/Vanguard-Opens-Its-Platform-to-Bitcoin-and-Crypto-ETFs.jpg",
+    "summary": "Vanguard is hiring a head of digital assets to develop a long-term crypto and blockchain strategy, marking a significant move into the cryptocurrency space. This new position indicates Vanguard's growing interest in digital assets. The company aims to establish a solid strategy for its crypto and blockchain endeavors.",
+    "importance": 8,
+    "classified": true
+  },
+  {
+    "title": "New Hampshire’s $100 Million Bitcoin-Backed Bond Faces Final Vote",
+    "link": "https://bitcoinmagazine.com/news/new-hampshires-100-million-bitcoin-backed",
+    "pubDate": "Tue, 07 Jul 2026 17:19:49 +0000",
+    "source": "Bitcoin Magazine",
+    "category": "crypto",
+    "content": "Bitcoin Magazine\n\nNew Hampshire’s $100 Million Bitcoin-Backed Bond Faces Final Vote\nNew Hampshire's Executive Council will vote Wednesday on a first-of-its-kind $100 million Bitcoin-backed municipal bond.\nThis post New Hampshire’s $100 Million Bitcoin-Backed Bond Faces Final Vote first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
+    "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/07/New-Hampshires-100-Million-Bitcoin-Backed-Bond-Faces-Final-Vote.jpg",
+    "summary": "New Hampshire's Executive Council is set to vote on a $100 million Bitcoin-backed municipal bond, a first-of-its-kind bond. This bond is unique and could potentially pave the way for similar bonds in the future. The vote is scheduled to take place on Wednesday.",
     "importance": 8,
     "classified": true
   },
@@ -696,30 +720,6 @@
     "classified": true
   },
   {
-    "title": "Russian-Sberbank Plans Crypto Wallet and Digital Depository by December",
-    "link": "https://bitcoinmagazine.com/news/russian-sberbank-plans-crypto-wallet",
-    "pubDate": "Mon, 06 Jul 2026 14:40:59 +0000",
-    "source": "Bitcoin Magazine",
-    "category": "crypto",
-    "content": "Bitcoin Magazine\n\nRussian-Sberbank Plans Crypto Wallet and Digital Depository by December\nRussia's biggest bank, Sberbank, plans to launch a Bitcoin and crypto wallet plus digital asset custody by December as the country rolls out its new crypto framework.\nThis post Russian-Sberbank Plans Crypto Wallet and Digital Depository by December first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
-    "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/07/Russian-Sberbank-Plans-Crypto-Wallet-and-Digital-Depository-by-December.jpg",
-    "summary": "Sberbank, Russia's largest bank, plans to launch a crypto wallet and digital depository by December, as part of the country's new crypto framework. The wallet will support Bitcoin and other cryptocurrencies. This move is a significant step in Russia's adoption of cryptocurrencies.",
-    "importance": 8,
-    "classified": true
-  },
-  {
-    "title": "Strategy (MSTR) Sells 3,588 Bitcoin to Cover Preferred Dividends",
-    "link": "https://bitcoinmagazine.com/news/strategy-mstr-sells-3588-bitcoin",
-    "pubDate": "Mon, 06 Jul 2026 12:27:23 +0000",
-    "source": "Bitcoin Magazine",
-    "category": "crypto",
-    "content": "Bitcoin Magazine\n\nStrategy (MSTR) Sells 3,588 Bitcoin to Cover Preferred Dividends\nStrategy (MSTR) sold a record 3,588 bitcoin for $216 million to fund preferred stock dividends.\nThis post Strategy (MSTR) Sells 3,588 Bitcoin to Cover Preferred Dividends first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
-    "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/01/Michael-Saylors-Strategy-MSTR-Spends-2.13-Billion-to-Buy-22305-Bitcoin.jpg",
-    "summary": "Strategy (MSTR) sold 3,588 bitcoin for $216 million to fund preferred stock dividends, marking a significant sale of cryptocurrency to cover financial obligations. The move is noteworthy for its scale and the use of bitcoin to meet financial commitments. This transaction highlights the ongoing interaction between traditional finance and cryptocurrency.",
-    "importance": 8,
-    "classified": true
-  },
-  {
     "title": "The Download: your stake in OpenAI, and the Treasury’s AI warning",
     "link": "https://www.technologyreview.com/2026/07/07/1140197/the-download-your-openai-stake-treasury-ai-warning/",
     "pubDate": "Tue, 07 Jul 2026 12:10:00 +0000",
@@ -752,6 +752,18 @@
     "content": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. OpenAI CEO Sam Altman’s oft-discussed promise that Americans will share in the wealth AI creates was in the news again last week. On Thursday, the Financial Times reported that Altman is in…",
     "image": "",
     "summary": "OpenAI CEO Sam Altman has reiterated his promise that Americans will share in the wealth AI creates, with an estimated $300 stake per family, according to a report by the Financial Times. The report suggests that Altman is working on a plan to distribute the wealth generated by AI. This move could have significant implications for the AI community.",
+    "importance": 8,
+    "classified": true
+  },
+  {
+    "title": "Discord admits AI moderation bug wrongfully banned users over harmless images",
+    "link": "https://techcrunch.com/2026/07/07/discord-admits-ai-moderation-bug-wrongfully-banned-users-over-harmless-images/",
+    "pubDate": "Tue, 07 Jul 2026 19:28:38 +0000",
+    "source": "TechCrunch AI",
+    "category": "ai",
+    "content": "The company confirmed that the issue had been affecting accounts since May, with an additional 200 users banned over the weekend before its team identified and fixed the problem.",
+    "image": "",
+    "summary": "Discord experienced an AI moderation bug that wrongfully banned users for posting harmless images, with the issue affecting accounts since May and an additional 200 users banned over a weekend before the fix. The problem was identified and resolved by Discord's team. The company confirmed the bug's existence and its recent resolution.",
     "importance": 8,
     "classified": true
   },
@@ -860,6 +872,18 @@
     "content": "As part of an ongoing legal dispute with three Hollywood studios, Midjourney is seeking to compel those studios to reveal how they use AI themselves.",
     "image": "",
     "summary": "Midjourney, an AI image generator, is demanding that three Hollywood studios disclose their own AI usage as part of an ongoing legal dispute. This move aims to shed light on how major entertainment companies are implementing AI in their operations amidst broader legal challenges.",
+    "importance": 8,
+    "classified": true
+  },
+  {
+    "title": "Anthropic is launching Claude Cowork on mobile and web",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/961978/anthropic-claude-cowork-mobile-web",
+    "pubDate": "2026-07-07T17:46:59.000Z",
+    "source": "The Verge AI",
+    "category": "ai",
+    "content": "Starting Tuesday, Anthropic's Claude Cowork AI platform will be available on mobile and web for the first time. The expanded access is rolling out first to Max subscribers and coming to Claude users on other plans \"in the coming weeks.\" \nClaude Cowork was previously only accessible through the Claude desktop app for macOS and Windows, but now users on iOS and Android can also use it. However, Anthropic says the \"full experience\" for Cowork will still be on the desktop app, including features like local file access. \nCowork sessions will also now run in the cloud by default, so you can continue them across different devices or run Cowork ta …\nRead the full story at The Verge.",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Cowork-Web-Mobile-Press-No-Logo-1920x1080-1.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "summary": "Anthropic's Claude Cowork AI platform is now available on mobile and web, in addition to its desktop app, allowing users to access it across different devices. The expanded access is initially available to Max subscribers, with other plans to follow in the coming weeks. The full experience, including local file access, will still be exclusive to the desktop app.",
     "importance": 8,
     "classified": true
   },
@@ -981,6 +1005,18 @@
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/openai-broadcom-jalapeno-inference-chip-image-1152x648.webp",
     "summary": "OpenAI and Broadcom have announced a new chip specifically built for large language model inference at scale, aiming to meet the surging demand for AI compute power. The announcement underscores the intensifying silicon race as companies race to provide hardware capable of handling massive AI workloads.",
     "importance": 8,
+    "classified": true
+  },
+  {
+    "title": "BlackRock-backed Securitize slides 40% after SPAC debut despite tokenization boom",
+    "link": "https://www.coindesk.com/markets/2026/07/07/blackrock-backed-securitize-slides-40-after-spac-debut-despite-tokenization-boom",
+    "pubDate": "Tue, 07 Jul 2026 19:35:14 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "The decline fits into a pattern of recently-public digital asset companies sliding after debut, Arca's Jeff Dorman said.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/5327659df02632f543fcef456e95431561ddbbd4-4032x2268.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "BlackRock-backed Securitize saw its shares drop 40% after its SPAC debut, despite the ongoing tokenization boom. This decline fits a pattern noted by Arca's Jeff Dorman, where recently public digital asset companies often slide post-debut.",
+    "importance": 7,
     "classified": true
   },
   {
@@ -1260,6 +1296,18 @@
     "classified": true
   },
   {
+    "title": "SBI Holdings is sole investor in crypto platform EDX Markets’ $76 million Series C",
+    "link": "https://www.theblock.co/post/407489/crypto-platform-edx-markets-series-c-funding-sbi-sole-investor?utm_source=rss&utm_medium=rss",
+    "pubDate": "Tue, 07 Jul 2026 13:25:15 -0400",
+    "source": "The Block",
+    "category": "crypto",
+    "content": "Institutional crypto platform EDX Markets has closed a $76 million Series C funding round, with Japan's SBI Holdings as the sole investor.",
+    "image": "https://www.tbstat.com/wp/uploads/2025/04/20250411_Funding_News_3-800x450.jpg",
+    "summary": "EDX Markets, an institutional crypto platform, has secured $76 million in Series C funding from SBI Holdings, a Japanese company. This investment will likely support EDX Markets' growth and development. The funding round was led solely by SBI Holdings.",
+    "importance": 6,
+    "classified": true
+  },
+  {
     "title": "Tether’s former CIO seeks buyers for part of his stake in the firm: Bloomberg",
     "link": "https://www.theblock.co/post/407394/tethers-former-cio-seeks-buyers-for-part-of-his-stake-in-the-firm-bloomberg?utm_source=rss&utm_medium=rss",
     "pubDate": "Tue, 07 Jul 2026 05:22:26 -0400",
@@ -1292,18 +1340,6 @@
     "content": "Bitcoin Magazine\n\nTrump-Backed American Bitcoin (ABTC) Pushes Treasury Past 8,000 BTC\nAmerican Bitcoin (Nasdaq: ABTC) said its treasury has surpassed 8,000 BTC.\nThis post Trump-Backed American Bitcoin (ABTC) Pushes Treasury Past 8,000 BTC first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
     "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/03/Trump-Linked-American-Bitcoin-ABTC-Surpasses-7000-BTC-as-Treasury-Growth-Accelerates-Mining-Peer-Slides.jpg",
     "summary": "American Bitcoin's treasury has surpassed 8,000 BTC, a milestone for the Trump-backed company. This increase is a significant addition to the company's holdings. The company announced this achievement, marking a new high for its treasury.",
-    "importance": 6,
-    "classified": true
-  },
-  {
-    "title": "Strive (ASST) Adds 17.76 Bitcoin as Falling Prices Boost Its Quarterly Yield",
-    "link": "https://bitcoinmagazine.com/news/strive-asst-adds-17-76-bitcoin",
-    "pubDate": "Mon, 06 Jul 2026 12:48:58 +0000",
-    "source": "Bitcoin Magazine",
-    "category": "crypto",
-    "content": "Bitcoin Magazine\n\nStrive (ASST) Adds 17.76 Bitcoin as Falling Prices Boost Its Quarterly Yield\nStrive (ASST) added a symbolic 17.76 BTC, pushing its treasury to 19,882 bitcoin as a sharp quarterly accumulation spree delivered a 24% BTC yield.\nThis post Strive (ASST) Adds 17.76 Bitcoin as Falling Prices Boost Its Quarterly Yield first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
-    "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/07/Strive-ASST-Adds-17.76-Bitcoin-as-Falling-Prices-Boost-Its-Quarterly-Yield.jpg",
-    "summary": "Strive (ASST) has added 17.76 bitcoin to its treasury, bringing the total to 19,882 bitcoin, due to a sharp quarterly accumulation that resulted in a 24% BTC yield. This increase is attributed to falling bitcoin prices. The addition is a notable event for Strive's BTC holdings.",
     "importance": 6,
     "classified": true
   },
@@ -1392,18 +1428,6 @@
     "classified": true
   },
   {
-    "title": "Mark Zuckerberg tells staff that AI agents haven’t progressed as quickly as he’d hoped",
-    "link": "https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped/",
-    "pubDate": "Thu, 02 Jul 2026 23:38:10 +0000",
-    "source": "TechCrunch AI",
-    "category": "ai",
-    "content": "At an internal meeting, the Meta CEO reportedly said that AI development efforts were not moving as quickly as anticipated.",
-    "image": "",
-    "summary": "Meta CEO Mark Zuckerberg told staff that the development of AI agents is lagging behind his expectations. He indicated that progress is slower than anticipated, suggesting challenges in achieving the company's AI goals.",
-    "importance": 6,
-    "classified": true
-  },
-  {
     "title": "Solos debuts an even lighter version of its camera-less smart glasses",
     "link": "https://www.theverge.com/tech/961711/solos-airgo-a6-smart-glasses-ai-assistant-privacy",
     "pubDate": "2026-07-07T13:00:00.000Z",
@@ -1472,18 +1496,6 @@
     "content": "A scan of an imaging phantom, segmented to validate how cleanly structures separate under controlled conditions. | Image: Midjourney Medical\t\n\nMidjourney has shown more of its futuristic medical scanner. It still hasn't shown much proof it works. \nThe AI startup, best known for generating images, released a behind-the-scenes video of its dunk-tank ultrasound scanner, which it plans to deploy in spas and hopes will transform medicine with cheap, detailed, radiation-free imaging. The nearly 20-minute tour comes from tech YouTuber Marcin Plaza, who also happens to be an engineer at the company.\nPlaza frankly describes the scanner as scores of ultrasound probes \"hacked apart and slapped on a glorified hot tub with an elevator in it,\" connected to off-the-shelf computers and Raspberry …\nRead the full story at The Verge.",
     "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/ultrasound_phantom_segmentation-b254a71d083eb5c9.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
     "summary": "Midjourney, the AI image‑generation startup, released a behind‑the‑scenes video of its experimental ultrasound scanner, describing it as a collection of hacked‑apart probes attached to a hot‑tub‑like structure with off‑the‑shelf computers and Raspberry Pis. The company claims the device could provide cheap, radiation‑free imaging for spas, but the video shows little concrete evidence of its performance, prompting skepticism about its practicality.",
-    "importance": 6,
-    "classified": true
-  },
-  {
-    "title": "Google built a great smart speaker, but Gemini isn’t ready for it",
-    "link": "https://www.theverge.com/tech/959503/google-home-speaker-review-gemini-for-home",
-    "pubDate": "2026-07-01T12:00:00.000Z",
-    "source": "The Verge AI",
-    "category": "ai",
-    "content": "The Google Home Speaker is Google’s first smart speaker in years. And it’s pretty! | Photo: Jennifer Patison Tuohy / The Verge\t\n\nSmart speakers have spent the past few years searching for a compelling second act. Beyond music, timers, and controlling your lights, they've struggled to justify taking up space on the kitchen counter. AI promised to change that.\nAmazon debuted its new hardware powered by a revamped Alexa last fall, and now it's finally Google's turn. The Google Home Speaker is the company's first new smart speaker in six years and its first \"built for Gemini.\" After years of neglect, Google appears to be finally getting serious about the smart home - again. The new speaker is the clearest sign yet. Gemini for Home, however, still feels unfinished.\nGoogle …\n\nRead the full story at The Verge.",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/268614_Google_Home_Speaker_JTuohy_0009.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "summary": "Google has launched its first new smart speaker in six years, the Google Home Speaker, which is designed to integrate with its Gemini AI. However, the article argues that Gemini is still unfinished and not fully ready to showcase its capabilities on the device. The launch signals Google's renewed focus on the smart home market.",
     "importance": 6,
     "classified": true
   },
@@ -1574,7 +1586,7 @@
   {
     "title": "Here’s what happened in crypto today",
     "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Tue, 07 Jul 2026 13:30:49 +0000",
+    "pubDate": "Tue, 07 Jul 2026 19:39:15 +0000",
     "source": "Cointelegraph",
     "category": "crypto",
     "content": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
@@ -1617,18 +1629,6 @@
     "image": "https://s3-images.ctmedia.io/media/article-covers/hi-how-trade-wars-impact-stocks-and-crypto.jpg",
     "summary": "Bitcoin retreated from two-week highs, mirroring a dip in US stocks, as analyst John Bollinger described BTC's price action as being \"at a critical point.\"",
     "importance": 3,
-    "classified": true
-  },
-  {
-    "title": "Cantor says Strategy's recovery hinges on restoring STRC to par",
-    "link": "https://www.coindesk.com/markets/2026/07/06/cantor-says-strategy-s-recovery-hinges-on-restoring-strc-to-par",
-    "pubDate": "Mon, 06 Jul 2026 13:06:09 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "Bringing Strategy's preferred shares back to $100 is key to restarting Strategy's capital engine, the bank said, with repeated management actions expected to support both preferred and common shareholders.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/3a6393eb4ae1f1db4ef1caec0023161c16707226-6000x3376.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "Cantor bank states that restoring Strategy's preferred shares to $100 is crucial for the company's recovery, which will support both preferred and common shareholders. This move is expected to restart Strategy's capital engine. The bank anticipates repeated management actions to achieve this goal.",
-    "importance": 2,
     "classified": true
   },
   {
