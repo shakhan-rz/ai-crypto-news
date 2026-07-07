@@ -192,6 +192,30 @@
     "classified": true
   },
   {
+    "title": "US Bitcoin reserve hits snag as federal agencies debate for control: Bloomberg",
+    "link": "https://cointelegraph.com/news/trumps-bitcoin-reserve-stalled-by-interagency-dispute-over-control-bloomberg?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Tue, 07 Jul 2026 02:17:58 +0000",
+    "source": "Cointelegraph",
+    "category": "crypto",
+    "content": "The report follows comments from White House crypto adviser Patrick Witt in May, who said the administration was examining the legal implications of creating a Bitcoin reserve.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/crypto-bitcoin-storage-us.jpg",
+    "summary": "A Bloomberg report indicates that the creation of a US Bitcoin reserve is encountering difficulties as various federal agencies are debating for control over the initiative. This development follows earlier statements from White House crypto adviser Patrick Witt in May, who mentioned the administration was investigating the legal ramifications of establishing such a reserve.",
+    "importance": 8,
+    "classified": true
+  },
+  {
+    "title": "Strategy sells $216M Bitcoin, Bollinger bullish on BTC: Hodler's Digest, June 29-July 6, 2026",
+    "link": "https://cointelegraph.com/features/bollinger-is-bullish-on-bitcoin-trumps-ludicrous-crypto-profits-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Tue, 07 Jul 2026 00:03:30 +0000",
+    "source": "Cointelegraph",
+    "category": "crypto",
+    "content": "Bollinger Bands creator John Bollinger says the charts suggest Bitcoin could take off from here. Vitalik Buterin unveils a new Ethereum strawmap, but why is it taking so long?",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/5-july.jpg",
+    "summary": "Bollinger Bands creator John Bollinger believes Bitcoin's charts indicate a potential uptrend, while Vitalik Buterin has unveiled a new Ethereum strawmap, sparking discussion on its development pace. This news combines insights from both cryptocurrency and blockchain development. The strawmap's release has been highly anticipated, given Ethereum's significant role in the crypto space.",
+    "importance": 8,
+    "classified": true
+  },
+  {
     "title": "BonkDAO reports $20M theft from ‘malicious governance proposal’",
     "link": "https://cointelegraph.com/news/bonk-dao-malicious-governance-proposal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "pubDate": "Mon, 06 Jul 2026 20:55:11 +0000",
@@ -360,14 +384,14 @@
     "classified": true
   },
   {
-    "title": "Kraken lets traders use tokenized stocks as collateral for leveraged trades",
-    "link": "https://cointelegraph.com/news/kraken-lets-traders-use-tokenized-stocks-as-collateral-for-leveraged-trades?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Sat, 04 Jul 2026 19:40:00 +0000",
-    "source": "Cointelegraph",
+    "title": "Grayscale says Strategy’s recent bitcoin sales should restore confidence in its financing structure",
+    "link": "https://www.theblock.co/post/407360/grayscale-strategy-bitcoin-sales-comments?utm_source=rss&utm_medium=rss",
+    "pubDate": "Mon, 06 Jul 2026 18:10:15 -0400",
+    "source": "The Block",
     "category": "crypto",
-    "content": "Eligible users can now use select tokenized stocks and ETFs as collateral for futures and margin trading without selling their holdings.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-cover-imagereview-of-us-stocks.png",
-    "summary": "Kraken has launched a new feature enabling eligible users to utilize select tokenized stocks and ETFs as collateral for futures and margin trading. This allows traders to engage in leveraged trades without needing to sell their existing tokenized holdings.",
+    "content": "\"Strategy is selling more bitcoin. But this will restore confidence in its financing structure and help bitcoin find a more durable bottom.\"",
+    "image": "https://www.tbstat.com/wp/uploads/2026/03/20260320_Strategy_Learn-800x450.jpg",
+    "summary": "Grayscale's Strategy is selling bitcoin to restore confidence in its financing structure, which is expected to help bitcoin find a more stable bottom. This move aims to alleviate concerns and promote a more durable market. The sales are seen as a strategic decision to strengthen the company's financial foundation.",
     "importance": 8,
     "classified": true
   },
@@ -600,6 +624,30 @@
     "classified": true
   },
   {
+    "title": "The ‘first’ AI-run ransomware attack still needed a human",
+    "link": "https://techcrunch.com/2026/07/06/the-first-ai-run-ransomware-attack-still-needed-a-human/",
+    "pubDate": "Mon, 06 Jul 2026 23:56:14 +0000",
+    "source": "TechCrunch AI",
+    "category": "ai",
+    "content": "An AI agent carried out the technical execution of a real-world ransomware attack for the first known time, but new details show a human still chose the victim, set up the infrastructure, and supplied stolen credentials — meaning it wasn't quite the fully autonomous cybercrime debut that last week's headlines suggested.",
+    "image": "",
+    "summary": "A recent ransomware attack was carried out with the help of an AI agent, but it still required human intervention to choose the victim and set up the infrastructure. The AI agent was used for the technical execution of the attack. This incident marks the first known time an AI has been used in a real-world ransomware attack.",
+    "importance": 8,
+    "classified": true
+  },
+  {
+    "title": "US investors will soon get access to SK Hynix, another memory maker riding the AI boom",
+    "link": "https://techcrunch.com/2026/07/06/us-investors-will-soon-get-access-to-sk-hynix-another-memory-maker-riding-the-ai-boom/",
+    "pubDate": "Mon, 06 Jul 2026 23:21:03 +0000",
+    "source": "TechCrunch AI",
+    "category": "both",
+    "content": "SK Hynix is experiencing a boom credited to AI. It will ride that to a multibillion-dollar U.S. IPO, expected to take place on Friday.",
+    "image": "",
+    "summary": "SK Hynix, a memory maker, is experiencing a boom due to AI and will soon have a multibillion-dollar US IPO. The IPO is expected to take place on Friday. This move will give US investors access to the company.",
+    "importance": 8,
+    "classified": true
+  },
+  {
     "title": "You can now customize Siri’s pace and expressivity in the latest iOS 27 beta",
     "link": "https://techcrunch.com/2026/07/06/you-can-now-customize-siris-pace-and-expressivity-in-the-latest-ios-27-beta/",
     "pubDate": "Mon, 06 Jul 2026 19:01:59 +0000",
@@ -656,18 +704,6 @@
     "content": "As part of an ongoing legal dispute with three Hollywood studios, Midjourney is seeking to compel those studios to reveal how they use AI themselves.",
     "image": "",
     "summary": "Midjourney, an AI image generator, is demanding that three Hollywood studios disclose their own AI usage as part of an ongoing legal dispute. This move aims to shed light on how major entertainment companies are implementing AI in their operations amidst broader legal challenges.",
-    "importance": 8,
-    "classified": true
-  },
-  {
-    "title": "Microsoft launches its own AI deployment company with $2.5 billion commitment",
-    "link": "https://techcrunch.com/2026/07/02/microsoft-launches-its-own-ai-deployment-company-with-2-5-billion-commitment/",
-    "pubDate": "Thu, 02 Jul 2026 13:53:00 +0000",
-    "source": "TechCrunch AI",
-    "category": "ai",
-    "content": "Microsoft follows Amazon, OpenAI, and Anthropic with its new AI deployment group.",
-    "image": "",
-    "summary": "Microsoft announced the creation of its own AI deployment company, committing $2.5 billion to the venture. The move positions Microsoft alongside Amazon, OpenAI, and Anthropic in offering end‑to‑end AI services and infrastructure.",
     "importance": 8,
     "classified": true
   },
@@ -804,14 +840,14 @@
     "classified": true
   },
   {
-    "title": "Bollinger Bands creator eyes Bitcoin bear-market end, 'W'-shaped reversal",
-    "link": "https://cointelegraph.com/markets/bollinger-bands-creator-eyes-bitcoin-bear-market-end-w-shaped-reversal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Sat, 04 Jul 2026 13:09:16 +0000",
+    "title": "Bitcoin bulls shake off Strategy's $216M BTC sale as price overtakes $64K",
+    "link": "https://cointelegraph.com/markets/bitcoin-bulls-shake-off-strategys-216m-btc-sale-as-price-overtakes-64k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Tue, 07 Jul 2026 01:55:34 +0000",
     "source": "Cointelegraph",
     "category": "crypto",
-    "content": "Bitcoin price strength could \"break\" the entire downtrend if the reversal pattern completed, John Bollinger suggested in light of the BTC rebound.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-crypto-layoffs-mount-as-exchanges-continue-to-be-ravaged-by-the-prevailing-bear-market-bitcoin-1.jpg",
-    "summary": "John Bollinger, creator of Bollinger Bands, suggests that Bitcoin's current rebound could signal the end of its bear market. He believes that if the \"W\"-shaped reversal pattern completes, it could \"break\" the entire downtrend for Bitcoin.",
+    "content": "Bitcoin reversed course from its Monday open selloff and closed the day above $64,000 as bulls began to price in Strategy’s selling.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/article-covers-246676-bitcoin-price-rebounds-65k-who-is-buying-the-dip.jpg",
+    "summary": "Bitcoin's price recovered from a Monday selloff, closing above $64,000 despite a significant $216 million BTC sale by Strategy. Bulls quickly priced in the institutional selling, leading to a reversal in the cryptocurrency's market course.",
     "importance": 7,
     "classified": true
   },
@@ -860,18 +896,6 @@
     "content": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. LLMs are stuck in a groupthink groove. This startup is trying to get them out. Open up your chatbot of choice—Claude, ChatGPT, Gemini—and type “Give me a random number between 1…",
     "image": "https://wp.technologyreview.com/wp-content/uploads/2026/06/260626_LLMhallucinations.jpg?fit=2128,1196",
     "summary": "A new startup is developing a solution to counteract the 'groupthink' tendency observed in large language models (LLMs) like Claude, ChatGPT, and Gemini. By encouraging more diverse outputs, the company aims to improve the creativity and reliability of AI chatbots. The initiative highlights ongoing concerns about homogenization in AI-generated content.",
-    "importance": 7,
-    "classified": true
-  },
-  {
-    "title": "OpenAI proposed donating 5% of its equity to a US sovereign wealth fund",
-    "link": "https://techcrunch.com/2026/07/02/openai-proposed-donating-5-of-its-equity-to-a-us-sovereign-wealth-fund/",
-    "pubDate": "Thu, 02 Jul 2026 15:20:51 +0000",
-    "source": "TechCrunch AI",
-    "category": "ai",
-    "content": "OpenAI CEO Sam Altman has reportedly proposed giving 5% of the company’s equity to a U.S. sovereign wealth fund, reviving discussions about letting the public share in the financial gains from the AI boom.",
-    "image": "",
-    "summary": "OpenAI CEO Sam Altman has reportedly suggested allocating 5% of the company's equity to a U.S. sovereign wealth fund, reigniting debate over public participation in the financial benefits of the AI boom.",
     "importance": 7,
     "classified": true
   },
@@ -1164,18 +1188,6 @@
     "classified": true
   },
   {
-    "title": "Kalshi June trading volume tops $9B as World Cup fuels prediction markets",
-    "link": "https://cointelegraph.com/news/world-cup-drives-prediction-markets-to-record-june-trading-volumes?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Sat, 04 Jul 2026 16:50:00 +0000",
-    "source": "Cointelegraph",
-    "category": "crypto",
-    "content": "Kalshi posted a record month for trading volume as the expanded FIFA World Cup boosted prediction market activity, DefiLlama data shows.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/sports-fan1.jpg",
-    "summary": "Kalshi, a prediction market platform, achieved record-breaking trading volume in June, as reported by DefiLlama data. This surge in activity was largely driven by the expanded FIFA World Cup, which fueled participation in prediction markets.",
-    "importance": 6,
-    "classified": true
-  },
-  {
     "title": "AVAX One launches CEO search after leader of its Avalanche treasury pivot steps down",
     "link": "https://www.theblock.co/post/407309/avax-one-ceo-search-leader-avalanche-treasury-pivot-steps-down?utm_source=rss&utm_medium=rss",
     "pubDate": "Mon, 06 Jul 2026 12:07:20 -0400",
@@ -1220,18 +1232,6 @@
     "content": "Sovereign wealth funds invest in digital assets mainly through regulated vehicles: spot bitcoin exchange-traded funds (ETFs), publicly traded companies with crypto exposure, blockchain infrastructure firms, and venture capital funds. Direct ownership of bitcoin or other tokens remains uncommon, held back by governance rules, custody requirements, and political accountability. At present, only a small number of […]",
     "image": "https://www.tbstat.com/wp/uploads/2025/01/20250102_USDC_News2-800x450.jpg",
     "summary": "Sovereign wealth funds invest in digital assets through regulated vehicles, such as spot bitcoin ETFs and publicly traded companies with crypto exposure. Direct ownership of bitcoin or other tokens is uncommon due to governance rules and custody requirements. This investment approach allows them to tap into the crypto market while minimizing risks.",
-    "importance": 6,
-    "classified": true
-  },
-  {
-    "title": "Bitcoin ETFs log record eighth straight negative week despite large Thursday inflow",
-    "link": "https://www.theblock.co/post/407173/bitcoin-etfs-log-record-eighth-straight-negative-week-despite-large-thursday-inflow?utm_source=rss&utm_medium=rss",
-    "pubDate": "Sat, 04 Jul 2026 19:56:20 -0400",
-    "source": "The Block",
-    "category": "crypto",
-    "content": "Hyperliquid ETFs took in $4.3 million, their smallest week since launching in May, down from a record $111 million the week before.",
-    "image": "https://www.tbstat.com/wp/uploads/2025/06/20250603_Bitcoin_News-800x450.jpg",
-    "summary": "Bitcoin ETFs have experienced their eighth consecutive negative week, despite a significant inflow on Thursday. Hyperliquid ETFs saw a notable decrease in inflows, with only $4.3 million, down from a record $111 million the previous week. This decline indicates a potential downturn in investor interest.",
     "importance": 6,
     "classified": true
   },
