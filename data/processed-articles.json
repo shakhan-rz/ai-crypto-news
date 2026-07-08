@@ -1,6 +1,6 @@
 [
   {
-    "title": "Live markets: Bitcoin drops to $62,000, stocks slide, oil soars as Iran ceasefire collapses",
+    "title": "Live markets: Bitcoin drops to $62,000 as oil and bond yields surge on collapse of Iran ceasefire",
     "link": "https://www.coindesk.com/tech/2026/07/08/live-markets-japan-s-collapsing-yen-is-pushing-companies-into-bitcoin-and-xrp",
     "pubDate": "Wed, 08 Jul 2026 05:29:16 +0000",
     "source": "CoinDesk",
@@ -8,6 +8,18 @@
     "content": "Hedge funds have turned the most bearish on the yen since 2007, boosting bets on further losses to nearly 138,000 contracts as of June 30.",
     "image": "https://cdn.sanity.io/images/s3y3vcno/production/30de19ba77a116908d346ddceefc481076166736-4751x3167.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
     "summary": "Japan's significantly weakening yen is reportedly pushing companies to invest in Bitcoin and XRP as a hedge against currency depreciation. Hedge funds are increasingly bearish on the yen, making record bets on its further decline, which highlights the perceived utility of cryptocurrencies in this economic climate.",
+    "importance": 9,
+    "classified": true
+  },
+  {
+    "title": "Tokenized stock transfers surge 105% in a month to $8.4B",
+    "link": "https://cointelegraph.com/news/tokenized-stock-transfers-surge-105-in-a-month-to-84b?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Wed, 08 Jul 2026 20:29:10 +0000",
+    "source": "Cointelegraph",
+    "category": "crypto",
+    "content": "Industry data shows trading activity and market value accelerating as crypto companies and traditional financial institutions expand tokenized equity initiatives.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-the-biggest-challenge-for-crypto-exchanges-is-global-price-fragmentation-2.png",
+    "summary": "Tokenized stock transfers have seen a significant surge, increasing by 105% in a single month to reach $8.4 billion. This acceleration in trading activity and market value indicates a growing trend, driven by both crypto companies and traditional financial institutions expanding their tokenized equity initiatives.",
     "importance": 9,
     "classified": true
   },
@@ -360,14 +372,14 @@
     "classified": true
   },
   {
-    "title": "USDT wins payments, USDC wins DeFi as stablecoins diverge: Dune",
-    "link": "https://cointelegraph.com/news/usdt-wins-payments-usdc-wins-defi-as-stablecoins-diverge-dune?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Tue, 07 Jul 2026 18:05:08 +0000",
-    "source": "Cointelegraph",
+    "title": "Sen. Wyden urges Senate leaders to preserve contested blockchain developer protections in broader crypto bill",
+    "link": "https://www.theblock.co/post/407648/wyden-urges-senate-leaders-preserve-contested-blockchain-developer-protections-in-broader-crypto-bill?utm_source=rss&utm_medium=rss",
+    "pubDate": "Wed, 08 Jul 2026 18:01:09 -0400",
+    "source": "The Block",
     "category": "crypto",
-    "content": "Dune data shows Tether's USDT has become crypto’s dominant payments stablecoin while Circle's USDC powers DeFi, highlighting how blockchain choice shapes stablecoin use.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-usdt-vs-usdc-whats-the-difference.jpg",
-    "summary": "According to Dune data, Tether's USDT is leading in payments, while Circle's USDC is dominating the DeFi space, showing the divergence in stablecoin usage based on blockchain choice. This highlights the distinct use cases for different stablecoins. USDT and USDC are used in different areas of the crypto ecosystem.",
+    "content": "Democratic Sen. Ron Wyden is urging Senate leaders to ensure a provision protecting blockchain software developers remains in the crypto bill.",
+    "image": "https://www.tbstat.com/wp/uploads/2019/07/congress-outside-alt-800x450.jpg",
+    "summary": "Sen. Ron Wyden is pushing to preserve protections for blockchain developers in a broader cryptocurrency bill. The provision aims to safeguard blockchain software developers. Wyden's effort is part of a larger legislative effort to regulate the crypto industry.",
     "importance": 8,
     "classified": true
   },
@@ -492,42 +504,6 @@
     "classified": true
   },
   {
-    "title": "SEC plans crypto rule changes for exchanges and broker dealers in 2026 regulatory agenda",
-    "link": "https://www.theblock.co/post/407468/sec-plans-crypto-rule-changes-for-exchanges-broker-dealers-2026-regulatory-agenda?utm_source=rss&utm_medium=rss",
-    "pubDate": "Tue, 07 Jul 2026 12:03:54 -0400",
-    "source": "The Block",
-    "category": "crypto",
-    "content": "The SEC is laying the groundwork for cryptocurrency rule changes before the end of the year, with a blueprint for exchanges and brokers.",
-    "image": "https://www.tbstat.com/wp/uploads/2025/01/20250109_Paul-Atkins_News-800x450.jpg",
-    "summary": "The SEC plans to introduce cryptocurrency rule changes for exchanges and broker dealers in 2026. The regulatory agenda aims to lay the groundwork for these changes before the end of the year. This move may impact the cryptocurrency industry",
-    "importance": 8,
-    "classified": true
-  },
-  {
-    "title": "1kx, Blockchain Capital back $7.5 million KOR Protocol Series A at $100 million valuation",
-    "link": "https://www.theblock.co/post/407465/1kx-blockchain-capital-7-5-million-kor-protocol-series-a-100-million-valuation?utm_source=rss&utm_medium=rss",
-    "pubDate": "Tue, 07 Jul 2026 11:57:32 -0400",
-    "source": "The Block",
-    "category": "crypto",
-    "content": "KOR Protocol is building an onchain clearinghouse that helps register and route creative works and pay out rights holders.",
-    "image": "https://www.tbstat.com/wp/uploads/2024/03/raises-dollar-funding-800x450.jpeg",
-    "summary": "KOR Protocol has raised $7.5 million in a Series A funding round at a $100 million valuation, backed by 1kx and Blockchain Capital, to develop an on-chain clearinghouse for registering and routing creative works. The protocol aims to facilitate payouts to rights holders. The investment highlights the growing interest in blockchain-based solutions for content ownership and monetization.",
-    "importance": 8,
-    "classified": true
-  },
-  {
-    "title": "Tether puts $20 million behind Mercado Bitcoin amid Latin America’s tokenization boom",
-    "link": "https://www.theblock.co/post/407463/tether-20-million-behind-mercado-bitcoin-latin-america-tokenization-boom?utm_source=rss&utm_medium=rss",
-    "pubDate": "Tue, 07 Jul 2026 11:57:17 -0400",
-    "source": "The Block",
-    "category": "crypto",
-    "content": "Mercado Bitcoin has grown from an early crypto exchange into a regulated digital financial services platform.",
-    "image": "https://www.tbstat.com/wp/uploads/2022/05/20220523-Brazil-News-1-800x450.png",
-    "summary": "Tether has invested $20 million in Mercado Bitcoin, a digital financial services platform in Latin America, amid a surge in tokenization in the region. Mercado Bitcoin has evolved from a crypto exchange to a regulated platform. This investment reflects the growing significance of Latin America in the global crypto market.",
-    "importance": 8,
-    "classified": true
-  },
-  {
     "title": "CFTC Chair Says Clarity Act Is ‘So Close’ As August Deadline Nears",
     "link": "https://bitcoinmagazine.com/news/cftc-chair-says-clarity-act-is-so-close",
     "pubDate": "Wed, 08 Jul 2026 17:55:34 +0000",
@@ -612,18 +588,6 @@
     "classified": true
   },
   {
-    "title": "Tether Invests $20 Million in Brazil’s Mercado Bitcoin",
-    "link": "https://bitcoinmagazine.com/news/tether-invests-20-million-mercado-bitcoin",
-    "pubDate": "Tue, 07 Jul 2026 15:01:57 +0000",
-    "source": "Bitcoin Magazine",
-    "category": "crypto",
-    "content": "Bitcoin Magazine\n\nTether Invests $20 Million in Brazil’s Mercado Bitcoin\nTether invested $20 million in Brazil's Mercado Bitcoin to expand regulated blockchain finance, tokenization and stablecoin infrastructure across Latin America.\nThis post Tether Invests $20 Million in Brazil’s Mercado Bitcoin first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
-    "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/07/Tether-Invests-20-Million-in-Brazils-Mercado-Bitcoin-.jpg",
-    "summary": "Tether invested $20 million in Brazil's Mercado Bitcoin to expand regulated blockchain finance and stablecoin infrastructure across Latin America. This investment aims to promote tokenization and stablecoin adoption in the region. The move is expected to boost the growth of the Latin American crypto market.",
-    "importance": 8,
-    "classified": true
-  },
-  {
     "title": "EmTech AI 2026: The Rise of the AI Platform",
     "link": "https://www.technologyreview.com/2026/07/08/1140223/emtech-ai-2026-the-rise-of-the-ai-platform/",
     "pubDate": "Wed, 08 Jul 2026 16:26:10 +0000",
@@ -668,6 +632,42 @@
     "content": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. OpenAI CEO Sam Altman’s oft-discussed promise that Americans will share in the wealth AI creates was in the news again last week. On Thursday, the Financial Times reported that Altman is in…",
     "image": "",
     "summary": "OpenAI CEO Sam Altman has reiterated his promise that Americans will share in the wealth AI creates, with an estimated $300 stake per family, according to a report by the Financial Times. The report suggests that Altman is working on a plan to distribute the wealth generated by AI. This move could have significant implications for the AI community.",
+    "importance": 8,
+    "classified": true
+  },
+  {
+    "title": "Google’s deepfake detector system used to debunk McConnell hoax pic",
+    "link": "https://techcrunch.com/2026/07/08/googles-deepfake-detector-system-used-to-debunk-mcconnell-hoax-pic/",
+    "pubDate": "Wed, 08 Jul 2026 20:37:03 +0000",
+    "source": "TechCrunch AI",
+    "category": "ai",
+    "content": "Earlier this week, a picture seemed to show Kentucky Senator Mitch McConnell covered in tubes in a hospital bed in a state of extreme distress. It turned out to be an AI-generated fake.",
+    "image": "",
+    "summary": "A fake image of Senator Mitch McConnell in a hospital bed was debunked as an AI-generated deepfake, using Google's deepfake detector system. The image had appeared to show McConnell in a state of extreme distress. The incident highlights the potential for AI-generated fakes to spread misinformation.",
+    "importance": 8,
+    "classified": true
+  },
+  {
+    "title": "SpaceXAI releases Grok 4.5, which Elon describes as an ‘Opus-class model’",
+    "link": "https://techcrunch.com/2026/07/08/spacexai-releases-grok-4-5-which-elon-describes-as-an-opus-class-model/",
+    "pubDate": "Wed, 08 Jul 2026 19:30:16 +0000",
+    "source": "TechCrunch AI",
+    "category": "ai",
+    "content": "Elon Musk's tech company released the newest version of Grok on Wednesday, promising a cheaper, more efficient alternative to other powerful AI models.",
+    "image": "",
+    "summary": "SpaceXAI has released Grok 4.5, described by Elon Musk as an 'Opus-class model', offering a cheaper and more efficient alternative to other powerful AI models. This new version aims to provide a more cost-effective solution for AI applications. The release is seen as a significant development in the field of artificial intelligence.",
+    "importance": 8,
+    "classified": true
+  },
+  {
+    "title": "This startup thinks robotics is about to have its ChatGPT moment",
+    "link": "https://techcrunch.com/2026/07/08/this-startup-thinks-robotics-is-about-to-have-its-chatgpt-moment/",
+    "pubDate": "Wed, 08 Jul 2026 19:19:15 +0000",
+    "source": "TechCrunch AI",
+    "category": "ai",
+    "content": "General Intuition is betting millions of hours of video game data can train the foundation models for physical AI, making it easier to build smarter robots with minimal real-world data.",
+    "image": "",
+    "summary": "General Intuition, a startup, is using millions of hours of video game data to train foundation models for physical AI, aiming to make building smarter robots easier with minimal real-world data. This approach could lead to advancements in robotics, potentially having a significant impact on the field. The use of large datasets from video games can reduce the need for extensive real-world testing.",
     "importance": 8,
     "classified": true
   },
@@ -828,30 +828,6 @@
     "classified": true
   },
   {
-    "title": "The ‘first’ AI-run ransomware attack still needed a human",
-    "link": "https://techcrunch.com/2026/07/06/the-first-ai-run-ransomware-attack-still-needed-a-human/",
-    "pubDate": "Mon, 06 Jul 2026 23:56:14 +0000",
-    "source": "TechCrunch AI",
-    "category": "ai",
-    "content": "An AI agent carried out the technical execution of a real-world ransomware attack for the first known time, but new details show a human still chose the victim, set up the infrastructure, and supplied stolen credentials — meaning it wasn't quite the fully autonomous cybercrime debut that last week's headlines suggested.",
-    "image": "",
-    "summary": "A recent ransomware attack was carried out with the help of an AI agent, but it still required human intervention to choose the victim and set up the infrastructure. The AI agent was used for the technical execution of the attack. This incident marks the first known time an AI has been used in a real-world ransomware attack.",
-    "importance": 8,
-    "classified": true
-  },
-  {
-    "title": "US investors will soon get access to SK Hynix, another memory maker riding the AI boom",
-    "link": "https://techcrunch.com/2026/07/06/us-investors-will-soon-get-access-to-sk-hynix-another-memory-maker-riding-the-ai-boom/",
-    "pubDate": "Mon, 06 Jul 2026 23:21:03 +0000",
-    "source": "TechCrunch AI",
-    "category": "both",
-    "content": "SK Hynix is experiencing a boom credited to AI. It will ride that to a multibillion-dollar U.S. IPO, expected to take place on Friday.",
-    "image": "",
-    "summary": "SK Hynix, a memory maker, is experiencing a boom due to AI and will soon have a multibillion-dollar US IPO. The IPO is expected to take place on Friday. This move will give US investors access to the company.",
-    "importance": 8,
-    "classified": true
-  },
-  {
     "title": "ChatGPT’s upgraded voice mode is better at shutting up",
     "link": "https://www.theverge.com/ai-artificial-intelligence/962856/chatgpt-upgraded-voice-mode-gpt-live",
     "pubDate": "2026-07-08T17:00:00.000Z",
@@ -896,6 +872,30 @@
     "content": "At the event \"The Briefing: AI for Science\" earlier this week, Anthropic announced Claude Science, a new \"AI workbench for scientists\" that pulls fragmented tools and datasets into one environment, and generates figures and visuals. Anthropic, already dominating the industry with its popular coding tools and powerful AI models, framed the launch around what it says is AI's potential to \"dramatically accelerate the pace of scientific discovery and the development of healthcare interventions,\" and touted a long list of biotech and pharma customers already using Claude. \nAnthropic also went a step further, saying it would develop drugs of its  …\nRead the full story at The Verge.",
     "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STKB364_CLAUDE_2_A_3800fc-1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
     "summary": "Anthropic unveiled Claude Science, an AI workbench that consolidates tools and datasets for scientists, aiming to speed up scientific discovery and drug development, and announced plans to develop its own pharmaceuticals using AI.",
+    "importance": 8,
+    "classified": true
+  },
+  {
+    "title": "Suspecting AI cheating, Ivy League prof ordered an in-person final; scores fell 50%",
+    "link": "https://arstechnica.com/ai/2026/07/we-cannot-choose-to-become-idiots-the-ai-cheating-scandal-roiling-brown-university/",
+    "pubDate": "Wed, 08 Jul 2026 21:42:44 +0000",
+    "source": "Ars Technica AI",
+    "category": "ai",
+    "content": "AI cheating leads to \"a failed society,\" professor says.",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2261090247-1152x648.jpg",
+    "summary": "An Ivy League professor suspected AI cheating and ordered an in-person final, which resulted in scores falling by 50%. The professor believes AI cheating can lead to a failed society. This highlights the growing concern of AI-assisted cheating in academic settings.",
+    "importance": 8,
+    "classified": true
+  },
+  {
+    "title": "Lawsuit: Man used Grok to make 7K sex images of stepdaughter, then shot himself",
+    "link": "https://arstechnica.com/tech-policy/2026/07/lawsuit-grok-user-made-7k-child-sex-images-xai-only-reported-one-gang-rape-prompt/",
+    "pubDate": "Wed, 08 Jul 2026 19:56:37 +0000",
+    "source": "Ars Technica AI",
+    "category": "ai",
+    "content": "More young girls sue X over Grok CSAM; X accused of shielding child predators.",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2261524889-1024x648.jpg",
+    "summary": "A man allegedly used AI software Grok to create explicit images of his stepdaughter, and later took his own life. This incident is part of a larger lawsuit against the company behind Grok, accused of enabling child predators. Multiple young girls are suing the company for its handling of child sexual abuse material.",
     "importance": 8,
     "classified": true
   },
@@ -1152,18 +1152,6 @@
     "classified": true
   },
   {
-    "title": "Notion killing Skiff-influenced email app since most users use AI agents instead",
-    "link": "https://arstechnica.com/gadgets/2026/06/notion-killing-skiff-influenced-email-app-since-most-users-use-ai-agents-instead/",
-    "pubDate": "Thu, 25 Jun 2026 19:04:57 +0000",
-    "source": "Ars Technica AI",
-    "category": "ai",
-    "content": "Notion is \"going all in on using agents to run your inbox.\"",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-2230437159-1024x648.jpg",
-    "summary": "Notion is shutting down a Skiff-inspired email app, citing that most users now rely on AI agents to manage their inboxes, and will focus on integrating AI-driven agents for email handling.",
-    "importance": 7,
-    "classified": true
-  },
-  {
     "title": "Crypto Long & Short: With MSTR concerns assuaged, look to traditional signals around BTC",
     "link": "https://www.coindesk.com/coindesk-indices/2026/07/08/crypto-long-and-short-with-mstr-concerns-assuaged-look-to-traditional-signals-around-btc",
     "pubDate": "Wed, 08 Jul 2026 15:18:10 +0000",
@@ -1176,12 +1164,12 @@
     "classified": true
   },
   {
-    "title": "Adam Back's BSTR scraps SPAC merger, seeks new deal",
+    "title": "Adam Back's bitcoin treasury firm scraps SPAC merger, seeks new deal",
     "link": "https://www.coindesk.com/markets/2026/07/08/adam-back-s-bstr-scraps-original-spac-terms-seeks-new-deal",
     "pubDate": "Wed, 08 Jul 2026 14:17:26 +0000",
     "source": "CoinDesk",
     "category": "crypto",
-    "content": "BSTR and Cantor Equity Partners will not complete their merger under the original July 2025 agreement, with the shareholder postponed indefinitely.",
+    "content": "BSTR and Cantor Equity Partners will not complete their merger under the original July 2025 agreement, with the shareholder meeting postponed indefinitely.",
     "image": "https://cdn.sanity.io/images/s3y3vcno/production/cb20933028962c13c4a291ce084ad7f9e61e8d0e-4498x3000.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
     "summary": "Adam Back's Blockchain Technology Services (BSTR) has scrapped its planned merger with Cantor Equity Partners, originally set for July 2025. The shareholder meeting has been postponed indefinitely, and BSTR will now seek a new deal. This development may impact the company's future plans and growth prospects.",
     "importance": 6,
@@ -1296,6 +1284,30 @@
     "classified": true
   },
   {
+    "title": "Binance Wallet adds Plume’s yield vault offering access to Invesco and Bitwise funds",
+    "link": "https://www.theblock.co/post/407632/binance-wallet-plume-yield-vault-invesco-bitwise-funds?utm_source=rss&utm_medium=rss",
+    "pubDate": "Wed, 08 Jul 2026 17:00:02 -0400",
+    "source": "The Block",
+    "category": "crypto",
+    "content": "Binance Wallet has added Plume's yield vault, giving users access to tokenized funds managed by Invesco and Bitwise.",
+    "image": "https://www.tbstat.com/wp/uploads/2024/11/20241127_Binance_News_2-800x450.jpg",
+    "summary": "Binance Wallet has integrated Plume's yield vault, allowing users to access tokenized funds managed by Invesco and Bitwise. This partnership expands the range of investment options available to Binance users. The move marks a notable development in the intersection of cryptocurrency and traditional finance.",
+    "importance": 6,
+    "classified": true
+  },
+  {
+    "title": "‘Best course of action:’ DeFi dashboard Zapper to shut down after 7 years",
+    "link": "https://www.theblock.co/post/407634/defi-dashboard-zapper-shut-down-after-7-years?utm_source=rss&utm_medium=rss",
+    "pubDate": "Wed, 08 Jul 2026 16:57:05 -0400",
+    "source": "The Block",
+    "category": "crypto",
+    "content": "Zapper, which started as a portfolio tracker, raised a $15 million Series A led by Framework Ventures in May 2021.",
+    "image": "https://www.tbstat.com/wp/uploads/2025/09/defi-crypto-network-800x450.jpg",
+    "summary": "DeFi dashboard Zapper is shutting down after 7 years, having started as a portfolio tracker and raised $15 million in Series A funding in 2021. Zapper's closure marks a significant change in the DeFi landscape. The company's decision to shut down is likely to impact the DeFi community.",
+    "importance": 6,
+    "classified": true
+  },
+  {
     "title": "Cash App owner Block to pay $45 million after states say it made false security promises",
     "link": "https://www.theblock.co/post/407623/cash-app-owner-block-pay-45-million-states-say-it-made-false-security-promises?utm_source=rss&utm_medium=rss",
     "pubDate": "Wed, 08 Jul 2026 15:00:29 -0400",
@@ -1364,6 +1376,18 @@
     "content": "Institutional crypto platform EDX Markets has closed a $76 million Series C funding round, with Japan's SBI Holdings as the sole investor.",
     "image": "https://www.tbstat.com/wp/uploads/2025/04/20250411_Funding_News_3-800x450.jpg",
     "summary": "EDX Markets, an institutional crypto platform, has secured $76 million in Series C funding from SBI Holdings, a Japanese company. This investment will likely support EDX Markets' growth and development. The funding round was led solely by SBI Holdings.",
+    "importance": 6,
+    "classified": true
+  },
+  {
+    "title": "Bitcoin Slips to $62,000, Paring Rebound as CryptoQuant Sees Room Higher",
+    "link": "https://bitcoinmagazine.com/markets/bitcoin-slips-to-62000-paring-rebound",
+    "pubDate": "Wed, 08 Jul 2026 21:18:33 +0000",
+    "source": "Bitcoin Magazine",
+    "category": "crypto",
+    "content": "Bitcoin Magazine\n\nBitcoin Slips to $62,000, Paring Rebound as CryptoQuant Sees Room Higher\nBitcoin slipped to around $62,000 after rebounding from last week's $57,700 low, while CryptoQuant says improving demand, seasonality and valuation support further gains, though its bearish Bull Score Index suggests the move remains a bear-market recovery rather than a full trend reversal.\nThis post Bitcoin Slips to $62,000, Paring Rebound as CryptoQuant Sees Room Higher first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
+    "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/06/Bitcoin-Price-Falls-to-62000-as-Hawkish-Fed-Shift-Raises-Risk-of-Deeper-Pullback.jpg",
+    "summary": "Bitcoin's price slipped to $62,000 after a rebound from $57,700, with CryptoQuant suggesting potential for further gains due to improving demand and seasonality. However, the Bull Score Index indicates this may be a bear-market recovery rather than a trend reversal. The cryptocurrency's valuation is seen as supportive of higher prices.",
     "importance": 6,
     "classified": true
   },
@@ -1548,38 +1572,14 @@
     "classified": true
   },
   {
-    "title": "Google finally releases a Finance Android app, promises iOS version later in 2026",
-    "link": "https://arstechnica.com/google/2026/06/google-finance-finally-gets-a-mobile-app-as-ai-powered-overhaul-leaves-beta/",
-    "pubDate": "Thu, 25 Jun 2026 18:38:51 +0000",
-    "source": "Ars Technica AI",
-    "category": "ai",
-    "content": "It took 20 years, but the Finance app arrives just in time to be packed full of AI.",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/Google_Finance-1152x648.png",
-    "summary": "Google has finally launched its long‑awaited Finance app for Android, with an iOS version slated for 2026. The new app is packed with artificial intelligence features to help users manage their finances.",
-    "importance": 5,
-    "classified": true
-  },
-  {
     "title": "Here’s what happened in crypto today",
     "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Wed, 08 Jul 2026 12:43:17 +0000",
+    "pubDate": "Wed, 08 Jul 2026 19:22:58 +0000",
     "source": "Cointelegraph",
     "category": "crypto",
     "content": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
     "image": "https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg",
     "summary": "The article provides a daily roundup of the latest news affecting the cryptocurrency market, covering topics such as Bitcoin price movements, blockchain developments, DeFi, Web3, and regulatory updates. It serves as a quick guide to current trends and events in the crypto space.",
-    "importance": 4,
-    "classified": true
-  },
-  {
-    "title": "Vercel CEO Guillermo Rauch on the fight to split off models from agents",
-    "link": "https://techcrunch.com/2026/07/06/vercel-ceo-guillermo-rauch-on-the-fight-to-split-off-models-from-agents/",
-    "pubDate": "Mon, 06 Jul 2026 19:49:10 +0000",
-    "source": "TechCrunch AI",
-    "category": "ai",
-    "content": "\"The reality is, when you're optimizing for production, you start looking at a price/performance,\" Guillermo Rauch tells TechCrunch.",
-    "image": "",
-    "summary": "Vercel CEO Guillermo Rauch discusses optimizing production by considering price and performance, which may relate to AI model efficiency. He shares his insights with TechCrunch. The context implies a focus on production and potentially AI applications.",
     "importance": 4,
     "classified": true
   },
