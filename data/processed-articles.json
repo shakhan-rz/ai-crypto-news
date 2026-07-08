@@ -1,5 +1,17 @@
 [
   {
+    "title": "Live markets: Japan's collapsing yen is pushing companies into bitcoin and XRP",
+    "link": "https://www.coindesk.com/tech/2026/07/08/live-markets-japan-s-collapsing-yen-is-pushing-companies-into-bitcoin-and-xrp",
+    "pubDate": "Wed, 08 Jul 2026 05:29:16 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "Hedge funds have turned the most bearish on the yen since 2007, boosting bets on further losses to nearly 138,000 contracts as of June 30.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/9a12f071722174853c9625a894931ff37321e344-1920x1080.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "Japan's significantly weakening yen is reportedly pushing companies to invest in Bitcoin and XRP as a hedge against currency depreciation. Hedge funds are increasingly bearish on the yen, making record bets on its further decline, which highlights the perceived utility of cryptocurrencies in this economic climate.",
+    "importance": 9,
+    "classified": true
+  },
+  {
     "title": "Circle’s USDC is leaving Tether behind in the stablecoin volume race, new data from Visa shows",
     "link": "https://www.coindesk.com/business/2026/07/06/circle-s-usdc-is-leaving-tether-behind-in-the-stablecoin-volume-race",
     "pubDate": "Mon, 06 Jul 2026 16:00:15 +0000",
@@ -8,6 +20,18 @@
     "content": "As Wall Street banks adopt digital currencies for faster settlements, overall trading volume spiked 63% in just a single month.",
     "image": "https://cdn.sanity.io/images/s3y3vcno/production/989b5d9f334511be32f765ead619e6010b3c17ff-1200x675.avif?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
     "summary": "According to new data from Visa, Circle's USDC is now outpacing Tether in the stablecoin volume race. This shift coincides with a 63% surge in overall digital currency trading volume within a single month, driven by Wall Street banks increasingly adopting digital currencies for faster settlements.",
+    "importance": 9,
+    "classified": true
+  },
+  {
+    "title": "StarkWare CEO suggests 4% annual Bitcoin inflation to replace 21M cap",
+    "link": "https://cointelegraph.com/news/starkware-ceo-suggests-4-annual-bitcoin-inflation-to-replace-21m-cap?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Wed, 08 Jul 2026 05:48:42 +0000",
+    "source": "Cointelegraph",
+    "category": "crypto",
+    "content": "StarkWare CEO Eli Ben-Sasson argued that Bitcoin private keys get lost over time, meaning the amount of usable Bitcoin will diminish. Many disagree.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-can-bitcoins-hard-cap-of-21-million-be-changed.jpg",
+    "summary": "StarkWare CEO Eli Ben-Sasson proposed a controversial 4% annual Bitcoin inflation to counteract the diminishing supply caused by lost private keys. This suggestion challenges Bitcoin's fundamental 21 million supply cap, a core tenet for many in the crypto community.",
     "importance": 9,
     "classified": true
   },
@@ -168,14 +192,38 @@
     "classified": true
   },
   {
-    "title": "Bitcoin miner TeraWulf soars on a $19 billion AI data-center lease with Anthropic",
-    "link": "https://www.coindesk.com/markets/2026/07/06/bitcoin-miner-terawulf-soars-on-a-usd19-billion-ai-data-center-lease-with-anthropic",
-    "pubDate": "Mon, 06 Jul 2026 14:12:15 +0000",
-    "source": "CoinDesk",
+    "title": "Secret Network cites AI exploit risks in proposed Arbitrum move",
+    "link": "https://cointelegraph.com/news/secret-network-cites-ai-exploit-risks-in-proposed-arbitrum-move?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Wed, 08 Jul 2026 03:54:27 +0000",
+    "source": "Cointelegraph",
     "category": "both",
-    "content": "The onetime pure bitcoin miner signed a 20-year deal to host the AI firm at a Kentucky campus, the latest crypto-adjacent company to trade mining for the steadier money in artificial-intelligence infrastructure.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/09c7af12c3ed9c083ddc433486f71cdad7b77bfd-2560x1416.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "TeraWulf, a Bitcoin miner, has signed a 20-year lease with AI firm Anthropic to host them at a Kentucky campus, marking a shift from mining to AI infrastructure. This deal is valued at $19 billion. The company is transitioning from pure Bitcoin mining to more stable AI infrastructure investments.",
+    "content": "“The security risk is the part we take most seriously,” the team said, citing old code and AI exploit risks.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-explained-what-is-the-interledger-protocol-and-how-does-it-work-arbitrum.jpg",
+    "summary": "Secret Network is considering a move to Arbitrum but has raised serious security concerns, citing risks from old code and potential AI exploits. This highlights a growing awareness within the blockchain community of emerging threats posed by artificial intelligence.",
+    "importance": 8,
+    "classified": true
+  },
+  {
+    "title": "CFTC charges commodity, crypto pool operator with $14M fraud",
+    "link": "https://cointelegraph.com/news/cftc-charges-commodity-crypto-pool-operator-with-14m-fraud?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Wed, 08 Jul 2026 03:25:30 +0000",
+    "source": "Cointelegraph",
+    "category": "crypto",
+    "content": "The CFTC has launched a rare crypto-related enforcement action against a commodity pool operator that allegedly defrauded investors of more than $14 million.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/paper-document-man-office-cftc.jpg",
+    "summary": "The CFTC has launched an enforcement action against a commodity pool operator for allegedly defrauding investors of over $14 million in a crypto-related scheme. The operator is accused of fraudulent activities, highlighting regulatory concerns in the crypto space. This action is part of the CFTC's efforts to protect investors and maintain market integrity.",
+    "importance": 8,
+    "classified": true
+  },
+  {
+    "title": "Strike launches ‘volatility-proof’ Bitcoin loans amid bear market, but at a cost",
+    "link": "https://cointelegraph.com/news/strike-launches-volatility-proof-bitcoin-loans-amid-bear-market-but-at-what-cost?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Wed, 08 Jul 2026 02:40:13 +0000",
+    "source": "Cointelegraph",
+    "category": "crypto",
+    "content": "The cost of eliminating margin calls and forced liquidations is an interest rate as high as 14.2% and an obligation to pay on time, Strike CEO Jack Mallers said.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/loan-cash-bitcoin.jpg",
+    "summary": "Strike has launched Bitcoin loans that are 'volatility-proof', eliminating margin calls and forced liquidations, but with high interest rates of up to 14.2%. This product is designed to protect users during bear markets. However, borrowers must pay on time to avoid issues.",
     "importance": 8,
     "classified": true
   },
@@ -384,38 +432,14 @@
     "classified": true
   },
   {
-    "title": "L1s face decentralization 'tug-of-war' as adoption grows: Injective CEO",
-    "link": "https://cointelegraph.com/news/injective-ceo-warns-layer-1-chains-risk-sacrificing-decentralization-for-speed?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Tue, 07 Jul 2026 03:28:23 +0000",
-    "source": "Cointelegraph",
+    "title": "Tom Lee’s Bitmine adds $70 million worth of ETH to treasury: onchain analyst",
+    "link": "https://www.theblock.co/post/407536/tom-lee-bitmine-reportedly-adds-70-million?utm_source=rss&utm_medium=rss",
+    "pubDate": "Wed, 08 Jul 2026 03:31:47 -0400",
+    "source": "The Block",
     "category": "crypto",
-    "content": "Blockchains will face increasing pressure to compromise on decentralization to meet user demand for speed and scalability, Injective CEO Eric Chen said.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-the-blockchain-paradox-decentralization-through-the-centralized-institutions.jpg",
-    "summary": "Injective CEO Eric Chen states that blockchains will face pressure to compromise on decentralization as user demand for speed and scalability grows. This is due to the increasing adoption of blockchains, which may lead to a trade-off between decentralization and performance. Chen's comments highlight the challenges of balancing these competing interests.",
-    "importance": 8,
-    "classified": true
-  },
-  {
-    "title": "US Bitcoin reserve hits snag as federal agencies debate for control: Bloomberg",
-    "link": "https://cointelegraph.com/news/trumps-bitcoin-reserve-stalled-by-interagency-dispute-over-control-bloomberg?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Tue, 07 Jul 2026 02:17:58 +0000",
-    "source": "Cointelegraph",
-    "category": "crypto",
-    "content": "The report follows comments from White House crypto adviser Patrick Witt in May, who said the administration was examining the legal implications of creating a Bitcoin reserve.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/crypto-bitcoin-storage-us.jpg",
-    "summary": "A Bloomberg report indicates that the creation of a US Bitcoin reserve is encountering difficulties as various federal agencies are debating for control over the initiative. This development follows earlier statements from White House crypto adviser Patrick Witt in May, who mentioned the administration was investigating the legal ramifications of establishing such a reserve.",
-    "importance": 8,
-    "classified": true
-  },
-  {
-    "title": "Strategy sells $216M Bitcoin, Bollinger bullish on BTC: Hodler's Digest, June 29-July 6, 2026",
-    "link": "https://cointelegraph.com/features/bollinger-is-bullish-on-bitcoin-trumps-ludicrous-crypto-profits-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Tue, 07 Jul 2026 00:03:30 +0000",
-    "source": "Cointelegraph",
-    "category": "crypto",
-    "content": "Bollinger Bands creator John Bollinger says the charts suggest Bitcoin could take off from here. Vitalik Buterin unveils a new Ethereum strawmap, but why is it taking so long?",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/5-july.jpg",
-    "summary": "Bollinger Bands creator John Bollinger believes Bitcoin's charts indicate a potential uptrend, while Vitalik Buterin has unveiled a new Ethereum strawmap, sparking discussion on its development pace. This news combines insights from both cryptocurrency and blockchain development. The strawmap's release has been highly anticipated, given Ethereum's significant role in the crypto space.",
+    "content": "Bitmine's most recent disclosure shows that it holds 5.74 million ETH, roughly 4.8% of Ethereum's circulating supply.",
+    "image": "https://www.tbstat.com/wp/uploads/2025/07/20250728_BitMine_News-800x450.jpg",
+    "summary": "Bitmine, a company founded by Tom Lee, has added $70 million worth of ETH to its treasury, now holding 5.74 million ETH, approximately 4.8% of Ethereum's circulating supply. This significant investment indicates a strong vote of confidence in Ethereum. The large holdings could impact the cryptocurrency's market dynamics.",
     "importance": 8,
     "classified": true
   },
@@ -588,30 +612,6 @@
     "classified": true
   },
   {
-    "title": "What Is the U.S. Strategic Bitcoin Reserve?",
-    "link": "https://www.theblock.co/learn/407371/what-is-the-u-s-strategic-bitcoin-reserve?utm_source=rss&utm_medium=rss",
-    "pubDate": "Tue, 07 Jul 2026 01:27:23 -0400",
-    "source": "The Block",
-    "category": "crypto",
-    "content": "The U.S. Strategic Bitcoin Reserve is a government-held stockpile of bitcoin, established by executive order in March 2025. The order treats Bitcoin as a long-term reserve asset, comparable to how the country holds gold, and directs that the coins placed in the reserve are not to be sold. Almost all of the U.S. government’s BTC […]",
-    "image": "https://www.tbstat.com/wp/uploads/2021/10/211001_White_House_General-800x450.jpg",
-    "summary": "The US government has established a Strategic Bitcoin Reserve, a stockpile of bitcoin held by the government, by executive order in March 2025. The reserve treats bitcoin as a long-term reserve asset, similar to gold, and the coins in the reserve are not to be sold. This move signifies a significant shift in the US government's stance on bitcoin.",
-    "importance": 8,
-    "classified": true
-  },
-  {
-    "title": "Grayscale says Strategy’s recent bitcoin sales should restore confidence in its financing structure",
-    "link": "https://www.theblock.co/post/407360/grayscale-strategy-bitcoin-sales-comments?utm_source=rss&utm_medium=rss",
-    "pubDate": "Mon, 06 Jul 2026 18:10:15 -0400",
-    "source": "The Block",
-    "category": "crypto",
-    "content": "\"Strategy is selling more bitcoin. But this will restore confidence in its financing structure and help bitcoin find a more durable bottom.\"",
-    "image": "https://www.tbstat.com/wp/uploads/2026/03/20260320_Strategy_Learn-800x450.jpg",
-    "summary": "Grayscale's Strategy is selling bitcoin to restore confidence in its financing structure, which is expected to help bitcoin find a more stable bottom. This move aims to alleviate concerns and promote a more durable market. The sales are seen as a strategic decision to strengthen the company's financial foundation.",
-    "importance": 8,
-    "classified": true
-  },
-  {
     "title": "Polymarket Turns On Instant Bitcoin Deposits Via Lightning Network, Powered by Spark",
     "link": "https://bitcoinmagazine.com/news/polymarket-turns-instant-bitcoin-deposits",
     "pubDate": "Tue, 07 Jul 2026 19:49:56 +0000",
@@ -756,12 +756,36 @@
     "classified": true
   },
   {
+    "title": "Hot French startup ZML releases free product to speed inference across lots of AI chips",
+    "link": "https://techcrunch.com/2026/07/08/hot-french-startup-zml-releases-free-product-to-speed-inference-across-lots-of-ai-chips/",
+    "pubDate": "Wed, 08 Jul 2026 08:00:00 +0000",
+    "source": "TechCrunch AI",
+    "category": "ai",
+    "content": "ZML, a hot French AI startup endorsed by Turing Award winner Yann LeCun, has now released ZML/LLMD, software that could make running AI less costly.",
+    "image": "",
+    "summary": "ZML, a French AI startup, has released ZML/LLMD, a free software to speed up AI inference across multiple chips, making AI more cost-effective. This software has the potential to reduce costs associated with running AI. The startup is endorsed by Turing Award winner Yann LeCun.",
+    "importance": 8,
+    "classified": true
+  },
+  {
+    "title": "AI chip maker SambaNova raises $1B at $11B valuation, 5 months after last mega round",
+    "link": "https://techcrunch.com/2026/07/08/sambanova-draws-1b-at-11b-valuation-in-series-f-first-close/",
+    "pubDate": "Wed, 08 Jul 2026 07:16:00 +0000",
+    "source": "TechCrunch AI",
+    "category": "ai",
+    "content": "AI chip maker SambaNova has raised at an $11B valuation months after Intel was rumored to be trying to buy it for about $1.6 billion.",
+    "image": "",
+    "summary": "SambaNova, an AI chip maker, has raised $1B at an $11B valuation, just months after Intel was rumored to be considering a $1.6 billion acquisition. This significant funding round underscores the company's rapid growth and valuation increase. The investment highlights the interest in AI-specific hardware solutions.",
+    "importance": 8,
+    "classified": true
+  },
+  {
     "title": "Meta just launched a new AI generator, Muse Image, and users are already pushing back over use of their photos",
     "link": "https://techcrunch.com/2026/07/07/meta-rolls-out-muse-a-new-ai-image-generator/",
     "pubDate": "Tue, 07 Jul 2026 22:18:10 +0000",
     "source": "TechCrunch AI",
     "category": "ai",
-    "content": "The new image-generating model has numerous use cases, including advertising, decorating and creator-based opportunities.",
+    "content": "The new image-generating model has numerous use cases, including advertising and decorating, and creator-based opportunities.",
     "image": "",
     "summary": "Meta has launched Muse Image, a new AI image generator designed for various applications like advertising and content creation. However, the release is already facing user pushback regarding the alleged use of their photos for training the model.",
     "importance": 8,
@@ -900,18 +924,6 @@
     "classified": true
   },
   {
-    "title": "Midjourney wants Hollywood studios to reveal the details of their AI usage",
-    "link": "https://techcrunch.com/2026/07/04/midjourney-wants-hollywood-studios-to-reveal-the-details-of-their-ai-usage/",
-    "pubDate": "Sat, 04 Jul 2026 18:00:05 +0000",
-    "source": "TechCrunch AI",
-    "category": "ai",
-    "content": "As part of an ongoing legal dispute with three Hollywood studios, Midjourney is seeking to compel those studios to reveal how they use AI themselves.",
-    "image": "",
-    "summary": "Midjourney, an AI image generator, is demanding that three Hollywood studios disclose their own AI usage as part of an ongoing legal dispute. This move aims to shed light on how major entertainment companies are implementing AI in their operations amidst broader legal challenges.",
-    "importance": 8,
-    "classified": true
-  },
-  {
     "title": "Meta’s new Muse Image model can pull other Instagram users into AI photos",
     "link": "https://www.theverge.com/tech/962485/meta-muse-image-ai-model-instagram",
     "pubDate": "2026-07-07T20:31:58.000Z",
@@ -944,6 +956,18 @@
     "content": "At the event \"The Briefing: AI for Science\" earlier this week, Anthropic announced Claude Science, a new \"AI workbench for scientists\" that pulls fragmented tools and datasets into one environment, and generates figures and visuals. Anthropic, already dominating the industry with its popular coding tools and powerful AI models, framed the launch around what it says is AI's potential to \"dramatically accelerate the pace of scientific discovery and the development of healthcare interventions,\" and touted a long list of biotech and pharma customers already using Claude. \nAnthropic also went a step further, saying it would develop drugs of its  …\nRead the full story at The Verge.",
     "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STKB364_CLAUDE_2_A_3800fc-1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
     "summary": "Anthropic unveiled Claude Science, an AI workbench that consolidates tools and datasets for scientists, aiming to speed up scientific discovery and drug development, and announced plans to develop its own pharmaceuticals using AI.",
+    "importance": 8,
+    "classified": true
+  },
+  {
+    "title": "Hackers can use 9 of the most popular AI tools to assemble massive botnets",
+    "link": "https://arstechnica.com/security/2026/07/hackers-can-use-9-of-the-most-popular-ai-tools-to-assemble-massive-botnets/",
+    "pubDate": "Wed, 08 Jul 2026 07:00:51 +0000",
+    "source": "Ars Technica AI",
+    "category": "ai",
+    "content": "\"HalluSquatting\" weaponizes LLMs' inability to say \"I don't know.\"",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/rogue-ai-agent-1152x648.jpg",
+    "summary": "Hackers can utilize 9 popular AI tools to create massive botnets by exploiting the limitations of large language models, specifically their inability to respond with uncertainty. This vulnerability, known as HalluSquatting, allows attackers to assemble and control botnets. The discovery highlights potential security risks associated with AI tools.",
     "importance": 8,
     "classified": true
   },
@@ -1032,6 +1056,18 @@
     "classified": true
   },
   {
+    "title": "Bitcoin under pressure as U.S.-Iran escalation lifts oil",
+    "link": "https://www.coindesk.com/markets/2026/07/08/bitcoin-under-pressure-as-u-s-iran-escalation-lifts-oil",
+    "pubDate": "Wed, 08 Jul 2026 04:30:24 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "Major cryptocurrencies are trading in the red as renewed U.S.-Iran airstrikes push oil higher.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/e183c12b5e1dbaf0e0175a58c3a9425adb7b3de5-1920x1440.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "Major cryptocurrencies, including Bitcoin, are currently trading in the red due to renewed geopolitical tensions between the U.S. and Iran. These airstrikes are also pushing oil prices higher, indicating market instability.",
+    "importance": 7,
+    "classified": true
+  },
+  {
     "title": "BlackRock-backed Securitize slides 40% after SPAC debut despite tokenization boom",
     "link": "https://www.coindesk.com/markets/2026/07/07/blackrock-backed-securitize-slides-40-after-spac-debut-despite-tokenization-boom",
     "pubDate": "Tue, 07 Jul 2026 19:35:14 +0000",
@@ -1080,14 +1116,26 @@
     "classified": true
   },
   {
-    "title": "Securitize eyes acquisitions with $400 million war chest after going public, CEO says",
-    "link": "https://www.coindesk.com/business/2026/07/06/securitize-eyes-acquisitions-with-usd400-million-war-chest-after-going-public-ceo-says",
-    "pubDate": "Mon, 06 Jul 2026 14:25:32 +0000",
-    "source": "CoinDesk",
+    "title": "EU to again vote to extend ‘chat control’ rules",
+    "link": "https://cointelegraph.com/news/eu-to-again-vote-to-extend-chat-control-rules?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Wed, 08 Jul 2026 06:33:46 +0000",
+    "source": "Cointelegraph",
+    "category": "both",
+    "content": "So-called “chat control” rules could be revived in the EU, with lawmakers again set to vote on the legislation Thursday.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-what-is-mica-markets-in-crypto-assets-regulation2.jpg",
+    "summary": "EU lawmakers are scheduled to vote again on Thursday to potentially revive 'chat control' rules. This legislation aims to extend existing regulations concerning online communications within the EU.",
+    "importance": 7,
+    "classified": true
+  },
+  {
+    "title": "Swyftx eyes crypto payments after securing Australian license",
+    "link": "https://cointelegraph.com/news/swyftx-eyes-crypto-payments-space-after-securing-australian-license?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Wed, 08 Jul 2026 05:30:03 +0000",
+    "source": "Cointelegraph",
     "category": "crypto",
-    "content": "Following its NYSE debut, Securitize CEO Carlos Domingo said the firm wants to expand its institutional tokenization platform rather than buy competitors.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/0df058fe321b648948d8a5b690588aaafbb157fe-2048x1152.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "Following its debut on the NYSE, Securitize, a company focused on institutional tokenization, has secured a $400 million war chest for acquisitions. CEO Carlos Domingo stated the funds would be used to expand their platform, not to acquire competitors, signaling a growth strategy in the blockchain and digital asset space.",
+    "content": "Swyftx interim co-CEO Andrea Yuen says the company \"won’t be a pure crypto spot exchange in future,” after it secured a license allowing it to offer payment services.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-time-to-switch-license-australia.jpg",
+    "summary": "Swyftx, an Australian crypto exchange, has secured a license enabling it to offer payment services, signalling a strategic move beyond its current role as a pure crypto spot exchange. This expansion indicates the company's intention to integrate cryptocurrency into broader financial payment solutions.",
     "importance": 7,
     "classified": true
   },
@@ -1112,18 +1160,6 @@
     "content": "The funding round comes as institutional investors continue backing crypto market infrastructure despite slower venture investment across the digital asset sector.",
     "image": "https://s3-images.ctmedia.io/media/article-covers/hi-japan-edx.png",
     "summary": "Institutional crypto exchange EDX has successfully raised $76 million from SBI Holdings. This significant funding round highlights ongoing institutional confidence and investment in crypto market infrastructure, even amidst a broader slowdown in venture capital across the digital asset sector.",
-    "importance": 7,
-    "classified": true
-  },
-  {
-    "title": "Bitcoin bulls shake off Strategy's $216M BTC sale as price overtakes $64K",
-    "link": "https://cointelegraph.com/markets/bitcoin-bulls-shake-off-strategys-216m-btc-sale-as-price-overtakes-64k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Tue, 07 Jul 2026 01:55:34 +0000",
-    "source": "Cointelegraph",
-    "category": "crypto",
-    "content": "Bitcoin reversed course from its Monday open selloff and closed the day above $64,000 as bulls began to price in Strategy’s selling.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/article-covers-246676-bitcoin-price-rebounds-65k-who-is-buying-the-dip.jpg",
-    "summary": "Bitcoin's price recovered from a Monday selloff, closing above $64,000 despite a significant $216 million BTC sale by Strategy. Bulls quickly priced in the institutional selling, leading to a reversal in the cryptocurrency's market course.",
     "importance": 7,
     "classified": true
   },
@@ -1200,18 +1236,6 @@
     "classified": true
   },
   {
-    "title": "IBM claims world’s first sub-1 nanometer chip technology",
-    "link": "https://arstechnica.com/gadgets/2026/06/ibm-claims-worlds-first-sub-1-nanometer-chip-technology/",
-    "pubDate": "Thu, 25 Jun 2026 10:00:55 +0000",
-    "source": "Ars Technica AI",
-    "category": "ai",
-    "content": "IBM’s nanostack transistors could boost chip performance or energy efficiency.",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/Sub-1nm-node-chip-3-e1782339299592-1152x648.jpg",
-    "summary": "IBM announced the development of the world’s first sub‑1 nanometer chip technology, using its nanostack transistor architecture. The new transistors are expected to significantly improve chip performance and energy efficiency, potentially accelerating compute‑intensive workloads.",
-    "importance": 7,
-    "classified": true
-  },
-  {
     "title": "Bitcoin stalls as open interest decline raises questions about rally's staying power",
     "link": "https://www.coindesk.com/markets/2026/07/07/bitcoin-stalls-as-open-interest-decline-raises-questions-about-rally-s-staying-power",
     "pubDate": "Tue, 07 Jul 2026 10:44:09 +0000",
@@ -1268,30 +1292,6 @@
     "content": "“Investors are now more confident about the instrument,” said Grayscale’s Zach Pandl regarding STRC, which reclaimed $90 for the first time in three weeks.",
     "image": "https://s3-images.ctmedia.io/media/article-covers/hi-a-simple-breakdown-of-strategys-bitcoin-plan-and-what-could-shape-future-sales.jpg",
     "summary": "Grayscale's Zach Pandl comments on Strategy's Bitcoin sale, stating it may give BTC a durable bottom, with investors showing increased confidence, as STRC reaches $90 for the first time in three weeks. This development could be a positive sign for Bitcoin's market. The statement suggests a potential shift in investor sentiment.",
-    "importance": 6,
-    "classified": true
-  },
-  {
-    "title": "Trump says he became ‘a big crypto guy’ partly for politics",
-    "link": "https://cointelegraph.com/news/trump-says-he-became-a-big-crypto-guy-for-the-politics?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Tue, 07 Jul 2026 04:10:07 +0000",
-    "source": "Cointelegraph",
-    "category": "crypto",
-    "content": "US President Donald Trump once called Bitcoin “a scam,” but admitted on Monday that he got involved in crypto “a little bit for politics.”",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/trump-and-c-man-coming-through.jpg",
-    "summary": "US President Donald Trump stated he became involved in cryptocurrency partly for political reasons, despite previously calling Bitcoin a scam. Trump's comments suggest a change in his stance on crypto. This change may be significant for the crypto community.",
-    "importance": 6,
-    "classified": true
-  },
-  {
-    "title": "Former Tether CIO seeks to sell stake in stablecoin issuer, Bloomberg reports",
-    "link": "https://cointelegraph.com/news/former-tether-cio-seeks-to-sell-stake-in-stablecoin-issuer-bloomberg-reports?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Mon, 06 Jul 2026 21:57:20 +0000",
-    "source": "Cointelegraph",
-    "category": "crypto",
-    "content": "The reported transaction comes as Tether maintains it has no plans to go public, even as other crypto companies pursue or delay IPOs.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/sponsor-screen-traid-bnb-chain.png",
-    "summary": "A former Tether CIO is looking to sell their stake in the stablecoin issuer, according to a report by Bloomberg. This news comes as Tether has stated it has no plans to go public, unlike some other crypto companies. The potential sale is a notable development in the cryptocurrency space.",
     "importance": 6,
     "classified": true
   },
@@ -1412,18 +1412,6 @@
     "content": "Two hundred and fifty years after the signing of the Declaration of Independence, a new commercial asks: What if the Founding Fathers had access to Google Workspace?",
     "image": "",
     "summary": "A new Google commercial envisions the Founding Fathers using Google Workspace, powered by AI, to write the Declaration of Independence. The ad explores how AI could have assisted in the creation of this historic document. This concept highlights the potential of AI in enhancing human creativity and productivity.",
-    "importance": 6,
-    "classified": true
-  },
-  {
-    "title": "Alibaba reportedly bans employees from using Claude Code",
-    "link": "https://techcrunch.com/2026/07/04/alibaba-reportedly-bans-employees-from-using-claude-code/",
-    "pubDate": "Sat, 04 Jul 2026 16:32:08 +0000",
-    "source": "TechCrunch AI",
-    "category": "ai",
-    "content": "Alibaba has reportedly classified Claude Code as high-risk software.",
-    "image": "",
-    "summary": "Alibaba has banned its employees from using Claude Code, classifying it as high-risk software. This decision may be due to security concerns. The specifics of the ban are not detailed in the report.",
     "importance": 6,
     "classified": true
   },
@@ -1586,7 +1574,7 @@
   {
     "title": "Here’s what happened in crypto today",
     "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Tue, 07 Jul 2026 19:39:15 +0000",
+    "pubDate": "Wed, 08 Jul 2026 06:05:32 +0000",
     "source": "Cointelegraph",
     "category": "crypto",
     "content": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
@@ -1629,6 +1617,18 @@
     "image": "https://s3-images.ctmedia.io/media/article-covers/hi-how-trade-wars-impact-stocks-and-crypto.jpg",
     "summary": "Bitcoin retreated from two-week highs, mirroring a dip in US stocks, as analyst John Bollinger described BTC's price action as being \"at a critical point.\"",
     "importance": 3,
+    "classified": true
+  },
+  {
+    "title": "Federal judge denies Kalshi’s bid to block New York gambling law enforcement",
+    "link": "https://www.theblock.co/post/407529/judge-denies-kalshi-motion-new-york?utm_source=rss&utm_medium=rss",
+    "pubDate": "Wed, 08 Jul 2026 02:31:22 -0400",
+    "source": "The Block",
+    "category": "crypto",
+    "content": "The judge said New York gambling laws, as applied to Kalshi's sports-event contracts, are not preempted by the federal Commodity Exchange Act.",
+    "image": "https://www.tbstat.com/wp/uploads/2025/09/20250917_Kalshi_News_2-800x450.jpg",
+    "summary": "A federal judge has denied Kalshi's bid to block New York gambling law enforcement, ruling that state laws apply to Kalshi's sports-event contracts. The judge stated that these laws are not preempted by the federal Commodity Exchange Act. This decision may impact the use of event contracts in the state.",
+    "importance": 2,
     "classified": true
   },
   {
