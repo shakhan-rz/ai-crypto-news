@@ -60,6 +60,18 @@
     "classified": true
   },
   {
+    "title": "Bitcoin zips higher to nearly $64,000 as chip rally and yen strength drive gains",
+    "link": "https://www.coindesk.com/markets/2026/07/10/bitcoin-zips-to-nearly-usd64-000-as-chip-rally-and-yen-strength-drive-gains",
+    "pubDate": "Fri, 10 Jul 2026 03:57:58 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "Bitcoin is up 4.2% over seven days that contained an oil shock, a bond selloff and two rounds of U.S. strikes on Iran.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/9671b1d7488457d9192370d402ecbdd3c3ea9589-4452x2504.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "Bitcoin's price has increased to nearly $64,000, with a 4.2% gain over the past seven days, despite significant global events such as an oil shock and US strikes on Iran. The Rally was driven by a chip rally and yen strength. This increase is notable given the current global economic climate.",
+    "importance": 8,
+    "classified": true
+  },
+  {
     "title": "Arbitrum jumps 19% benefitting from Robinhood's $568 million onchain trading frenzy",
     "link": "https://www.coindesk.com/markets/2026/07/09/arbitrum-jumps-19-benefitting-from-robinhood-s-usd568-million-onchain-trading-frenzy",
     "pubDate": "Thu, 09 Jul 2026 20:28:51 +0000",
@@ -168,14 +180,50 @@
     "classified": true
   },
   {
-    "title": "A trader turns $800 into over $1 million on Robinhood's brand new blockchain betting on memecoin",
-    "link": "https://www.coindesk.com/tech/2026/07/09/cashcat-trader-turns-usd800-into-over-usd1-million-on-robinhood-s-brand-new-blockchain",
-    "pubDate": "Thu, 09 Jul 2026 06:40:50 +0000",
-    "source": "CoinDesk",
+    "title": "EU parliament passes ‘chat control,’ allowing private chat scans until 2028",
+    "link": "https://cointelegraph.com/news/eu-parliament-passes-chat-control-allowing-private-chat-scans-to-2028?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Fri, 10 Jul 2026 06:05:38 +0000",
+    "source": "Cointelegraph",
+    "category": "ai",
+    "content": "EU lawmakers have again allowed tech firms to scan chats for abuse material, but exempted end-to-end encrypted messages.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-why-setup-matters-for-cryptocurrency-privacy2.jpg",
+    "summary": "The EU parliament has passed a law allowing tech firms to scan private chats for abuse material until 2028, while exempting end-to-end encrypted messages. This decision aims to balance online safety with user privacy. The law's implications may impact tech companies and users alike.",
+    "importance": 8,
+    "classified": true
+  },
+  {
+    "title": "Robinhood Chain sees over $70M in ETH bridged during first week",
+    "link": "https://cointelegraph.com/news/robinhood-chain-sees-over-70m-in-eth-bridged-during-first-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Fri, 10 Jul 2026 05:44:20 +0000",
+    "source": "Cointelegraph",
     "category": "crypto",
-    "content": "Robinhood's blockchain went live on July 1 to move stocks onchain. Its first breakout hit is a memecoin named after the mascot the company abandoned.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/f021b8489c514048a19284a683921ac81755aa3c-2782x954.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "A trader on Robinhood's new blockchain turned $800 into over $1 million with a memecoin called 'CASHCAT', which is named after the company's abandoned mascot. The blockchain went live on July 1 and has already seen significant activity. The memecoin's success is a notable example of the platform's early adoption.",
+    "content": "Robinhood’s choice to use Ethereum further solidifies its position as the “ultimate settlement layer and liquidity foundation for tokenized assets,” said HashKey Group’s Tim Sun.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-japan-robin-hood-join-trading-platform-l2.jpg",
+    "summary": "Robinhood Chain saw over $70M in ETH bridged during its first week, solidifying Ethereum's position as a settlement layer and liquidity foundation. This development is significant for the crypto community. Robinhood's choice to use Ethereum reflects the blockchain's growing importance.",
+    "importance": 8,
+    "classified": true
+  },
+  {
+    "title": "Zcash targets July 28 launch for Ironwood network upgrade",
+    "link": "https://cointelegraph.com/news/zcash-targets-july-28-launch-for-ironwood-network-upgrade?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Fri, 10 Jul 2026 04:25:27 +0000",
+    "source": "Cointelegraph",
+    "category": "crypto",
+    "content": "Zcash’s next upgrade will replace the once-compromised Orchard pool and may offer clues about whether counterfeit tokens were created via a recent bug.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/zcash.jpg",
+    "summary": "Zcash is planning to launch its Ironwood network upgrade on July 28, replacing the compromised Orchard pool. The upgrade may provide insight into whether counterfeit tokens were created due to a recent bug. This upgrade aims to improve the security of the Zcash network.",
+    "importance": 8,
+    "classified": true
+  },
+  {
+    "title": "Hackers tried to backdoor Injective npm package to steal wallet keys ",
+    "link": "https://cointelegraph.com/news/hackers-compromise-injective-npm-package-with-malware-to-steal-wallet-keys?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Fri, 10 Jul 2026 03:07:47 +0000",
+    "source": "Cointelegraph",
+    "category": "crypto",
+    "content": "The incident is significant for developers and applications that handle Injective wallet workflows, Socket researchers said.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/crimes-code-tweezers-theft-hack-hacker-red-wallet.jpg",
+    "summary": "Hackers attempted to backdoor the Injective npm package to gain access to wallet keys, posing a significant risk to developers and applications that handle Injective wallet workflows. Socket researchers discovered the incident, highlighting its importance for the security of wallet workflows. The attempt was ultimately unsuccessful.",
     "importance": 8,
     "classified": true
   },
@@ -372,38 +420,14 @@
     "classified": true
   },
   {
-    "title": "Crypto VC Paradigm raises $1.2B to push into AI",
-    "link": "https://cointelegraph.com/news/crypto-vc-paradigm-raises-12b-to-push-into-ai?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Thu, 09 Jul 2026 02:33:00 +0000",
-    "source": "Cointelegraph",
-    "category": "both",
-    "content": "Crypto venture firm Paradigm is widening its investment gaze toward AI and other frontier industries with its latest fund.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-can-the-eus-massive-investment-into-blockchain-ai-rd-save-us-from-the-tech-oligopoly1.jpg",
-    "summary": "Paradigm, a crypto venture firm, has raised $1.2B for its latest fund, which will be used to invest in AI and other frontier industries. This expansion marks a significant shift in the firm's investment focus. The fund will help bridge the gap between crypto and AI industries.",
-    "importance": 8,
-    "classified": true
-  },
-  {
-    "title": "Mark Cuban-backed DeFi dashboard Zapper shutters after 7 years",
-    "link": "https://cointelegraph.com/news/defi-dashboard-zapper-to-shut-down-after-seven-years?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Thu, 09 Jul 2026 02:32:20 +0000",
-    "source": "Cointelegraph",
+    "title": "Polymarket files applications to offer regulated margin trading in US",
+    "link": "https://www.theblock.co/post/407820/polymarket-margin-trading?utm_source=rss&utm_medium=rss",
+    "pubDate": "Fri, 10 Jul 2026 00:10:25 -0400",
+    "source": "The Block",
     "category": "crypto",
-    "content": "Zapper provided crypto market data to over 2 million monthly active users and oversaw more than $13 billion in processed transactions during its peak.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-defi-protocol-closed-blockchain.jpg",
-    "summary": "DeFi dashboard Zapper, backed by Mark Cuban, has shut down after 7 years of operation, having served over 2 million monthly active users and processed over $13 billion in transactions at its peak. The closure marks the end of an era for one of the pioneering platforms in the DeFi space. Zapper's demise may have significant implications for the cryptocurrency market.",
-    "importance": 8,
-    "classified": true
-  },
-  {
-    "title": "Bitcoin tumbles back to key $60K support level: What’s behind the sell pressure?",
-    "link": "https://cointelegraph.com/markets/bitcoin-tumbles-back-to-key-60k-support-level-whats-behind-the-sell-pressure?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Wed, 08 Jul 2026 21:55:17 +0000",
-    "source": "Cointelegraph",
-    "category": "crypto",
-    "content": "Bitcoin faces renewed sell pressure amid an oil price surge, Japan economic contagion risks and a fresh round of selling from Strategy.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/article-covers-247477-bitcoin-futures-data-shows-bears-gearing-up-for-an-assault-on-dollar60k.jpeg",
-    "summary": "Bitcoin's price has fallen back to the $60K support level due to various factors, including an oil price surge, economic contagion risks from Japan, and a fresh round of selling. The sell pressure has led to a decline in Bitcoin's value. The news may have significant implications for the cryptocurrency market.",
+    "content": "Polymarket's rival platform, Kalshi, already received US regulatory approval to provide margin trading back in March.",
+    "image": "https://www.tbstat.com/wp/uploads/2024/11/20241111_Polymarket_News_2-800x450.jpg",
+    "summary": "Polymarket has filed applications to offer regulated margin trading in the US, following in the footsteps of its rival Kalshi, which received approval in March. This move aims to provide a regulated platform for users to engage in margin trading. The development is significant for the crypto community.",
     "importance": 8,
     "classified": true
   },
@@ -560,30 +584,6 @@
     "content": "Stable Vaults will continuously “optimize capital allocation” across DeFi yield strategies, like Aave V3 and V4 markets.",
     "image": "https://www.tbstat.com/wp/uploads/2024/08/20240819_Aave_News_3-800x450.jpg",
     "summary": "Aave Labs has introduced Stable Vaults, a new product that offers predictable stablecoin yields to mainstream users by optimizing capital allocation across various DeFi yield strategies. This product aims to provide a more accessible and stable yield option for users. Stable Vaults will utilize Aave V3 and V4 markets to achieve this.",
-    "importance": 8,
-    "classified": true
-  },
-  {
-    "title": "CFTC Chair Selig warns regulators will end up ‘writing all the rules’ for crypto if Clarity Act stalls",
-    "link": "https://www.theblock.co/post/407703/cftc-chair-selig-warns-regulators-will-end-up-writing-all-the-rules-for-crypto-if-clarity-act-stalls?utm_source=rss&utm_medium=rss",
-    "pubDate": "Thu, 09 Jul 2026 07:42:34 -0400",
-    "source": "The Block",
-    "category": "crypto",
-    "content": "CFTC Chair Michael Selig warned regulators may end up writing crypto rules if Congress fails to pass the Clarity Act.",
-    "image": "https://www.tbstat.com/wp/uploads/2020/06/20200626_CFTC_-Daily-800x450.jpg",
-    "summary": "CFTC Chair Michael Selig warned that regulators may end up writing all the rules for crypto if Congress fails to pass the Clarity Act. This could impact the crypto industry's regulatory environment. The Clarity Act's fate is uncertain, leaving the industry's future rules in question.",
-    "importance": 8,
-    "classified": true
-  },
-  {
-    "title": "BitGo introduces quantum protection for institutional Bitcoin wallets",
-    "link": "https://www.theblock.co/post/407661/bitgo-quantum-protection-institutional-bitcoin-wallets?utm_source=rss&utm_medium=rss",
-    "pubDate": "Thu, 09 Jul 2026 07:05:02 -0400",
-    "source": "The Block",
-    "category": "crypto",
-    "content": "Some experts have argued the greater risks posed by quantum computing revolve around a failure to implement new technology.",
-    "image": "https://www.tbstat.com/wp/uploads/2024/12/bitgo-800x450.jpg",
-    "summary": "BitGo has introduced quantum protection for institutional Bitcoin wallets, addressing concerns about the risks posed by quantum computing to cryptocurrency security. This move aims to protect against potential quantum threats. The introduction of quantum protection is a significant development for Bitcoin security.",
     "importance": 8,
     "classified": true
   },
@@ -1152,6 +1152,18 @@
     "classified": true
   },
   {
+    "title": "Live markets: Bitcoin ETFs bleed again while ether funds snap a five-day inflow streak",
+    "link": "https://www.coindesk.com/tech/2026/07/10/live-markets-bitcoin-etfs-bleed-again-while-ether-funds-snap-a-five-day-inflow-streak",
+    "pubDate": "Fri, 10 Jul 2026 06:21:34 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "Spot bitcoin funds lost about $95 million on Thursday and ether funds roughly $52 million, ending the one bright spot in crypto's institutional flows even as prices rallied.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/ce22cd54d112b9f9c40a9eef43a8b6a775a1a992-2738x2054.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "On Thursday, spot Bitcoin funds experienced outflows of approximately $95 million, while ether funds saw roughly $52 million in outflows, ending their five-day inflow streak. These significant institutional outflows occurred despite a general rally in cryptocurrency prices.",
+    "importance": 7,
+    "classified": true
+  },
+  {
     "title": "New Hampshire snuffs out trailblazing state-government bitcoin bond effort",
     "link": "https://www.coindesk.com/policy/2026/07/09/new-hampshire-snuffs-out-trailblazing-bitcoin-municipal-bond-effort",
     "pubDate": "Thu, 09 Jul 2026 22:19:54 +0000",
@@ -1248,6 +1260,30 @@
     "classified": true
   },
   {
+    "title": "XRP up 2% as buyers push through $1.10 resistance",
+    "link": "https://www.coindesk.com/markets/2026/07/10/xrp-up-2-as-buyers-push-through-usd1-10-resistance",
+    "pubDate": "Fri, 10 Jul 2026 05:13:48 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "A late-session volume surge carried XRP above its recent range, with traders now watching whether $1.10 can hold as support.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/3335575b8017b2a144ef36b99906483e6efe6b5d-1400x866.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "XRP's price has increased by 2% after buyers pushed through the $1.10 resistance level, with traders now monitoring if this level can hold as support. The late-session volume surge led to this price movement. The cryptocurrency's next steps are being closely watched by traders.",
+    "importance": 6,
+    "classified": true
+  },
+  {
+    "title": "Bitcoin's quiet split: Strong in USD, lagging in JPY as Yen rises on intervention fears",
+    "link": "https://www.coindesk.com/markets/2026/07/10/bitcoin-s-quiet-split-strong-in-usd-lagging-in-jpy-as-yen-rises-on-intervention-fears",
+    "pubDate": "Fri, 10 Jul 2026 04:34:06 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "A sharp rise in the yen has left bitcoin and other major cryptocurrencies underperforming in yen terms compared with their dollar-based trading pairs.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/3c086f61e9c97a87a590441e5467e751f7438b20-4898x3265.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "Bitcoin is performing strongly in USD but lagging in JPY due to a sharp rise in the yen. This disparity is caused by intervention fears, affecting Bitcoin's value in yen terms. The difference highlights the impact of currency fluctuations on cryptocurrency trading pairs.",
+    "importance": 6,
+    "classified": true
+  },
+  {
     "title": "Bitcoin's dwindling exchange reserves don't pack the same bullish punch anymore",
     "link": "https://www.coindesk.com/markets/2026/07/09/bitcoin-s-dwindling-exchange-reserves-don-t-pack-the-same-bullish-punch-anymore",
     "pubDate": "Thu, 09 Jul 2026 08:43:01 +0000",
@@ -1256,18 +1292,6 @@
     "content": "Santiment reported that bitcoin supply is at its lowest since 2017 and ether since 2015, adding that it doesn’t guarantee prices will move higher but helps set up crypto’s next bull cycle.",
     "image": "https://cdn.sanity.io/images/s3y3vcno/production/512764685b1df5ccf52ac3418054cc12b66df880-6240x4160.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
     "summary": "Bitcoin's exchange reserves are at their lowest since 2017, and ether's reserves are at their lowest since 2015, according to Santiment. This development may contribute to the next bull cycle, but it doesn't guarantee higher prices. The dwindling reserves were once considered a bullish sign, but their impact has lessened over time.",
-    "importance": 6,
-    "classified": true
-  },
-  {
-    "title": "Live updates: Bitcoin rises to $63,000, oil and bond yields drop as markets look past latest Iran dustup",
-    "link": "https://www.coindesk.com/markets/2026/07/09/live-markets-bitcoin-etfs-slip-back-to-outflows-while-ether-funds-extend-their-streak",
-    "pubDate": "Thu, 09 Jul 2026 06:51:10 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "U.S. spot bitcoin ETFs lost a net $84 million on Wednesday, ending a three-day inflow run that had pulled in roughly $509 million",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/bbcbfcc3c2b1d31c49856b8826ea03a38b150fce-1500x1001.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "The US-Iran conflict has caused market volatility, with oil prices dropping. Meanwhile, US spot bitcoin ETFs saw a net loss of $84 million, ending a three-day inflow streak. This loss follows a period where $509 million was invested.",
     "importance": 6,
     "classified": true
   },
@@ -1356,14 +1380,14 @@
     "classified": true
   },
   {
-    "title": "Crypto could benefit if Fed steps in to backstop US stock market: Analysts",
-    "link": "https://cointelegraph.com/news/crypto-could-benefit-if-fed-steps-in-to-backstop-us-stock-market-analysts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Thu, 09 Jul 2026 01:32:12 +0000",
-    "source": "Cointelegraph",
+    "title": "North Carolina passes bill recognizing CFTC preemption over prediction markets",
+    "link": "https://www.theblock.co/post/407830/north-carolina-cftc-preemption-prediction-markets?utm_source=rss&utm_medium=rss",
+    "pubDate": "Fri, 10 Jul 2026 01:51:59 -0400",
+    "source": "The Block",
     "category": "crypto",
-    "content": "The size and scope of the US stock market “gives policymakers a strong incentive to backstop major drawdowns,” said Bitget Wallet COO, Alvin Kan.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-impact-of-fed-interest-rates-on-crypto-holders-2.jpg",
-    "summary": "Analysts suggest that the cryptocurrency market stands to gain if the US Federal Reserve intervenes to support the stock market during significant downturns. Bitget Wallet COO Alvin Kan highlights the strong incentive for policymakers to backstop major drawdowns in the large US stock market.",
+    "content": "North Carolina's new law taxes prediction market platforms at 6% of their net trading fee revenue that is attributable to North Carolina residents.",
+    "image": "https://www.tbstat.com/wp/uploads/2026/01/20260120_Prediction-Markets_News_2-800x450.jpg",
+    "summary": "North Carolina has passed a bill that recognizes the Commodity Futures Trading Commission's (CFTC) preemption over prediction markets and imposes a 6% tax on prediction market platforms' net trading fee revenue from state residents. This law affects how prediction markets operate in the state. The move may have implications for the broader regulatory environment of prediction markets.",
     "importance": 6,
     "classified": true
   },
@@ -1593,30 +1617,6 @@
     "image": "https://cdn.sanity.io/images/s3y3vcno/production/5732b301d15fada3b0745800f06ab416d2311b05-2400x1350.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
     "summary": "The news article's title, 'Pricing houses in bitcoin exposes dollar's loss of value,' suggests a discussion on using Bitcoin for real estate transactions to highlight the depreciation of the US dollar. However, the provided content is merely a placeholder stating 'Your day-ahead look for July 9, 2026,' offering no actual details or analysis on the stated topic.",
     "importance": 3,
-    "classified": true
-  },
-  {
-    "title": "XRP holds near $1.10 as traders watch long-term breakout setup",
-    "link": "https://www.coindesk.com/markets/2026/07/09/xrp-holds-near-usd1-10-as-traders-watch-long-term-breakout-setup",
-    "pubDate": "Thu, 09 Jul 2026 05:07:11 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "XRP defended the $1.00-$1.05 support zone, but the near-term chart remains capped below resistance as analysts track larger wedge and channel patterns.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/4fcddf8c056c654e5088667bee415a130229b5a9-1196x744.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "XRP successfully defended its $1.00-$1.05 support zone, maintaining its price level despite facing immediate resistance on its short-term chart. Traders and analysts are now closely observing larger technical patterns, such as wedge and channel formations, for indications of a potential long-term breakout.",
-    "importance": 3,
-    "classified": true
-  },
-  {
-    "title": "Bank of Japan may speed up rate hikes, pushing borrowing costs above 2%, ex-BOJ official warns",
-    "link": "https://www.coindesk.com/markets/2026/07/09/bank-of-japan-may-speed-up-rate-hikes-pushing-borrowing-costs-above-2-ex-boj-official-warns",
-    "pubDate": "Thu, 09 Jul 2026 06:42:09 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "Former BOJ official issues interest-rate warning as yen continues to slide against the dollar.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/c8c93b03e50b546e9a09a9b174568777709ef2d3-1920x1080.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "A former Bank of Japan official warned that the bank may speed up its interest rate hikes, potentially pushing borrowing costs above 2%, due to the yen's continued decline against the dollar. This warning comes as the yen slides against the US currency. The warning may impact Japan's economy and monetary policy.",
-    "importance": 2,
     "classified": true
   },
   {
