@@ -48,18 +48,6 @@
     "classified": true
   },
   {
-    "title": "Tokenized stock transfers surge 105% in a month to $8.4B",
-    "link": "https://cointelegraph.com/news/tokenized-stock-transfers-surge-105-in-a-month-to-84b?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Wed, 08 Jul 2026 20:29:10 +0000",
-    "source": "Cointelegraph",
-    "category": "crypto",
-    "content": "Industry data shows trading activity and market value accelerating as crypto companies and traditional financial institutions expand tokenized equity initiatives.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-the-biggest-challenge-for-crypto-exchanges-is-global-price-fragmentation-2.png",
-    "summary": "Tokenized stock transfers have seen a significant surge, increasing by 105% in a single month to reach $8.4 billion. This acceleration in trading activity and market value indicates a growing trend, driven by both crypto companies and traditional financial institutions expanding their tokenized equity initiatives.",
-    "importance": 9,
-    "classified": true
-  },
-  {
     "title": "Anthropic, OpenAI, and SpaceX are bigger than the last 25 years of tech exits",
     "link": "https://techcrunch.com/2026/07/09/anthropic-openai-and-spacex-are-bigger-than-the-last-25-years-of-tech-exits/",
     "pubDate": "Thu, 09 Jul 2026 14:51:00 +0000",
@@ -744,7 +732,43 @@
     "classified": true
   },
   {
-    "title": "An AI agent startup just let its agent run its $100 million fundraise",
+    "title": "OpenAI says GPT 5.6 is the ‘preferred model’ for Microsoft Copilot 365 amid breakup chatter",
+    "link": "https://techcrunch.com/2026/07/09/openai-says-gpt-5-6-is-the-preferred-model-for-microsoft-copilot-amid-breakup-chatter/",
+    "pubDate": "Fri, 10 Jul 2026 00:16:54 +0000",
+    "source": "TechCrunch AI",
+    "category": "ai",
+    "content": "OpenAI's new family of models will continue to power Microsoft's suite of workplace and productivity apps.",
+    "image": "",
+    "summary": "OpenAI's new models, including GPT 5.6, will continue to power Microsoft's workplace and productivity apps, amid speculation of a potential breakup between the two companies. This ensures continuity for Microsoft's Copilot 365. The partnership remains intact for now.",
+    "importance": 8,
+    "classified": true
+  },
+  {
+    "title": "Fidji Simo steps down from OpenAI’s no. 2 role",
+    "link": "https://techcrunch.com/2026/07/09/fidji-simo-steps-down-from-openais-no-2-role/",
+    "pubDate": "Thu, 09 Jul 2026 23:38:00 +0000",
+    "source": "TechCrunch AI",
+    "category": "ai",
+    "content": "OpenAI's No. 2 executive, Fidji Simo, is stepping down from her full-time role after her medical leave proved longer than expected — a leadership vacuum that comes at a tricky time as the company eyes a possible IPO and races to catch Anthropic in the enterprise market.",
+    "image": "",
+    "summary": "Fidji Simo, OpenAI's No. 2 executive, is stepping down from her role after a longer-than-expected medical leave, creating a leadership vacuum at a crucial time for the company. OpenAI is considering an IPO and competing with Anthropic in the enterprise market. This change may impact OpenAI's strategic direction and growth plans.",
+    "importance": 8,
+    "classified": true
+  },
+  {
+    "title": "OpenAI launches its new family of models with GPT-5.6",
+    "link": "https://techcrunch.com/2026/07/09/openai-launches-its-new-family-of-models-with-gpt-5-6/",
+    "pubDate": "Thu, 09 Jul 2026 22:24:24 +0000",
+    "source": "TechCrunch AI",
+    "category": "ai",
+    "content": "OpenAI's latest family of models promises improvements across a range of areas, including cybersecurity.",
+    "image": "",
+    "summary": "OpenAI has launched a new family of models, GPT-5.6, which promises improvements in various areas, including cybersecurity. The new models are expected to enhance performance and capabilities. This launch is a significant update from OpenAI.",
+    "importance": 8,
+    "classified": true
+  },
+  {
+    "title": "An AI agent startup just let its agent run its $100M fundraise",
     "link": "https://techcrunch.com/2026/07/09/an-ai-agent-startup-just-let-its-agent-run-its-100-million-fundraise/",
     "pubDate": "Thu, 09 Jul 2026 22:08:58 +0000",
     "source": "TechCrunch AI",
@@ -912,26 +936,14 @@
     "classified": true
   },
   {
-    "title": "Google’s deepfake detector system used to debunk McConnell hoax pic",
-    "link": "https://techcrunch.com/2026/07/08/googles-deepfake-detector-system-used-to-debunk-mcconnell-hoax-pic/",
-    "pubDate": "Wed, 08 Jul 2026 20:37:03 +0000",
-    "source": "TechCrunch AI",
+    "title": "Fidji Simo steps down from leading OpenAI’s AGI work due to illness",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/963738/openai-fidji-simo-steps-down-ceo-advisor",
+    "pubDate": "2026-07-09T23:24:04.000Z",
+    "source": "The Verge AI",
     "category": "ai",
-    "content": "Earlier this week, a picture seemed to show Kentucky Senator Mitch McConnell covered in tubes in a hospital bed in a state of extreme distress. It turned out to be an AI-generated fake.",
-    "image": "",
-    "summary": "A fake image of Senator Mitch McConnell in a hospital bed was debunked as an AI-generated deepfake, using Google's deepfake detector system. The image had appeared to show McConnell in a state of extreme distress. The incident highlights the potential for AI-generated fakes to spread misinformation.",
-    "importance": 8,
-    "classified": true
-  },
-  {
-    "title": "SpaceXAI releases Grok 4.5, which Elon describes as an ‘Opus-class model’",
-    "link": "https://techcrunch.com/2026/07/08/spacexai-releases-grok-4-5-which-elon-describes-as-an-opus-class-model/",
-    "pubDate": "Wed, 08 Jul 2026 19:30:16 +0000",
-    "source": "TechCrunch AI",
-    "category": "ai",
-    "content": "Elon Musk's tech company released the newest version of Grok on Wednesday, promising a cheaper, more efficient alternative to other powerful AI models.",
-    "image": "",
-    "summary": "SpaceXAI has released Grok 4.5, described by Elon Musk as an 'Opus-class model', offering a cheaper and more efficient alternative to other powerful AI models. This new version aims to provide a more cost-effective solution for AI applications. The release is seen as a significant development in the field of artificial intelligence.",
+    "content": "OpenAI's Fidji Simo is departing her full-time role as the company's AGI chief and is transitioning to being a \"part-time advisor,\" she said on X.\nThe news follows Simo's original announcement in April that she would take a few weeks of medical leave due to a neuroimmune condition, shortly after she had taken on the AGI chief title. (She had formerly been the company's CEO of applications). Around the same time, COO Brad Lightcap also stepped down from his role to focus on \"special projects,\" and OpenAI CMO Kate Rouch also stepped down in order to focus on her health. Rouch planned to return to a \"more narrowly scoped role\" when her health  …\nRead the full story at The Verge.",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/gettyimages-1239232101.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "summary": "Fidji Simo, OpenAI's AGI chief, is stepping down due to a neuroimmune condition and will transition to a part-time advisor role. She had taken on the AGI chief title after previously serving as CEO of applications. The move follows other recent departures from OpenAI, including COO Brad Lightcap and CMO Kate Rouch.",
     "importance": 8,
     "classified": true
   },
@@ -1004,30 +1016,6 @@
     "content": "Gopher can’t play the piano for you, but it can bury it in the mix. | Image: Image Line\t\n\nLast year, Image Line introduced Gopher for FL Studio, an AI chatbot that was basically a glorified instruction manual. You asked it how to do something, and it would serve up the relevant instructions. It's the kind of thing I actually use AI for on a semi-regular basis. But in the new release, Gopher can actually execute actions on your behalf. I was able to ask Gopher to lay down a four-on-the-floor kick, with snares on the backbeat, then add a gated reverb on the snare for that '80s pomp, and it executed the instructions flawlessly. \nGopher does have some limitations. It can't create and draw automation for you. It can't insert notes or …\nRead the full story at The Verge.",
     "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Hands-on-assistance-built-in.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
     "summary": "FL Studio 2026 has updated its AI chatbot, Gopher, to execute actions on behalf of the user, such as laying down a kick drum and adding gated reverb. Gopher can now assist with tasks, but has limitations, like not being able to create automation or insert notes. This update makes Gopher a more useful tool for musicians and producers.",
-    "importance": 8,
-    "classified": true
-  },
-  {
-    "title": "ChatGPT’s upgraded voice mode is better at shutting up",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/962856/chatgpt-upgraded-voice-mode-gpt-live",
-    "pubDate": "2026-07-08T17:00:00.000Z",
-    "source": "The Verge AI",
-    "category": "ai",
-    "content": "OpenAI is overhauling ChatGPT's voice mode with a new model that it says is more like \"talking to another person.\" The new GPT-Live-1 is designed to interrupt you less and will also wait for you to continue speaking if you pause mid-conversation.\nDuring a press briefing, OpenAI research lead Kundan Kumar called GPT-Live-1 the company's \"smartest voice model\" yet. It will automatically pass your queries to its best text models, like GPT-5.5, when it needs to reason or search the web, allowing it to more quickly transition from researching the topic you've asked about to talking about its findings. The upgraded model will also supplement conv …\nRead the full story at The Verge.",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/chatgpt-voice-upgrade.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "summary": "OpenAI has upgraded ChatGPT's voice mode with a new model called GPT-Live-1, which is designed to interrupt less and have more human-like conversations. The model can automatically pass queries to its best text models for reasoning and web searches. This upgrade aims to make conversations with ChatGPT feel more natural.",
-    "importance": 8,
-    "classified": true
-  },
-  {
-    "title": "Meta’s new Muse Image model can pull other Instagram users into AI photos",
-    "link": "https://www.theverge.com/tech/962485/meta-muse-image-ai-model-instagram",
-    "pubDate": "2026-07-07T20:31:58.000Z",
-    "source": "The Verge AI",
-    "category": "ai",
-    "content": "Meta is launching the first AI image generation model made by its Superintelligence Labs division. The Muse Image model now powers the image-making tools across the Meta AI app, Instagram, and WhatsApp, and it's coming soon to Facebook and Messenger, according to an announcement on Tuesday.\nIt's part of the growing Muse family of AI models that replace Meta's Llama lineup. Alexandr Wang, who Meta hired to head up its Superintelligence Labs last year, says on Threads that Muse Image is \"agentic,\" meaning it works with its Muse Spark large language model \"to reason through your prompt, search the web, and plan before it generates.\" Meta is al …\nRead the full story at The Verge.",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/meta-muse-image-instagram-tag.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "summary": "Meta is launching Muse Image, an AI image generation model that can pull other Instagram users into AI photos, as part of its growing Muse family of AI models. The model is now available across Meta's platforms, including Instagram and WhatsApp. It is described as 'agentic', working with a large language model to reason through prompts and generate images.",
     "importance": 8,
     "classified": true
   },
@@ -1164,6 +1152,18 @@
     "classified": true
   },
   {
+    "title": "New Hampshire snuffs out trailblazing state-government bitcoin bond effort",
+    "link": "https://www.coindesk.com/policy/2026/07/09/new-hampshire-snuffs-out-trailblazing-bitcoin-municipal-bond-effort",
+    "pubDate": "Thu, 09 Jul 2026 22:19:54 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "At its last stage for government approval, the state's executive council rejected the bond project 3-2.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/af06ac0249ce8e16b83b49c0a2feb7f50b918760-2400x1350.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "New Hampshire's executive council rejected a pioneering state-government bitcoin bond project in a 3-2 vote. This decision, made at its last stage for government approval, effectively snuffs out the effort to integrate cryptocurrency into state financial operations.",
+    "importance": 7,
+    "classified": true
+  },
+  {
     "title": "With SEC fight over, Coinbase's top legal exec Grewal moves on, and others reassigned ",
     "link": "https://www.coindesk.com/policy/2026/07/09/with-sec-fight-over-coinbase-s-top-legal-exec-grewal-moves-on-and-others-reassigned",
     "pubDate": "Thu, 09 Jul 2026 20:31:39 +0000",
@@ -1272,14 +1272,14 @@
     "classified": true
   },
   {
-    "title": "Bitcoin, ether steady, gold slides as U.S.-Iran tensions escalate again",
-    "link": "https://www.coindesk.com/markets/2026/07/09/bitcoin-ether-steady-gold-slides-as-us-iran-tensions-escalate-again",
-    "pubDate": "Thu, 09 Jul 2026 04:57:35 +0000",
-    "source": "CoinDesk",
+    "title": "DeFi may be ‘quietly re-rating’ given outperformance against Bitcoin: Bitwise",
+    "link": "https://cointelegraph.com/news/defi-quietly-re-rating-holds-up-unusually-well-in-downturn-bitwise?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Fri, 10 Jul 2026 02:30:44 +0000",
+    "source": "Cointelegraph",
     "category": "crypto",
-    "content": "Oil climbed for a third day and gold fell for a fourth while bitcoin is up 1.6% on the week.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/f1989cca173a6179b4bf2c5e784f3cb6ef51c75a-1000x668.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "Bitcoin and ether prices remain steady despite escalating US-Iran tensions, while gold prices slide. Oil prices have climbed for a third day. The geopolitical tensions have had a mixed impact on global markets.",
+    "content": "“DeFi usually swings much harder than Bitcoin, so holding up this well is unusual,” says Bitwise, as DeFi tokens have outperformed Bitcoin.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/defi-adoption-survey-by-ct-consulting1.jpg",
+    "summary": "DeFi tokens have outperformed Bitcoin, with Bitwise noting this is unusual as DeFi typically experiences more volatility than Bitcoin. This outperformance may indicate a 'quietly re-rating' of DeFi. Bitwise finds this trend noteworthy given the usual price movements of DeFi and Bitcoin.",
     "importance": 6,
     "classified": true
   },
@@ -1656,14 +1656,14 @@
     "classified": true
   },
   {
-    "title": "Lovable reportedly in talks to double its valuation to $13.2B",
-    "link": "https://techcrunch.com/2026/07/08/lovable-reportedly-in-talks-to-double-its-valuation-to-13-2b/",
-    "pubDate": "Wed, 08 Jul 2026 22:41:33 +0000",
-    "source": "TechCrunch AI",
-    "category": "crypto",
-    "content": "The $300 million round is expected to be led by Menlo Ventures, Sifted reported.",
-    "image": "",
-    "summary": "Lovable is reportedly in talks to double its valuation to $13.2B through a $300 million funding round led by Menlo Ventures. This significant investment could indicate a major expansion for the company. The deal's details have been reported by Sifted.",
+    "title": "Microsoft’s carbon emissions went up 25 percent last year",
+    "link": "https://www.theverge.com/tech/963728/microsoft-sustainability-report-2026",
+    "pubDate": "2026-07-10T00:04:13.000Z",
+    "source": "The Verge AI",
+    "category": "ai",
+    "content": "Microsoft may once again be struggling to keep up with its own climate goals, according to its 2026 sustainability report. As reported by GeekWire, the report states that Microsoft's carbon emissions increased 25 percent in 2025, totalling 34 million metric tons \"without select interventions.\" Microsoft says this was \"driven primarily by the expansion of our datacenter infrastructure,\" as well as the company's decision last February to stop purchasing \"non-additional, unbundled renewable energy certificates.\" \nSeveral years ago, Microsoft set itself a goal to be carbon negative by 2030, meaning it will need to remove more carbon emissions t …\nRead the full story at The Verge.",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STKS528_DATA_CENTERS_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "summary": "Microsoft's carbon emissions increased by 25% in 2025, driven by datacenter infrastructure expansion, according to its 2026 sustainability report. The company aims to be carbon negative by 2030. This increase may impact Microsoft's climate goals.",
     "importance": 2,
     "classified": true
   },
