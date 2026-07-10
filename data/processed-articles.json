@@ -1,5 +1,17 @@
 [
   {
+    "title": "OKX, MetaMask, Matter Labs back dispute resolution court for AI agents",
+    "link": "https://www.coindesk.com/business/2026/07/10/okx-metamask-matter-labs-back-dispute-resolution-court-for-ai-agents",
+    "pubDate": "Fri, 10 Jul 2026 12:29:08 +0000",
+    "source": "CoinDesk",
+    "category": "both",
+    "content": "The Genlayer Foundation is leading the 27-firm consortium that makes AI-based payments, escrow and dispute resolution interoperable.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/c4b55ff67ef1d065e3e2e556ba0209a416b27d44-2048x1365.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "The Genlayer Foundation, supported by OKX, MetaMask, and Matter Labs, is leading a consortium of 27 firms to create a dispute resolution court for AI agents. This initiative aims to make AI-based payments, escrow, and dispute resolution systems interoperable across various platforms.",
+    "importance": 9,
+    "classified": true
+  },
+  {
     "title": "AI contracts, not bitcoin, now drive miner valuations, and Cipher and TeraWulf look cheap, says analyst",
     "link": "https://www.coindesk.com/markets/2026/07/09/cipher-terawulf-among-ai-infrastructure-stocks-trading-below-contract-value-compass-point-argues",
     "pubDate": "Thu, 09 Jul 2026 15:53:42 +0000",
@@ -36,6 +48,18 @@
     "classified": true
   },
   {
+    "title": "Will the crypto lobby's $189M campaign get CLARITY over the line?",
+    "link": "https://cointelegraph.com/features/how-crypto-built-political-influence-in-washington?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Fri, 10 Jul 2026 13:30:00 +0000",
+    "source": "Cointelegraph",
+    "category": "crypto",
+    "content": "As the CLARITY Act advances, crypto's growing political influence in Washington is under scrutiny. But the crypto lobby's massive campaign spend is only part of the story.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/crypto-lobby.jpg",
+    "summary": "The CLARITY Act's progression is drawing attention to the crypto industry's increasing political influence and substantial lobbying expenditures in Washington D.C. The article examines the impact of this extensive campaign on potential legislative outcomes.",
+    "importance": 9,
+    "classified": true
+  },
+  {
     "title": "Anthropic, OpenAI, and SpaceX are bigger than the last 25 years of tech exits",
     "link": "https://techcrunch.com/2026/07/09/anthropic-openai-and-spacex-are-bigger-than-the-last-25-years-of-tech-exits/",
     "pubDate": "Thu, 09 Jul 2026 14:51:00 +0000",
@@ -48,7 +72,7 @@
     "classified": true
   },
   {
-    "title": "Circle secures U.S. trust bank approval in crypto expansion",
+    "title": "Circle soars after securing U.S. trust bank approval in crypto expansion",
     "link": "https://www.coindesk.com/business/2026/07/10/circle-secures-u-s-trust-bank-approval-in-crypto-expansion",
     "pubDate": "Fri, 10 Jul 2026 11:41:47 +0000",
     "source": "CoinDesk",
@@ -132,14 +156,14 @@
     "classified": true
   },
   {
-    "title": "Latin America’s biggest stock exchange now offers options on bitcoin, ether and solana futures",
-    "link": "https://www.coindesk.com/business/2026/07/09/brazil-s-b3-exchange-introduces-options-on-bitcoin-ether-and-solana-futures",
-    "pubDate": "Thu, 09 Jul 2026 10:55:37 +0000",
-    "source": "CoinDesk",
+    "title": "MiCA licensing only the beginning as crypto custodians face scrutiny",
+    "link": "https://cointelegraph.com/news/mica-only-beginning-crypto-custodians-scrutiny?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Fri, 10 Jul 2026 13:54:50 +0000",
+    "source": "Cointelegraph",
     "category": "crypto",
-    "content": "These options settle into underlying futures contracts rather than spot cryptoassets, involving no custody, transfer, or administration of tokens.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/be0e667e7a0f396423e473f055c59473fd4490e7-2560x1701.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "Latin America's largest stock exchange has launched options on futures contracts for Bitcoin, Ether, and Solana. These new financial instruments settle into underlying futures contracts, rather than spot cryptoassets, eliminating the need for token custody, transfer, or administration.",
+    "content": "A MiCA license allows crypto firms to operate in the EU, but the ESMA’s review will test whether custodians can meet the required security and resilience standards.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/cia2.jpg",
+    "summary": "While a MiCA license permits crypto firms to operate in the EU, it's merely the initial step for market entry. The ESMA will conduct further reviews to test whether these crypto custodians meet stringent security and resilience standards, indicating ongoing regulatory scrutiny beyond initial licensing.",
     "importance": 8,
     "classified": true
   },
@@ -180,7 +204,7 @@
     "classified": true
   },
   {
-    "title": "Bitcoin returns to $64.3K with new three-week BTC price highs imminent",
+    "title": "Bitcoin returns to $64.3K with new 3-week BTC price highs imminent",
     "link": "https://cointelegraph.com/markets/bitcoin-returns-to-64k-with-three-week-btc-price-highs-imminent?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "pubDate": "Fri, 10 Jul 2026 09:32:23 +0000",
     "source": "Cointelegraph",
@@ -228,7 +252,7 @@
     "classified": true
   },
   {
-    "title": "Hackers tried to backdoor Injective npm package to steal wallet keys ",
+    "title": "Hackers tried to backdoor Injective NPM package to steal wallet keys ",
     "link": "https://cointelegraph.com/news/hackers-compromise-injective-npm-package-with-malware-to-steal-wallet-keys?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "pubDate": "Fri, 10 Jul 2026 03:07:47 +0000",
     "source": "Cointelegraph",
@@ -336,38 +360,26 @@
     "classified": true
   },
   {
-    "title": "Bitcoin ETFs end 'most overwhelming' $2.7B sell-off amid new $85M net outflow",
-    "link": "https://cointelegraph.com/markets/bitcoin-etfs-end-most-overwhelming-sell-off-amid-new-85m-net-outflow?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Thu, 09 Jul 2026 09:58:07 +0000",
-    "source": "Cointelegraph",
+    "title": "Binance co-CEO says 70% of EU withdrawals went to self-custody after MiCA deadline, with just 30% going to licensed platforms",
+    "link": "https://www.theblock.co/post/407888/binance-co-ceo-says-70-of-eu-withdrawals-went-to-self-custody-after-mica-deadline-with-just-30-going-to-licensed-platforms?utm_source=rss&utm_medium=rss",
+    "pubDate": "Fri, 10 Jul 2026 09:17:52 -0400",
+    "source": "The Block",
     "category": "crypto",
-    "content": "Bitcoin spot ETFs posted a fresh net outflow on Wednesday as analysis said that their \"most overwhelming\" outflow streak had ended without a clear demand recovery.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/photo5366486023912757477y.jpg",
-    "summary": "Bitcoin spot ETFs experienced a significant net outflow of $2.7B, with a new $85M net outflow on Wednesday, ending their most overwhelming outflow streak without a clear demand recovery. The outflows indicate a lack of investor confidence in Bitcoin. The ETFs are still waiting for a demand recovery.",
+    "content": "Richard Teng said 70% of EU user withdrawals following its service suspension moved to self-custody rather than MiCA-regulated platforms.",
+    "image": "https://www.tbstat.com/wp/uploads/2024/11/20241127_Binance_News_4-800x450.jpg",
+    "summary": "Binance's co-CEO, Richard Teng, reported that 70% of EU user withdrawals after the MiCA deadline opted for self-custody wallets instead of regulated platforms. This highlights a significant preference among users for decentralized control in response to new European cryptocurrency regulations.",
     "importance": 8,
     "classified": true
   },
   {
-    "title": "Swift launches blockchain ledger with 17-bank tokenized deposit pilot",
-    "link": "https://cointelegraph.com/news/swift-launches-blockchain-announces-tokenized-deposit-pilot-with-17-banks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Thu, 09 Jul 2026 08:51:48 +0000",
-    "source": "Cointelegraph",
-    "category": "both",
-    "content": "Swift launched its new blockchain ledger that will host a tokenized bank deposit pilot for 17 major banks seeking faster cross-border payments.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-time-to-challenge-swift.jpg",
-    "summary": "SWIFT has launched a blockchain ledger to facilitate faster cross-border payments through a tokenized bank deposit pilot with 17 major banks. This pilot aims to improve the efficiency of international transactions. The use of blockchain technology has the potential to significantly enhance the speed and security of these payments.",
-    "importance": 8,
-    "classified": true
-  },
-  {
-    "title": "Regulators invited Binance to seek new licenses after MiCA setback, co-CEO says",
-    "link": "https://cointelegraph.com/news/regulators-invite-binance-seek-new-license-mica-setback-teng?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Thu, 09 Jul 2026 08:26:30 +0000",
-    "source": "Cointelegraph",
+    "title": "‘Communication challenge, nothing more’: Standard Chartered keeps $100,000 bitcoin target, calls Strategy selloff a signaling problem",
+    "link": "https://www.theblock.co/post/407884/communication-challenge-nothing-more-standard-chartered-keeps-100000-bitcoin-target-calls-strategy-selloff-a-signaling-problem?utm_source=rss&utm_medium=rss",
+    "pubDate": "Fri, 10 Jul 2026 08:46:18 -0400",
+    "source": "The Block",
     "category": "crypto",
-    "content": "Binance is exploring new licensing paths into Europe while continuing to expand its regulatory footprint in Asia, says co-CEO Richard Teng.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-the-emergence-of-bnb-as-a-global-defi-infrastructure-1.jpg",
-    "summary": "Binance co-CEO Richard Teng announced the company is seeking new licenses in Europe after a setback with MiCA, while expanding its regulatory presence in Asia. This move indicates Binance's efforts to comply with regulatory requirements and increase its global presence. The company is exploring alternative licensing paths in Europe.",
+    "content": "Standard Chartered retained its $100,000 end-2026 bitcoin target, calling Strategy's STRC pivot a signaling problem, not a solvency one.",
+    "image": "https://www.tbstat.com/wp/uploads/2025/12/20251208_Microstrategy_News_2-800x450.jpg",
+    "summary": "Standard Chartered has maintained its target of bitcoin reaching $100,000 by the end of 2026, despite recent market fluctuations. The company believes Strategy's pivot is a signaling problem, not a solvency issue. This suggests that Standard Chartered remains optimistic about bitcoin's long-term potential.",
     "importance": 8,
     "classified": true
   },
@@ -480,26 +492,14 @@
     "classified": true
   },
   {
-    "title": "Supreme Court ruling expanding Trump’s authority over federal agencies raises questions for SEC, CFTC as crypto rulemaking advances",
-    "link": "https://www.theblock.co/post/407750/supreme-court-ruling-expanding-trumps-authority-over-federal-agencies-raises-questions-for-sec-cftc-as-crypto-rulemaking-advances?utm_source=rss&utm_medium=rss",
-    "pubDate": "Thu, 09 Jul 2026 10:56:38 -0400",
-    "source": "The Block",
+    "title": "Bitcoin is “A Screaming Buy”: Standard Chartered Backs $100,000 Target, Shrugs Off Strategy (MSTR) Sell-Off",
+    "link": "https://bitcoinmagazine.com/news/bitcoin-screaming-buy-standard-chartered",
+    "pubDate": "Fri, 10 Jul 2026 13:49:38 +0000",
+    "source": "Bitcoin Magazine",
     "category": "crypto",
-    "content": "A recent Supreme Court ruling expanding President Trump's authority to remove leaders of many agencies could have broader implications.",
-    "image": "https://www.tbstat.com/wp/uploads/2025/06/20250602_Trump_News_3-800x450.jpg",
-    "summary": "The Supreme Court has expanded President Trump's authority over federal agencies, raising questions about the impact on the SEC and CFTC as they advance in crypto rulemaking. This ruling could have broader implications for the regulatory landscape of cryptocurrency. The decision may affect the leadership and decision-making processes of these agencies.",
-    "importance": 8,
-    "classified": true
-  },
-  {
-    "title": "MARA gains 14% after unveiling 2 GW Texas AI and bitcoin mining campus plan",
-    "link": "https://www.theblock.co/post/407730/mara-stock-gains-unveiling-2-gw-texas-ai-bitcoin-mining-campus-plan?utm_source=rss&utm_medium=rss",
-    "pubDate": "Thu, 09 Jul 2026 10:38:29 -0400",
-    "source": "The Block",
-    "category": "both",
-    "content": "The deal isn't an upfront purchase, but is structured instead as up to $600 million in milestone-based payments",
-    "image": "https://www.tbstat.com/wp/uploads/2026/04/20260428_Mara_News-800x450.jpg",
-    "summary": "MARA has announced plans for a 2 GW Texas campus that will focus on AI and bitcoin mining, with milestone-based payments of up to $600 million. This project combines artificial intelligence and cryptocurrency mining. The company's stock has risen 14% following the announcement.",
+    "content": "Bitcoin Magazine\n\nBitcoin is “A Screaming Buy”: Standard Chartered Backs $100,000 Target, Shrugs Off Strategy (MSTR) Sell-Off\nStandard Chartered reaffirmed its $100,000 end-2026 Bitcoin price target, calling Bitcoin \"a screaming buy\" and arguing that Strategy's recent sell-off reflects a communication issue around its new monetization strategy rather than a weakening Bitcoin outlook.\nThis post Bitcoin is “A Screaming Buy”: Standard Chartered Backs $100,000 Target, Shrugs Off Strategy (MSTR) Sell-Off first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
+    "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/07/Bitcoin-is-22A-Screaming-Buy22-Standard-Chartered-Backs-100000-Target-Shrugs-Off-Strategy-MSTR-Sell-Off.jpg",
+    "summary": "Standard Chartered has reaffirmed its $100,000 Bitcoin price target by the end of 2026, calling it a 'screaming buy'. The company attributes Strategy's recent sell-off to a communication issue, not a weakening Bitcoin outlook. This suggests a positive outlook for Bitcoin's future value.",
     "importance": 8,
     "classified": true
   },
@@ -588,6 +588,18 @@
     "classified": true
   },
   {
+    "title": "The Download: Claude’s inner workings and OpenAI’s “super app”",
+    "link": "https://www.technologyreview.com/2026/07/10/1140316/the-download-anthropic-claude-hidden-space-openai-super-app/",
+    "pubDate": "Fri, 10 Jul 2026 12:10:00 +0000",
+    "source": "MIT Technology Review",
+    "category": "ai",
+    "content": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Anthropic found a hidden space where Claude puzzles over concepts The AI firm Anthropic has got the clearest glimpse yet at what’s really going on inside large language models as they…",
+    "image": "https://wp.technologyreview.com/wp-content/uploads/2025/08/PigeonIntoMissile.edit_.jpg?w=3000",
+    "summary": "Anthropic has gained insight into the inner workings of large language models, including Claude, by finding a hidden space where they process concepts. This discovery sheds light on how these models think and understand information. The finding is significant for the development of AI technology.",
+    "importance": 8,
+    "classified": true
+  },
+  {
     "title": "Anthropic found a hidden space where Claude puzzles over concepts",
     "link": "https://www.technologyreview.com/2026/07/09/1140293/anthropic-found-a-hidden-space-where-claude-puzzles-over-concepts/",
     "pubDate": "Thu, 09 Jul 2026 20:22:28 +0000",
@@ -636,18 +648,6 @@
     "classified": true
   },
   {
-    "title": "Your family’s $300 stake in OpenAI",
-    "link": "https://www.technologyreview.com/2026/07/06/1140176/your-familys-300-stake-in-openai/",
-    "pubDate": "Mon, 06 Jul 2026 18:00:00 +0000",
-    "source": "MIT Technology Review",
-    "category": "ai",
-    "content": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. OpenAI CEO Sam Altman’s oft-discussed promise that Americans will share in the wealth AI creates was in the news again last week. On Thursday, the Financial Times reported that Altman is in…",
-    "image": "",
-    "summary": "OpenAI CEO Sam Altman has reiterated his promise that Americans will share in the wealth AI creates, with an estimated $300 stake per family, according to a report by the Financial Times. The report suggests that Altman is working on a plan to distribute the wealth generated by AI. This move could have significant implications for the AI community.",
-    "importance": 8,
-    "classified": true
-  },
-  {
     "title": "OpenAI says GPT 5.6 is the ‘preferred model’ for Microsoft Copilot 365 amid breakup chatter",
     "link": "https://techcrunch.com/2026/07/09/openai-says-gpt-5-6-is-the-preferred-model-for-microsoft-copilot-amid-breakup-chatter/",
     "pubDate": "Fri, 10 Jul 2026 00:16:54 +0000",
@@ -660,7 +660,7 @@
     "classified": true
   },
   {
-    "title": "Fidji Simo steps down from OpenAI’s no. 2 role",
+    "title": "Fidji Simo steps down from OpenAI’s No. 2 role",
     "link": "https://techcrunch.com/2026/07/09/fidji-simo-steps-down-from-openais-no-2-role/",
     "pubDate": "Thu, 09 Jul 2026 23:38:00 +0000",
     "source": "TechCrunch AI",
@@ -852,6 +852,30 @@
     "classified": true
   },
   {
+    "title": "Instagram’s Adam Mosseri: If you don&#8217;t like AI, &#8216;then you shouldn&#8217;t have it in your feed&#8217;",
+    "link": "https://www.theverge.com/tech/963961/instagram-adam-mosseri-ai-feed-filters",
+    "pubDate": "2026-07-10T13:45:02.000Z",
+    "source": "The Verge AI",
+    "category": "ai",
+    "content": "Though Instagram head Adam Mosseri doesn't want to filter out AI content on the platform, he argues that you \"shouldn't have it in your feed\" if you don't like it. \"I don't think we should filter out AI content,\" Mosseri said during an interview on Lenny Rachitsky's podcast. \"I think we should let you know if content is AI content or not.\"\nAt the same time, Mosseri seems to be drawing a distinction between content-based sorting and banning AI from the platform entirely. In fact, he believes people who love AI content \"should be able to have a feed that's just AI town.\" Instagram, like many other platforms, including TikTok, YouTube, and Fac …\nRead the full story at The Verge.",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2239561028.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "summary": "Instagram head Adam Mosseri stated that users who don't like AI-generated content shouldn't have it in their feed, and instead, the platform should let users know if content is AI-generated or not. Mosseri believes in giving users the option to have an AI-only feed if they prefer. He draws a distinction between sorting and banning AI content entirely.",
+    "importance": 8,
+    "classified": true
+  },
+  {
+    "title": "Would you host part of an AI data center in your home?",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/963930/sunrun-distributed-ai-data-center",
+    "pubDate": "2026-07-10T13:20:25.000Z",
+    "source": "The Verge AI",
+    "category": "both",
+    "content": "A solar and home energy storage company is expanding into AI data centers, but not by building one - instead, it's offering to pay its customers to put its compute units in their homes. Sunrun is launching a pilot program for a new \"distributed AI compute\" program that will \"place numerous compute nodes in homes equipped with Sunrun solar and battery storage systems.\" Customers will be \"compensated\" for participating in the pilot program. \nSunrun plans to sell the distributed compute power from the nodes to \"enterprise compute buyers,\" like AI companies. It's a new approach to finding resources and space for AI compute infrastructure, as da …\nRead the full story at The Verge.",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/sunrun-distributed-compute1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "summary": "Sunrun, a solar and home energy storage company, is launching a pilot program to place AI compute units in customers' homes, compensating them for participation, and selling the distributed compute power to enterprise buyers. The program aims to provide a new approach to AI compute infrastructure. Customers with Sunrun solar and battery storage systems are eligible to participate.",
+    "importance": 8,
+    "classified": true
+  },
+  {
     "title": "Fidji Simo steps down from leading OpenAI’s AGI work due to illness",
     "link": "https://www.theverge.com/ai-artificial-intelligence/963738/openai-fidji-simo-steps-down-ceo-advisor",
     "pubDate": "2026-07-09T23:24:04.000Z",
@@ -908,30 +932,6 @@
     "content": "After reentering the AI race with its first in-house Muse Spark model in April, Meta is now opening up the doors to developers with a new model that can plug into AI coding software with the new Meta Model API.\nMeta says that Muse Spark 1.1 is a \"step-change\" from the first generation, with improvements based on feedback from developers. The company says it's capable of more advanced coding, including detection and fixing of complex bugs; better supports end-to-end agentic workflows across a range of apps, including multi-agent systems; and has native multimodal perception across images, videos, and documents.\nThe Muse Spark 1.1 launch fol …\nRead the full story at The Verge.",
     "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK043_VRG_Illo_N_Barclay_2_Meta.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
     "summary": "Meta has released its new AI model, Muse Spark 1.1, which can plug into AI coding software with the Meta Model API, and offers improved coding capabilities, including bug detection and fixing. The model is a significant upgrade from the first generation, with advancements in multimodal perception and end-to-end agentic workflows. This launch marks a major step for Meta in the AI race.",
-    "importance": 8,
-    "classified": true
-  },
-  {
-    "title": "Character.AI wants a piece of the microdrama pie",
-    "link": "https://www.theverge.com/entertainment/962897/character-ai-series-microdrama-vertical-video",
-    "pubDate": "2026-07-09T13:11:53.000Z",
-    "source": "The Verge AI",
-    "category": "ai",
-    "content": "Character.AI's plan to become more than just an LLM-powered chatbot platform is going beyond interactive books, comics, and audio dramas. Today, the company announced the debut of c.ai Series - short-form, episodic videos designed to be watched and interacted with on your phone. \nUnlike traditional microdrama services that feature cheaply produced, live-action shows starring human performers, c.ai Series are animated and almost entirely made with generative AI. The company's interest in getting into the microdrama space isn't surprising considering that it's projected to become a $26 billion industry in the next few years. And even though s …\nRead the full story at The Verge.",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/c.ai-Series-1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "summary": "Character.AI is expanding its platform beyond interactive books and comics with the launch of c.ai Series, short-form animated videos created with generative AI. The company is entering the microdrama space, which is projected to become a $26 billion industry. Character.AI's use of AI-powered animation sets it apart from traditional microdrama services.",
-    "importance": 8,
-    "classified": true
-  },
-  {
-    "title": "FL Studio 2026 turns its AI chatbot into your assistant engineer",
-    "link": "https://www.theverge.com/tech/963052/fl-studio-2026-music-daw-ai-chatbot",
-    "pubDate": "2026-07-09T13:00:00.000Z",
-    "source": "The Verge AI",
-    "category": "ai",
-    "content": "Gopher can’t play the piano for you, but it can bury it in the mix. | Image: Image Line\t\n\nLast year, Image Line introduced Gopher for FL Studio, an AI chatbot that was basically a glorified instruction manual. You asked it how to do something, and it would serve up the relevant instructions. It's the kind of thing I actually use AI for on a semi-regular basis. But in the new release, Gopher can actually execute actions on your behalf. I was able to ask Gopher to lay down a four-on-the-floor kick, with snares on the backbeat, then add a gated reverb on the snare for that '80s pomp, and it executed the instructions flawlessly. \nGopher does have some limitations. It can't create and draw automation for you. It can't insert notes or …\nRead the full story at The Verge.",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Hands-on-assistance-built-in.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "summary": "FL Studio 2026 has updated its AI chatbot, Gopher, to execute actions on behalf of the user, such as laying down a kick drum and adding gated reverb. Gopher can now assist with tasks, but has limitations, like not being able to create automation or insert notes. This update makes Gopher a more useful tool for musicians and producers.",
     "importance": 8,
     "classified": true
   },
@@ -1104,7 +1104,7 @@
     "classified": true
   },
   {
-    "title": "Live markets: Bitcoin tops $64,000 as selling pressure on Coinbase eases",
+    "title": "Live markets: Bitcoin takes aim at $65,000, erasing losses from earlier this week",
     "link": "https://www.coindesk.com/tech/2026/07/10/live-markets-bitcoin-etfs-bleed-again-while-ether-funds-snap-a-five-day-inflow-streak",
     "pubDate": "Fri, 10 Jul 2026 06:21:34 +0000",
     "source": "CoinDesk",
@@ -1148,6 +1148,18 @@
     "content": "KOSA and Chat Control both retreated on their most-criticized measures this week, but both kept mandatory age verification, the quiet mechanism that turns anonymous browsing into identified browsing for all of us, argues Billions CEO Evin McMullen.",
     "image": "https://cdn.sanity.io/images/s3y3vcno/production/324b3e140076b994f128d054863bc6d3af25ca25-7500x5000.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
     "summary": "KOSA and Chat Control bills recently removed some controversial measures but retained mandatory age verification. Billions CEO Evin McMullen argues this mechanism is a form of surveillance, effectively turning anonymous online activity into identified browsing for all users.",
+    "importance": 7,
+    "classified": true
+  },
+  {
+    "title": "Wall Street banks tighten prediction market rules for staff as insider fears spread",
+    "link": "https://cointelegraph.com/news/wall-street-prediction-market-trading-insider-fears?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Fri, 10 Jul 2026 11:51:02 +0000",
+    "source": "Cointelegraph",
+    "category": "crypto",
+    "content": "Wall Street banks, including Goldman Sachs and Morgan Stanley, are restricting employee prediction market trades as insider trading fears spread across Polymarket and Kalshi.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/with-monopoly-character.jpg",
+    "summary": "Wall Street banks, including Goldman Sachs and Morgan Stanley, are tightening rules around employee trading on prediction markets like Polymarket and Kalshi. This decision stems from increasing fears of potential insider trading activities on these platforms.",
     "importance": 7,
     "classified": true
   },
@@ -1320,18 +1332,6 @@
     "classified": true
   },
   {
-    "title": "Bank of Korea stands firm on bank-led stablecoin push as deposit token pilots advance",
-    "link": "https://cointelegraph.com/news/bank-of-korea-bank-led-stablecoins-deposit-token-pilots?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Thu, 09 Jul 2026 09:19:38 +0000",
-    "source": "Cointelegraph",
-    "category": "crypto",
-    "content": "The Bank of Korea reiterated its call for bank-led won stablecoin issuance while advancing deposit token pilots, as issuer rules remain a sticking point in South Korea’s digital asset bill.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-people-start-trust-stablecoin-in-period-of-crisis-south-korea.jpg",
-    "summary": "The Bank of Korea is pushing for bank-led stablecoin issuance and advancing deposit token pilots, amid debates over issuer rules in South Korea's digital asset bill. This move aims to promote the use of stablecoins in the country. The bank's stance on stablecoin issuance remains firm.",
-    "importance": 6,
-    "classified": true
-  },
-  {
     "title": "New Hampshire’s $100 million bitcoin bond proposal fails to pass final vote",
     "link": "https://www.theblock.co/post/407867/new-hampshire-bitcoin-backed-bond-fails?utm_source=rss&utm_medium=rss",
     "pubDate": "Fri, 10 Jul 2026 06:29:07 -0400",
@@ -1452,18 +1452,6 @@
     "classified": true
   },
   {
-    "title": "Cantor SPAC and Adam Back’s Bitcoin Treasury Renegotiate Merger Terms, Vow New Structure",
-    "link": "https://bitcoinmagazine.com/news/cantor-spac-adam-backs-bitcoin-treasury",
-    "pubDate": "Wed, 08 Jul 2026 15:10:56 +0000",
-    "source": "Bitcoin Magazine",
-    "category": "crypto",
-    "content": "Bitcoin Magazine\n\nCantor SPAC and Adam Back’s Bitcoin Treasury Renegotiate Merger Terms, Vow New Structure\nCantor-backed SPAC CEPO and Adam Back's Bitcoin Standard Treasury Company scrapped the original terms of their planned merger and will negotiate a revised structure designed to better reflect current market conditions.\nThis post Cantor SPAC and Adam Back’s Bitcoin Treasury Renegotiate Merger Terms, Vow New Structure first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
-    "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/06/Morgan-Stanleys-Bitcoin-Executive-Says-Education-—-Not-Products-—-Is-Wall-Streets-Real-Obstacle.jpg",
-    "summary": "Cantor-backed SPAC CEPO and Adam Back's Bitcoin Standard Treasury Company are renegotiating their merger terms due to current market conditions. They will create a new structure that better reflects the market. The original terms of the planned merger have been scrapped.",
-    "importance": 6,
-    "classified": true
-  },
-  {
     "title": "Instagram users: Here’s how to stop Meta’s AI from using your photos",
     "link": "https://techcrunch.com/2026/07/09/how-to-stop-metas-ai-image-generator-from-using-your-instagram-photos/",
     "pubDate": "Thu, 09 Jul 2026 17:56:47 +0000",
@@ -1560,6 +1548,18 @@
     "classified": true
   },
   {
+    "title": "US charges prisoner over alleged laundering of seized Kraken crypto",
+    "link": "https://cointelegraph.com/news/us-prisoner-290k-crypto-restrained-kraken-account?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Fri, 10 Jul 2026 12:27:40 +0000",
+    "source": "Cointelegraph",
+    "category": "crypto",
+    "content": "US prosecutors charged Rossen Iossifov over the alleged laundering of $290,000 in forfeited crypto from a Kraken account.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-how-to-spot-an-exit-scam-doj.jpg",
+    "summary": "US prosecutors have charged Rossen Iossifov, an existing prisoner, with allegedly laundering $290,000 in cryptocurrency. The funds were reportedly forfeited crypto from a Kraken account.",
+    "importance": 5,
+    "classified": true
+  },
+  {
     "title": "Trump's plan to redesign every .gov website leads to AI-designed horrors",
     "link": "https://arstechnica.com/tech-policy/2026/06/trumps-plan-to-redesign-every-gov-website-leads-to-ai-designed-horrors/",
     "pubDate": "Tue, 30 Jun 2026 16:59:02 +0000",
@@ -1574,7 +1574,7 @@
   {
     "title": "Here’s what happened in crypto today",
     "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Thu, 09 Jul 2026 20:17:33 +0000",
+    "pubDate": "Fri, 10 Jul 2026 13:46:13 +0000",
     "source": "Cointelegraph",
     "category": "crypto",
     "content": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
@@ -1602,7 +1602,7 @@
     "source": "CoinDesk",
     "category": "crypto",
     "content": "Edward McGee stepped down after seven years, months after distribution chief John Hoffman left for Ondo Finance.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/93f29fa63f4b14ea6cdae7227afbfdec353fff7f-1200x799.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/8dd88cb35b7bebbb09c8e4ed53c431f147391d5b-2048x1365.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
     "summary": "Edward McGee, the Chief Financial Officer of crypto asset manager Grayscale, has stepped down after seven years. This follows the earlier departure of distribution chief John Hoffman, who left for Ondo Finance months prior.",
     "importance": 3,
     "classified": true
