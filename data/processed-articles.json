@@ -360,14 +360,14 @@
     "classified": true
   },
   {
-    "title": "Hong Kong regulator orders new anti-phishing measures for crypto platforms",
-    "link": "https://cointelegraph.com/news/hong-kong-regulator-anti-phishing-measures-crypto-platforms?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Thu, 09 Jul 2026 12:53:44 +0000",
-    "source": "Cointelegraph",
+    "title": "SK Hynix’s $26.5 billion US listing brought to Telegram users via xStocks",
+    "link": "https://www.theblock.co/post/407923/sk-hynixs-26-5-billion-us-listing-brought-to-telegram-users-via-xstocks?utm_source=rss&utm_medium=rss",
+    "pubDate": "Fri, 10 Jul 2026 14:49:02 -0400",
+    "source": "The Block",
     "category": "crypto",
-    "content": "Hong Kong’s regulator has ordered crypto platforms and online brokers to meet newly issued phishing-resistant login requirements within the next 12 months.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-how-hong-kong-is-turning-tokenized-bonds-into-real-market-infrastructure.jpg",
-    "summary": "Hong Kong's regulator has ordered crypto platforms to implement anti-phishing measures, specifically phishing-resistant login requirements, within 12 months. This move aims to enhance security for users of cryptocurrency platforms. The new requirements are part of the regulator's efforts to protect consumers from phishing attacks.",
+    "content": "Solana said that tokenized SK Hynix shares on SOL can be acquired through Backpack, xStocks and Ondo Finance.",
+    "image": "https://www.tbstat.com/wp/uploads/2019/10/telegram-2-800x450.jpg",
+    "summary": "Tokenized shares of SK Hynix, linked to a $26.5 billion US listing, are now accessible on the Solana blockchain. These digital assets can be acquired by users through platforms such as Backpack, xStocks, and Ondo Finance.",
     "importance": 8,
     "classified": true
   },
@@ -389,7 +389,7 @@
     "pubDate": "Fri, 10 Jul 2026 12:27:23 -0400",
     "source": "The Block",
     "category": "both",
-    "content": "Kraken is adding autonomous AI agents capable of monitoring markets, suggesting trades and even executing on behalf of users.",
+    "content": "Kraken is adding autonomous AI agents capable of monitoring markets and suggesting trades for users.",
     "image": "https://www.tbstat.com/wp/uploads/2023/03/20230317_Kraken_Color-800x450.jpg",
     "summary": "Kraken is relaunching its mobile app with a focus on agentic trading and advice, utilizing autonomous AI agents to monitor markets and execute trades on behalf of users. The app will provide users with suggestions and automated trading capabilities. This update aims to enhance the user experience and provide more intuitive trading options.",
     "importance": 8,
@@ -684,6 +684,30 @@
     "classified": true
   },
   {
+    "title": "SK Hynix raises $26.5B in the biggest foreign IPO in US history, is urged to build new US fabs",
+    "link": "https://techcrunch.com/2026/07/10/sk-hynix-raises-26-5b-in-the-biggest-foreign-ipo-in-us-history-is-urged-to-build-new-us-fabs/",
+    "pubDate": "Fri, 10 Jul 2026 17:17:12 +0000",
+    "source": "TechCrunch AI",
+    "category": "ai",
+    "content": "The AI chip boom just produced its biggest Wall Street moment yet. Now SK Hynix and Samsung are being asked to build U.S. factories.",
+    "image": "",
+    "summary": "SK Hynix has raised $26.5B in the largest foreign IPO in US history, driven by the AI chip boom. The company, along with Samsung, is being urged to build new factories in the US. This development highlights the growing importance of AI chips and the need for domestic manufacturing.",
+    "importance": 8,
+    "classified": true
+  },
+  {
+    "title": "Hugging Face’s CEO on why companies are done renting their AI",
+    "link": "https://techcrunch.com/2026/07/10/hugging-faces-ceo-on-why-companies-are-done-renting-their-ai/",
+    "pubDate": "Fri, 10 Jul 2026 14:00:00 +0000",
+    "source": "TechCrunch AI",
+    "category": "ai",
+    "content": "Open source AI is booming, according to Hugging Face CEO Clem Delangue. The company has grown into something like a GitHub for AI in recent years, where AI builders can share and download open models and datasets, now used by roughly half the Fortune 500. Delangue has seen the same story play out again and again: companies start […]",
+    "image": "",
+    "summary": "Hugging Face's CEO, Clem Delangue, states that open source AI is booming, with the company serving as a platform for AI builders to share and download models and datasets, used by half of the Fortune 500. Companies are shifting away from renting AI and towards open source solutions. This trend indicates a significant change in the AI industry.",
+    "importance": 8,
+    "classified": true
+  },
+  {
     "title": "OpenAI says GPT 5.6 is the ‘preferred model’ for Microsoft Copilot 365 amid breakup chatter",
     "link": "https://techcrunch.com/2026/07/09/openai-says-gpt-5-6-is-the-preferred-model-for-microsoft-copilot-amid-breakup-chatter/",
     "pubDate": "Fri, 10 Jul 2026 00:16:54 +0000",
@@ -872,18 +896,6 @@
     "content": "Benchmark-backed Ollama has amassed 176,000 stars, and nearly 17,000 forks on GitHub by helping developers easily run AI on their PCs.",
     "image": "",
     "summary": "Ollama, a popular open source AI developer tool, has raised $65M and grown to nearly 9M users, with 176,000 stars and 17,000 forks on GitHub. It helps developers easily run AI on their PCs. This tool has gained significant traction in the AI development community.",
-    "importance": 8,
-    "classified": true
-  },
-  {
-    "title": "Character.AI enters the microdrama arena with its own productions, but there’s a twist",
-    "link": "https://techcrunch.com/2026/07/09/character-ai-enters-the-microdrama-arena-with-its-own-productions-but-with-a-twist/",
-    "pubDate": "Thu, 09 Jul 2026 13:00:00 +0000",
-    "source": "TechCrunch AI",
-    "category": "ai",
-    "content": "In an interesting twist that takes advantage of the company's core product, users can chat with these shows' characters, ask them questions, and even roleplay different storylines.",
-    "image": "",
-    "summary": "Character.AI is producing its own microdramas, allowing users to interact with characters, ask questions, and roleplay storylines. This innovation leverages the company's core product, enabling unique engagement with the shows. The platform combines entertainment and artificial intelligence for immersive experiences.",
     "importance": 8,
     "classified": true
   },
@@ -1296,6 +1308,18 @@
     "classified": true
   },
   {
+    "title": "New Hampshire council votes down $100M Bitcoin bonds",
+    "link": "https://cointelegraph.com/news/new-hampshire-votes-against-bitcoin-bonds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Fri, 10 Jul 2026 17:23:10 +0000",
+    "source": "Cointelegraph",
+    "category": "crypto",
+    "content": "State representative Keith Ammon said the New Hampshire executive council's vote against Bitcoin-backed bonds was “short-sighted,” urging the body to reconsider the measure.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-can-bitcoin-replace-bonds-in-institutional-portfolios.png",
+    "summary": "The New Hampshire executive council has rejected a proposal for $100 million in Bitcoin-backed bonds. State representative Keith Ammon criticized the decision as \"short-sighted\" and called for the council to reconsider the measure.",
+    "importance": 6,
+    "classified": true
+  },
+  {
     "title": "Metaplanet explores Bitcoin-backed digital credit with JPYC in Japan",
     "link": "https://cointelegraph.com/news/metaplanet-studies-bitcoin-digital-bonds-japan?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "pubDate": "Fri, 10 Jul 2026 09:58:10 +0000",
@@ -1440,18 +1464,6 @@
     "classified": true
   },
   {
-    "title": "White House defends Trump’s regulatory appointments as CFTC vacancies complicate crypto bill push",
-    "link": "https://www.theblock.co/post/407785/white-house-defends-trumps-regulatory-appointments-as-cftc-vacancies-complicate-crypto-bill-push?utm_source=rss&utm_medium=rss",
-    "pubDate": "Thu, 09 Jul 2026 13:53:16 -0400",
-    "source": "The Block",
-    "category": "crypto",
-    "content": "The White House pushed back against Democrats’ criticism that the administration has declined to appoint commissioners to regulatory agencies.",
-    "image": "https://www.tbstat.com/wp/uploads/2026/02/image-d3d3f946-f84d-4ec0-af8e-b8e8f8da2cab-2-797x450.jpg",
-    "summary": "The White House is defending its record on appointing commissioners to regulatory agencies amidst criticism from Democrats. These vacancies, particularly at the CFTC, are reportedly complicating efforts to advance cryptocurrency legislation.",
-    "importance": 6,
-    "classified": true
-  },
-  {
     "title": "Bitcoin Slips to $62,000, Paring Rebound as CryptoQuant Sees Room Higher",
     "link": "https://bitcoinmagazine.com/markets/bitcoin-slips-to-62000-paring-rebound",
     "pubDate": "Wed, 08 Jul 2026 21:18:33 +0000",
@@ -1472,18 +1484,6 @@
     "content": "Muse Image allows users to generate AI images using photos from public Instagram accounts. As long as a person's profile is public, another user can tag that account and use their images as part of an AI-generated creation.",
     "image": "",
     "summary": "Instagram users can stop Meta's AI from using their photos by changing their account settings to private, as Meta's AI can use photos from public accounts to generate AI images. This is done through a feature called Muse Image, which allows users to create AI-generated images using public photos. Users can protect their photos by making their account private.",
-    "importance": 6,
-    "classified": true
-  },
-  {
-    "title": "Nandan Nilekani leaves GP role at Fundamentum as it launches $200M third fund",
-    "link": "https://techcrunch.com/2026/07/09/nandan-nilekani-leaves-gp-role-at-his-vc-firm-as-it-launches-third-200m-fund/",
-    "pubDate": "Thu, 09 Jul 2026 12:00:00 +0000",
-    "source": "TechCrunch AI",
-    "category": "both",
-    "content": "Nilekani remains Fundamentum's anchor investor as the firm expands its leadership team and targets AI and fintech startups in India.",
-    "image": "",
-    "summary": "Nandan Nilekani has stepped down as GP at Fundamentum, but remains an anchor investor as the firm launches its third fund, focusing on AI and fintech startups in India. The new fund is worth $200M. Fundamentum is expanding its leadership team.",
     "importance": 6,
     "classified": true
   },
@@ -1512,7 +1512,7 @@
     "classified": true
   },
   {
-    "title": "Disable auto-play and infinite scroll or risk massive fines, EU tells Meta",
+    "title": "Disable autoplay and infinite scroll or risk massive fines, EU tells Meta",
     "link": "https://arstechnica.com/tech-policy/2026/07/disable-auto-play-and-infinite-scroll-or-risk-massive-fines-eu-tells-meta/",
     "pubDate": "Fri, 10 Jul 2026 15:46:18 +0000",
     "source": "Ars Technica AI",
