@@ -36,14 +36,14 @@
     "classified": true
   },
   {
-    "title": "Swift rolls out new blockchain ledger to bring 24/7 banking to 17 global giants",
-    "link": "https://www.coindesk.com/business/2026/07/09/swift-rolls-out-24-7-blockchain-payment-systems-with-17-global-banks-across-six-continents",
-    "pubDate": "Thu, 09 Jul 2026 11:08:37 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "HSBC, UBS, Wells Fargo and Citi are among the 17 banks now preparing to pilot live transactions using tokenized digital assets on Swift’s new blockchain payments platform.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/508c78185616861e76dfe16cc9d55787a0ff9c41-1500x1000.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "Swift is rolling out a new blockchain ledger designed to enable 24/7 banking for global financial institutions. Major banks like HSBC, UBS, Wells Fargo, and Citi are among 17 giants preparing to pilot live transactions using tokenized digital assets on this new payments platform.",
+    "title": "A16z’s Andreessen lands Federal Reserve role as AI reshapes policy debate",
+    "link": "https://cointelegraph.com/news/federal-reserve-a16z-co-founder-monetary-policy-task-force?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Fri, 10 Jul 2026 14:12:53 +0000",
+    "source": "Cointelegraph",
+    "category": "ai",
+    "content": "The Fed named a16z co-founder Marc Andreessen to co-lead an AI productivity and jobs task force under Chair Kevin Warsh’s policy review.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/09marcandreessen.jpg",
+    "summary": "Marc Andreessen, co-founder of a16z, has been appointed to co-lead a Federal Reserve task force focused on AI productivity and jobs. This move highlights the increasing significance of artificial intelligence in high-level economic policy discussions.",
     "importance": 9,
     "classified": true
   },
@@ -69,6 +69,30 @@
     "image": "",
     "summary": "Three major AI companies, Anthropic, OpenAI, and SpaceX, are expected to generate more value than all U.S. VC-backed exits since 2000 through their upcoming IPOs. This milestone emphasizes the significant growth and impact of the AI industry. The combined value of these IPOs highlights the increasing importance of AI in the tech sector.",
     "importance": 9,
+    "classified": true
+  },
+  {
+    "title": "U.S. government digital dollar set to be banned tonight under housing law's CBDC limit",
+    "link": "https://www.coindesk.com/policy/2026/07/10/u-s-government-digital-dollar-set-to-be-banned-tonight-under-housing-law-s-cbdc-limit",
+    "pubDate": "Fri, 10 Jul 2026 16:02:21 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "Despite President Donald Trump's refusal to sign Congress' bipartisan housing bill, it's set to go into effect at midnight, and its temporary CBDC ban along with it.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/e473e13d2b998775c2c41a1456513cc8710f6cd7-2461x1385.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "A temporary ban on a U.S. government digital dollar (CBDC) is set to go into effect tonight as part of a bipartisan housing bill. The legislation will become law at midnight despite President Trump's refusal to sign it, implementing a limit on central bank digital currency.",
+    "importance": 8,
+    "classified": true
+  },
+  {
+    "title": "Hyundai becomes first major South Korean company to introduce internal stablecoin transfers",
+    "link": "https://www.coindesk.com/business/2026/07/10/hyundai-becomes-first-major-south-korean-company-to-introduce-internal-stablecoin-transfers",
+    "pubDate": "Fri, 10 Jul 2026 15:26:43 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "The initiative builds on a broader shift by companies exploring stablecoins to move money between international operations more efficiently.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/fc1a4a08a209cc97dd1f7ba339f320d900f67507-5175x3514.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "Hyundai has become the first major South Korean company to implement internal stablecoin transfers. This initiative aligns with a growing trend of companies utilizing stablecoins to improve the efficiency of international money movement between their operations.",
+    "importance": 8,
     "classified": true
   },
   {
@@ -152,6 +176,30 @@
     "content": "Aave's new Stable Vaults product lets wallets, exchanges and payment apps offer yields on stablecoin deposits",
     "image": "https://cdn.sanity.io/images/s3y3vcno/production/36f114a53bbcdea37ae44f32f67ff528318e79c3-1280x960.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
     "summary": "Aave has introduced its new Stable Vaults product. This innovation allows fintech companies, including wallets, exchanges, and payment applications, to provide yields on stablecoin deposits to their users.",
+    "importance": 8,
+    "classified": true
+  },
+  {
+    "title": "Backpack joins race for 24/7 stock markets with tokenized equities",
+    "link": "https://cointelegraph.com/news/backpack-launches-247-trading-for-tokenized-us-equities?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Fri, 10 Jul 2026 16:36:36 +0000",
+    "source": "Cointelegraph",
+    "category": "crypto",
+    "content": "The launch comes as tokenized stocks become one of the fastest-growing corners of crypto, with exchanges and traditional finance firms racing to expand 24/7 trading.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/sponsor-screen-traid2.png",
+    "summary": "Backpack has entered the competition to provide 24/7 stock markets using tokenized equities. This move comes as tokenized stocks are rapidly growing within the crypto space, leading both traditional finance firms and exchanges to expand their 24/7 trading offerings.",
+    "importance": 8,
+    "classified": true
+  },
+  {
+    "title": "Bitcoin whales sent BTC price to $64K as Coinbase Premium broke key level: CryptoQuant",
+    "link": "https://cointelegraph.com/markets/bitcoin-whales-sent-btc-price-to-64k-as-coinbase-premium-broke-key-level-cryptoquant?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Fri, 10 Jul 2026 14:59:30 +0000",
+    "source": "Cointelegraph",
+    "category": "crypto",
+    "content": "Bitcoin price gains came thanks to US whales propeling the Coinbase Premium above a key trend line, new analysis from CryptoQuant reported.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-experts-discuss-what-the-current-number-of-whales-interest-in-futures-means-for-the-market1.jpg",
+    "summary": "Bitcoin's price surged to $64,000, a move attributed to US whales pushing the Coinbase Premium above a crucial trend line. This analysis from CryptoQuant highlights the significant impact of large American investors on the BTC market.",
     "importance": 8,
     "classified": true
   },
@@ -324,38 +372,38 @@
     "classified": true
   },
   {
-    "title": "Sony Bank gets US regulator nod to issue stablecoins",
-    "link": "https://cointelegraph.com/news/sony-bank-preliminary-approval-us-stablecoin-business?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Thu, 09 Jul 2026 11:18:41 +0000",
-    "source": "Cointelegraph",
-    "category": "crypto",
-    "content": "Sony Bank received preliminary approval from the Office of the Comptroller of the Currency to establish a US stablecoin issuance business, with $40 million in starting capital.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/digital-bank-1.jpg",
-    "summary": "Sony Bank has received preliminary approval to establish a US stablecoin issuance business with $40 million in starting capital. The approval was granted by the Office of the Comptroller of the Currency. This move marks a significant step for Sony Bank in the cryptocurrency space.",
+    "title": "Empery Digital offloads 1,400 bitcoins to help fund AI pivot, pay debt",
+    "link": "https://www.theblock.co/post/407900/empery-digital-offloads-1400-bitcoins-help-fund-ai-pivot-pay-debt?utm_source=rss&utm_medium=rss",
+    "pubDate": "Fri, 10 Jul 2026 12:39:45 -0400",
+    "source": "The Block",
+    "category": "both",
+    "content": "Empery Digital used part of the proceeds for a 25% stake in an AI data center campus project.",
+    "image": "https://www.tbstat.com/wp/uploads/2025/06/20250603_Bitcoin_News_2-800x450.jpg",
+    "summary": "Empery Digital has sold 1,400 bitcoins to fund its pivot into AI and pay off debt, with some of the proceeds used to acquire a 25% stake in an AI data center campus project. This move marks a significant shift in the company's focus. The sale will help Empery Digital to restructure and invest in new technologies.",
     "importance": 8,
     "classified": true
   },
   {
-    "title": "Interpol operation exposes $122M crypto wallet tied to romance scam laundering",
-    "link": "https://cointelegraph.com/news/interpol-122m-crypto-flows-romance-scam-laundering?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Thu, 09 Jul 2026 11:18:21 +0000",
-    "source": "Cointelegraph",
-    "category": "crypto",
-    "content": "Interpol said a suspect's crypto wallet processed over $122.5 million in 10 months as authorities uncovered the scheme during a global anti-fraud operation that led to 5,811 arrests.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-anti-pig-butchering-policy-in-crypto-cambodia.jpg",
-    "summary": "Interpol has uncovered a romance scam laundering scheme involving a crypto wallet that processed over $122.5 million in 10 months, resulting in 5,811 arrests globally. The operation was part of a global anti-fraud effort. The suspect's wallet was tied to the scam, which was exposed during the operation.",
+    "title": "Kraken to relaunch its mobile app with agentic trading and advice at the center",
+    "link": "https://www.theblock.co/post/407899/kraken-to-relaunch-its-mobile-app-with-agentic-trading-and-advise-at-the-center?utm_source=rss&utm_medium=rss",
+    "pubDate": "Fri, 10 Jul 2026 12:27:23 -0400",
+    "source": "The Block",
+    "category": "both",
+    "content": "Kraken is adding autonomous AI agents capable of monitoring markets, suggesting trades and even executing on behalf of users.",
+    "image": "https://www.tbstat.com/wp/uploads/2023/03/20230317_Kraken_Color-800x450.jpg",
+    "summary": "Kraken is relaunching its mobile app with a focus on agentic trading and advice, utilizing autonomous AI agents to monitor markets and execute trades on behalf of users. The app will provide users with suggestions and automated trading capabilities. This update aims to enhance the user experience and provide more intuitive trading options.",
     "importance": 8,
     "classified": true
   },
   {
-    "title": "Hyperliquid shows how onchain perps could challenge Wall Street: Pantera",
-    "link": "https://cointelegraph.com/news/hyperliquid-onchain-perps-absorbing-tradfi-markets-pantera-capital?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Thu, 09 Jul 2026 10:02:32 +0000",
-    "source": "Cointelegraph",
+    "title": "Cambridge research puts 31% of Ethereum node activity in the US, where a third offline can stall finalization",
+    "link": "https://www.theblock.co/post/407909/cambridge-research-puts-ethereum-node-activity-in-us-where-third-offline-can-stall-finalization?utm_source=rss&utm_medium=rss",
+    "pubDate": "Fri, 10 Jul 2026 12:07:20 -0400",
+    "source": "The Block",
     "category": "crypto",
-    "content": "Perpetual futures and Hyperliquid’s blockchain infrastructure are expanding into traditional asset classes with around-the-clock trading, according to Pantera Capital.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/wall-warning-hyperliquid.jpg",
-    "summary": "Pantera Capital believes Hyperliquid's blockchain infrastructure and perpetual futures can challenge Wall Street by expanding into traditional asset classes with 24/7 trading. This could potentially disrupt traditional markets. Hyperliquid's onchain perps may bring new opportunities for traders.",
+    "content": "Cambridge finds 31% of Ethereum node activity in the U.S., clustered on AWS, Hetzner and OVH, raising jurisdictional/counterparty questions.",
+    "image": "https://www.tbstat.com/wp/uploads/2024/05/20240523_Ethereum_News_2-800x450.jpg",
+    "summary": "A Cambridge research study has found that 31% of Ethereum node activity is located in the US, with many nodes clustered on cloud services like AWS, Hetzner, and OVH. This raises concerns about jurisdictional and counterparty risks, as a significant portion of nodes being offline can stall finalization. The study highlights the potential vulnerabilities of the Ethereum network.",
     "importance": 8,
     "classified": true
   },
@@ -468,26 +516,26 @@
     "classified": true
   },
   {
-    "title": "Hyperliquid Policy Center, Phantom urge CFTC to stop treating onchain protocols like traditional brokers and exchanges",
-    "link": "https://www.theblock.co/post/407780/hyperliquid-policy-center-phantom-urge-cftc-to-stop-treating-onchain-protocols-like-traditional-brokers-and-exchanges?utm_source=rss&utm_medium=rss",
-    "pubDate": "Thu, 09 Jul 2026 12:00:23 -0400",
-    "source": "The Block",
+    "title": "Circle (CRCL) Wins Final OCC Approval for National Trust Bank",
+    "link": "https://bitcoinmagazine.com/news/circle-crcl-wins-final-occ-approval",
+    "pubDate": "Fri, 10 Jul 2026 16:43:52 +0000",
+    "source": "Bitcoin Magazine",
     "category": "crypto",
-    "content": "The CFTC and Securities and Exchange Commission issued a Request for Information in mid-June on financial innovation.",
-    "image": "https://www.tbstat.com/wp/uploads/2020/06/20200630_CFTC-Daily-800x450.jpg",
-    "summary": "The CFTC and SEC have issued a Request for Information on financial innovation, prompting Hyperliquid Policy Center and Phantom to urge the CFTC to change its approach to onchain protocols. They argue that onchain protocols should not be treated like traditional brokers and exchanges. This could have significant implications for the crypto industry.",
+    "content": "Bitcoin Magazine\n\nCircle (CRCL) Wins Final OCC Approval for National Trust Bank\nCircle won final OCC approval to establish a national trust bank, allowing it to place USDC reserves under federal oversight and expanding its regulated digital asset custody business.\nThis post Circle (CRCL) Wins Final OCC Approval for National Trust Bank first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
+    "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/07/Circle-CRCL-Wins-Final-OCC-Approval-for-National-Trust-Bank.jpg",
+    "summary": "Circle has received final approval from the OCC to establish a national trust bank, enabling it to place USDC reserves under federal oversight and expand its digital asset custody business. This move allows for greater regulatory oversight and stability. Circle's national trust bank will operate under federal supervision.",
     "importance": 8,
     "classified": true
   },
   {
-    "title": "JPMorgan says bitcoin’s main risk isn’t Strategy, but blockchain adoption that doesn’t benefit public chains and tokens",
-    "link": "https://www.theblock.co/post/407776/jpmorgan-bitcoin-risk-strategy-blockchain-tokens-crypto?utm_source=rss&utm_medium=rss",
-    "pubDate": "Thu, 09 Jul 2026 11:44:13 -0400",
-    "source": "The Block",
+    "title": "Metaplanet Announces Joint Study to Bring Bitcoin-Backed Digital Credit to Japan",
+    "link": "https://bitcoinmagazine.com/news/metaplanet-announces-joint-study-bitcoin",
+    "pubDate": "Fri, 10 Jul 2026 15:14:13 +0000",
+    "source": "Bitcoin Magazine",
     "category": "crypto",
-    "content": "JPMorgan says Strategy isn't bitcoin's main structural risk, but blockchain adoption that fails to benefit public blockchains and tokens.",
-    "image": "https://www.tbstat.com/wp/uploads/2020/10/20201026_JPMorgan-Crypto-Org-800x450.jpg",
-    "summary": "JPMorgan states that the main risk to bitcoin is not its strategy, but rather blockchain adoption that does not benefit public blockchains and tokens. This suggests that the bank is concerned about the potential for blockchain technology to be developed in a way that excludes public chains and tokens. As a result, bitcoin's value could be negatively impacted.",
+    "content": "Bitcoin Magazine\n\nMetaplanet Announces Joint Study to Bring Bitcoin-Backed Digital Credit to Japan\nMetaplanet is taking its Bitcoin strategy beyond treasury accumulation, launching a study to explore tokenized, Bitcoin-backed credit products that could reshape Japan's debt market.\nThis post Metaplanet Announces Joint Study to Bring Bitcoin-Backed Digital Credit to Japan first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
+    "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/06/Metaplanet-Acquires-Siiibo-Securities-in-Push-to-Build-Bitcoin-Financial-Ecosystem.jpg",
+    "summary": "Metaplanet is launching a joint study to introduce Bitcoin-backed digital credit products in Japan, aiming to transform the country's debt market. This initiative goes beyond Metaplanet's existing Bitcoin accumulation strategy. The study will explore tokenized credit products backed by Bitcoin.",
     "importance": 8,
     "classified": true
   },
@@ -572,18 +620,6 @@
     "content": "Bitcoin Magazine\n\nCFTC Chair Says Clarity Act Is ‘So Close’ As August Deadline Nears\nCFTC Chairman Michael Selig urged Congress to pass the Clarity Act before the August recess, saying the crypto market-structure bill is \"so close\" despite ongoing disputes over ethics and stablecoin provisions.\nThis post CFTC Chair Says Clarity Act Is ‘So Close’ As August Deadline Nears first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
     "image": "https://www.youtube.com/embed/DMx5zb90DNg",
     "summary": "CFTC Chairman Michael Selig is urging Congress to pass the Clarity Act, a crypto market-structure bill, before the August recess, stating it is 'so close' despite ongoing disputes. The bill aims to bring clarity to the crypto market. Its passage is crucial for the crypto community.",
-    "importance": 8,
-    "classified": true
-  },
-  {
-    "title": "Bull Bitcoin Files Landmark Legal Challenge to Annul France’s DAC8 Crypto Data Surveillance Rules",
-    "link": "https://bitcoinmagazine.com/legal/bull-bitcoin-files-landmark-legal-challenge-to-annul-frances-dac8-crypto-data-surveillance-rules",
-    "pubDate": "Wed, 08 Jul 2026 16:40:26 +0000",
-    "source": "Bitcoin Magazine",
-    "category": "crypto",
-    "content": "Bitcoin Magazine\n\nBull Bitcoin Files Landmark Legal Challenge to Annul France’s DAC8 Crypto Data Surveillance Rules\nThe filing marks the first major legal challenge to DAC8 in the EU. Bull Bitcoin warns that forced consolidation of user data undermines both privacy and the regulation’s own tax-collection goals by driving users toward unregulated alternatives.\nThis post Bull Bitcoin Files Landmark Legal Challenge to Annul France’s DAC8 Crypto Data Surveillance Rules first appeared on Bitcoin Magazine and is written by Juan Galt.",
-    "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/07/dac8-en.webp",
-    "summary": "Bull Bitcoin has filed a landmark legal challenge to annul France's DAC8 crypto data surveillance rules, marking the first major challenge to DAC8 in the EU. The company argues that the rules undermine user privacy and tax-collection goals. This challenge may have significant implications for the crypto community in the EU.",
     "importance": 8,
     "classified": true
   },
@@ -1104,7 +1140,7 @@
     "classified": true
   },
   {
-    "title": "Live markets: Bitcoin takes aim at $65,000, erasing losses from earlier this week",
+    "title": "Live updates: Bitcoin rises to $64,000 as SK Hynix opens for trade after $26.5 billion IPO",
     "link": "https://www.coindesk.com/tech/2026/07/10/live-markets-bitcoin-etfs-bleed-again-while-ether-funds-snap-a-five-day-inflow-streak",
     "pubDate": "Fri, 10 Jul 2026 06:21:34 +0000",
     "source": "CoinDesk",
@@ -1148,6 +1184,18 @@
     "content": "KOSA and Chat Control both retreated on their most-criticized measures this week, but both kept mandatory age verification, the quiet mechanism that turns anonymous browsing into identified browsing for all of us, argues Billions CEO Evin McMullen.",
     "image": "https://cdn.sanity.io/images/s3y3vcno/production/324b3e140076b994f128d054863bc6d3af25ca25-7500x5000.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
     "summary": "KOSA and Chat Control bills recently removed some controversial measures but retained mandatory age verification. Billions CEO Evin McMullen argues this mechanism is a form of surveillance, effectively turning anonymous online activity into identified browsing for all users.",
+    "importance": 7,
+    "classified": true
+  },
+  {
+    "title": "Crypto Biz: How stablecoins found their niche",
+    "link": "https://cointelegraph.com/news/crypto-biz-how-stablecoins-found-their-niche?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Fri, 10 Jul 2026 15:37:37 +0000",
+    "source": "Cointelegraph",
+    "category": "crypto",
+    "content": "Stablecoins are carving out specialized roles as regulation reshapes the market, while Strategy’s Bitcoin sale and Vanguard’s tokenization push highlight crypto’s evolving financial landscape.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-usdt-vs-usdc-whats-the-difference-1.jpg",
+    "summary": "Stablecoins are increasingly finding specialized roles within the cryptocurrency market as regulatory frameworks evolve. This shift, alongside Strategy's Bitcoin sale and Vanguard's exploration of tokenization, signifies a continually evolving financial landscape for digital assets.",
     "importance": 7,
     "classified": true
   },
@@ -1320,18 +1368,6 @@
     "classified": true
   },
   {
-    "title": "Revolut says USDT delisting is limited to EEA, Switzerland",
-    "link": "https://cointelegraph.com/news/revolut-usdt-delisting-limited-eea-switzerland?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Thu, 09 Jul 2026 10:23:24 +0000",
-    "source": "Cointelegraph",
-    "category": "crypto",
-    "content": "Revolut said USDT support remains unchanged outside EEA and Switzerland as it winds down the stablecoin offering in selected European markets.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-dash-aims-to-correct-its-misclassification-as-a-privacy-coin-following-shapeshift-delisting1.jpg",
-    "summary": "Revolut is delisting USDT in the European Economic Area and Switzerland, but USDT support remains unchanged in other regions. This move is part of Revolut's decision to wind down the stablecoin offering in selected European markets. The delisting is limited to these areas.",
-    "importance": 6,
-    "classified": true
-  },
-  {
     "title": "New Hampshire’s $100 million bitcoin bond proposal fails to pass final vote",
     "link": "https://www.theblock.co/post/407867/new-hampshire-bitcoin-backed-bond-fails?utm_source=rss&utm_medium=rss",
     "pubDate": "Fri, 10 Jul 2026 06:29:07 -0400",
@@ -1416,18 +1452,6 @@
     "classified": true
   },
   {
-    "title": "Why this Wall Street veteran is betting on Avalanche",
-    "link": "https://www.theblock.co/post/407752/why-this-wall-street-veteran-is-betting-on-avalanche?utm_source=rss&utm_medium=rss",
-    "pubDate": "Thu, 09 Jul 2026 11:03:40 -0400",
-    "source": "The Block",
-    "category": "crypto",
-    "content": "Avalanche Treasury Company CEO Bart Smith explains his beliefs on the functions of treasury companies and his bull thesis for Avalanche.",
-    "image": "https://www.tbstat.com/wp/uploads/2026/04/Layer-one-w-john-wu-732x450.png",
-    "summary": "Avalanche Treasury Company CEO Bart Smith discusses his positive outlook on Avalanche, sharing his beliefs on treasury companies and their functions. He presents a bull thesis for Avalanche, indicating his confidence in the project's potential. Smith's views are noteworthy given his Wall Street veteran status.",
-    "importance": 6,
-    "classified": true
-  },
-  {
     "title": "Bitcoin Slips to $62,000, Paring Rebound as CryptoQuant Sees Room Higher",
     "link": "https://bitcoinmagazine.com/markets/bitcoin-slips-to-62000-paring-rebound",
     "pubDate": "Wed, 08 Jul 2026 21:18:33 +0000",
@@ -1436,18 +1460,6 @@
     "content": "Bitcoin Magazine\n\nBitcoin Slips to $62,000, Paring Rebound as CryptoQuant Sees Room Higher\nBitcoin slipped to around $62,000 after rebounding from last week's $57,700 low, while CryptoQuant says improving demand, seasonality and valuation support further gains, though its bearish Bull Score Index suggests the move remains a bear-market recovery rather than a full trend reversal.\nThis post Bitcoin Slips to $62,000, Paring Rebound as CryptoQuant Sees Room Higher first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
     "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/06/Bitcoin-Price-Falls-to-62000-as-Hawkish-Fed-Shift-Raises-Risk-of-Deeper-Pullback.jpg",
     "summary": "Bitcoin's price slipped to $62,000 after a rebound from $57,700, with CryptoQuant suggesting potential for further gains due to improving demand and seasonality. However, the Bull Score Index indicates this may be a bear-market recovery rather than a trend reversal. The cryptocurrency's valuation is seen as supportive of higher prices.",
-    "importance": 6,
-    "classified": true
-  },
-  {
-    "title": "Schwab Strategist Backs Strategy’s STRC Playbook Amid Bitcoin Weakness",
-    "link": "https://bitcoinmagazine.com/news/schwab-strategist-backs-bitcoin-strategy",
-    "pubDate": "Wed, 08 Jul 2026 15:21:58 +0000",
-    "source": "Bitcoin Magazine",
-    "category": "crypto",
-    "content": "Bitcoin Magazine\n\nSchwab Strategist Backs Strategy’s STRC Playbook Amid Bitcoin Weakness\nSchwab strategist Jim Ferraioli said Strategy's recent preferred stock actions have eased near-term liquidity concerns despite Bitcoin's decline.\nThis post Schwab Strategist Backs Strategy’s STRC Playbook Amid Bitcoin Weakness first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
-    "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/07/Schwab-Strategist-Backs-Strategys-STRC-Playbook-Amid-Bitcoin-Weakness.jpg",
-    "summary": "Schwab strategist Jim Ferraioli supports Strategy's STRC Playbook, citing eased near-term liquidity concerns despite Bitcoin's decline. This comes as Bitcoin has been experiencing weakness. The strategist's backing is a notable development in the crypto space.",
     "importance": 6,
     "classified": true
   },
@@ -1496,6 +1508,18 @@
     "content": "The popularity of Spotify Wrapped has kicked off a wide range of year-in-review features, on apps from YouTube to Uber - and now, the lookback trend has come to AI. Anthropic on Thursday announced a \"reflect\" feature for its Claude chatbot, allowing users to see an analysis of their usage data over the past month, three months, six months, or year. \nAnthropic bills the reflection dashboard as a way to \"see your patterns and shape them,\" the company wrote in a blog post. It begins with a summary of an individual's key topics brought up with Claude, as well as types of tasks they delegate and their usage patterns, including peak usage times.  …\nRead the full story at The Verge.",
     "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Claude-Reflect-graph-blog.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
     "summary": "Anthropic's Claude chatbot has introduced a new 'reflect' feature, allowing users to analyze their usage data over various time periods, providing insights into their patterns and interactions with the AI. The feature aims to help users understand and shape their behavior. The introduction of this feature follows the popularity of year-in-review features on other apps.",
+    "importance": 6,
+    "classified": true
+  },
+  {
+    "title": "Disable auto-play and infinite scroll or risk massive fines, EU tells Meta",
+    "link": "https://arstechnica.com/tech-policy/2026/07/disable-auto-play-and-infinite-scroll-or-risk-massive-fines-eu-tells-meta/",
+    "pubDate": "Fri, 10 Jul 2026 15:46:18 +0000",
+    "source": "Ars Technica AI",
+    "category": "ai",
+    "content": "Digital Services Act may force Meta to make big changes on its platforms.",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2284791473-1024x648.jpg",
+    "summary": "The EU has warned Meta that it may face massive fines if it doesn't disable auto-play and infinite scroll on its platforms, as part of the Digital Services Act. This act may force Meta to make significant changes to its platforms. The regulation aims to improve user experience and reduce harm.",
     "importance": 6,
     "classified": true
   },
@@ -1608,18 +1632,6 @@
     "classified": true
   },
   {
-    "title": "Pricing houses in bitcoin exposes dollar's loss of value",
-    "link": "https://www.coindesk.com/daybook-us/2026/07/09/pricing-houses-in-bitcoin-exposes-dollar-s-loss-of-value",
-    "pubDate": "Thu, 09 Jul 2026 11:27:10 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "Your day-ahead look for July 9, 2026",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/5732b301d15fada3b0745800f06ab416d2311b05-2400x1350.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "The news article's title, 'Pricing houses in bitcoin exposes dollar's loss of value,' suggests a discussion on using Bitcoin for real estate transactions to highlight the depreciation of the US dollar. However, the provided content is merely a placeholder stating 'Your day-ahead look for July 9, 2026,' offering no actual details or analysis on the stated topic.",
-    "importance": 3,
-    "classified": true
-  },
-  {
     "title": "White House says it received no Democratic response related to SEC, CFTC vacancies",
     "link": "https://cointelegraph.com/news/white-house-request-cftc-sec-nominations-democrats?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "pubDate": "Thu, 09 Jul 2026 19:48:37 +0000",
@@ -1676,18 +1688,6 @@
     "content": "Squeeze on Rust Belt electricity bills threatens Trump’s manufacturing plan.",
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/Electric-Arc-Furnace-1152x648.jpg",
     "summary": "The energy demand of data centers is threatening Donald Trump's Made in America plan by squeezing Rust Belt electricity bills, which could impact manufacturing. This could hinder Trump's goal of revitalizing American industry. Data centers' high energy consumption is a significant contributor to this issue.",
-    "importance": 2,
-    "classified": true
-  },
-  {
-    "title": "Trump asked Musk for SpaceX stock to seed US kids’ savings accounts, report says",
-    "link": "https://arstechnica.com/tech-policy/2026/06/spacex-may-donate-stock-to-trumps-savings-accounts-for-kids-report-says/",
-    "pubDate": "Tue, 30 Jun 2026 15:38:08 +0000",
-    "source": "Ars Technica AI",
-    "category": "ai",
-    "content": "Sources suggest Musk may be mulling big donation to Trump Accounts.",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-2280560807-1024x648.jpg",
-    "summary": "According to sources, former President Trump approached Elon Musk about a large donation of SpaceX stock to fund savings accounts for American children. The report suggests Musk is considering a sizable contribution to the Trump-backed initiative.",
     "importance": 2,
     "classified": true
   },
