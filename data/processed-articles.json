@@ -36,6 +36,30 @@
     "classified": true
   },
   {
+    "title": "Lending protocol Bonzo loses 77% of value locked as $9 million oracle exploit rattles Hedera",
+    "link": "https://www.coindesk.com/web3/2026/07/11/lending-protocol-bonzo-loses-77-of-value-locked-as-usd9-million-oracle-exploit-rattles-hedera",
+    "pubDate": "Sat, 11 Jul 2026 18:06:58 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "Bonzo Lend lost approximately $9.05 million after an attacker exploited a verification flaw in a third-party Supra oracle contract on the Hedera network.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/eeb54516a3b0a19f03d51ee5552619fa13b3be71-1920x1440.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "The lending protocol Bonzo Lend suffered a substantial loss of approximately $9.05 million due to an exploit on the Hedera network. An attacker leveraged a verification flaw in a third-party Supra oracle contract, causing Bonzo Lend's total value locked to plummet by 77%.",
+    "importance": 8,
+    "classified": true
+  },
+  {
+    "title": "Crypto IPO market stalls as capital rotates to AI and macro uncertainty weighs",
+    "link": "https://www.coindesk.com/business/2026/07/08/crypto-ipo-market-stalls-as-capital-rotates-to-ai-and-macro-uncertainty-weighs",
+    "pubDate": "Sat, 11 Jul 2026 17:07:24 +0000",
+    "source": "CoinDesk",
+    "category": "both",
+    "content": "Funding constraints and investor caution, not regulation, are delaying crypto IPOs, according to Cohen & Company Capital Markets' Christian Lopez.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/254961a3adc7c5698b4ba47d0de96c8605400978-1920x1280.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "The crypto IPO market is experiencing a stall due to funding constraints and investor caution, with capital instead rotating to AI and macro uncertainty. Christian Lopez of Cohen & Company Capital Markets attributes the delay to these factors rather than regulation. This shift in capital highlights a notable trend in investor interest.",
+    "importance": 8,
+    "classified": true
+  },
+  {
     "title": "The UK has finally shown it’s serious about crypto ",
     "link": "https://www.coindesk.com/opinion/2026/07/11/the-uk-has-finally-shown-it-s-serious-about-crypto",
     "pubDate": "Sat, 11 Jul 2026 15:00:00 +0000",
@@ -144,36 +168,12 @@
     "classified": true
   },
   {
-    "title": "Newest version of crypto Clarity Act may drop as soon as next week, sources say",
-    "link": "https://www.coindesk.com/policy/2026/07/09/newest-version-of-crypto-clarity-act-may-drop-as-soon-as-next-week-sources-say",
-    "pubDate": "Thu, 09 Jul 2026 19:34:24 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "After a long stretch without breakthroughs in the crypto market structure bill, insiders say a new draft may emerge in a final push for late-July action — though it still lacks bipartisan buy-in.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/eb8dcd6a8ff7a00d092a7e659c13193ec9cd42ea-1920x1080.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "A new draft of the crypto Clarity Act may be released as soon as next week, according to sources, in a final push for late-July action. The bill aims to address the crypto market structure, but still lacks bipartisan support. Its release is anticipated, but the outcome remains uncertain.",
-    "importance": 8,
-    "classified": true
-  },
-  {
-    "title": "Billions flowing out of bitcoin ETFs and private credit funds suggest rising market risks",
-    "link": "https://www.coindesk.com/markets/2026/07/09/billions-flowing-out-of-bitcoin-etfs-and-private-credit-funds-suggest-rising-market-risks",
-    "pubDate": "Thu, 09 Jul 2026 18:13:04 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "Redemption requests in the $2 trillion private credit market surged to $15.6 billion in the second quarter, dwarfing bitcoin ETF outflows.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/acff788d593a11a429ff5ac3f8202562c0e78c86-5184x3456.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "Redemption requests in private credit markets have surged, with $15.6 billion in outflows in the second quarter, exceeding outflows from bitcoin ETFs. This shift in investor behavior may indicate rising market risks. The significant outflows from both private credit and bitcoin ETFs suggest a broader trend of investors becoming more cautious.",
-    "importance": 8,
-    "classified": true
-  },
-  {
     "title": "Bonzo Lend loses $9M in oracle exploit on Hedera",
     "link": "https://cointelegraph.com/news/bonzo-lend-9m-oracle-exploit-hedera?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "pubDate": "Sat, 11 Jul 2026 11:56:54 +0000",
     "source": "Cointelegraph",
     "category": "crypto",
-    "content": "An attacker inflated the value of SAUCE collateral and borrowed $9 million from Bonzo Lend through a flaw in Supra’s on-chain oracle verifier.",
+    "content": "An attacker inflated the value of SAUCE collateral and borrowed $9 million from Bonzo Lend through a flaw in Supra’s onchain oracle verifier.",
     "image": "https://s3-images.ctmedia.io/media/article-covers/hi-image-for-evergreenguide-about-iota-price-prediction-1.jpg",
     "summary": "Bonzo Lend suffered a $9 million loss due to an oracle exploit on the Hedera network. An attacker exploited a flaw in Supra's on-chain oracle verifier to inflate the value of SAUCE collateral and borrow funds.",
     "importance": 8,
