@@ -12,18 +12,6 @@
     "classified": true
   },
   {
-    "title": "AI contracts, not bitcoin, now drive miner valuations, and Cipher and TeraWulf look cheap, says analyst",
-    "link": "https://www.coindesk.com/markets/2026/07/09/cipher-terawulf-among-ai-infrastructure-stocks-trading-below-contract-value-compass-point-argues",
-    "pubDate": "Thu, 09 Jul 2026 15:53:42 +0000",
-    "source": "CoinDesk",
-    "category": "both",
-    "content": "Compass Point analysts Michael Donovan and Ed Engel said markets are giving little credit to future AI data center pipelines despite billions of dollars in signed leases.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/b3684afc71106d0b71d93f3b587e4d86a1612d4e-5700x3783.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "Compass Point analysts Michael Donovan and Ed Engel state that AI contracts, rather than Bitcoin, are now the primary drivers of miner valuations. They note that markets are currently undervaluing future AI data center pipelines despite billions in signed leases, suggesting that companies like Cipher and TeraWulf appear cheap.",
-    "importance": 9,
-    "classified": true
-  },
-  {
     "title": "A16z’s Andreessen lands Federal Reserve role as AI reshapes policy debate",
     "link": "https://cointelegraph.com/news/federal-reserve-a16z-co-founder-monetary-policy-task-force?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "pubDate": "Fri, 10 Jul 2026 14:12:53 +0000",
@@ -45,6 +33,18 @@
     "image": "https://s3-images.ctmedia.io/media/article-covers/crypto-lobby.jpg",
     "summary": "The CLARITY Act's progression is drawing attention to the crypto industry's increasing political influence and substantial lobbying expenditures in Washington D.C. The article examines the impact of this extensive campaign on potential legislative outcomes.",
     "importance": 9,
+    "classified": true
+  },
+  {
+    "title": "The UK has finally shown it’s serious about crypto ",
+    "link": "https://www.coindesk.com/opinion/2026/07/11/the-uk-has-finally-shown-it-s-serious-about-crypto",
+    "pubDate": "Sat, 11 Jul 2026 15:00:00 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "Several recent regulatory steps indicate the UK might finally stop dragging its feet when it comes to crypto, argues Wirex CEO Chet Shah.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/d77ca36caf0092a5926c5d03601dbfc0203999a6-5779x3853.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "According to Wirex CEO Chet Shah, the UK is finally demonstrating a serious approach to cryptocurrency through several recent regulatory steps. This shift indicates that the UK government may be moving past its previous indecisiveness regarding crypto policy.",
+    "importance": 8,
     "classified": true
   },
   {
@@ -912,18 +912,6 @@
     "classified": true
   },
   {
-    "title": "Nvidia is a victim of the compute marketplace it created",
-    "link": "https://techcrunch.com/2026/07/09/nvidia-is-a-victim-of-the-compute-marketplace-it-created/",
-    "pubDate": "Thu, 09 Jul 2026 17:06:11 +0000",
-    "source": "TechCrunch AI",
-    "category": "ai",
-    "content": "Having proven how valuable compute can be, the company finds itself at the center of a market everyone wants to be in — while simpler technologies and less interesting companies get rich on the sidelines.",
-    "image": "",
-    "summary": "Nvidia created a valuable compute marketplace, but now finds itself at the center of a competitive market where others are profiting from simpler technologies. The company's success has attracted many players to the market. Nvidia is now facing competition from less interesting companies.",
-    "importance": 8,
-    "classified": true
-  },
-  {
     "title": "Meta turns off the Instagram feature that let users make AI deepfakes of public accounts",
     "link": "https://www.theverge.com/tech/964416/meta-instagram-ai-muse-image-deepfakes",
     "pubDate": "2026-07-10T23:49:50.000Z",
@@ -1296,6 +1284,18 @@
     "classified": true
   },
   {
+    "title": "OpenAI bets on families as ChatGPT goes deeper into households",
+    "link": "https://techcrunch.com/2026/07/11/openai-bets-on-families-as-chatgpt-goes-deeper-into-households/",
+    "pubDate": "Sat, 11 Jul 2026 14:13:00 +0000",
+    "source": "TechCrunch AI",
+    "category": "ai",
+    "content": "ChatGPT is hiring a dedicated product manager to build experiences for families, caregivers, and older adults, according to a job posting.",
+    "image": "",
+    "summary": "OpenAI is hiring a dedicated product manager to develop ChatGPT experiences specifically for families, caregivers, and older adults. This move indicates a strategic effort by the company to expand the AI's reach and integration into everyday household use.",
+    "importance": 7,
+    "classified": true
+  },
+  {
     "title": "Trump gets OpenAI to offer US 5% stake, far lower than Sanders’ target",
     "link": "https://arstechnica.com/tech-policy/2026/07/openai-floats-giving-us-5-stake-to-win-over-ai-haters/",
     "pubDate": "Thu, 02 Jul 2026 15:12:25 +0000",
@@ -1368,6 +1368,18 @@
     "classified": true
   },
   {
+    "title": "Bitcoin nearing late stages of bear market: Jamie Coutts, Real Vision",
+    "link": "https://cointelegraph.com/features/bitcoin-is-approaching-the-second-half-of-the-bear-market-jamie-coutts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Sat, 11 Jul 2026 13:30:00 +0000",
+    "source": "Cointelegraph",
+    "category": "crypto",
+    "content": "Real Vision chief crypto analyst Jamie Coutts said it's far too early to call $1 million by 2030, but he's confident Bitcoin could climb up to $250,000 over the next couple of years.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/interview-10-07-2027.jpg",
+    "summary": "Real Vision chief crypto analyst Jamie Coutts believes Bitcoin is nearing the late stages of its bear market and could reach $250,000 within the next couple of years. While he considers a $1 million target by 2030 premature, he expresses confidence in Bitcoin's significant near-term price appreciation.",
+    "importance": 6,
+    "classified": true
+  },
+  {
     "title": "New Hampshire council votes down $100M Bitcoin bonds",
     "link": "https://cointelegraph.com/news/new-hampshire-votes-against-bitcoin-bonds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "pubDate": "Fri, 10 Jul 2026 17:23:10 +0000",
@@ -1404,14 +1416,14 @@
     "classified": true
   },
   {
-    "title": "Coinbase chief legal officer to transition to advisory role on July 31",
-    "link": "https://cointelegraph.com/news/coinbase-chief-legal-officer-stepping-down?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Thu, 09 Jul 2026 21:35:12 +0000",
-    "source": "Cointelegraph",
+    "title": "Bitcoin, ether ETFs snap eight-week outflow streaks with $282 million combined inflow",
+    "link": "https://www.theblock.co/post/407957/bitcoin-ether-etfs-snap-eight-week-outflow-streaks-with-282-million-combined-inflow?utm_source=rss&utm_medium=rss",
+    "pubDate": "Sat, 11 Jul 2026 11:19:15 -0400",
+    "source": "The Block",
     "category": "crypto",
-    "content": "The soon-to-be former chief legal officer did not announce the details of his next move but said that he would continue working with the Board of Coinbase National Trust Company.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-coinbase-vs-us-court-follow-up.jpg",
-    "summary": "Coinbase's chief legal officer will transition to an advisory role on July 31, and will continue working with the Board of Coinbase National Trust Company. The details of his next move have not been announced. This change may impact Coinbase's legal and regulatory strategies.",
+    "content": "The preceding eight weeks drained a combined $9.46 billion from the two groups, meaning this week’s rebound recovered only about 3% of those outflows.",
+    "image": "https://www.tbstat.com/wp/uploads/2024/05/20240509_Bitcoin_News_6-800x450.jpg",
+    "summary": "Bitcoin and ether ETFs recorded a combined inflow of $282 million, breaking an eight-week streak of outflows. However, this inflow only recovered approximately 3% of the $9.46 billion that had exited the funds during the preceding period.",
     "importance": 6,
     "classified": true
   },
@@ -1472,18 +1484,6 @@
     "content": "North Carolina's new law taxes prediction market platforms at 6% of their net trading fee revenue that is attributable to North Carolina residents.",
     "image": "https://www.tbstat.com/wp/uploads/2026/01/20260120_Prediction-Markets_News_2-800x450.jpg",
     "summary": "North Carolina has passed a bill that recognizes the Commodity Futures Trading Commission's (CFTC) preemption over prediction markets and imposes a 6% tax on prediction market platforms' net trading fee revenue from state residents. This law affects how prediction markets operate in the state. The move may have implications for the broader regulatory environment of prediction markets.",
-    "importance": 6,
-    "classified": true
-  },
-  {
-    "title": "Coinbase Chief Legal Officer Paul Grewal steps down, remains in advisory role",
-    "link": "https://www.theblock.co/post/407809/coinbase-chief-legal-officer-paul-grewal-steps-down?utm_source=rss&utm_medium=rss",
-    "pubDate": "Thu, 09 Jul 2026 17:13:44 -0400",
-    "source": "The Block",
-    "category": "crypto",
-    "content": "Coinbase Chief Legal Officer Paul Grewal joined the firm in mid-2020 to lead its legal, compliance and government relations operations.",
-    "image": "https://www.tbstat.com/wp/uploads/2026/06/20260612_Coinbase_News-800x450.jpg",
-    "summary": "Coinbase Chief Legal Officer Paul Grewal has stepped down from his role, but will remain in an advisory capacity. He joined the company in 2020 to lead legal, compliance, and government relations. This change may impact Coinbase's operations and regulatory affairs.",
     "importance": 6,
     "classified": true
   },
