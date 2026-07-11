@@ -48,6 +48,30 @@
     "classified": true
   },
   {
+    "title": "Bitcoin treasury company Empery Digital sold about half of its BTC stack",
+    "link": "https://www.coindesk.com/markets/2026/07/11/bitcoin-treasury-company-empery-digital-sold-about-half-of-btc-stack",
+    "pubDate": "Sat, 11 Jul 2026 12:25:05 +0000",
+    "source": "CoinDesk",
+    "category": "both",
+    "content": "It's a sign of the times as the troubled company swaps its bitcoin treasury ambitions for AI data centers.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/f4c321fb46fab8f95fc281073bbf1a2544f78eb7-2328x1492.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "Empery Digital, a company focused on Bitcoin treasury, has sold roughly half of its BTC holdings. This strategic shift indicates the troubled company is pivoting its ambitions from cryptocurrency to investing in AI data centers.",
+    "importance": 8,
+    "classified": true
+  },
+  {
+    "title": "AI found an Ethereum bug that could take validators offline, but humans had to prove it",
+    "link": "https://www.coindesk.com/tech/2026/07/10/ai-found-an-ethereum-bug-that-could-take-validators-offline-but-humans-had-to-prove-it",
+    "pubDate": "Sat, 11 Jul 2026 12:00:00 +0000",
+    "source": "CoinDesk",
+    "category": "both",
+    "content": "The Ethereum Foundation pointed coordinated AI agents at the software its validators run and got a remotely triggerable crash out of it. It also got a pile of confident, well-written findings that were not bugs at all.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/e66950b0e6ed69b66abb166d8961c9cff1c8bfb1-720x406.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "The Ethereum Foundation deployed coordinated AI agents to scan its validator software, leading to the discovery of a remotely triggerable crash bug. While the AI successfully identified this critical vulnerability, human intervention was necessary to confirm its authenticity, as the AI agents also generated a significant number of false positive findings. This highlights both the promise and current limitations of AI in blockchain security auditing.",
+    "importance": 8,
+    "classified": true
+  },
+  {
     "title": "Meta's Chief Data Officer Says Agentic Commerce is the \"Next Tier of Business\"",
     "link": "https://www.coindesk.com/coindesk-news/2026/07/10/meta-s-chief-data-officer-says-agentic-commerce-is-the-next-tier-of-business",
     "pubDate": "Fri, 10 Jul 2026 21:26:55 +0000",
@@ -144,26 +168,14 @@
     "classified": true
   },
   {
-    "title": "Ethereum's newest nonprofit wants to become Wall Street's guide to crypto",
-    "link": "https://www.coindesk.com/tech/2026/07/09/ethereum-s-newest-nonprofit-wants-to-become-wall-street-s-guide-to-crypto",
-    "pubDate": "Thu, 09 Jul 2026 14:58:55 +0000",
-    "source": "CoinDesk",
+    "title": "Bonzo Lend loses $9M in oracle exploit on Hedera",
+    "link": "https://cointelegraph.com/news/bonzo-lend-9m-oracle-exploit-hedera?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Sat, 11 Jul 2026 11:56:54 +0000",
+    "source": "Cointelegraph",
     "category": "crypto",
-    "content": "In this week's edition of The Protocol Newsletter, we’re digging into Ethereum Institutional, a new nonprofit aimed at educating financial institutions and banks about Ethereum.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/c3c673f6ba55ed0cd79499681ca46b7a8b5f7e86-5150x3427.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "Ethereum Institutional is a newly established nonprofit organization focused on educating financial institutions and banks about the Ethereum blockchain. This initiative aims to guide Wall Street into the world of cryptocurrency. The news was featured in The Protocol Newsletter.",
-    "importance": 8,
-    "classified": true
-  },
-  {
-    "title": "Aave rolls out vaults for yield-hungry fintech investors",
-    "link": "https://www.coindesk.com/business/2026/07/09/aave-rolls-out-vaults-for-yield-hungry-fintech-investors",
-    "pubDate": "Thu, 09 Jul 2026 13:01:38 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "Aave's new Stable Vaults product lets wallets, exchanges and payment apps offer yields on stablecoin deposits",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/36f114a53bbcdea37ae44f32f67ff528318e79c3-1280x960.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "Aave has introduced its new Stable Vaults product. This innovation allows fintech companies, including wallets, exchanges, and payment applications, to provide yields on stablecoin deposits to their users.",
+    "content": "An attacker inflated the value of SAUCE collateral and borrowed $9 million from Bonzo Lend through a flaw in Supra’s on-chain oracle verifier.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-image-for-evergreenguide-about-iota-price-prediction-1.jpg",
+    "summary": "Bonzo Lend suffered a $9 million loss due to an oracle exploit on the Hedera network. An attacker exploited a flaw in Supra's on-chain oracle verifier to inflate the value of SAUCE collateral and borrow funds.",
     "importance": 8,
     "classified": true
   },
@@ -356,18 +368,6 @@
     "content": "Injective said the security vulnerability was patched up immediately and claims there were no downloads of the malicious package.",
     "image": "https://s3-images.ctmedia.io/media/article-covers/crimes-code-tweezers-theft-hack-hacker-red-wallet.jpg",
     "summary": "Hackers attempted to backdoor the Injective npm package to gain access to wallet keys, posing a significant risk to developers and applications that handle Injective wallet workflows. Socket researchers discovered the incident, highlighting its importance for the security of wallet workflows. The attempt was ultimately unsuccessful.",
-    "importance": 8,
-    "classified": true
-  },
-  {
-    "title": "Phantom, Hyperliquid ask CFTC to modernize rules for onchain derivatives",
-    "link": "https://cointelegraph.com/news/phantom-hyperliquid-ask-cftc-to-modernize-rules-for-onchain-derivatives?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Thu, 09 Jul 2026 19:36:52 +0000",
-    "source": "Cointelegraph",
-    "category": "crypto",
-    "content": "The companies urged the regulator to exempt blockchain developers and non-custodial wallet providers from rules designed for traditional financial intermediaries.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/judge-hammer-regulation-cftc.jpg",
-    "summary": "Phantom and Hyperliquid are requesting the CFTC to update its rules for on-chain derivatives, seeking exemptions for blockchain developers and non-custodial wallet providers. This move aims to accommodate the unique characteristics of blockchain technology. The companies want to differentiate these rules from those applied to traditional financial intermediaries.",
     "importance": 8,
     "classified": true
   },
@@ -1236,6 +1236,30 @@
     "classified": true
   },
   {
+    "title": "Ethereum climbs 3% on tokenization boom: Can bulls push ETH price past $1,800?",
+    "link": "https://cointelegraph.com/markets/ethereum-climbs-3-on-tokenization-boom-can-bulls-push-eth-price-past-1800?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Sat, 11 Jul 2026 12:55:18 +0000",
+    "source": "Cointelegraph",
+    "category": "crypto",
+    "content": "Despite strong tokenization gains and institutional accumulation, weak onchain and derivatives data leaves ETH vulnerable to a $1,700 retest.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-major-alts-that-compete-with-ether-are-surging-why2.jpg",
+    "summary": "Ethereum saw a 3% price increase, attributed to a surge in tokenization and institutional investment. However, weak on-chain and derivatives data indicate that ETH could still retest the $1,700 support level.",
+    "importance": 7,
+    "classified": true
+  },
+  {
+    "title": "Bitcoin price gains nearly 10% in July, but traders still see BTC copying 2022 bear market",
+    "link": "https://cointelegraph.com/markets/bitcoin-price-gains-nearly-10-in-july-but-traders-still-see-btc-copying-2022-bear-market?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Sat, 11 Jul 2026 11:21:07 +0000",
+    "source": "Cointelegraph",
+    "category": "crypto",
+    "content": "Bitcoin price gains approached 10% for the first two weeks of the month, but analysis warned of the bear market returning from August onward.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-bull-or-bear-how-sec-actions-correlate-with-market-prices2-1.jpg",
+    "summary": "Bitcoin's price increased by nearly 10% in the first two weeks of July. However, analysis warns that the cryptocurrency could re-enter a bear market from August onwards, mirroring trends seen in 2022.",
+    "importance": 7,
+    "classified": true
+  },
+  {
     "title": "DOJ moves to dismiss charges against alleged $722M BitClub fraudster: Report",
     "link": "https://cointelegraph.com/news/doj-to-dismiss-charges-against-alleged-722m-bitclub-crypto-fraudster-bloomberg?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "pubDate": "Sat, 11 Jul 2026 01:30:31 +0000",
@@ -1388,18 +1412,6 @@
     "content": "The soon-to-be former chief legal officer did not announce the details of his next move but said that he would continue working with the Board of Coinbase National Trust Company.",
     "image": "https://s3-images.ctmedia.io/media/article-covers/hi-coinbase-vs-us-court-follow-up.jpg",
     "summary": "Coinbase's chief legal officer will transition to an advisory role on July 31, and will continue working with the Board of Coinbase National Trust Company. The details of his next move have not been announced. This change may impact Coinbase's legal and regulatory strategies.",
-    "importance": 6,
-    "classified": true
-  },
-  {
-    "title": "Bitdeer stock jumps 14% as company expands US mining hardware production",
-    "link": "https://cointelegraph.com/news/bitdeer-stock-jumps-14-bitcoin-mining-hardware-maker-expands-us-manufacturing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Thu, 09 Jul 2026 20:19:15 +0000",
-    "source": "Cointelegraph",
-    "category": "crypto",
-    "content": "Bitdeer shares rallied after the company announced a $36 million Nevada manufacturing facility that will produce its SEALMINER Bitcoin mining machines and expand its hardware business.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/article-covers-114514-bitdeer-losses-widen-q2-after-one-time-33-m-listing-fee-shares-up-44.jpg",
-    "summary": "Bitdeer's stock price increased by 14% after announcing a new $36 million manufacturing facility in Nevada to produce Bitcoin mining hardware. The facility will expand the company's hardware business and produce SEALMINER Bitcoin mining machines. This move aims to increase Bitdeer's presence in the US mining hardware market.",
     "importance": 6,
     "classified": true
   },
@@ -1641,18 +1653,6 @@
     "image": "https://cdn.sanity.io/images/s3y3vcno/production/8dd88cb35b7bebbb09c8e4ed53c431f147391d5b-2048x1365.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
     "summary": "Edward McGee, the Chief Financial Officer of crypto asset manager Grayscale, has stepped down after seven years. This follows the earlier departure of distribution chief John Hoffman, who left for Ondo Finance months prior.",
     "importance": 3,
-    "classified": true
-  },
-  {
-    "title": "White House says it received no Democratic response related to SEC, CFTC vacancies",
-    "link": "https://cointelegraph.com/news/white-house-request-cftc-sec-nominations-democrats?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Thu, 09 Jul 2026 19:48:37 +0000",
-    "source": "Cointelegraph",
-    "category": "crypto",
-    "content": "Both US financial regulators are understaffed at the leadership level and lacking Democratic commissioners, with no announcement from President Donald Trump on filling the roles.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/political-tokens-into-the-white-house-cftc.jpg",
-    "summary": "The White House has not received any response from Democrats regarding vacancies at the US Securities and Exchange Commission (SEC) and Commodity Futures Trading Commission (CFTC). Both regulatory bodies are currently understaffed at the leadership level. The lack of Democratic commissioners has raised concerns about the agencies' ability to function effectively.",
-    "importance": 2,
     "classified": true
   },
   {
