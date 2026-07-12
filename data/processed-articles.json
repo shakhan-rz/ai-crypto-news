@@ -372,18 +372,6 @@
     "classified": true
   },
   {
-    "title": "Zcash targets July 28 launch for Ironwood network upgrade",
-    "link": "https://cointelegraph.com/news/zcash-targets-july-28-launch-for-ironwood-network-upgrade?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Fri, 10 Jul 2026 04:25:27 +0000",
-    "source": "Cointelegraph",
-    "category": "crypto",
-    "content": "Zcash’s next upgrade will replace the once-compromised Orchard pool and may offer clues about whether counterfeit tokens were created via a recent bug.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/zcash.jpg",
-    "summary": "Zcash is planning to launch its Ironwood network upgrade on July 28, replacing the compromised Orchard pool. The upgrade may provide insight into whether counterfeit tokens were created due to a recent bug. This upgrade aims to improve the security of the Zcash network.",
-    "importance": 8,
-    "classified": true
-  },
-  {
     "title": "Hedera lending protocol Bonzo Lend hit for $9 million after Supra verifier accepts manipulated price update",
     "link": "https://www.theblock.co/post/407960/hedera-lending-protocol-bonzo-lend-hit-for-9-million-after-supra-verifier-accepts-manipulated-price-update?utm_source=rss&utm_medium=rss",
     "pubDate": "Sat, 11 Jul 2026 15:19:32 -0400",
@@ -1376,6 +1364,18 @@
     "content": "A sharp rise in the yen has left bitcoin and other major cryptocurrencies underperforming in yen terms compared with their dollar-based trading pairs.",
     "image": "https://cdn.sanity.io/images/s3y3vcno/production/3c086f61e9c97a87a590441e5467e751f7438b20-4898x3265.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
     "summary": "Bitcoin is performing strongly in USD but lagging in JPY due to a sharp rise in the yen. This disparity is caused by intervention fears, affecting Bitcoin's value in yen terms. The difference highlights the impact of currency fluctuations on cryptocurrency trading pairs.",
+    "importance": 6,
+    "classified": true
+  },
+  {
+    "title": "Cambridge study puts Ethereum near the lower end of PoS energy intensity",
+    "link": "https://cointelegraph.com/news/ethereum-pos-energy-intensity-cambridge-study?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Sun, 12 Jul 2026 09:18:17 +0000",
+    "source": "Cointelegraph",
+    "category": "crypto",
+    "content": "Cambridge estimated that Ethereum consumes 7.87 GWh annually and has the second-lowest market-value-adjusted energy intensity among the PoS networks studied.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-germanys-blockchain-solution-hopes-to-remedy-energy-sector-limitations.jpg",
+    "summary": "A Cambridge study estimated Ethereum's annual energy consumption at 7.87 GWh. The research also found that Ethereum has the second-lowest market-value-adjusted energy intensity among the Proof-of-Stake networks examined.",
     "importance": 6,
     "classified": true
   },
