@@ -180,6 +180,18 @@
     "classified": true
   },
   {
+    "title": "Strategy's Saylor needs clarity in BTC pivot message to convince investors: StanChart",
+    "link": "https://cointelegraph.com/news/strategys-saylor-needs-clarity-in-btc-pivot-message-to-convince-investors-stanchart?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Sun, 12 Jul 2026 18:16:45 +0000",
+    "source": "Cointelegraph",
+    "category": "crypto",
+    "content": "Standard Chartered sees communication challenges facing the biggest digital asset treasury company as \"muddying the waters\" for Bitcoin in the near term.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/michael-saylors-big-bet-institutional-investments-role-in-bitcoins-price.png",
+    "summary": "Standard Chartered believes communication challenges from the largest digital asset treasury company, implied to be MicroStrategy and Michael Saylor, are creating near-term uncertainty for Bitcoin. The bank suggests Saylor needs to provide more clarity in his Bitcoin pivot message to reassure investors.",
+    "importance": 8,
+    "classified": true
+  },
+  {
     "title": "Empery Digital shares rise after selling BTC to fund AI data center project",
     "link": "https://cointelegraph.com/news/empery-digital-shares-rise-after-selling-bitcoin-treasury-to-fund-ai-data-center-project?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "pubDate": "Sun, 12 Jul 2026 01:05:00 +0000",
@@ -348,14 +360,14 @@
     "classified": true
   },
   {
-    "title": "EU parliament passes ‘chat control,’ allowing private chat scans until 2028",
-    "link": "https://cointelegraph.com/news/eu-parliament-passes-chat-control-allowing-private-chat-scans-to-2028?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Fri, 10 Jul 2026 06:05:38 +0000",
-    "source": "Cointelegraph",
-    "category": "ai",
-    "content": "EU lawmakers have again allowed tech firms to scan chats for abuse material, but exempted end-to-end encrypted messages.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-why-setup-matters-for-cryptocurrency-privacy2.jpg",
-    "summary": "The EU parliament has passed a law allowing tech firms to scan private chats for abuse material until 2028, while exempting end-to-end encrypted messages. This decision aims to balance online safety with user privacy. The law's implications may impact tech companies and users alike.",
+    "title": "Michael Saylor posts cryptic Strategy chart after $216 million bitcoin sale: ‘Orange dots tell only part of the story’",
+    "link": "https://www.theblock.co/post/407965/michael-saylor-posts-cryptic-strategy-chart-after-216-million-bitcoin-sale-orange-dots-tell-only-part-of-the-story?utm_source=rss&utm_medium=rss",
+    "pubDate": "Sun, 12 Jul 2026 14:43:15 -0400",
+    "source": "The Block",
+    "category": "crypto",
+    "content": "Strategy holds 843,775 BTC at an average cost of $75,476, leaving the position roughly $9.7 billion underwater with bitcoin trading near $64,000.",
+    "image": "https://www.tbstat.com/wp/uploads/2024/11/20241127_Michael-Saylor_News-800x450.jpg",
+    "summary": "Michael Saylor's company, Strategy, holds 843,775 BTC at an average cost of $75,476, currently placing their position roughly $9.7 billion underwater with Bitcoin trading near $64,000. This news follows a $216 million Bitcoin sale by the company, after which Saylor posted a cryptic chart suggesting there's more to the story than just the \"orange dots.\"",
     "importance": 8,
     "classified": true
   },
@@ -512,18 +524,6 @@
     "content": "Revolut X now connects to Claude, Gemini, OpenClaw, and Cursor, letting crypto users analyze, backtest, and execute trades via AI prompts.",
     "image": "https://www.tbstat.com/wp/uploads/2022/11/20221118_Revolut-800x450.jpg",
     "summary": "Revolut X has integrated its crypto exchange with AI assistants, including Claude, Gemini, OpenClaw, and Cursor, allowing users to analyze, backtest, and execute trades using AI prompts. This integration enables users to leverage AI capabilities for more informed trading decisions. The move marks a significant step in the adoption of AI in cryptocurrency trading.",
-    "importance": 8,
-    "classified": true
-  },
-  {
-    "title": "Polymarket files applications to offer regulated margin trading in US",
-    "link": "https://www.theblock.co/post/407820/polymarket-margin-trading?utm_source=rss&utm_medium=rss",
-    "pubDate": "Fri, 10 Jul 2026 00:10:25 -0400",
-    "source": "The Block",
-    "category": "crypto",
-    "content": "Polymarket's rival platform, Kalshi, already received US regulatory approval to provide margin trading back in March.",
-    "image": "https://www.tbstat.com/wp/uploads/2024/11/20241111_Polymarket_News_2-800x450.jpg",
-    "summary": "Polymarket has filed applications to offer regulated margin trading in the US, following in the footsteps of its rival Kalshi, which received approval in March. This move aims to provide a regulated platform for users to engage in margin trading. The development is significant for the crypto community.",
     "importance": 8,
     "classified": true
   },
@@ -900,6 +900,18 @@
     "classified": true
   },
   {
+    "title": "Apple’s failed self-driving car program left a legacy of powerful AI chips",
+    "link": "https://www.theverge.com/tech/964519/apple-silicon-self-driving-car-ai-m7-ultra",
+    "pubDate": "2026-07-12T16:27:06.000Z",
+    "source": "The Verge AI",
+    "category": "ai",
+    "content": "Apple's self-driving car program never really got off the ground, but it may have been what made the company's chips the powerful AI performers they are. Early in the development of the self-driving platform, Apple realized that it would need powerful on-device AI processing. While the car processor was never finished, as Mark Gurman details in his latest Power On newsletter, it did lead to the development of the Neural Engine, the backbone of Apple's on-device AI processing. \nThe Neural Engine made its debut with the iPhone X and the A11 Bionic. In those early days, it was primarily used for computer vision, powering FaceID, Animoji, and a …\nRead the full story at The Verge.",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/apple_chips.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "summary": "Apple's failed self-driving car program unexpectedly led to the development of the company's powerful on-device AI chips. The necessity for robust AI processing for the car project resulted in the creation of the Neural Engine. This crucial technology, first seen in the A11 Bionic and iPhone X, now underpins Apple's AI capabilities for features like FaceID.",
+    "importance": 8,
+    "classified": true
+  },
+  {
     "title": "The fight against AI data centers is just beginning",
     "link": "https://www.theverge.com/column/963346/ai-data-centers-fight",
     "pubDate": "2026-07-12T12:00:00.000Z",
@@ -980,18 +992,6 @@
     "content": "You can see if ads on Google Search, Google Discover, and YouTube were made or edited using AI from a new section in Google's \"My Ad Center,\" as reported earlier by TechCrunch. The update, announced on Thursday, adds a \"created or edited with AI\" label under the \"how this ad was made\" tab. Users can find it by tapping the three dots or info button on ads, which pulls up the same panel where you can also block or report ads.\nGoogle says it will automatically apply the AI label to any ads made with its own generative AI advertising tools, but AI ads made elsewhere will need to have the label applied manually. In some regions, Google's new AI  …\nRead the full story at The Verge.",
     "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/google-ai-ads-label.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
     "summary": "Google has introduced a new feature that labels ads created or edited with AI, visible in the 'My Ad Center' section on Google Search, Google Discover, and YouTube. The label will be automatically applied to ads made with Google's generative AI tools, while others will require manual labeling. This update aims to increase transparency in ad creation.",
-    "importance": 8,
-    "classified": true
-  },
-  {
-    "title": "Microsoft’s patch Tuesdays are about to get bigger",
-    "link": "https://www.theverge.com/tech/963307/microsoft-patch-tuesday-ai-security-updates",
-    "pubDate": "2026-07-09T17:00:00.000Z",
-    "source": "The Verge AI",
-    "category": "ai",
-    "content": "Windows 11 updates could soon include fixes for more security issues at once. Microsoft said in a blog post on Thursday that it's now using AI to \"identify potential issues earlier,\" which means \"customers will see a higher volume of security updates included in each security release.\" \nHackers, even amateurs, have increasingly been using AI to quickly exploit security weaknesses over the past several months. Security researchers are also using AI to find issues faster, leading to more frequent high-severity vulnerabilities, like the \"Copy Fail\" exploit that impacted nearly every Linux distribution in May. Similarly, when Anthropic announce …\nRead the full story at The Verge.",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24038601/acastro_STK109_microsoft_02.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "summary": "Microsoft is using AI to identify potential security issues earlier, resulting in a higher volume of security updates in each release, as hackers and security researchers increasingly use AI to exploit and find vulnerabilities. This is in response to the growing use of AI by hackers to quickly exploit security weaknesses. The move aims to improve Windows 11 security.",
     "importance": 8,
     "classified": true
   },
@@ -1125,6 +1125,18 @@
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2280258777-1024x648.jpg",
     "summary": "The US has lifted restrictions on Anthropic's advanced AI models, Fable and Mythos, permitting their global release. This follows earlier safety testing prompted by concerns raised by former President Trump.",
     "importance": 8,
+    "classified": true
+  },
+  {
+    "title": "Signs of life?: State of Crypto ",
+    "link": "https://www.coindesk.com/policy/2026/07/12/signs-of-life-state-of-crypto",
+    "pubDate": "Sun, 12 Jul 2026 18:30:00 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "Several sources told CoinDesk that a new draft of the Clarity Act may drop this week, but challenges remain.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/39aef47b93f60ebf7e668e371d51320693bb79e3-3364x1894.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "Sources indicate that a new draft of the Clarity Act, a piece of legislation relevant to cryptocurrency, may be released this week. Despite this potential development, the article notes that the crypto industry continues to face significant challenges.",
+    "importance": 7,
     "classified": true
   },
   {
@@ -1352,18 +1364,6 @@
     "content": "A late-session volume surge carried XRP above its recent range, with traders now watching whether $1.10 can hold as support.",
     "image": "https://cdn.sanity.io/images/s3y3vcno/production/3335575b8017b2a144ef36b99906483e6efe6b5d-1400x866.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
     "summary": "XRP's price has increased by 2% after buyers pushed through the $1.10 resistance level, with traders now monitoring if this level can hold as support. The late-session volume surge led to this price movement. The cryptocurrency's next steps are being closely watched by traders.",
-    "importance": 6,
-    "classified": true
-  },
-  {
-    "title": "Bitcoin's quiet split: Strong in USD, lagging in JPY as Yen rises on intervention fears",
-    "link": "https://www.coindesk.com/markets/2026/07/10/bitcoin-s-quiet-split-strong-in-usd-lagging-in-jpy-as-yen-rises-on-intervention-fears",
-    "pubDate": "Fri, 10 Jul 2026 04:34:06 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "A sharp rise in the yen has left bitcoin and other major cryptocurrencies underperforming in yen terms compared with their dollar-based trading pairs.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/3c086f61e9c97a87a590441e5467e751f7438b20-4898x3265.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "Bitcoin is performing strongly in USD but lagging in JPY due to a sharp rise in the yen. This disparity is caused by intervention fears, affecting Bitcoin's value in yen terms. The difference highlights the impact of currency fluctuations on cryptocurrency trading pairs.",
     "importance": 6,
     "classified": true
   },
