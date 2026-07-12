@@ -36,6 +36,18 @@
     "classified": true
   },
   {
+    "title": "Bitcoin’s BIP 110 fork deadline nears with miner support at zero",
+    "link": "https://www.coindesk.com/tech/2026/07/12/bitcoin-s-bip-110-fork-deadline-nears-with-miner-support-at-zero",
+    "pubDate": "Sun, 12 Jul 2026 05:49:52 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "The BIP 110 proposal would cap arbitrary data on Bitcoin for a year, but Saylor, Adam Back and others say turning a spam dispute into a consensus fight could create a bigger risk than the spam itself.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/61a9559ef27c28600826f6691b0424ccfd776182-1500x1000.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "The Bitcoin BIP 110 proposal, aimed at capping arbitrary data for a year, is nearing its deadline with no miner support. Key figures like Michael Saylor and Adam Back warn that turning a spam dispute into a consensus fight could create greater risks for the network.",
+    "importance": 8,
+    "classified": true
+  },
+  {
     "title": "Lending protocol Bonzo loses 77% of value locked as $9 million oracle exploit rattles Hedera",
     "link": "https://www.coindesk.com/web3/2026/07/11/lending-protocol-bonzo-loses-77-of-value-locked-as-usd9-million-oracle-exploit-rattles-hedera",
     "pubDate": "Sat, 11 Jul 2026 18:06:58 +0000",
@@ -156,19 +168,7 @@
     "classified": true
   },
   {
-    "title": "Arbitrum jumps 19% benefitting from Robinhood's $568 million onchain trading frenzy",
-    "link": "https://www.coindesk.com/markets/2026/07/09/arbitrum-jumps-19-benefitting-from-robinhood-s-usd568-million-onchain-trading-frenzy",
-    "pubDate": "Thu, 09 Jul 2026 20:28:51 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "The brokerage's new blockchain is off to a fast start, with memecoin trading boosting activity and revenue flowing back to the Arbitrum ecosystem.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/da9ffcdfcd965614c3a32a2e673631861308b387-1920x1080.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "Arbitrum's token price jumped 19% following a $568 million on-chain trading frenzy on Robinhood's new blockchain. This significant activity, largely driven by memecoin trading, is generating revenue that flows back into the Arbitrum ecosystem.",
-    "importance": 8,
-    "classified": true
-  },
-  {
-    "title": "Empery Digital shares rise after selling Bitcoin treasury to fund AI data center project",
+    "title": "Empery Digital shares rise after selling Bitcoin to fund AI data center project",
     "link": "https://cointelegraph.com/news/empery-digital-shares-rise-after-selling-bitcoin-treasury-to-fund-ai-data-center-project?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "pubDate": "Sun, 12 Jul 2026 01:00:54 +0000",
     "source": "Cointelegraph",
@@ -368,18 +368,6 @@
     "content": "Zcash’s next upgrade will replace the once-compromised Orchard pool and may offer clues about whether counterfeit tokens were created via a recent bug.",
     "image": "https://s3-images.ctmedia.io/media/article-covers/zcash.jpg",
     "summary": "Zcash is planning to launch its Ironwood network upgrade on July 28, replacing the compromised Orchard pool. The upgrade may provide insight into whether counterfeit tokens were created due to a recent bug. This upgrade aims to improve the security of the Zcash network.",
-    "importance": 8,
-    "classified": true
-  },
-  {
-    "title": "Hackers tried to backdoor Injective NPM package to steal wallet keys ",
-    "link": "https://cointelegraph.com/news/hackers-compromise-injective-npm-package-with-malware-to-steal-wallet-keys?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Fri, 10 Jul 2026 03:07:47 +0000",
-    "source": "Cointelegraph",
-    "category": "crypto",
-    "content": "Injective said the security vulnerability was patched up immediately and claims there were no downloads of the malicious package.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/crimes-code-tweezers-theft-hack-hacker-red-wallet.jpg",
-    "summary": "Hackers attempted to backdoor the Injective npm package to gain access to wallet keys, posing a significant risk to developers and applications that handle Injective wallet workflows. Socket researchers discovered the incident, highlighting its importance for the security of wallet workflows. The attempt was ultimately unsuccessful.",
     "importance": 8,
     "classified": true
   },
@@ -1236,6 +1224,18 @@
     "classified": true
   },
   {
+    "title": "Bitcoin bulls Michael Saylor, Adam Back slam BIP-110 Ordinals proposal",
+    "link": "https://cointelegraph.com/news/bitcoin-leaders-michael-saylor-and-adam-back-rebuff-bip-110-proposal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Sun, 12 Jul 2026 04:24:36 +0000",
+    "source": "Cointelegraph",
+    "category": "crypto",
+    "content": "The ongoing debate comes despite a broad downturn in Ordinals transaction activity over the last two years.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-what-are-bitcoin-ordinals.jpg",
+    "summary": "Prominent Bitcoin figures Michael Saylor and Adam Back have criticized the BIP-110 Ordinals proposal. This debate persists even though Ordinals transaction activity has broadly declined over the last two years.",
+    "importance": 7,
+    "classified": true
+  },
+  {
     "title": "Ethereum climbs 3% on tokenization boom: Can bulls push ETH price past $1,800?",
     "link": "https://cointelegraph.com/markets/ethereum-climbs-3-on-tokenization-boom-can-bulls-push-eth-price-past-1800?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "pubDate": "Sat, 11 Jul 2026 12:55:18 +0000",
@@ -1622,7 +1622,7 @@
   {
     "title": "Here’s what happened in crypto today",
     "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Sat, 11 Jul 2026 04:13:13 +0000",
+    "pubDate": "Sun, 12 Jul 2026 04:24:58 +0000",
     "source": "Cointelegraph",
     "category": "crypto",
     "content": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
