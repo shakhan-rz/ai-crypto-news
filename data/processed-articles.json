@@ -12,15 +12,27 @@
     "classified": true
   },
   {
-    "title": "OKX, MetaMask, Matter Labs back dispute resolution court for AI agents",
-    "link": "https://www.coindesk.com/business/2026/07/10/okx-metamask-matter-labs-back-dispute-resolution-court-for-ai-agents",
-    "pubDate": "Fri, 10 Jul 2026 12:29:08 +0000",
+    "title": "UK Treasury report on tokenization cites Ripple as convergence model",
+    "link": "https://www.coindesk.com/policy/2026/07/13/ripple-lands-inside-uk-plan-for-tokenized-repo-bonds-and-funds",
+    "pubDate": "Mon, 13 Jul 2026 14:06:53 +0000",
     "source": "CoinDesk",
-    "category": "both",
-    "content": "The Genlayer Foundation is leading the 27-firm consortium that makes AI-based payments, escrow and dispute resolution interoperable.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/c4b55ff67ef1d065e3e2e556ba0209a416b27d44-2048x1365.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "The Genlayer Foundation, supported by OKX, MetaMask, and Matter Labs, is leading a consortium of 27 firms to create a dispute resolution court for AI agents. This initiative aims to make AI-based payments, escrow, and dispute resolution systems interoperable across various platforms.",
-    "importance": 9,
+    "category": "crypto",
+    "content": "A Treasury-backed report targets putting repo, gilts and funds onchain within two years, and warms to permissionless networks that firms like Ripple have been building on.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/7062083f3eac875ac832f0c15d78be2612e57afe-1440x810.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "A UK Treasury-backed report outlines plans to tokenize financial instruments like repo, gilts, and funds, aiming for on-chain implementation within two years. The report expresses support for permissionless networks, referencing firms like Ripple as examples of companies utilizing this technology.",
+    "importance": 8,
+    "classified": true
+  },
+  {
+    "title": "Robinhood Chain surges into top five by DEX volume: Bernstein",
+    "link": "https://www.coindesk.com/tech/2026/07/13/robinhood-chain-surges-into-top-five-by-dex-volume-bernstein",
+    "pubDate": "Mon, 13 Jul 2026 12:49:00 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "Robinhood's new blockchain quickly became a top-five network by DEX volume, signaling strong early demand for its tokenized asset platform, the broker said.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/da9ffcdfcd965614c3a32a2e673631861308b387-1920x1080.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "Robinhood's new blockchain has quickly ascended to become one of the top five networks by decentralized exchange (DEX) volume. This rapid growth suggests strong early demand for its tokenized asset platform.",
+    "importance": 8,
     "classified": true
   },
   {
@@ -156,50 +168,14 @@
     "classified": true
   },
   {
-    "title": "Meta's Chief Data Officer Says Agentic Commerce is the \"Next Tier of Business\"",
-    "link": "https://www.coindesk.com/coindesk-news/2026/07/10/meta-s-chief-data-officer-says-agentic-commerce-is-the-next-tier-of-business",
-    "pubDate": "Fri, 10 Jul 2026 21:26:55 +0000",
-    "source": "CoinDesk",
-    "category": "both",
-    "content": "Alex Schultz says stablecoins are assumed inside Meta. The harder problem is getting the rest of the world there.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/0b55bc6f2fad31cc29bbad3b7a452e3ddd7fdf79-1920x1080.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "Meta's Chief Data Officer, Alex Schultz, identifies \"Agentic Commerce\" as the next major phase of business, highlighting its importance for the company's future. He notes that while stablecoins are an accepted norm within Meta, the primary challenge lies in achieving their widespread global adoption.",
-    "importance": 8,
-    "classified": true
-  },
-  {
-    "title": "U.S. government digital dollar set to be banned tonight under housing law's CBDC limit",
-    "link": "https://www.coindesk.com/policy/2026/07/10/u-s-government-digital-dollar-set-to-be-banned-tonight-under-housing-law-s-cbdc-limit",
-    "pubDate": "Fri, 10 Jul 2026 16:02:21 +0000",
-    "source": "CoinDesk",
+    "title": "Coinbase Ventures tops crypto VC list for H1 2026",
+    "link": "https://cointelegraph.com/news/coinbase-ventures-leading-crypto-vc-h1-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Mon, 13 Jul 2026 13:26:50 +0000",
+    "source": "Cointelegraph",
     "category": "crypto",
-    "content": "Despite President Donald Trump's refusal to sign Congress' bipartisan housing bill, it's set to go into effect at midnight, and its temporary CBDC ban along with it.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/e473e13d2b998775c2c41a1456513cc8710f6cd7-2461x1385.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "A temporary ban on a U.S. government digital dollar (CBDC) is set to go into effect tonight as part of a bipartisan housing bill. The legislation will become law at midnight despite President Trump's refusal to sign it, implementing a limit on central bank digital currency.",
-    "importance": 8,
-    "classified": true
-  },
-  {
-    "title": "Hyundai becomes first major South Korean company to introduce internal stablecoin transfers",
-    "link": "https://www.coindesk.com/business/2026/07/10/hyundai-becomes-first-major-south-korean-company-to-introduce-internal-stablecoin-transfers",
-    "pubDate": "Fri, 10 Jul 2026 15:26:43 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "The initiative builds on a broader shift by companies exploring stablecoins to move money between international operations more efficiently.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/fc1a4a08a209cc97dd1f7ba339f320d900f67507-5175x3514.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "Hyundai has become the first major South Korean company to implement internal stablecoin transfers. This initiative aligns with a growing trend of companies utilizing stablecoins to improve the efficiency of international money movement between their operations.",
-    "importance": 8,
-    "classified": true
-  },
-  {
-    "title": "Circle soars after securing U.S. trust bank approval in crypto expansion",
-    "link": "https://www.coindesk.com/business/2026/07/10/circle-secures-u-s-trust-bank-approval-in-crypto-expansion",
-    "pubDate": "Fri, 10 Jul 2026 11:41:47 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "The approval adds to a growing list of crypto firms seeking federal banking licenses as the industry moves into the regulated financial system.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/024ae1afdc1672e747814cc0546828b965ecf695-5162x3441.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "Circle, a prominent crypto firm, has successfully secured U.S. trust bank approval, marking a significant step in its expansion within the regulated financial system. This approval is part of a growing trend where numerous cryptocurrency companies are seeking federal banking licenses, indicating the industry's movement towards integration with traditional finance.",
+    "content": "Coinbase’s venture capital arm leads 2026 crypto investing even as funding withered and unique investors shied away amid the bear market.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-blockchain-vc-funding-surpasses-2021-totl-despite-declining-since-may.jpg",
+    "summary": "Coinbase Ventures has been identified as the leading venture capital investor in the crypto sector for the first half of 2026. This achievement occurred despite a challenging bear market, which saw overall funding decline and fewer unique investors engaging in the space.",
     "importance": 8,
     "classified": true
   },
@@ -408,14 +384,50 @@
     "classified": true
   },
   {
-    "title": "Bitcoin whales sent BTC price to $64K as Coinbase Premium broke key level: CryptoQuant",
-    "link": "https://cointelegraph.com/markets/bitcoin-whales-sent-btc-price-to-64k-as-coinbase-premium-broke-key-level-cryptoquant?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Fri, 10 Jul 2026 14:59:30 +0000",
-    "source": "Cointelegraph",
+    "title": "Japan’s largest security token platform moves nearly $3 billion to Avalanche blockchain",
+    "link": "https://www.theblock.co/post/408036/japans-largest-security-token-platform-moves-nearly-3-billion-to-avalanche-blockchain?utm_source=rss&utm_medium=rss",
+    "pubDate": "Mon, 13 Jul 2026 10:29:57 -0400",
+    "source": "The Block",
     "category": "crypto",
-    "content": "Bitcoin price gains came thanks to US whales propeling the Coinbase Premium above a key trend line, new analysis from CryptoQuant reported.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-experts-discuss-what-the-current-number-of-whales-interest-in-futures-means-for-the-market1.jpg",
-    "summary": "Bitcoin's price surged to $64,000, a move attributed to US whales pushing the Coinbase Premium above a crucial trend line. This analysis from CryptoQuant highlights the significant impact of large American investors on the BTC market.",
+    "content": "Progmat develops security token infrastructure that accounts for 64.6% of Japan’s security token market total issuance value.",
+    "image": "https://www.tbstat.com/wp/uploads/2022/06/22020627_Avalanche2-800x450.jpg",
+    "summary": "Progmat, Japan's largest security token platform, has moved nearly $3 billion to the Avalanche blockchain, holding 64.6% of Japan's security token market total issuance value. This move signifies a major shift in the country's security token infrastructure. The transition underscores the growing importance of blockchain technology in Japan's financial sector.",
+    "importance": 8,
+    "classified": true
+  },
+  {
+    "title": "Tom Lee says users ‘starting to see Ethereum as money’ as Bitmine adds 27,801 ETH",
+    "link": "https://www.theblock.co/post/408029/tom-lee-says-users-starting-see-ethereum-money-bitmine-adds-27801-eth?utm_source=rss&utm_medium=rss",
+    "pubDate": "Mon, 13 Jul 2026 09:25:58 -0400",
+    "source": "The Block",
+    "category": "crypto",
+    "content": "Bitmine accumulates 5.77M ETH tokens, 4.8% of supply, as Tom Lee cites Robinhood Chain driving everyday user adoption.",
+    "image": "https://www.tbstat.com/wp/uploads/2025/07/20250728_BitMine_News-800x450.jpg",
+    "summary": "Tom Lee notes that users are starting to view Ethereum as a form of money, driven by the everyday adoption spurred by Robinhood Chain. Bitmine has accumulated 5.77M ETH tokens, representing 4.8% of the total supply, with a recent addition of 27,801 ETH. This growth indicates a significant interest in Ethereum.",
+    "importance": 8,
+    "classified": true
+  },
+  {
+    "title": "Robinhood Chain draws over $3 billion in weekly DEX volume to join top five chains: Bernstein",
+    "link": "https://www.theblock.co/post/408024/robinhood-chain-draws-over-3-billion-in-weekly-dex-volume-to-join-top-five-chains-bernstein?utm_source=rss&utm_medium=rss",
+    "pubDate": "Mon, 13 Jul 2026 08:30:48 -0400",
+    "source": "The Block",
+    "category": "crypto",
+    "content": "Robinhood Chain hit $3.1B in weekly DEX volume and 65K users since its July 1 launch, as the Layer 2 eyes tokenized markets, Bernstein said.",
+    "image": "https://www.tbstat.com/wp/uploads/2021/08/20210803_Robinhood_Crypto-800x450.jpg",
+    "summary": "Robinhood Chain has reached $3.1 billion in weekly DEX volume and 65,000 users since its launch on July 1, according to Bernstein. The Layer 2 chain is eyeing tokenized markets. This milestone places Robinhood Chain among the top five chains.",
+    "importance": 8,
+    "classified": true
+  },
+  {
+    "title": "Strategy sells $467 million in MSTR shares, makes no bitcoin purchases as USD reserve hits $3 billion",
+    "link": "https://www.theblock.co/post/408004/strategy-sells-467-million-in-mstr-shares-makes-no-bitcoin-purchases-as-usd-reserve-hits-3-billion?utm_source=rss&utm_medium=rss",
+    "pubDate": "Mon, 13 Jul 2026 08:16:59 -0400",
+    "source": "The Block",
+    "category": "crypto",
+    "content": "Strategy's total holdings remain at 843,775 BTC and account for around 4% of the 21 million bitcoin supply cap — worth roughly $53 billion.",
+    "image": "https://www.tbstat.com/wp/uploads/2025/12/20251208_Microstrategy_News-800x450.jpg",
+    "summary": "Strategy sold $467 million in MSTR shares and has a USD reserve of $3 billion, with no new bitcoin purchases, while holding 843,775 BTC worth $53 billion. The company's bitcoin holdings account for around 4% of the total bitcoin supply cap. This move indicates a significant shift in Strategy's asset management.",
     "importance": 8,
     "classified": true
   },
@@ -540,74 +552,14 @@
     "classified": true
   },
   {
-    "title": "Empery Digital offloads 1,400 bitcoins to help fund AI pivot, pay debt",
-    "link": "https://www.theblock.co/post/407900/empery-digital-offloads-1400-bitcoins-help-fund-ai-pivot-pay-debt?utm_source=rss&utm_medium=rss",
-    "pubDate": "Fri, 10 Jul 2026 12:39:45 -0400",
-    "source": "The Block",
-    "category": "both",
-    "content": "Empery Digital used part of the proceeds for a 25% stake in an AI data center campus project.",
-    "image": "https://www.tbstat.com/wp/uploads/2025/06/20250603_Bitcoin_News_2-800x450.jpg",
-    "summary": "Empery Digital has sold 1,400 bitcoins to fund its pivot into AI and pay off debt, with some of the proceeds used to acquire a 25% stake in an AI data center campus project. This move marks a significant shift in the company's focus. The sale will help Empery Digital to restructure and invest in new technologies.",
-    "importance": 8,
-    "classified": true
-  },
-  {
-    "title": "Kraken to relaunch its mobile app with agentic trading and advice at the center",
-    "link": "https://www.theblock.co/post/407899/kraken-to-relaunch-its-mobile-app-with-agentic-trading-and-advise-at-the-center?utm_source=rss&utm_medium=rss",
-    "pubDate": "Fri, 10 Jul 2026 12:27:23 -0400",
-    "source": "The Block",
-    "category": "both",
-    "content": "Kraken is adding autonomous AI agents capable of monitoring markets and suggesting trades for users.",
-    "image": "https://www.tbstat.com/wp/uploads/2023/03/20230317_Kraken_Color-800x450.jpg",
-    "summary": "Kraken is relaunching its mobile app with a focus on agentic trading and advice, utilizing autonomous AI agents to monitor markets and execute trades on behalf of users. The app will provide users with suggestions and automated trading capabilities. This update aims to enhance the user experience and provide more intuitive trading options.",
-    "importance": 8,
-    "classified": true
-  },
-  {
-    "title": "Cambridge research puts 31% of Ethereum node activity in the US, where a third offline can stall finalization",
-    "link": "https://www.theblock.co/post/407909/cambridge-research-puts-ethereum-node-activity-in-us-where-third-offline-can-stall-finalization?utm_source=rss&utm_medium=rss",
-    "pubDate": "Fri, 10 Jul 2026 12:07:20 -0400",
-    "source": "The Block",
+    "title": "Strategy (MSTR) Raises $467 Million in Cash, Leaves Stash of 843,775 Bitcoin Untouched",
+    "link": "https://bitcoinmagazine.com/news/strategy-raises-467-million-in-cash",
+    "pubDate": "Mon, 13 Jul 2026 13:19:36 +0000",
+    "source": "Bitcoin Magazine",
     "category": "crypto",
-    "content": "Cambridge finds 31% of Ethereum node activity in the U.S., clustered on AWS, Hetzner and OVH, raising jurisdictional/counterparty questions.",
-    "image": "https://www.tbstat.com/wp/uploads/2024/05/20240523_Ethereum_News_2-800x450.jpg",
-    "summary": "A Cambridge research study has found that 31% of Ethereum node activity is located in the US, with many nodes clustered on cloud services like AWS, Hetzner, and OVH. This raises concerns about jurisdictional and counterparty risks, as a significant portion of nodes being offline can stall finalization. The study highlights the potential vulnerabilities of the Ethereum network.",
-    "importance": 8,
-    "classified": true
-  },
-  {
-    "title": "Binance co-CEO says 70% of EU withdrawals went to self-custody after MiCA deadline, with just 30% going to licensed platforms",
-    "link": "https://www.theblock.co/post/407888/binance-co-ceo-says-70-of-eu-withdrawals-went-to-self-custody-after-mica-deadline-with-just-30-going-to-licensed-platforms?utm_source=rss&utm_medium=rss",
-    "pubDate": "Fri, 10 Jul 2026 09:17:52 -0400",
-    "source": "The Block",
-    "category": "crypto",
-    "content": "Richard Teng said 70% of EU user withdrawals following its service suspension moved to self-custody rather than MiCA-regulated platforms.",
-    "image": "https://www.tbstat.com/wp/uploads/2024/11/20241127_Binance_News_4-800x450.jpg",
-    "summary": "Binance's co-CEO, Richard Teng, reported that 70% of EU user withdrawals after the MiCA deadline opted for self-custody wallets instead of regulated platforms. This highlights a significant preference among users for decentralized control in response to new European cryptocurrency regulations.",
-    "importance": 8,
-    "classified": true
-  },
-  {
-    "title": "‘Communication challenge, nothing more’: Standard Chartered keeps $100,000 bitcoin target, calls Strategy selloff a signaling problem",
-    "link": "https://www.theblock.co/post/407884/communication-challenge-nothing-more-standard-chartered-keeps-100000-bitcoin-target-calls-strategy-selloff-a-signaling-problem?utm_source=rss&utm_medium=rss",
-    "pubDate": "Fri, 10 Jul 2026 08:46:18 -0400",
-    "source": "The Block",
-    "category": "crypto",
-    "content": "Standard Chartered retained its $100,000 end-2026 bitcoin target, calling Strategy's STRC pivot a signaling problem, not a solvency one.",
-    "image": "https://www.tbstat.com/wp/uploads/2025/12/20251208_Microstrategy_News_2-800x450.jpg",
-    "summary": "Standard Chartered has maintained its target of bitcoin reaching $100,000 by the end of 2026, despite recent market fluctuations. The company believes Strategy's pivot is a signaling problem, not a solvency issue. This suggests that Standard Chartered remains optimistic about bitcoin's long-term potential.",
-    "importance": 8,
-    "classified": true
-  },
-  {
-    "title": "Stablecoin firm Circle wins final OCC approval to open national trust bank",
-    "link": "https://www.theblock.co/post/407876/stablecoin-firm-circle-wins-final-occ-approval-to-open-national-trust-bank?utm_source=rss&utm_medium=rss",
-    "pubDate": "Fri, 10 Jul 2026 07:25:14 -0400",
-    "source": "The Block",
-    "category": "crypto",
-    "content": "Circle wins final OCC approval for First National Digital Currency Bank, with USDC reserve management planned for a later phase.",
-    "image": "https://www.tbstat.com/wp/uploads/2020/12/20201218_Circle-2-800x450.jpg",
-    "summary": "Circle, a stablecoin firm, has received final approval from the OCC to open a national trust bank, with plans to manage USDC reserves in a later phase. This approval marks a significant milestone for the company and the crypto industry. The bank will be called First National Digital Currency Bank.",
+    "content": "Bitcoin Magazine\n\nStrategy (MSTR) Raises $467 Million in Cash, Leaves Stash of 843,775 Bitcoin Untouched\nStrategy (MSTR) raised $467 million through stock sales to boost its cash reserve to $3 billion while leaving its 843,775 BTC holdings unchanged for a second straight week.\nThis post Strategy (MSTR) Raises $467 Million in Cash, Leaves Stash of 843,775 Bitcoin Untouched first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
+    "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/01/Strategy-MSTR-Stock-Soars-10-Above-189-as-Bitcoin-Nears-100000-1.jpg",
+    "summary": "Strategy (MSTR) has raised $467 million in cash through stock sales, increasing its cash reserve to $3 billion, while keeping its large holding of 843,775 Bitcoin unchanged. This move indicates the company's confidence in its Bitcoin holdings. The funds will likely be used to further the company's business operations.",
     "importance": 8,
     "classified": true
   },
@@ -704,18 +656,6 @@
     "content": "Bitcoin Magazine\n\nBitGo Adds Quantum-Risk Controls to Bitcoin Custody\nBitGo launched new quantum-risk tools that help institutional Bitcoin holders identify and reduce potential future quantum-computing exposure in their custody wallets.\nThis post BitGo Adds Quantum-Risk Controls to Bitcoin Custody first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
     "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/07/BitGo-Adds-Quantum-Risk-Controls-to-Bitcoin-Custody.jpg",
     "summary": "BitGo has launched new tools to help institutional Bitcoin holders identify and reduce potential future quantum-computing exposure in their custody wallets. This move aims to mitigate the risks associated with quantum computing for Bitcoin custody. The tools will help holders protect their assets from potential quantum-related threats.",
-    "importance": 8,
-    "classified": true
-  },
-  {
-    "title": "Russia’s Largest Private Bank Alfa-Bank To Test Bitcoin and Crypto Trading",
-    "link": "https://bitcoinmagazine.com/news/russias-largest-private-bank-alfa-bank",
-    "pubDate": "Thu, 09 Jul 2026 13:40:50 +0000",
-    "source": "Bitcoin Magazine",
-    "category": "crypto",
-    "content": "Bitcoin Magazine\n\nRussia’s Largest Private Bank Alfa-Bank To Test Bitcoin and Crypto Trading\nRussia's largest private lender, Alfa-Bank, plans to launch Bitcoin and crypto trading, custody, and a digital depository once new regulations take effect, joining a broader push by major Russian banks to enter the country's emerging crypto market by late 2026 or 2027.\nThis post Russia’s Largest Private Bank Alfa-Bank To Test Bitcoin and Crypto Trading first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
-    "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/07/Russias-Largest-Private-Bank-Alfa-Bank-To-Test-Bitcoin-and-Crypto-Trading.jpg",
-    "summary": "Alfa-Bank, Russia's largest private lender, plans to launch Bitcoin and crypto trading, custody, and a digital depository once new regulations take effect. This move is part of a broader push by major Russian banks to enter the country's emerging crypto market. The launch is expected to occur by late 2026 or 2027.",
     "importance": 8,
     "classified": true
   },
@@ -972,18 +912,6 @@
     "classified": true
   },
   {
-    "title": "Meta’s new AI chips will begin production in September",
-    "link": "https://techcrunch.com/2026/07/09/metas-new-ai-chips-will-begin-production-in-september/",
-    "pubDate": "Thu, 09 Jul 2026 17:17:37 +0000",
-    "source": "TechCrunch AI",
-    "category": "ai",
-    "content": "The company is taking a modular approach to designing these chips, anticipating that their needs will change as AI evolves rapidly by the time the chips are in production.",
-    "image": "",
-    "summary": "Meta will begin production of its new AI-specific chips in September, aiming to reduce reliance on GPU providers like Nvidia. This move is part of Meta's efforts to optimize its AI infrastructure. The new chips are designed to improve AI processing efficiency.",
-    "importance": 8,
-    "classified": true
-  },
-  {
     "title": "Apple’s failed self-driving car program left a legacy of powerful AI chips",
     "link": "https://www.theverge.com/tech/964519/apple-silicon-self-driving-car-ai-m7-ultra",
     "pubDate": "2026-07-12T16:27:06.000Z",
@@ -1200,6 +1128,30 @@
     "classified": true
   },
   {
+    "title": "Tom Lee's BitMine ether holdings rise to 5.77 million tokens, or 4.8% of total supply",
+    "link": "https://www.coindesk.com/markets/2026/07/13/tom-lee-s-bitmine-raises-ether-holdings-to-usd5-77-million-or-4-8-of-supply",
+    "pubDate": "Mon, 13 Jul 2026 14:04:01 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "The company expanded its ETH treasury while Chairman Tom Lee pointed to Robinhood Chain's rapid growth on Ethereum.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/bc173559f15091e27a52c22dedbaade8c86f0509-1920x1080.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "BitMine's Ether (ETH) holdings have significantly increased to 5.77 million tokens, now representing 4.8% of the total supply. Chairman Tom Lee also pointed to the rapid growth of Robinhood Chain on the Ethereum network.",
+    "importance": 7,
+    "classified": true
+  },
+  {
+    "title": "Wall Street transfer agents lobby SEC, warning that third-party tokens pose risks to market integrity",
+    "link": "https://www.coindesk.com/policy/2026/07/13/wall-street-transfer-agents-lobby-sec-warning-that-third-party-tokens-pose-risks-to-market-integrity",
+    "pubDate": "Mon, 13 Jul 2026 13:45:00 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "The Securities Transfer Association, an industry group for transfer agents, said company-authorized tokenization should receive preferential treatment under future rules.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/027ad48cfa40c0b6f4997f516abebf656a10a0e9-720x406.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "The Securities Transfer Association, representing Wall Street transfer agents, has lobbied the SEC regarding future rules on tokenization. They advocate for company-authorized tokenization to receive preferential regulatory treatment, citing risks to market integrity posed by third-party tokens.",
+    "importance": 7,
+    "classified": true
+  },
+  {
     "title": "Profit-taking, MidEast hostilities drag crypto lower after bullish week",
     "link": "https://www.coindesk.com/markets/2026/07/13/profit-taking-mideast-hostilities-drag-crypto-lower-after-bullish-week",
     "pubDate": "Mon, 13 Jul 2026 10:30:39 +0000",
@@ -1320,18 +1272,6 @@
     "classified": true
   },
   {
-    "title": "Crypto Biz: How stablecoins found their niche",
-    "link": "https://cointelegraph.com/news/crypto-biz-how-stablecoins-found-their-niche?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Fri, 10 Jul 2026 15:37:37 +0000",
-    "source": "Cointelegraph",
-    "category": "crypto",
-    "content": "Stablecoins are carving out specialized roles as regulation reshapes the market, while Strategy’s Bitcoin sale and Vanguard’s tokenization push highlight crypto’s evolving financial landscape.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-usdt-vs-usdc-whats-the-difference-1.jpg",
-    "summary": "Stablecoins are increasingly finding specialized roles within the cryptocurrency market as regulatory frameworks evolve. This shift, alongside Strategy's Bitcoin sale and Vanguard's exploration of tokenization, signifies a continually evolving financial landscape for digital assets.",
-    "importance": 7,
-    "classified": true
-  },
-  {
     "title": "Bitcoin whale moves $188 million in BTC after seven-year dormancy: onchain data",
     "link": "https://www.theblock.co/post/407973/bitcoin-whale-moves-188-million-worth-btc?utm_source=rss&utm_medium=rss",
     "pubDate": "Sun, 12 Jul 2026 22:12:25 -0400",
@@ -1404,7 +1344,19 @@
     "classified": true
   },
   {
-    "title": "Live markets: Bitcoin slips below $63,000 in an Asian-session leverage flush",
+    "title": "Michael Saylor’s Strategy added $467 million in cash, made no changes to bitcoin holdings",
+    "link": "https://www.coindesk.com/markets/2026/07/13/michael-saylor-s-strategy-added-usd467-million-in-cash-made-no-changes-to-bitcoin-holdings",
+    "pubDate": "Mon, 13 Jul 2026 12:15:17 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "The company raised the fresh cash via sales of common stock; its USD Reserve now stands at $3 billion.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/b7a99614202ed28b61d1994d9d008c5549d6458b-3552x1970.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "Michael Saylor's company raised an additional $467 million in cash through common stock sales, increasing its USD Reserve to $3 billion. Notably, the company made no changes to its significant bitcoin holdings.",
+    "importance": 6,
+    "classified": true
+  },
+  {
+    "title": "Live markets: Bitcoin slips below $63,000 as Korea's Kospi plunges 9% overnight",
     "link": "https://www.coindesk.com/markets/2026/07/13/bitcoin-slips-below-usd63-000-in-an-asian-session-leverage-flush",
     "pubDate": "Mon, 13 Jul 2026 06:52:28 +0000",
     "source": "CoinDesk",
@@ -1424,6 +1376,18 @@
     "content": "The group's Dir. of Global Macro Jurien Timmer calls it an accumulation zone but notes the lack of a catalyst to bounce yet.",
     "image": "https://cdn.sanity.io/images/s3y3vcno/production/302438fa1f251317f39e4d492e27d9f5668318b6-650x372.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
     "summary": "Bitcoin is approaching a power law support line, tracked by Fidelity since 2015, which its Director of Global Macro, Jurien Timmer, identifies as an accumulation zone. However, Timmer notes there is currently no catalyst for a price bounce.",
+    "importance": 6,
+    "classified": true
+  },
+  {
+    "title": "Strategy sells $467M in MSTR shares, leaves 843,775 BTC stack untouched",
+    "link": "https://cointelegraph.com/news/strategy-sells-467-million-mstr-keeps-843775-btc-stack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Mon, 13 Jul 2026 13:08:49 +0000",
+    "source": "Cointelegraph",
+    "category": "crypto",
+    "content": "Strategy boosted its US dollar reserve to $3 billion after selling $466.7 million in MSTR shares, while keeping its 843,775 Bitcoin holdings unchanged.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-japan-gate3.jpg",
+    "summary": "Strategy has sold $466.7 million in MSTR shares, increasing its US dollar reserve to $3 billion, but chose to keep its 843,775 Bitcoin holdings unchanged. This move suggests the company is diversifying its assets while maintaining a significant stake in Bitcoin. The decision may impact the crypto market and investor confidence.",
     "importance": 6,
     "classified": true
   },
@@ -1476,6 +1440,18 @@
     "classified": true
   },
   {
+    "title": "Stablecoin FX priced below interbank rates in Q2, with routing now the biggest cost lever: Borderless",
+    "link": "https://www.theblock.co/post/408006/stablecoin-fx-priced-below-interbank-rates-in-q2-with-routing-now-the-biggest-cost-lever-borderless?utm_source=rss&utm_medium=rss",
+    "pubDate": "Mon, 13 Jul 2026 10:01:02 -0400",
+    "source": "The Block",
+    "category": "crypto",
+    "content": "Stablecoin payments were priced 3.2 bps below interbank FX rates across 260 corridors in Q2, per Borderless.xyz's benchmark.",
+    "image": "https://www.tbstat.com/wp/uploads/2025/05/20250514_Tokenization-3-1200x675-1-800x450.jpg",
+    "summary": "Stablecoin payments were priced 3.2 basis points below interbank FX rates in Q2 across 260 corridors, according to Borderless.xyz's benchmark. This suggests that stablecoins are becoming a more competitive option for cross-border payments. The cost of routing is now the biggest factor in stablecoin payments.",
+    "importance": 6,
+    "classified": true
+  },
+  {
     "title": "Japan’s SBI Group to launch JPYSC stablecoin lending service this month",
     "link": "https://www.theblock.co/post/407988/sbi-jpysc-stablecoin-lending?utm_source=rss&utm_medium=rss",
     "pubDate": "Mon, 13 Jul 2026 03:22:28 -0400",
@@ -1500,14 +1476,26 @@
     "classified": true
   },
   {
-    "title": "Bitcoin Slips to $62,000, Paring Rebound as CryptoQuant Sees Room Higher",
-    "link": "https://bitcoinmagazine.com/markets/bitcoin-slips-to-62000-paring-rebound",
-    "pubDate": "Wed, 08 Jul 2026 21:18:33 +0000",
+    "title": "Strive (ASST) Adds 18 Bitcoin, Pushing Treasury to 19,900 BTC",
+    "link": "https://bitcoinmagazine.com/news/strive-asst-adds-18-treasury-to-19900-btc",
+    "pubDate": "Mon, 13 Jul 2026 13:32:07 +0000",
     "source": "Bitcoin Magazine",
     "category": "crypto",
-    "content": "Bitcoin Magazine\n\nBitcoin Slips to $62,000, Paring Rebound as CryptoQuant Sees Room Higher\nBitcoin slipped to around $62,000 after rebounding from last week's $57,700 low, while CryptoQuant says improving demand, seasonality and valuation support further gains, though its bearish Bull Score Index suggests the move remains a bear-market recovery rather than a full trend reversal.\nThis post Bitcoin Slips to $62,000, Paring Rebound as CryptoQuant Sees Room Higher first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
-    "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/06/Bitcoin-Price-Falls-to-62000-as-Hawkish-Fed-Shift-Raises-Risk-of-Deeper-Pullback.jpg",
-    "summary": "Bitcoin's price slipped to $62,000 after a rebound from $57,700, with CryptoQuant suggesting potential for further gains due to improving demand and seasonality. However, the Bull Score Index indicates this may be a bear-market recovery rather than a trend reversal. The cryptocurrency's valuation is seen as supportive of higher prices.",
+    "content": "Bitcoin Magazine\n\nStrive (ASST) Adds 18 Bitcoin, Pushing Treasury to 19,900 BTC\nStrive (ASST) purchased 18 bitcoin for about $1.2 million last week, increasing its treasury to 19,900 BTC while maintaining $154.1 million in cash as it continues integrating its bitcoin-focused treasury strategy.\nThis post Strive (ASST) Adds 18 Bitcoin, Pushing Treasury to 19,900 BTC first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
+    "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/06/Strive-ASST-Holds-19864-BTC-With-No-New-Purchases-Last-Week-Balance-Sheet-Hits-141.7M-Cash-.jpg",
+    "summary": "Strive (ASST) has purchased 18 additional bitcoin for $1.2 million, bringing its total treasury to 19,900 BTC and $154.1 million in cash, as part of its bitcoin-focused strategy. This move highlights the company's ongoing commitment to bitcoin. The purchase is a notable addition to its existing treasury.",
+    "importance": 6,
+    "classified": true
+  },
+  {
+    "title": "Waze adds new AI-powered features and customization updates",
+    "link": "https://techcrunch.com/2026/07/13/waze-adds-new-ai-powered-features-and-customization-updates/",
+    "pubDate": "Mon, 13 Jul 2026 14:18:16 +0000",
+    "source": "TechCrunch AI",
+    "category": "ai",
+    "content": "Some of the new features are powered by Google's Gemini AI assistant, which reflects the the tech giant's broader push to integrate Gemini across its products while also better positioning Waze to compete with rival services such as Apple Maps.",
+    "image": "",
+    "summary": "Waze has added new AI-powered features and customization updates, utilizing Google's Gemini AI assistant to enhance its capabilities and stay competitive with rival services like Apple Maps. This integration reflects Google's effort to expand Gemini's presence across its products. The updates aim to improve user experience on Waze.",
     "importance": 6,
     "classified": true
   },
@@ -1610,7 +1598,7 @@
   {
     "title": "Here’s what happened in crypto today",
     "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Mon, 13 Jul 2026 05:29:39 +0000",
+    "pubDate": "Mon, 13 Jul 2026 14:07:00 +0000",
     "source": "Cointelegraph",
     "category": "crypto",
     "content": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
@@ -1652,6 +1640,18 @@
     "content": "The U.S. hit Iran for the third time this week and Tehran has reportedly closed the Strait of Hormuz again.",
     "image": "https://cdn.sanity.io/images/s3y3vcno/production/0dcb7e70fce0bac1a8a2dfe771435937149fb242-6720x4480.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
     "summary": "Bitcoin and ether showed little change in value, even as the U.S. conducted its third strike on Iran this week. This geopolitical tension also involved reports of Tehran closing the Strait of Hormuz.",
+    "importance": 2,
+    "classified": true
+  },
+  {
+    "title": "The Download: a donor conception cap and world models for AI",
+    "link": "https://www.technologyreview.com/2026/07/13/1140339/the-download-sperm-donor-limits-ai-world-models/",
+    "pubDate": "Mon, 13 Jul 2026 12:10:00 +0000",
+    "source": "MIT Technology Review",
+    "category": "ai",
+    "content": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Sperm donors need limits, says a European fertility group Ties van der Meer doesn’t know how many siblings he has. The 47-year-old was conceived at a private fertility clinic using sperm…",
+    "image": "https://wp.technologyreview.com/wp-content/uploads/2026/02/COLOMBIA-6.edit_.jpg?w=3000",
+    "summary": "A European fertility group suggests setting limits on sperm donors, and a separate topic discusses world models for AI, indicating advancements in the field of technology. The story of Ties van der Meer, a 47-year-old conceived at a private fertility clinic, highlights the need for such limits. The article touches on AI world models but does not delve deeply into the topic.",
     "importance": 2,
     "classified": true
   },
@@ -1724,18 +1724,6 @@
     "content": "I was really looking forward to July 4, and not just because I love a poolside barbecue. This year the American holiday also marked a big symbolic deadline for US nuclear power. Last year the Trump administration set a goal to see three new microreactors achieve criticality, a technical milestone establishing that a reactor can…",
     "image": "",
     "summary": "Four US nuclear reactors have achieved a significant milestone, reaching criticality, a technical milestone showing a reactor can sustain a nuclear chain reaction. This achievement was set as a goal by the Trump administration last year. The reactors are microreactors, a newer type of nuclear reactor.",
-    "importance": 1,
-    "classified": true
-  },
-  {
-    "title": "Why worms (and microbes) are catching on as a manure pollution solution",
-    "link": "https://www.technologyreview.com/2026/07/07/1140142/why-worms-and-microbes-are-catching-on-as-a-manure-pollution-solution/",
-    "pubDate": "Tue, 07 Jul 2026 10:00:00 +0000",
-    "source": "MIT Technology Review",
-    "category": "ai",
-    "content": "Anthony Agueda, a third-generation California dairy farmer, pulls a rake through a bed of dark, wet wood chips on his family’s land in Hickman, a tiny town in the state’s agricultural heartland. He reaches down with both hands and pulls up a clump of muck, turning it over to reveal a half-dozen squirming red earthworms.…",
-    "image": "https://wp.technologyreview.com/wp-content/uploads/2026/07/20260319-vermi-017_bddae2.jpg?w=2667",
-    "summary": "A California dairy farmer is using worms and microbes to address manure pollution on his land, a potential solution for the agricultural industry. The method involves using earthworms to break down manure in wood chips. This approach could help reduce pollution and create a more sustainable farming practice.",
     "importance": 1,
     "classified": true
   }
