@@ -24,6 +24,30 @@
     "classified": true
   },
   {
+    "title": "Solo bitcoin miner makes $200,000 using $150 equipment",
+    "link": "https://www.coindesk.com/markets/2026/07/14/solo-btc-miner-makes-usd200-000-using-usd150-equipment",
+    "pubDate": "Tue, 14 Jul 2026 04:43:56 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "Solo Bitcoin mining has surged, with 24 blocks found in the past 12 months, a 41% increase year over year.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/15457391afc651ccf294e8f091b300b4653d35e7-1024x768.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "A solo Bitcoin miner recently achieved a significant payout of $200,000 using only $150 worth of equipment. This event comes amidst a notable surge in solo Bitcoin mining, which has seen a 41% year-over-year increase, resulting in 24 blocks being found by solo miners in the last 12 months.",
+    "importance": 8,
+    "classified": true
+  },
+  {
+    "title": "Bitcoin slips as traders lift July Fed rate hike bets ahead of Inflation report",
+    "link": "https://www.coindesk.com/markets/2026/07/14/bitcoin-slips-as-traders-lift-july-fed-rate-hike-bets-ahead-of-inflation-report",
+    "pubDate": "Tue, 14 Jul 2026 02:58:36 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "Major cryptocurrencies have dropped by 2% or more in 24 hours as traders boosted bets of a July Fed rate hike.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/c73c945595228352c4688aa08e65cbcc5eac3811-2863x1086.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "Bitcoin and other major cryptocurrencies have dropped in value as traders anticipate a potential July Fed rate hike, with many cryptocurrencies losing 2% or more in 24 hours. This shift is likely due to increased bets on a rate hike ahead of an upcoming inflation report. The cryptocurrency market is reacting to expected changes in monetary policy.",
+    "importance": 8,
+    "classified": true
+  },
+  {
     "title": "Binance.US CEO says exchange is rebuilding, eyes return to 20% U.S. market share",
     "link": "https://www.coindesk.com/coindesk-news/2026/07/13/binance-us-ceo-says-exchange-is-rebuilding-eyes-return-to-20-u-s-market-share",
     "pubDate": "Mon, 13 Jul 2026 20:27:47 +0000",
@@ -168,14 +192,14 @@
     "classified": true
   },
   {
-    "title": "Stablecoin market cap has shrunk by $10 billion since May, but analyst sees no reason to panic",
-    "link": "https://www.coindesk.com/markets/2026/07/12/stablecoin-market-cap-has-shrunk-by-usd10-billion-since-may-but-analyst-sees-no-reason-to-panic",
-    "pubDate": "Sun, 12 Jul 2026 13:00:00 +0000",
-    "source": "CoinDesk",
+    "title": "US government moves $297M in seized Bitcoin, Ether to Coinbase Prime",
+    "link": "https://cointelegraph.com/news/us-government-moves-297m-in-seized-bitcoin-ether-to-coinbase-prime?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Tue, 14 Jul 2026 03:35:51 +0000",
+    "source": "Cointelegraph",
     "category": "crypto",
-    "content": "The market shrank by $7.7 billion in June alone, the largest dollar amount since May 2022's Terra-Luna crash, but stablecoins will likely resume their long-term growth, one analyst said.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/62ae8ce6306c7fdf4b52e0a884495d92c7e20a82-1920x1280.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "The stablecoin market cap has shrunk by $10 billion since May, with June alone seeing a $7.7 billion reduction, marking the largest monthly drop since the May 2022 Terra-Luna crash. Despite this significant decrease, one analyst maintains there is no cause for panic, forecasting a resumption of long-term growth for stablecoins.",
+    "content": "The transfers have raised questions over Trump’s Bitcoin reserve pledge, though deposits to Coinbase Prime do not confirm an impending sale.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/us-government-bitcoin.jpg",
+    "summary": "The US government has transferred $297 million in seized Bitcoin and Ether to Coinbase Prime, sparking speculation about a potential sale, although deposits do not necessarily confirm this. The move has also raised questions about Trump's Bitcoin reserve pledge. The transfer is a significant development in the crypto space.",
     "importance": 8,
     "classified": true
   },
@@ -372,14 +396,14 @@
     "classified": true
   },
   {
-    "title": "Dollar stablecoins could improve FX access but amplify currency runs: IMF",
-    "link": "https://cointelegraph.com/news/imf-stablecoins-fx-access-currency-runs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Sat, 11 Jul 2026 09:25:00 +0000",
-    "source": "Cointelegraph",
+    "title": "How Bitcoin ETFs Changed Institutional Adoption",
+    "link": "https://www.theblock.co/learn/408156/how-bitcoin-etfs-changed-institutional-adoption?utm_source=rss&utm_medium=rss",
+    "pubDate": "Tue, 14 Jul 2026 01:20:31 -0400",
+    "source": "The Block",
     "category": "crypto",
-    "content": "An IMF working paper says US dollar stablecoins can improve access to foreign currency but may also help coordinate exits from local currencies during periods of severe exchange-rate stress.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-governments-and-central-banks-pay-very-close-attention-to-stablecoins.jpg",
-    "summary": "An IMF working paper suggests that dollar stablecoins could facilitate access to foreign currency, particularly in emerging markets. However, the paper also warns that these stablecoins might exacerbate currency runs by coordinating exits from local currencies during periods of significant exchange-rate instability.",
+    "content": "A spot bitcoin ETF is a fund that holds actual bitcoin and trades on a stock exchange, so an investor gains exposure to bitcoin’s price through an ordinary brokerage account. When the first U.S. spot bitcoin ETFs began trading in January 2024, they removed the custody, compliance, and operational barriers that had kept many asset […]",
+    "image": "https://www.tbstat.com/wp/uploads/2021/02/20210219_Bitcoin_ETF_Generic-800x450.jpg",
+    "summary": "The introduction of spot bitcoin ETFs in the US has removed barriers to investment, allowing institutions to gain exposure to bitcoin's price through ordinary brokerage accounts. This change has facilitated institutional adoption of bitcoin. The first US spot bitcoin ETFs began trading in January 2024.",
     "importance": 8,
     "classified": true
   },
@@ -672,6 +696,18 @@
     "classified": true
   },
   {
+    "title": "Already rich, already successful, why the last wave of tech winners is grinding again",
+    "link": "https://techcrunch.com/2026/07/13/already-rich-already-successful-why-the-last-wave-of-tech-winners-is-grinding-again/",
+    "pubDate": "Tue, 14 Jul 2026 02:46:42 +0000",
+    "source": "TechCrunch AI",
+    "category": "ai",
+    "content": "They're rolling up their sleeves again, seemingly out of fear of missing AI's defining moment and, presumably, the irresistible allure of making even more money -- potentially a lot more.",
+    "image": "",
+    "summary": "The last wave of tech winners are working hard again, driven by the fear of missing out on AI's defining moment and the potential to make more money. They are rolling up their sleeves to capitalize on the opportunities presented by AI. This move is likely motivated by the prospect of significant financial gains.",
+    "importance": 8,
+    "classified": true
+  },
+  {
     "title": "Video-generation startup PixVerse raises $439M, valuation soars past $2B",
     "link": "https://techcrunch.com/2026/07/13/video-generation-startup-pixverse-raises-439m-valuation-soars-past-2b/",
     "pubDate": "Tue, 14 Jul 2026 00:00:00 +0000",
@@ -812,18 +848,6 @@
     "content": "Lyzr, a startup that builds AI agents for enterprises, used its own AI agent to raise a $100 million round — proof, evidently, that the product actually works.",
     "image": "",
     "summary": "Lyzr, a startup building AI agents, used its own AI agent to raise $100 million, demonstrating the product's effectiveness. This achievement showcases the potential of AI in handling complex tasks, such as fundraising. The successful raise highlights the viability of AI agents in enterprise settings.",
-    "importance": 8,
-    "classified": true
-  },
-  {
-    "title": "OpenAI is shutting down Atlas, but its AI browser ambitions are still growing",
-    "link": "https://techcrunch.com/2026/07/09/openai-is-shutting-down-atlas-but-its-ai-browser-ambitions-are-still-growing/",
-    "pubDate": "Thu, 09 Jul 2026 22:03:54 +0000",
-    "source": "TechCrunch AI",
-    "category": "ai",
-    "content": "OpenAI is sunsetting its AI-powered browser after less than a year. But it's moving some agentic browsing features to its desktop app and a Chrome extension.",
-    "image": "",
-    "summary": "OpenAI is shutting down its AI-powered browser Atlas after less than a year, but will integrate some features into its desktop app and a Chrome extension. This move indicates a shift in OpenAI's browser ambitions. The company is re strategizing its approach to AI-powered browsing.",
     "importance": 8,
     "classified": true
   },
@@ -1212,30 +1236,6 @@
     "classified": true
   },
   {
-    "title": "Bitcoin price gained almost 10% in July, but traders still see BTC copying 2022 bear market",
-    "link": "https://cointelegraph.com/markets/bitcoin-price-gains-nearly-10-in-july-but-traders-still-see-btc-copying-2022-bear-market?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Sat, 11 Jul 2026 11:21:07 +0000",
-    "source": "Cointelegraph",
-    "category": "crypto",
-    "content": "Bitcoin price gains approached 10% for the first two weeks of the month, but analysis warned of the bear market returning from August onward.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-bull-or-bear-how-sec-actions-correlate-with-market-prices2-1.jpg",
-    "summary": "Bitcoin's price increased by nearly 10% in the first two weeks of July. However, analysis warns that the cryptocurrency could re-enter a bear market from August onwards, mirroring trends seen in 2022.",
-    "importance": 7,
-    "classified": true
-  },
-  {
-    "title": "Bitcoin whale moves $188 million in BTC after seven-year dormancy: onchain data",
-    "link": "https://www.theblock.co/post/407973/bitcoin-whale-moves-188-million-worth-btc?utm_source=rss&utm_medium=rss",
-    "pubDate": "Sun, 12 Jul 2026 22:12:25 -0400",
-    "source": "The Block",
-    "category": "crypto",
-    "content": "The whale last moved bitcoin in 2018, when the cryptocurrency traded at roughly $6,475, reflecting nearly a tenfold gain since then.",
-    "image": "https://www.tbstat.com/wp/uploads/2025/09/20250917_Whale_News-800x450.jpg",
-    "summary": "A Bitcoin whale recently moved $188 million worth of BTC after seven years of inactivity. The last movement occurred in 2018 when Bitcoin was trading at approximately $6,475, indicating a nearly tenfold gain for the whale's holdings.",
-    "importance": 7,
-    "classified": true
-  },
-  {
     "title": "OpenAI bets on families as ChatGPT goes deeper into households",
     "link": "https://techcrunch.com/2026/07/11/openai-bets-on-families-as-chatgpt-goes-deeper-into-households/",
     "pubDate": "Sat, 11 Jul 2026 14:13:00 +0000",
@@ -1296,14 +1296,14 @@
     "classified": true
   },
   {
-    "title": "Bitcoin is nearing a power law support line Fidelity has tracked since 2015",
-    "link": "https://www.coindesk.com/markets/2026/07/12/bitcoin-is-nearing-a-power-law-support-line-fidelity-has-tracked-since-2015",
-    "pubDate": "Sun, 12 Jul 2026 11:30:00 +0000",
-    "source": "CoinDesk",
+    "title": "White House crypto adviser Patrick Witt to report for military training: Report",
+    "link": "https://cointelegraph.com/news/white-house-crypto-adviser-patrick-witt-to-report-for-military-training-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Tue, 14 Jul 2026 04:35:20 +0000",
+    "source": "Cointelegraph",
     "category": "crypto",
-    "content": "The group's Dir. of Global Macro Jurien Timmer calls it an accumulation zone but notes the lack of a catalyst to bounce yet.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/302438fa1f251317f39e4d492e27d9f5668318b6-650x372.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "Bitcoin is approaching a power law support line, tracked by Fidelity since 2015, which its Director of Global Macro, Jurien Timmer, identifies as an accumulation zone. However, Timmer notes there is currently no catalyst for a price bounce.",
+    "content": "Witt’s departure comes during a critical moment for the CLARITY Act, with deputy director Harry Jung expected to assume his responsibilities.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-where-are-the-bitcoin-traders-going-now-after-clarity-act.jpg",
+    "summary": "Patrick Witt, a White House crypto adviser, is leaving to report for military training, with deputy director Harry Jung taking over his responsibilities. This change occurs at a critical time for the CLARITY Act. The move may impact the development of crypto regulations.",
     "importance": 6,
     "classified": true
   },
@@ -1586,7 +1586,7 @@
   {
     "title": "Here’s what happened in crypto today",
     "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Mon, 13 Jul 2026 18:37:34 +0000",
+    "pubDate": "Tue, 14 Jul 2026 05:09:29 +0000",
     "source": "Cointelegraph",
     "category": "crypto",
     "content": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
