@@ -384,18 +384,6 @@
     "classified": true
   },
   {
-    "title": "Robinhood says its AI agent feature will ‘soon’ be assisting crypto traders",
-    "link": "https://cointelegraph.com/news/robinhood-says-ai-agents-will-be-trading-for-crypto-users-soon?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Sat, 11 Jul 2026 04:12:30 +0000",
-    "source": "Cointelegraph",
-    "category": "both",
-    "content": "More than 70,000 agentic accounts have already been created by Robinhood equities and options traders since late May, when Robinhood launched a beta version of the product.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/robinhood-us.jpg",
-    "summary": "Robinhood announced that its AI agent feature will soon be available to assist crypto traders, building on its successful beta launch in late May. Over 70,000 agentic accounts have already been created by equities and options traders since the product's initial release.",
-    "importance": 8,
-    "classified": true
-  },
-  {
     "title": "UK lays out tokenized finance roadmap with projected £33 billion annual boost",
     "link": "https://www.theblock.co/post/408046/uk-lays-out-tokenized-finance-roadmap-projected-33-billion-annual-boost?utm_source=rss&utm_medium=rss",
     "pubDate": "Mon, 13 Jul 2026 12:42:36 -0400",
@@ -684,6 +672,18 @@
     "classified": true
   },
   {
+    "title": "Video-generation startup PixVerse raises $439M, valuation soars past $2B",
+    "link": "https://techcrunch.com/2026/07/13/video-generation-startup-pixverse-raises-439m-valuation-soars-past-2b/",
+    "pubDate": "Tue, 14 Jul 2026 00:00:00 +0000",
+    "source": "TechCrunch AI",
+    "category": "ai",
+    "content": "With the cash, the company aims to expand its world model offering and reach customers across geographies.",
+    "image": "",
+    "summary": "PixVerse, a video-generation startup, has raised $439M, with its valuation now exceeding $2B. The company plans to use the funds to expand its world model offering and reach a broader customer base globally. This investment underscores the growing interest in AI-powered video generation.",
+    "importance": 8,
+    "classified": true
+  },
+  {
     "title": "Satya Nadella has issued a shocking warning to companies using AI",
     "link": "https://techcrunch.com/2026/07/13/satya-nadella-has-issued-a-shocking-warning-to-companies-using-ai/",
     "pubDate": "Mon, 13 Jul 2026 20:59:00 +0000",
@@ -824,42 +824,6 @@
     "content": "OpenAI is sunsetting its AI-powered browser after less than a year. But it's moving some agentic browsing features to its desktop app and a Chrome extension.",
     "image": "",
     "summary": "OpenAI is shutting down its AI-powered browser Atlas after less than a year, but will integrate some features into its desktop app and a Chrome extension. This move indicates a shift in OpenAI's browser ambitions. The company is re strategizing its approach to AI-powered browsing.",
-    "importance": 8,
-    "classified": true
-  },
-  {
-    "title": "Elon Musk praises Mythos/Fable, promises not to ‘cut off’ Anthropic",
-    "link": "https://techcrunch.com/2026/07/09/elon-musk-praises-mythos-fable-promises-not-to-cut-off-anthropic/",
-    "pubDate": "Thu, 09 Jul 2026 21:57:42 +0000",
-    "source": "TechCrunch AI",
-    "category": "ai",
-    "content": "Should Anthropic trust Elon Musk to host its models? With about $40 billion in revenue at stake, Musk insists that the company can.",
-    "image": "",
-    "summary": "Elon Musk has expressed support for Mythos/Fable and promised not to limit Anthropic's access to its models, which could impact the company's $40 billion revenue. This statement aims to reassure Anthropic amidst potential concerns. Musk's assurance is significant for Anthropic's future",
-    "importance": 8,
-    "classified": true
-  },
-  {
-    "title": "Can AI answer the $3 trillion question?",
-    "link": "https://techcrunch.com/2026/07/09/can-ai-answer-the-3-trillion-question/",
-    "pubDate": "Thu, 09 Jul 2026 21:47:50 +0000",
-    "source": "TechCrunch AI",
-    "category": "ai",
-    "content": "The AI ROI debate has returned and the numbers are even bigger, as are, perhaps, the consequences.",
-    "image": "",
-    "summary": "The AI ROI debate has resurfaced with significantly larger numbers and potential consequences, prompting a discussion on the value of AI with a $3 trillion question. This debate may have substantial implications for the future of AI development and investment. The question is whether AI can provide a worthwhile return on investment.",
-    "importance": 8,
-    "classified": true
-  },
-  {
-    "title": "Meta enters the crowded AI coding battle with Muse Spark 1.1",
-    "link": "https://techcrunch.com/2026/07/09/meta-enters-the-crowded-ai-coding-battle-with-muse-spark-1-1/",
-    "pubDate": "Thu, 09 Jul 2026 19:40:45 +0000",
-    "source": "TechCrunch AI",
-    "category": "ai",
-    "content": "Meta's pitch to users is Spark's ability to handle large agentic workloads, fix bugs, and help with large code migrations — the kind of automation that enterprises are increasingly turning to AI companies to provide.",
-    "image": "",
-    "summary": "Meta has launched Muse Spark 1.1, an AI coding tool that can handle large workloads, fix bugs, and assist with code migrations, targeting enterprise clients. This move marks Meta's entry into the competitive AI coding market. The tool aims to provide automation solutions that enterprises increasingly need.",
     "importance": 8,
     "classified": true
   },
@@ -1188,6 +1152,18 @@
     "classified": true
   },
   {
+    "title": "Thai scammer's $122M wallet, Japan embraces crypto credit: Asia Express",
+    "link": "https://cointelegraph.com/features/thai-scammer-japan-crypto-loans?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Tue, 14 Jul 2026 01:39:02 +0000",
+    "source": "Cointelegraph",
+    "category": "crypto",
+    "content": "Bitcoin backed mortgages and stablecoin yield are hot topics in Japan right now, as Hyundai experiments with Avalanche for global stablecoin transfers. Asia Express",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/asia-express-5.jpg",
+    "summary": "Japan is actively embracing crypto credit, with Bitcoin-backed mortgages and stablecoin yield becoming popular topics. Concurrently, Hyundai is experimenting with Avalanche for global stablecoin transfers, while a Thai scammer has been linked to a $122 million wallet.",
+    "importance": 7,
+    "classified": true
+  },
+  {
     "title": "Bank of Thailand targets USDT and cash flows in gray money crackdown",
     "link": "https://cointelegraph.com/news/thailand-targets-stablecoins-in-latest-laundering-crackdown?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "pubDate": "Mon, 13 Jul 2026 04:43:50 +0000",
@@ -1248,18 +1224,6 @@
     "classified": true
   },
   {
-    "title": "DOJ moves to dismiss charges against alleged $722M BitClub fraudster: Report",
-    "link": "https://cointelegraph.com/news/doj-to-dismiss-charges-against-alleged-722m-bitclub-crypto-fraudster-bloomberg?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Sat, 11 Jul 2026 01:30:31 +0000",
-    "source": "Cointelegraph",
-    "category": "crypto",
-    "content": "Matthew Goettsche was set to face trial in October for conspiracy to commit wire fraud and selling unregistered securities.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-how-to-spot-an-exit-scam-doj-1.jpg",
-    "summary": "The Department of Justice is reportedly seeking to dismiss charges against Matthew Goettsche, a key figure in the alleged $722 million BitClub Ponzi scheme. Goettsche had been facing trial in October for conspiracy to commit wire fraud and selling unregistered securities related to the cryptocurrency operation.",
-    "importance": 7,
-    "classified": true
-  },
-  {
     "title": "Bitcoin whale moves $188 million in BTC after seven-year dormancy: onchain data",
     "link": "https://www.theblock.co/post/407973/bitcoin-whale-moves-188-million-worth-btc?utm_source=rss&utm_medium=rss",
     "pubDate": "Sun, 12 Jul 2026 22:12:25 -0400",
@@ -1268,18 +1232,6 @@
     "content": "The whale last moved bitcoin in 2018, when the cryptocurrency traded at roughly $6,475, reflecting nearly a tenfold gain since then.",
     "image": "https://www.tbstat.com/wp/uploads/2025/09/20250917_Whale_News-800x450.jpg",
     "summary": "A Bitcoin whale recently moved $188 million worth of BTC after seven years of inactivity. The last movement occurred in 2018 when Bitcoin was trading at approximately $6,475, indicating a nearly tenfold gain for the whale's holdings.",
-    "importance": 7,
-    "classified": true
-  },
-  {
-    "title": "Crypto fatwa sparks debate over Pakistan’s digital asset framework",
-    "link": "https://www.theblock.co/post/407969/crypto-fatwa-sparks-debate-over-pakistans-digital-asset-framework?utm_source=rss&utm_medium=rss",
-    "pubDate": "Sun, 12 Jul 2026 17:23:57 -0400",
-    "source": "The Block",
-    "category": "crypto",
-    "content": "Pakistan’s crypto regulator held talks with prominent Islamic scholar Mufti Taqi Usmani after a fatwa declared crypto purchases impermissible under Islam.",
-    "image": "https://www.tbstat.com/wp/uploads/2023/04/20230412_Legal_Generic_3-800x450.jpg",
-    "summary": "Pakistan's crypto regulator is in discussions with Islamic scholar Mufti Taqi Usmani after a fatwa declared cryptocurrency purchases impermissible under Islam. This religious decree has sparked a debate over Pakistan's digital asset framework and the future of crypto in the country.",
     "importance": 7,
     "classified": true
   },
@@ -1416,6 +1368,18 @@
     "classified": true
   },
   {
+    "title": "Bitcoin and Ethereum tweet volume falls to 12-month lows despite institutional crypto boom",
+    "link": "https://www.theblock.co/post/408061/bitcoin-ethereum-tweet-volume-falls-12-month-lows-despite-institutional-crypto-boom?utm_source=rss&utm_medium=rss",
+    "pubDate": "Mon, 13 Jul 2026 18:06:02 -0400",
+    "source": "The Block",
+    "category": "crypto",
+    "content": "Retail attention via social chatter is back to 2020 levels even as institutional involvement has moved in the opposite direction.",
+    "image": "https://www.tbstat.com/wp/uploads/2024/01/20240111_Coin_News_1-800x450.jpg",
+    "summary": "The volume of tweets about Bitcoin and Ethereum has fallen to 12-month lows, indicating decreased retail attention. This decrease has occurred despite a surge in institutional involvement in the crypto market. Social chatter is now back to 2020 levels.",
+    "importance": 6,
+    "classified": true
+  },
+  {
     "title": "Hyperliquid’s HIP-3 markets surge to nearly 50% of perp volume as onchain stock trading grows",
     "link": "https://www.theblock.co/post/408064/hyperliquid-hip-3-markets-surge-50-perp-volume-onchain-stock-trading-grows?utm_source=rss&utm_medium=rss",
     "pubDate": "Mon, 13 Jul 2026 16:33:47 -0400",
@@ -1500,6 +1464,30 @@
     "classified": true
   },
   {
+    "title": "Uber’s product chief on hotels, robotaxis, and why the company doesn’t want to be “everything for everyone”",
+    "link": "https://techcrunch.com/2026/07/13/ubers-product-chief-on-hotels-robotaxis-and-why-the-company-doesnt-want-to-be-everything-for-everyone/",
+    "pubDate": "Tue, 14 Jul 2026 00:45:00 +0000",
+    "source": "TechCrunch AI",
+    "category": "ai",
+    "content": "Uber Chief Product Officer Sachin Kansal walks TechCrunch through the company's financial-services ambitions, its increasingly complicated relationship with Waymo, its new AV Labs data operation, and how AI is starting to show up in ways riders and drivers will actually notice.",
+    "image": "",
+    "summary": "Uber's Chief Product Officer discusses the company's ambitions, including its relationship with Waymo and the use of AI in its services. The company is working on its financial-services ambitions and has established an AV Labs data operation. AI is being integrated into Uber's services in ways that will impact riders and drivers.",
+    "importance": 6,
+    "classified": true
+  },
+  {
+    "title": "Hermes agent maker Nous Research in talks for new funding at $1.5B valuation",
+    "link": "https://techcrunch.com/2026/07/13/hermes-agent-maker-nous-research-in-talks-for-new-funding-at-1-5b-valuation/",
+    "pubDate": "Mon, 13 Jul 2026 23:31:18 +0000",
+    "source": "TechCrunch AI",
+    "category": "ai",
+    "content": "The company is raising at least $75 million, led by Robot Ventures, with significant participation from USV and other prominent investors.",
+    "image": "",
+    "summary": "Nous Research, the company behind Hermes agent maker, is in talks for new funding with a valuation of $1.5 billion, aiming to raise at least $75 million led by Robot Ventures. The funding round also sees significant participation from USV and other prominent investors. This funding could potentially fuel further development in AI-powered agents.",
+    "importance": 6,
+    "classified": true
+  },
+  {
     "title": "Anthropic starts localizing Claude pricing for India, its biggest market after the US",
     "link": "https://techcrunch.com/2026/07/13/anthropic-starts-localizing-claude-pricing-for-india-its-biggest-market-after-the-us/",
     "pubDate": "Mon, 13 Jul 2026 15:34:59 +0000",
@@ -1532,6 +1520,18 @@
     "content": "\"Our intent was to provide a useful creative tool and to give people control over whether their public content could be referenced in this way,\" the company said in a blog post. \"We've heard the feedback that this feature missed the mark, so it's no longer available.\"",
     "image": "",
     "summary": "Meta has removed a controversial AI feature from Instagram after receiving backlash, stating that the feature missed its intended mark of providing a useful creative tool. The feature allowed public content to be referenced in certain ways, but users responded negatively. The company has since made the feature unavailable.",
+    "importance": 6,
+    "classified": true
+  },
+  {
+    "title": "Siri AI is already changing how I use my iPhone",
+    "link": "https://www.theverge.com/tech/964714/siri-ai-public-beta-preview-ios-27-hands-on",
+    "pubDate": "2026-07-13T20:43:20.000Z",
+    "source": "The Verge AI",
+    "category": "ai",
+    "content": "Siri AI in iOS 27.\t\n\niOS 27 escaped the developer world today with the launch of the first public beta. I've been testing the new operating system since early June, looking for quirks and seeing if it can live up to the hype Apple promised in the keynote.\nThis year's iOS upgrades are what one might call a Snow Leopard update. That means it's light on new features and instead focused on fixing things that were broken and speeding up processes across the OS. App launches, Photos search results, and AirDrop transfers should all be faster. The Messages app now supports in-line replies and end-to-end encryption for RCS messages. Liquid Glass has gotten more refined, …\nRead the full story at The Verge.",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Siri-AI-Being-invoked-3.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "summary": "The first public beta of iOS 27 has been released, with a focus on fixing existing issues and improving performance, including enhancements to Siri AI. The update brings faster app launches and improved Photos search results. The Messages app also now supports in-line replies and end-to-end encryption for RCS messages.",
     "importance": 6,
     "classified": true
   },
@@ -1632,6 +1632,18 @@
     "classified": true
   },
   {
+    "title": "CLARITY Act gains second law enforcement endorsement before Senate push",
+    "link": "https://cointelegraph.com/news/clarity-act-gains-second-law-enforcement-endorsement-before-senate-push?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Tue, 14 Jul 2026 01:37:27 +0000",
+    "source": "Cointelegraph",
+    "category": "crypto",
+    "content": "The Federal Law Enforcement Officers Association expressed support for the CLARITY Act but urged changes to the legislation’s language.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/sams-in-a-labirynth-clarity-act-us.jpg",
+    "summary": "The Federal Law Enforcement Officers Association has expressed support for the CLARITY Act, but suggested changes to the legislation's language, as the act prepares for a Senate push. The act's details are not provided in the article. The endorsement is the act's second from law enforcement.",
+    "importance": 2,
+    "classified": true
+  },
+  {
     "title": "The Download: a donor conception cap and world models for AI",
     "link": "https://www.technologyreview.com/2026/07/13/1140339/the-download-sperm-donor-limits-ai-world-models/",
     "pubDate": "Mon, 13 Jul 2026 12:10:00 +0000",
@@ -1676,18 +1688,6 @@
     "content": "Responding to Musk accusing him of being a scammer, Altman said, \"homeboy you're the one sellling [sic] public market investors on short-term space datacenters.\"",
     "image": "",
     "summary": "Sam Altman responded to Elon Musk's accusations, calling out Musk for selling investors on short-term space data centers. The exchange is part of an ongoing feud between the two. Altman's statement reflects a common criticism among experts about the viability of space data centers.",
-    "importance": 2,
-    "classified": true
-  },
-  {
-    "title": "Microsoft’s carbon emissions went up 25 percent last year",
-    "link": "https://www.theverge.com/tech/963728/microsoft-sustainability-report-2026",
-    "pubDate": "2026-07-10T00:04:13.000Z",
-    "source": "The Verge AI",
-    "category": "ai",
-    "content": "Microsoft may once again be struggling to keep up with its own climate goals, according to its 2026 sustainability report. As reported by GeekWire, the report states that Microsoft's carbon emissions increased 25 percent in 2025, totalling 34 million metric tons \"without select interventions.\" Microsoft says this was \"driven primarily by the expansion of our datacenter infrastructure,\" as well as the company's decision last February to stop purchasing \"non-additional, unbundled renewable energy certificates.\" \nSeveral years ago, Microsoft set itself a goal to be carbon negative by 2030, meaning it will need to remove more carbon emissions t …\nRead the full story at The Verge.",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STKS528_DATA_CENTERS_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "summary": "Microsoft's carbon emissions increased by 25% in 2025, driven by datacenter infrastructure expansion, according to its 2026 sustainability report. The company aims to be carbon negative by 2030. This increase may impact Microsoft's climate goals.",
     "importance": 2,
     "classified": true
   },
