@@ -204,6 +204,18 @@
     "classified": true
   },
   {
+    "title": "Over 95% of Coinbase’s code is now written with help of AI",
+    "link": "https://cointelegraph.com/news/over-95-of-coinbases-code-is-now-written-with-ai?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Tue, 14 Jul 2026 22:30:00 +0000",
+    "source": "Cointelegraph",
+    "category": "both",
+    "content": "Coinbase’s Rob Witoff said the company is leaning more on AI to help with execution, but still needs high-agency humans for judgment and strategy.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-what-is-a-coinbase-transaction-ai-1.jpg",
+    "summary": "Coinbase has revealed that over 95% of its code is now written with the help of artificial intelligence, with the company relying on AI for execution but still requiring human judgment and strategy. This shift highlights the growing role of AI in coding and development. The use of AI is expected to increase efficiency and speed up the coding process.",
+    "importance": 8,
+    "classified": true
+  },
+  {
     "title": "Three US senators oppose CLARITY Act on ethics grounds with vote expected soon",
     "link": "https://cointelegraph.com/news/us-senators-oppose-clarity-act-vote-senate?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "pubDate": "Tue, 14 Jul 2026 21:30:26 +0000",
@@ -432,14 +444,38 @@
     "classified": true
   },
   {
-    "title": "President Trump invokes US senator’s death to push crypto bill",
-    "link": "https://cointelegraph.com/news/us-senate-session-plans-clarity-act-vote?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Mon, 13 Jul 2026 16:27:43 +0000",
-    "source": "Cointelegraph",
+    "title": "How Asset Managers Are Investing in Crypto",
+    "link": "https://www.theblock.co/learn/408181/how-asset-managers-are-investing-in-crypto?utm_source=rss&utm_medium=rss",
+    "pubDate": "Tue, 14 Jul 2026 21:55:20 -0400",
+    "source": "The Block",
     "category": "crypto",
-    "content": "With the death of Senator Lindsey Graham and another senator hospitalized, Republicans’ current majority in the chamber has been reduced to 51-47, likely requiring more Democratic support to pass crypto market structure.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-us-senate-infrastructure-bill-doom-and-gloom-for-crypto-trump.jpg",
-    "summary": "US Senator Lindsey Graham's death has reduced the Republican majority in the chamber, potentially affecting the passage of a crypto market structure bill. The new balance of power may require more Democratic support for the bill to pass. This development could impact the shape of cryptocurrency regulation in the US.",
+    "content": "Asset managers invest in crypto mainly through regulated products: spot ETFs, digital asset funds, tokenized funds, qualified custodians, and blockchain company equity. Most invest on behalf of clients rather than for their own accounts. Their aim is to deliver digital asset exposure inside the brokerage, retirement, and advisory structures clients already use, with the custody, […]",
+    "image": "https://www.tbstat.com/wp/uploads/2026/07/Asset-Managers-Learn-716x450.jpg",
+    "summary": "Asset managers are investing in cryptocurrency through regulated products such as spot ETFs and digital asset funds, primarily on behalf of their clients. The goal is to provide digital asset exposure within existing brokerage and retirement structures. This approach allows for custody and other services to be integrated into clients' existing accounts.",
+    "importance": 8,
+    "classified": true
+  },
+  {
+    "title": "Bitcoin vs Gold as a Reserve Asset",
+    "link": "https://www.theblock.co/learn/408147/bitcoin-vs-gold-as-a-reserve-asset?utm_source=rss&utm_medium=rss",
+    "pubDate": "Tue, 14 Jul 2026 21:52:59 -0400",
+    "source": "The Block",
+    "category": "crypto",
+    "content": "A reserve asset is something an institution or government holds to preserve value, provide liquidity, and act as a store of wealth outside its day-to-day operating currency. Bitcoin and gold are both treated as reserve assets because each is scarce, hard to counterfeit, and independent of any single company’s performance. Gold has filled that role […]",
+    "image": "https://www.tbstat.com/wp/uploads/2026/07/BTC-vs-Gold-716x450.jpg",
+    "summary": "Bitcoin and gold are being considered as reserve assets due to their scarcity and independence, with institutions and governments holding them to preserve value and provide liquidity. Both assets are hard to counterfeit and are not tied to any single company's performance. The comparison between the two highlights their potential as stores of wealth.",
+    "importance": 8,
+    "classified": true
+  },
+  {
+    "title": "Ark Invest adds $14 million in Circle shares while selling Robinhood",
+    "link": "https://www.theblock.co/post/408336/ark-invest-adds-14-million-in-circle?utm_source=rss&utm_medium=rss",
+    "pubDate": "Tue, 14 Jul 2026 21:52:11 -0400",
+    "source": "The Block",
+    "category": "crypto",
+    "content": "Ark Invest bought $14 million worth of Circle and $1.5 million worth of Block Inc., while selling $3.2 million worth of Robinhood.",
+    "image": "https://www.tbstat.com/wp/uploads/2022/11/20221114_ArkInvest-800x450.jpg",
+    "summary": "Ark Invest has purchased $14 million in Circle shares and $1.5 million in Block Inc. shares, while selling $3.2 million worth of Robinhood. This move indicates a strategic investment in companies related to cryptocurrency and blockchain. The investment in Circle, a firm behind the USDC stablecoin, is particularly noteworthy.",
     "importance": 8,
     "classified": true
   },
@@ -560,30 +596,6 @@
     "content": "HMRC adopts \"no gain, no loss\" treatment for certain crypto loans and liquidity pool transactions, deferring CGT until economic disposal.",
     "image": "https://www.tbstat.com/wp/uploads/2023/08/20230712_UK_CryptoTax_News-800x450.jpg",
     "summary": "The UK HMRC has adopted a 'no gain, no loss' tax treatment for certain crypto lending and liquidity pool transactions, deferring capital gains tax until economic disposal. This move is expected to provide clarity and relief for cryptocurrency investors and traders. The new treatment will apply to specific types of crypto loans and liquidity pool transactions.",
-    "importance": 8,
-    "classified": true
-  },
-  {
-    "title": "US government moves over $288 million in seized bitcoin, ether to Coinbase Prime: Arkham",
-    "link": "https://www.theblock.co/post/408202/us-government-moves-288-million-bitcoin-ether?utm_source=rss&utm_medium=rss",
-    "pubDate": "Tue, 14 Jul 2026 06:17:39 -0400",
-    "source": "The Block",
-    "category": "crypto",
-    "content": "According to Arkham, U.S. government wallets maintain a large crypto portfolio estimated at over $20 billion, including 324,552 BTC.",
-    "image": "https://www.tbstat.com/wp/uploads/2026/04/20260410_Bitcoin_News_3-800x450.jpg",
-    "summary": "The US government has moved over $288 million in seized bitcoin and ether to Coinbase Prime, as reported by Arkham, which also estimates the government's total crypto portfolio to be over $20 billion. This includes 324,552 BTC, showing a significant holding. The move indicates the government's continued involvement in cryptocurrency management.",
-    "importance": 8,
-    "classified": true
-  },
-  {
-    "title": "South Korea maintains blockchain economy push as AI takes center stage",
-    "link": "https://www.theblock.co/post/408180/south-korea-blockchain-economy-h2-2026?utm_source=rss&utm_medium=rss",
-    "pubDate": "Tue, 14 Jul 2026 04:51:22 -0400",
-    "source": "The Block",
-    "category": "both",
-    "content": "Plans include the enactment of the Digital Asset Basic Act and advancement of a CBDC project linked to the tokenization of government bonds.",
-    "image": "https://www.tbstat.com/wp/uploads/2024/02/20240220_SouthKorea_News3-800x450.jpg",
-    "summary": "South Korea is pushing forward with its blockchain economy plans, including enacting the Digital Asset Basic Act and advancing a central bank digital currency project. The project involves tokenizing government bonds, indicating a significant step in blockchain adoption. AI is also taking center stage in the country's economy.",
     "importance": 8,
     "classified": true
   },
@@ -756,6 +768,42 @@
     "classified": true
   },
   {
+    "title": "OpenAI researcher Miles Wang in talks to launch AI drug discovery startup valued at $2B",
+    "link": "https://techcrunch.com/2026/07/14/openai-researcher-miles-wang-in-talks-to-launch-ai-drug-discovery-startup-valued-at-2b/",
+    "pubDate": "Wed, 15 Jul 2026 00:27:04 +0000",
+    "source": "TechCrunch AI",
+    "category": "ai",
+    "content": "The funding discussions point to investor interest in applying AI to make breakthroughs in life sciences.",
+    "image": "",
+    "summary": "OpenAI researcher Miles Wang is in talks to launch an AI-powered drug discovery startup with a potential valuation of $2B, indicating investor interest in applying AI to life sciences. This startup aims to make breakthroughs in the field using artificial intelligence. The discussions highlight the growing potential of AI in life sciences.",
+    "importance": 8,
+    "classified": true
+  },
+  {
+    "title": "OpenAI’s first hardware device is reportedly a screenless speaker that can move",
+    "link": "https://techcrunch.com/2026/07/14/openais-first-hardware-device-is-reportedly-a-screenless-speaker-that-can-move/",
+    "pubDate": "Tue, 14 Jul 2026 22:22:24 +0000",
+    "source": "TechCrunch AI",
+    "category": "ai",
+    "content": "The device is weirdly described as involving \"mechanical elements that can move on their own\" and the Bloomberg report includes the detail that the device is designed to \"feel like a companion and become a physical manifestation of OpenAI’s ChatGPT.\"",
+    "image": "",
+    "summary": "OpenAI is reportedly developing a screenless speaker that can move, described as having mechanical elements that can move on their own, and is designed to feel like a companion to the user. The device is intended to be a physical manifestation of OpenAI's ChatGPT. This innovative device combines AI technology with unique hardware design.",
+    "importance": 8,
+    "classified": true
+  },
+  {
+    "title": "OpenAI pushes back on Apple trade secret lawsuit",
+    "link": "https://techcrunch.com/2026/07/14/openai-pushes-back-on-apple-trade-secret-lawsuit/",
+    "pubDate": "Tue, 14 Jul 2026 22:07:42 +0000",
+    "source": "TechCrunch AI",
+    "category": "ai",
+    "content": "OpenAI has issued another statement on the lawsuit, this time suggesting it lacks merit.",
+    "image": "",
+    "summary": "OpenAI responded to an Apple lawsuit, stating it lacks merit. The lawsuit is related to trade secrets, but details are scarce. OpenAI is pushing back against the claims.",
+    "importance": 8,
+    "classified": true
+  },
+  {
     "title": "OpenAI’s new flagship model deletes files on its own, people keep warning",
     "link": "https://techcrunch.com/2026/07/14/openais-new-flagship-model-deletes-files-on-its-own-people-keep-warning/",
     "pubDate": "Tue, 14 Jul 2026 21:50:11 +0000",
@@ -888,26 +936,26 @@
     "classified": true
   },
   {
-    "title": "Satya Nadella has issued a shocking warning to companies using AI",
-    "link": "https://techcrunch.com/2026/07/13/satya-nadella-has-issued-a-shocking-warning-to-companies-using-ai/",
-    "pubDate": "Mon, 13 Jul 2026 20:59:00 +0000",
-    "source": "TechCrunch AI",
+    "title": "OpenAI may announce a ChatGPT smart speaker this year",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/965670/openai-chatgpt-ai-smart-speaker-hardware-device",
+    "pubDate": "2026-07-14T21:26:32.000Z",
+    "source": "The Verge AI",
     "category": "ai",
-    "content": "Of all the debates raging about the potential downsides of AI, there is one worry causing the most hand-wringing among AI enthusiasts in Silicon Valley — that the giant AI labs that sell proprietary models are somehow acting like Trojan horses.",
-    "image": "",
-    "summary": "Satya Nadella has warned companies about the potential risks of using AI, specifically the concern that AI labs selling proprietary models may be acting like Trojan horses. This warning highlights the potential downsides of AI and the need for caution. The warning is significant for the AI community.",
+    "content": "OpenAI's first device is set to be a smart speaker that lets you talk with ChatGPT, according to a report from Bloomberg. The device apparently won't have a screen, but will use a camera and additional sensors to \"understand\" your environment.\nThe report comes just days after Apple filed a lawsuit against OpenAI that accused the AI company of stealing hardware secrets. OpenAI, in a new statement on Tuesday, said that it is \"not aware of any evidence that this complaint has merit.\"\nSources tell Bloomberg that OpenAI's device will also feature a rechargeable battery that will allow users to carry it with them. It will offer smart home contro …\nRead the full story at The Verge.",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/STK155_OPEN_AI_4_CVirginia_D.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "summary": "OpenAI may release a ChatGPT smart speaker this year, allowing users to interact with the AI through voice commands, with features like a camera and sensors to understand the environment. The device will have a rechargeable battery and offer smart home control. This news comes amid a lawsuit from Apple accusing OpenAI of stealing hardware secrets.",
     "importance": 8,
     "classified": true
   },
   {
-    "title": "The wildest allegations in Apple’s trade secrets lawsuit against OpenAI",
-    "link": "https://techcrunch.com/2026/07/13/the-wildest-allegations-in-apples-trade-secrets-lawsuit-against-openai/",
-    "pubDate": "Mon, 13 Jul 2026 18:22:10 +0000",
-    "source": "TechCrunch AI",
+    "title": "SpaceXAI&#8217;s Grok programming tool was uploading its users&#8217; entire codebase to cloud storage",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/965600/spacexai-grok-build-repository-upload",
+    "pubDate": "2026-07-14T19:25:00.000Z",
+    "source": "The Verge AI",
     "category": "ai",
-    "content": "Apple’s trade secrets lawsuit against OpenAI contains allegations that range from employees joking about unauthorized access to Apple’s systems to claims that job candidates were asked to bring Apple hardware to interviews. Here are the complaint’s most eye-catching claims.",
-    "image": "",
-    "summary": "Apple's trade secrets lawsuit against OpenAI includes allegations of unauthorized access to Apple's systems and claims that job candidates were asked to bring Apple hardware to interviews. The lawsuit contains various eye-catching claims, including employees joking about accessing Apple's systems. The allegations suggest a significant breach of trust between the two companies.",
+    "content": "SpaceXAI's Grok Build AI coding tool was spotted uploading users' entire codebases to Google Cloud before it was reported, and the company turned it off. The Register reports that Cereblab published findings on Monday showing how the Grok Build CLI was packaging and uploading entire code repositories, \"including files it was told not to open and secrets deleted from history,\" significantly more data retention than similar tools like Claude Code.\nThe researchers say that as of Monday, their tests show SpaceXAI's servers returning a \"disable_codebase_upload: true\" flag, and the codebase upload \"no longer fires.\" \nElon Musk responded to the i …\nRead the full story at The Verge.",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/STK262_GROK_B_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "summary": "SpaceXAI's Grok Build AI coding tool was found to be uploading users' entire codebases to Google Cloud, including sensitive data, before the issue was reported and subsequently addressed by the company. The tool has since been updated to stop uploading codebases. This incident raises concerns about data privacy and security in AI development tools.",
     "importance": 8,
     "classified": true
   },
@@ -1188,6 +1236,18 @@
     "classified": true
   },
   {
+    "title": "Bitmine generated $46M from Ethereum staking last quarter",
+    "link": "https://cointelegraph.com/news/bitmine-generated-46m-from-ethereum-staking-last-quarter?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Wed, 15 Jul 2026 01:28:14 +0000",
+    "source": "Cointelegraph",
+    "category": "crypto",
+    "content": "Ethereum staking generated 98% of Bitmine’s revenue last quarter as the company’s pivot from Bitcoin mining gained momentum following its March validator launch.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-ethereum-20-staking-explained.jpg",
+    "summary": "Bitmine generated $46 million last quarter, with Ethereum staking accounting for 98% of its revenue. This demonstrates the success of the company's pivot from Bitcoin mining, which gained momentum after its validator launch in March.",
+    "importance": 7,
+    "classified": true
+  },
+  {
     "title": "Hobby-level miner bags $200K solo BTC block with budget Bitaxe rig",
     "link": "https://cointelegraph.com/news/solo-bitcoin-miner-200k-block-budget-bitaxe-rig?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "pubDate": "Tue, 14 Jul 2026 10:10:00 +0000",
@@ -1284,18 +1344,6 @@
     "classified": true
   },
   {
-    "title": "Bitcoin threatens $62K in risk-asset rout as President Trump says US will 'run' closed Hormuz Strait",
-    "link": "https://cointelegraph.com/markets/bitcoin-threatens-62k-in-risk-asset-out-as-donald-trump-says-us-will-run-closed-hormuz-strait?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Mon, 13 Jul 2026 15:05:45 +0000",
-    "source": "Cointelegraph",
-    "category": "crypto",
-    "content": "Bitcoin bulls faced an uphill struggle to preserve $62,000 as stocks opened down on Strait of Hormuz rhetoric between the US and Iran.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-trump-speak-iran-1.jpg",
-    "summary": "Bitcoin's price is under threat of falling to $62,000 due to a risk-asset rout, influenced by tensions between the US and Iran over the Strait of Hormuz. The situation is exacerbated by comments from Donald Trump. The price drop is part of a larger stock market decline.",
-    "importance": 6,
-    "classified": true
-  },
-  {
     "title": "CFTC orders Kalshi to honor Michigan trades, escalating clash with state regulators",
     "link": "https://www.theblock.co/post/408323/cftc-orders-kalshi-honor-michigan-trades-escalating-clash-state-regulators?utm_source=rss&utm_medium=rss",
     "pubDate": "Tue, 14 Jul 2026 15:08:00 -0400",
@@ -1364,18 +1412,6 @@
     "content": "CleanSpark has signed a 20-year, $6.6 billion data center lease in Sandersville, Georgia, with a confidential tech tenant.",
     "image": "https://www.tbstat.com/wp/uploads/2022/12/20221227_CleanSpark-News-800x450.jpg",
     "summary": "CleanSpark has signed a 20-year, $6.6 billion data center lease with an unnamed global tech firm in Sandersville, Georgia. The lease is confidential, but it indicates a significant investment in data center infrastructure. This deal could have implications for the tech industry, particularly in the areas of AI and crypto.",
-    "importance": 6,
-    "classified": true
-  },
-  {
-    "title": "Former LASD deputy jailed for obstructing crypto ‘mogul’ Adam Iza extortion probe",
-    "link": "https://www.theblock.co/post/408193/former-lasd-deputy-jailed-for-obstructing-crypto-mogul-adam-iza-extortion-probe?utm_source=rss&utm_medium=rss",
-    "pubDate": "Tue, 14 Jul 2026 05:55:02 -0400",
-    "source": "The Block",
-    "category": "crypto",
-    "content": "A former LASD deputy was sentenced to 18 months in federal prison for lying about an Adam Iza extortion incident.",
-    "image": "https://www.tbstat.com/wp/uploads/2023/04/20230412_Legal_Generic-800x450.jpg",
-    "summary": "A former LASD deputy has been sentenced to 18 months in prison for lying about an extortion incident involving Adam Iza, a crypto mogul. The deputy had obstructed the investigation into the extortion probe. The sentencing is a result of the deputy's attempts to cover up the truth.",
     "importance": 6,
     "classified": true
   },
@@ -1452,18 +1488,6 @@
     "classified": true
   },
   {
-    "title": "Hermes agent maker Nous Research in talks for new funding at $1.5B valuation",
-    "link": "https://techcrunch.com/2026/07/13/hermes-agent-maker-nous-research-in-talks-for-new-funding-at-1-5b-valuation/",
-    "pubDate": "Mon, 13 Jul 2026 23:31:18 +0000",
-    "source": "TechCrunch AI",
-    "category": "ai",
-    "content": "The company is raising at least $75 million, led by Robot Ventures, with significant participation from USV and other prominent investors.",
-    "image": "",
-    "summary": "Nous Research, the company behind Hermes agent maker, is in talks for new funding with a valuation of $1.5 billion, aiming to raise at least $75 million led by Robot Ventures. The funding round also sees significant participation from USV and other prominent investors. This funding could potentially fuel further development in AI-powered agents.",
-    "importance": 6,
-    "classified": true
-  },
-  {
     "title": "The Google Images homepage will recommend photos even before you search",
     "link": "https://www.theverge.com/tech/965138/google-images-homepage-ai-overviews-search-nano-banana",
     "pubDate": "2026-07-14T16:00:00.000Z",
@@ -1508,18 +1532,6 @@
     "content": "Siri AI in iOS 27.\t\n\niOS 27 escaped the developer world today with the launch of the first public beta. I've been testing the new operating system since early June, looking for quirks and seeing if it can live up to the hype Apple promised in the keynote.\nThis year's iOS upgrades are what one might call a Snow Leopard update. That means it's light on new features and instead focused on fixing things that were broken and speeding up processes across the OS. App launches, Photos search results, and AirDrop transfers should all be faster. The Messages app now supports in-line replies and end-to-end encryption for RCS messages. Liquid Glass has gotten more refined, …\nRead the full story at The Verge.",
     "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Siri-AI-Being-invoked-3.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
     "summary": "The first public beta of iOS 27 has been released, with a focus on fixing existing issues and improving performance, including enhancements to Siri AI. The update brings faster app launches and improved Photos search results. The Messages app also now supports in-line replies and end-to-end encryption for RCS messages.",
-    "importance": 6,
-    "classified": true
-  },
-  {
-    "title": "Waze is getting a bunch of new AI-powered features",
-    "link": "https://www.theverge.com/transportation/964132/waze-gemini-ai-voice-commands-less-chatty",
-    "pubDate": "2026-07-13T09:00:00.000Z",
-    "source": "The Verge AI",
-    "category": "ai",
-    "content": "Waze is getting an AI makeover. Google is integrating its flagship AI assistant, Gemini, into the driving app with the goal of letting users personalize their trips a little more. \nOf the four new updates, only two are being described as involving Gemini. Waze says its updating its conversation reporting feature, first introduced in 2024, to allow drivers to use conversational voice commands to report traffic incidents and suggest map updates, like a road closure or outdated house number. In addition, Waze introduced Destination Search, enabling drivers to use (again) use conversation voice commands (e.g., \"Find me a coffee shop that's open …\nRead the full story at The Verge.",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25708121/waze_conversational_report.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "summary": "Waze is integrating Google's AI assistant Gemini to introduce new features, including conversational voice commands for reporting traffic incidents and suggesting map updates, as well as a Destination Search feature. The updates aim to let users personalize their trips. The new features are part of Waze's AI makeover.",
     "importance": 6,
     "classified": true
   },
@@ -1596,18 +1608,6 @@
     "classified": true
   },
   {
-    "title": "Lorde says Ray-Ban Meta AI glasses are ‘not sexy’",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/964539/lorde-says-ray-ban-meta-ai-glasses-are-not-sexy",
-    "pubDate": "2026-07-12T20:10:19.000Z",
-    "source": "The Verge AI",
-    "category": "ai",
-    "content": "Lorde performing at the 2026 Governors Ball. | Photo: Siegfried Anthony/Billboard via Getty Images\t\n\nLorde was performing at the Mad Cool Festival in Madrid on Thursday and took some time during her set to speak out against AI glasses. While she didn't specify any brands in particular, it's likely she was taking a shot at festival sponsor Ray-Ban, which has collaborated with Meta on a pair of AI smart glasses.\nThe comments were captured in videos shared to social media. After thanking the crowd for being there and taking part in \"something real,\" she said that it was increasingly hard to know what is and isn't real, before saying \"You don't know if someone is wearing sunglasses or if they're wearing those fucked up fucking… Can I just say, …\nRead the full story at The Verge.",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2279420244.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "summary": "During a performance in Madrid, singer Lorde publicly criticized AI smartglasses, likely referring to the Ray-Ban Meta AI glasses, calling them \"not sexy\" and \"fucked up.\" She expressed concerns about the difficulty of discerning reality with such devices, offering a celebrity's take on consumer AI technology.",
-    "importance": 4,
-    "classified": true
-  },
-  {
     "title": "U.S. June CPI fell 0.4%, likely cooling move toward Fed rate hikes",
     "link": "https://www.coindesk.com/markets/2026/07/14/u-s-june-cpi-fell-0-4-likely-cooling-move-toward-fed-rate-hikes",
     "pubDate": "Tue, 14 Jul 2026 12:33:24 +0000",
@@ -1656,6 +1656,18 @@
     "classified": true
   },
   {
+    "title": "Lorde says AI glasses are ‘not sexy’",
+    "link": "https://techcrunch.com/2026/07/14/lorde-says-ai-glasses-are-not-sexy/",
+    "pubDate": "Tue, 14 Jul 2026 23:10:02 +0000",
+    "source": "TechCrunch AI",
+    "category": "ai",
+    "content": "\"Increasingly in our world, it gets harder and harder to know what is real,\" Lorde said onstage.",
+    "image": "",
+    "summary": "Lorde expressed her opinion on AI glasses, stating they are 'not sexy' and discussed the increasing difficulty in distinguishing reality, possibly referencing AI's impact on society. She made these comments onstage. The context of her statement is not fully provided in the article.",
+    "importance": 2,
+    "classified": true
+  },
+  {
     "title": "Google Images gets a Pinterest-like redesign focused on discovery",
     "link": "https://techcrunch.com/2026/07/14/google-images-gets-a-pinterest-like-redesign-focused-on-discovery/",
     "pubDate": "Tue, 14 Jul 2026 16:00:00 +0000",
@@ -1664,18 +1676,6 @@
     "content": "Now, when users navigate to Google Images, they'll see a \"For You\" gallery of images tailored to their interests and browsing history.",
     "image": "",
     "summary": "Google Images has been redesigned to include a Pinterest-like feature called 'For You', which displays a gallery of images based on the user's interests and browsing history. This change aims to improve discovery and make the platform more engaging. The update is focused on enhancing user experience.",
-    "importance": 2,
-    "classified": true
-  },
-  {
-    "title": "Sam Altman’s space data center trash talk is what most experts already believe",
-    "link": "https://techcrunch.com/2026/07/13/sam-altmans-space-data-center-trash-talk-is-what-most-experts-already-believe/",
-    "pubDate": "Mon, 13 Jul 2026 17:28:37 +0000",
-    "source": "TechCrunch AI",
-    "category": "ai",
-    "content": "Responding to Musk accusing him of being a scammer, Altman said, \"homeboy you're the one sellling [sic] public market investors on short-term space datacenters.\"",
-    "image": "",
-    "summary": "Sam Altman responded to Elon Musk's accusations, calling out Musk for selling investors on short-term space data centers. The exchange is part of an ongoing feud between the two. Altman's statement reflects a common criticism among experts about the viability of space data centers.",
     "importance": 2,
     "classified": true
   },
