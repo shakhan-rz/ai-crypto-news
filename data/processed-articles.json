@@ -1,5 +1,17 @@
 [
   {
+    "title": "U.S. adds four Iran central bank crypto wallets to sanctions, Tether freezes $131 million of contents",
+    "link": "https://www.coindesk.com/business/2026/07/16/u-s-adds-four-iran-central-bank-crypto-wallets-to-sanctions-tether-freezes-usd131-million-of-contents",
+    "pubDate": "Thu, 16 Jul 2026 10:07:06 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "The freeze targets TRON-based addresses that held over $165 million, preventing those specific funds from being transferred or redeemed.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/fa54fa83edc34779ea9aabaed9edde8c81ce8197-3589x2019.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "The U.S. has sanctioned four crypto wallets linked to Iran's central bank, prompting Tether to freeze $131 million of their contents. These TRON-based addresses, which collectively held over $165 million, are now blocked from transferring or redeeming the funds.",
+    "importance": 9,
+    "classified": true
+  },
+  {
     "title": "Cantor and Securitize collaborate on blockchain-based IPOs",
     "link": "https://www.coindesk.com/business/2026/07/15/cantor-and-securitize-collaborate-on-blockchain-based-ipos",
     "pubDate": "Wed, 15 Jul 2026 16:52:28 +0000",
@@ -32,18 +44,6 @@
     "content": "Lawmakers said crypto has outgrown its role as a payment method and requires rules designed for investment products.",
     "image": "https://cdn.sanity.io/images/s3y3vcno/production/c0dea9de473d44b83caea8d173fa793134cc73e9-2561x1726.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
     "summary": "Japan has reclassified cryptocurrency as a financial asset, moving beyond its previous definition as just a payment method. This change acknowledges crypto's role as an investment product and is expected to lead to tax cuts for holders in the country.",
-    "importance": 9,
-    "classified": true
-  },
-  {
-    "title": "AI agentic payments enter mainstream as Visa, Mastercard, Ripple back x402 standard",
-    "link": "https://www.coindesk.com/tech/2026/07/15/visa-mastercard-and-ripple-join-the-standard-letting-ai-agents-pay-in-stablecoins",
-    "pubDate": "Wed, 15 Jul 2026 06:05:24 +0000",
-    "source": "CoinDesk",
-    "category": "both",
-    "content": "Forty companies now govern x402, the protocol Coinbase built and handed away. It settled about $24 million across 75 million payments last month.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/46755685f5e11aa30feec15f1afcf981d4ca73ad-4500x3001.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "The x402 protocol, originally built by Coinbase and now governed by 40 companies including Visa, Mastercard, and Ripple, has entered the mainstream for AI agentic payments. This standard processed approximately $24 million across 75 million payments last month.",
     "importance": 9,
     "classified": true
   },
@@ -120,14 +120,26 @@
     "classified": true
   },
   {
-    "title": "UK plans first G7 digital sovereign bond by early 2027",
-    "link": "https://www.coindesk.com/business/2026/07/15/uk-plans-first-g7-digital-sovereign-bond-by-early-2027",
-    "pubDate": "Wed, 15 Jul 2026 08:16:34 +0000",
-    "source": "CoinDesk",
+    "title": "US Senate unanimously adopts resolution opposing clemency for SBF",
+    "link": "https://cointelegraph.com/news/senate-adopts-resolution-opposing-clemency-sbf-ftx?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Thu, 16 Jul 2026 09:26:11 +0000",
+    "source": "Cointelegraph",
     "category": "crypto",
-    "content": "The security will launch on HSBC’s Orion platform within the BoE and FCA’s Digital Securities Sandbox to test reduced settlement times and costs.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/9cf7e1b52e7391faee37bcb2cc0bf4a976d531da-5784x3254.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "The UK plans to issue the first G7 digital sovereign bond by early 2027. This security will launch on HSBC’s Orion platform within the Bank of England and FCA’s Digital Securities Sandbox to test reduced settlement times and costs.",
+    "content": "The Senate approved a resolution opposing clemency for former FTX CEO Sam Bankman-Fried as prediction markets put the odds of a Trump pardon by July 31 below 1%.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/sbf-sam-bankman-fried-portrait-1.jpg",
+    "summary": "The US Senate has unanimously adopted a resolution opposing clemency for former FTX CEO Sam Bankman-Fried. This move occurs as prediction markets indicate less than a 1% chance of a presidential pardon for SBF by July 31.",
+    "importance": 8,
+    "classified": true
+  },
+  {
+    "title": "Bitcoin $107K buyers providing ‘early signals’ of 2026 bear-market bottom: Glassnode",
+    "link": "https://cointelegraph.com/markets/bitcoin-107-buyers-providing-early-signals-of-2026-bear-market-bottom-glassnode?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Thu, 16 Jul 2026 08:11:25 +0000",
+    "source": "Cointelegraph",
+    "category": "crypto",
+    "content": "Bitcoin realized losses appeared to be copying a reversal structure that marked previous bear-market bottoms, with $69,000 a new BTC price battleground.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/hihodlingin2025themostwidelyusedbitcoinstrategyexplained.jpg",
+    "summary": "According to Glassnode, Bitcoin's realized losses are showing signs of a reversal structure similar to previous bear-market bottoms, with a potential battleground at $69,000. This could be an early signal of a bear-market bottom in 2026. Bitcoin buyers at $107,000 may be contributing to this trend.",
     "importance": 8,
     "classified": true
   },
@@ -174,7 +186,7 @@
     "source": "Cointelegraph",
     "category": "crypto",
     "content": "Ostium halted trading and advised revoking contract approvals after blockchain security firms reported an apparent oracle-related exploit of its OLP liquidity vault, with estimated losses ranging from $18 million to $22 million.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/magazine-defillama-hacks-analysis.png",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/hacks-analysis.jpg",
     "summary": "Ostium has paused trading due to a reported oracle exploit of its OLP liquidity vault, with estimated losses between $18 million and $22 million. The company has advised users to revoke contract approvals. The exploit was discovered by blockchain security firms.",
     "importance": 8,
     "classified": true
@@ -324,50 +336,26 @@
     "classified": true
   },
   {
-    "title": "US, UK treasuries to align transatlantic rules on tokenization and stablecoins",
-    "link": "https://cointelegraph.com/news/us-uk-treasuries-rules-tokenized-finance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Tue, 14 Jul 2026 19:45:20 +0000",
-    "source": "Cointelegraph",
+    "title": "Lummis, Gallego secure unanimous Senate approval opposing Sam Bankman-Fried clemency",
+    "link": "https://www.theblock.co/post/408581/lummis-gallego-secure-unanimous-senate-approval-opposing-sam-bankman-fried-clemency?utm_source=rss&utm_medium=rss",
+    "pubDate": "Thu, 16 Jul 2026 05:21:09 -0400",
+    "source": "The Block",
     "category": "crypto",
-    "content": "The two governments issued recommendations on the treatment of digital assets as the US prepares to implement a 2025 law on payment stablecoins.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-the-regulation-considerations-in-the-united-states-and-united-kingdom.jpg",
-    "summary": "The US and UK treasuries are collaborating to align transatlantic rules concerning tokenization and stablecoins. This initiative includes issuing recommendations on the treatment of digital assets as the US moves towards implementing a 2025 law specifically for payment stablecoins.",
+    "content": "The U.S. Senate unanimously approved a resolution opposing a presidential pardon or commutation for convicted FTX founder Sam Bankman-Fried.",
+    "image": "https://www.tbstat.com/wp/uploads/2023/10/20231003_FTX_4_News-1-800x450.jpg",
+    "summary": "The US Senate has unanimously approved a resolution opposing a presidential pardon for Sam Bankman-Fried, the convicted founder of FTX. This decision reflects the Senate's stance on holding individuals accountable for their actions in the crypto space. The resolution is a significant development in the ongoing saga surrounding FTX's collapse.",
     "importance": 8,
     "classified": true
   },
   {
-    "title": "UK government defers capital gains on certain crypto with ‘no gain, no loss’ approach",
-    "link": "https://cointelegraph.com/news/uk-government-capital-gains-lending-liquidity-no-gain-no-loss?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Tue, 14 Jul 2026 17:24:00 +0000",
-    "source": "Cointelegraph",
-    "category": "crypto",
-    "content": "The change in tax policy, expected to affect about 700,000 people in the UK, is tied to the disposal of crypto in lending and liquidity pools.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-crypto-capital-gains-tax-italy-vs-france-vs-germany.jpg",
-    "summary": "The UK government has introduced a new tax policy that defers capital gains on certain crypto transactions, applying a 'no gain, no loss' approach to the disposal of crypto in lending and liquidity pools, affecting around 700,000 people. This change aims to simplify tax calculations for individuals involved in crypto lending and liquidity provision. The policy is expected to have a significant impact on the UK's crypto community.",
-    "importance": 8,
-    "classified": true
-  },
-  {
-    "title": "JCB signs Circle MOU to test stablecoin payments in Japan",
-    "link": "https://cointelegraph.com/news/japans-jcb-signs-mou-with-circle-to-explore-usdc-payments-and-cross-border-settlements?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Tue, 14 Jul 2026 17:05:00 +0000",
-    "source": "Cointelegraph",
-    "category": "crypto",
-    "content": "The companies will explore using USDC for JCB’s cross-border treasury operations and merchant payments in Japan as regulated stablecoin adoption gains momentum.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/cross-border-transaction-stablecoin-swift.png",
-    "summary": "JCB and Circle have signed an MOU to test stablecoin payments in Japan, exploring the use of USDC for cross-border treasury operations and merchant payments. This partnership aims to leverage regulated stablecoin adoption, which is gaining momentum. The collaboration will facilitate payments in Japan using USDC.",
-    "importance": 8,
-    "classified": true
-  },
-  {
-    "title": "CleanSpark shares jump 22% after $6.6B Georgia data center lease",
-    "link": "https://cointelegraph.com/news/cleanspark-shares-jump-after-georgia-data-center-lease?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Tue, 14 Jul 2026 16:24:45 +0000",
-    "source": "Cointelegraph",
+    "title": "Visa says stablecoins will power micro-commerce in AI agentic economy",
+    "link": "https://www.theblock.co/post/408574/visa-stablecoins-agentic-ai-commerce?utm_source=rss&utm_medium=rss",
+    "pubDate": "Thu, 16 Jul 2026 04:29:18 -0400",
+    "source": "The Block",
     "category": "both",
-    "content": "The Bitcoin miner’s Georgia agreement with an undisclosed investment-grade technology company expands its footprint in AI and high-performance computing infrastructure.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-ai-is-now-paying-bitcoin-miners-more-than-mining-cleanspark.jpg",
-    "summary": "CleanSpark, a Bitcoin miner, has signed a $6.6B lease for a data center in Georgia, expanding its presence in AI and high-performance computing infrastructure, causing its shares to jump 22%. The agreement is with an undisclosed investment-grade technology company. This deal is expected to grow CleanSpark's footprint in the industry.",
+    "content": "Visa said it expects agentic commerce to integrate a hybrid flow that combines both card and stablecoin rails at different stages of a task.",
+    "image": "https://www.tbstat.com/wp/uploads/2021/07/20210712_Finance_Crypto_Move-800x450.jpg",
+    "summary": "Visa expects stablecoins to play a key role in micro-commerce within an AI-driven economy, integrating both card and stablecoin payment rails. This hybrid approach aims to enhance transaction efficiency. The development of agentic commerce may revolutionize the way transactions are conducted.",
     "importance": 8,
     "classified": true
   },
@@ -488,30 +476,6 @@
     "content": "JPMorgan will tokenize part of its Invesco QQQ Trust holdings held at DTCC, while Microsoft, Circle, and SPY shares will also be tokenized.",
     "image": "https://www.tbstat.com/wp/uploads/2024/06/20240624_Tokenization_News_2-800x450.jpg",
     "summary": "The Depository Trust & Clearing Corporation (DTCC) has begun its first tokenized stock and Treasury production trades, involving major financial institutions such as JPMorgan, BlackRock, and Goldman. JPMorgan will tokenize part of its Invesco QQQ Trust holdings, and shares of Microsoft, Circle, and SPY will also be tokenized. This marks a significant step in the integration of traditional finance and blockchain technology.",
-    "importance": 8,
-    "classified": true
-  },
-  {
-    "title": "Tokenization startup Tradable plans to bring $1 billion worth of private credit assets to Stellar",
-    "link": "https://www.theblock.co/post/408399/tokenization-startup-tradable-plans-bring-1-billion-private-credit-assets-stellar?utm_source=rss&utm_medium=rss",
-    "pubDate": "Wed, 15 Jul 2026 09:35:07 -0400",
-    "source": "The Block",
-    "category": "crypto",
-    "content": "Stellar has become a top choice for institutional tokenization, including from the likes of Franklin Templeton and WisdomTree.",
-    "image": "https://www.tbstat.com/wp/uploads/2019/09/Stellar-800x450.jpg",
-    "summary": "Tokenization startup Tradable plans to bring $1 billion worth of private credit assets to the Stellar blockchain, further solidifying Stellar's position as a top choice for institutional tokenization. This move follows similar partnerships with major institutions like Franklin Templeton and WisdomTree. The development is expected to increase the adoption of blockchain technology in traditional finance.",
-    "importance": 8,
-    "classified": true
-  },
-  {
-    "title": "Bitmine says ETH staking generated $45.7 million, accounting for 98% of quarterly revenue",
-    "link": "https://www.theblock.co/post/408400/bitmine-eth-staking-generated-45-7-million-accounting-98-of-quarterly-revenue?utm_source=rss&utm_medium=rss",
-    "pubDate": "Wed, 15 Jul 2026 09:04:46 -0400",
-    "source": "The Block",
-    "category": "crypto",
-    "content": "Bitmine generated $45.7 million from Ethereum staking, which accounted for 98% of quarterly revenue as the company expanded MAVAN.",
-    "image": "https://www.tbstat.com/wp/uploads/2025/06/ethereum-eth-work-news-800x450.jpg",
-    "summary": "Bitmine has generated $45.7 million from Ethereum staking, making up 98% of the company's quarterly revenue. This significant revenue is a result of the company's expansion of MAVAN. The news highlights the growing importance of Ethereum staking in the cryptocurrency market.",
     "importance": 8,
     "classified": true
   },
@@ -1080,6 +1044,30 @@
     "classified": true
   },
   {
+    "title": "Bitcoin pulls back to $64,000 after hitting monthly high as bears take control",
+    "link": "https://www.coindesk.com/markets/2026/07/16/bitcoin-pulls-back-to-usd64-000-after-hitting-monthly-high-as-bears-take-control",
+    "pubDate": "Thu, 16 Jul 2026 10:35:56 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "Profit-taking after bitcoin hit a $65,500 monthly high combined with fresh Iranian strikes on U.S. bases sent crypto lower, with bears leading price action across most tokens.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/731b52dd55b127ee59effc1e44ddb8d2335e4f2e-1846x984.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "Bitcoin pulled back to $64,000 after reaching a monthly high of $65,500. This downturn was driven by profit-taking and geopolitical events, specifically Iranian strikes on U.S. bases, leading to a bearish trend across most tokens in the crypto market.",
+    "importance": 7,
+    "classified": true
+  },
+  {
+    "title": "Tether invests $20 million in Argentine neobank Ualá as it expands Latin America push",
+    "link": "https://www.coindesk.com/business/2026/07/16/tether-invests-usd20-million-in-argentine-neobank-uala-as-it-expands-latin-america-push",
+    "pubDate": "Thu, 16 Jul 2026 10:12:05 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "Ualá’s CEO clarified Tether is acting solely as a financial investor, citing current regional regulations preventing any immediate USDT integration.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/bfd80702a660a5deef3d056a315228038910dde5-1405x790.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "Tether has invested $20 million in Ualá, an Argentine neobank, as part of its strategy to expand in Latin America. Ualá's CEO clarified that Tether is acting solely as a financial investor due to current regional regulations preventing any immediate integration of USDT.",
+    "importance": 7,
+    "classified": true
+  },
+  {
     "title": "Crypto Long & Short: To ETH or not to ETH — is SOL the better diversifier? ",
     "link": "https://www.coindesk.com/coindesk-indices/2026/07/15/crypto-long-and-short-to-eth-or-not-to-eth-is-sol-the-better-diversifier",
     "pubDate": "Wed, 15 Jul 2026 14:58:09 +0000",
@@ -1152,14 +1140,14 @@
     "classified": true
   },
   {
-    "title": "Live updates: Bitcoin rises near $65,000 as markets get more good inflation news",
-    "link": "https://www.coindesk.com/tech/2026/07/15/live-markets-bitcoin-ether-etfs-draw-inflows-as-majors-rise-as-much-as-5",
-    "pubDate": "Wed, 15 Jul 2026 08:29:18 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "U.S. spot bitcoin ETFs took in about $181 million on Tuesday, a day after shedding roughly $425 million, per SoSoValue data. Ether ETFs added about $58 million.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/36e896e2c3a1c10e450f8b8f99f776d014b60846-1875x934.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "U.S. spot bitcoin ETFs experienced significant inflows of approximately $181 million on Tuesday, recovering from a substantial $425 million outflow the previous day. Concurrently, ether ETFs also saw positive traction, adding about $58 million in inflows.",
+    "title": "Autonomous AI agent economy faces infrastructure gaps: Visa, Artemis",
+    "link": "https://cointelegraph.com/news/autonomous-ai-agent-economy-infrastructure-gaps-visa-artemis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Thu, 16 Jul 2026 10:33:34 +0000",
+    "source": "Cointelegraph",
+    "category": "ai",
+    "content": "Visa and Artemis found that infrastructure bottlenecks are preventing broader commercial adoption of the autonomous AI agent economy.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-could-those-who-left-visa-come-back-ai.jpg",
+    "summary": "Visa and Artemis have identified significant infrastructure bottlenecks that are currently preventing the broader commercial adoption of the autonomous AI agent economy. These infrastructure gaps are seen as a major barrier to the full realization of an economy driven by self-sufficient artificial intelligence systems.",
     "importance": 7,
     "classified": true
   },
@@ -1236,6 +1224,18 @@
     "classified": true
   },
   {
+    "title": "Tether invests $20M into Argentine neobank Ualá",
+    "link": "https://cointelegraph.com/news/tether-invests-20m-argentine-neobank-uala?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Thu, 16 Jul 2026 08:27:31 +0000",
+    "source": "Cointelegraph",
+    "category": "crypto",
+    "content": "Tether reportedly invested $20 million into Ualá, as part of the Argentine neobank’s $197 million funding round announced earlier in March.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-tether-development.jpg",
+    "summary": "Tether has invested $20 million in Argentine neobank Ualá as part of its $197 million funding round. This investment may indicate growing ties between cryptocurrency and traditional banking. Ualá's funding round was announced in March.",
+    "importance": 6,
+    "classified": true
+  },
+  {
     "title": "Is Robinhood Chain’s success bullish or bearish for ETH the asset?",
     "link": "https://cointelegraph.com/features/has-robinhoods-layer-2-given-eth-a-new-bull-case?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "pubDate": "Wed, 15 Jul 2026 13:30:00 +0000",
@@ -1256,6 +1256,18 @@
     "content": "Cathie Wood’s ARK Invest added $13.9 million worth of Circle shares on Tuesday, extending its July buying spree to 725,517 shares amid a steep stock decline.",
     "image": "https://s3-images.ctmedia.io/media/article-covers/cathie-wood2.png",
     "summary": "Cathie Wood's ARK Invest has purchased an additional 220,000 Circle shares, valued at $13.9 million, despite the company's stock decline. This move extends ARK's July buying spree to 725,517 shares. The investment firm's continued purchasing suggests confidence in Circle's potential.",
+    "importance": 6,
+    "classified": true
+  },
+  {
+    "title": "Volvo Group tests proprietary cryptocurrency for supplier transactions in blockchain push",
+    "link": "https://www.theblock.co/post/408586/volvo-group-tests-proprietary-cryptocurrency?utm_source=rss&utm_medium=rss",
+    "pubDate": "Thu, 16 Jul 2026 05:56:49 -0400",
+    "source": "The Block",
+    "category": "both",
+    "content": "Volvo Group's proprietary cryptocurrency project remains in the ideation stage and is not yet industrialized.",
+    "image": "https://www.tbstat.com/wp/uploads/2026/07/volvo-group-e1784194906473-800x450.png",
+    "summary": "Volvo Group is exploring the use of a proprietary cryptocurrency for supplier transactions as part of its blockchain initiative, which is currently in the ideation stage. The project aims to leverage blockchain technology, but it has not yet been industrialized. The move indicates a potential use case for cryptocurrency in the automotive industry.",
     "importance": 6,
     "classified": true
   },
@@ -1340,18 +1352,6 @@
     "content": "William Blair expects Coinbase's earnings to bottom in the second half of 2026 before rebounding next year.",
     "image": "https://www.tbstat.com/wp/uploads/2023/10/20231006_Coinbase_News3-800x450.jpg",
     "summary": "William Blair has cut its forecasts for Coinbase, but expects the company's earnings to bottom out in the second half of 2026 and rebound in 2027. This suggests that the current crypto downturn may be nearing its end. The forecast adjustment reflects the ongoing challenges in the cryptocurrency market.",
-    "importance": 6,
-    "classified": true
-  },
-  {
-    "title": "Core Scientific’s 75% return on AI deal isn’t the template for bitcoin miners, Bernstein says",
-    "link": "https://www.theblock.co/post/408412/core-scientific-return-on-ai-deal-isnt-template-for-bitcoin-miners-bernstein-says?utm_source=rss&utm_medium=rss",
-    "pubDate": "Wed, 15 Jul 2026 09:38:56 -0400",
-    "source": "The Block",
-    "category": "both",
-    "content": "Bernstein pegs TeraWulf at 5% and Cipher at 4% stabilized ROA, calling Core Scientific's 75% figure a capex-advantaged outlier.",
-    "image": "https://www.tbstat.com/wp/uploads/2026/04/20260428_Bitcoin-Mining_News_2-800x450.jpg",
-    "summary": "Bernstein analysts consider Core Scientific's 75% return on an AI deal an outlier, predicting lower returns for other bitcoin miners like TeraWulf and Cipher. The predicted stabilized return on asset for TeraWulf is 5% and for Cipher is 4%. This suggests Core Scientific's high return may not be a viable template for other miners.",
     "importance": 6,
     "classified": true
   },
@@ -1668,18 +1668,6 @@
     "classified": true
   },
   {
-    "title": "The Download: a nuclear landmark, and China eyes Nvidia chips",
-    "link": "https://www.technologyreview.com/2026/07/09/1140283/the-download-nuclear-power-milestone-nvidia-china-ai-chips/",
-    "pubDate": "Thu, 09 Jul 2026 12:10:00 +0000",
-    "source": "MIT Technology Review",
-    "category": "ai",
-    "content": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Four nuclear reactors hit a big milestone in the US —Casey Crownhart I was really looking forward to July 4, and not just because I love a poolside barbecue. This year…",
-    "image": "https://wp.technologyreview.com/wp-content/uploads/2025/02/Photomontage-1.jpg?w=3000",
-    "summary": "Four nuclear reactors in the US have hit a milestone, and China is looking to acquire Nvidia chips, a significant development in the tech industry, although no direct connection to AI or crypto is mentioned in the given text",
-    "importance": 2,
-    "classified": true
-  },
-  {
     "title": "SpaceX falls to $135 IPO price ahead of Starship launch",
     "link": "https://techcrunch.com/2026/07/15/spacex-falls-to-135-ipo-price-ahead-of-starship-launch/",
     "pubDate": "Wed, 15 Jul 2026 18:06:05 +0000",
@@ -1724,6 +1712,18 @@
     "content": "US President Donald Trump is set to meet with several senators on Thursday as negotiators race to get the CLARITY Act across the line before the Senate’s August recess.",
     "image": "https://s3-images.ctmedia.io/media/article-covers/trump-signing-papers.jpg",
     "summary": "US President Donald Trump is meeting with senators to discuss the CLARITY Act, which negotiators are trying to pass before the Senate's August recess. The meeting is scheduled for Thursday. The outcome of the meeting may impact the Act's progress.",
+    "importance": 1,
+    "classified": true
+  },
+  {
+    "title": "Why heat pumps are still so hot in the US",
+    "link": "https://www.technologyreview.com/2026/07/16/1140505/heat-pump-sales-us/",
+    "pubDate": "Thu, 16 Jul 2026 10:00:00 +0000",
+    "source": "MIT Technology Review",
+    "category": "ai",
+    "content": "It feels as if it should be illegal to even think about heating appliances during the height of summer—seriously, these heat waves in New York have been brutal—but we need to talk about heat pumps. The appliances use electricity for heating, they’re incredibly efficient, and they’re on the rise. (For what it’s worth, many heat…",
+    "image": "",
+    "summary": "The article discusses the increasing popularity of heat pumps in the US, highlighting their efficiency and rise in usage. Heat pumps use electricity for heating and are becoming more prominent. The topic is unrelated to AI or crypto, focusing on home appliances.",
     "importance": 1,
     "classified": true
   },
