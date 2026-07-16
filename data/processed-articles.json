@@ -48,6 +48,30 @@
     "classified": true
   },
   {
+    "title": "A bitcoin wallet dormant since the 2017 peak just moved $383 million",
+    "link": "https://www.coindesk.com/markets/2026/07/16/a-bitcoin-wallet-dormant-since-the-2017-peak-just-moved-usd383-million",
+    "pubDate": "Thu, 16 Jul 2026 05:12:26 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "The coins went to a fresh address rather than an exchange, so nothing has been sold yet.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/70198f64252bcded39f90b505eb1a2f4f3b2fb92-1500x1000.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "A bitcoin wallet that had been dormant since the 2017 market peak recently moved $383 million in coins. The funds were transferred to a new address, indicating they have not yet been sold on an exchange.",
+    "importance": 8,
+    "classified": true
+  },
+  {
+    "title": "Two groups of bitcoin Investors sell on the rise as U.S. inflation lifts prices to nearly $65,000",
+    "link": "https://www.coindesk.com/markets/2026/07/16/two-groups-of-bitcoin-investors-sell-on-the-rise-as-inflation-lifts-prices-to-nearly-usd65-000",
+    "pubDate": "Thu, 16 Jul 2026 04:09:10 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "Bitcoin surges toward $65,000 on softer-than-expected inflation data, but on-chain signals show two key investor groups selling into the bounce.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/6d62dea31c05f153f4407ebc45f48ddfab943da6-1280x905.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "Bitcoin prices have surged to nearly $65,000 due to softer-than-expected US inflation data, but two key investor groups are selling into the bounce, as indicated by on-chain signals. This selling activity suggests that some investors are taking profits despite the price increase. The surge in price is a result of the inflation data release.",
+    "importance": 8,
+    "classified": true
+  },
+  {
     "title": "DTCC moves tokenized securities into live trading, marking a milestone for Wall Street's blockchain push",
     "link": "https://www.coindesk.com/business/2026/07/15/dtcc-moves-tokenized-securities-into-live-trading-marking-a-milestone-for-wall-street-s-blockchain-push",
     "pubDate": "Wed, 15 Jul 2026 17:02:22 +0000",
@@ -360,14 +384,14 @@
     "classified": true
   },
   {
-    "title": "OpenAI quietly adds Kalshi World Cup odds to ChatGPT: Report",
-    "link": "https://cointelegraph.com/news/openai-kalshi-prediction-markets-world-cup-chatgpt?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Tue, 14 Jul 2026 13:30:06 +0000",
-    "source": "Cointelegraph",
-    "category": "both",
-    "content": "OpenAI’s ChatGPT now displays Kalshi’s World Cup prediction market odds in search results, marking the AI firm’s first reported deal with a prediction market platform.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/sam-altman-polymarket.png",
-    "summary": "OpenAI's ChatGPT now displays Kalshi's World Cup prediction market odds, marking the company's first deal with a prediction market platform. This integration aims to provide users with more information and insights. The deal is significant for both AI and crypto communities.",
+    "title": "California pair charged with laundering crypto proceeds from darknet fentanyl sales",
+    "link": "https://www.theblock.co/post/408560/california-duo-darknet-drug-crypto-money-laundering?utm_source=rss&utm_medium=rss",
+    "pubDate": "Wed, 15 Jul 2026 22:23:34 -0400",
+    "source": "The Block",
+    "category": "crypto",
+    "content": "The pair allegedly shipped over 500 drug parcels over a seven-month period and laundered hundreds of thousands of dollars through crypto.",
+    "image": "https://www.tbstat.com/wp/uploads/2021/06/20210601_Hydra_Darknet-800x450.png",
+    "summary": "A California pair has been charged with laundering crypto proceeds from darknet fentanyl sales, allegedly shipping over 500 drug parcels and laundering hundreds of thousands of dollars. The pair used cryptocurrency to conceal their transactions. This case highlights the ongoing issue of cryptocurrency being used for illicit activities.",
     "importance": 8,
     "classified": true
   },
@@ -488,18 +512,6 @@
     "content": "Bitmine generated $45.7 million from Ethereum staking, which accounted for 98% of quarterly revenue as the company expanded MAVAN.",
     "image": "https://www.tbstat.com/wp/uploads/2025/06/ethereum-eth-work-news-800x450.jpg",
     "summary": "Bitmine has generated $45.7 million from Ethereum staking, making up 98% of the company's quarterly revenue. This significant revenue is a result of the company's expansion of MAVAN. The news highlights the growing importance of Ethereum staking in the cryptocurrency market.",
-    "importance": 8,
-    "classified": true
-  },
-  {
-    "title": "How Crypto Venues Are Building Financial Operating Systems: Binance as a Super App",
-    "link": "https://www.theblock.co/post/408308/how-crypto-venues-are-building-financial-operating-systems-binance-as-a-super-app?utm_source=rss&utm_medium=rss",
-    "pubDate": "Wed, 15 Jul 2026 08:56:18 -0400",
-    "source": "The Block",
-    "category": "crypto",
-    "content": "From Trading Venue to Financial Operating System Across crypto’s largest venues, the fundamentals of execution, including pricing, depth, latency, and fees, are converging. These remain critical to the business and a precondition for competing at scale, but as they standardize across the top platforms, they become harder to differentiate on. Alongside them, ecosystem breadth is […]",
-    "image": "https://www.tbstat.com/wp/uploads/2026/07/20260629_Binance_ResearchThumbnail-2-800x450.jpg",
-    "summary": "Crypto venues like Binance are evolving from trading platforms to comprehensive financial operating systems, with key execution fundamentals converging across top platforms. This shift makes it harder for them to differentiate based on these factors. As a result, ecosystem breadth is becoming a more important differentiator.",
     "importance": 8,
     "classified": true
   },
@@ -828,18 +840,6 @@
     "classified": true
   },
   {
-    "title": "Apple opens its new Siri AI to everyone with the iOS 27 public beta",
-    "link": "https://techcrunch.com/2026/07/14/apple-opens-its-new-siri-ai-to-everyone-with-the-ios-27-public-beta/",
-    "pubDate": "Tue, 14 Jul 2026 19:42:27 +0000",
-    "source": "TechCrunch AI",
-    "category": "ai",
-    "content": "If you’ve been waiting to try Apple’s revamped Siri without installing a developer beta, you now can. The company on Tuesday released the iOS 27 public beta, giving iPhone owners early access to its AI-powered assistant and other new features before the software’s official launch this fall.",
-    "image": "",
-    "summary": "Apple has released the iOS 27 public beta, allowing iPhone owners to try the revamped Siri AI before its official launch. The new Siri features an AI-powered assistant and other new features. This update is available to everyone, not just developers.",
-    "importance": 8,
-    "classified": true
-  },
-  {
     "title": "xAI sues a man for using Grok to generate CSAM &#8216;deepfakes&#8217;",
     "link": "https://www.theverge.com/ai-artificial-intelligence/966293/xai-grok-user-lawsuit-csam",
     "pubDate": "2026-07-15T21:33:20.000Z",
@@ -1164,42 +1164,6 @@
     "classified": true
   },
   {
-    "title": "Some U.S. Senate Democrats come out against Clarity Act, calling it a 'corrupt' bill",
-    "link": "https://www.coindesk.com/policy/2026/07/14/some-u-s-senate-democrats-come-out-against-clarity-act-calling-it-a-corrupt-bill",
-    "pubDate": "Tue, 14 Jul 2026 18:57:15 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "Certain Democrats are taking an increasingly rigorous stand against the crypto market structure bill, which needs a significant number from their party to pass.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/93c94ced3cbe9ae13b4c8ce561afc9ffc375344d-4031x2267.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "Some U.S. Senate Democrats are strongly opposing the Clarity Act, a proposed crypto market structure bill. They have labeled the bill as 'corrupt,' indicating significant resistance that could hinder its passage, as it requires substantial support from their party.",
-    "importance": 7,
-    "classified": true
-  },
-  {
-    "title": "Binance bets on becoming a crypto 'super app' as stablecoins reshape growth",
-    "link": "https://www.coindesk.com/business/2026/07/14/binance-bets-on-becoming-a-crypto-super-app-as-stablecoins-reshape-growth",
-    "pubDate": "Tue, 14 Jul 2026 17:33:19 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "Shunyet Jan, Binance’s head of spot trading and derivatives, said the exchange is focusing more on payments and financial services than on trading alone as it drives the next phase of its expansion.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/fb3faad30a017cf2a7ec33694fc3ee05fd3cc52f-6016x4016.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "Binance is strategically shifting its focus from solely trading to emphasize payments and financial services, aiming to evolve into a 'crypto super app'. This move represents the next phase of the exchange's expansion, as stated by Shunyet Jan, Binance's head of spot trading and derivatives.",
-    "importance": 7,
-    "classified": true
-  },
-  {
-    "title": "The Clarity Act isn't a ticket to sanctions evasion, actually",
-    "link": "https://www.coindesk.com/opinion/2026/07/14/the-clarity-act-isn-t-a-ticket-to-sanctions-evasion-actually",
-    "pubDate": "Tue, 14 Jul 2026 17:27:48 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "The bill, as currently drafted, has the power to stop sanctions evasion at scale, argues Ari Redbord, global head of policy at TRM Labs.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/bbfc674b5030a84178a832fe0429bc65125ae8fb-7008x4672.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "Ari Redbord, global head of policy at TRM Labs, argues that the proposed Clarity Act is actually designed to effectively prevent large-scale sanctions evasion. He asserts that the bill, in its current draft, possesses the necessary power to combat such illicit financial activities.",
-    "importance": 7,
-    "classified": true
-  },
-  {
     "title": "Base’s social bet left it trailing in prediction markets and perps: Pollak",
     "link": "https://cointelegraph.com/news/bases-social-bet-left-it-trailing-in-prediction-markets-and-perps-pollak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "pubDate": "Thu, 16 Jul 2026 01:14:58 +0000",
@@ -1233,6 +1197,18 @@
     "image": "https://s3-images.ctmedia.io/media/article-covers/hi-ethereum-20-staking-explained.jpg",
     "summary": "Bitmine generated $46 million last quarter, with Ethereum staking accounting for 98% of its revenue. This demonstrates the success of the company's pivot from Bitcoin mining, which gained momentum after its validator launch in March.",
     "importance": 7,
+    "classified": true
+  },
+  {
+    "title": "Ether outruns bitcoin as ETF money returns, almost all of from BlackRock's fund",
+    "link": "https://www.coindesk.com/markets/2026/07/16/ether-outruns-bitcoin-as-etf-money-returns-almost-all-of-from-blackrock-s-fund",
+    "pubDate": "Thu, 16 Jul 2026 04:56:15 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "This is not a broad rally as bitcoin is up 4% over the same stretch, and solana, TRON and hyperliquid are all lower.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/c357579ddef2051b405b9e89f8525dd02709081d-5760x3240.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "Ether has outperformed bitcoin recently, with a significant increase in value, largely due to investments from BlackRock's fund. Bitcoin has also seen a 4% increase, but other cryptocurrencies like solana, TRON, and hyperliquid have decreased. This trend suggests a targeted investment in ether rather than a broader market rally.",
+    "importance": 6,
     "classified": true
   },
   {
@@ -1412,6 +1388,18 @@
     "content": "Bitcoin Magazine\n\nPresident Trump To Meet Senators On Clarity Act’s Ethics Fight: Report\nPresident Trump will meet senators as negotiations over the CLARITY Act's ethics provisions threaten the bill's chances of passing before the August recess.\nThis post President Trump To Meet Senators On Clarity Act’s Ethics Fight: Report first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
     "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/06/President-Donald-Trump-Discloses-More-Than-50-Million-in-Bitcoin-Held-in-Cold-Storage.jpg",
     "summary": "President Trump is set to meet with senators to discuss the CLARITY Act's ethics provisions, which are currently threatening the bill's passage before the August recess. The bill's fate is uncertain, and Trump's involvement may be crucial. This development may impact the crypto community.",
+    "importance": 6,
+    "classified": true
+  },
+  {
+    "title": "Applied Computing wants to give oil and gas operators an AI model for the entire plant",
+    "link": "https://techcrunch.com/2026/07/15/applied-computing-wants-to-give-oil-and-gas-operators-an-ai-model-for-the-entire-plant/",
+    "pubDate": "Thu, 16 Jul 2026 04:00:00 +0000",
+    "source": "TechCrunch AI",
+    "category": "ai",
+    "content": "Applied Computing has raised a $20M Series A to build a foundation AI model for the oil, gas and petrochemical industry.",
+    "image": "",
+    "summary": "Applied Computing has raised $20M in Series A funding to develop a foundation AI model for the oil, gas, and petrochemical industry, aiming to provide operators with a comprehensive AI solution for entire plants. This model is expected to enhance operations and efficiency in the industry. The funding will support the development of this innovative AI technology.",
     "importance": 6,
     "classified": true
   },
@@ -1712,6 +1700,18 @@
     "content": "The federal derivatives regulator, which oversees trading at Kalshi, argued it was inappropriate for Michigan to \"bully\" the firm into reversing trades.",
     "image": "https://cdn.sanity.io/images/s3y3vcno/production/f8247ad03ed0ee80d0bc837f451e14221f8fa7f3-1900x1067.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
     "summary": "The U.S. federal derivatives regulator, the CFTC, is challenging a Michigan court's order for Kalshi to cancel trades, arguing that the state's intervention is inappropriate. The CFTC, which oversees trading at Kalshi, is moving to prevent the firm from reversing these trades, highlighting a jurisdictional dispute.",
+    "importance": 1,
+    "classified": true
+  },
+  {
+    "title": "Trump to meet with senators over CLARITY Act on Thursday: Politico",
+    "link": "https://cointelegraph.com/news/trump-to-meet-with-senators-over-clarity-act-on-thursday-politico?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Thu, 16 Jul 2026 04:18:29 +0000",
+    "source": "Cointelegraph",
+    "category": "crypto",
+    "content": "US President Donald Trump is set to meet with several senators on Thursday as negotiators race to get the CLARITY Act across the line before the Senate’s August recess.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/trump-signing-papers.jpg",
+    "summary": "US President Donald Trump is meeting with senators to discuss the CLARITY Act, which negotiators are trying to pass before the Senate's August recess. The meeting is scheduled for Thursday. The outcome of the meeting may impact the Act's progress.",
     "importance": 1,
     "classified": true
   },
