@@ -372,18 +372,6 @@
     "classified": true
   },
   {
-    "title": "Strategy became a symbol of the dot-com crash: Could history repeat?",
-    "link": "https://cointelegraph.com/features/from-dot-com-bust-to-bitcoin-king-has-michael-saylor-rewritten-his-legacy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Tue, 14 Jul 2026 13:30:00 +0000",
-    "source": "Cointelegraph",
-    "category": "crypto",
-    "content": "MicroStrategy blew up during the dot-com era, before Michael Saylor transformed it into the world's largest corporate Bitcoin holder. Did he learn his lesson?",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-mag-from-dot-com-crash-to-bitcoin-treasury-king-has-michael-saylor-rewritten-his-legacy-1.jpg",
-    "summary": "MicroStrategy, a company that previously failed during the dot-com era, has been transformed by Michael Saylor into the world's largest corporate Bitcoin holder, raising questions about whether history will repeat itself. The company's past experiences may have taught Saylor valuable lessons. MicroStrategy's current situation is being watched closely by investors and analysts.",
-    "importance": 8,
-    "classified": true
-  },
-  {
     "title": "Stripe-PayPal deal could accelerate shift to blockchain-based money, Polygon exec says",
     "link": "https://www.theblock.co/post/408525/stripe-paypal-deal-accelerate-stablecoins-blockchain?utm_source=rss&utm_medium=rss",
     "pubDate": "Wed, 15 Jul 2026 17:41:07 -0400",
@@ -512,18 +500,6 @@
     "content": "From Trading Venue to Financial Operating System Across crypto’s largest venues, the fundamentals of execution, including pricing, depth, latency, and fees, are converging. These remain critical to the business and a precondition for competing at scale, but as they standardize across the top platforms, they become harder to differentiate on. Alongside them, ecosystem breadth is […]",
     "image": "https://www.tbstat.com/wp/uploads/2026/07/20260629_Binance_ResearchThumbnail-2-800x450.jpg",
     "summary": "Crypto venues like Binance are evolving from trading platforms to comprehensive financial operating systems, with key execution fundamentals converging across top platforms. This shift makes it harder for them to differentiate based on these factors. As a result, ecosystem breadth is becoming a more important differentiator.",
-    "importance": 8,
-    "classified": true
-  },
-  {
-    "title": "Circle suspended Tether-backed fund over market manipulation concerns, arbitration filings show",
-    "link": "https://www.theblock.co/post/408377/circle-suspended-tether-backed-fund-over-market-manipulation-concerns-arbitration-filings-show?utm_source=rss&utm_medium=rss",
-    "pubDate": "Wed, 15 Jul 2026 08:23:46 -0400",
-    "source": "The Block",
-    "category": "crypto",
-    "content": "Circle suspended Heka Funds over suspected market manipulation after learning Tether had invested $800 million in the arbitrage fund.",
-    "image": "https://www.tbstat.com/wp/uploads/2023/04/20230412_Legal_Generic_4-800x450.jpg",
-    "summary": "Circle suspended Heka Funds due to suspected market manipulation concerns, after discovering Tether's $800 million investment in the arbitrage fund. The decision was made to protect the market from potential manipulation. The move highlights regulatory scrutiny in the crypto space.",
     "importance": 8,
     "classified": true
   },
@@ -704,6 +680,18 @@
     "content": "The AI firm Anthropic has developed a technique that has given it the clearest glimpse yet at what’s really going on inside large language models as they answer questions or carry out tasks. What they found ranges from the mundane to the unnerving. Researchers at the company built a tool called the Jacobian lens (or…",
     "image": "https://wp.technologyreview.com/wp-content/uploads/2026/07/Screenshot-2026-07-09-at-20.29.29.png?w=180",
     "summary": "Anthropic developed a technique to better understand large language models, finding a range of results from mundane to unnerving. The tool, called the Jacobian lens, provides insight into the models' thought processes. This discovery could significantly impact AI development.",
+    "importance": 8,
+    "classified": true
+  },
+  {
+    "title": "Microsoft is reportedly training salespeople to talk down OpenAI and Anthropic",
+    "link": "https://techcrunch.com/2026/07/15/microsoft-is-reportedly-training-salespeople-to-talk-down-openai-and-anthropic/",
+    "pubDate": "Wed, 15 Jul 2026 23:59:44 +0000",
+    "source": "TechCrunch AI",
+    "category": "ai",
+    "content": "Microsoft is looking to sell its in-house AI models as more efficient and cost-effective than its competitors' models.",
+    "image": "",
+    "summary": "Microsoft is training its sales team to promote its in-house AI models as more efficient and cost-effective than competitors like OpenAI and Anthropic. This move suggests Microsoft is trying to gain an edge in the AI market. Microsoft's strategy focuses on highlighting the benefits of its own models.",
     "importance": 8,
     "classified": true
   },
@@ -1212,6 +1200,18 @@
     "classified": true
   },
   {
+    "title": "Base’s social bet left it trailing in prediction markets and perps: Pollak",
+    "link": "https://cointelegraph.com/news/bases-social-bet-left-it-trailing-in-prediction-markets-and-perps-pollak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Thu, 16 Jul 2026 01:14:58 +0000",
+    "source": "Cointelegraph",
+    "category": "crypto",
+    "content": "Base creator Jesse Pollak is stepping back from leadership of the Base App after admitting he was “definitively wrong” to bet on social experiences driving crypto adoption.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-what-is-base-coinbase-l2-network-1.jpg",
+    "summary": "Base creator Jesse Pollak is stepping down from his leadership role at Base App. He admitted his strategy of prioritizing social experiences for crypto adoption was \"definitively wrong,\" leading to Base trailing in prediction markets and perps.",
+    "importance": 7,
+    "classified": true
+  },
+  {
     "title": "Czech Republic tells ISPs to block Polymarket after gambling blacklisting",
     "link": "https://cointelegraph.com/news/czech-republic-adds-polymarket-to-unauthorized-gambling-blacklist?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "pubDate": "Wed, 15 Jul 2026 10:19:09 +0000",
@@ -1292,6 +1292,18 @@
     "content": "Institutions can now stake Tron's native token directly from Anchorage's custody platform as the company expands support for one of the largest USDT settlement networks.",
     "image": "https://s3-images.ctmedia.io/media/article-covers/hi-how-digital-asset-exchanges-can-meet-institutional-investors-need-for-speed2.png",
     "summary": "Anchorage Digital has expanded its support for Tron by allowing institutions to stake Tron's native token, TRX, directly from its custody platform. This move is significant for the Tron network, which is one of the largest USDT settlement networks. The expansion enables institutional investors to participate in TRX staking, potentially increasing adoption and liquidity.",
+    "importance": 6,
+    "classified": true
+  },
+  {
+    "title": "From Perpetual Swaps to Perpetual CFDs: The Regulated Evolution",
+    "link": "https://www.theblock.co/post/408553/from-perpetual-swaps-to-perpetual-cfds-the-regulated-evolution?utm_source=rss&utm_medium=rss",
+    "pubDate": "Wed, 15 Jul 2026 19:19:00 -0400",
+    "source": "The Block",
+    "category": "crypto",
+    "content": "The 24/7 Trading Imperative Fixed exchange sessions are a structural mismatch with the global retail base. The NYSE opens at 9:30 a.m. Eastern and closes at 4:00 p.m., a window designed for an era when the participant base was concentrated in a single geography and order flow was physically intermediated. That assumption has shifted as […]",
+    "image": "https://www.tbstat.com/wp/uploads/2026/07/20260714_Pepperstone_ResearchThumbnail-1-1-800x450.jpg",
+    "summary": "The traditional fixed exchange sessions are no longer suitable for the global retail base, prompting a shift towards 24/7 trading. This change is driven by the increasing participation of traders from different geographies. The evolution is moving from perpetual swaps to perpetual CFDs, indicating a regulated transformation.",
     "importance": 6,
     "classified": true
   },
@@ -1460,18 +1472,6 @@
     "content": "Rime is handling over 100 million calls each month across multiple companies.",
     "image": "",
     "summary": "Rime, a company handling customer calls, has raised $24M in Series A funding and is currently managing over 100 million calls per month for multiple enterprises. This investment will likely aid in expanding their services. The company's growth indicates a rising need for automated customer support solutions.",
-    "importance": 6,
-    "classified": true
-  },
-  {
-    "title": "Anthropic’s newest ad is creeping people out",
-    "link": "https://techcrunch.com/2026/07/14/anthropics-newest-ad-is-creeping-people-out/",
-    "pubDate": "Tue, 14 Jul 2026 19:41:27 +0000",
-    "source": "TechCrunch AI",
-    "category": "ai",
-    "content": "Anthropic has consistently attempted to depict itself as the ethical foil to other AI companies. This latest marketing stunt — which leans into criticism of AI as a way to make Anthropic seem aware of the responsibility it carries — would appear to be more of the same.",
-    "image": "",
-    "summary": "Anthropic has released a new ad that is unsettling to many, as part of its efforts to portray itself as an ethical AI company. The ad acknowledges criticism of AI and positions Anthropic as a responsible player in the industry. This move is seen as a marketing stunt to differentiate itself from other AI companies.",
     "importance": 6,
     "classified": true
   },
