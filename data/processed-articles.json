@@ -36,18 +36,6 @@
     "classified": true
   },
   {
-    "title": "Cantor and Securitize collaborate on blockchain-based IPOs",
-    "link": "https://www.coindesk.com/business/2026/07/15/cantor-and-securitize-collaborate-on-blockchain-based-ipos",
-    "pubDate": "Wed, 15 Jul 2026 16:52:28 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "The move creates a pathway for public companies to raise capital onchain and issue tokenized securities.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/0df058fe321b648948d8a5b690588aaafbb157fe-2048x1152.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "Cantor Fitzgerald and Securitize have partnered to introduce blockchain-based Initial Public Offerings (IPOs). This collaboration will enable public companies to raise capital onchain and issue tokenized securities, integrating blockchain technology into traditional capital markets.",
-    "importance": 9,
-    "classified": true
-  },
-  {
     "title": "$1.9 trillion asset manager T. Rowe Price bets on active management with first multi-token crypto ETF",
     "link": "https://www.coindesk.com/markets/2026/07/16/usd1-9-trillion-asset-manager-t-rowe-price-bets-on-active-management-with-first-multi-token-crypto-etf",
     "pubDate": "Thu, 16 Jul 2026 18:38:13 +0000",
@@ -192,14 +180,14 @@
     "classified": true
   },
   {
-    "title": "Ostium suffers $18 million exploit as oracle attack wave continues to hit DeFi",
-    "link": "https://www.coindesk.com/business/2026/07/15/ostium-suffers-usd18-million-exploit-as-oracle-attack-wave-continues-to-hit-defi",
-    "pubDate": "Wed, 15 Jul 2026 15:27:43 +0000",
-    "source": "CoinDesk",
+    "title": "Bitcoin ETFs add $368M in three-day buying streak",
+    "link": "https://cointelegraph.com/news/bitcoin-etfs-368-million-three-day-buying-streak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Fri, 17 Jul 2026 07:23:02 +0000",
+    "source": "Cointelegraph",
     "category": "crypto",
-    "content": "A hacker used Ostium's own price-reporting infrastructure against the protocol, submitting falsified future-dated oracle data to manufacture fake trading profits and trigger an $18 million payout.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/03e2d9be0c65442154bdff629a58c6496d145707-1280x717.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "Ostium suffered an $18 million exploit due to an oracle attack, where a hacker manipulated the protocol's own price-reporting infrastructure with falsified future-dated data. This allowed the attacker to generate fake trading profits and trigger a large payout.",
+    "content": "US spot Bitcoin ETFs attracted $79.2 million on Thursday, lifting their three-day inflow total to about $368 million as Bitcoin attempted a price recovery.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/bitcoin-etf-3.jpg",
+    "summary": "US spot Bitcoin ETFs have experienced a three-day buying streak, accumulating approximately $368 million in inflows. This includes $79.2 million attracted on Thursday, coinciding with Bitcoin's attempt at price recovery.",
     "importance": 8,
     "classified": true
   },
@@ -396,14 +384,26 @@
     "classified": true
   },
   {
-    "title": "Stanford study says 5-minute Bitcoin prediction markets enable settlement manipulation",
-    "link": "https://cointelegraph.com/news/stanford-study-5-minute-bitcoin-prediction-markets-enable-settlement-manipulation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Wed, 15 Jul 2026 20:05:08 +0000",
-    "source": "Cointelegraph",
+    "title": "USDT vs USDC: Comparing the Two Largest Stablecoins",
+    "link": "https://www.theblock.co/learn/408738/usdt-vs-usdc-comparing-the-two-largest-stablecoins?utm_source=rss&utm_medium=rss",
+    "pubDate": "Fri, 17 Jul 2026 00:22:22 -0400",
+    "source": "The Block",
     "category": "crypto",
-    "content": "Researchers found that Polymarket’s five-minute Bitcoin prediction markets create incentives to manipulate spot prices around contract settlement, proposing longer settlement windows as a potential fix.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-could-bitcoin-enter-the-mainstream-as-a-means-of-payments-kalshi.png",
-    "summary": "A Stanford study found that 5-minute Bitcoin prediction markets can be manipulated, creating incentives to influence spot prices around contract settlement. The researchers suggested longer settlement windows as a potential solution. This could impact the crypto market's integrity.",
+    "content": "USDT and USDC are stablecoins pegged one-to-one to the U.S. dollar, each backed by reserves covering every token in circulation. Tether’s USDT is the largest stablecoin, with the deepest liquidity across global exchanges. Circle’s USDC is the second-largest, with Circle staking its reputation on being a publicly traded company, with frequent audits, U.S. and E.U. […]",
+    "image": "https://www.tbstat.com/wp/uploads/2025/01/20250102_USDC_News-800x450.jpg",
+    "summary": "The article compares USDT and USDC, the two largest stablecoins pegged to the US dollar, discussing their differences in liquidity and audit transparency. USDT has the deepest liquidity, while USDC is backed by a publicly traded company with frequent audits. This comparison is significant for understanding the stablecoin market.",
+    "importance": 8,
+    "classified": true
+  },
+  {
+    "title": "SEC vs CFTC: Who Regulates Crypto?",
+    "link": "https://www.theblock.co/learn/408729/sec-vs-cftc-who-regulates-crypto?utm_source=rss&utm_medium=rss",
+    "pubDate": "Thu, 16 Jul 2026 23:49:02 -0400",
+    "source": "The Block",
+    "category": "crypto",
+    "content": "Crypto oversight is split mainly between two agencies: the Securities and Exchange Commission (SEC) and the Commodity Futures Trading Commission (CFTC).  In broad terms, the SEC handles crypto assets that behave like investments in a company. Meanwhile, the CFTC handles assets that behave like commodities, along with futures and other derivatives tied to them. Which […]",
+    "image": "https://www.tbstat.com/wp/uploads/2025/04/20250414_SEC_News_3-800x450.jpg",
+    "summary": "The regulation of crypto assets is split between the SEC and CFTC, with the SEC handling assets that behave like investments and the CFTC handling assets that behave like commodities. The distinction is important for understanding which agency has oversight over different types of crypto assets. This regulatory framework is crucial for the crypto industry.",
     "importance": 8,
     "classified": true
   },
@@ -524,30 +524,6 @@
     "content": "ORANGE JUICE raised $40 million to acquire businesses, pursue a bitcoin treasury strategy, and implement a permanent capital ownership model.",
     "image": "https://www.tbstat.com/wp/uploads/2025/01/20250115_Funding_News_3-800x450.jpg",
     "summary": "ORANGE JUICE has raised $40 million to launch a permanent capital firm that will acquire businesses and implement a bitcoin treasury strategy. The firm is backed by notable investors including Jeff Booth and Lyn Alden. This funding will support the company's unique approach to investing and treasury management.",
-    "importance": 8,
-    "classified": true
-  },
-  {
-    "title": "Lummis, Gallego secure unanimous Senate approval opposing Sam Bankman-Fried clemency",
-    "link": "https://www.theblock.co/post/408581/lummis-gallego-secure-unanimous-senate-approval-opposing-sam-bankman-fried-clemency?utm_source=rss&utm_medium=rss",
-    "pubDate": "Thu, 16 Jul 2026 05:21:09 -0400",
-    "source": "The Block",
-    "category": "crypto",
-    "content": "The U.S. Senate unanimously approved a resolution opposing a presidential pardon or commutation for convicted FTX founder Sam Bankman-Fried.",
-    "image": "https://www.tbstat.com/wp/uploads/2023/10/20231003_FTX_4_News-1-800x450.jpg",
-    "summary": "The US Senate has unanimously approved a resolution opposing a presidential pardon for Sam Bankman-Fried, the convicted founder of FTX. This decision reflects the Senate's stance on holding individuals accountable for their actions in the crypto space. The resolution is a significant development in the ongoing saga surrounding FTX's collapse.",
-    "importance": 8,
-    "classified": true
-  },
-  {
-    "title": "Visa says stablecoins will power micro-commerce in AI agentic economy",
-    "link": "https://www.theblock.co/post/408574/visa-stablecoins-agentic-ai-commerce?utm_source=rss&utm_medium=rss",
-    "pubDate": "Thu, 16 Jul 2026 04:29:18 -0400",
-    "source": "The Block",
-    "category": "both",
-    "content": "Visa said it expects agentic commerce to integrate a hybrid flow that combines both card and stablecoin rails at different stages of a task.",
-    "image": "https://www.tbstat.com/wp/uploads/2021/07/20210712_Finance_Crypto_Move-800x450.jpg",
-    "summary": "Visa expects stablecoins to play a key role in micro-commerce within an AI-driven economy, integrating both card and stablecoin payment rails. This hybrid approach aims to enhance transaction efficiency. The development of agentic commerce may revolutionize the way transactions are conducted.",
     "importance": 8,
     "classified": true
   },
@@ -1104,6 +1080,18 @@
     "classified": true
   },
   {
+    "title": "Bitcoin under $63,000 after new U.S. strike on Iran. Trump's China comment adds to uncertainty",
+    "link": "https://www.coindesk.com/markets/2026/07/17/bitcoin-under-usd64-000-after-u-s-strike-on-iran-trump-s-china-comment-adds-to-uncertainty",
+    "pubDate": "Fri, 17 Jul 2026 04:10:09 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "Geopolitical tensions and renewed fears of U.S.-China frictions are weighing on risk assets, including bitcoin.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/37e2accde15c1395052adccd4d7862c477e046c4-2879x1093.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "Bitcoin's price dipped below $63,000 due to escalating geopolitical tensions, including a new U.S. strike on Iran. Renewed fears of U.S.-China frictions, sparked by a comment from Trump, further contributed to uncertainty weighing on risk assets like Bitcoin.",
+    "importance": 7,
+    "classified": true
+  },
+  {
     "title": "Keyrock acquires BlockFills trading assets to expand institutional crypto business",
     "link": "https://www.coindesk.com/business/2026/07/16/keyrock-acquires-blockfills-trading-assets-to-expand-institutional-crypto-business",
     "pubDate": "Thu, 16 Jul 2026 15:26:15 +0000",
@@ -1140,6 +1128,30 @@
     "classified": true
   },
   {
+    "title": "Ordinals advocate Leonidas proposes new Bitcoin client: ‘$DOG Mode’",
+    "link": "https://cointelegraph.com/news/ordinals-dev-leonidas-proposes-new-bitcoin-client-dog-mode?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Fri, 17 Jul 2026 05:54:04 +0000",
+    "source": "Cointelegraph",
+    "category": "crypto",
+    "content": "“Over time the economic incentives will drive $DOG Mode’s adoption and force Bitcoin Core to stop gatekeeping and allow these completely valid transactions,” said Leonidas.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/teaching-coin-board-bitcoin.jpg",
+    "summary": "Ordinals advocate Leonidas has proposed a new Bitcoin client named '$DOG Mode'. Leonidas believes this client will gain adoption through economic incentives, ultimately compelling Bitcoin Core to permit what he considers completely valid transactions.",
+    "importance": 7,
+    "classified": true
+  },
+  {
+    "title": "Crypto exchange Bybit launches in Indonesia after NOBI acquisition",
+    "link": "https://cointelegraph.com/news/crypto-exchange-bybit-launches-in-indonesia-after-nobi-acquisition?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Fri, 17 Jul 2026 04:16:32 +0000",
+    "source": "Cointelegraph",
+    "category": "crypto",
+    "content": "The launch gives Bybit a locally operated platform in one of Asia’s largest crypto markets, home to more than 21 million crypto exchange users.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-bybit-giant-is-entering-cryptoheres-why-it-matters.jpg",
+    "summary": "Crypto exchange Bybit has officially launched its operations in Indonesia following its acquisition of the local platform NOBI. This strategic move grants Bybit a locally operated presence in one of Asia's largest crypto markets, which serves over 21 million crypto exchange users.",
+    "importance": 7,
+    "classified": true
+  },
+  {
     "title": "Autonomous AI agent economy faces infrastructure gaps: Visa, Artemis",
     "link": "https://cointelegraph.com/news/autonomous-ai-agent-economy-infrastructure-gaps-visa-artemis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "pubDate": "Thu, 16 Jul 2026 10:33:34 +0000",
@@ -1152,15 +1164,15 @@
     "classified": true
   },
   {
-    "title": "Base’s social bet left it trailing in prediction markets and perps: Pollak",
-    "link": "https://cointelegraph.com/news/bases-social-bet-left-it-trailing-in-prediction-markets-and-perps-pollak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Thu, 16 Jul 2026 01:14:58 +0000",
-    "source": "Cointelegraph",
+    "title": "Bitcoin’s anti-spam fight gets a 'DOG Mode' reply",
+    "link": "https://www.coindesk.com/tech/2026/07/17/bitcoin-s-anti-spam-fight-gets-a-dog-mode-reply",
+    "pubDate": "Fri, 17 Jul 2026 05:32:00 +0000",
+    "source": "CoinDesk",
     "category": "crypto",
-    "content": "Base creator Jesse Pollak is stepping back from leadership of the Base App after admitting he was “definitively wrong” to bet on social experiences driving crypto adoption.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-what-is-base-coinbase-l2-network-1.jpg",
-    "summary": "Base creator Jesse Pollak is stepping down from his leadership role at Base App. He admitted his strategy of prioritizing social experiences for crypto adoption was \"definitively wrong,\" leading to Base trailing in prediction markets and perps.",
-    "importance": 7,
+    "content": "While BIP 110 wants to restrict data through a consensus change and has almost no miner support, a new DOG Mode client wants the opposite and requires no vote at all.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/ca4073986b82e35a5d6bd80c2e88a27749ed87bf-1024x576.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "Bitcoin's anti-spam debate sees two opposing approaches emerge: BIP 110, which aims to restrict data through a consensus change but lacks miner support, and a new 'DOG Mode' client. The 'DOG Mode' client advocates for the opposite, seeking to loosen data restrictions without requiring a network vote.",
+    "importance": 6,
     "classified": true
   },
   {
@@ -1184,6 +1196,18 @@
     "content": "Pollak said that Jordan Fish, also known on X as 'Cobie,' will lead the Base app team.",
     "image": "https://cdn.sanity.io/images/s3y3vcno/production/ac85e5d9c09d2d2891e91e4bff21c568b741187b-1920x1080.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
     "summary": "Jesse Pollak, leader of Coinbase's Base app, is stepping down after admitting his crypto social strategy failed, and will be replaced by Jordan Fish, also known as 'Cobie'. The change in leadership may impact the app's future direction. The Base app is a blockchain-based social network.",
+    "importance": 6,
+    "classified": true
+  },
+  {
+    "title": "Trump Media sells Wall Street low-latency access to Trump posts",
+    "link": "https://cointelegraph.com/news/trump-media-sells-wall-street-low-latency-access-to-trump-posts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Fri, 17 Jul 2026 02:23:40 +0000",
+    "source": "Cointelegraph",
+    "category": "crypto",
+    "content": "The paid Truth API is aimed at high-frequency trading firms seeking “the fastest” access to market-moving Truth Social posts, including those from US President Donald Trump.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/token-scrolling-truth-social-1.jpg",
+    "summary": "Trump Media is selling low-latency access to Trump's social media posts through the paid Truth API, targeting high-frequency trading firms. This service aims to provide the fastest access to market-moving posts, including those from Donald Trump. The move could be significant for traders seeking to capitalize on market trends.",
     "importance": 6,
     "classified": true
   },
@@ -1217,7 +1241,7 @@
     "pubDate": "Thu, 16 Jul 2026 20:05:45 +0000",
     "source": "Cointelegraph",
     "category": "crypto",
-    "content": "Anton Bukov said that he no longer took an active role at 1inch and had been “fired” in 2025 after pushing for changes to the company’s management and operations.",
+    "content": "Anton Bukov said that he no longer takes an active role at 1inch and was “fired” in 2025 after pushing for changes to the company’s management and operations.",
     "image": "https://s3-images.ctmedia.io/media/article-covers/layoffs-fired-human-resource-hr-leaving-quit.png",
     "summary": "Anton Bukov, co-founder of 1inch, claims he was fired in 2025 after advocating for changes in the company's management and operations. He is now moving on to a new venture. The details of his new project are not specified in the report.",
     "importance": 6,
@@ -1560,15 +1584,15 @@
     "classified": true
   },
   {
-    "title": "Hyperion DeFi to deploy 500K HYPE for Hyperliquid HIP-3 markets",
-    "link": "https://cointelegraph.com/news/hyperion-defi-to-deploy-500k-hype-for-hyperliquid-hip-3-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Thu, 16 Jul 2026 06:41:14 +0000",
-    "source": "Cointelegraph",
+    "title": "This $28 million ether market bet aims to profit from pure market chaos",
+    "link": "https://www.coindesk.com/markets/2026/07/17/this-usd28-million-ether-market-bet-aims-to-profit-from-pure-market-chaos",
+    "pubDate": "Fri, 17 Jul 2026 07:28:52 +0000",
+    "source": "CoinDesk",
     "category": "crypto",
-    "content": "The deal gives Hyperion an equity stake in Skew and a share of listing-service revenue as it expands the utility of its HYPE treasury assets.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/analitycs2021-hype.jpg",
-    "summary": "Hyperion DeFi plans to deploy 500,000 HYPE for Hyperliquid HIP-3 markets. This strategic move grants Hyperion an equity stake in Skew and a share of listing-service revenue, enhancing the utility of its HYPE treasury assets.",
-    "importance": 5,
+    "content": "The mega trade aims to profit from a potential surge in ether price turbulence.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/fcb3b7d3fbeb9995d5109c17af5b3924e23f55ee-1500x996.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "A significant $28 million market bet has been placed on ether (ETH). This large trade is specifically designed to profit from an anticipated increase in the cryptocurrency's price turbulence.",
+    "importance": 4,
     "classified": true
   },
   {
@@ -1586,7 +1610,7 @@
   {
     "title": "Here’s what happened in crypto today",
     "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Thu, 16 Jul 2026 19:04:20 +0000",
+    "pubDate": "Fri, 17 Jul 2026 06:05:29 +0000",
     "source": "Cointelegraph",
     "category": "crypto",
     "content": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
@@ -1605,18 +1629,6 @@
     "image": "https://s3-images.ctmedia.io/media/article-covers/memecoin-robinhood.jpg",
     "summary": "Vlad.fun, a memecoin launchpad operating on Robinhood Chain, has suspended its platform. The halt was caused by a \"serious internal integrity issue\" involving members of its team. The specific details of the alleged misconduct have not been disclosed.",
     "importance": 3,
-    "classified": true
-  },
-  {
-    "title": "The privacy paradox of protecting kids online",
-    "link": "https://www.coindesk.com/opinion/2026/07/14/the-privacy-paradox-of-protecting-kids-online",
-    "pubDate": "Wed, 15 Jul 2026 14:58:50 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "We don’t need to imagine the privacy pitfalls of age verification. They’ve been happening for years, argues Cardano Foundation CEO Frederik Gregaard.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/a2c178e277aef38549adc820054bcf42a1d7e5d6-7008x4672.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "The article addresses the long-standing privacy challenges inherent in age verification systems designed to protect children online. Frederik Gregaard, CEO of the Cardano Foundation, contends that these privacy pitfalls have been apparent for many years.",
-    "importance": 2,
     "classified": true
   },
   {
@@ -1677,18 +1689,6 @@
     "image": "",
     "summary": "SpaceX's stock price has fallen to its IPO price of $135 ahead of the Starship launch, indicating that markets are reassessing the promises made by CEO Elon Musk. The stock had previously experienced a post-IPO high, but has since steadily declined. This development may impact investor confidence in the company.",
     "importance": 2,
-    "classified": true
-  },
-  {
-    "title": "Trump to meet with senators over CLARITY Act on Thursday: Politico",
-    "link": "https://cointelegraph.com/news/trump-to-meet-with-senators-over-clarity-act-on-thursday-politico?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Thu, 16 Jul 2026 04:18:29 +0000",
-    "source": "Cointelegraph",
-    "category": "crypto",
-    "content": "US President Donald Trump is set to meet with several senators on Thursday as negotiators race to get the CLARITY Act across the line before the Senate’s August recess.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/trump-signing-papers.jpg",
-    "summary": "US President Donald Trump is meeting with senators to discuss the CLARITY Act, which negotiators are trying to pass before the Senate's August recess. The meeting is scheduled for Thursday. The outcome of the meeting may impact the Act's progress.",
-    "importance": 1,
     "classified": true
   },
   {
