@@ -36,6 +36,18 @@
     "classified": true
   },
   {
+    "title": "Suno snatched millions of songs from YouTube, Genius, and Deezer",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/966072/suno-ai-music-training-scraping-youtube-hack",
+    "pubDate": "2026-07-15T17:48:01.000Z",
+    "source": "The Verge AI",
+    "category": "ai",
+    "content": "So when is fair use actually just stealing? | Cath Virginia / The Verge | Photo from Getty Images\t\n\nSuno data obtained in a hacking incident has exposed that the AI music generator was trained by scraping millions of songs and lyrics from online audio platforms, including YouTube Music, Deezer, and Genius, 404 Media reports. Given that Suno has avoided revealing what's in its training datasets and how they were acquired, this a rare glimpse into what Suno has actually been taking from online platforms.\nThat's relevant because Suno has been the subject of several lawsuits that allege it used copyrighted materials to train its AI models. In a notable case filed by the Recording Industry Association of America (RIAA), Suno openly admitted th …\nRead the full story at The Verge.",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25383554/STK467_AI_MUSIC_CVirginia_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "summary": "Hacked data reveals that the AI music generator Suno scraped millions of songs and lyrics from online platforms like YouTube Music, Deezer, and Genius for its training datasets. This exposure offers a rare look into Suno's secretive data acquisition practices, which is particularly relevant given the ongoing copyright infringement lawsuits against the company, including one filed by the RIAA.",
+    "importance": 9,
+    "classified": true
+  },
+  {
     "title": "DOG Mode explains Bitcoin's next governance fight",
     "link": "https://www.coindesk.com/tech/2026/07/18/dog-mode-explains-bitcoin-s-next-governance-fight",
     "pubDate": "Sat, 18 Jul 2026 17:00:00 +0000",
@@ -1712,18 +1724,6 @@
     "content": "It feels as if it should be illegal to even think about heating appliances during the height of summer—seriously, these heat waves in New York have been brutal—but we need to talk about heat pumps. The appliances use electricity for heating, they’re incredibly efficient, and they’re on the rise. (For what it’s worth, many heat…",
     "image": "",
     "summary": "The article discusses the increasing popularity of heat pumps in the US, highlighting their efficiency and rise in usage. Heat pumps use electricity for heating and are becoming more prominent. The topic is unrelated to AI or crypto, focusing on home appliances.",
-    "importance": 1,
-    "classified": true
-  },
-  {
-    "title": "The apps, gadgets, and tools every reader needs",
-    "link": "https://www.theverge.com/tech/967544/best-apps-gadgets-reading-installer",
-    "pubDate": "2026-07-18T12:00:00.000Z",
-    "source": "The Verge AI",
-    "category": "ai",
-    "content": "Hi, friends! Welcome to Installer No. 136, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, hope your neighborhood isn't as smoky as mine, and also you can read all the old editions at the Installer homepage.) \nThis week, I've been recording the next season of Version History (this season's finale is out on Sunday!), reading about data center heists and Backyard Baseball and the creator of Calvin and Hobbes, canceling my October plans to see Digger 30 or 40 times, taking on the new Knockout Tour routes in Mario Kart World, learning more than I ever intended about Staten Island thanks to Revisionist His …\nRead the full story at The Verge.",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Installer-136.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "summary": "This article introduces Installer No. 136, a newsletter providing guides to various apps, gadgets, and general tech-related content from The Verge. The author shares personal updates on recording a new season of Version History and reading about diverse topics such as data center heists and pop culture.",
     "importance": 1,
     "classified": true
   }
