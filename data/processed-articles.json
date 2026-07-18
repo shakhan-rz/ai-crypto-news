@@ -1,5 +1,17 @@
 [
   {
+    "title": "Tokenization has become a strategic priority for 84% of financial firms",
+    "link": "https://www.coindesk.com/business/2026/07/16/tokenization-has-become-a-strategic-priority-for-84-of-financial-firms",
+    "pubDate": "Sat, 18 Jul 2026 14:00:00 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "A Broadridge survey found Wall Street is accelerating tokenization efforts while betting on hybrid markets where digital and traditional assets coexist.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/d57549b03e21590f600945be64a4c0c6ed82f901-3000x1842.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "A Broadridge survey indicates that 84% of financial firms have made tokenization a strategic priority. Wall Street is actively accelerating its tokenization efforts, anticipating the rise of hybrid markets where digital and traditional assets coexist.",
+    "importance": 9,
+    "classified": true
+  },
+  {
     "title": "Visa backs Open USD with new stablecoin platform as Circle faces fresh competition",
     "link": "https://www.coindesk.com/business/2026/07/16/visa-backs-open-usd-with-new-stablecoin-platform-as-circle-faces-fresh-competition",
     "pubDate": "Thu, 16 Jul 2026 16:14:30 +0000",
@@ -8,18 +20,6 @@
     "content": "Visa launched a stablecoin platform that lets banks and fintechs issue, manage and settle digital dollars through its payments network.",
     "image": "https://cdn.sanity.io/images/s3y3vcno/production/989b5d9f334511be32f765ead619e6010b3c17ff-1200x675.avif?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
     "summary": "Visa has launched a new stablecoin platform that enables banks and fintechs to issue, manage, and settle digital dollars using its existing payments network. This move introduces significant competition for established stablecoin providers like Circle.",
-    "importance": 9,
-    "classified": true
-  },
-  {
-    "title": "Crypto for Advisors: Strengthening defenses against AI fraud",
-    "link": "https://www.coindesk.com/coindesk-indices/2026/07/16/crypto-for-advisors-strengthening-defenses-against-ai-fraud",
-    "pubDate": "Thu, 16 Jul 2026 14:54:11 +0000",
-    "source": "CoinDesk",
-    "category": "both",
-    "content": "Strengthening defenses against AI fraud",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/82a7c2a9cd96f741bc20c04b5beafc8594a4ff4b-5120x2880.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "This article discusses the critical need for strengthening defenses against AI-powered fraud, specifically tailored for crypto advisors. It aims to provide strategies and insights for the crypto community to protect against sophisticated AI-driven scams and threats in the evolving digital landscape.",
     "importance": 9,
     "classified": true
   },
@@ -33,6 +33,18 @@
     "image": "https://s3-images.ctmedia.io/media/article-covers/hi-what-is-mica-markets-in-crypto-assets-regulation-esma-1.jpg",
     "summary": "The European Securities and Markets Authority (ESMA) has added 14 new Crypto-Asset Service Providers (CASPs) to its MiCA register, bringing the total count to 294. Among the new entries are banks and Ripple Payments Europe, indicating ongoing regulatory compliance within the crypto sector.",
     "importance": 9,
+    "classified": true
+  },
+  {
+    "title": "DOG Mode explains Bitcoin's next governance fight",
+    "link": "https://www.coindesk.com/tech/2026/07/18/dog-mode-explains-bitcoin-s-next-governance-fight",
+    "pubDate": "Sat, 18 Jul 2026 17:00:00 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "Leonidas' DOG Mode client challenges Bitcoin's default relay policies, reopening a philosophical debate over censorship, free markets and who really governs the network.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/1d7fa246e46362389d78474910933c67a424a500-1920x1080.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "Leonidas's DOG Mode client is challenging Bitcoin's default relay policies, sparking a renewed governance fight. This move reopens a philosophical debate about censorship, free markets, and the fundamental control over the Bitcoin network.",
+    "importance": 8,
     "classified": true
   },
   {
@@ -116,54 +128,6 @@
     "content": "If Stripe acquires PayPal, the real prize could be consumer wallets, stablecoin issuance or the infrastructure powering the next generation of digital payments.",
     "image": "https://cdn.sanity.io/images/s3y3vcno/production/e2ea8698363f7756be05e66e75df8c002ceaa8e4-5460x3640.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
     "summary": "Stripe's potential $53 billion bid for PayPal is a strategic move to secure its dominance in the future of digital payments. The acquisition's main value could stem from owning consumer wallets, engaging in stablecoin issuance, or providing the foundational infrastructure for next-generation digital transactions.",
-    "importance": 8,
-    "classified": true
-  },
-  {
-    "title": "Crypto brokerage firm Alpaca raises $135 million for tokenized stock infrastructure",
-    "link": "https://www.coindesk.com/business/2026/07/16/crypto-brokerage-firm-alpaca-raises-usd135-million-for-tokenized-stock-infrastructure",
-    "pubDate": "Thu, 16 Jul 2026 14:19:32 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "The company has previously cleared or held in custody roughly 94% of tokenized U.S. equities and now holds over $1.5 billion in underlying stocks.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/a92e8ee50f727785c91b4c4384bd6a4b120278ae-1920x1441.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "Crypto brokerage firm Alpaca has secured $135 million in funding to advance its tokenized stock infrastructure. The company has previously been responsible for clearing or holding in custody approximately 94% of tokenized U.S. equities and currently manages over $1.5 billion in underlying stocks.",
-    "importance": 8,
-    "classified": true
-  },
-  {
-    "title": "Ledger wants AI agents to manage crypto without holding your keys",
-    "link": "https://www.coindesk.com/tech/2026/07/15/ledger-wants-ai-agents-to-manage-crypto-without-holding-your-keys",
-    "pubDate": "Thu, 16 Jul 2026 13:00:00 +0000",
-    "source": "CoinDesk",
-    "category": "both",
-    "content": "AI agents can read wallet balances and analyze portfolios but requires every sensitive action to be approved on a Ledger hardware device before it can be executed.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/14457616350fd3b13d4c4075bbd999434c3633ce-1280x960.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "Ledger is developing a system that allows AI agents to manage cryptocurrency portfolios, enabling them to read balances and analyze holdings. However, this system ensures that all sensitive actions require explicit approval on a Ledger hardware device, preventing AI from ever holding private keys.",
-    "importance": 8,
-    "classified": true
-  },
-  {
-    "title": "Galaxy targets institutional stablecoin yield with new DeFi vaults",
-    "link": "https://www.coindesk.com/tech/2026/07/16/galaxy-targets-institutional-stablecoin-yield-with-new-defi-vaults",
-    "pubDate": "Thu, 16 Jul 2026 12:00:00 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "The crypto financial services firm launched Galaxy Curator, a Morpho-based platform that gives Fireblocks' 2,400 institutional clients access to onchain yield strategies.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/05b546743c9c24f4091cece89ebaf7fad410651a-5616x3159.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "Galaxy, a crypto financial services firm, has launched Galaxy Curator, a Morpho-based platform. This new offering provides Fireblocks' 2,400 institutional clients with access to onchain yield strategies, specifically targeting institutional stablecoin yield.",
-    "importance": 8,
-    "classified": true
-  },
-  {
-    "title": "The most popular bitcoin call option has slipped by $10,000",
-    "link": "https://www.coindesk.com/daybook-us/2026/07/16/the-most-popular-bitcoin-call-option-has-slipped-by-usd10-000",
-    "pubDate": "Thu, 16 Jul 2026 11:27:53 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "Your day-ahead look for July 18, 2026",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/61bd695f91fa1d4d852b73c814d280a2f4e17a03-2564x1019.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "The most popular bitcoin call option has slipped by $10,000, indicating a shift in market sentiment. This change may impact investor expectations and bitcoin's price. The development will be closely watched by the crypto community.",
     "importance": 8,
     "classified": true
   },
@@ -324,6 +288,18 @@
     "classified": true
   },
   {
+    "title": "UNI burn poised to grow as Uniswap governance votes on v4 fees and Robinhood Chain expansion",
+    "link": "https://www.theblock.co/post/408836/uni-burn-poised-to-grow-as-uniswap-governance-votes-on-v4-fees-and-robinhood-chain-expansion?utm_source=rss&utm_medium=rss",
+    "pubDate": "Sat, 18 Jul 2026 10:04:54 -0400",
+    "source": "The Block",
+    "category": "crypto",
+    "content": "Both proposals route new fees into the UNI burn system created under December's \"UNIfication\" overhaul, with voting open from July 19 through July 26.",
+    "image": "https://www.tbstat.com/wp/uploads/2022/04/20220425-Uniswap-Regulation-800x450.jpg",
+    "summary": "Uniswap's governance is voting on proposals to implement v4 fees and expand to Robinhood Chain, with both proposals routing new fees into the UNI burn system. The voting period is from July 19 to July 26. This move aims to grow the UNI burn, which was created under the UNIfication overhaul in December.",
+    "importance": 8,
+    "classified": true
+  },
+  {
     "title": "Bank of America taps new leaders to bridge crypto, AI and traditional finance",
     "link": "https://www.theblock.co/post/408830/bank-america-taps-new-leaders-bridge-crypto-ai-traditional-finance?utm_source=rss&utm_medium=rss",
     "pubDate": "Fri, 17 Jul 2026 17:08:02 -0400",
@@ -464,18 +440,6 @@
     "content": "Crypto.com plans to use proceeds from its “first institutional funding round\" to expand its tokenization and derivatives operations.",
     "image": "https://www.tbstat.com/wp/uploads/2026/01/20260112_Crypto.com_Learn-800x450.jpg",
     "summary": "Crypto.com has secured a $400 million investment from Citadel Securities, valuing the company at $20 billion, and plans to use the funds to expand its tokenization and derivatives operations. This investment marks Crypto.com's first institutional funding round. The deal highlights growing interest in cryptocurrency from major financial institutions.",
-    "importance": 8,
-    "classified": true
-  },
-  {
-    "title": "$1.9 trillion asset manager T. Rowe Price launches first actively managed multi-token crypto ETF",
-    "link": "https://www.theblock.co/post/408667/t-rowe-price-launches-first-actively-managed-multi-token-crypto-etf?utm_source=rss&utm_medium=rss",
-    "pubDate": "Thu, 16 Jul 2026 12:09:15 -0400",
-    "source": "The Block",
-    "category": "crypto",
-    "content": "T. Rowe Price's TKNZ Active Crypto ETF began trading Thursday after the firm filed for the product in October.",
-    "image": "https://www.tbstat.com/wp/uploads/2022/02/20220224_Funding_Cryptocurrency-800x450.jpg",
-    "summary": "T. Rowe Price, a $1.9 trillion asset manager, has launched its first actively managed multi-token crypto ETF, called TKNZ Active Crypto ETF, which began trading on Thursday. The firm had filed for the product in October. This move marks a significant entry into the crypto market by a major asset manager.",
     "importance": 8,
     "classified": true
   },
@@ -644,6 +608,18 @@
     "content": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Anthropic—currently the world’s most valuable AI company, with a nearly $1 trillion valuation—has a reputation for publishing strange and heady research. It’s looking into whether AI models can feel pain, for example,…",
     "image": "",
     "summary": "Anthropic, the world's most valuable AI company, has published strange and heady research, including a study on whether AI models can feel pain. The company's latest discovery has garnered attention, but its implications are still being debated. Anthropic's research pushes the boundaries of AI capabilities and understanding.",
+    "importance": 8,
+    "classified": true
+  },
+  {
+    "title": "Kimi: Threat or menace?",
+    "link": "https://techcrunch.com/2026/07/18/kimi-threat-or-menace/",
+    "pubDate": "Sat, 18 Jul 2026 18:51:07 +0000",
+    "source": "TechCrunch AI",
+    "category": "ai",
+    "content": "Chinese company Moonshot AI released a new version of its Kimi model this week, prompting concern about \"full AI communism.\"",
+    "image": "",
+    "summary": "Chinese company Moonshot AI has released a new version of its Kimi model, sparking concerns about the potential implications of advanced AI. The concept of 'full AI communism' has been raised, implying a significant shift in the way AI systems are developed and utilized. This development has notable implications for the AI community.",
     "importance": 8,
     "classified": true
   },
@@ -1020,6 +996,54 @@
     "classified": true
   },
   {
+    "title": "Crypto executives say digital native generations may never need a bank account",
+    "link": "https://www.coindesk.com/business/2026/07/17/crypto-executives-say-digital-native-generations-may-never-need-a-bank-account",
+    "pubDate": "Sat, 18 Jul 2026 18:30:00 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "teakhouse Financial co-founder Adrian Cachinero says digital-native generations may rely less on banks, while Binance says younger users are already driving crypto adoption in emerging markets.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/be732edd1c120ca3902e43a4b7381f1f82c4ae8d-2992x2000.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "Crypto executives believe that digital-native generations may never need traditional bank accounts, instead relying on digital financial systems. Adrian Cachinero of Steakhouse Financial and Binance both note that younger users are already leading the charge in crypto adoption, particularly within emerging markets.",
+    "importance": 7,
+    "classified": true
+  },
+  {
+    "title": "Trump targets Brazil's payments system while dollar stablecoins are quietly overtaking country's payments",
+    "link": "https://www.coindesk.com/business/2026/07/18/trump-targets-brazil-s-payments-system-while-dollar-stablecoins-quietly-dominate-country-s-payments",
+    "pubDate": "Sat, 18 Jul 2026 16:09:59 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "Washington views Brazil’s promotion of non-dollar payment channels, including Pix and the growth of stablecoins, as a potential threat to dollar-based trade, even as dollar-linked stablecoins account for about 90% of Brazil's crypto transactions.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/65bd684b67415bb4f57438bede69bae09f26621d-5031x3354.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "Washington views Brazil's promotion of non-dollar payment channels, such as Pix and stablecoins, as a potential threat to dollar-based trade. This concern arises despite dollar-linked stablecoins already constituting about 90% of Brazil's crypto transactions, significantly impacting the country's payment landscape.",
+    "importance": 7,
+    "classified": true
+  },
+  {
+    "title": "Here is why a massive $1.6 billion in crypto liquidity is sitting idle and wasting away",
+    "link": "https://www.coindesk.com/web3/2026/07/18/here-is-why-a-massive-usd1-6-billion-in-crypto-liquidity-is-sitting-idle-and-wasting-away",
+    "pubDate": "Sat, 18 Jul 2026 15:50:31 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "About $542 million weekly sat outside active trading ranges, meaning this capital earned zero fees and provided no market depth.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/c40997001bd5028b0bdd0c21c50fed960c5e0188-1920x1080.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "Around $1.6 billion in cryptocurrency liquidity is currently sitting idle, with approximately $542 million per week positioned outside active trading ranges. This substantial capital is not earning any fees and fails to contribute to market depth, indicating a significant inefficiency in the crypto market.",
+    "importance": 7,
+    "classified": true
+  },
+  {
+    "title": "Massive bitcoin call spreads target $72,000 by month end, right when the Fed meets",
+    "link": "https://www.coindesk.com/markets/2026/07/18/massive-bitcoin-call-spreads-target-usd72-000-by-month-end-right-when-the-fed-meets",
+    "pubDate": "Sat, 18 Jul 2026 14:15:15 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "Large traders are betting on a BTC price rise to $72,000 by the end of the month, latest options market flow suggests.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/03792fc9d1555286ba718334a78aecdfd1914d58-6000x4000.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "Large traders are betting on Bitcoin (BTC) reaching a price of $72,000 by the end of the month, according to significant call spreads observed in the options market. This bullish market sentiment coincides with an upcoming Federal Reserve meeting.",
+    "importance": 7,
+    "classified": true
+  },
+  {
     "title": "Cardano hands core development to outside teams in decentralization push",
     "link": "https://www.coindesk.com/tech/2026/07/17/cardano-hands-core-development-to-outside-teams-in-decentralization-push",
     "pubDate": "Fri, 17 Jul 2026 16:23:26 +0000",
@@ -1284,6 +1308,18 @@
     "classified": true
   },
   {
+    "title": "Bitcoin Japan, which holds no bitcoin, taps EVO Fund in planned $60 million raise to finally buy some",
+    "link": "https://www.theblock.co/post/408838/bitcoin-japan-which-holds-no-bitcoin-taps-evo-fund-in-planned-60-million-raise-to-finally-buy-some?utm_source=rss&utm_medium=rss",
+    "pubDate": "Sat, 18 Jul 2026 14:47:49 -0400",
+    "source": "The Block",
+    "category": "both",
+    "content": "A prior December raise instead funded stakes tied to SpaceX and Figure AI, which the company says are its two AI infrastructure investments to date.",
+    "image": "https://www.tbstat.com/wp/uploads/2024/09/20240917_Japan_News-800x450.jpg",
+    "summary": "Bitcoin Japan is planning to raise $60 million to buy bitcoin, after a previous raise was used to fund stakes in SpaceX and Figure AI. The company currently holds no bitcoin. This move is part of the company's efforts to finally acquire the cryptocurrency.",
+    "importance": 6,
+    "classified": true
+  },
+  {
     "title": "CryptoQuant says Strategy still needs disciplined bitcoin buying and selling framework",
     "link": "https://www.theblock.co/post/408825/cryptoquant-strategy-bitcoin-buying-selling-framework-mstr?utm_source=rss&utm_medium=rss",
     "pubDate": "Fri, 17 Jul 2026 16:01:43 -0400",
@@ -1328,18 +1364,6 @@
     "content": "SBI Holdings acquired Singapore's Coinhako after MAS approval, folding the licensed exchange into its expanding digital asset network.",
     "image": "https://www.tbstat.com/wp/uploads/2021/10/20211005_Acquisitions-800x450.jpg",
     "summary": "SBI Holdings has completed its majority acquisition of Coinhako, a Singapore-based crypto platform, after receiving approval from the Monetary Authority of Singapore. This move expands SBI Holdings' digital asset network. The acquisition brings a licensed exchange under SBI Holdings' control.",
-    "importance": 6,
-    "classified": true
-  },
-  {
-    "title": "Multicoin Capital makes first Hyperliquid ecosystem investment in Trasia, an Asia-focused trading platform",
-    "link": "https://www.theblock.co/post/408670/multicoin-capital-hyperliquid-ecosystem-investment-trasia?utm_source=rss&utm_medium=rss",
-    "pubDate": "Thu, 16 Jul 2026 12:00:02 -0400",
-    "source": "The Block",
-    "category": "crypto",
-    "content": "Built on Hyperliquid, Trasia was co-founded by former Multicoin Capital partner Mable Jiang and aims to serve Asian traders.",
-    "image": "https://www.tbstat.com/wp/uploads/2024/11/hype-hyperliquid-800x450.jpg",
-    "summary": "Multicoin Capital has invested in Trasia, an Asia-focused trading platform built on Hyperliquid, co-founded by former Multicoin Capital partner Mable Jiang. Trasia aims to serve Asian traders. The investment marks Multicoin Capital's first in the Hyperliquid ecosystem.",
     "importance": 6,
     "classified": true
   },
@@ -1556,18 +1580,6 @@
     "content": "The mega trade aims to profit from a potential surge in ether price turbulence.",
     "image": "https://cdn.sanity.io/images/s3y3vcno/production/fcb3b7d3fbeb9995d5109c17af5b3924e23f55ee-1500x996.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
     "summary": "A significant $28 million market bet has been placed on ether (ETH). This large trade is specifically designed to profit from an anticipated increase in the cryptocurrency's price turbulence.",
-    "importance": 4,
-    "classified": true
-  },
-  {
-    "title": "The Clarity Act is the most important consumer protection effort in years",
-    "link": "https://www.coindesk.com/opinion/2026/07/16/the-clarity-act-is-the-most-important-consumer-protection-effort-in-years",
-    "pubDate": "Thu, 16 Jul 2026 15:07:30 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "Consumers should not have to wait for another crisis to get the protections they deserve, argues Summer Mersinger, CEO of the Blockchain Association.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/6d3a66f1182830d8b47d953c41b204b5f1b5b2d4-6195x4130.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "Summer Mersinger, CEO of the Blockchain Association, advocates for the Clarity Act, deeming it the most significant consumer protection initiative in years. She asserts that consumers should not have to endure another crisis to receive the protections they deserve.",
     "importance": 4,
     "classified": true
   },
