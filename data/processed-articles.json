@@ -36,6 +36,30 @@
     "classified": true
   },
   {
+    "title": "Bitcoin's biggest advocate, Michael Saylor, says new plan to clean up the blockchain is 'a bad idea'",
+    "link": "https://www.coindesk.com/tech/2026/07/19/bitcoin-s-biggest-advocate-michael-saylor-says-new-plan-to-clean-up-the-blockchain-is-a-bad-idea",
+    "pubDate": "Sun, 19 Jul 2026 15:19:21 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "Michael Saylor argues that a new proposal, BIP-110, to temporarily block \"spam\" data from the Bitcoin blockchain would undermine the network's neutrality and create a dangerous precedent for censorship.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/c699235ed95e1b0156170533701eb1a612679fa9-3712x2088.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "Michael Saylor, a prominent Bitcoin advocate, has criticized a new proposal, BIP-110, which aims to temporarily block \"spam\" data from the Bitcoin blockchain. He argues it would undermine the network's neutrality and create a dangerous precedent for censorship.",
+    "importance": 8,
+    "classified": true
+  },
+  {
+    "title": "AI is destroying the internet. Math is our only hope.",
+    "link": "https://www.coindesk.com/opinion/2026/07/17/ai-is-destroying-the-internet-math-is-our-only-hope",
+    "pubDate": "Sun, 19 Jul 2026 14:00:00 +0000",
+    "source": "CoinDesk",
+    "category": "both",
+    "content": "The rise of autonomous AI agents necessitates the utilization of zero-knowledge proofs, argues Brian Trunzo, chief growth officer at Succinct Labs.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/07afdd36f774bb908ba688842d661b5ed4902836-8660x5773.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "The article highlights the urgent need for zero-knowledge proofs (ZKPs) to address the challenges posed by the proliferation of autonomous AI agents, arguing that AI is negatively impacting the internet. Brian Trunzo of Succinct Labs suggests that advanced mathematical solutions like ZKPs are essential for AI's future integrity.",
+    "importance": 8,
+    "classified": true
+  },
+  {
     "title": "Tether's USDT hits 2-year countdown threatening its position on U.S. crypto platforms",
     "link": "https://www.coindesk.com/news-analysis/2026/07/17/tether-s-usdt-hits-2-year-countdown-threatening-its-position-on-u-s-crypto-platforms",
     "pubDate": "Sun, 19 Jul 2026 13:00:00 +0000",
@@ -134,7 +158,7 @@
   {
     "title": "US agencies miss GENIUS Act deadline for final stablecoin rules",
     "link": "https://cointelegraph.com/news/federal-agencies-miss-genius-act-deadline?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Sun, 19 Jul 2026 12:53:12 +0000",
+    "pubDate": "Sun, 19 Jul 2026 12:56:00 +0000",
     "source": "Cointelegraph",
     "category": "crypto",
     "content": "US regulators failed to finalize implementing regulations by the GENIUS Act’s one-year deadline, issuing 10 proposed rules instead.",
@@ -158,10 +182,10 @@
   {
     "title": "French gambling regulator orders ISPs to block Polymarket",
     "link": "https://cointelegraph.com/news/french-gambling-authority-blocks-polymarket?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Sat, 18 Jul 2026 09:58:55 +0000",
+    "pubDate": "Sat, 18 Jul 2026 10:03:00 +0000",
     "source": "Cointelegraph",
     "category": "crypto",
-    "content": "France’s gambling authority has ordered the country’s internet service providers to geoblock Polymarket, citing illegal gambling and market manipulation concerns.",
+    "content": "Autorité nationale des jeux has ordered France’s internet service providers to geoblock Polymarket, citing illegal gambling and market manipulation concerns.",
     "image": "https://s3-images.ctmedia.io/media/article-covers/news-city-town-billboard-1-polymarket.jpg",
     "summary": "France's gambling authority has ordered the country's internet service providers to geoblock Polymarket. This regulatory action is in response to concerns over illegal gambling and potential market manipulation on the platform.",
     "importance": 8,
@@ -636,6 +660,30 @@
     "classified": true
   },
   {
+    "title": "‘Odyssey’ director Christopher Nolan calls AI an obvious ‘Trojan horse’",
+    "link": "https://techcrunch.com/2026/07/19/odyssey-director-christopher-nolan-calls-ai-an-obvious-trojan-horse/",
+    "pubDate": "Sun, 19 Jul 2026 14:52:08 +0000",
+    "source": "TechCrunch AI",
+    "category": "ai",
+    "content": "\"Everybody knows the Greeks are inside.\"",
+    "image": "",
+    "summary": "Director Christopher Nolan has publicly voiced his concern regarding artificial intelligence, labeling it an 'obvious Trojan horse'. He suggested that the inherent risks or hidden intentions of AI are apparent, stating that 'everybody knows the Greeks are inside'.",
+    "importance": 8,
+    "classified": true
+  },
+  {
+    "title": "Nonprofit Current AI is racing to build the World Wide Web of AI, free for all",
+    "link": "https://techcrunch.com/2026/07/19/nonprofit-current-ai-is-racing-to-build-the-world-wide-web-of-ai-free-for-all/",
+    "pubDate": "Sun, 19 Jul 2026 14:00:00 +0000",
+    "source": "TechCrunch AI",
+    "category": "ai",
+    "content": "Current AI, a non-profit building AI that leaves no one culture behind, has made remarkable progress across devices, AI chat and more.",
+    "image": "",
+    "summary": "Current AI, a non-profit organization, is actively working to create a 'World Wide Web of AI' that is free and accessible to everyone, ensuring no culture is left behind. They have reported significant progress in areas such as AI chat and device compatibility.",
+    "importance": 8,
+    "classified": true
+  },
+  {
     "title": "Kimi: Threat or menace?",
     "link": "https://techcrunch.com/2026/07/18/kimi-threat-or-menace/",
     "pubDate": "Sat, 18 Jul 2026 18:51:07 +0000",
@@ -764,18 +812,6 @@
     "content": "Drawing on more than a decade spent helping build some of the world's most influential AI systems, including research that later informed the development of ChatGPT, Andrew Dai explains why he believes visual AI is one of the next major frontiers in artificial intelligence.",
     "image": "",
     "summary": "A former DeepMind researcher, Andrew Dai, has raised $300M at a pre-seed valuation for his new venture, focused on visual AI, which he believes is a major frontier in artificial intelligence. His experience includes helping build influential AI systems that informed the development of ChatGPT. The venture has yet to launch a product.",
-    "importance": 8,
-    "classified": true
-  },
-  {
-    "title": "Moonshot’s upcoming Kimi 3 is expected to close the gap with Anthropic’s Opus 4.8",
-    "link": "https://techcrunch.com/2026/07/16/moonshots-upcoming-kimi-3-is-expected-to-close-the-gap-with-anthropics-opus-4-8/",
-    "pubDate": "Thu, 16 Jul 2026 14:26:29 +0000",
-    "source": "TechCrunch AI",
-    "category": "ai",
-    "content": "The FT reports Kimi K3 will be the largest open AI model from China, with a parameter count between 2 trillion and 3 trillion.",
-    "image": "",
-    "summary": "Moonshot's upcoming Kimi 3 AI model is expected to be the largest open AI model from China, with a parameter count between 2 trillion and 3 trillion, potentially closing the gap with Anthropic's Opus 4.8. This development may have significant implications for the AI community. Kimi 3's release is highly anticipated.",
     "importance": 8,
     "classified": true
   },
@@ -1104,24 +1140,12 @@
     "classified": true
   },
   {
-    "title": "Bitcoin under $63,000 after new U.S. strike on Iran. Trump's China comment adds to uncertainty",
-    "link": "https://www.coindesk.com/markets/2026/07/17/bitcoin-under-usd64-000-after-u-s-strike-on-iran-trump-s-china-comment-adds-to-uncertainty",
-    "pubDate": "Fri, 17 Jul 2026 04:10:09 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "Geopolitical tensions and renewed fears of U.S.-China frictions are weighing on risk assets, including bitcoin.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/37e2accde15c1395052adccd4d7862c477e046c4-2879x1093.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "Bitcoin's price dipped below $63,000 due to escalating geopolitical tensions, including a new U.S. strike on Iran. Renewed fears of U.S.-China frictions, sparked by a comment from Trump, further contributed to uncertainty weighing on risk assets like Bitcoin.",
-    "importance": 7,
-    "classified": true
-  },
-  {
-    "title": "South Korean regulator begins sanctions process against Dunamu: Report",
+    "title": "Upbit parent Dunamu faces South Korean regulator sanctions process: Report",
     "link": "https://cointelegraph.com/news/south-korean-regulator-inspection-letter-upbit-36m-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Sun, 19 Jul 2026 10:17:46 +0000",
+    "pubDate": "Sun, 19 Jul 2026 10:23:00 +0000",
     "source": "Cointelegraph",
     "category": "crypto",
-    "content": "The proceedings come as South Korea’s Virtual Asset User Protection Act lacks explicit sanctions provisions for hacking and computer system incidents, leaving the scope of penalties uncertain.",
+    "content": "Korea’s Virtual Asset User Protection Act lacks explicit sanctions provisions for hacking and similar incidents, clouding the scope of penalties facing the Upbit operator Dunamu.",
     "image": "https://s3-images.ctmedia.io/media/article-covers/hi-koreas-crypto-market-is-strengthening-but-upbit-investigation-may-have-decelerated-it3.jpg",
     "summary": "South Korean regulators have reportedly begun a sanctions process against Dunamu, a major virtual asset operator. This action highlights a significant gap in the country's Virtual Asset User Protection Act, which lacks explicit provisions for penalties related to hacking and computer system incidents, leading to uncertainty regarding potential sanctions.",
     "importance": 7,
@@ -1130,7 +1154,7 @@
   {
     "title": "Kaspersky identifies malware framework targeting crypto investors",
     "link": "https://cointelegraph.com/news/kaspersky-malware-framework-crypto-investors?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Sat, 18 Jul 2026 11:40:48 +0000",
+    "pubDate": "Sat, 18 Jul 2026 11:45:00 +0000",
     "source": "Cointelegraph",
     "category": "crypto",
     "content": "Cybersecurity company Kaspersky said a newly identified malware framework is targeting cryptocurrency investors through social engineering tactics and trojanized GitHub apps.",
@@ -1220,18 +1244,6 @@
     "content": "Japan's Nikkei had its worst day since March. Ether is still the only major holding a gain on the week, barely.",
     "image": "https://cdn.sanity.io/images/s3y3vcno/production/3ee243bba65bb63cf43ad6cae8f8c2d2dc1fb559-1280x853.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
     "summary": "Ether experienced a significant drop, falling twice as hard as Bitcoin, amidst a broader market downturn that also saw 'HYPE' token decline by 10% and Japan's Nikkei have its worst day since March. Despite these losses, Ether was still barely holding onto a weekly gain among major assets.",
-    "importance": 6,
-    "classified": true
-  },
-  {
-    "title": "DOG Mode vs. BIP-110: Inside the Bitcoin client built to bypass data restrictions",
-    "link": "https://www.coindesk.com/tech/2026/07/17/bitcoin-s-anti-spam-fight-gets-a-dog-mode-reply",
-    "pubDate": "Fri, 17 Jul 2026 05:32:00 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "While BIP 110 wants to restrict data through a consensus change and has almost no miner support, a new DOG Mode client wants the opposite and requires no vote at all.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/ca4073986b82e35a5d6bd80c2e88a27749ed87bf-1024x576.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "Bitcoin's anti-spam debate sees two opposing approaches emerge: BIP 110, which aims to restrict data through a consensus change but lacks miner support, and a new 'DOG Mode' client. The 'DOG Mode' client advocates for the opposite, seeking to loosen data restrictions without requiring a network vote.",
     "importance": 6,
     "classified": true
   },
@@ -1488,18 +1500,6 @@
     "classified": true
   },
   {
-    "title": "Why AMI Labs’ Alexandre LeBrun won’t call his AI ‘AGI’ or ‘superintelligence’",
-    "link": "https://techcrunch.com/2026/07/16/why-ami-labs-alexandre-lebrun-wont-call-his-ai-agi-or-superintelligence/",
-    "pubDate": "Thu, 16 Jul 2026 14:40:00 +0000",
-    "source": "TechCrunch AI",
-    "category": "ai",
-    "content": "While everyone in AI is chasing \"superintelligence,\" Alexandre LeBrun, CEO of Yann LeCun’s world model startup, AMI Labs, dismisses the word.",
-    "image": "",
-    "summary": "Alexandre LeBrun, CEO of AMI Labs, refuses to label his AI as 'superintelligence' or 'AGI', differing from the general trend in the AI community. He leads a startup founded by Yann LeCun, focusing on world models. This stance highlights a divergence in opinions within the AI research sphere.",
-    "importance": 6,
-    "classified": true
-  },
-  {
     "title": "Google is renaming NotebookLM to Gemini Notebook",
     "link": "https://www.theverge.com/tech/966112/google-gemini-notebook-notebooklm",
     "pubDate": "2026-07-16T16:00:00.000Z",
@@ -1610,7 +1610,7 @@
   {
     "title": "Here’s what happened in crypto today",
     "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Sat, 18 Jul 2026 11:42:51 +0000",
+    "pubDate": "Sun, 19 Jul 2026 13:20:25 +0000",
     "source": "Cointelegraph",
     "category": "crypto",
     "content": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
