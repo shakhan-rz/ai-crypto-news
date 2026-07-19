@@ -36,15 +36,15 @@
     "classified": true
   },
   {
-    "title": "Suno snatched millions of songs from YouTube, Genius, and Deezer",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/966072/suno-ai-music-training-scraping-youtube-hack",
-    "pubDate": "2026-07-15T17:48:01.000Z",
-    "source": "The Verge AI",
-    "category": "ai",
-    "content": "So when is fair use actually just stealing? | Cath Virginia / The Verge | Photo from Getty Images\t\n\nSuno data obtained in a hacking incident has exposed that the AI music generator was trained by scraping millions of songs and lyrics from online audio platforms, including YouTube Music, Deezer, and Genius, 404 Media reports. Given that Suno has avoided revealing what's in its training datasets and how they were acquired, this a rare glimpse into what Suno has actually been taking from online platforms.\nThat's relevant because Suno has been the subject of several lawsuits that allege it used copyrighted materials to train its AI models. In a notable case filed by the Recording Industry Association of America (RIAA), Suno openly admitted th …\nRead the full story at The Verge.",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25383554/STK467_AI_MUSIC_CVirginia_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "summary": "Hacked data reveals that the AI music generator Suno scraped millions of songs and lyrics from online platforms like YouTube Music, Deezer, and Genius for its training datasets. This exposure offers a rare look into Suno's secretive data acquisition practices, which is particularly relevant given the ongoing copyright infringement lawsuits against the company, including one filed by the RIAA.",
-    "importance": 9,
+    "title": "France orders country's internet service providers to block Polymarket",
+    "link": "https://www.coindesk.com/policy/2026/07/18/france-orders-country-s-internet-service-providers-to-block-polymarket",
+    "pubDate": "Sat, 18 Jul 2026 21:52:18 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "The regulator cited concerns over addictive mechanics, a lack of self-exclusion tools, and a high volume of French users bypassing previous financial restrictions.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/abbbcedbcd28071b80e9847db978483356a209da-6000x4000.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "France's regulator has ordered internet service providers to block access to Polymarket, a decentralized prediction market. The decision stems from concerns regarding addictive mechanics, the absence of self-exclusion tools, and a large number of French users circumventing existing financial restrictions.",
+    "importance": 8,
     "classified": true
   },
   {
@@ -296,6 +296,18 @@
     "content": "Bitcoin buyers have returned to spot, futures and ETF markets but geopolitical headwinds could quickly unravel the progress of the past two weeks.",
     "image": "https://s3-images.ctmedia.io/media/article-covers/article-covers-107341-bitcoin-touches-30k-as-btc-bulls-well-positioned-for-weekly-3-2-billion-options.jpg",
     "summary": "Bitcoin has seen a 6% gain over the past week, but geopolitical tensions could impact its progress, despite buyers returning to spot, futures, and ETF markets. The outlook for Bitcoin has improved, but it remains to be seen if bulls can push the price higher. The recent progress is fragile and can be quickly undone by external factors.",
+    "importance": 8,
+    "classified": true
+  },
+  {
+    "title": "US regulators miss GENIUS Act’s one-year deadline for final stablecoin rules",
+    "link": "https://www.theblock.co/post/408843/us-regulators-miss-genius-acts-one-year-deadline-for-final-stablecoin-rules?utm_source=rss&utm_medium=rss",
+    "pubDate": "Sat, 18 Jul 2026 18:04:40 -0400",
+    "source": "The Block",
+    "category": "crypto",
+    "content": "The delay does not postpone the law’s Jan. 18, 2027 effective date, leaving regulators and stablecoin issuers with a compressed implementation window.",
+    "image": "https://www.tbstat.com/wp/uploads/2024/01/20240116_Policy_News-800x450.jpg",
+    "summary": "US regulators have missed the one-year deadline for finalizing stablecoin rules under the GENIUS Act. Despite the delay in issuing rules, the law's effective date of January 18, 2027, remains unchanged, leaving a compressed window for implementation by regulators and stablecoin issuers.",
     "importance": 8,
     "classified": true
   },
@@ -1013,7 +1025,7 @@
     "pubDate": "Sat, 18 Jul 2026 18:30:00 +0000",
     "source": "CoinDesk",
     "category": "crypto",
-    "content": "teakhouse Financial co-founder Adrian Cachinero says digital-native generations may rely less on banks, while Binance says younger users are already driving crypto adoption in emerging markets.",
+    "content": "Steakhouse Financial co-founder Adrian Cachinero says digital-native generations may rely less on banks, while Binance says younger users are already driving crypto adoption in emerging markets.",
     "image": "https://cdn.sanity.io/images/s3y3vcno/production/be732edd1c120ca3902e43a4b7381f1f82c4ae8d-2992x2000.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
     "summary": "Crypto executives believe that digital-native generations may never need traditional bank accounts, instead relying on digital financial systems. Adrian Cachinero of Steakhouse Financial and Binance both note that younger users are already leading the charge in crypto adoption, particularly within emerging markets.",
     "importance": 7,
@@ -1092,18 +1104,6 @@
     "classified": true
   },
   {
-    "title": "Keyrock acquires BlockFills trading assets to expand institutional crypto business",
-    "link": "https://www.coindesk.com/business/2026/07/16/keyrock-acquires-blockfills-trading-assets-to-expand-institutional-crypto-business",
-    "pubDate": "Thu, 16 Jul 2026 15:26:15 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "The deal adds institutional trading clients, derivatives expertise and regulatory licenses as Keyrock looks to deepen its presence in crypto capital markets.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/36131f663bac2a575475bac36ff388961161adc2-3000x1688.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "Keyrock has acquired trading assets from BlockFills, including institutional clients, derivatives expertise, and regulatory licenses. This strategic acquisition aims to expand Keyrock's institutional crypto business and deepen its footprint in crypto capital markets.",
-    "importance": 7,
-    "classified": true
-  },
-  {
     "title": "Kaspersky identifies malware framework targeting crypto investors",
     "link": "https://cointelegraph.com/news/kaspersky-malware-framework-crypto-investors?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "pubDate": "Sat, 18 Jul 2026 11:40:48 +0000",
@@ -1160,6 +1160,18 @@
     "content": "Neil Rimer, the venture capitalist who co-founded Index Ventures, predicts the historic wealth AI is generating in Silicon Valley will have to be redistributed, voluntarily or involuntarily.",
     "image": "",
     "summary": "Venture capitalist Neil Rimer, co-founder of Index Ventures, predicts that the significant wealth currently being generated by the artificial intelligence sector in Silicon Valley will eventually need to be redistributed. He suggests this redistribution of AI-derived wealth could occur either voluntarily or involuntarily.",
+    "importance": 7,
+    "classified": true
+  },
+  {
+    "title": "Dave Eggers told OpenAI staff  that ChatGPT was ‘silencing an entire generation’",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/967630/dave-eggers-openai-chatgpt-silencing-an-entire-generation",
+    "pubDate": "2026-07-18T20:54:42.000Z",
+    "source": "The Verge AI",
+    "category": "ai",
+    "content": "Dave Eggers attends the \"The Turning Point: To Be Destroyed\" premiere. | Image: John Lamparski/Getty Images for Tribeca Festival\t\n\nLast year, Sam Altman invited author Dave Eggers to give a talk to around 200 OpenAI staffers. The man has written countless novels, screenplays, pieces of journalism, started McSweeney's, and founded multiple schools and nonprofits that support writers and the arts more broadly. So one might expect he'd roll into the company's offices and offer tips on being relentlessly prolific, or how to excel in multiple fields. Instead, he apparently laced into the company. According to the Financial Times, Eggers told the staff:\n\"The effect of ChatGPT on educators' lives is catastrophic. Whether you intended to do it or not, you've made every teache …\n\nRead the full story at The Verge.",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2157758001.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "summary": "Author Dave Eggers, invited by Sam Altman, criticized ChatGPT during a talk to OpenAI staff, stating its impact on educators is \"catastrophic.\" He reportedly argued that the AI tool is \"silencing an entire generation,\" challenging the company despite being expected to offer advice on productivity.",
     "importance": 7,
     "classified": true
   },
@@ -1488,18 +1500,6 @@
     "classified": true
   },
   {
-    "title": "AI slop movies are the new direct-to-video cash grabs",
-    "link": "https://www.theverge.com/entertainment/965616/ash-koosha-odysseus-the-fall-foundtain-zero-tilly-norwood",
-    "pubDate": "2026-07-15T20:00:00.000Z",
-    "source": "The Verge AI",
-    "category": "ai",
-    "content": "This weekend, cinephiles across the world will march to their local theaters to feast their eyes on Christopher Nolan's new adaptation of The Odyssey. It's on track to rake in anywhere between $80-$100 million in just a few days. People are clearly excited to see how Nolan uses cutting-edge filmmaking tech to make the Homeric classic feel fresh. But another director is trying to capitalize on the buzz around Nolan's project to drum up interest in an Odysseus-focused movie of his own.\nOn Tuesday, film studio Fountain 0 announced that it is working on an AI-generated reimagining of The Odyssey titled Odysseus: The Fall, which will be availabl …\nRead the full story at The Verge.",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Screenshot-2026-07-14-at-3.55.09-PM.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "summary": "A film studio is creating an AI-generated reimagining of The Odyssey, titled Odysseus: The Fall, to capitalize on the buzz around Christopher Nolan's adaptation. This move is seen as a new type of direct-to-video cash grab. The project utilizes cutting-edge AI tech in filmmaking.",
-    "importance": 6,
-    "classified": true
-  },
-  {
     "title": "Google-backed satellites for wildfire detection launch as smoke chokes US, Canada",
     "link": "https://arstechnica.com/space/2026/07/google-backed-satellites-for-wildfire-detection-launch-as-smoke-chokes-us-canada/",
     "pubDate": "Fri, 17 Jul 2026 19:50:18 +0000",
@@ -1668,18 +1668,6 @@
     "classified": true
   },
   {
-    "title": "Trump’s longtime teleprompter operator accused of using insider knowledge to place bets on Kalshi: ABC News",
-    "link": "https://www.theblock.co/post/408692/trump-longtime-teleprompter-operator-accused-insider-knowledge-place-bets-kalshi-abc-news?utm_source=rss&utm_medium=rss",
-    "pubDate": "Thu, 16 Jul 2026 13:24:49 -0400",
-    "source": "The Block",
-    "category": "crypto",
-    "content": "President Trump's teleprompter is under scrutiny following a report alleging that he used insider knowledge to place bets on Kalshi.",
-    "image": "https://www.tbstat.com/wp/uploads/2025/06/20250602_Trump_News_3-800x450.jpg",
-    "summary": "President Trump's teleprompter operator is accused of using insider knowledge to place bets on Kalshi, according to a report. The allegations suggest the operator may have exploited sensitive information for personal gain. The incident is under scrutiny and may have implications for those involved.",
-    "importance": 2,
-    "classified": true
-  },
-  {
     "title": "The risk of weather data sabotage is rising",
     "link": "https://www.technologyreview.com/2026/07/17/1140622/weather-data-sabotage/",
     "pubDate": "Fri, 17 Jul 2026 08:57:32 +0000",
@@ -1724,6 +1712,18 @@
     "content": "It feels as if it should be illegal to even think about heating appliances during the height of summer—seriously, these heat waves in New York have been brutal—but we need to talk about heat pumps. The appliances use electricity for heating, they’re incredibly efficient, and they’re on the rise. (For what it’s worth, many heat…",
     "image": "",
     "summary": "The article discusses the increasing popularity of heat pumps in the US, highlighting their efficiency and rise in usage. Heat pumps use electricity for heating and are becoming more prominent. The topic is unrelated to AI or crypto, focusing on home appliances.",
+    "importance": 1,
+    "classified": true
+  },
+  {
+    "title": "The apps, gadgets, and tools every reader needs",
+    "link": "https://www.theverge.com/tech/967544/best-apps-gadgets-reading-installer",
+    "pubDate": "2026-07-18T12:00:00.000Z",
+    "source": "The Verge AI",
+    "category": "ai",
+    "content": "Hi, friends! Welcome to Installer No. 136, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, hope your neighborhood isn't as smoky as mine, and also you can read all the old editions at the Installer homepage.) \nThis week, I've been recording the next season of Version History (this season's finale is out on Sunday!), reading about data center heists and Backyard Baseball and the creator of Calvin and Hobbes, canceling my October plans to see Digger 30 or 40 times, taking on the new Knockout Tour routes in Mario Kart World, learning more than I ever intended about Staten Island thanks to Revisionist His …\nRead the full story at The Verge.",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Installer-136.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "summary": "The article is an introduction to \"Installer No. 136,\" a column from The Verge providing a guide to the latest tech and culture. The author shares personal updates, including recording a podcast, reading about diverse topics like data center heists, and playing games, inviting readers to explore the full story.",
     "importance": 1,
     "classified": true
   }
