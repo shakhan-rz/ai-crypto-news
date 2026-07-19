@@ -1,5 +1,17 @@
 [
   {
+    "title": "Inside Zcash's new node that targets Visa-scale privacy at 50,000 transactions per second",
+    "link": "https://www.coindesk.com/tech/2026/07/16/inside-zcash-s-new-node-that-targets-visa-scale-privacy-at-50-000-transactions-per-second",
+    "pubDate": "Sun, 19 Jul 2026 05:37:34 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "The new Zakura client is the first live piece of a plan to take Zcash from roughly one private transaction per second to payment-network scale.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/6359a9ff83ee7ba7465c0ff2289cb8ae23e7ac43-1500x1000.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "Zcash has launched its new Zakura client, the first step in a plan to scale its private transaction capabilities from approximately one per second to 50,000 transactions per second. This initiative aims to achieve Visa-level privacy at payment-network scale.",
+    "importance": 9,
+    "classified": true
+  },
+  {
     "title": "Tokenization has become a strategic priority for 84% of financial firms",
     "link": "https://www.coindesk.com/business/2026/07/16/tokenization-has-become-a-strategic-priority-for-84-of-financial-firms",
     "pubDate": "Sat, 18 Jul 2026 14:00:00 +0000",
@@ -8,18 +20,6 @@
     "content": "A Broadridge survey found Wall Street is accelerating tokenization efforts while betting on hybrid markets where digital and traditional assets coexist.",
     "image": "https://cdn.sanity.io/images/s3y3vcno/production/d57549b03e21590f600945be64a4c0c6ed82f901-3000x1842.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
     "summary": "A Broadridge survey indicates that 84% of financial firms have made tokenization a strategic priority. Wall Street is actively accelerating its tokenization efforts, anticipating the rise of hybrid markets where digital and traditional assets coexist.",
-    "importance": 9,
-    "classified": true
-  },
-  {
-    "title": "Visa backs Open USD with new stablecoin platform as Circle faces fresh competition",
-    "link": "https://www.coindesk.com/business/2026/07/16/visa-backs-open-usd-with-new-stablecoin-platform-as-circle-faces-fresh-competition",
-    "pubDate": "Thu, 16 Jul 2026 16:14:30 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "Visa launched a stablecoin platform that lets banks and fintechs issue, manage and settle digital dollars through its payments network.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/989b5d9f334511be32f765ead619e6010b3c17ff-1200x675.avif?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "Visa has launched a new stablecoin platform that enables banks and fintechs to issue, manage, and settle digital dollars using its existing payments network. This move introduces significant competition for established stablecoin providers like Circle.",
     "importance": 9,
     "classified": true
   },
@@ -33,6 +33,18 @@
     "image": "https://s3-images.ctmedia.io/media/article-covers/hi-what-is-mica-markets-in-crypto-assets-regulation-esma-1.jpg",
     "summary": "The European Securities and Markets Authority (ESMA) has added 14 new Crypto-Asset Service Providers (CASPs) to its MiCA register, bringing the total count to 294. Among the new entries are banks and Ripple Payments Europe, indicating ongoing regulatory compliance within the crypto sector.",
     "importance": 9,
+    "classified": true
+  },
+  {
+    "title": "Bitcoin’s quantum problem gets a recovery tool, but not for Satoshi’s 1.1 million coins",
+    "link": "https://www.coindesk.com/tech/2026/07/19/bitcoin-s-quantum-problem-gets-a-recovery-tool-but-not-for-satoshi-s-1-1-million-coin",
+    "pubDate": "Sun, 19 Jul 2026 10:00:00 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "Project Eleven says it has funded a proof that lets a wallet's own key-derivation path stand in as ownership after quantum computers can forge its signatures. It runs in 243 milliseconds on a laptop.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/a0a7940835c9275731c2adf69015343cc4a850ac-1024x683.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "Project Eleven has developed a recovery tool for Bitcoin that allows a wallet's key-derivation path to serve as proof of ownership, specifically designed to counter signature forgery by future quantum computers. This solution runs quickly on a laptop but does not apply to Satoshi Nakamoto's 1.1 million Bitcoin.",
+    "importance": 8,
     "classified": true
   },
   {
@@ -132,14 +144,14 @@
     "classified": true
   },
   {
-    "title": "Stripe’s $53 billion PayPal bid is a high-stakes play to own the future of digital payments",
-    "link": "https://www.coindesk.com/business/2026/07/16/stripe-s-usd53-billion-paypal-bid-is-a-high-stakes-play-to-own-the-future-of-digital-payments",
-    "pubDate": "Thu, 16 Jul 2026 16:37:16 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "If Stripe acquires PayPal, the real prize could be consumer wallets, stablecoin issuance or the infrastructure powering the next generation of digital payments.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/e2ea8698363f7756be05e66e75df8c002ceaa8e4-5460x3640.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "Stripe's potential $53 billion bid for PayPal is a strategic move to secure its dominance in the future of digital payments. The acquisition's main value could stem from owning consumer wallets, engaging in stablecoin issuance, or providing the foundational infrastructure for next-generation digital transactions.",
+    "title": "Electronic Transactions Association CEO Expecting More Partnerships with Bitcoin Startups",
+    "link": "https://cointelegraph.com/news/electronic-transactions-association-ceo-expecting-more-partnerships-with-bitcoin-startups?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Sun, 19 Jul 2026 09:16:42 +0000",
+    "source": "Cointelegraph",
+    "category": "both",
+    "content": "Electronic Transactions Association (ETA) CEO, Jason Oxman, indicated that members of his organization might start recognizing Bitcoin’s disruptive potential, suggesting that this might lead to more partnerships between traditional electronic payment providers and Bitcoin startups.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/article-covers-2345-electronic-transactions-association-ceo-expecting-more-partnerships-with-bitcoin.png",
+    "summary": "The Electronic Transactions Association CEO expects more partnerships between traditional electronic payment providers and Bitcoin startups, as members recognize Bitcoin's disruptive potential. This could lead to increased collaboration and innovation in the industry. The ETA's involvement may help bridge the gap between traditional payments and cryptocurrency.",
     "importance": 8,
     "classified": true
   },
@@ -284,18 +296,6 @@
     "content": "Crypto exchanges have increasingly positioned themselves as bridges between digital asset markets and traditional finance.",
     "image": "https://s3-images.ctmedia.io/media/article-covers/hi-cryptocom-is-granted-conditional-approval-for-bank-trust-charter.jpg",
     "summary": "Citadel Securities has invested $400M in Crypto.com, valuing the company at $20B. This investment reflects the growing connection between digital asset markets and traditional finance. Crypto exchanges are increasingly acting as bridges between these two markets.",
-    "importance": 8,
-    "classified": true
-  },
-  {
-    "title": "Bitcoin outlook improves amid 6% weekly gain: Can BTC bulls push higher?",
-    "link": "https://cointelegraph.com/markets/bitcoin-outlook-improves-amid-6-weekly-gain-can-btc-bulls-push-higher?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Thu, 16 Jul 2026 20:29:20 +0000",
-    "source": "Cointelegraph",
-    "category": "crypto",
-    "content": "Bitcoin buyers have returned to spot, futures and ETF markets but geopolitical headwinds could quickly unravel the progress of the past two weeks.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/article-covers-107341-bitcoin-touches-30k-as-btc-bulls-well-positioned-for-weekly-3-2-billion-options.jpg",
-    "summary": "Bitcoin has seen a 6% gain over the past week, but geopolitical tensions could impact its progress, despite buyers returning to spot, futures, and ETF markets. The outlook for Bitcoin has improved, but it remains to be seen if bulls can push the price higher. The recent progress is fragile and can be quickly undone by external factors.",
     "importance": 8,
     "classified": true
   },
