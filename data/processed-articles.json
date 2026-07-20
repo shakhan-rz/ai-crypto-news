@@ -1,11 +1,11 @@
 [
   {
-    "title": "Hut 8 surges on $9.8 billion AI data-center lease, lifting compute sector",
+    "title": "AI compute stocks bounce as Hut 8, IREN land billions in new contracts",
     "link": "https://www.coindesk.com/business/2026/07/20/hut-8-surges-on-usd9-8-billion-ai-data-center-lease-lifting-compute-sector",
     "pubDate": "Mon, 20 Jul 2026 13:49:24 +0000",
     "source": "CoinDesk",
     "category": "ai",
-    "content": "The long-term deal sparked a rebound in AI compute stocks after investors questioned demand for new data center capacity.",
+    "content": "The deals sparked a rebound in AI compute stocks after investors questioned demand for new data center capacity.",
     "image": "https://cdn.sanity.io/images/s3y3vcno/production/c048a2338d0b73e774b0a8dfd7a95a19bfd35436-3086x1554.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
     "summary": "Hut 8's stock surged significantly following a $9.8 billion long-term lease for an AI data center. This substantial deal has reinvigorated investor confidence in the AI compute sector, which had previously faced skepticism regarding the demand for new data center capacity.",
     "importance": 9,
@@ -24,6 +24,18 @@
     "classified": true
   },
   {
+    "title": "Hut 8 fully commercializes 1 GW Texas AI campus with second $9.8B lease as IREN signs $2.8B in contracts; shares climb double digits",
+    "link": "https://www.theblock.co/post/408920/hut-8-fully-commercializes-1-gw-texas-ai-campus-with-second-9-8b-lease-as-iren-signs-2-8b-in-contracts-shares-climb-double-digits?utm_source=rss&utm_medium=rss",
+    "pubDate": "Mon, 20 Jul 2026 10:12:46 -0400",
+    "source": "The Block",
+    "category": "both",
+    "content": "Hut 8 and IREN shares climb on fresh AI data center deals worth billions as the bitcoin-to-AI pivot continues to accelerate.",
+    "image": "https://www.tbstat.com/wp/uploads/2024/08/20240819_Funding_News_2-800x450.jpg",
+    "summary": "Hut 8 has fully commercialized its 1 GW Texas AI campus with a second $9.8 billion lease, while IREN secured an additional $2.8 billion in contracts. These significant AI data center deals led to double-digit share increases for both companies, highlighting the accelerating industry pivot from bitcoin mining towards AI infrastructure.",
+    "importance": 9,
+    "classified": true
+  },
+  {
     "title": "Saylor urges Bitcoin to reject BIP-110 in 110-point essay as soft fork’s August showdown approaches",
     "link": "https://www.theblock.co/post/408850/saylor-urges-bitcoin-to-reject-bip-110-in-110-point-essay-as-soft-forks-august-showdown-approaches?utm_source=rss&utm_medium=rss",
     "pubDate": "Sun, 19 Jul 2026 17:51:32 -0400",
@@ -33,6 +45,18 @@
     "image": "https://www.tbstat.com/wp/uploads/2025/06/20250603_MichaelSaylor_News-800x450.jpg",
     "summary": "Michael Saylor is urging the Bitcoin community to reject BIP-110, a proposed soft fork, detailing his reasons in an extensive essay. This development comes as the August deadline for the soft fork approaches, with Saylor also hinting at future disclosures from MicroStrategy.",
     "importance": 9,
+    "classified": true
+  },
+  {
+    "title": "Inside Cardano's 'Van Rossum' hard fork, and what it means for users",
+    "link": "https://www.coindesk.com/markets/2026/07/20/inside-cardano-s-van-rossum-hard-fork-and-what-it-means-for-users",
+    "pubDate": "Mon, 20 Jul 2026 14:31:23 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "The Van Rossem hard fork moved Cardano to version 11 on Saturday. And for the first time, Cardano's community voted in the upgrade, not the company that built it.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/bce1c7ed442ff020907048f3be45f5d93bba5bd3-3499x1968.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "Cardano successfully implemented its 'Van Rossum' hard fork on Saturday, upgrading the platform to version 11. This hard fork marks a significant milestone as it was the first time the Cardano community, rather than the developing company, voted on the upgrade.",
+    "importance": 8,
     "classified": true
   },
   {
@@ -188,6 +212,18 @@
     "content": "The regulator cited concerns over addictive mechanics, a lack of self-exclusion tools, and a high volume of French users bypassing previous financial restrictions.",
     "image": "https://cdn.sanity.io/images/s3y3vcno/production/abbbcedbcd28071b80e9847db978483356a209da-6000x4000.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
     "summary": "France's regulator has ordered internet service providers to block access to Polymarket, a decentralized prediction market. The decision stems from concerns regarding addictive mechanics, the absence of self-exclusion tools, and a large number of French users circumventing existing financial restrictions.",
+    "importance": 8,
+    "classified": true
+  },
+  {
+    "title": "IREN jumps 16% after raising AI cloud revenue target above $4B",
+    "link": "https://cointelegraph.com/news/iren-jumps-16-after-raising-ai-cloud-revenue-target-above-4b?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Mon, 20 Jul 2026 15:20:25 +0000",
+    "source": "Cointelegraph",
+    "category": "both",
+    "content": "The Bitcoin miner raised its year-end AI cloud revenue target to more than $4 billion after signing $2.8 billion in new contracts with AI developers.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/trading-white-lady-up.png",
+    "summary": "IREN, a Bitcoin miner, experienced a 16% stock surge after raising its year-end AI cloud revenue target to over $4 billion. This significant increase follows the signing of $2.8 billion in new contracts with AI developers, signaling a major expansion into the AI infrastructure market.",
     "importance": 8,
     "classified": true
   },
@@ -504,30 +540,6 @@
     "classified": true
   },
   {
-    "title": "FTX to distribute roughly $900 million to creditors in fifth wave of payouts",
-    "link": "https://www.theblock.co/post/408803/ftx-to-distribute-roughly-900-million-to-creditors-in-fifth-wave-of-payouts?utm_source=rss&utm_medium=rss",
-    "pubDate": "Fri, 17 Jul 2026 14:27:59 -0400",
-    "source": "The Block",
-    "category": "crypto",
-    "content": "So far the company's bankruptcy estate has distributed nearly $10 billion to creditors and other claimants since repayments began in 2025.",
-    "image": "https://www.tbstat.com/wp/uploads/2024/09/20240917_FTX_News_2-800x450.jpg",
-    "summary": "FTX is distributing around $900 million to creditors in its fifth wave of payouts, with nearly $10 billion already distributed since repayments started in 2025. This marks a significant step in the company's bankruptcy proceedings. The payouts are part of FTX's efforts to settle its debts.",
-    "importance": 8,
-    "classified": true
-  },
-  {
-    "title": "Trezor exec pushes back on ZachXBT claim that hardware wallets are ‘complete garbage’",
-    "link": "https://www.theblock.co/post/408794/trezor-exec-pushes-back-zachxbt-claim-hardware-wallets-complete-garbage?utm_source=rss&utm_medium=rss",
-    "pubDate": "Fri, 17 Jul 2026 14:13:25 -0400",
-    "source": "The Block",
-    "category": "crypto",
-    "content": "\"I do not advise using them for important tasks like signing transactions or storing funds,\" ZachXBT wrote this week.",
-    "image": "https://www.tbstat.com/wp/uploads/2023/02/20230222_Trezor-800x450.jpg",
-    "summary": "A debate has emerged between ZachXBT and a Trezor executive regarding the security and reliability of hardware wallets, with ZachXBT claiming they are 'complete garbage' and advising against their use for important tasks. The Trezor executive pushed back on this claim. The discussion highlights concerns about the security of cryptocurrency storage.",
-    "importance": 8,
-    "classified": true
-  },
-  {
     "title": "Strategy (MSTR) Sells $263.5 Million in MSTR Shares, Skips Bitcoin Purchase as USD Reserve Tops $3.2 Billion",
     "link": "https://bitcoinmagazine.com/news/strategy-sells-263-5-million-in-mstr",
     "pubDate": "Mon, 20 Jul 2026 12:29:51 +0000",
@@ -608,18 +620,6 @@
     "content": "Bitcoin Magazine\n\nFed Chair Warsh: No Bailout for Crypto Industry in Crisis\nFederal Reserve Chair Kevin Warsh said the Fed will not bail out failing crypto firms, insisting the industry must bear its own risks while regulators finalize rules under the GENIUS Act.\nThis post Fed Chair Warsh: No Bailout for Crypto Industry in Crisis first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
     "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/05/Senate-Confirms-Bitcoin-Friendly-Kevin-Warsh-to-Fed-Board-Clearing-Path-to-Chairmanship.jpg",
     "summary": "Federal Reserve Chair Kevin Warsh stated that the Fed will not provide a bailout for the crypto industry in times of crisis, emphasizing that the industry must bear its own risks. The decision comes as regulators work to finalize rules under the GENIUS Act. This stance may have significant implications for the crypto industry's future.",
-    "importance": 8,
-    "classified": true
-  },
-  {
-    "title": "Bitcoin VC Veterans Launch $40 Million Holding Company Targeting Small Business Acquisitions",
-    "link": "https://bitcoinmagazine.com/news/bitcoin-vcs-launch-holding-company",
-    "pubDate": "Thu, 16 Jul 2026 16:56:07 +0000",
-    "source": "Bitcoin Magazine",
-    "category": "crypto",
-    "content": "Bitcoin Magazine\n\nBitcoin VC Veterans Launch $40 Million Holding Company Targeting Small Business Acquisitions\nLyn Alden is helping debut a permanent capital company to buys profitable small businesses and put them on a Bitcoin standard.\nThis post Bitcoin VC Veterans Launch $40 Million Holding Company Targeting Small Business Acquisitions first appeared on Bitcoin Magazine and is written by Mathew Di Salvo.",
-    "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/07/Bitcoin-VC-Veterans-Launch-40-Million-Holding-Company-Targeting-Small-Business-Acquisitions.jpg",
-    "summary": "Bitcoin VC veterans have launched a $40 million holding company to acquire small businesses and transition them to a Bitcoin standard, with Lyn Alden involved in the initiative. The company aims to buy profitable small businesses, marking a new strategy in the crypto space. This move could have implications for the adoption of Bitcoin in mainstream commerce.",
     "importance": 8,
     "classified": true
   },
@@ -749,7 +749,7 @@
     "pubDate": "Fri, 17 Jul 2026 22:12:56 +0000",
     "source": "TechCrunch AI",
     "category": "ai",
-    "content": "Databricks has remade its image into an AI company and has published research on the cost savings of open weight AI models for coding.",
+    "content": "Databricks has remade its image into an AI company and has published research on the cost savings of open-weight AI models for coding.",
     "image": "",
     "summary": "Databricks has transformed into an AI company and published research on the cost savings of open weight AI models for coding, achieving a valuation of $188B. This development solidifies its position in the AI industry. The company's focus on AI has led to significant growth and recognition.",
     "importance": 8,
@@ -852,6 +852,18 @@
     "classified": true
   },
   {
+    "title": "Adobe’s ‘natural look’ camera app embraces generative AI",
+    "link": "https://www.theverge.com/tech/967791/adobe-indigo-camera-app-ai-playground-update",
+    "pubDate": "2026-07-20T16:00:00.000Z",
+    "source": "The Verge AI",
+    "category": "ai",
+    "content": "Welcome to the “what is a photo” debate, Adobe. | Image: Adobe\t\n\nAdobe's experimental camera app has taken an unexpected turn. After Project Indigo was launched last year to provide a \"more natural (SLR-like) look\" for iPhone photography, the Indigo camera app is now being updated with a suite of generative AI tools. And the change doesn't rely upon Adobe's own Firefly AI models.\nAdobe describes the new \"AI Playground\" tooling suite as an experiment and says there's a button that allows users to opt out and continue using the app as before. Free access to the suite with no sign-on requirement is being tested with a small percentage of Indigo users over the next few weeks. \"Our goal is to learn how people …\nRead the full story at The Verge.",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Adobe-Indigo-AI-Playground-hero.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "summary": "Adobe's Indigo camera app is being updated with generative AI tools, allowing users to opt out and continue using the app as before. The update is currently being tested with a small percentage of users. The goal is to learn how people use the new AI features.",
+    "importance": 8,
+    "classified": true
+  },
+  {
     "title": "China delivers a one-two punch to America’s AI dominance ",
     "link": "https://www.theverge.com/ai-artificial-intelligence/967781/chinese-ai-models-open-source-moonshot-kimi-k3-alibaba-qwen",
     "pubDate": "2026-07-20T10:16:33.000Z",
@@ -908,18 +920,6 @@
     "content": "1Password has launched a new browser integration for Claude that allows the Anthropic chatbot to access stored security credentials like usernames and passwords. The 1Password for Claude feature means that users can authorize Claude to complete multi-step tasks like booking travel and managing online accounts on their behalf without having to manually input their login credentials, but without actually exposing security information to Anthropic's AI models, according to 1Password.\nThat's made possible by a new \"zero-exposure security framework\" developed by 1Password, which works by injecting the required credentials for each task through a …\nRead the full story at The Verge.",
     "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/STKB364_CLAUDE_2_C_96d15c.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
     "summary": "1Password has launched a browser integration for Claude, an Anthropic chatbot, allowing it to access stored security credentials to complete tasks without exposing sensitive information. This is made possible by 1Password's new zero-exposure security framework. Claude can now perform tasks like booking travel and managing online accounts on behalf of users.",
-    "importance": 8,
-    "classified": true
-  },
-  {
-    "title": "Google ordered to open Android and Search to rivals in Europe",
-    "link": "https://www.theverge.com/policy/966438/eu-google-android-ai-interoperability-search-data-dma",
-    "pubDate": "2026-07-16T12:06:51.000Z",
-    "source": "The Verge AI",
-    "category": "ai",
-    "content": "Google must give rival AI assistants and search engines greater access to key parts of Android and Google Search after the European Union ordered the company to comply with the bloc's digital antitrust rules. \nThe two decisions, handed down Thursday, could weaken Google's control over two of the tech industry's most important platforms and have far-reaching consequences for the company, shape the future of its AI tool Gemini, and open up new opportunities for rivals to gain ground. Google has until January 2027 to begin sharing search data and July 2027 to implement changes to Android.\nThe rulings stem from technical regulatory proceedings …\nRead the full story at The Verge.",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STK450_EU_E-2-1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "summary": "The European Union has ordered Google to give rival AI assistants and search engines greater access to Android and Google Search, potentially weakening Google's control over these platforms. This move could have far-reaching consequences for the company and create new opportunities for rivals. Google must comply with the EU's digital antitrust rules by January and July 2027.",
     "importance": 8,
     "classified": true
   },
@@ -1104,18 +1104,6 @@
     "classified": true
   },
   {
-    "title": "Crypto executives say digital native generations may never need a bank account",
-    "link": "https://www.coindesk.com/business/2026/07/17/crypto-executives-say-digital-native-generations-may-never-need-a-bank-account",
-    "pubDate": "Sat, 18 Jul 2026 18:30:00 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "Steakhouse Financial co-founder Adrian Cachinero says digital-native generations may rely less on banks, while Binance says younger users are already driving crypto adoption in emerging markets.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/be732edd1c120ca3902e43a4b7381f1f82c4ae8d-2992x2000.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "Crypto executives believe that digital-native generations may never need traditional bank accounts, instead relying on digital financial systems. Adrian Cachinero of Steakhouse Financial and Binance both note that younger users are already leading the charge in crypto adoption, particularly within emerging markets.",
-    "importance": 7,
-    "classified": true
-  },
-  {
     "title": "South Korea probed 40 cases of crypto manipulation over 2 years",
     "link": "https://cointelegraph.com/news/south-korea-probed-40-cases-of-crypto-manipulation-over-2-years?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "pubDate": "Mon, 20 Jul 2026 00:33:12 +0000",
@@ -1224,12 +1212,12 @@
     "classified": true
   },
   {
-    "title": "Live updates: Crypto cuts losses as report of Iran proposal sends oil lower, stocks higher",
+    "title": "Live updates: Bitcoin rises to one-month high of $65,400",
     "link": "https://www.coindesk.com/tech/2026/07/20/live-markets-oil-bounce-and-lingering-ai-selloff-pushes-bitcoin-under-usd64-000",
     "pubDate": "Mon, 20 Jul 2026 07:15:47 +0000",
     "source": "CoinDesk",
     "category": "crypto",
-    "content": "Markets await second-quarter earnings reports from key tech firms, which begin this week.",
+    "content": "The equity market, meanwhile, awaits second-quarter earnings reports from key tech firms, which begin this week.",
     "image": "https://cdn.sanity.io/images/s3y3vcno/production/ddf6d66da2b6ba74ee7212fd64e9b111f01938b7-1431x729.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
     "summary": "Markets are waiting for second-quarter earnings reports from key tech firms, and crypto has cut its losses. A report of an Iran proposal has led to lower oil prices and higher stock prices. The earnings reports are expected to start this week.",
     "importance": 6,
@@ -1368,26 +1356,14 @@
     "classified": true
   },
   {
-    "title": "Senator Warren requests 2026 reporting for Trump’s crypto earnings after $1.4B disclosure",
-    "link": "https://cointelegraph.com/news/senator-warren-2026-reporting-donald-trump-crypto-earnings?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Fri, 17 Jul 2026 16:48:22 +0000",
-    "source": "Cointelegraph",
+    "title": "Benchmark backs Exodus after 25% workforce cut, says stablecoin pivot is being overlooked",
+    "link": "https://www.theblock.co/post/408924/benchmark-backs-exodus-workforce-cut-stablecoin-pivot-overlooked?utm_source=rss&utm_medium=rss",
+    "pubDate": "Mon, 20 Jul 2026 11:07:52 -0400",
+    "source": "The Block",
     "category": "crypto",
-    "content": "With the Senate likely voting on a crypto bill within days, Elizabeth Warren asked for information on Donald Trump’s earnings between January and July ahead of a 2027 deadline.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-warren-joins-call-for-probe-of-trump.png",
-    "summary": "Senator Elizabeth Warren has requested information on Donald Trump's crypto earnings from January to July 2026, ahead of a 2027 deadline. This comes as the Senate is set to vote on a crypto bill in the coming days. The request follows a recent disclosure of Trump's $1.4B earnings.",
-    "importance": 6,
-    "classified": true
-  },
-  {
-    "title": "Bitcoin price sags under $62.5K as Iran strikes add to US stocks pressure",
-    "link": "https://cointelegraph.com/markets/bitcoin-price-sags-under-625k-as-iran-strikes-add-to-us-stocks-pressure?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Fri, 17 Jul 2026 14:37:39 +0000",
-    "source": "Cointelegraph",
-    "category": "crypto",
-    "content": "Bitcoin saw a key rejection at local highs before reversing lower, moving with stocks for a second day as US-Iran war downside took its toll.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/16codemonitor-bitcoin.jpg",
-    "summary": "Bitcoin experienced a significant rejection at its recent peak, subsequently declining and mirroring stock market movements for the second consecutive day. This downturn is attributed to the negative impact of the US-Iran conflict, pushing its price below $62.5K.",
+    "content": "Late Friday afternoon, Exodus said it expects the restructuring to generate $10 million to $13 million in annualized cost savings.",
+    "image": "https://www.tbstat.com/wp/uploads/2023/09/20230811_WalletsCryptoPayments_News2-800x450.jpg",
+    "summary": "Exodus has reduced its workforce by 25%, a restructuring move supported by Benchmark, which suggests the company's stablecoin pivot is being underestimated. This cost-cutting measure is anticipated to generate $10 million to $13 million in annualized savings.",
     "importance": 6,
     "classified": true
   },
@@ -1452,6 +1428,18 @@
     "classified": true
   },
   {
+    "title": "Strive (ASST) Adds 21 Bitcoin as Treasury Reaches 19,921 BTC and Cash Climbs to $157 Million",
+    "link": "https://bitcoinmagazine.com/news/strive-asst-adds-21-bitcoin",
+    "pubDate": "Mon, 20 Jul 2026 15:06:48 +0000",
+    "source": "Bitcoin Magazine",
+    "category": "crypto",
+    "content": "Bitcoin Magazine\n\nStrive (ASST) Adds 21 Bitcoin as Treasury Reaches 19,921 BTC and Cash Climbs to $157 Million\nStrive (ASST) bought 21 bitcoin for about $1.3 million last week, increasing its treasury to 19,921 BTC while cash reserves rose to $157.4 million, according to a Monday SEC filing.\nThis post Strive (ASST) Adds 21 Bitcoin as Treasury Reaches 19,921 BTC and Cash Climbs to $157 Million first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
+    "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/06/Strive-ASST-Adds-185-Million-in-Bitcoin-as-Holdings-Reach-19000-BTC.jpg",
+    "summary": "Strive (ASST) recently purchased 21 Bitcoin for approximately $1.3 million, bringing its total treasury to 19,921 BTC. According to a Monday SEC filing, the company's cash reserves also increased to $157.4 million.",
+    "importance": 6,
+    "classified": true
+  },
+  {
     "title": "Bitcoin Sentiment Is Turning Bullish — But It’s Too Early to Celebrate: Report",
     "link": "https://bitcoinmagazine.com/markets/bitcoin-sentiment-is-bullish-coinshares",
     "pubDate": "Fri, 17 Jul 2026 19:07:30 +0000",
@@ -1488,6 +1476,18 @@
     "classified": true
   },
   {
+    "title": "YouTube clarifies policies around AI slop and upsetting videos",
+    "link": "https://techcrunch.com/2026/07/20/youtube-clarifies-policies-around-ai-slop-and-upsetting-videos/",
+    "pubDate": "Mon, 20 Jul 2026 15:23:06 +0000",
+    "source": "TechCrunch AI",
+    "category": "ai",
+    "content": "YouTube has updated its monetization policies to more clearly define the kinds of AI-generated and low-quality videos that can’t earn ad revenue.",
+    "image": "",
+    "summary": "YouTube has updated its monetization policies to clarify what types of AI-generated and low-quality videos are ineligible for ad revenue. This change aims to improve video quality on the platform. The policy update affects creators who produce AI-generated content.",
+    "importance": 6,
+    "classified": true
+  },
+  {
     "title": "What to watch for after Jensen Huang’s Japan visit",
     "link": "https://techcrunch.com/2026/07/19/what-to-watch-for-after-jensen-huangs-japan-visit/",
     "pubDate": "Sun, 19 Jul 2026 21:16:07 +0000",
@@ -1520,18 +1520,6 @@
     "content": "Agility is opening a new training center for its Digit robots in Fremont, California.",
     "image": "",
     "summary": "Agility Robotics is opening a new training center for its Digit robots in Fremont, California, near Tesla's headquarters. This move signifies Agility's expansion and commitment to robotics development. The center will likely facilitate training and innovation for the company's robotic products.",
-    "importance": 6,
-    "classified": true
-  },
-  {
-    "title": "Yes, you can now order DoorDash from the command line",
-    "link": "https://techcrunch.com/2026/07/16/yes-you-can-now-order-doordash-from-the-command-line/",
-    "pubDate": "Thu, 16 Jul 2026 15:38:55 +0000",
-    "source": "TechCrunch AI",
-    "category": "ai",
-    "content": "DoorDash is opening a limited beta of dd-cli, a command-line tool that lets developers and AI agents search stores, build carts, and place orders from the terminal, marking another step toward software designed for AI agents instead of just humans.",
-    "image": "",
-    "summary": "DoorDash has introduced a command-line tool called dd-cli, allowing developers and AI agents to search stores, build carts, and place orders from the terminal. This tool marks a step towards software design for AI agents. The beta is currently limited, but it opens up new possibilities for automated interactions with the platform.",
     "importance": 6,
     "classified": true
   },
@@ -1652,6 +1640,18 @@
     "content": "The stablecoin-focused GENIUS Act became a law a year ago.",
     "image": "https://cdn.sanity.io/images/s3y3vcno/production/6e4532d237786704984596878a883a023b94ba32-4540x2554.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
     "summary": "The GENIUS Act, a legislative initiative primarily focused on stablecoins, recently marked its first anniversary since becoming law. This milestone signifies one year of the act's implementation in the regulatory landscape concerning cryptocurrency.",
+    "importance": 3,
+    "classified": true
+  },
+  {
+    "title": "Bitcoin price hits $65K wall as stocks battle ‘record’ institutional tech sell-off",
+    "link": "https://cointelegraph.com/markets/bitcoin-price-hits-65k-wall-as-stock-battle-record-institutional-tech-sell-off?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Mon, 20 Jul 2026 15:47:00 +0000",
+    "source": "Cointelegraph",
+    "category": "crypto",
+    "content": "Bitcoin faced troublesome resistance at $65,000 while traders still saw a potential BTC price breakout into a “bullish market structure.”",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-btc-is-doing-great-but-is-an-altseason-emerging.png",
+    "summary": "Bitcoin encountered significant resistance at the $65,000 mark. Despite this, traders remain hopeful for a potential price breakout that could lead to a bullish market structure for BTC.",
     "importance": 3,
     "classified": true
   },
