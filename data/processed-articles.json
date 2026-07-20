@@ -168,7 +168,19 @@
     "classified": true
   },
   {
-    "title": "Allbridge Core pauses cross-chain bridge after $1.65M exploit",
+    "title": "Cardano activates van Rossem hard fork",
+    "link": "https://cointelegraph.com/news/cardano-activates-van-rossem-hard-fork-paving-way-for-leios?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Mon, 20 Jul 2026 04:26:17 +0000",
+    "source": "Cointelegraph",
+    "category": "crypto",
+    "content": "The upgrade reduces smart contract execution costs while laying the groundwork for Ouroboros Leios, a major scalability upgrade expected later this year.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/cardano.jpg",
+    "summary": "Cardano has activated the Van Rossem hard fork, which reduces smart contract execution costs and sets the stage for Ouroboros Leios, a major scalability upgrade expected later this year. This upgrade is significant for the Cardano network and its users. The move aims to improve the overall efficiency of the network.",
+    "importance": 8,
+    "classified": true
+  },
+  {
+    "title": "Allbridge pauses cross-chain bridge after $1.65M exploit",
     "link": "https://cointelegraph.com/news/allbridge-core-pauses-cross-chain-bridge-after-165m-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "pubDate": "Mon, 20 Jul 2026 02:23:36 +0000",
     "source": "Cointelegraph",
@@ -348,6 +360,30 @@
     "classified": true
   },
   {
+    "title": "Allbridge Core pauses protocol after $1.65 million flash loan exploit: onchain analysts",
+    "link": "https://www.theblock.co/post/408855/allbridge-core-exploit?utm_source=rss&utm_medium=rss",
+    "pubDate": "Sun, 19 Jul 2026 23:33:56 -0400",
+    "source": "The Block",
+    "category": "crypto",
+    "content": "Security firms PeckShield and CertiK flagged that the attacker has bridged the stolen funds from Solana to Ethereum.",
+    "image": "https://www.tbstat.com/wp/uploads/2022/11/20221129_Hack-Exploit-2-800x450.jpg",
+    "summary": "The Allbridge Core protocol has been paused after a $1.65 million flash loan exploit, with the attacker bridging the stolen funds from Solana to Ethereum. Security firms PeckShield and CertiK have flagged the incident. The exploit highlights the ongoing security risks in the cryptocurrency space.",
+    "importance": 8,
+    "classified": true
+  },
+  {
+    "title": "Stablecoins vs Traditional Banking",
+    "link": "https://www.theblock.co/learn/408854/stablecoins-vs-traditional-banking?utm_source=rss&utm_medium=rss",
+    "pubDate": "Sun, 19 Jul 2026 23:29:46 -0400",
+    "source": "The Block",
+    "category": "crypto",
+    "content": "A stablecoin is a cryptocurrency pegged to a reference asset, such as the U.S. dollar or Euro. Like a bank, stablecoin issuers hold onto vast amounts of deposits, as they take cash in return for issuing their coin onchain. This makes them similar in some ways to a traditional bank, but the two differ in […]",
+    "image": "https://www.tbstat.com/wp/uploads/2025/06/20250602_Stablecoins_News-800x450.jpg",
+    "summary": "Stablecoins are cryptocurrencies tied to a reference asset, similar to traditional banking in holding deposits, but differ in certain ways. Stablecoin issuers hold large amounts of cash in exchange for issuing their coins onchain. This similarity raises questions about their comparison to traditional banking systems.",
+    "importance": 8,
+    "classified": true
+  },
+  {
     "title": "Upbit parent Dunamu faces sanction process nearly eight months after $30 million hack: report",
     "link": "https://www.theblock.co/post/408848/upbit-parent-dunamu-faces-sanction-process-nearly-eight-months-after-30-million-hack-report?utm_source=rss&utm_medium=rss",
     "pubDate": "Sun, 19 Jul 2026 16:31:29 -0400",
@@ -464,42 +500,6 @@
     "content": "The defendant reportedly led a criminal group that operated under the guise of BitShine, which was once registered with the FSC.",
     "image": "https://www.tbstat.com/wp/uploads/2023/08/taiwan-scaled-e1727938372687-675x450.jpg",
     "summary": "The ringleader of BitShine crypto exchange has been sentenced to 22 years in prison for a $39 million fraud case in Taiwan. The group operated under the guise of BitShine, which was once registered with the FSC. The sentence is a significant outcome for a crypto-related fraud case.",
-    "importance": 8,
-    "classified": true
-  },
-  {
-    "title": "UK gang jailed over $5.4 million crypto scam posing as police",
-    "link": "https://www.theblock.co/post/408745/uk-gang-jailed-crypto-scam?utm_source=rss&utm_medium=rss",
-    "pubDate": "Fri, 17 Jul 2026 04:28:00 -0400",
-    "source": "The Block",
-    "category": "crypto",
-    "content": "The gang impersonated police officers and used convincing fake police websites to steal more than £4M in cryptocurrency from eight victims.",
-    "image": "https://www.tbstat.com/wp/uploads/2023/04/20230412_Legal_Generic_2-800x450.jpg",
-    "summary": "A UK gang has been jailed for posing as police officers and stealing over $5.4 million in cryptocurrency from eight victims using fake police websites. The gang impersonated police to gain the trust of their victims. The scam resulted in significant financial losses for the victims.",
-    "importance": 8,
-    "classified": true
-  },
-  {
-    "title": "USDT vs USDC: Comparing the Two Largest Stablecoins",
-    "link": "https://www.theblock.co/learn/408738/usdt-vs-usdc-comparing-the-two-largest-stablecoins?utm_source=rss&utm_medium=rss",
-    "pubDate": "Fri, 17 Jul 2026 00:22:22 -0400",
-    "source": "The Block",
-    "category": "crypto",
-    "content": "USDT and USDC are stablecoins pegged one-to-one to the U.S. dollar, each backed by reserves covering every token in circulation. Tether’s USDT is the largest stablecoin, with the deepest liquidity across global exchanges. Circle’s USDC is the second-largest, with Circle staking its reputation on being a publicly traded company, with frequent audits, U.S. and E.U. […]",
-    "image": "https://www.tbstat.com/wp/uploads/2025/01/20250102_USDC_News-800x450.jpg",
-    "summary": "The article compares USDT and USDC, the two largest stablecoins pegged to the US dollar, discussing their differences in liquidity and audit transparency. USDT has the deepest liquidity, while USDC is backed by a publicly traded company with frequent audits. This comparison is significant for understanding the stablecoin market.",
-    "importance": 8,
-    "classified": true
-  },
-  {
-    "title": "SEC vs CFTC: Who Regulates Crypto?",
-    "link": "https://www.theblock.co/learn/408729/sec-vs-cftc-who-regulates-crypto?utm_source=rss&utm_medium=rss",
-    "pubDate": "Thu, 16 Jul 2026 23:49:02 -0400",
-    "source": "The Block",
-    "category": "crypto",
-    "content": "Crypto oversight is split mainly between two agencies: the Securities and Exchange Commission (SEC) and the Commodity Futures Trading Commission (CFTC).  In broad terms, the SEC handles crypto assets that behave like investments in a company. Meanwhile, the CFTC handles assets that behave like commodities, along with futures and other derivatives tied to them. Which […]",
-    "image": "https://www.tbstat.com/wp/uploads/2025/04/20250414_SEC_News_3-800x450.jpg",
-    "summary": "The regulation of crypto assets is split between the SEC and CFTC, with the SEC handling assets that behave like investments and the CFTC handling assets that behave like commodities. The distinction is important for understanding which agency has oversight over different types of crypto assets. This regulatory framework is crucial for the crypto industry.",
     "importance": 8,
     "classified": true
   },
@@ -1200,18 +1200,6 @@
     "classified": true
   },
   {
-    "title": "Crypto exchange Bybit launches in Indonesia after NOBI acquisition",
-    "link": "https://cointelegraph.com/news/crypto-exchange-bybit-launches-in-indonesia-after-nobi-acquisition?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Fri, 17 Jul 2026 04:16:32 +0000",
-    "source": "Cointelegraph",
-    "category": "crypto",
-    "content": "The launch gives Bybit a locally operated platform in one of Asia’s largest crypto markets, home to more than 21 million crypto exchange users.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-bybit-giant-is-entering-cryptoheres-why-it-matters.jpg",
-    "summary": "Crypto exchange Bybit has officially launched its operations in Indonesia following its acquisition of the local platform NOBI. This strategic move grants Bybit a locally operated presence in one of Asia's largest crypto markets, which serves over 21 million crypto exchange users.",
-    "importance": 7,
-    "classified": true
-  },
-  {
     "title": "Neil Rimer thinks the AI money is coming back out",
     "link": "https://techcrunch.com/2026/07/17/neil-rimer-thinks-the-ai-money-is-coming-back-out/",
     "pubDate": "Sat, 18 Jul 2026 04:47:25 +0000",
@@ -1248,6 +1236,30 @@
     "classified": true
   },
   {
+    "title": "Bitcoin ETFs see new money again, but inflows remain ‘peanuts’ relative to the recent exodus",
+    "link": "https://www.coindesk.com/markets/2026/07/20/bitcoin-etfs-see-new-money-again-but-inflows-remain-peanuts-relative-to-the-recent-exodus",
+    "pubDate": "Mon, 20 Jul 2026 05:46:36 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "Bitcoin ETFs have attracted $273 million in new inflows in two weeks, but the total is barely enough to cover a single \"slow\" week of recent selling.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/7df47bc493288e9906477fe85bd7ea2906e4e186-3200x1800.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "Bitcoin ETFs have seen new inflows of $273 million over two weeks, but this amount is barely enough to cover a single week of recent selling. The inflows are a minor positive sign after a period of significant outflows. The overall trend remains uncertain.",
+    "importance": 6,
+    "classified": true
+  },
+  {
+    "title": "Bitcoin flat near $64,000 as oil hits a one-month high and Kimi AI selloff lingers",
+    "link": "https://www.coindesk.com/markets/2026/07/20/bitcoin-flat-near-usd64-000-as-oil-hits-a-one-month-high-and-kimi-ai-selloff-lingers",
+    "pubDate": "Mon, 20 Jul 2026 05:31:43 +0000",
+    "source": "CoinDesk",
+    "category": "both",
+    "content": "Brent jumped almost 4% on escalating U.S.-Iran strikes, while Asian chip stocks stayed under pressure from Friday's Chinese AI shock.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/43954924aee71d73b5dcfee5ec159760f89e6507-1500x1000.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "Bitcoin's price remains steady near $64,000 amidst rising oil prices and ongoing effects of the Kimi AI selloff. Oil prices jumped almost 4% due to escalating U.S.-Iran strikes. Asian chip stocks are under pressure from a recent Chinese AI development.",
+    "importance": 6,
+    "classified": true
+  },
+  {
     "title": "Live markets: Bitcoin returns to $63,000 as Nasdaq trims large early loss",
     "link": "https://www.coindesk.com/markets/2026/07/17/live-markets-bitcoin-slips-to-usd63-000-as-the-chip-rout-goes-global",
     "pubDate": "Fri, 17 Jul 2026 10:43:57 +0000",
@@ -1256,18 +1268,6 @@
     "content": "A deepening global selloff in chipmakers dragged risk assets lower, pulling bitcoin back from the $65,000 level it reached on this week's soft inflation print.",
     "image": "https://cdn.sanity.io/images/s3y3vcno/production/ec16b0d98820048d0801ef198a8c4e6ca1e6f687-4608x3456.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
     "summary": "Bitcoin has slipped below $63,000, dragged down by a deepening global selloff in chipmakers that impacted broader risk assets. This decline follows its brief rally to $65,000 earlier in the week after a favorable inflation report.",
-    "importance": 6,
-    "classified": true
-  },
-  {
-    "title": "Ether falls twice as hard as bitcoin and HYPE drops 10% as the chip trade unwinds",
-    "link": "https://www.coindesk.com/markets/2026/07/17/ether-falls-twice-as-hard-as-bitcoin-and-hype-drops-10-as-the-chip-trade-unwinds",
-    "pubDate": "Fri, 17 Jul 2026 07:29:41 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "Japan's Nikkei had its worst day since March. Ether is still the only major holding a gain on the week, barely.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/3ee243bba65bb63cf43ad6cae8f8c2d2dc1fb559-1280x853.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "Ether experienced a significant drop, falling twice as hard as Bitcoin, amidst a broader market downturn that also saw 'HYPE' token decline by 10% and Japan's Nikkei have its worst day since March. Despite these losses, Ether was still barely holding onto a weekly gain among major assets.",
     "importance": 6,
     "classified": true
   },
@@ -1352,6 +1352,30 @@
     "content": "Federal prosecutors allege the South Dakota investor used false promises to raise money, repaid earlier investors with new funds and laundered proceeds through crypto exchanges.",
     "image": "https://s3-images.ctmedia.io/media/article-covers/man-hacker-breaking-blockchain.jpg",
     "summary": "US federal prosecutors have indicted a South Dakota investor for an alleged $20 million fraud scheme. The investor is accused of making false promises to raise funds, repaying earlier investors with new money (a Ponzi scheme), and laundering the proceeds through cryptocurrency exchanges.",
+    "importance": 6,
+    "classified": true
+  },
+  {
+    "title": "Hyperliquid’s HIP-4 to support permissionless deployment for outcome markets",
+    "link": "https://www.theblock.co/post/408875/hyperliquid-hip-4-permissionless-deployment?utm_source=rss&utm_medium=rss",
+    "pubDate": "Mon, 20 Jul 2026 01:34:45 -0400",
+    "source": "The Block",
+    "category": "crypto",
+    "content": "HIP-4 deployers must stake 500,000 HYPE tokens and can take up to 50% fees on their validator-aligned markets.",
+    "image": "https://www.tbstat.com/wp/uploads/2026/04/20260410_Hyperliquid_News-800x450.jpg",
+    "summary": "Hyperliquid's HIP-4 allows for permissionless deployment of outcome markets, with deployers required to stake 500,000 HYPE tokens and able to take up to 50% fees. This development aims to increase accessibility and participation in outcome markets. The move may attract more users to the platform.",
+    "importance": 6,
+    "classified": true
+  },
+  {
+    "title": "Japanese logistics firm turns to JPYC stablecoin to fight labor shortages: report",
+    "link": "https://www.theblock.co/post/408862/japanese-logistics-firm-jpyc?utm_source=rss&utm_medium=rss",
+    "pubDate": "Sun, 19 Jul 2026 23:48:32 -0400",
+    "source": "The Block",
+    "category": "crypto",
+    "content": "By offering contractors faster payments with stablecoins, the firm seeks to attract more business partners, according to Nikkei.",
+    "image": "https://www.tbstat.com/wp/uploads/2024/09/20240917_Japan_News-800x450.jpg",
+    "summary": "A Japanese logistics firm is using the JPYC stablecoin to offer contractors faster payments, aiming to attract more business partners and combat labor shortages. This move seeks to leverage the benefits of stablecoins in streamlining payment processes. The firm's strategy may help alleviate labor issues by providing more appealing payment terms.",
     "importance": 6,
     "classified": true
   },
@@ -1598,7 +1622,7 @@
   {
     "title": "Here’s what happened in crypto today",
     "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Sun, 19 Jul 2026 18:23:00 +0000",
+    "pubDate": "Mon, 20 Jul 2026 04:56:55 +0000",
     "source": "Cointelegraph",
     "category": "crypto",
     "content": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
@@ -1641,30 +1665,6 @@
     "image": "https://cdn.sanity.io/images/s3y3vcno/production/e473e13d2b998775c2c41a1456513cc8710f6cd7-2461x1385.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
     "summary": "Polymarket traders have significantly lowered the odds of the CLARITY Act passing this year to a record low. This reduction is due to unresolved Senate negotiations regarding ethics provisions.",
     "importance": 3,
-    "classified": true
-  },
-  {
-    "title": "Airbnb CEO says X account was hacked, attacker posted AI-slop on tokenization",
-    "link": "https://www.coindesk.com/web3/2026/07/17/airbnb-ceo-says-x-account-was-hacked-attacker-posted-ai-slop-thread-on-tokenization",
-    "pubDate": "Fri, 17 Jul 2026 08:50:22 +0000",
-    "source": "CoinDesk",
-    "category": "both",
-    "content": "Brian Chesky regained control of his account and told any new crypto followers he would be a \"disappointing follow\".",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/1db76ace27416ff7404be49576da86c5cbbfd082-1920x1440.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "Airbnb CEO Brian Chesky's X account was hacked, with the attacker posting \"AI-slop on tokenization.\" Chesky has since regained control and warned any new crypto followers that he would be a \"disappointing follow.\"",
-    "importance": 3,
-    "classified": true
-  },
-  {
-    "title": "MegaETH sunsets Mega Mafia accelerator program, noting ‘most’ of its successful apps left",
-    "link": "https://www.theblock.co/post/408718/megaeth-sunsets-mega-mafia-accelerator-program-noting-most-successful-apps-left?utm_source=rss&utm_medium=rss",
-    "pubDate": "Thu, 16 Jul 2026 15:58:35 -0400",
-    "source": "The Block",
-    "category": "crypto",
-    "content": "MegaETH did not take equity or governance positions in the approximately 20 projects incubated in the Mega Mafia.",
-    "image": "https://www.tbstat.com/wp/uploads/2025/04/20250411_MegaEth_News_3-800x450.jpg",
-    "summary": "MegaETH has ended its Mega Mafia accelerator program, which supported around 20 projects, with most of the successful apps having already left the program. The program did not take equity or governance positions in the projects. This move marks the conclusion of the initiative.",
-    "importance": 2,
     "classified": true
   },
   {
