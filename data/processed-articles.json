@@ -12,18 +12,6 @@
     "classified": true
   },
   {
-    "title": "Inside Zcash's new node that targets Visa-scale privacy at 50,000 transactions per second",
-    "link": "https://www.coindesk.com/tech/2026/07/16/inside-zcash-s-new-node-that-targets-visa-scale-privacy-at-50-000-transactions-per-second",
-    "pubDate": "Sun, 19 Jul 2026 05:37:34 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "The new Zakura client is the first live piece of a plan to take Zcash from roughly one private transaction per second to payment-network scale.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/6359a9ff83ee7ba7465c0ff2289cb8ae23e7ac43-1500x1000.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "Zcash has launched its new Zakura client, the first step in a plan to scale its private transaction capabilities from approximately one per second to 50,000 transactions per second. This initiative aims to achieve Visa-level privacy at payment-network scale.",
-    "importance": 9,
-    "classified": true
-  },
-  {
     "title": "Hut 8, IREN deals lift AI-focused Bitcoin mining stocks",
     "link": "https://cointelegraph.com/news/hut-8-iren-deals-lift-ai-focused-bitcoin-mining-stocks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "pubDate": "Mon, 20 Jul 2026 17:27:31 +0000",
@@ -57,6 +45,18 @@
     "image": "https://www.tbstat.com/wp/uploads/2024/08/20240819_Funding_News_2-800x450.jpg",
     "summary": "Hut 8 has fully commercialized its 1 GW Texas AI campus with a second $9.8 billion lease, while IREN secured an additional $2.8 billion in contracts. These significant AI data center deals led to double-digit share increases for both companies, highlighting the accelerating industry pivot from bitcoin mining towards AI infrastructure.",
     "importance": 9,
+    "classified": true
+  },
+  {
+    "title": "UK Parliament begins inquiry into banking chokepoint for crypto businesses",
+    "link": "https://www.coindesk.com/policy/2026/07/21/uk-parliamentary-group-begins-inquiry-into-banking-chokepoint-for-crypto-businesses",
+    "pubDate": "Tue, 21 Jul 2026 06:15:26 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "The U.K.’s Crypto and Digital Assets All-Party Parliamentary Group (APPG) is focused on banks that refused crypto firms accounts or introduced restrictions on crypto transactions.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/571ae33e4cfce80ac044450958aa18d0aa2566cc-1500x1000.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "The UK Parliament's Crypto and Digital Assets All-Party Parliamentary Group (APPG) has launched an inquiry. This investigation targets banks that have refused to provide accounts to crypto firms or have imposed restrictions on crypto-related transactions. The move addresses a significant \"chokepoint\" issue faced by the cryptocurrency industry in the UK.",
+    "importance": 8,
     "classified": true
   },
   {
@@ -204,14 +204,14 @@
     "classified": true
   },
   {
-    "title": "Bitcoin’s quantum problem gets a recovery tool, but not for Satoshi’s 1.1 million coins",
-    "link": "https://www.coindesk.com/tech/2026/07/19/bitcoin-s-quantum-problem-gets-a-recovery-tool-but-not-for-satoshi-s-1-1-million-coin",
-    "pubDate": "Sun, 19 Jul 2026 10:00:00 +0000",
-    "source": "CoinDesk",
+    "title": "Base’s 1:1-backed tokenized equities launch ‘imminent,’ Pollak says",
+    "link": "https://cointelegraph.com/news/bases-tokenized-equities-imminent-pollak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Tue, 21 Jul 2026 07:06:12 +0000",
+    "source": "Cointelegraph",
     "category": "crypto",
-    "content": "Project Eleven says it has funded a proof that lets a wallet's own key-derivation path stand in as ownership after quantum computers can forge its signatures. It runs in 243 milliseconds on a laptop.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/a0a7940835c9275731c2adf69015343cc4a850ac-1024x683.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "Project Eleven has developed a recovery tool for Bitcoin that allows a wallet's key-derivation path to serve as proof of ownership, specifically designed to counter signature forgery by future quantum computers. This solution runs quickly on a laptop but does not apply to Satoshi Nakamoto's 1.1 million Bitcoin.",
+    "content": "The Coinbase-backed Ethereum layer-2 is preparing to expand its financial offerings as it pivots away from its earlier social-first strategy.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-what-is-base-coinbase-l2-network-2.jpg",
+    "summary": "Coinbase-backed Ethereum layer-2 Base is imminently launching 1:1-backed tokenized equities. This strategic move signals a pivot away from its earlier social-first approach towards expanding its financial offerings within the crypto ecosystem.",
     "importance": 8,
     "classified": true
   },
@@ -408,26 +408,26 @@
     "classified": true
   },
   {
-    "title": "Cardano activates van Rossem hard fork",
-    "link": "https://cointelegraph.com/news/cardano-activates-van-rossem-hard-fork-paving-way-for-leios?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Mon, 20 Jul 2026 04:26:17 +0000",
-    "source": "Cointelegraph",
+    "title": "London Stock Exchange plans overnight venue to extend trading hours: FT",
+    "link": "https://www.theblock.co/post/409021/london-stock-exchange-plans-extended-trading-hours?utm_source=rss&utm_medium=rss",
+    "pubDate": "Tue, 21 Jul 2026 03:57:02 -0400",
+    "source": "The Block",
     "category": "crypto",
-    "content": "The upgrade reduces smart contract execution costs while laying the groundwork for Ouroboros Leios, a major scalability upgrade expected later this year.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/cardano.jpg",
-    "summary": "Cardano has activated the Van Rossem hard fork, which reduces smart contract execution costs and sets the stage for Ouroboros Leios, a major scalability upgrade expected later this year. This upgrade is significant for the Cardano network and its users. The move aims to improve the overall efficiency of the network.",
+    "content": "London Stock Exchange plans an overnight venue as traditional exchanges extend trading hours amid competition from 24/7 crypto platforms.",
+    "image": "https://www.tbstat.com/wp/uploads/2019/08/shutterstock_431001775-678x450.jpg",
+    "summary": "The London Stock Exchange (LSE) is planning to launch an overnight trading venue to extend its operational hours. This initiative is a strategic response to increasing competition from 24/7 cryptocurrency platforms, aiming to offer continuous market access.",
     "importance": 8,
     "classified": true
   },
   {
-    "title": "Allbridge pauses cross-chain bridge after $1.65M exploit",
-    "link": "https://cointelegraph.com/news/allbridge-core-pauses-cross-chain-bridge-after-165m-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Mon, 20 Jul 2026 02:23:36 +0000",
-    "source": "Cointelegraph",
+    "title": "UK parliamentary group launches probe into crypto sector’s banking challenges",
+    "link": "https://www.theblock.co/post/409016/uk-probe-crypto-sector-banking-challenges?utm_source=rss&utm_medium=rss",
+    "pubDate": "Tue, 21 Jul 2026 03:26:25 -0400",
+    "source": "The Block",
     "category": "crypto",
-    "content": "The attacker allegedly used a flash loan and rapid swaps to manipulate the bridge’s stablecoin exchange rate.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/bridge.jpg",
-    "summary": "Allbridge Core has paused its cross-chain bridge following a $1.65 million exploit. The attacker reportedly used a flash loan and rapid swaps to manipulate the bridge's stablecoin exchange rate.",
+    "content": "This comes weeks after the publication of the UK’s new crypto regulatory framework, set to take effect in October 2027.",
+    "image": "https://www.tbstat.com/wp/uploads/2024/07/uk-parliament-800x450.png",
+    "summary": "A UK parliamentary group is investigating the banking challenges faced by the crypto sector, following the publication of the UK's new crypto regulatory framework, set to take effect in October 2027. The probe aims to address the issues crypto companies have in accessing banking services. This development is significant for the crypto industry in the UK.",
     "importance": 8,
     "classified": true
   },
@@ -500,18 +500,6 @@
     "content": "Vitalik Buterin \"vibe-coded\" an anonymous billboard demo on Aztec with onchain moderation, a censor role, and a local LLM flagging daemon.",
     "image": "https://www.tbstat.com/wp/uploads/2024/10/20241001_Vitalik_News_3-800x450.jpg",
     "summary": "Ethereum co-founder Vitalik Buterin has demonstrated an anonymous billboard on Aztec, utilizing onchain moderation and other features. The demo included a censor role and a local LLM flagging daemon. This showcases potential applications of blockchain and AI technologies.",
-    "importance": 8,
-    "classified": true
-  },
-  {
-    "title": "Allbridge Core pauses protocol after $1.65 million flash loan exploit: onchain analysts",
-    "link": "https://www.theblock.co/post/408855/allbridge-core-exploit?utm_source=rss&utm_medium=rss",
-    "pubDate": "Sun, 19 Jul 2026 23:33:56 -0400",
-    "source": "The Block",
-    "category": "crypto",
-    "content": "Security firms PeckShield and CertiK flagged that the attacker has bridged the stolen funds from Solana to Ethereum.",
-    "image": "https://www.tbstat.com/wp/uploads/2022/11/20221129_Hack-Exploit-2-800x450.jpg",
-    "summary": "The Allbridge Core protocol has been paused after a $1.65 million flash loan exploit, with the attacker bridging the stolen funds from Solana to Ethereum. Security firms PeckShield and CertiK have flagged the incident. The exploit highlights the ongoing security risks in the cryptocurrency space.",
     "importance": 8,
     "classified": true
   },
@@ -972,6 +960,18 @@
     "classified": true
   },
   {
+    "title": "Live markets: Bitcoin ETFs post a fifth straight day of inflows in a first since April",
+    "link": "https://www.coindesk.com/business/2026/07/21/live-markets-bitcoin-etfs-post-a-fifth-straight-day-of-inflows-in-a-first-since-april",
+    "pubDate": "Tue, 21 Jul 2026 06:42:52 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "The run has pulled in roughly $727 million, the most sustained stretch of buying since the record outflows of June.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/411a314f3388b9e52354900c8e163fb56f648909-1056x982.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "Bitcoin ETFs have recorded a fifth consecutive day of inflows, marking the most sustained stretch of buying since April. This positive run has attracted approximately $727 million, signaling a significant shift after record outflows in June.",
+    "importance": 7,
+    "classified": true
+  },
+  {
     "title": "Bitcoin hits a two-week high near $65,500 as the chip trade turns back into a tailwind",
     "link": "https://www.coindesk.com/markets/2026/07/21/bitcoin-hits-a-two-week-high-near-usd65-500-as-the-chip-trade-turns-back-into-a-tailwind",
     "pubDate": "Tue, 21 Jul 2026 05:34:00 +0000",
@@ -996,19 +996,19 @@
     "classified": true
   },
   {
-    "title": "Kraken says simpler options can unlock crypto's next derivatives market",
-    "link": "https://www.coindesk.com/business/2026/07/19/kraken-says-simpler-options-can-unlock-crypto-s-next-derivatives-market",
-    "pubDate": "Sun, 19 Jul 2026 13:00:00 +0000",
-    "source": "CoinDesk",
+    "title": "Bitcoin ETFs post five-day inflow streak, longest since May",
+    "link": "https://cointelegraph.com/news/bitcoin-etfs-five-day-inflow-streak-btc-65k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Tue, 21 Jul 2026 07:28:29 +0000",
+    "source": "Cointelegraph",
     "category": "crypto",
-    "content": "The Wyoming-based firm launched USD-settled bitcoin and ether options, saying product design, not demand, has held back adoption.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/b5ae4fb4478c42b7ccde14b1283bce493cf7f8de-3324x1870.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "Kraken, a Wyoming-based firm, has launched USD-settled bitcoin and ether options, asserting that product design, not demand, has previously stifled market adoption. The company believes simpler options can unlock the crypto derivatives market's next growth phase.",
+    "content": "US spot Bitcoin ETFs recorded $227 million in inflows as BTC climbed above $65,000, extending their longest winning streak since early May.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/bitcoin-price-remains-above-15k-and-keeps-on-testing-the-16k-mark.png",
+    "summary": "US spot Bitcoin ETFs recorded $227 million in inflows, marking their longest positive streak since early May. This financial activity occurred as Bitcoin's price surpassed the $65,000 mark.",
     "importance": 7,
     "classified": true
   },
   {
-    "title": "Bitcoin defies recent tech stocks sell-off. Are bulls eyeing $70K rally?",
+    "title": "Bitcoin defies recent tech stocks sell-off: Are bulls eyeing $70K rally?",
     "link": "https://cointelegraph.com/markets/bitcoin-defies-recent-tech-stocks-sell-off-are-bulls-eyeing-70k-rally?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "pubDate": "Mon, 20 Jul 2026 21:20:09 +0000",
     "source": "Cointelegraph",
@@ -1164,7 +1164,7 @@
     "classified": true
   },
   {
-    "title": "Binance & OKX users face $1900 fines in Vietnam, Coinbase in China? Asia Express",
+    "title": "Binance & OKX users face $1,900 fines in Vietnam, Coinbase in China? Asia Express",
     "link": "https://cointelegraph.com/magazine/binance-users-face-1900-fines-in-vietnam-coinbase-in-china-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "pubDate": "Tue, 21 Jul 2026 02:42:14 +0000",
     "source": "Cointelegraph",
@@ -1316,18 +1316,6 @@
     "content": "HIP-4 deployers must stake 500,000 HYPE tokens and can take up to 50% fees on their validator-aligned markets.",
     "image": "https://www.tbstat.com/wp/uploads/2026/04/20260410_Hyperliquid_News-800x450.jpg",
     "summary": "Hyperliquid's HIP-4 allows for permissionless deployment of outcome markets, with deployers required to stake 500,000 HYPE tokens and able to take up to 50% fees. This development aims to increase accessibility and participation in outcome markets. The move may attract more users to the platform.",
-    "importance": 6,
-    "classified": true
-  },
-  {
-    "title": "Japanese logistics firm turns to JPYC stablecoin to fight labor shortages: report",
-    "link": "https://www.theblock.co/post/408862/japanese-logistics-firm-jpyc?utm_source=rss&utm_medium=rss",
-    "pubDate": "Sun, 19 Jul 2026 23:48:32 -0400",
-    "source": "The Block",
-    "category": "crypto",
-    "content": "By offering contractors faster payments with stablecoins, the firm seeks to attract more business partners, according to Nikkei.",
-    "image": "https://www.tbstat.com/wp/uploads/2024/09/20240917_Japan_News-800x450.jpg",
-    "summary": "A Japanese logistics firm is using the JPYC stablecoin to offer contractors faster payments, aiming to attract more business partners and combat labor shortages. This move seeks to leverage the benefits of stablecoins in streamlining payment processes. The firm's strategy may help alleviate labor issues by providing more appealing payment terms.",
     "importance": 6,
     "classified": true
   },
@@ -1586,7 +1574,7 @@
   {
     "title": "Here’s what happened in crypto today",
     "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Mon, 20 Jul 2026 21:07:27 +0000",
+    "pubDate": "Tue, 21 Jul 2026 05:50:34 +0000",
     "source": "Cointelegraph",
     "category": "crypto",
     "content": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
@@ -1629,6 +1617,18 @@
     "image": "https://s3-images.ctmedia.io/media/article-covers/hi-btc-is-doing-great-but-is-an-altseason-emerging.png",
     "summary": "Bitcoin encountered significant resistance at the $65,000 mark. Despite this, traders remain hopeful for a potential price breakout that could lead to a bullish market structure for BTC.",
     "importance": 3,
+    "classified": true
+  },
+  {
+    "title": "XRP jumps 4% as traders watch 'triangle breakout' toward $1.35",
+    "link": "https://www.coindesk.com/markets/2026/07/21/xrp-jumps-4-as-traders-watch-triangle-breakout-toward-usd1-35",
+    "pubDate": "Tue, 21 Jul 2026 07:21:04 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "XRP pushed higher over 24 hours and tested short-term resistance, but the larger chart still needs a clean break above the $1.24-$1.28 supply zone to confirm a stronger reversal.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/b7477046a3fb08fb8da44523a38ae0fcb196f5d6-2898x1458.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "XRP saw a 4% price increase and tested short-term resistance, though a stronger reversal requires a clean break above the $1.24-$1.28 supply zone.",
+    "importance": 2,
     "classified": true
   },
   {
