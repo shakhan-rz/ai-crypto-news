@@ -12,6 +12,18 @@
     "classified": true
   },
   {
+    "title": "SEC's Peirce warns some DeFi vaults, onchain lending may fall under securities laws",
+    "link": "https://www.coindesk.com/policy/2026/07/22/sec-s-peirce-warns-some-defi-vaults-onchain-lending-may-fall-under-securities-laws",
+    "pubDate": "Wed, 22 Jul 2026 15:37:36 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "The commissioner said onchain vaults and lending strategies could resemble investment funds or advisers, depending on how they are structured.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/ddfd06ec680c813ea4ac27abca23ed850fa0990a-6000x3376.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "SEC Commissioner Hester Peirce has warned that some decentralized finance (DeFi) onchain vaults and lending strategies might be subject to securities laws. She stated that their structure could lead them to be classified as investment funds or advisers, potentially bringing them under SEC oversight.",
+    "importance": 9,
+    "classified": true
+  },
+  {
     "title": "Forget Nvidia: The next big AI trade could be crypto and blockchain",
     "link": "https://www.coindesk.com/markets/2026/07/21/forget-nvidia-the-next-big-ai-trade-could-be-crypto-and-blockchain",
     "pubDate": "Wed, 22 Jul 2026 13:32:40 +0000",
@@ -21,6 +33,30 @@
     "image": "https://cdn.sanity.io/images/s3y3vcno/production/96bbe9e12b2e4da79cfa5e40a46731c32052eee2-7000x4000.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
     "summary": "Franklin Templeton's Sandy Kaul and Circle CEO Jeremy Allaire predict that blockchain networks will facilitate the next major AI trade as autonomous AI agents begin to manage their own finances. They argue that this shift will make crypto and blockchain crucial infrastructure, moving the focus beyond AI hardware providers like Nvidia.",
     "importance": 9,
+    "classified": true
+  },
+  {
+    "title": "OpenAI’s AI spending spree has ballooned to $750B",
+    "link": "https://techcrunch.com/2026/07/22/openais-ai-spending-spree-has-ballooned-to-750b/",
+    "pubDate": "Wed, 22 Jul 2026 16:13:30 +0000",
+    "source": "TechCrunch AI",
+    "category": "ai",
+    "content": "OpenAI will spend the equivalent of Sweden's GDP on infrastructure through 2030.",
+    "image": "",
+    "summary": "OpenAI plans to spend $750 billion on infrastructure by 2030, a staggering amount equivalent to Sweden's GDP. This investment underscores OpenAI's commitment to advancing artificial intelligence. The massive spending spree is expected to have significant implications for the AI community.",
+    "importance": 9,
+    "classified": true
+  },
+  {
+    "title": "UK digital bond plans hinge on one missing piece: onchain cash",
+    "link": "https://www.coindesk.com/business/2026/07/22/uk-digital-bond-plans-hinge-on-one-missing-piece-onchain-cash",
+    "pubDate": "Wed, 22 Jul 2026 15:36:49 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "Experts say Britain's digital gilt pilot can unlock trapped liquidity in financial markets only if regulators approve an onchain stablecoin.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/5423e97356cd82dcc3ceed6f9788bc74c34a4f3b-3000x1738.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "The UK's digital gilt pilot, intended to release trapped liquidity in financial markets, is currently stalled. Experts state that the success of this digital bond initiative hinges on regulatory approval for an onchain stablecoin, which is crucial for facilitating transactions within the system.",
+    "importance": 8,
     "classified": true
   },
   {
@@ -60,7 +96,7 @@
     "classified": true
   },
   {
-    "title": "Live updates: Bitcoin slips under $66,000 as oil's surge sacks strength from risk markets",
+    "title": "Live updates: Bitcoin holds near $66,000 as stocks claw back from big early decline",
     "link": "https://www.coindesk.com/tech/2026/07/22/live-updates-bitcoin-under-usd66-000-as-traders-await-alphabet-earnings-to-gauge-ai-trade",
     "pubDate": "Wed, 22 Jul 2026 08:13:28 +0000",
     "source": "CoinDesk",
@@ -140,54 +176,6 @@
     "content": "While citizens still cannot use Bitcoin to buy groceries, the Kremlin is officially letting companies use digital tokens to bypass sanctions and other global trade hurdles.",
     "image": "https://cdn.sanity.io/images/s3y3vcno/production/58e0c95c5b0f73d0d0007ecd7f18d3a3b1e6a13d-3992x2242.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
     "summary": "Russia's parliament has passed a law allowing companies to use digital tokens to bypass sanctions, with a $3,800 annual cap for retail investors, marking a significant development in the country's crypto market. The law does not permit citizens to use Bitcoin for everyday purchases. This move is seen as a way for Russia to navigate global trade hurdles.",
-    "importance": 8,
-    "classified": true
-  },
-  {
-    "title": "Augustus raises $180 million to build a clearing bank for the AI and stablecoin era",
-    "link": "https://www.coindesk.com/business/2026/07/21/augustus-raises-usd180-million-to-build-a-clearing-bank-for-the-ai-and-stablecoin-era",
-    "pubDate": "Tue, 21 Jul 2026 14:27:03 +0000",
-    "source": "CoinDesk",
-    "category": "both",
-    "content": "The firm, freshly valued at $1 billion, aims to replace legacy correspondent banking with always-on infrastructure that connects traditional payment systems and stablecoins.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/c03c0b0093af2ce4d867a936848487fe9f7b3afc-1362x766.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "Augustus has raised $180 million to create a clearing bank for the AI and stablecoin era, aiming to replace traditional correspondent banking with always-on infrastructure. The firm is now valued at $1 billion. This new infrastructure will connect traditional payment systems and stablecoins.",
-    "importance": 8,
-    "classified": true
-  },
-  {
-    "title": "Bitcoin rally has broad-based support as institutions, whales, options traders pile in",
-    "link": "https://www.coindesk.com/daybook-us/2026/07/21/bitcoin-rally-has-broad-based-support-as-institutions-whales-options-traders-pile-in",
-    "pubDate": "Tue, 21 Jul 2026 11:37:22 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "Your day-ahead look for July 21, 2026",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/7a436d8858767e41cb62696cacd9c29dd7330981-4030x2267.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "Bitcoin is experiencing a broad-based rally, fueled by significant interest from institutional investors, large holders ('whales'), and options traders. This indicates strong and diverse market support for the cryptocurrency's upward trend.",
-    "importance": 8,
-    "classified": true
-  },
-  {
-    "title": "Clarity odds jump to 43% on Polymarket after unverified reports Trump agreed to ethics deal",
-    "link": "https://www.coindesk.com/markets/2026/07/21/clarity-act-odds-jump-11-points-on-polymarket-after-reports-trump-agreed-to-ethics-deal",
-    "pubDate": "Tue, 21 Jul 2026 11:19:18 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "Bettors moved the crypto market structure bill to a 43% chance of passing this year, up from a record low last week, though no bill text has appeared.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/3b1739df7db3f7a1068921484a035a297ca8de23-1600x1067.webp?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "Bettors on Polymarket have increased the perceived likelihood of a crypto market structure bill passing this year to 43%, following unverified reports that former President Trump agreed to an ethics deal. This jump comes after a record low last week, though official bill text has not yet appeared.",
-    "importance": 8,
-    "classified": true
-  },
-  {
-    "title": "Crypto markets rally on Clarity progress report, Asian chip-stock rebound",
-    "link": "https://www.coindesk.com/markets/2026/07/21/crypto-markets-rally-on-clarity-progress-report-asian-chip-stock-rebound",
-    "pubDate": "Tue, 21 Jul 2026 11:02:48 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "Speculation that President Donald Trump agreed to a crucial ethics provision for the crypto market structure bill underpinned the gains.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/6ae075692e2a89c19b2ecc41161a59e15cf46ad9-1290x665.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "Crypto markets experienced a rally due to speculation that President Trump agreed to a crucial ethics provision for a crypto market structure bill. This positive market movement was also associated with a progress report on \"Clarity\" and a rebound in Asian chip-stocks.",
     "importance": 8,
     "classified": true
   },
@@ -396,6 +384,54 @@
     "classified": true
   },
   {
+    "title": "Crypto directly employs 34,000 in the US and contributes $55 billion to the economy: NCA report",
+    "link": "https://www.theblock.co/post/409417/crypto-directly-employs-34000-in-the-us-and-contributes-55-billion-to-the-economy-nca-report?utm_source=rss&utm_medium=rss",
+    "pubDate": "Wed, 22 Jul 2026 12:00:00 -0400",
+    "source": "The Block",
+    "category": "crypto",
+    "content": "Crypto directly employs 34,000 in the U.S. and contributes $55 billion to the economy in 2026, according to an NCA-funded report.",
+    "image": "https://www.tbstat.com/wp/uploads/2021/07/20210712_Finance_Crypto_Move-800x450.jpg",
+    "summary": "A report funded by the NCA states that the crypto industry directly employs 34,000 people in the US and contributes $55 billion to the economy in 2026. This significant contribution highlights the growing importance of crypto in the US economy. The report's findings suggest a substantial impact of the crypto industry on employment and economic growth.",
+    "importance": 8,
+    "classified": true
+  },
+  {
+    "title": "Crypto ‘wrench attacks’ persist as total climbs to 52 and value targeted jumps more than tenfold, CertiK says",
+    "link": "https://www.theblock.co/post/409418/crypto-wrench-attacks-persist-total-climbs-52-value-targeted-jumps-tenfold-certik?utm_source=rss&utm_medium=rss",
+    "pubDate": "Wed, 22 Jul 2026 11:48:35 -0400",
+    "source": "The Block",
+    "category": "crypto",
+    "content": "CertiK recommends limiting public information that connects a person’s identity, location or routine to their crypto holdings.",
+    "image": "https://www.tbstat.com/wp/uploads/2023/04/20230411_Hack_Generic_1-800x450.jpg",
+    "summary": "CertiK reports that crypto 'wrench attacks' have reached a total of 52, with the value targeted increasing more than tenfold. These attacks involve using public information to target individuals' crypto holdings. CertiK advises limiting public information that connects a person's identity, location, or routine to their crypto holdings.",
+    "importance": 8,
+    "classified": true
+  },
+  {
+    "title": "‘You will have a painful fall’: SEC’s Peirce warns crypto vault builders against twisting securities law",
+    "link": "https://www.theblock.co/post/409409/you-will-have-a-painful-fall-secs-peirce-warns-crypto-vault-builders-against-twisting-securities-law?utm_source=rss&utm_medium=rss",
+    "pubDate": "Wed, 22 Jul 2026 11:11:57 -0400",
+    "source": "The Block",
+    "category": "crypto",
+    "content": "Hester Peirce, aka \"Crypto Mom\", issued a statement clarifying that onchain vaults and lending may fall under the SEC's remit.",
+    "image": "https://www.tbstat.com/wp/uploads/2021/06/20210628_Hester_Peirce-800x450.jpg",
+    "summary": "SEC Commissioner Hester Peirce warned crypto vault builders that on-chain vaults and lending may be subject to SEC regulation, cautioning them against twisting securities law. This statement has implications for the crypto industry. Peirce's warning suggests increased regulatory scrutiny.",
+    "importance": 8,
+    "classified": true
+  },
+  {
+    "title": "Tokenized equity perps drive RWA trading boom to $470 billion monthly volume",
+    "link": "https://www.theblock.co/post/408961/tokenized-equity-perps-drive-rwa-trading-boom-to-470-billion-monthly-volume?utm_source=rss&utm_medium=rss",
+    "pubDate": "Wed, 22 Jul 2026 10:08:01 -0400",
+    "source": "The Block",
+    "category": "crypto",
+    "content": "Within the broader RWA category, tokenized equities have been the more popular asset class to trade over tokenized commodities.",
+    "image": "https://www.tbstat.com/wp/uploads/2026/04/20260409_Tokens_News-800x450.jpg",
+    "summary": "Tokenized equity perps have driven a surge in Real-World Asset (RWA) trading, reaching a monthly volume of $470 billion, with tokenized equities being more popular than tokenized commodities. This growth indicates a significant increase in the adoption of tokenized assets. The RWA category is expanding rapidly.",
+    "importance": 8,
+    "classified": true
+  },
+  {
     "title": "Zilliqa halts native transactions over bug in its Ledger app dating to 2019",
     "link": "https://www.theblock.co/post/409383/zilliqa-halts-native-transactions-over-bug-in-its-ledger-app-dating-to-2019?utm_source=rss&utm_medium=rss",
     "pubDate": "Wed, 22 Jul 2026 08:39:11 -0400",
@@ -492,50 +528,38 @@
     "classified": true
   },
   {
-    "title": "Russia passes landmark crypto bill allowing regulated retail trading",
-    "link": "https://www.theblock.co/post/409121/russia-passes-landmark-crypto-bill-allowing-regulated-retail-trading?utm_source=rss&utm_medium=rss",
-    "pubDate": "Tue, 21 Jul 2026 13:48:29 -0400",
-    "source": "The Block",
+    "title": "Bitcoin ETFs Take in Nearly $1B in New Money — But What Will the Price Do?",
+    "link": "https://bitcoinmagazine.com/news/bitcoin-etfs-take-in-nearly-1b",
+    "pubDate": "Wed, 22 Jul 2026 15:28:00 +0000",
+    "source": "Bitcoin Magazine",
     "category": "crypto",
-    "content": "Non-qualified Russian crypto investors face a 300,000-ruble annual purchase limit after Russia's State Duma passed a landmark crypto bill.",
-    "image": "https://www.tbstat.com/wp/uploads/2018/10/russian-flag-800x450.jpg",
-    "summary": "Russia has passed a landmark crypto bill, allowing regulated retail trading with certain restrictions, including a 300,000-ruble annual purchase limit for non-qualified investors. The bill aims to provide a framework for the country's cryptocurrency market. This move is expected to increase transparency and legitimacy in Russia's crypto sector.",
+    "content": "Bitcoin Magazine\n\nBitcoin ETFs Take in Nearly $1B in New Money — But What Will the Price Do?\nBitcoin ETFs have taken in new cash from US investors after weeks of sloppy action. \nThis post Bitcoin ETFs Take in Nearly $1B in New Money — But What Will the Price Do? first appeared on Bitcoin Magazine and is written by Mathew Di Salvo.",
+    "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/07/Bitcoin-ETFs.jpg",
+    "summary": "Bitcoin ETFs have received nearly $1B in new investments from US investors after a period of sluggish performance, sparking questions about the potential impact on the Bitcoin price. This influx of new money may indicate growing interest in Bitcoin. The price implications of this investment are uncertain.",
     "importance": 8,
     "classified": true
   },
   {
-    "title": "Augustus raises $180 million Series B at $1 billion valuation to build the ‘Global Dollar Bank’",
-    "link": "https://www.theblock.co/post/409119/augustus-raises-180-million-series-b-global-dollar-bank?utm_source=rss&utm_medium=rss",
-    "pubDate": "Tue, 21 Jul 2026 12:51:02 -0400",
-    "source": "The Block",
+    "title": "Coinbase Settles FOIA Fight With the SEC Over Gensler’s Vanished Texts",
+    "link": "https://bitcoinmagazine.com/news/coinbase-settles-foia-fight-with-the-sec",
+    "pubDate": "Wed, 22 Jul 2026 15:16:06 +0000",
+    "source": "Bitcoin Magazine",
     "category": "crypto",
-    "content": "Augustus supports stablecoins alongside traditional payment rails including Swift, ACH, and SEPA, according to a press release.",
-    "image": "https://www.tbstat.com/wp/uploads/2025/01/20250102_USDC_News-800x450.jpg",
-    "summary": "Augustus has raised $180 million in Series B funding at a $1 billion valuation to build the 'Global Dollar Bank', supporting both stablecoins and traditional payment rails. This funding will help Augustus expand its services, aiming to create a global banking system. The company's platform includes Swift, ACH, and SEPA payment rails, alongside stablecoin support.",
+    "content": "Bitcoin Magazine\n\nCoinbase Settles FOIA Fight With the SEC Over Gensler’s Vanished Texts\nCoinbase settled its FOIA lawsuit against the SEC after the agency admitted it destroyed former Chair Gary Gensler's text messages, securing a $150,000 payment and reforms to the SEC's record-retention policies.\nThis post Coinbase Settles FOIA Fight With the SEC Over Gensler’s Vanished Texts first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
+    "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/07/Coinbase-Settles-FOIA-Fight-With-the-SEC-Over-Genslers-Vanished-Texts.jpg",
+    "summary": "Coinbase has settled its FOIA lawsuit against the SEC, securing a $150,000 payment and reforms to the agency's record-retention policies after the SEC admitted to destroying former Chair Gary Gensler's text messages. The lawsuit was related to the SEC's handling of records. This settlement may impact future record-keeping practices at the SEC.",
     "importance": 8,
     "classified": true
   },
   {
-    "title": "Coinbase says ‘low-risk’ config change behind 50-minute July 14 outage impacting trading, card transactions",
-    "link": "https://www.theblock.co/post/409105/coinbase-says-low-risk-config-change-behind-50-minute-july-14-outage-impacting-trading-card-transactions?utm_source=rss&utm_medium=rss",
-    "pubDate": "Tue, 21 Jul 2026 11:35:21 -0400",
-    "source": "The Block",
+    "title": "VanEck: Bitcoin’s Summer Lull Masks a Tightening Supply Base",
+    "link": "https://bitcoinmagazine.com/markets/vaneck-bitcoins-summer-lull-mask",
+    "pubDate": "Wed, 22 Jul 2026 14:22:02 +0000",
+    "source": "Bitcoin Magazine",
     "category": "crypto",
-    "content": "Coinbase said user funds were never at risk, and user transactions that were stuck “in-flight” were completed once service was restored.",
-    "image": "https://www.tbstat.com/wp/uploads/2026/06/20260612_Coinbase_News_2-800x450.jpg",
-    "summary": "Coinbase experienced a 50-minute outage on July 14, impacting trading and card transactions, but user funds were never at risk. The issue was caused by a 'low-risk' configuration change. All stuck transactions were completed once service was restored.",
-    "importance": 8,
-    "classified": true
-  },
-  {
-    "title": "Telegram plans ‘largest rollout of a non-custodial crypto wallet in human history’",
-    "link": "https://www.theblock.co/post/409099/telegram-plans-largest-rollout-non-custodial-crypto-wallet-in-history?utm_source=rss&utm_medium=rss",
-    "pubDate": "Tue, 21 Jul 2026 11:20:25 -0400",
-    "source": "The Block",
-    "category": "crypto",
-    "content": "The messaging platform has long been viewed as a potential gateway for bringing a wider audience into crypto.",
-    "image": "https://www.tbstat.com/wp/uploads/2019/08/shutterstock_1022060599-675x450.jpg",
-    "summary": "Telegram plans to roll out a non-custodial crypto wallet, potentially bringing a wider audience into cryptocurrency. This move is seen as a significant step in increasing crypto adoption. The rollout is touted as the largest in human history.",
+    "content": "Bitcoin Magazine\n\nVanEck: Bitcoin’s Summer Lull Masks a Tightening Supply Base\nVanEck says Bitcoin's quiet summer trading masks a tightening supply base, with cautious derivatives and weak miner economics weighing on the near term even as long-term holders continue accumulating.\nThis post VanEck: Bitcoin’s Summer Lull Masks a Tightening Supply Base first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
+    "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/07/Bitcoin-Exchange-Inflows-Spike-to-49000-BTC-in-a-Day-Signaling-Volatility-is-Coming-Report.jpg",
+    "summary": "VanEck reports that Bitcoin's quiet summer trading period hides a tightening supply base, with long-term holders continuing to accumulate despite cautious derivatives and weak miner economics. This trend is expected to impact the near term. VanEck's analysis suggests a potential shift in Bitcoin's supply dynamics.",
     "importance": 8,
     "classified": true
   },
@@ -572,42 +596,6 @@
     "content": "Bitcoin Magazine\n\nU.S. Senator: Clarity Act is ‘Almost There,’ Treasury Secretary Puts It at the ‘1-Yard Line’\nSenate negotiators say the Clarity Act is \"almost there\" as Treasury Secretary Scott Bessent calls it the \"1-yard line,\" with lawmakers racing to pass the crypto market-structure bill before the August recess.\nThis post U.S. Senator: Clarity Act is ‘Almost There,’ Treasury Secretary Puts It at the ‘1-Yard Line’ first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
     "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/07/U.S.-Senator-Clarity-Act-is-Almost-There-Treasury-Secretary-Puts-It-at-the-1-Yard-Line.jpg",
     "summary": "The Clarity Act, a crypto market-structure bill, is nearing passage, with Senate negotiators and Treasury Secretary Scott Bessent expressing optimism about its progress. The lawmakers are racing to pass the bill before the August recess. If passed, the bill could significantly impact the crypto market.",
-    "importance": 8,
-    "classified": true
-  },
-  {
-    "title": "Bitcoin Price Closes in on $67,000, Lifting Strategy and Other Crypto Stocks",
-    "link": "https://bitcoinmagazine.com/news/bitcoin-price-67000-lifting-crypto-stocks",
-    "pubDate": "Tue, 21 Jul 2026 15:19:31 +0000",
-    "source": "Bitcoin Magazine",
-    "category": "crypto",
-    "content": "Bitcoin Magazine\n\nBitcoin Price Closes in on $67,000, Lifting Strategy and Other Crypto Stocks\nBitcoin's price jumped Tuesday to nearly $67,000 per coin, bringing crypto stocks with it. \nThis post Bitcoin Price Closes in on $67,000, Lifting Strategy and Other Crypto Stocks first appeared on Bitcoin Magazine and is written by Mathew Di Salvo.",
-    "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/07/Pics-1-1.jpg",
-    "summary": "Bitcoin's price surged to nearly $67,000 per coin, also lifting other crypto stocks. This increase indicates a positive trend in the cryptocurrency market. The rise in Bitcoin's price is likely to have a significant impact on the overall crypto market.",
-    "importance": 8,
-    "classified": true
-  },
-  {
-    "title": "U.S. Treasury Freezes $130 Million Iran-Linked IRGC Crypto Wallet, Tracks Ayatollah’s Assets",
-    "link": "https://bitcoinmagazine.com/news/bessent-says-treasury-froze-130m-iran",
-    "pubDate": "Tue, 21 Jul 2026 14:42:30 +0000",
-    "source": "Bitcoin Magazine",
-    "category": "crypto",
-    "content": "Bitcoin Magazine\n\nU.S. Treasury Freezes $130 Million Iran-Linked IRGC Crypto Wallet, Tracks Ayatollah’s Assets\nTreasury Secretary Scott Bessent said the U.S. froze a $130 million crypto wallet linked to Iran's IRGC as part of a broader effort to track and seize assets tied to Supreme Leader Ali Khamenei and increase economic pressure on Tehran.\nThis post U.S. Treasury Freezes $130 Million Iran-Linked IRGC Crypto Wallet, Tracks Ayatollah’s Assets first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
-    "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/06/U.S.-Charges-Two-Men-for-389-Million-Bitcoin-and-Crypto-Money-Laundering-Scheme-Tied-to-Dark-Web.jpg",
-    "summary": "The U.S. Treasury has frozen a $130 million crypto wallet linked to Iran's IRGC, as part of a broader effort to track and seize assets tied to Supreme Leader Ali Khamenei. This move aims to increase economic pressure on Tehran. The action is part of a larger campaign to target Iranian assets.",
-    "importance": 8,
-    "classified": true
-  },
-  {
-    "title": "Russia Passes Landmark Crypto Law, Setting State-Run Rails for Sanctioned Trade",
-    "link": "https://bitcoinmagazine.com/news/russia-passes-landmark-crypto-law",
-    "pubDate": "Tue, 21 Jul 2026 13:15:41 +0000",
-    "source": "Bitcoin Magazine",
-    "category": "crypto",
-    "content": "Bitcoin Magazine\n\nRussia Passes Landmark Crypto Law, Setting State-Run Rails for Sanctioned Trade\nRussia's parliament passed its first comprehensive crypto law, creating a state-regulated framework for exchanges and investors.\nThis post Russia Passes Landmark Crypto Law, Setting State-Run Rails for Sanctioned Trade first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
-    "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/07/Russia-Passes-Landmark-Crypto-Law-Setting-State-Run-Rails-for-Sanctioned-Trade.jpg",
-    "summary": "Russia's parliament has passed a landmark crypto law, creating a state-regulated framework for exchanges and investors, marking a significant step in the country's approach to cryptocurrency. This law sets the stage for state-run rails for sanctioned trade. The move is expected to have implications for the global crypto market.",
     "importance": 8,
     "classified": true
   },
@@ -768,14 +756,14 @@
     "classified": true
   },
   {
-    "title": "OpenAI is scared of open-weight models. Should the US be?",
-    "link": "https://techcrunch.com/2026/07/20/openai-is-scared-of-open-weight-models-should-the-us-be/",
-    "pubDate": "Mon, 20 Jul 2026 19:33:25 +0000",
-    "source": "TechCrunch AI",
+    "title": "AMD commits up to $5 billion to  Anthropic",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/969285/amd-anthropic-ai-infrastructure-deal",
+    "pubDate": "2026-07-22T14:44:27.000Z",
+    "source": "The Verge AI",
     "category": "ai",
-    "content": "Talk of banning Chinese-made open-weight LLMs reveals the challenge of  turning AI into a business.",
-    "image": "",
-    "summary": "OpenAI is concerned about open-weight models, particularly those made in China, which poses a challenge in turning AI into a business. The US is considering banning these models, highlighting the complexities of AI development and regulation. This issue reveals the tension between open-source AI models and commercialization.",
+    "content": "AMD says it's going to invest up to $5 billion in Anthropic, while helping to expand the AI company's computing power, according to an announcement on Wednesday. As part of the new partnership, Anthropic will deploy up to 2 gigawatts of AMD's Instinct MI450 AI GPUs using the chipmaker's new Helios rack-scale system, as reported earlier by The Wall Street Journal.\nThe companies plan to deploy the first gigawatt in the first half of 2027, building upon recent data center deals Anthropic has reached with SpaceX and TeraWulf. Anthropic has also signed AI infrastructure deals with Google, Broadcom, and Amazon, with rumors suggesting that it coul …\nRead the full story at The Verge.",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/acastro_STK081_amd_02.jpg.webp?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "summary": "AMD is investing up to $5 billion in Anthropic, an AI company, to help expand its computing power. As part of the deal, Anthropic will deploy up to 2 gigawatts of AMD's AI GPUs. The companies plan to deploy the first gigawatt in the first half of 2027.",
     "importance": 8,
     "classified": true
   },
@@ -864,19 +852,7 @@
     "classified": true
   },
   {
-    "title": "Here are the 30,000 songs Sony is suing Udio&#8217;s AI music generator over",
-    "link": "https://www.theverge.com/tech/968375/sony-udio-lawsuit-songs-ai-copyright",
-    "pubDate": "2026-07-20T22:19:12.000Z",
-    "source": "The Verge AI",
-    "category": "both",
-    "content": "Sony Music Entertainment has filed another lawsuit against Udio, accusing the AI music generator of infringing the copyright of more than 30,000 of its songs, ranging from Elvis Presley's Hound Dog to Beyoncé's Say My Name, and Harry Styles' As It Was. The lawsuit, filed in a New York court on Monday, claims that this list represents \"only a small portion of Plaintiffs' works that Udio infringed,\" as reported earlier by Music Business Worldwide.\nIn 2024, Sony, along with Universal Music Group and Warner Records, filed a lawsuit against Udio and the AI music-maker Suno. After gaining access to Udio's training data through discovery, Sony cla …\nRead the full story at The Verge.",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK467_AI_MUSIC_CVirginia_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "summary": "Sony Music Entertainment has filed a lawsuit against Udio, an AI music generator, for copyright infringement of over 30,000 songs, including works by Elvis Presley, Beyoncé, and Harry Styles. The lawsuit claims this is only a small portion of the infringed works. Sony had previously filed a lawsuit against Udio and another AI music-maker in 2024.",
-    "importance": 8,
-    "classified": true
-  },
-  {
-    "title": "US Army faces AI use limits after exhausting year's supply of AI tokens",
+    "title": "Unlimited AI tokens aren't unlimited after all as US Army burns through supply",
     "link": "https://arstechnica.com/ai/2026/07/us-army-faces-ai-use-limits-after-exhausting-years-supply-of-ai-tokens/",
     "pubDate": "Wed, 22 Jul 2026 13:35:17 +0000",
     "source": "Ars Technica AI",
@@ -1032,6 +1008,30 @@
     "classified": true
   },
   {
+    "title": "Revolut hits $115 billion valuation in employee share sale: WSJ",
+    "link": "https://www.coindesk.com/business/2026/07/22/revolut-hits-usd115-billion-valuation-in-employee-share-sale-wsj",
+    "pubDate": "Wed, 22 Jul 2026 15:53:54 +0000",
+    "source": "CoinDesk",
+    "category": "both",
+    "content": "The company reported strong 2025 performance, with a $2.3 billion pre-tax profit, $6 billion in revenue, and over 75 million customers.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/3cd4d678c4ba0e042e13fafc6c1f01fa2cef3847-1420x916.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "Revolut has achieved a $115 billion valuation through an employee share sale, as reported by the Wall Street Journal. The company showcased robust performance in 2025, with $2.3 billion in pre-tax profit, $6 billion in revenue, and over 75 million customers.",
+    "importance": 7,
+    "classified": true
+  },
+  {
+    "title": "U.S. seeks forfeiture of $25 million in crypto tied to romance and investment scams",
+    "link": "https://www.coindesk.com/policy/2026/07/22/u-s-seeks-forfeiture-of-usd25-million-in-crypto-tied-to-romance-and-investment-scams",
+    "pubDate": "Wed, 22 Jul 2026 13:45:58 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "The cases add to more than $800 million that authorities say a dedicated federal scam task force has recovered.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/daff9ba693e030b0bf954a2c3bd97fd9395cc604-1920x1403.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "The U.S. government is seeking the forfeiture of $25 million in cryptocurrency linked to romance and investment scams. This action is part of broader efforts by a federal scam task force, which has already recovered over $800 million from various illicit schemes.",
+    "importance": 7,
+    "classified": true
+  },
+  {
     "title": "Midnight token rebounds 19% after Wanchain bridge hack, Hoskinson calls for ZK revamp",
     "link": "https://www.coindesk.com/business/2026/07/22/midnight-token-rebounds-after-wanchain-bridge-hack-hoskinson-calls-for-industry-overhaul",
     "pubDate": "Wed, 22 Jul 2026 11:45:42 +0000",
@@ -1064,18 +1064,6 @@
     "content": "The White House has circulated some details of the conflict-of-interest limits the president agreed to with Republican negotiators, but talks are still underway.",
     "image": "https://cdn.sanity.io/images/s3y3vcno/production/0615c820bc3ebcfa10bf4c09cfc6078f828a1a6e-3830x2154.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
     "summary": "The Crypto Clarity Act's progress is currently stalled due to an ethics section, with Democrats objecting to a deal reached by Trump and Republican negotiators. Details regarding conflict-of-interest limits have been circulated by the White House, but negotiations are ongoing.",
-    "importance": 7,
-    "classified": true
-  },
-  {
-    "title": "Jack Mallers steps down as XXI Capital CEO as Tether's plans to merge three bitcoin firms falls",
-    "link": "https://www.coindesk.com/business/2026/07/21/jack-mallers-steps-down-as-xxi-capital-ceo-as-tether-s-plans-to-merge-three-bitcoin-firms-falls",
-    "pubDate": "Tue, 21 Jul 2026 12:42:29 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "The proposed three-way merger between Twenty One Capital, Mallers' Strike, and Elektron Energy has been abandoned.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/d28774f95e737c0f3694213976a58132ddb7b6fd-720x406.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "The proposed three-way merger between Twenty One Capital, Jack Mallers' Strike, and Elektron Energy has been abandoned. This development coincides with Jack Mallers stepping down as CEO of XXI Capital.",
     "importance": 7,
     "classified": true
   },
@@ -1128,14 +1116,14 @@
     "classified": true
   },
   {
-    "title": "MoneyGram's CEO says blockchain works best when customers don't know it's there",
-    "link": "https://www.coindesk.com/tech/2026/07/17/moneygram-s-ceo-says-blockchain-works-best-when-customers-don-t-know-it-s-there",
-    "pubDate": "Tue, 21 Jul 2026 13:38:13 +0000",
-    "source": "CoinDesk",
+    "title": "Bitcoin price avoids major Iran jitters as S&P 500 ‘short squeeze’ on horizon",
+    "link": "https://cointelegraph.com/markets/bitcoin-price-avoids-major-iran-jitters-as-sp-500-short-squeeze-on-horizon?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Wed, 22 Jul 2026 15:55:20 +0000",
+    "source": "Cointelegraph",
     "category": "crypto",
-    "content": "In an interview with CoinDesk, MoneyGram CEO Anthony Soohoo said that their blockchain strategy has evolved from early experimentation into a broader effort to modernize the company's global payments infrastructure.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/d7959f555e24e90cf0a41c4677d90edb55b5cd06-2048x1152.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "MoneyGram's CEO, Anthony Soohoo, stated that the company's blockchain strategy has shifted from experimentation to modernizing its global payments infrastructure, with a focus on seamless integration. The goal is to utilize blockchain without the customer being aware of its presence. This approach aims to improve the overall payment experience.",
+    "content": "Bitcoin and US stocks stayed strong in the face of US-Iran escalation as analysis predicted BTC price action outperforming equities later.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-crypto-users-in-iran-we-talk-to-industry-participants.jpg",
+    "summary": "Bitcoin price remains strong despite US-Iran escalation, with predictions that it will outperform US stocks. The S&P 500 is expected to experience a short squeeze. Bitcoin's resilience suggests its price may be less affected by geopolitical tensions than traditional assets.",
     "importance": 6,
     "classified": true
   },
@@ -1248,14 +1236,38 @@
     "classified": true
   },
   {
-    "title": "Tether-backed Twenty One, Strike merger plan scrapped: Bloomberg",
-    "link": "https://cointelegraph.com/news/tether-twenty-one-strike-merger-plan-scrapped-bloomberg?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Tue, 21 Jul 2026 12:29:25 +0000",
-    "source": "Cointelegraph",
+    "title": "Benchmark lowers Coinbase earnings estimates but says Clarity Act could eclipse weak second quarter",
+    "link": "https://www.theblock.co/post/409390/benchmark-lowers-coinbase-earnings-estimates-clarity-act-eclipse-weak-quarter?utm_source=rss&utm_medium=rss",
+    "pubDate": "Wed, 22 Jul 2026 11:03:42 -0400",
+    "source": "The Block",
     "category": "crypto",
-    "content": "Strike will remain a standalone company after the proposed three-way merger was scrapped, while Twenty One Capital and Elektron continue discussions, Bloomberg reported.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-new-cryptoasset-reporting-framework-carf-what-investors-should-know-bitcoin-tether.jpg",
-    "summary": "A proposed three-way merger between Strike, Twenty One Capital, and Elektron has been scrapped, with Strike opting to remain a standalone company. Bloomberg reported that Twenty One Capital and Elektron are continuing their own discussions. This development impacts the cryptocurrency sector, particularly as Twenty One Capital is Tether-backed.",
+    "content": "Coinbase trading activity stabilized in June after crypto spot volumes slumped throughout most of the quarter.",
+    "image": "https://www.tbstat.com/wp/uploads/2023/03/20230306_Coinbase_News-800x450.jpg",
+    "summary": "Coinbase experienced a slump in crypto spot volumes during the second quarter, but trading activity stabilized in June. Benchmark has lowered its earnings estimates for Coinbase. The Clarity Act could potentially impact Coinbase's performance despite a weak second quarter.",
+    "importance": 6,
+    "classified": true
+  },
+  {
+    "title": "Polymarket ‘surprised’ France blocked site as information source, plans legal challenge",
+    "link": "https://www.theblock.co/post/409395/polymarket-surprised-france-blocked-site-information-source-plans-legal-challenge?utm_source=rss&utm_medium=rss",
+    "pubDate": "Wed, 22 Jul 2026 10:59:00 -0400",
+    "source": "The Block",
+    "category": "crypto",
+    "content": "Last week, the ANJ ordered French internet service providers to block access to Polymarket ahead of the World Cup final.",
+    "image": "https://www.tbstat.com/wp/uploads/2024/11/20241111_Polymarket_News_2-800x450.jpg",
+    "summary": "Polymarket's website was blocked in France by the ANJ, and the company plans to challenge this decision legally. The blockage occurred ahead of the World Cup final, with Polymarket reportedly being used as an information source for betting. Polymarket expressed surprise at the move.",
+    "importance": 6,
+    "classified": true
+  },
+  {
+    "title": "‘Optimistic signals’ meet a $68,000 wall as bitcoin’s recovery faces its next test: analysts",
+    "link": "https://www.theblock.co/post/409398/optimistic-signals-meet-68000-wall-bitcoin-recovery-faces-next-test-analysts?utm_source=rss&utm_medium=rss",
+    "pubDate": "Wed, 22 Jul 2026 10:55:18 -0400",
+    "source": "The Block",
+    "category": "crypto",
+    "content": "Bitcoin holds above $65,800 as spot ETFs log a sixth day of inflows. Bitfinex analysts flag $68K resistance as the next test.",
+    "image": "https://www.tbstat.com/wp/uploads/2026/04/20260410_Bitcoin_News_2-800x450.jpg",
+    "summary": "Bitcoin's recovery is facing its next test as it holds above $65,800 with spot ETFs logging a sixth day of inflows, according to analysts. The cryptocurrency is approaching a resistance level of $68,000. Analysts are watching to see if bitcoin can break through this level.",
     "importance": 6,
     "classified": true
   },
@@ -1284,7 +1296,7 @@
     "classified": true
   },
   {
-    "title": "RippleX sees XRP Ledger agentic transactions hitting 10-million mark soon",
+    "title": "Ripple sees XRP Ledger agentic transactions hitting 10-million mark soon",
     "link": "https://www.theblock.co/post/408987/ripplex-sees-xrp-ledger-agentic-transactions-hitting-10-million-mark-soon?utm_source=rss&utm_medium=rss",
     "pubDate": "Tue, 21 Jul 2026 14:47:21 -0400",
     "source": "The Block",
@@ -1292,42 +1304,6 @@
     "content": "Ripple recently joined x402 Foundation, serving as a premier member alongside Coinbase, Circle, and Visa.",
     "image": "https://www.tbstat.com/wp/uploads/2026/01/20260108_Ripple_News_3-800x450.jpg",
     "summary": "Ripple has joined the x402 Foundation as a premier member, alongside other major companies like Coinbase and Visa, and is expecting a significant milestone of 10 million XRP Ledger agentic transactions soon. This development may enhance the growth and adoption of XRP. Ripple's involvement with x402 Foundation could lead to expanded use cases for its technology.",
-    "importance": 6,
-    "classified": true
-  },
-  {
-    "title": "Solana, Hyperliquid ETFs dominate altcoin fund flows despite flying under the radar",
-    "link": "https://www.theblock.co/post/408963/solana-hyperliquid-etfs-dominate-altcoin-fund-flows-despite-flying-under-the-radar?utm_source=rss&utm_medium=rss",
-    "pubDate": "Tue, 21 Jul 2026 14:06:01 -0400",
-    "source": "The Block",
-    "category": "crypto",
-    "content": "Solana ETFs boast an impressive $904 million AUM, while the Hyperliquid funds have $350 million in net inflows.",
-    "image": "https://www.tbstat.com/wp/uploads/2023/10/20230810_Solana_News-800x450.jpg",
-    "summary": "Solana and Hyperliquid ETFs have seen significant investment, with Solana boasting $904 million in assets under management and Hyperliquid funds experiencing $350 million in net inflows. This suggests a growing interest in these altcoins. The investment in these funds indicates a notable shift in the market.",
-    "importance": 6,
-    "classified": true
-  },
-  {
-    "title": "Bitget plans US expansion ‘with or without’ Clarity Act, CEO says",
-    "link": "https://www.theblock.co/post/409100/bitget-plans-us-expansion-with-without-clarity-act-ceo-says?utm_source=rss&utm_medium=rss",
-    "pubDate": "Tue, 21 Jul 2026 12:11:41 -0400",
-    "source": "The Block",
-    "category": "crypto",
-    "content": "Bitget CEO Gracy Chen is leading the crypto exchange's push into the U.S. after initially shelving expansion plans in 2022.",
-    "image": "https://www.tbstat.com/wp/uploads/2023/09/20230911_Bitget_News-800x450.jpg",
-    "summary": "Bitget, a crypto exchange, is planning to expand into the US, led by CEO Gracy Chen, despite initial plans being shelved in 2022. The expansion will proceed with or without the Clarity Act. This move indicates the company's commitment to entering the US market.",
-    "importance": 6,
-    "classified": true
-  },
-  {
-    "title": "Uphold launches fractional share trading in US for more than 4,000 stocks and ETFs",
-    "link": "https://www.theblock.co/post/409087/uphold-launches-fractional-share-trading-4000-stocks-and-etfs?utm_source=rss&utm_medium=rss",
-    "pubDate": "Tue, 21 Jul 2026 12:08:50 -0400",
-    "source": "The Block",
-    "category": "both",
-    "content": "“Uphold customers can now sell Bitcoin to buy Berkshire Hathaway shares in a single step on the app,\" the company's U.S. president said.",
-    "image": "https://www.tbstat.com/wp/uploads/2022/06/20220601_Daily-Stock-Report-800x450.jpg",
-    "summary": "Uphold has launched fractional share trading for over 4,000 stocks and ETFs in the US, allowing users to invest in companies like Berkshire Hathaway. This service enables customers to sell Bitcoin and buy stocks in a single step on the app. The move expands Uphold's investment offerings beyond cryptocurrency.",
     "importance": 6,
     "classified": true
   },
@@ -1536,6 +1512,18 @@
     "classified": true
   },
   {
+    "title": "Crypto Long & Short: The crypto question isn't what to own — it's what you can survive holding",
+    "link": "https://www.coindesk.com/coindesk-indices/2026/07/22/crypto-long-and-short-the-crypto-question-isn-t-what-to-own-it-s-what-you-can-survive-holding",
+    "pubDate": "Wed, 22 Jul 2026 15:09:47 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "In this week's Crypto Long & Short, Lionsoul Global’s Gregory Mall writes that the primary crypto allocation decision is size, not selection.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/4f8f6d1e4c3c206e95b1ee4a8c8f73a1353d044a-3656x1928.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "This week's Crypto Long & Short features Gregory Mall of Lionsoul Global, who argues that the most important decision in crypto allocation is the size of the investment one can survive holding, rather than the specific assets to own. This highlights a focus on risk management over asset selection.",
+    "importance": 4,
+    "classified": true
+  },
+  {
     "title": "Here’s what happened in crypto today",
     "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "pubDate": "Wed, 22 Jul 2026 12:54:29 +0000",
@@ -1677,6 +1665,18 @@
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2216100332-1024x648.jpg",
     "summary": "San Francisco has ordered Apple and Google to remove nudify apps from their app stores, with estimates suggesting the tech giants made millions in fees from these apps. The move is aimed at addressing concerns over the apps' content. The decision may impact the companies' revenue streams.",
     "importance": 2,
+    "classified": true
+  },
+  {
+    "title": "New Clarity Act emerges that's a start on the final draft, makes ethics rule temporary",
+    "link": "https://www.coindesk.com/policy/2026/07/22/new-clarity-act-emerges-that-s-a-start-on-the-final-draft-makes-ethics-rule-temporary",
+    "pubDate": "Wed, 22 Jul 2026 16:15:55 +0000",
+    "source": "CoinDesk",
+    "category": "ai",
+    "content": "Lawmakers have circulated text of the latest draft that will be pushed toward a Senate finish line, but they're still debating a core government-ethics piece.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/6e4532d237786704984596878a883a023b94ba32-4540x2554.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "Lawmakers have circulated a new draft of the Clarity Act, moving it towards a Senate vote. A key government-ethics provision in the act remains under debate, having been made temporary in this latest version.",
+    "importance": 1,
     "classified": true
   },
   {
