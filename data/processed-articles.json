@@ -12,6 +12,30 @@
     "classified": true
   },
   {
+    "title": "Forget Nvidia: The next big AI trade could be crypto and blockchain",
+    "link": "https://www.coindesk.com/markets/2026/07/21/forget-nvidia-the-next-big-ai-trade-could-be-crypto-and-blockchain",
+    "pubDate": "Wed, 22 Jul 2026 13:32:40 +0000",
+    "source": "CoinDesk",
+    "category": "both",
+    "content": "Franklin Templeton’s Sandy Kaul and Circle CEO Jeremy Allaire argue that as autonomous AI agents start spending money on their own, blockchain networks will power the next big AI trade.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/96bbe9e12b2e4da79cfa5e40a46731c32052eee2-7000x4000.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "Franklin Templeton's Sandy Kaul and Circle CEO Jeremy Allaire predict that blockchain networks will facilitate the next major AI trade as autonomous AI agents begin to manage their own finances. They argue that this shift will make crypto and blockchain crucial infrastructure, moving the focus beyond AI hardware providers like Nvidia.",
+    "importance": 9,
+    "classified": true
+  },
+  {
+    "title": "SecondFi to shut down after $2.4 million ADA wallet theft",
+    "link": "https://www.coindesk.com/web3/2026/07/22/secondfi-to-shut-down-after-usd2-4-million-ada-wallet-theft",
+    "pubDate": "Wed, 22 Jul 2026 11:10:27 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "The breach stemmed from a vulnerability in transaction signing software that enabled the derivation of private keys from blockchain transaction data.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/eeb54516a3b0a19f03d51ee5552619fa13b3be71-1920x1440.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "SecondFi is shutting down following a $2.4 million ADA wallet theft. The breach was caused by a vulnerability in transaction signing software that allowed private keys to be derived from blockchain transaction data.",
+    "importance": 8,
+    "classified": true
+  },
+  {
     "title": "Kraken parent expands tokenized stocks to Hong Kong, UK and South Korea equities",
     "link": "https://www.coindesk.com/business/2026/07/22/kraken-parent-expands-tokenized-stocks-to-hong-kong-uk-and-south-korea-equities",
     "pubDate": "Wed, 22 Jul 2026 10:30:00 +0000",
@@ -36,13 +60,13 @@
     "classified": true
   },
   {
-    "title": "Live updates: Bitcoin under $66,000 as traders await Alphabet earnings to gauge AI trade",
+    "title": "Live updates: Bitcoin slips under $66,000 as oil's surge sacks strength from risk markets",
     "link": "https://www.coindesk.com/tech/2026/07/22/live-updates-bitcoin-under-usd66-000-as-traders-await-alphabet-earnings-to-gauge-ai-trade",
     "pubDate": "Wed, 22 Jul 2026 08:13:28 +0000",
     "source": "CoinDesk",
     "category": "both",
-    "content": "A two-day chip rebound stalled ahead of Alphabet's earnings in a sign of whether the hundreds of billions going into AI is paying off. Bitcoin has tracked that trade all month.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/9170b2f9e2845146e52d22db724335def73a0a8f-1500x1000.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "content": "Later on Wednesday, Alphabet's earnings should give a sign of whether the hundreds of billions going into AI is paying off.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/6fd91e9cd76fa0d833c533e88f3ff9c95e06f932-2836x1482.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
     "summary": "Bitcoin is trading under $66,000 as investors await Alphabet's earnings report to assess the profitability of hundreds of billions invested in AI. The cryptocurrency has tracked this 'AI trade' throughout the month, with a recent chip rebound stalling ahead of the anticipated earnings.",
     "importance": 8,
     "classified": true
@@ -168,26 +192,74 @@
     "classified": true
   },
   {
-    "title": "UK Parliament begins inquiry into banking chokepoint for crypto businesses",
-    "link": "https://www.coindesk.com/policy/2026/07/21/uk-parliamentary-group-begins-inquiry-into-banking-chokepoint-for-crypto-businesses",
-    "pubDate": "Tue, 21 Jul 2026 06:15:26 +0000",
-    "source": "CoinDesk",
+    "title": "The digital euro: Surveillance money, or a better alternative to cash?",
+    "link": "https://cointelegraph.com/magazine/what-is-the-digital-euro-all-you-need-to-know-about-europes-cbdc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Wed, 22 Jul 2026 13:30:00 +0000",
+    "source": "Cointelegraph",
     "category": "crypto",
-    "content": "The U.K.’s Crypto and Digital Assets All-Party Parliamentary Group (APPG) is focused on banks that refused crypto firms accounts or introduced restrictions on crypto transactions.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/571ae33e4cfce80ac044450958aa18d0aa2566cc-1500x1000.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "The UK Parliament's Crypto and Digital Assets All-Party Parliamentary Group (APPG) has launched an inquiry. This investigation targets banks that have refused to provide accounts to crypto firms or have imposed restrictions on crypto-related transactions. The move addresses a significant \"chokepoint\" issue faced by the cryptocurrency industry in the UK.",
+    "content": "Proponents of the digital euro say its a better alternative to cash that’s fully backed by the ECB. But critics argue it could provide the EU with too much power over its citizens.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-the-digital-euro.jpg",
+    "summary": "The article discusses the controversial nature of the proposed digital euro, a central bank digital currency. Proponents view it as a superior, ECB-backed alternative to physical cash, while critics express significant concerns about its potential for government surveillance and increased state power over citizens.",
     "importance": 8,
     "classified": true
   },
   {
-    "title": "Inside Cardano's 'Van Rossum' hard fork, and what it means for users",
-    "link": "https://www.coindesk.com/markets/2026/07/20/inside-cardano-s-van-rossum-hard-fork-and-what-it-means-for-users",
-    "pubDate": "Mon, 20 Jul 2026 14:31:23 +0000",
-    "source": "CoinDesk",
+    "title": "Franklin Templeton calls agentic AI next ‘killer’ use case for blockchain",
+    "link": "https://cointelegraph.com/news/agentic-ai-killer-use-case-blockchain-franklin-templeton?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Wed, 22 Jul 2026 13:18:50 +0000",
+    "source": "Cointelegraph",
+    "category": "both",
+    "content": "Franklin Templeton’s digital assets lead said that the autonomous AI agent economy will increase demand for blockchain protocols hosting machine-to-machine micropayments.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-how-to-develop-an-ai-agent-for-crypto-trading.jpg",
+    "summary": "Franklin Templeton's digital assets lead predicts that agentic AI will be a major use case for blockchain, driving demand for protocols that support machine-to-machine micropayments. This is expected to boost the autonomous AI agent economy. The intersection of AI and blockchain is seen as a significant opportunity.",
+    "importance": 8,
+    "classified": true
+  },
+  {
+    "title": "Bitcoin analysis eyes ‘serious volume’ after Binance sees 9K BTC daily outflow",
+    "link": "https://cointelegraph.com/markets/bitcoin-analysis-eyes-serious-volume-after-binance-sees-9k-btc-daily-outflow?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Wed, 22 Jul 2026 11:55:21 +0000",
+    "source": "Cointelegraph",
     "category": "crypto",
-    "content": "The Van Rossem hard fork moved Cardano to version 11 on Saturday. And for the first time, Cardano's community voted in the upgrade, not the company that built it.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/bce1c7ed442ff020907048f3be45f5d93bba5bd3-3499x1968.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "Cardano successfully implemented its 'Van Rossum' hard fork on Saturday, upgrading the platform to version 11. This hard fork marks a significant milestone as it was the first time the Cardano community, rather than the developing company, voted on the upgrade.",
+    "content": "Binance set multimonth records for net BTC outflows on Tuesday, adding to an emerging trend of positive inflows to the US spot Bitcoin ETFs.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-quantitative-easing-to-increase-btc-price-2.jpg",
+    "summary": "Binance saw a record 9K BTC daily outflow on Tuesday, with net outflows reaching multimonth highs, while US spot Bitcoin ETFs experienced positive inflows. This trend may indicate a significant shift in Bitcoin holdings. The outflow from Binance could lead to increased trading volume.",
+    "importance": 8,
+    "classified": true
+  },
+  {
+    "title": "Zilliqa Ledger app vulnerability lets attackers recover signer’s private keys",
+    "link": "https://cointelegraph.com/news/zilliqa-ledger-vulnerability-attackers-recover-private-keys?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Wed, 22 Jul 2026 11:49:53 +0000",
+    "source": "Cointelegraph",
+    "category": "crypto",
+    "content": "A security vulnerability in the Zilliqa Ledger app is enabling attackers to reconstruct private keys using publicly available onchain data.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-crypto-hacking.jpg",
+    "summary": "A vulnerability in the Zilliqa Ledger app allows attackers to recover a signer's private keys using publicly available on-chain data. This puts users' funds at risk and highlights a significant security concern. The issue is related to the app's handling of private key storage.",
+    "importance": 8,
+    "classified": true
+  },
+  {
+    "title": "US seeks forfeiture of $25M in crypto tied to romance, investment scams ",
+    "link": "https://cointelegraph.com/news/doj-25m-crypto-forfeiture-romance-investment-scams?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Wed, 22 Jul 2026 11:32:40 +0000",
+    "source": "Cointelegraph",
+    "category": "crypto",
+    "content": "US prosecutors are seeking more than $25 million in cryptocurrency allegedly connected to international fraud and laundering networks.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-the-things-the-dojs-latest-move-again-crypto-have-taught-us-about.jpg",
+    "summary": "US prosecutors are seeking to forfeit over $25 million in cryptocurrency tied to international romance and investment scams. The funds are allegedly connected to fraud and laundering networks. The case highlights the use of cryptocurrency in illicit activities.",
+    "importance": 8,
+    "classified": true
+  },
+  {
+    "title": "Crypto institutions look beyond audits as trust signals falter: Hacken",
+    "link": "https://cointelegraph.com/news/institutions-crypto-security-beyond-audits-hacken-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Wed, 22 Jul 2026 11:00:00 +0000",
+    "source": "Cointelegraph",
+    "category": "crypto",
+    "content": "Institutional due diligence is shifting toward continuous monitoring, signer controls and incident readiness after operational failures accounted for most crypto losses.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-world-bank-blockchain-initiatives1.jpg",
+    "summary": "Crypto institutions are moving beyond audits to build trust, focusing on continuous monitoring and incident readiness due to operational failures being a major cause of losses. This shift is driven by the need for more robust security measures. Institutional due diligence is evolving to address these concerns.",
     "importance": 8,
     "classified": true
   },
@@ -324,50 +396,14 @@
     "classified": true
   },
   {
-    "title": "More MiCA-licensed crypto firms may exit EU market: Gate Europe CEO",
-    "link": "https://cointelegraph.com/news/mica-licensed-crypto-firms-eu-market-gate-europe-ceo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Tue, 21 Jul 2026 11:58:02 +0000",
-    "source": "Cointelegraph",
+    "title": "Zilliqa halts native transactions over bug in its Ledger app dating to 2019",
+    "link": "https://www.theblock.co/post/409383/zilliqa-halts-native-transactions-over-bug-in-its-ledger-app-dating-to-2019?utm_source=rss&utm_medium=rss",
+    "pubDate": "Wed, 22 Jul 2026 08:39:11 -0400",
+    "source": "The Block",
     "category": "crypto",
-    "content": "Gate Europe’s Giovanni Cunti says some MiCA-licensed crypto firms may struggle to sustain compliance costs as Europe enters its new regulatory era.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-what-is-mica-markets-in-crypto-assets-regulation-1.jpg",
-    "summary": "Gate Europe's CEO, Giovanni Cunti, predicts that some MiCA-licensed crypto firms may exit the European market. This is due to the potential struggle to sustain compliance costs under Europe's new regulatory framework.",
-    "importance": 8,
-    "classified": true
-  },
-  {
-    "title": "Russian parliament passes law regulating crypto market ",
-    "link": "https://cointelegraph.com/news/russias-parliament-passes-law-regulating-crypto-market?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Tue, 21 Jul 2026 11:49:30 +0000",
-    "source": "Cointelegraph",
-    "category": "crypto",
-    "content": "The State Duma legislation creates a regulated framework for crypto market participants and now moves to President Vladimir Putin for his signature before becoming law.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/russia-bitcoin.jpg",
-    "summary": "The Russian parliament has passed a law to regulate the crypto market, which will create a framework for participants and is awaiting President Vladimir Putin's signature. This law aims to provide a regulated environment for cryptocurrency activities. The legislation's approval marks a significant step towards formalizing Russia's crypto industry.",
-    "importance": 8,
-    "classified": true
-  },
-  {
-    "title": "UK parliamentary group probes banking barriers for crypto firms",
-    "link": "https://cointelegraph.com/news/uk-inquiry-banking-barriers-crypto-firms?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Tue, 21 Jul 2026 08:51:06 +0000",
-    "source": "Cointelegraph",
-    "category": "crypto",
-    "content": "A UK parliamentary group launched an inquiry into banking restrictions on crypto firms and consumers, including their impact on investment and competition.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/blockchainweek2020uk1.jpg",
-    "summary": "A UK parliamentary group has launched an inquiry into the banking restrictions faced by cryptocurrency firms and consumers. This investigation aims to understand the impact of these barriers on investment and competition within the UK's crypto sector.",
-    "importance": 8,
-    "classified": true
-  },
-  {
-    "title": "Base’s 1:1-backed tokenized equities launch ‘imminent,’ Pollak says",
-    "link": "https://cointelegraph.com/news/bases-tokenized-equities-imminent-pollak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Tue, 21 Jul 2026 07:06:12 +0000",
-    "source": "Cointelegraph",
-    "category": "crypto",
-    "content": "The Coinbase-backed Ethereum layer-2 is preparing to expand its financial offerings as it pivots away from its earlier social-first strategy.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-what-is-base-coinbase-l2-network-2.jpg",
-    "summary": "Coinbase-backed Ethereum layer-2 Base is imminently launching 1:1-backed tokenized equities. This strategic move signals a pivot away from its earlier social-first approach towards expanding its financial offerings within the crypto ecosystem.",
+    "content": "Zilliqa halted native transactions after revealing a bug in its Ledger app dating to 2019 that exposed private keys via onchain signatures.",
+    "image": "https://www.tbstat.com/wp/uploads/2025/09/buy-hacks-security-800x450.jpg",
+    "summary": "Zilliqa has halted native transactions due to a bug in its Ledger app that has been present since 2019, which exposes private keys via on-chain signatures. This bug is significant as it affects the security of user funds. The issue is being addressed to prevent potential losses.",
     "importance": 8,
     "classified": true
   },
@@ -576,18 +612,6 @@
     "classified": true
   },
   {
-    "title": "Galaxy (GLXY) Commits $5 Million to Prepare Bitcoin for the Quantum Threat",
-    "link": "https://bitcoinmagazine.com/news/galaxy-glxy-commits-5-million",
-    "pubDate": "Tue, 21 Jul 2026 12:54:28 +0000",
-    "source": "Bitcoin Magazine",
-    "category": "crypto",
-    "content": "Bitcoin Magazine\n\nGalaxy (GLXY) Commits $5 Million to Prepare Bitcoin for the Quantum Threat\nGalaxy Digital launched a Bitcoin Quantum Readiness Initiative to help prepare the Bitcoin network for the potential threat posed by powerful quantum computers.\nThis post Galaxy (GLXY) Commits $5 Million to Prepare Bitcoin for the Quantum Threat first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
-    "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/07/Galaxy-GLXY-Commits-5-Million-to-Prepare-Bitcoin-for-the-Quantum-Threat.jpg",
-    "summary": "Galaxy Digital has committed $5 million to prepare the Bitcoin network for potential threats from quantum computers through its Bitcoin Quantum Readiness Initiative. This initiative aims to address the risk that powerful quantum computers could pose to the security of the Bitcoin network. The move highlights growing concerns about the impact of quantum computing on cryptocurrency security.",
-    "importance": 8,
-    "classified": true
-  },
-  {
     "title": "The Download: AI hiring biases, and weather data sabotage",
     "link": "https://www.technologyreview.com/2026/07/20/1140664/the-download-ai-hiring-biases-weather-data-sabotage/",
     "pubDate": "Mon, 20 Jul 2026 12:10:00 +0000",
@@ -612,14 +636,14 @@
     "classified": true
   },
   {
-    "title": "The Download: OpenAI unveils GPT-Red and heat pumps rise in the US",
-    "link": "https://www.technologyreview.com/2026/07/16/1140600/the-download-openai-unveils-gpt-red-heat-pumps-rise-us/",
-    "pubDate": "Thu, 16 Jul 2026 12:10:00 +0000",
-    "source": "MIT Technology Review",
+    "title": "Glow emerges from stealth at $1.2B valuation to challenge endpoint security in the AI era",
+    "link": "https://techcrunch.com/2026/07/22/glow-emerges-from-stealth-at-1-2b-valuation-to-challenge-endpoint-security-in-the-ai-era/",
+    "pubDate": "Wed, 22 Jul 2026 10:00:00 +0000",
+    "source": "TechCrunch AI",
     "category": "ai",
-    "content": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Meet GPT-Red: an LLM super-hacker OpenAI built to make its models safer OpenAI has built an LLM super-hacker called GPT-Red that it uses as a sparring partner to help its other…",
-    "image": "https://wp.technologyreview.com/wp-content/uploads/2024/12/bed.jpg?w=2724",
-    "summary": "OpenAI has developed GPT-Red, a large language model designed to test and improve the safety of its other models by acting as a sparring partner. This innovation aims to enhance the security and reliability of OpenAI's technologies. GPT-Red is used to simulate hacking attempts and identify potential vulnerabilities.",
+    "content": "Glow is targeting a new class of endpoint risks created by the rapid adoption of AI agents and developer tools inside enterprises.",
+    "image": "",
+    "summary": "Glow emerges from stealth with a $1.2B valuation, aiming to challenge endpoint security in the AI era. The company targets new endpoint risks created by the adoption of AI agents and developer tools in enterprises. This marks a significant development in the cybersecurity space.",
     "importance": 8,
     "classified": true
   },
@@ -852,6 +876,18 @@
     "classified": true
   },
   {
+    "title": "US Army faces AI use limits after exhausting year's supply of AI tokens",
+    "link": "https://arstechnica.com/ai/2026/07/us-army-faces-ai-use-limits-after-exhausting-years-supply-of-ai-tokens/",
+    "pubDate": "Wed, 22 Jul 2026 13:35:17 +0000",
+    "source": "Ars Technica AI",
+    "category": "ai",
+    "content": "Troops received an email informing them that they were rapidly depleting their AI tokens.",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/armymen-1152x648.jpg",
+    "summary": "The US Army is facing limits on its use of AI due to rapid depletion of AI tokens, with troops being informed via email. The army has exhausted its year's supply, prompting restrictions on AI usage. This development highlights the growing reliance on AI in military operations.",
+    "importance": 8,
+    "classified": true
+  },
+  {
     "title": "Anthropic’s $1.5B copyright settlement approved; only 350 authors opted out",
     "link": "https://arstechnica.com/tech-policy/2026/07/judge-approves-anthropics-1-5-billion-copyright-settlement-with-authors/",
     "pubDate": "Tue, 21 Jul 2026 17:33:14 +0000",
@@ -996,15 +1032,15 @@
     "classified": true
   },
   {
-    "title": "Simulating everything, sort of: The promise and limits of world models",
-    "link": "https://arstechnica.com/ai/2026/07/simulating-everything-sort-of-the-promise-and-limits-of-world-models/",
-    "pubDate": "Mon, 13 Jul 2026 11:00:51 +0000",
-    "source": "Ars Technica AI",
-    "category": "ai",
-    "content": "Experts explain how they work, what they can do, and what's still unsettled.",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/cracking-open-world-model-1152x648.jpg",
-    "summary": "Experts discuss the capabilities and limitations of world models, which are simulating complex systems. These models can mimic various aspects of reality, but their potential and current state are still being explored. World models have significant implications for fields like artificial intelligence.",
-    "importance": 8,
+    "title": "Midnight token rebounds 19% after Wanchain bridge hack, Hoskinson calls for ZK revamp",
+    "link": "https://www.coindesk.com/business/2026/07/22/midnight-token-rebounds-after-wanchain-bridge-hack-hoskinson-calls-for-industry-overhaul",
+    "pubDate": "Wed, 22 Jul 2026 11:45:42 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "Charles Hoskinson says the exploit, which briefly sent NIGHT to an all-time low, underscores why the industry needs to move beyond legacy bridge infrastructure.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/0b861ac081b4b97c5f928bbd10d186ce2e4e4dc0-2981x1677.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "The Midnight token (NIGHT) rebounded 19% after experiencing an all-time low due to a Wanchain bridge hack. Charles Hoskinson stated this incident underscores the urgent need for the industry to move beyond outdated bridge infrastructure, advocating for a ZK revamp.",
+    "importance": 7,
     "classified": true
   },
   {
@@ -1044,30 +1080,6 @@
     "classified": true
   },
   {
-    "title": "Live markets: Bitcoin pulls back from five-week high on new Trump threats over Iran",
-    "link": "https://www.coindesk.com/business/2026/07/21/live-markets-bitcoin-etfs-post-a-fifth-straight-day-of-inflows-in-a-first-since-april",
-    "pubDate": "Tue, 21 Jul 2026 06:42:52 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "Bitcoin ETFs have pulled in roughly $727 million over the past week, the most sustained stretch of buying since the record outflows of June.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/cf39f58bad98a18c58778673c923d485a86d7bdf-2836x1480.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "Bitcoin ETFs have recorded a fifth consecutive day of inflows, marking the most sustained stretch of buying since April. This positive run has attracted approximately $727 million, signaling a significant shift after record outflows in June.",
-    "importance": 7,
-    "classified": true
-  },
-  {
-    "title": "Bitcoin hits one-month high above $66,000 as the chip trade turns back into a tailwind",
-    "link": "https://www.coindesk.com/markets/2026/07/21/bitcoin-hits-a-two-week-high-near-usd65-500-as-the-chip-trade-turns-back-into-a-tailwind",
-    "pubDate": "Tue, 21 Jul 2026 05:34:00 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "Asian semiconductor shares rebounded hard, a five-day ETF inflow streak passed $600 million, and oil pulled back on Middle East diplomacy.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/ec16b0d98820048d0801ef198a8c4e6ca1e6f687-4608x3456.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "Bitcoin reached a two-week high near $65,500, supported by a significant rebound in Asian semiconductor shares. This price increase was further bolstered by a five-day streak of ETF inflows exceeding $600 million and a decline in oil prices.",
-    "importance": 7,
-    "classified": true
-  },
-  {
     "title": "Talos brings institutional trading tools to Kalshi prediction markets",
     "link": "https://cointelegraph.com/news/talos-brings-institutional-trading-tools-to-kalshi-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "pubDate": "Wed, 22 Jul 2026 11:00:00 +0000",
@@ -1076,18 +1088,6 @@
     "content": "The integration provides institutional clients with access to Kalshi’s event contracts and crypto perpetuals via Talos’ existing trading infrastructure.",
     "image": "https://s3-images.ctmedia.io/media/article-covers/hi-decentralized-prediction-markets-gambling-or-a-window-into-the-future-1.png",
     "summary": "Talos has integrated its institutional trading infrastructure with Kalshi, granting institutional clients access to Kalshi's event contracts and crypto perpetuals. This enhances institutional participation in prediction markets and crypto derivatives.",
-    "importance": 7,
-    "classified": true
-  },
-  {
-    "title": "Bitcoin ETFs post 5-day inflow streak, longest since May",
-    "link": "https://cointelegraph.com/news/bitcoin-etfs-five-day-inflow-streak-btc-65k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Tue, 21 Jul 2026 07:28:29 +0000",
-    "source": "Cointelegraph",
-    "category": "crypto",
-    "content": "US spot Bitcoin ETFs recorded $227 million in inflows as BTC climbed above $65,000, extending their longest winning streak since early May.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/bitcoin-price-remains-above-15k-and-keeps-on-testing-the-16k-mark.png",
-    "summary": "US spot Bitcoin ETFs recorded $227 million in inflows, marking their longest positive streak since early May. This financial activity occurred as Bitcoin's price surpassed the $65,000 mark.",
     "importance": 7,
     "classified": true
   },
@@ -1332,14 +1332,14 @@
     "classified": true
   },
   {
-    "title": "London Stock Exchange’s LSE 24 signals a bet on digital, AI-driven markets: TD Cowen",
-    "link": "https://www.theblock.co/post/409089/london-stock-exchanges-lse-24-signals-bet-on-digital-ai-driven-markets-td-cowen?utm_source=rss&utm_medium=rss",
-    "pubDate": "Tue, 21 Jul 2026 10:46:07 -0400",
-    "source": "The Block",
-    "category": "ai",
-    "content": "London Stock Exchange will launch LSE 24, a 24/5 venue trading 17:00–07:50, with testing by end-2026 and ETPs first in H1 2027.",
-    "image": "https://www.tbstat.com/wp/uploads/2019/09/20190925_London-Blockchain-Map-Genesis-800x450.jpg",
-    "summary": "The London Stock Exchange is launching LSE 24, a 24/5 trading venue that will utilize AI-driven markets, with testing set to begin by the end of 2026 and exchange-traded products to follow in the first half of 2027. This move signals the exchange's bet on digital markets. The launch will start with a limited schedule and expand in the future.",
+    "title": "Satsuma Shareholders Approve Bitcoin Liquidation, London Delisting",
+    "link": "https://bitcoinmagazine.com/news/satsuma-shareholders-bitcoin-liquidation",
+    "pubDate": "Wed, 22 Jul 2026 12:40:55 +0000",
+    "source": "Bitcoin Magazine",
+    "category": "crypto",
+    "content": "Bitcoin Magazine\n\nSatsuma Shareholders Approve Bitcoin Liquidation, London Delisting\nSatsuma shareholders voted to sell the company's bitcoin, return the cash to investors, and delist from the London Stock Exchange, ending its run as a bitcoin treasury company after heavy losses.\nThis post Satsuma Shareholders Approve Bitcoin Liquidation, London Delisting first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
+    "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/07/Satsuma-Shareholders-Approve-Bitcoin-Liquidation-London-Delisting.jpg",
+    "summary": "Satsuma shareholders have voted to liquidate the company's bitcoin holdings and return the cash to investors, also deciding to delist from the London Stock Exchange after experiencing significant losses. This marks the end of Satsuma's run as a bitcoin treasury company. The decision comes as a result of heavy financial setbacks.",
     "importance": 6,
     "classified": true
   },
@@ -1452,42 +1452,6 @@
     "classified": true
   },
   {
-    "title": "Adobe camera app’s new feature will critique your photos using AI",
-    "link": "https://techcrunch.com/2026/07/20/adobe-camera-apps-new-feature-will-critique-your-photos-using-ai/",
-    "pubDate": "Mon, 20 Jul 2026 15:45:00 +0000",
-    "source": "TechCrunch AI",
-    "category": "ai",
-    "content": "Adobe's Project Indigo can now remove all kinds of backgrounds from photos you snap using the app.",
-    "image": "",
-    "summary": "Adobe's camera app has introduced a new feature using AI to critique photos and remove backgrounds. This feature, part of Project Indigo, allows for the removal of various backgrounds from photos taken with the app. The AI-powered tool enhances photo editing capabilities.",
-    "importance": 6,
-    "classified": true
-  },
-  {
-    "title": "YouTube clarifies policies around AI slop and upsetting videos",
-    "link": "https://techcrunch.com/2026/07/20/youtube-clarifies-policies-around-ai-slop-and-upsetting-videos/",
-    "pubDate": "Mon, 20 Jul 2026 15:23:06 +0000",
-    "source": "TechCrunch AI",
-    "category": "ai",
-    "content": "YouTube has updated its monetization policies to more clearly define the kinds of AI-generated and low-quality videos that can’t earn ad revenue.",
-    "image": "",
-    "summary": "YouTube has updated its monetization policies to clarify what types of AI-generated and low-quality videos are ineligible for ad revenue. This change aims to improve video quality on the platform. The policy update affects creators who produce AI-generated content.",
-    "importance": 6,
-    "classified": true
-  },
-  {
-    "title": "What to watch for after Jensen Huang’s Japan visit",
-    "link": "https://techcrunch.com/2026/07/19/what-to-watch-for-after-jensen-huangs-japan-visit/",
-    "pubDate": "Sun, 19 Jul 2026 21:16:07 +0000",
-    "source": "TechCrunch AI",
-    "category": "ai",
-    "content": "Jensen Huang left Tokyo with deals spanning Japan's entire tech ecosystem.",
-    "image": "",
-    "summary": "Jensen Huang's visit to Japan has resulted in multiple deals across the country's tech ecosystem. The details of the deals are not specified, but they span the entire ecosystem. This could have significant implications for the tech industry.",
-    "importance": 6,
-    "classified": true
-  },
-  {
     "title": "Meta made its own AI detection system. It should have just used Google’s",
     "link": "https://www.theverge.com/tech/968680/meta-ai-detection-labeling-content-seal-watermarks-synthid",
     "pubDate": "2026-07-22T11:00:00.000Z",
@@ -1574,7 +1538,7 @@
   {
     "title": "Here’s what happened in crypto today",
     "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Wed, 22 Jul 2026 05:43:51 +0000",
+    "pubDate": "Wed, 22 Jul 2026 12:54:29 +0000",
     "source": "Cointelegraph",
     "category": "crypto",
     "content": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
@@ -1596,18 +1560,6 @@
     "classified": true
   },
   {
-    "title": "Bitcoin price gains to $66.3K as range breakout attempt sparks 1-month high",
-    "link": "https://cointelegraph.com/markets/bitcoin-price-hits-663k-as-range-breakout-attempt-sparks-one-month-high?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Tue, 21 Jul 2026 10:30:00 +0000",
-    "source": "Cointelegraph",
-    "category": "crypto",
-    "content": "Bitcoin beat out local resistance to pass $66,000 amid predictions of as much as 6% BTC price upside if momentum continued.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/bitcoin-gains-100000.png",
-    "summary": "Bitcoin's price surged to $66,300, breaking local resistance and reaching a one-month high. This upward movement has sparked predictions of a potential 6% further upside if the current momentum persists.",
-    "importance": 4,
-    "classified": true
-  },
-  {
     "title": "Bitcoin retreats from one-month high as oil tops $85, inflation concerns resurface",
     "link": "https://www.coindesk.com/markets/2026/07/22/bitcoin-retreats-from-one-month-high-as-oil-tops-usd85-inflation-concerns-resurface",
     "pubDate": "Wed, 22 Jul 2026 10:33:33 +0000",
@@ -1620,14 +1572,14 @@
     "classified": true
   },
   {
-    "title": "XRP jumps 4% as traders watch 'triangle breakout' toward $1.35",
-    "link": "https://www.coindesk.com/markets/2026/07/21/xrp-jumps-4-as-traders-watch-triangle-breakout-toward-usd1-35",
-    "pubDate": "Tue, 21 Jul 2026 07:21:04 +0000",
+    "title": "Kalshi rolls out Midterm Hubs ahead of the November elections in the U.S. ",
+    "link": "https://www.coindesk.com/markets/2026/07/22/kalshi-rolls-out-midterm-hubs-ahead-of-the-november-elections-in-the-u-s",
+    "pubDate": "Wed, 22 Jul 2026 12:12:10 +0000",
     "source": "CoinDesk",
     "category": "crypto",
-    "content": "XRP pushed higher over 24 hours and tested short-term resistance, but the larger chart still needs a clean break above the $1.24-$1.28 supply zone to confirm a stronger reversal.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/b7477046a3fb08fb8da44523a38ae0fcb196f5d6-2898x1458.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "XRP saw a 4% price increase and tested short-term resistance, though a stronger reversal requires a clean break above the $1.24-$1.28 supply zone.",
+    "content": "The prediction markets platform seeks to position itself as the primary source for election odds ahead of the midterm elections this year.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/c759c05ac7c769fba2e6e7135172b1cb4e75a336-6000x4000.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "Kalshi, a prediction markets platform, has introduced 'Midterm Hubs' as it aims to become the leading source for election odds ahead of the U.S. midterm elections. The platform is positioning itself to be a primary provider of information for political predictions.",
     "importance": 2,
     "classified": true
   },
@@ -1656,6 +1608,18 @@
     "classified": true
   },
   {
+    "title": "The Download: NASA’s new space telescope and OpenAI’s autonomous hacker",
+    "link": "https://www.technologyreview.com/2026/07/22/1140717/the-download-nasa-space-telescope-openai-hugging-face-hack/",
+    "pubDate": "Wed, 22 Jul 2026 12:10:00 +0000",
+    "source": "MIT Technology Review",
+    "category": "ai",
+    "content": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Shape-shifting mirrors on NASA’s new space telescope could unveil Jupiters like our own When NASA’s Nancy Grace Roman Space Telescope launches, as early as the end of next month, it will…",
+    "image": "https://wp.technologyreview.com/wp-content/uploads/2025/08/MIT-TSMC-2-final-thumb.jpg?w=840",
+    "summary": "NASA's new space telescope is set to launch, featuring shape-shifting mirrors that could help unveil Jupiters like our own. OpenAI has also developed an autonomous hacker. The telescope is expected to launch as early as the end of next month.",
+    "importance": 2,
+    "classified": true
+  },
+  {
     "title": "The risk of weather data sabotage is rising",
     "link": "https://www.technologyreview.com/2026/07/17/1140622/weather-data-sabotage/",
     "pubDate": "Fri, 17 Jul 2026 08:57:32 +0000",
@@ -1664,6 +1628,18 @@
     "content": "Every morning, airline dispatchers, grid operators, and farmers around the world make decisions based on the same thing: a weather forecast. While these forecasts are something that most people glance at for two seconds, weather predictions influence major strategic decisions in many industries, with real money, livelihoods, and even actual lives at stake. Farmers use…",
     "image": "",
     "summary": "Weather forecasts significantly impact various industries such as aviation, energy, and agriculture, influencing strategic decisions with substantial financial and human implications. The accuracy of these forecasts is crucial, and any disruption could have far-reaching consequences. However, the article highlights the rising risk of weather data sabotage.",
+    "importance": 2,
+    "classified": true
+  },
+  {
+    "title": "Passionfroot raises $15M to expand its B2B creator marketplace to the US",
+    "link": "https://techcrunch.com/2026/07/22/passionfroot-raises-15m-to-expand-its-b2b-creator-marketplace-to-the-us/",
+    "pubDate": "Wed, 22 Jul 2026 13:00:00 +0000",
+    "source": "TechCrunch AI",
+    "category": "ai",
+    "content": "Passionfroot, a German startup building a marketplace connecting B2B creators with brands, has raised $15M in a Series A round led by Insight Partners.",
+    "image": "",
+    "summary": "Passionfroot, a German startup, has raised $15M in a Series A round to expand its B2B creator marketplace to the US. The marketplace connects B2B creators with brands. The funding was led by Insight Partners.",
     "importance": 2,
     "classified": true
   },
@@ -1704,6 +1680,18 @@
     "classified": true
   },
   {
+    "title": "Here's why bitcoin bulls should take a closer look at interest rates",
+    "link": "https://www.coindesk.com/daybook-us/2026/07/22/here-s-why-bitcoin-bulls-should-take-a-closer-look-at-interest-rates",
+    "pubDate": "Wed, 22 Jul 2026 11:23:36 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "Your day-ahead look for July 22, 2026",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/f0fb979e226c8ec12fbb9a3b2c984609eade4077-2860x1494.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "The provided text only contains a title suggesting a link between Bitcoin and interest rates, along with a date, but lacks any actual article content to summarize.",
+    "importance": 1,
+    "classified": true
+  },
+  {
     "title": "White House Presses Senate Democrats To Accept Trump Ethics Deal On Clarity Act",
     "link": "https://bitcoinmagazine.com/news/white-house-presses-senate-democrats",
     "pubDate": "Tue, 21 Jul 2026 19:25:50 +0000",
@@ -1736,6 +1724,18 @@
     "content": "Perimenopause has entered the chat. Perimenopause—and its better-known relative, menopause—used to be considered taboo. Not anymore, thanks at least in part to TV doctors and social media influencers. Perhaps it’s my age, but these days, both my algorithm and my conversations with friends increasingly swing toward perimenopause. Menopause is defined as the life stage that…",
     "image": "",
     "summary": "The article discusses the increasing awareness and discussion of perimenopause, a life stage that was previously considered taboo, now being openly talked about due to TV doctors and social media influencers. Perimenopause is the stage leading up to menopause, and its definition and implications are being explored. The article seems to be skeptical of the hype surrounding perimenopause.",
+    "importance": 1,
+    "classified": true
+  },
+  {
+    "title": "The browser wars aren’t about search anymore — here are the best alternatives to Chrome and Safari",
+    "link": "https://techcrunch.com/2026/07/22/as-the-browser-wars-heat-up-here-are-the-hottest-alternatives-to-chrome-and-safari-in-2026/",
+    "pubDate": "Wed, 22 Jul 2026 13:20:35 +0000",
+    "source": "TechCrunch AI",
+    "category": "ai",
+    "content": "We’ve compiled an overview of some of the top alternative browsers available today aiming to challenge Chrome and Safari.",
+    "image": "",
+    "summary": "The article discusses alternative web browsers to Chrome and Safari, providing an overview of top options. It aims to inform readers about available choices beyond the popular browsers. The article does not focus on AI or crypto but rather on web browsers.",
     "importance": 1,
     "classified": true
   }
