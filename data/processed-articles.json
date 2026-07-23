@@ -60,15 +60,15 @@
     "classified": true
   },
   {
-    "title": "OpenAI’s AI spending spree has ballooned to $750B",
-    "link": "https://techcrunch.com/2026/07/22/openais-ai-spending-spree-has-ballooned-to-750b/",
-    "pubDate": "Wed, 22 Jul 2026 16:13:30 +0000",
-    "source": "TechCrunch AI",
-    "category": "ai",
-    "content": "OpenAI will spend the equivalent of Sweden's GDP on infrastructure through 2030.",
-    "image": "",
-    "summary": "OpenAI plans to spend $750 billion on infrastructure by 2030, a staggering amount equivalent to Sweden's GDP. This investment underscores OpenAI's commitment to advancing artificial intelligence. The massive spending spree is expected to have significant implications for the AI community.",
-    "importance": 9,
+    "title": "Clarity Act expected to miss its window before Congress' summer break, leadership says",
+    "link": "https://www.coindesk.com/policy/2026/07/23/clarity-act-expected-to-miss-its-window-before-congress-summer-break-leadership-says",
+    "pubDate": "Thu, 23 Jul 2026 20:16:37 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "The deadline to get the crypto market structure bill done before senators scatter will likely be missed, says Majority Leader Thune, though it may get a start before then.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/d80238dd859faada40d384970db94239e3b42fbc-6000x4000.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "The Clarity Act, a significant crypto market structure bill, is expected to miss its deadline for passage before Congress' summer break. Senate leadership indicates that while the bill might see an initial start, its completion before senators scatter is improbable, delaying potential regulatory clarity for the cryptocurrency market.",
+    "importance": 8,
     "classified": true
   },
   {
@@ -176,6 +176,66 @@
     "content": "Several of the Democrats most likely to vote for the crypto market structure bill said they had issues with the new draft published by Republicans earlier in the day.",
     "image": "https://cdn.sanity.io/images/s3y3vcno/production/1e34e35213ece0dee4183be72e6124f5c8f10b0d-6000x4000.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
     "summary": "Democratic lawmakers have expressed concerns over the crypto Clarity Act, stating it falls short on ethics and other issues. The Act is a crypto market structure bill drafted by Republicans. Lawmakers likely to vote for the bill still have issues with the new draft.",
+    "importance": 8,
+    "classified": true
+  },
+  {
+    "title": "Gemini sent $10M in Bitcoin to Trump PAC after joint motion with CFTC",
+    "link": "https://cointelegraph.com/news/gemini-winklevoss-bitcoin-donald-trump-pac-cftc-deal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Thu, 23 Jul 2026 21:47:39 +0000",
+    "source": "Cointelegraph",
+    "category": "crypto",
+    "content": "The Bitcoin donation can be used to support Donald Trump as a New York court considers whether to reverse a $5 million settlement between the CFTC and Gemini.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/winklevoss-trump.jpg",
+    "summary": "Gemini sent $10M in Bitcoin to a Trump PAC, which may support Donald Trump, as a New York court considers a $5 million settlement between the CFTC and Gemini. The donation could impact the outcome of the court case. The move is significant due to the large amount of Bitcoin involved.",
+    "importance": 8,
+    "classified": true
+  },
+  {
+    "title": "Coinbase lets businesses accept USDC payments from AI agents",
+    "link": "https://cointelegraph.com/news/coinbase-lets-businesses-accept-usdc-payments-from-ai-agents?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Thu, 23 Jul 2026 20:51:27 +0000",
+    "source": "Cointelegraph",
+    "category": "both",
+    "content": "The exchange also introduced AI trading tools and a developer kit as part of a broader push to build financial infrastructure for autonomous AI agents.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-trading-bots-vs-ai-agents-facebook-x.png",
+    "summary": "Coinbase now allows businesses to accept USDC payments from AI agents, and has introduced AI trading tools and a developer kit to support autonomous AI agents. This move aims to build financial infrastructure for AI agents. The introduction of these tools and services marks a significant development in the intersection of AI and crypto.",
+    "importance": 8,
+    "classified": true
+  },
+  {
+    "title": "Bitcoin slides below $65K as Iran conflict fuels $100 oil and bond-yield surge",
+    "link": "https://cointelegraph.com/markets/bitcoin-dips-below-65k-iran-war-sparks-100-oil-us-bond-spike?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Thu, 23 Jul 2026 20:32:22 +0000",
+    "source": "Cointelegraph",
+    "category": "crypto",
+    "content": "Bitcoin price forecasts diverge as US-Iran war tensions fueled an ongoing oil and bond-market surge, while July Fed rate-hike odds neared 40%.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/bitcoin-price-analysis-falling-1.jpg",
+    "summary": "Bitcoin's price has fallen below $65,000 due to rising tensions between the US and Iran, which has caused a surge in oil and bond markets. This has led to diverging forecasts for Bitcoin's price. The likelihood of a July Fed rate hike has also increased to nearly 40%.",
+    "importance": 8,
+    "classified": true
+  },
+  {
+    "title": "Crypto industry to contribute $55B to US economy in 2026: NCA study",
+    "link": "https://cointelegraph.com/news/crypto-industry-contributed-us-economy-2026-nca?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Thu, 23 Jul 2026 19:41:10 +0000",
+    "source": "Cointelegraph",
+    "category": "crypto",
+    "content": "The research released by the organization said that crypto companies will directly or indirectly lead to 232,000 jobs across the entire US economy in 2026.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/us-coin.jpg",
+    "summary": "A study by the NCA predicts the crypto industry will contribute $55B to the US economy in 2026, creating 232,000 jobs. The research highlights the significant impact of crypto companies on the US job market. This growth is expected to have a substantial effect on the economy.",
+    "importance": 8,
+    "classified": true
+  },
+  {
+    "title": "As BitMEX exits, analysts warn crypto consolidation is accelerating",
+    "link": "https://cointelegraph.com/news/as-bitmex-exits-analysts-warn-crypto-consolidation-is-accelerating?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Thu, 23 Jul 2026 19:30:17 +0000",
+    "source": "Cointelegraph",
+    "category": "crypto",
+    "content": "BitMEX’s shutdown marks the end of one of crypto’s earliest derivatives exchanges as analysts point to rising regulatory costs, market concentration and the shift toward licensed trading venues.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/arthur-hayes3.png",
+    "summary": "BitMEX, one of the earliest crypto derivatives exchanges, has shut down, marking a significant exit in the industry. Analysts attribute this to rising regulatory costs, market concentration, and a shift towards licensed trading venues. This consolidation is expected to continue in the crypto space.",
     "importance": 8,
     "classified": true
   },
@@ -392,54 +452,6 @@
     "content": "US officials warn that Chinese firms conducting covert, industrial-scale AI distillation could face sanctions and export restrictions.",
     "image": "https://s3-images.ctmedia.io/media/article-covers/hi-trezor-becomes-its-own-chip-maker-but-its-not-for-every-crypto-company-china.jpg",
     "summary": "The White House has accused Moonshot AI of distilling Anthropic technology for K3, prompting warnings of potential sanctions and export restrictions for Chinese firms involved in covert AI distillation. This move highlights concerns over industrial-scale AI distillation and its implications. The US is taking a strong stance against such activities.",
-    "importance": 8,
-    "classified": true
-  },
-  {
-    "title": "Hackers steal $31.6M in 2 crypto bridge attacks within 7 hours",
-    "link": "https://cointelegraph.com/news/afx-protocol-reportedly-loses-24m-in-bridge-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Thu, 23 Jul 2026 01:47:20 +0000",
-    "source": "Cointelegraph",
-    "category": "crypto",
-    "content": "AFX, a decentralized perpetual exchange operating on Arbitrum, reportedly lost $24.15 million on Wednesday, while the Verus Ethereum bridge was attacked hours later.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/hack.jpg",
-    "summary": "Hackers stole $31.6 million in two separate crypto bridge attacks within 7 hours, with AFX losing $24.15 million and the Verus Ethereum bridge being attacked later. The attacks highlight the vulnerability of crypto bridges to hacking. This is a significant loss for the crypto community.",
-    "importance": 8,
-    "classified": true
-  },
-  {
-    "title": "S&P launches blockchain fundamentals index for digital assets ",
-    "link": "https://cointelegraph.com/news/sp-launches-blockchain-fundamentals-index-digital-assets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Wed, 22 Jul 2026 21:09:59 +0000",
-    "source": "Cointelegraph",
-    "category": "crypto",
-    "content": "The benchmark tracks blockchain networks using protocol revenue, offering an alternative to traditional market capitalization-weighted crypto indexes.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-crypto-goes-for-nasdaq-crypto-etf.png",
-    "summary": "S&P has launched a blockchain fundamentals index that tracks blockchain networks using protocol revenue, providing an alternative to traditional market capitalization-weighted crypto indexes. This index offers a new way to evaluate digital assets. The launch is a significant development in the crypto space.",
-    "importance": 8,
-    "classified": true
-  },
-  {
-    "title": "US officials barred until 2029 from issuing or sponsoring tokens under CLARITY’s proposed ethics rules",
-    "link": "https://cointelegraph.com/news/clarity-act-ethics-public-officials-president-barred-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Wed, 22 Jul 2026 18:41:30 +0000",
-    "source": "Cointelegraph",
-    "category": "crypto",
-    "content": "According to Senator Cynthia Lummis, one of the bill’s advocates, the ethics language would apply to US presidents’ crypto ventures, including Donald Trump’s.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/bookclarity.png",
-    "summary": "Proposed ethics rules, advocated by Senator Cynthia Lummis, would prohibit US officials, including presidents like Donald Trump, from issuing or sponsoring crypto tokens until 2029. These rules are part of CLARITY's proposed framework, aiming to prevent conflicts of interest.",
-    "importance": 8,
-    "classified": true
-  },
-  {
-    "title": "Anthropic joins UK FCA’s AI regulatory sandbox as second cohort launches",
-    "link": "https://cointelegraph.com/news/anthropic-joins-uk-fcas-ai-regulatory-sandbox-as-second-cohort-launches?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Wed, 22 Jul 2026 17:57:11 +0000",
-    "source": "Cointelegraph",
-    "category": "ai",
-    "content": "Anthropic will provide Claude AI models to companies participating in the UK Financial Conduct Authority’s next Supercharged Sandbox cohort, as the regulator pushes to test AI applications in financial services.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-how-to-trade-crypto-in-uk-fca-ai.png",
-    "summary": "Anthropic is joining the UK Financial Conduct Authority's Supercharged Sandbox, providing its Claude AI models to companies. This initiative aims to test and regulate AI applications within the financial services sector.",
     "importance": 8,
     "classified": true
   },
@@ -684,30 +696,6 @@
     "classified": true
   },
   {
-    "title": "Swiss Bank BancaStato Launches Bitcoin Trading Through Sygnum and Avaloq",
-    "link": "https://bitcoinmagazine.com/news/swiss-bank-bancastato-launches-bitcoin",
-    "pubDate": "Thu, 23 Jul 2026 06:00:00 +0000",
-    "source": "Bitcoin Magazine",
-    "category": "crypto",
-    "content": "Bitcoin Magazine\n\nSwiss Bank BancaStato Launches Bitcoin Trading Through Sygnum and Avaloq\nBancaStato has become the latest Swiss bank to offer regulated bitcoin trading through its existing banking apps via Sygnum's infrastructure.\nThis post Swiss Bank BancaStato Launches Bitcoin Trading Through Sygnum and Avaloq first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
-    "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/07/Swiss-Bank-BancaStato-Launches-Bitcoin-Trading-Through-Sygnum-and-Avaloq.jpg",
-    "summary": "BancaStato, a Swiss bank, has launched bitcoin trading through its existing banking apps using Sygnum's infrastructure, allowing users to trade bitcoin in a regulated environment. This move expands the availability of regulated bitcoin trading in Switzerland. The service is facilitated by Sygnum and Avaloq.",
-    "importance": 8,
-    "classified": true
-  },
-  {
-    "title": "Nasdaq-listed Zhibao Technology to Take 3,500 Bitcoin in Proposed PIPE Financing",
-    "link": "https://bitcoinmagazine.com/news/zhibao-technology-to-take-3500-bitcoin",
-    "pubDate": "Wed, 22 Jul 2026 21:15:49 +0000",
-    "source": "Bitcoin Magazine",
-    "category": "crypto",
-    "content": "Bitcoin Magazine\n\nNasdaq-listed Zhibao Technology to Take 3,500 Bitcoin in Proposed PIPE Financing\nNasdaq-listed Zhibao Technology plans to accept 3,500 bitcoin in a proposed $220 million PIPE deal, a move that would transform the Chinese insurance-tech firm into the latest public company building a bitcoin treasury.\nThis post Nasdaq-listed Zhibao Technology to Take 3,500 Bitcoin in Proposed PIPE Financing first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
-    "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/06/Bitcoin-Network-Activity-Hits-Highest-Level-Since-2024-CryptoQuant-.jpg",
-    "summary": "Nasdaq-listed Zhibao Technology plans to accept 3,500 bitcoin in a proposed $220 million PIPE deal, transforming the Chinese insurance-tech firm into a public company building a bitcoin treasury. This move marks a significant investment in bitcoin by a public company. The deal is valued at $220 million.",
-    "importance": 8,
-    "classified": true
-  },
-  {
     "title": "How AI helps scientists design the next generation of medicines",
     "link": "https://www.technologyreview.com/2026/07/23/1140346/how-ai-helps-scientists-design-the-next-generation-of-medicines/",
     "pubDate": "Thu, 23 Jul 2026 12:00:00 +0000",
@@ -732,12 +720,24 @@
     "classified": true
   },
   {
+    "title": "AMD takes on Nvidia with its Helios AI rack-scale system",
+    "link": "https://techcrunch.com/2026/07/23/amd-takes-on-nvidia-with-its-helios-ai-rack-scale-system/",
+    "pubDate": "Thu, 23 Jul 2026 20:33:02 +0000",
+    "source": "TechCrunch AI",
+    "category": "ai",
+    "content": "AMD is challenging its chipmaker rival with a new rack-scale system that will start shipping to customers later this year.",
+    "image": "",
+    "summary": "AMD is introducing the Helios AI rack-scale system, a new product that will compete with Nvidia, and is set to start shipping later this year. This system is part of AMD's efforts to expand its presence in the AI market. The Helios AI rack-scale system is designed to support large-scale AI workloads.",
+    "importance": 8,
+    "classified": true
+  },
+  {
     "title": "AegisAI, founded by former Google security execs, lands $36M to stop AI-driven spear phishing",
     "link": "https://techcrunch.com/2026/07/23/aegisai-founded-by-former-google-security-execs-lands-36m-to-stop-ai-driven-spear-phishing/",
     "pubDate": "Thu, 23 Jul 2026 18:38:34 +0000",
     "source": "TechCrunch AI",
     "category": "ai",
-    "content": "The Series A was led by Battery Ventures, bringing AegisAI total funding to $49 million.",
+    "content": "AegisAI co-founders developed AI agents that quickly analyze each message as a human would, paying attention to small anomalies that even the most elaborate checklist wouldn’t catch.",
     "image": "",
     "summary": "AegisAI, founded by former Google security executives, has secured $36M in Series A funding to combat AI-driven spear phishing attacks. The funding brings their total to $49 million. The company aims to stop sophisticated phishing attempts using AI.",
     "importance": 8,
@@ -852,12 +852,24 @@
     "classified": true
   },
   {
+    "title": "Alexa Plus is getting an AI update to handle more complicated instructions",
+    "link": "https://www.theverge.com/tech/970399/amazon-alexa-plus-ai-update-smart-home-devices",
+    "pubDate": "2026-07-23T21:15:06.000Z",
+    "source": "The Verge AI",
+    "category": "ai",
+    "content": "Amazon is launching an update to its Alexa Plus assistant that will allow it to connect to smart home devices in new ways. With the update, Alexa Plus can link up with tech from Bosch, Delta, Ecovacs, iRobot, Yale Home, Whirlpool, Tapo, Eufy, and others, while automatically routing requests to the correct device.\nIn an example shared by Amazon, a person with a supported washing machine can say, \"Alexa, my kid's soccer jersey could use a deep clean, but the tag says cold wash only.\" From there, Alexa Plus would navigate the washer's cycle options and choose the correct setting. The new integrations are powered by Amazon's new AI developer to …\nRead the full story at The Verge.",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/8A0A3921.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "summary": "Amazon's Alexa Plus is getting an AI update to handle more complicated instructions, allowing it to connect to various smart home devices and automatically route requests to the correct device. The update enables Alexa Plus to navigate device options and choose the correct setting based on user requests. This update is powered by Amazon's new AI developer tool.",
+    "importance": 8,
+    "classified": true
+  },
+  {
     "title": "Claude’s voice mode is now available for Opus and Sonnet",
     "link": "https://www.theverge.com/ai-artificial-intelligence/970065/anthropic-voice-mode-claude-opus-sonnet-haiku-ai",
     "pubDate": "2026-07-23T19:00:00.000Z",
     "source": "The Verge AI",
     "category": "ai",
-    "content": "Until now, voice mode has only been available on Claude Haiku, Anthropic's faster but less powerful model. Now the company is making its Opus and Sonnet models available in voice mode, and extending its reach into apps like Gmail, Slack, and Canva.\nWhen Anthropic launched voice mode earlier this year, it was primarily focused on delivering answers to quick questions with minimal delay. But in a blog post, the company said people immediately started using voice mode for far more than casual queries. They were using it to work \"through real business problems,\" which Haiku was not really designed for. That model \"kept conversations quick, but  …\nRead the full story at The Verge.",
+    "content": "Until now, voice mode has only been available on Claude Haiku, Anthropic's faster but less powerful model. Now the company is making its Opus and Sonnet models available in voice mode, and extending its reach into apps like Gmail, Slack, and Canva.\nWhen Anthropic launched voice mode last year, it was primarily focused on delivering answers to quick questions with minimal delay. But in a blog post, the company said people immediately started using voice mode for far more than casual queries. They were using it to work \"through real business problems,\" which Haiku was not really designed for. That model \"kept conversations quick, but not alwa …\nRead the full story at The Verge.",
     "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Claude-Voice-2-3-up.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
     "summary": "Anthropic's voice mode is now available for Opus and Sonnet models, in addition to Haiku, and can be integrated with apps like Gmail, Slack, and Canva. Initially, voice mode was used for quick queries, but users began using it to solve business problems. This expansion allows for more complex conversations and problem-solving.",
     "importance": 8,
@@ -912,14 +924,14 @@
     "classified": true
   },
   {
-    "title": "Utility companies promise to spare us from AI’s energy bill",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/969137/us-utility-ai-electricty-data-center-rate-pledge-trump",
-    "pubDate": "2026-07-22T10:12:13.000Z",
-    "source": "The Verge AI",
+    "title": "AI Kill Switch Act would let Trump admin order shutdown of rogue AI systems",
+    "link": "https://arstechnica.com/tech-policy/2026/07/ai-kill-switch-act-would-let-trump-admin-order-shutdown-of-rogue-ai-systems/",
+    "pubDate": "Thu, 23 Jul 2026 19:08:01 +0000",
+    "source": "Ars Technica AI",
     "category": "ai",
-    "content": "The pledge was introduced in March, and has done little to quell concerns so far. | Image: Cath Virginia / The Verge, Getty Images\t\n\nIn the face of backlash to concerns the AI boom will increase consumer electricity bills, the largest utility companies and data center developers in the US are now promising to do something about it. The Wall Street Journal reports that nearly 200 organizations have signed President Donald Trump's \"rate payer protection pledge\"  that's meant to safeguard average citizens from footing the AI bill.\nTrump is expected to announce the new signatories on Thursday, which include NextEra Energy, Duke Energy, Equinix, and Digital Realty, according to a list obtained by The WSJ. An unnamed White House official told the publication that those who hav …\nRead the full story at The Verge.",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STKS528_DATA_CENTERS_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "summary": "US utility companies and data center developers have signed a pledge to protect consumers from increased electricity bills caused by the AI boom. Nearly 200 organizations have signed the pledge, which aims to safeguard average citizens from footing the AI bill. The pledge was introduced in March and is expected to be announced with new signatories soon.",
+    "content": "Bill would let Homeland Security chief decide when an AI should be shut down.",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/openai-logo-1152x648-1784833184.jpg",
+    "summary": "A proposed bill, the AI Kill Switch Act, would grant the Homeland Security chief the authority to shut down rogue AI systems. The bill aims to address potential risks associated with AI development. This legislation could have significant implications for AI development and regulation.",
     "importance": 8,
     "classified": true
   },
@@ -1109,8 +1121,8 @@
     "pubDate": "Thu, 23 Jul 2026 09:03:33 +0000",
     "source": "CoinDesk",
     "category": "both",
-    "content": "Google parent Alphabet beat on revenue but raised its AI spending forecast again, sending its shares sharply lower.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/eba9f443c42a167a4c4757935a773d153474428c-2846x1472.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "content": "Chipmaker Intel's revenue beat helped ease sentiment after a bruising session for tech stocks, with bitcoin holding near $65,000.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/d1388c263c8c0ca14522f4ec28703dc44cb53d19-2150x1176.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
     "summary": "Alphabet's stock dropped after it beat revenue expectations but announced a higher AI spending forecast. This increased spending is viewed positively for the chip industry, which Bitcoin's market often follows, with Bitcoin currently trading above $65,000.",
     "importance": 7,
     "classified": true
@@ -1272,18 +1284,6 @@
     "classified": true
   },
   {
-    "title": "Crypto PAC pours $1M into Michigan Democratic primary race",
-    "link": "https://cointelegraph.com/news/crypto-pac-michigan-democratic-primary-race?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Wed, 22 Jul 2026 20:38:08 +0000",
-    "source": "Cointelegraph",
-    "category": "crypto",
-    "content": "Donavan McKinney, running against Michigan incumbent Shri Thanedar, said that “the crypto lobby is paying my opponent back for helping Trump“ with the PAC-funded ads.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-can-polymarket-and-augur-predict-the-next-us-elections-crypto.jpg",
-    "summary": "A crypto PAC has invested $1M in the Michigan Democratic primary race, with candidate Donavan McKinney accusing his opponent of being supported by the crypto lobby. McKinney's opponent, incumbent Shri Thanedar, has allegedly received support for helping Trump. The investment has sparked controversy in the race.",
-    "importance": 6,
-    "classified": true
-  },
-  {
     "title": "Robinhood CEO’s X account hacked to promote Vladhood memecoin flagged as ‘scam’",
     "link": "https://www.theblock.co/post/409560/robinhood-ceo-x-account-apparently-hacked-promote-vladhood-memecoin-flagged-scam?utm_source=rss&utm_medium=rss",
     "pubDate": "Thu, 23 Jul 2026 13:55:02 -0400",
@@ -1356,14 +1356,38 @@
     "classified": true
   },
   {
-    "title": "Crypto’s US Workforce Is Tiny, But Industry Punches Above Its Weight: Report",
-    "link": "https://bitcoinmagazine.com/news/us-crypto-workforce-is-small-but-fruitful",
-    "pubDate": "Wed, 22 Jul 2026 20:45:39 +0000",
+    "title": "Bitcoinist.App Brings Private Mining Pools to iOS",
+    "link": "https://bitcoinmagazine.com/press-releases/bitcoinist-app-brings-private-mining-pools-to-ios",
+    "pubDate": "Thu, 23 Jul 2026 21:28:11 +0000",
     "source": "Bitcoin Magazine",
     "category": "crypto",
-    "content": "Bitcoin Magazine\n\nCrypto’s US Workforce Is Tiny, But Industry Punches Above Its Weight: Report\nThere aren't that many crypto jobs in the US but the industry contributes a lot, a new report says. \nThis post Crypto’s US Workforce Is Tiny, But Industry Punches Above Its Weight: Report first appeared on Bitcoin Magazine and is written by Mathew Di Salvo.",
-    "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/07/Crypto-US-Workforce-Is-Tiny.jpg",
-    "summary": "A new report reveals that despite the small number of crypto jobs in the US, the industry contributes significantly. The report highlights the disproportionate impact of the crypto industry on the US economy. The industry's influence is substantial, considering its relatively small workforce.",
+    "content": "Bitcoin Magazine\n\nBitcoinist.App Brings Private Mining Pools to iOS\nThe only Bitcoin mining app on the Apple App Store that lets users create private pools, invite friends and family to combine hashpower, and compete with the global Bitcoin hashrate, while payouts go directly to wallets they control.\nThis post Bitcoinist.App Brings Private Mining Pools to iOS first appeared on Bitcoin Magazine and is written by Bitcoin Magazine.",
+    "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/07/bitcoinist-app-press-release.png",
+    "summary": "Bitcoinist.App is now available on the iOS App Store, allowing users to create private mining pools and compete with the global Bitcoin hashrate. The app enables users to invite friends and family to combine their hashpower and receive payouts directly to their wallets. This development brings private mining pools to iOS devices.",
+    "importance": 6,
+    "classified": true
+  },
+  {
+    "title": "Elizabeth Warren Claims Clarity Act Would Help Trump — And ‘Criminals and Cartels’",
+    "link": "https://bitcoinmagazine.com/news/elizabeth-warren-slams-clarity-act",
+    "pubDate": "Thu, 23 Jul 2026 20:44:09 +0000",
+    "source": "Bitcoin Magazine",
+    "category": "crypto",
+    "content": "Bitcoin Magazine\n\nElizabeth Warren Claims Clarity Act Would Help Trump — And ‘Criminals and Cartels’\nThe anti-crypto senator claims the latest Clarity bill draft would allow the president to cash in. \nThis post Elizabeth Warren Claims Clarity Act Would Help Trump — And ‘Criminals and Cartels’ first appeared on Bitcoin Magazine and is written by Mathew Di Salvo.",
+    "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/07/Elizabeth-Warren-Claims-Clarity-Act-Would-Help-Trump.jpg",
+    "summary": "Senator Elizabeth Warren claims the Clarity Act would benefit President Trump and criminal organizations, allowing them to exploit the system. The Clarity bill draft is criticized for its potential to enable wrongdoing. This criticism comes from an anti-crypto senator, highlighting concerns about the bill's impact.",
+    "importance": 6,
+    "classified": true
+  },
+  {
+    "title": "Smarter Web Company Sells Bitcoin to Clear $11.7 Million Debt Facility",
+    "link": "https://bitcoinmagazine.com/news/smarter-web-company-sells-bitcoin",
+    "pubDate": "Thu, 23 Jul 2026 19:50:36 +0000",
+    "source": "Bitcoin Magazine",
+    "category": "crypto",
+    "content": "Bitcoin Magazine\n\nSmarter Web Company Sells Bitcoin to Clear $11.7 Million Debt Facility\nThe Smarter Web Company sold 177.89 BTC for $11.7 million to repay a convertible debt facility early, avoiding shareholder dilution while retaining a treasury of 2,700 BTC.\nThis post Smarter Web Company Sells Bitcoin to Clear $11.7 Million Debt Facility first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
+    "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/02/Bitcoin-Treasury-The-Smarter-Web-Company-Listed-on-London-Stock-Exchange.jpg",
+    "summary": "The Smarter Web Company sold 177.89 BTC for $11.7 million to repay a debt facility early, avoiding shareholder dilution. The company still holds a treasury of 2,700 BTC. This move allows them to retain their assets while paying off their debt.",
     "importance": 6,
     "classified": true
   },
@@ -1409,7 +1433,7 @@
     "pubDate": "Thu, 23 Jul 2026 19:00:00 +0000",
     "source": "TechCrunch AI",
     "category": "ai",
-    "content": "Claude's new voice model will let you reschedule your meeting or draft an email",
+    "content": "Claude's new voice model will let you reschedule your meeting or draft an email.",
     "image": "",
     "summary": "Anthropic has updated its Claude voice mode with more capable models, enabling users to reschedule meetings and draft emails. This update aims to improve the functionality of Claude, making it a more useful tool for everyday tasks. The enhanced capabilities of Claude's voice model may increase its adoption and utility.",
     "importance": 6,
@@ -1620,18 +1644,6 @@
     "classified": true
   },
   {
-    "title": "US military sent explosive drone boats into combat for the first time",
-    "link": "https://arstechnica.com/ai/2026/07/us-military-sent-explosive-drone-boats-into-combat-for-the-first-time/",
-    "pubDate": "Tue, 14 Jul 2026 18:00:01 +0000",
-    "source": "Ars Technica AI",
-    "category": "ai",
-    "content": "US military’s drone boats struck an Iranian naval port as war heats up again.",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/US-military-drone-boat-attack-on-Iranian-port-1152x648.png",
-    "summary": "The US military has used explosive drone boats in combat for the first time, targeting an Iranian naval port amidst escalating tensions. This marks a new development in naval warfare technology. The use of drone boats could have significant implications for future conflicts.",
-    "importance": 6,
-    "classified": true
-  },
-  {
     "title": "Crypto catches its breath as bitcoin settles into a holding pattern amid July rally",
     "link": "https://www.coindesk.com/markets/2026/07/23/crypto-catches-its-breath-as-bitcoin-settles-into-a-holding-pattern-after-its-best-month-since-january",
     "pubDate": "Thu, 23 Jul 2026 10:26:23 +0000",
@@ -1646,7 +1658,7 @@
   {
     "title": "Here’s what happened in crypto today",
     "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Thu, 23 Jul 2026 13:31:28 +0000",
+    "pubDate": "Thu, 23 Jul 2026 19:45:15 +0000",
     "source": "Cointelegraph",
     "category": "crypto",
     "content": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
@@ -1689,18 +1701,6 @@
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2216100332-1024x648.jpg",
     "summary": "San Francisco has ordered Apple and Google to remove nudify apps from their app stores, with estimates suggesting the tech giants made millions in fees from these apps. The move is aimed at addressing concerns over the apps' content. The decision may impact the companies' revenue streams.",
     "importance": 2,
-    "classified": true
-  },
-  {
-    "title": "New draft of Clarity Act is out, and it would impose limits on Trump's crypto empire",
-    "link": "https://www.coindesk.com/policy/2026/07/22/new-clarity-act-emerges-that-s-a-start-on-the-final-draft-makes-ethics-rule-temporary",
-    "pubDate": "Wed, 22 Jul 2026 16:15:55 +0000",
-    "source": "CoinDesk",
-    "category": "ai",
-    "content": "Lawmakers have circulated text of the latest draft that will be pushed toward a Senate finish line, but they're still debating a core government-ethics piece.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/6e4532d237786704984596878a883a023b94ba32-4540x2554.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "Lawmakers have circulated a new draft of the Clarity Act, moving it towards a Senate vote. A key government-ethics provision in the act remains under debate, having been made temporary in this latest version.",
-    "importance": 1,
     "classified": true
   },
   {
