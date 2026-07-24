@@ -720,6 +720,18 @@
     "classified": true
   },
   {
+    "title": "How AI guardrails are impeding the work of offensive cybersecurity researchers",
+    "link": "https://techcrunch.com/2026/07/23/how-ai-guardrails-are-impeding-the-work-of-offensive-cybersecurity-researchers/",
+    "pubDate": "Fri, 24 Jul 2026 01:00:00 +0000",
+    "source": "TechCrunch AI",
+    "category": "ai",
+    "content": "We spoke with several cybersecurity researchers, who look for unknown vulnerabilities and develop tools to exploit them, about how OpenAI’s and Anthropic’s guardrails affect their work.",
+    "image": "",
+    "summary": "Cybersecurity researchers are being hindered by AI guardrails implemented by OpenAI and Anthropic, which restrict their ability to develop tools to exploit unknown vulnerabilities. This limitation is affecting their work in identifying and addressing potential security threats. The researchers' findings highlight the challenges of balancing AI safety with the need for cybersecurity research.",
+    "importance": 8,
+    "classified": true
+  },
+  {
     "title": "AMD takes on Nvidia with its Helios AI rack-scale system",
     "link": "https://techcrunch.com/2026/07/23/amd-takes-on-nvidia-with-its-helios-ai-rack-scale-system/",
     "pubDate": "Thu, 23 Jul 2026 20:33:02 +0000",
@@ -840,24 +852,12 @@
     "classified": true
   },
   {
-    "title": "Substack’s new tool tells you who’s been writing their newsletters with AI",
-    "link": "https://techcrunch.com/2026/07/22/substacks-new-tool-tells-you-whos-been-writing-their-newsletters-with-ai/",
-    "pubDate": "Wed, 22 Jul 2026 16:23:09 +0000",
-    "source": "TechCrunch AI",
-    "category": "ai",
-    "content": "Substack is giving readers a way to estimate how much of a newsletter was written by AI, signaling a broader shift toward transparency around AI-assisted content.",
-    "image": "",
-    "summary": "Substack is introducing a tool to estimate the amount of AI-written content in newsletters, promoting transparency around AI-assisted writing. This move reflects a growing trend towards openness about AI's role in content creation. The tool will help readers understand how much of a newsletter was written by humans versus AI.",
-    "importance": 8,
-    "classified": true
-  },
-  {
     "title": "Alexa Plus is getting an AI update to handle more complicated instructions",
     "link": "https://www.theverge.com/tech/970399/amazon-alexa-plus-ai-update-smart-home-devices",
     "pubDate": "2026-07-23T21:15:06.000Z",
     "source": "The Verge AI",
     "category": "ai",
-    "content": "Amazon is launching an update to its Alexa Plus assistant that will allow it to connect to smart home devices in new ways. With the update, Alexa Plus can link up with tech from Bosch, Delta, Ecovacs, iRobot, Yale Home, Whirlpool, Tapo, Eufy, and others, while automatically routing requests to the correct device.\nIn an example shared by Amazon, a person with a supported washing machine can say, \"Alexa, my kid's soccer jersey could use a deep clean, but the tag says cold wash only.\" From there, Alexa Plus would navigate the washer's cycle options and choose the correct setting. The new integrations are powered by Amazon's new AI developer to …\nRead the full story at The Verge.",
+    "content": "Amazon is launching an update to its Alexa Plus assistant that will allow it to connect to smart home devices in new ways. With the update, which is currently in preview, Alexa Plus can link up with tech from Bosch, Delta, Ecovacs, iRobot, Yale Home, Whirlpool, Tapo, Eufy, and others, while automatically routing requests to the correct device.\nIn an example shared by Amazon, a person with a supported washing machine can say, \"Alexa, my kid's soccer jersey could use a deep clean, but the tag says cold wash only.\" From there, Alexa Plus would navigate the washer's cycle options and choose the correct setting. The new integrations are powered  …\nRead the full story at The Verge.",
     "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/8A0A3921.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
     "summary": "Amazon's Alexa Plus is getting an AI update to handle more complicated instructions, allowing it to connect to various smart home devices and automatically route requests to the correct device. The update enables Alexa Plus to navigate device options and choose the correct setting based on user requests. This update is powered by Amazon's new AI developer tool.",
     "importance": 8,
@@ -1272,18 +1272,6 @@
     "classified": true
   },
   {
-    "title": "SEC settles Coinbase suit over ‘text messages that disappeared’",
-    "link": "https://cointelegraph.com/news/sec-settles-coinbase-suit-over-text-messages-that-disappeared?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Thu, 23 Jul 2026 02:57:10 +0000",
-    "source": "Cointelegraph",
-    "category": "crypto",
-    "content": "The settlement follows a watchdog report last year that blamed “avoidable errors” for the loss of nearly a year’s worth of Gary Gensler’s text messages.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/judge-law-court-regulation-coinbase.jpg",
-    "summary": "The SEC has settled a lawsuit with Coinbase related to disappeared text messages, following a watchdog report that criticized the agency for avoidable errors. The report found that nearly a year's worth of Gary Gensler's text messages were lost. The settlement highlights concerns over data preservation and transparency at regulatory agencies.",
-    "importance": 6,
-    "classified": true
-  },
-  {
     "title": "Robinhood CEO’s X account hacked to promote Vladhood memecoin flagged as ‘scam’",
     "link": "https://www.theblock.co/post/409560/robinhood-ceo-x-account-apparently-hacked-promote-vladhood-memecoin-flagged-scam?utm_source=rss&utm_medium=rss",
     "pubDate": "Thu, 23 Jul 2026 13:55:02 -0400",
@@ -1668,13 +1656,25 @@
     "classified": true
   },
   {
+    "title": "SEC sets September talks on move toward 24-hour stock trading",
+    "link": "https://cointelegraph.com/news/sec-to-host-roundtable-on-24-hour-trading-in-us-equities?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Fri, 24 Jul 2026 01:18:16 +0000",
+    "source": "Cointelegraph",
+    "category": "crypto",
+    "content": "Nasdaq, Cboe and the London Stock Exchange are among major exchanges moving toward longer trading hours.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-timeframes3.jpg",
+    "summary": "The SEC is set to discuss a move towards 24-hour stock trading in September. This initiative is already being explored by major exchanges including Nasdaq, Cboe, and the London Stock Exchange.",
+    "importance": 2,
+    "classified": true
+  },
+  {
     "title": "The power line that could reshape New York’s grid is hitting snags",
     "link": "https://www.technologyreview.com/2026/07/23/1140739/power-line-grid-chpe/",
     "pubDate": "Thu, 23 Jul 2026 09:00:00 +0000",
     "source": "MIT Technology Review",
     "category": "crypto",
     "content": "On July 3, as a heat wave swept the region, New York State’s grid imported 52 gigawatt-hours of electricity from Canada—enough to meet about 9% of its total electricity demand that day. Some of that power shuttled in on a 339-mile power line stretching from Quebec to Queens called the Champlain Hudson Power Express (CHPE).…",
-    "image": "",
+    "image": "https://wp.technologyreview.com/wp-content/uploads/2026/07/route.png?w=840",
     "summary": "A 339-mile power line called the Champlain Hudson Power Express is importing electricity from Canada to New York State, helping to meet the region's electricity demand during heat waves. The power line is significant for New York's grid, but is currently hitting snags. The project aims to reshape New York's grid, but its current issues are causing delays.",
     "importance": 2,
     "classified": true
