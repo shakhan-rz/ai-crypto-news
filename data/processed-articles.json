@@ -60,6 +60,18 @@
     "classified": true
   },
   {
+    "title": "Mirae plans to turn crypto exchange Korbit into something Korea hasn't seen before",
+    "link": "https://www.coindesk.com/markets/2026/07/24/mirae-asset-has-a-name-for-what-it-s-building-with-korbit-an-intelligent-platform",
+    "pubDate": "Fri, 24 Jul 2026 06:10:49 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "The South Korean financial giant says its Korbit – soon to be rebranded as Digital X – is just the starting point for a broader ecosystem that connects RWAs, stablecoins and digital assets.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/ae0a096246871f868542edd025af448d189d9fa4-2177x1110.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "South Korean financial giant Mirae Asset is rebranding its crypto exchange Korbit to Digital X, signaling plans to build a comprehensive digital asset ecosystem. This new platform aims to connect real-world assets (RWAs), stablecoins, and other digital assets, offering a unique proposition within the Korean market.",
+    "importance": 8,
+    "classified": true
+  },
+  {
     "title": "Clarity Act expected to miss its window before Congress' summer break, leadership says",
     "link": "https://www.coindesk.com/policy/2026/07/23/clarity-act-expected-to-miss-its-window-before-congress-summer-break-leadership-says",
     "pubDate": "Thu, 23 Jul 2026 20:16:37 +0000",
@@ -72,7 +84,7 @@
     "classified": true
   },
   {
-    "title": "Tassat wants to help smaller banks tap the trillion-dollar stablecoin boom before Wall Street lock them out",
+    "title": "Tassat wants to help smaller banks tap the trillion-dollar stablecoin boom before Wall Street locks them out",
     "link": "https://www.coindesk.com/business/2026/07/23/tassat-wants-to-help-smaller-banks-tap-the-trillion-dollar-stablecoin-boom-before-wall-street-lock-them-out",
     "pubDate": "Thu, 23 Jul 2026 18:10:02 +0000",
     "source": "CoinDesk",
@@ -152,30 +164,6 @@
     "content": "Security firms said the attacker used enough hot-validator signatures to approve a 24.15 million USDC withdrawal, while Arbitrum said its native bridge was not affected.",
     "image": "https://cdn.sanity.io/images/s3y3vcno/production/6923046d9a52fac72269f7dd0d26ff84da658711-3240x1823.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
     "summary": "Arbitrum-based AFX Trade experienced a $24.15 million USDC drain after its bridge keys were compromised, with attackers using multiple hot-validator signatures to approve the withdrawal. Arbitrum clarified that its native bridge was not affected by this incident.",
-    "importance": 8,
-    "classified": true
-  },
-  {
-    "title": "Bitcoin wilts as oil and rates rise. Clarity Act odds tumble to 38%",
-    "link": "https://www.coindesk.com/markets/2026/07/23/bitcoin-wilts-as-oil-and-rates-rise-clarity-act-odds-tumble-to-38",
-    "pubDate": "Thu, 23 Jul 2026 03:50:20 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "Geopolitical risks, rising rates, and fresh regulatory setbacks send crypto lower as key Democrats demand stronger safeguards in the market structure bill.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/ab9b53b686eda9c486cd061f826301e1866e0dd1-2869x1069.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "Bitcoin's value has dropped due to geopolitical risks, rising interest rates, and regulatory setbacks. Democrats are pushing for stronger safeguards in the market structure bill, which has led to a decrease in the odds of the Clarity Act. This has resulted in a decline in the crypto market.",
-    "importance": 8,
-    "classified": true
-  },
-  {
-    "title": "Key Democratic lawmakers say crypto Clarity Act 'falls short' on ethics, other issues",
-    "link": "https://www.coindesk.com/policy/2026/07/22/key-democratic-lawmakers-say-crypto-clarity-act-falls-short-on-ethics-other-issues",
-    "pubDate": "Wed, 22 Jul 2026 22:22:25 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "Several of the Democrats most likely to vote for the crypto market structure bill said they had issues with the new draft published by Republicans earlier in the day.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/1e34e35213ece0dee4183be72e6124f5c8f10b0d-6000x4000.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "Democratic lawmakers have expressed concerns over the crypto Clarity Act, stating it falls short on ethics and other issues. The Act is a crypto market structure bill drafted by Republicans. Lawmakers likely to vote for the bill still have issues with the new draft.",
     "importance": 8,
     "classified": true
   },
@@ -432,14 +420,14 @@
     "classified": true
   },
   {
-    "title": "Bitcoin ETFs approach $1B in 7-session inflow run",
-    "link": "https://cointelegraph.com/markets/bitcoin-etfs-1-billion-7-session-inflow-streak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Thu, 23 Jul 2026 07:08:25 +0000",
-    "source": "Cointelegraph",
+    "title": "How Do Stablecoins Maintain Their Peg?",
+    "link": "https://www.theblock.co/learn/409577/how-do-stablecoins-maintain-their-peg?utm_source=rss&utm_medium=rss",
+    "pubDate": "Fri, 24 Jul 2026 02:01:11 -0400",
+    "source": "The Block",
     "category": "crypto",
-    "content": "US spot Bitcoin ETFs recorded $69 million in inflows on Wednesday, extending their inflow streak to seven sessions and bringing total inflows during the period to nearly $1 billion",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-what-is-a-bitcoin-node-a-beginners-guide-on-blockchain-nodes-etf.jpg",
-    "summary": "US spot Bitcoin ETFs recorded $69 million in inflows on Wednesday, marking their seventh consecutive day of net positive investment. This extended streak brings the total inflows over the seven sessions to almost $1 billion.",
+    "content": "A stablecoin peg is the target price a stablecoin is designed to hold. For the vast majority of stablecoins, this target is one U.S. dollar. Stablecoins maintain that price through two mechanisms. The first is reserves or collateral that give each token its underlying value; the second is an arbitrage process that returns the market […]",
+    "image": "https://www.tbstat.com/wp/uploads/2023/10/20231002_AdvDisadvStablecoin_Learn-800x450.png",
+    "summary": "Stablecoins maintain their target price through two mechanisms: reserves or collateral that give each token its underlying value, and an arbitrage process that returns the market price to the target price. This target price is usually one U.S. dollar. The stability of stablecoins is crucial for their use in cryptocurrency transactions.",
     "importance": 8,
     "classified": true
   },
@@ -572,30 +560,6 @@
     "content": "Latest Clarity Act draft is drawing praise from the crypto industry and criticism from Democrats and bankers, highlighting deep divisions.",
     "image": "https://www.tbstat.com/wp/uploads/2025/05/20250523_DJT-800x450.jpg",
     "summary": "A bipartisan crypto bill is facing criticism from Democrats on ethics grounds, despite receiving praise from the crypto industry, highlighting deep divisions in the US political landscape. The bill aims to provide clarity on crypto regulations. The fate of the bill remains uncertain due to the strong opposition from Democrats.",
-    "importance": 8,
-    "classified": true
-  },
-  {
-    "title": "Kraken parent Payward partners with GTN to scale xStocks internationally, beyond US equities",
-    "link": "https://www.theblock.co/post/409448/kraken-parent-payward-partners-gtn-scale-xstocks-internationally-beyond-us-equities?utm_source=rss&utm_medium=rss",
-    "pubDate": "Wed, 22 Jul 2026 13:31:33 -0400",
-    "source": "The Block",
-    "category": "crypto",
-    "content": "xStocks is tokenizing equities from Hong Kong before expanding to the UK, Europe, South Korea, and other international markets.",
-    "image": "https://www.tbstat.com/wp/uploads/2022/09/connected-worldd-copy-800x436.png",
-    "summary": "Payward, the parent company of Kraken, has partnered with GTN to expand xStocks internationally, starting with tokenized equities from Hong Kong and later moving to the UK, Europe, and other markets. This partnership aims to scale xStocks beyond US equities. The move marks a significant step in tokenizing global equities.",
-    "importance": 8,
-    "classified": true
-  },
-  {
-    "title": "SEC reaches settlement with Coinbase over records requests from Gensler era",
-    "link": "https://www.theblock.co/post/409437/sec-reaches-settlement-coinbase-over-records-requests-gensler-era?utm_source=rss&utm_medium=rss",
-    "pubDate": "Wed, 22 Jul 2026 12:55:08 -0400",
-    "source": "The Block",
-    "category": "crypto",
-    "content": "The SEC reached a settlement with Coinbase on Wednesday, ending a years-long legal dispute over the agency's handling of records requests.",
-    "image": "https://www.tbstat.com/wp/uploads/2026/06/20260612_Coinbase_News_2-800x450.jpg",
-    "summary": "The SEC has reached a settlement with Coinbase, ending a years-long dispute over records requests. The agreement marks the conclusion of a legal battle that began during the Gensler era. The terms of the settlement have not been publicly disclosed.",
     "importance": 8,
     "classified": true
   },
@@ -1080,6 +1044,18 @@
     "classified": true
   },
   {
+    "title": "Ripple’s RLUSD gets two boosts as transfer volume drops 25%",
+    "link": "https://www.coindesk.com/business/2026/07/24/ripple-s-rlusd-gets-two-boosts-as-transfer-volume-drops-25",
+    "pubDate": "Fri, 24 Jul 2026 06:33:37 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "Ripple launched an institutional minting platform and added RLUSD to Notabene’s compliance network as holder growth rose but monthly transfer volume fell to $10.95 billion.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/08996a3dca840a6a70f04df3ee9284ea39cc0a81-3579x2013.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "Ripple's stablecoin, RLUSD, gained two significant boosts with the launch of an institutional minting platform and its addition to Notabene’s compliance network. While holder growth increased, the stablecoin's monthly transfer volume saw a 25% decline, dropping to $10.95 billion.",
+    "importance": 7,
+    "classified": true
+  },
+  {
     "title": "Bitcoin holds near $65,000 as $800 billion AI selloff leaves crypto largely untouched",
     "link": "https://www.coindesk.com/markets/2026/07/24/bitcoin-holds-near-usd65-000-as-usd800-billion-ai-selloff-leaves-crypto-largely-untouched",
     "pubDate": "Fri, 24 Jul 2026 04:43:19 +0000",
@@ -1128,6 +1104,18 @@
     "classified": true
   },
   {
+    "title": "Bitcoin ETFs snap seven-day inflow streak with $225M in outflows",
+    "link": "https://cointelegraph.com/markets/bitcoin-etfs-225-million-outflow-end-7-day-inflow-streak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Fri, 24 Jul 2026 07:17:57 +0000",
+    "source": "Cointelegraph",
+    "category": "crypto",
+    "content": "After attracting nearly $1 billion over seven trading sessions, US-listed spot Bitcoin ETFs recorded their first daily net outflow since July 13.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/analytics-red-market-falling-drop-bitcoin.png",
+    "summary": "US-listed spot Bitcoin ETFs experienced their first daily net outflow since July 13, recording $225 million in outflows. This ended a seven-day streak of inflows that had previously attracted nearly $1 billion to these funds.",
+    "importance": 7,
+    "classified": true
+  },
+  {
     "title": "Bitcoin will get ‘lift’ from Hyperliquid, Robinhood in next crypto bull market: Bitwise exec",
     "link": "https://cointelegraph.com/markets/bitcoin-will-get-lift-from-hyperliquid-robinhood-in-next-crypto-bull-market-bitwise-exec?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "pubDate": "Thu, 23 Jul 2026 10:49:00 +0000",
@@ -1152,14 +1140,14 @@
     "classified": true
   },
   {
-    "title": "Mirae Asset completes Korbit acquisition, becomes largest shareholder",
-    "link": "https://cointelegraph.com/news/mirae-asset-korbit-acquisition-largest-shareholder?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Thu, 23 Jul 2026 07:53:05 +0000",
-    "source": "Cointelegraph",
+    "title": "The Largest Stablecoins Ranked",
+    "link": "https://www.theblock.co/learn/409203/largest-stablecoins-ranked?utm_source=rss&utm_medium=rss",
+    "pubDate": "Fri, 24 Jul 2026 02:18:31 -0400",
+    "source": "The Block",
     "category": "crypto",
-    "content": "Mirae Asset Consulting has become Korbit’s largest shareholder after completing its acquisition, with the exchange saying trading and customer asset protections are unchanged.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-overview-of-the-latest-crypto-developments-from-south-korea.jpg",
-    "summary": "Mirae Asset Consulting has completed its acquisition of Korbit, making it the cryptocurrency exchange's largest shareholder. Korbit has assured users that trading operations and customer asset protections will remain unchanged following the acquisition.",
+    "content": "In recent years, stablecoins have emerged as crypto’s breakout use case. Assets that were created to streamline cryptocurrency trading are now being recognized as a more efficient, flexible, transparent medium of exchange for the world financial system. The total stablecoin market cap has surged on the back of this newfound attention, growing to $300 billion […]",
+    "image": "https://www.tbstat.com/wp/uploads/2025/01/20250102_USDC_News-800x450.jpg",
+    "summary": "Stablecoins have become a breakout use case in the cryptocurrency market, with their total market capitalization surging to $300 billion. Initially designed to streamline crypto trading, they are now recognized as an efficient, flexible, and transparent medium of exchange for the global financial system.",
     "importance": 7,
     "classified": true
   },
@@ -1224,14 +1212,14 @@
     "classified": true
   },
   {
-    "title": "Senator Lummis: Ethics, other provisions in crypto Clarity Act to be further discussed",
-    "link": "https://www.coindesk.com/policy/2026/07/22/senator-lummis-ethics-other-provisions-in-crypto-clarity-act-to-be-further-discussed",
-    "pubDate": "Wed, 22 Jul 2026 23:19:41 +0000",
-    "source": "CoinDesk",
+    "title": "EU widens Belarus ownership ban to all crypto service providers ",
+    "link": "https://cointelegraph.com/news/eu-belarus-crypto-ownership-ban-mica?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Fri, 24 Jul 2026 08:06:15 +0000",
+    "source": "Cointelegraph",
     "category": "crypto",
-    "content": "Senator Cynthia Lummis, one of the lead negotiators on the bill, told CoinDesk she was \"pleased\" that the updated bill was ready for release.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/e3591183f12e34a5a144345e711282f05514f28c-1920x1080.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "Senator Cynthia Lummis announced the updated Crypto Clarity Act is ready for release, with further discussions on ethics and other provisions to come. The bill aims to provide clarity on cryptocurrency regulations. Lummis expressed pleasure at the bill's progress.",
+    "content": "The EU will bar Belarusian nationals and residents from owning, controlling or managing exchanges and other MiCA-regulated crypto firms from Aug. 25.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/crypto-conference-eu2.jpg",
+    "summary": "The European Union is expanding its ban to prohibit Belarusian nationals and residents from owning, controlling, or managing crypto exchanges and other MiCA-regulated crypto firms. This new restriction on crypto service providers will come into effect from August 25.",
     "importance": 6,
     "classified": true
   },
@@ -1620,6 +1608,18 @@
     "classified": true
   },
   {
+    "title": "Live updates: Dogecoin and ether lead pullback as investors digest tech earnings",
+    "link": "https://www.coindesk.com/tech/2026/07/24/live-updates-dogecoin-and-ether-lead-pullback-as-investors-digest-tech-earnings",
+    "pubDate": "Fri, 24 Jul 2026 07:22:26 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "Dogecoin dropped 4.5% and ether 2.5%, leading a broad but shallow retreat across the majors, though most remain higher on the week ahead of next week's Fed meeting.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/4a62a9240acd7e91f42786201cd72ab32c6ec840-5418x3612.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "Dogecoin and ether saw drops of 4.5% and 2.5%, respectively, spearheading a broader but shallow retreat across major cryptocurrencies. Despite this pullback, most cryptos remain higher for the week as investors process tech earnings and look ahead to next week's Fed meeting.",
+    "importance": 5,
+    "classified": true
+  },
+  {
     "title": "Crypto catches its breath as bitcoin settles into a holding pattern amid July rally",
     "link": "https://www.coindesk.com/markets/2026/07/23/crypto-catches-its-breath-as-bitcoin-settles-into-a-holding-pattern-after-its-best-month-since-january",
     "pubDate": "Thu, 23 Jul 2026 10:26:23 +0000",
@@ -1634,7 +1634,7 @@
   {
     "title": "Here’s what happened in crypto today",
     "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Thu, 23 Jul 2026 19:45:15 +0000",
+    "pubDate": "Fri, 24 Jul 2026 06:24:36 +0000",
     "source": "Cointelegraph",
     "category": "crypto",
     "content": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
@@ -1692,7 +1692,7 @@
     "classified": true
   },
   {
-    "title": "Dem senator calls GOP’s CLARITY ethics proposal a ‘piece of shit’: Politico",
+    "title": "Dem senator calls GOP’s CLARITY ethics proposal a ‘piece of s---’: Politico",
     "link": "https://cointelegraph.com/news/senator-gallego-says-gop-clarity-counterproposal-not-a-serious-effort?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "pubDate": "Fri, 24 Jul 2026 03:10:24 +0000",
     "source": "Cointelegraph",
