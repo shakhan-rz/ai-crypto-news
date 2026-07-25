@@ -12,6 +12,18 @@
     "classified": true
   },
   {
+    "title": "Democratizing weather derivatives through tokenization could be crypto's most important real-world use case",
+    "link": "https://www.coindesk.com/opinion/2026/07/25/democratizing-weather-derivatives-through-tokenization-could-be-crypto-s-most-important-real-world-use-case",
+    "pubDate": "Sat, 25 Jul 2026 13:00:00 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "Main Street, which faces the most significant climate-related financial risk, currently lacks an avenue to hedge weather-related risks, argues CoinDesk’s Omkar Godbole.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/498275a8ec5e7df835f47c58778db26eb7a40a00-6240x4160.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "The article proposes that tokenizing weather derivatives could empower Main Street to hedge climate-related financial risks, potentially becoming cryptocurrency's most significant real-world application. It argues that this segment currently lacks adequate avenues to manage such weather-related financial exposures.",
+    "importance": 8,
+    "classified": true
+  },
+  {
     "title": "Sam Altman-backed World Network secures $52.5 million in fresh funding to fight online AI deepfakes",
     "link": "https://www.coindesk.com/business/2026/07/24/sam-altman-backed-world-network-secures-fresh-funding-to-fight-online-ai-deepfakes",
     "pubDate": "Fri, 24 Jul 2026 15:00:00 +0000",
@@ -312,18 +324,6 @@
     "classified": true
   },
   {
-    "title": "Coinbase lets businesses accept USDC payments from AI agents",
-    "link": "https://cointelegraph.com/news/coinbase-lets-businesses-accept-usdc-payments-from-ai-agents?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Thu, 23 Jul 2026 20:51:27 +0000",
-    "source": "Cointelegraph",
-    "category": "both",
-    "content": "The exchange also introduced AI trading tools and a developer kit as part of a broader push to build financial infrastructure for autonomous AI agents.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-trading-bots-vs-ai-agents-facebook-x.png",
-    "summary": "Coinbase now allows businesses to accept USDC payments from AI agents, and has introduced AI trading tools and a developer kit to support autonomous AI agents. This move aims to build financial infrastructure for AI agents. The introduction of these tools and services marks a significant development in the intersection of AI and crypto.",
-    "importance": 8,
-    "classified": true
-  },
-  {
     "title": "Bitcoin Policy Institute, Palantir and Anduril join US State Department’s Freedom Tech Excellence Program",
     "link": "https://www.theblock.co/post/409652/bitcoin-policy-institute-palantir-anduril-us-state-departments-freedom-tech-excellence-program?utm_source=rss&utm_medium=rss",
     "pubDate": "Fri, 24 Jul 2026 18:21:01 -0400",
@@ -536,6 +536,18 @@
     "content": "Designing and developing a new medicine is an expensive, failure-prone scientific challenge. A new drug can take many years to develop, at the cost of a significant investment. And even then, most possible candidates never reach the patient. For biologic medicines, therapies made from engineered proteins rather than synthetic chemistry (which are often used to…",
     "image": "https://wp.technologyreview.com/wp-content/uploads/2026/07/AI_in_Biologics_Draft_4_no_Captions-1.jpg",
     "summary": "Scientists are using AI to design the next generation of medicines, aiming to reduce the time and cost associated with developing new drugs. This process can take many years and requires significant investment, with most candidates ultimately not reaching patients. AI is being utilized to improve the efficiency of this process.",
+    "importance": 8,
+    "classified": true
+  },
+  {
+    "title": "One fallen power line exposed a growing AI data center problem. Here’s how to fix it.",
+    "link": "https://techcrunch.com/2026/07/25/one-fallen-power-line-exposed-a-growing-ai-data-center-problem-heres-how-to-fix-it/",
+    "pubDate": "Sat, 25 Jul 2026 13:05:00 +0000",
+    "source": "TechCrunch AI",
+    "category": "ai",
+    "content": "A close call in Northern Virginia revealed just how poorly data centers respond to grid disruptions. Here's how to fix the problem.",
+    "image": "",
+    "summary": "A close call in Northern Virginia revealed significant vulnerabilities in how data centers, particularly those serving AI, respond to power grid disruptions. The article highlights an urgent need for improved solutions to enhance data center resilience against grid outages.",
     "importance": 8,
     "classified": true
   },
@@ -1020,6 +1032,18 @@
     "classified": true
   },
   {
+    "title": "Fidelity joins push for Senate passage of CLARITY Act",
+    "link": "https://cointelegraph.com/news/fidelity-push-senate-passage-of-clarity-act?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Sat, 25 Jul 2026 11:30:15 +0000",
+    "source": "Cointelegraph",
+    "category": "crypto",
+    "content": "Fidelity called on the US Senate to pass the CLARITY Act, joining industry groups and crypto firms pushing for market structure legislation.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/regulation-lot-of-papers-clarity-act.jpg",
+    "summary": "Fidelity, along with other industry groups and crypto firms, is actively lobbying the US Senate to pass the CLARITY Act. This legislation aims to provide much-needed market structure rules for the industry.",
+    "importance": 7,
+    "classified": true
+  },
+  {
     "title": "EU authorities include HTX exchange in Russian sanctions",
     "link": "https://cointelegraph.com/news/htx-exchange-european-union-russia-sanctions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "pubDate": "Fri, 24 Jul 2026 21:53:05 +0000",
@@ -1112,18 +1136,6 @@
     "content": "BTC held just under $65,000 and crypto broadly rose on Friday even as Brent crude surged to $97.66, its highest since May, as the Iran conflict persists and traditional markets stay muted.",
     "image": "https://cdn.sanity.io/images/s3y3vcno/production/e8450b5fd2ea53520d4c9b8a233c30546550b731-1862x994.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
     "summary": "Bitcoin held near $65,000 and the crypto market rose despite Brent crude oil surging to its highest price since May due to the Iran conflict. The traditional markets remained muted. The crypto market's resilience suggests a lack of correlation with traditional markets.",
-    "importance": 6,
-    "classified": true
-  },
-  {
-    "title": "Crypto for Advisors: It’s time for tokenization to get to work",
-    "link": "https://www.coindesk.com/coindesk-indices/2026/07/23/crypto-for-advisors-it-s-time-for-tokenization-to-get-to-work",
-    "pubDate": "Thu, 23 Jul 2026 14:53:34 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/b8fcaabd55769e9d3a3a4778cf59bffb35f71375-5568x3712.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "The article highlights the increasing importance of cryptocurrency for financial advisors. It advocates for the practical application of tokenization, urging its transition from theoretical concepts to tangible utility within the financial advisory sector.",
     "importance": 6,
     "classified": true
   },
@@ -1464,18 +1476,6 @@
     "classified": true
   },
   {
-    "title": "Experts say exploiting Anthropic’s Fable isn’t how Kimi K3 got so good",
-    "link": "https://techcrunch.com/2026/07/23/experts-say-exploiting-anthropics-fable-isnt-how-kimi-k3-got-so-good/",
-    "pubDate": "Thu, 23 Jul 2026 11:00:00 +0000",
-    "source": "TechCrunch AI",
-    "category": "ai",
-    "content": "\"I don't think you get a model this strong and this quickly on the heels of Fable doing strictly distillation,\" one expert told TechCrunch.",
-    "image": "",
-    "summary": "Experts claim that Kimi K3's strength cannot be attributed to exploiting Anthropic's Fable through strict distillation. This suggests that other factors contributed to Kimi K3's rapid development. The exact methods behind Kimi K3's success are still unclear.",
-    "importance": 6,
-    "classified": true
-  },
-  {
     "title": "Midjourney bought the astrology app Co-Star",
     "link": "https://www.theverge.com/ai-artificial-intelligence/970894/midjourney-co-star-acquisition",
     "pubDate": "2026-07-24T19:06:58.000Z",
@@ -1598,7 +1598,7 @@
   {
     "title": "Here’s what happened in crypto today",
     "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Fri, 24 Jul 2026 19:03:45 +0000",
+    "pubDate": "Sat, 25 Jul 2026 12:06:01 +0000",
     "source": "Cointelegraph",
     "category": "crypto",
     "content": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
