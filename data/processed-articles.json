@@ -312,18 +312,6 @@
     "classified": true
   },
   {
-    "title": "Gemini co-founders sent $10M in Bitcoin to Trump PAC after joint motion with CFTC",
-    "link": "https://cointelegraph.com/news/gemini-winklevoss-bitcoin-donald-trump-pac-cftc-deal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Thu, 23 Jul 2026 21:47:39 +0000",
-    "source": "Cointelegraph",
-    "category": "crypto",
-    "content": "The Bitcoin donation can be used to support Donald Trump as a New York court considers whether to reverse a $5 million settlement between the CFTC and Gemini.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/winklevoss-trump.jpg",
-    "summary": "Gemini sent $10M in Bitcoin to a Trump PAC, which may support Donald Trump, as a New York court considers a $5 million settlement between the CFTC and Gemini. The donation could impact the outcome of the court case. The move is significant due to the large amount of Bitcoin involved.",
-    "importance": 8,
-    "classified": true
-  },
-  {
     "title": "Bitcoin Policy Institute, Palantir and Anduril join US State Department’s Freedom Tech Excellence Program",
     "link": "https://www.theblock.co/post/409652/bitcoin-policy-institute-palantir-anduril-us-state-departments-freedom-tech-excellence-program?utm_source=rss&utm_medium=rss",
     "pubDate": "Fri, 24 Jul 2026 18:21:01 -0400",
@@ -476,18 +464,6 @@
     "content": "Circle plans to explore blockchain-based payment infrastructure in South Korea through partnerships with Kakao and Toss.",
     "image": "https://www.tbstat.com/wp/uploads/2020/12/20201218_Circle-2-800x450.jpg",
     "summary": "Circle has partnered with Kakao and Toss Bank to explore the development of stablecoin payment rails in South Korea, utilizing blockchain-based infrastructure. This collaboration aims to enhance payment systems in the country. The partnership may lead to increased adoption of digital currencies in the region.",
-    "importance": 8,
-    "classified": true
-  },
-  {
-    "title": "BitMEX to shut down permanently 11 years after Arthur Hayes co-founded crypto exchange",
-    "link": "https://www.theblock.co/post/409495/bitmex-to-shut-down-permanently?utm_source=rss&utm_medium=rss",
-    "pubDate": "Thu, 23 Jul 2026 05:00:36 -0400",
-    "source": "The Block",
-    "category": "crypto",
-    "content": "BitMEX, co-founded by Arthur Hayes, will shut down on Sept. 23, 2026, at 04:00 UTC after owner HDR Global Trading's strategic review.",
-    "image": "https://www.tbstat.com/wp/uploads/2023/03/20230315_BitMex_3-800x450.jpg",
-    "summary": "BitMEX, a cryptocurrency exchange co-founded by Arthur Hayes, will shut down permanently on September 23, 2026. The decision comes after a strategic review by owner HDR Global Trading. This marks the end of an 11-year run for the exchange.",
     "importance": 8,
     "classified": true
   },
@@ -680,18 +656,6 @@
     "content": "Etched, founded by three Harvard dropouts, has created new chips and memory components that speed up inference on any AI model -- no GPUs required, it says.",
     "image": "",
     "summary": "Etched, a startup founded by three Harvard dropouts, has developed new chips and memory components that can speed up AI inference without the need for GPUs, and has reached a valuation of $10.3B from big-name investors. This breakthrough could significantly impact the AI industry. The company's innovative technology has garnered attention from prominent investors.",
-    "importance": 8,
-    "classified": true
-  },
-  {
-    "title": "Google’s Gemini nears billion-user milestone",
-    "link": "https://techcrunch.com/2026/07/23/google-closes-in-on-another-billion-user-product-with-gemini/",
-    "pubDate": "Thu, 23 Jul 2026 14:52:44 +0000",
-    "source": "TechCrunch AI",
-    "category": "ai",
-    "content": "Gemini had over 750 million monthly users in February.",
-    "image": "",
-    "summary": "Google's Gemini is nearing a billion-user milestone, with over 750 million monthly users reported in February. This significant growth indicates Gemini's increasing popularity. The achievement is noteworthy for the AI community.",
     "importance": 8,
     "classified": true
   },
@@ -948,6 +912,18 @@
     "classified": true
   },
   {
+    "title": "North Korea arrests hackers accused of laundering stolen funds from country's bank via crypto",
+    "link": "https://www.coindesk.com/business/2026/07/25/north-korea-arrests-hackers-accused-of-laundering-stolen-funds-from-country-s-bank-via-crypto",
+    "pubDate": "Sat, 25 Jul 2026 15:46:05 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "The group allegedly breached Central Bank systems, converted crypto to cash via Chinese brokers, and used small transfers to evade detection.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/718e047524d1d0b0ef0a84f0f8f609f4d68e9b1c-1439x810.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "Hackers have been arrested for allegedly laundering funds stolen from North Korea's Central Bank. The group is accused of breaching the bank's systems, converting the stolen funds into cash through Chinese brokers using cryptocurrency, and employing small transfers to evade detection.",
+    "importance": 7,
+    "classified": true
+  },
+  {
     "title": "Robinhood Chain's real-world assets jump fivefold as tokenized stocks start trading in bigger size",
     "link": "https://www.coindesk.com/business/2026/07/25/robinhood-chain-s-real-world-assets-jump-fivefold-as-tokenized-stocks-start-trading-in-bigger-size",
     "pubDate": "Sat, 25 Jul 2026 10:00:00 +0000",
@@ -1020,14 +996,14 @@
     "classified": true
   },
   {
-    "title": "The SEC settles with Coinbase over its missing Gary Gensler texts",
-    "link": "https://www.coindesk.com/policy/2026/07/23/sec-agrees-to-end-lawsuit-over-missing-ethereum-records-will-pay-usd150-000-in-fees",
-    "pubDate": "Thu, 23 Jul 2026 15:36:39 +0000",
-    "source": "CoinDesk",
+    "title": "North Korea arrests bank hacking ring tied to crypto laundering: Report",
+    "link": "https://cointelegraph.com/news/north-korea-bank-hacking-ring-crypto-laundering-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Sat, 25 Jul 2026 13:14:18 +0000",
+    "source": "Cointelegraph",
     "category": "crypto",
-    "content": "A new court status report reveals the agency will pay a flat fee to resolve a two-year fight over what former Chair Gary Gensler knew about Ethereum.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/03ab15a46a49d90cd40a30c7756dd0610bc6a533-3645x2050.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "The SEC has settled a two-year dispute with Coinbase over former Chair Gary Gensler's missing texts regarding his knowledge of Ethereum. The agency will pay a flat fee to resolve the matter, as revealed in a new court status report.",
+    "content": "Daily NK reported that North Korea arrested former state cyber operators accused of hacking two state banks and laundering funds through crypto.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-north-korea-crypto-relationship2.jpg",
+    "summary": "North Korea has reportedly arrested former state cyber operators. These individuals are accused of hacking two state banks and subsequently laundering the stolen funds using cryptocurrency.",
     "importance": 7,
     "classified": true
   },
@@ -1092,6 +1068,18 @@
     "classified": true
   },
   {
+    "title": "Bitcoin ETF weekly trading volume falls to lowest since October 2024 as ether funds lead inflows again",
+    "link": "https://www.theblock.co/post/409660/bitcoin-etf-weekly-trading-volume-falls-to-lowest-since-october-2024-as-ether-funds-lead-inflows-again?utm_source=rss&utm_medium=rss",
+    "pubDate": "Sat, 25 Jul 2026 09:59:06 -0400",
+    "source": "The Block",
+    "category": "crypto",
+    "content": "Ether funds have drawn nearly as much capital as bitcoin ETFs over the past three weeks despite holding about one-eighth as much in net assets.",
+    "image": "https://www.tbstat.com/wp/uploads/2025/06/20250603_Bitcoin_News-800x450.jpg",
+    "summary": "Bitcoin ETF weekly trading volume has fallen to its lowest level since October 2024. In contrast, Ether funds have shown strong performance, attracting nearly as much capital as Bitcoin ETFs over the past three weeks despite having only one-eighth of the net assets.",
+    "importance": 7,
+    "classified": true
+  },
+  {
     "title": "The Largest Stablecoins Ranked",
     "link": "https://www.theblock.co/learn/409203/largest-stablecoins-ranked?utm_source=rss&utm_medium=rss",
     "pubDate": "Fri, 24 Jul 2026 02:18:31 -0400",
@@ -1112,6 +1100,18 @@
     "content": "The conversation about AI often centers on algorithms, computing power, or huge investments in new semiconductor fabrication plants and hyperscale data centers. But beneath each of these advances is another layer of innovation that makes them possible: advanced materials. Every new generation of AI technology demands more processing power, more memory, greater energy efficiency, and…",
     "image": "https://wp.technologyreview.com/wp-content/uploads/2026/07/Syensqo-shutterstock_2491787317.jpg?w=1200",
     "summary": "The article highlights the critical, often overlooked role of advanced materials science in enabling next-generation AI technologies. It argues that while discussions frequently center on algorithms and computing power, innovations in materials are fundamental to meeting the increasing demands for processing power, memory, and energy efficiency.",
+    "importance": 7,
+    "classified": true
+  },
+  {
+    "title": "Librarians are hosting viral ‘Avoiding AI’ workshops for people who are fed up with Big Tech",
+    "link": "https://techcrunch.com/2026/07/25/librarians-are-hosting-viral-avoiding-ai-workshops-for-people-who-are-fed-up-with-big-tech/",
+    "pubDate": "Sat, 25 Jul 2026 16:00:00 +0000",
+    "source": "TechCrunch AI",
+    "category": "ai",
+    "content": "At libraries around the country, \"Avoiding AI\" workshops have elicited unprecedented demand.",
+    "image": "",
+    "summary": "Librarians nationwide are hosting \"Avoiding AI\" workshops that have seen unprecedented demand, indicating a growing public sentiment against artificial intelligence and Big Tech. These workshops cater to individuals who are wary of the increasing influence of AI in their lives.",
     "importance": 7,
     "classified": true
   },
