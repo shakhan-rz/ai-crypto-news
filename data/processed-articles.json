@@ -984,18 +984,6 @@
     "classified": true
   },
   {
-    "title": "Bitcoin holds near $65,000 as $800 billion AI selloff leaves crypto largely untouched",
-    "link": "https://www.coindesk.com/markets/2026/07/24/bitcoin-holds-near-usd65-000-as-usd800-billion-ai-selloff-leaves-crypto-largely-untouched",
-    "pubDate": "Fri, 24 Jul 2026 04:43:19 +0000",
-    "source": "CoinDesk",
-    "category": "both",
-    "content": "The Magnificent Seven had their worst day since April 2025 after Alphabet and Tesla spooked investors on AI spending. Bitcoin fell less than 1%, and dogecoin led the majors lower.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/28b1a94149915bfe2334d8a4a2fc958c585a71c8-4032x3024.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "An $800 billion selloff impacted the \"Magnificent Seven\" tech stocks due to investor concerns over AI spending by companies like Alphabet and Tesla. Despite this significant downturn in the AI sector, Bitcoin experienced a minimal fall of less than 1%, suggesting the crypto market was largely resilient. However, Dogecoin did lead other major cryptocurrencies lower.",
-    "importance": 7,
-    "classified": true
-  },
-  {
     "title": "Binance ‘red teams’ its own staff every month to keep hackers out",
     "link": "https://cointelegraph.com/news/binance-red-teams-own-staff-every-month-to-keep-hackers-out?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "pubDate": "Sun, 26 Jul 2026 02:00:00 +0000",
@@ -1622,13 +1610,25 @@
   {
     "title": "Here’s what happened in crypto today",
     "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Sat, 25 Jul 2026 12:06:01 +0000",
+    "pubDate": "Sun, 26 Jul 2026 12:04:52 +0000",
     "source": "Cointelegraph",
     "category": "crypto",
     "content": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
     "image": "https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg",
     "summary": "The article provides a daily roundup of the latest news affecting the cryptocurrency market, covering topics such as Bitcoin price movements, blockchain developments, DeFi, Web3, and regulatory updates. It serves as a quick guide to current trends and events in the crypto space.",
     "importance": 4,
+    "classified": true
+  },
+  {
+    "title": "U.S. regulator warns prediction markets against cutting corners in event contracts",
+    "link": "https://www.coindesk.com/policy/2026/07/24/u-s-regulator-warns-prediction-markets-against-cutting-corners-in-event-contracts",
+    "pubDate": "Sun, 26 Jul 2026 13:00:00 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "The Commodity Futures Trading Commission again issued an advisory that signals firms have been straying into cookie-cutter self-certification.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/ba52f7bccf2ae307a3c4c7efe5945ed295f5380d-4032x2268.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "The U.S. Commodity Futures Trading Commission (CFTC) has reissued an advisory, warning firms involved in prediction markets. The regulator expressed concern that companies are employing generic, 'cookie-cutter' self-certification processes and cutting corners for their event contracts.",
+    "importance": 3,
     "classified": true
   },
   {
