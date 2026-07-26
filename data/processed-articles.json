@@ -29,7 +29,7 @@
     "pubDate": "Sun, 26 Jul 2026 06:59:51 +0000",
     "source": "CoinDesk",
     "category": "crypto",
-    "content": "Users have a month to close trades and six months to withdraw, and the exchange gave no specific reason for closing.",
+    "content": "Users have a month to close trades and six months to withdraw funds, and the exchange gave no specific reason for the closure.",
     "image": "https://cdn.sanity.io/images/s3y3vcno/production/030d61604f4bdf32cd4013015de2ad6a80a15e24-7200x4800.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
     "summary": "Crypto exchange BitMart announced its shutdown after nine years of operation, with users given one month to close trades and six months to withdraw their funds. The exchange did not provide a specific reason for its closure, leading to a 58% crash in its native BMX token.",
     "importance": 8,
@@ -168,12 +168,24 @@
     "classified": true
   },
   {
-    "title": "South Korea’s largest bank to launch payment service on JPMorgan’s Kinexys",
-    "link": "https://cointelegraph.com/news/south-korea-bank-payment-jpmorgans-kinexys?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Sun, 26 Jul 2026 10:21:25 +0000",
+    "title": "Bitcoin OG selling eases as dormant BTC movement hits 4-year low: Galaxy",
+    "link": "https://cointelegraph.com/markets/bitcoin-og-dormant-btc-movement-thorn?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Sun, 26 Jul 2026 13:06:00 +0000",
     "source": "Cointelegraph",
     "category": "crypto",
-    "content": "South Korea’s largest lender will use JPMorgan’s blockchain platform to support US dollar cross-border payments for import and export businesses across 10 countries.",
+    "content": "Dormant BTC activity fell to its lowest level since Q3 2022, suggesting long-term holders have slowed distribution after heavy profit-taking.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-who-is-the-whale-from-2017.jpg",
+    "summary": "Dormant Bitcoin (BTC) activity has dropped to its lowest level since Q3 2022, according to Galaxy. This suggests that long-term holders have significantly reduced their selling and profit-taking after a period of heavy distribution.",
+    "importance": 8,
+    "classified": true
+  },
+  {
+    "title": "South Korea’s largest bank to launch payment service on JPMorgan’s Kinexys",
+    "link": "https://cointelegraph.com/news/south-korea-bank-payment-jpmorgans-kinexys?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Sun, 26 Jul 2026 10:23:00 +0000",
+    "source": "Cointelegraph",
+    "category": "crypto",
+    "content": "KB Kookmin Bank will use JPMorgan’s blockchain platform to support US dollar cross-border payments for import and export businesses across 10 countries.",
     "image": "https://s3-images.ctmedia.io/media/article-covers/hi-crypto-negotiation-south-korea.jpg",
     "summary": "South Korea's largest bank is set to launch a new US dollar cross-border payment service for import and export businesses, utilizing JPMorgan's Kinexys blockchain platform. This service will facilitate transactions across 10 countries, demonstrating a significant adoption of blockchain technology by a major traditional financial institution.",
     "importance": 8,
@@ -182,7 +194,7 @@
   {
     "title": "BitMart to wind down exchange, end trading by Aug. 26",
     "link": "https://cointelegraph.com/news/bitmart-wind-down-exchange-end-trading?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Sun, 26 Jul 2026 07:11:27 +0000",
+    "pubDate": "Sun, 26 Jul 2026 07:13:00 +0000",
     "source": "Cointelegraph",
     "category": "crypto",
     "content": "Crypto exchange BitMart said it will wind down operations after its BMX token plunged and users reported withdrawal delays, with platform operations set to end in January.",
@@ -194,7 +206,7 @@
   {
     "title": "Robinhood in talks with Crypto.com over prediction markets: WSJ",
     "link": "https://cointelegraph.com/news/robinhood-cryptocom-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Sat, 25 Jul 2026 21:01:44 +0000",
+    "pubDate": "Sat, 25 Jul 2026 21:05:00 +0000",
     "source": "Cointelegraph",
     "category": "crypto",
     "content": "While prediction market companies in the US continue to face legal battles between state and federal authorities, Robinhood is reportedly considering expanding its services.",
@@ -308,18 +320,6 @@
     "content": "Ripple launches Mint to expand RLUSD access for institutions as the stablecoin’s market cap approaches $1.6 billion.",
     "image": "https://s3-images.ctmedia.io/media/article-covers/hi-ripple-labs-rlusd-stablecoin-everything-you-need-to-know.jpg",
     "summary": "Ripple has launched Mint, a platform aimed at expanding institutional access to RLUSD, a stablecoin with a market cap nearing $1.6 billion. This move is expected to increase adoption and usage of the stablecoin. The launch is a significant development for the crypto market.",
-    "importance": 8,
-    "classified": true
-  },
-  {
-    "title": "Bitcoin mining pool Poolin files for Chapter 11 bankruptcy",
-    "link": "https://cointelegraph.com/news/bitcoin-mining-poolin-chapter-11-bankruptcy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Fri, 24 Jul 2026 08:38:49 +0000",
-    "source": "Cointelegraph",
-    "category": "crypto",
-    "content": "Bitcoin miner Poolin filed for Chapter 11 bankruptcy and initiated a $52 million sale of its two West Texas mining sites as part of its future creditor recovery program.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-update-proof-of-stake-vs-proof-of-work-pros-cons-and-differences-explained.jpg",
-    "summary": "Bitcoin miner Poolin has filed for Chapter 11 bankruptcy and plans to sell two West Texas mining sites for $52 million as part of its creditor recovery program. This move is a result of financial difficulties. The sale aims to recover funds for creditors.",
     "importance": 8,
     "classified": true
   },
@@ -464,18 +464,6 @@
     "content": "LayerZero and Keeta have partnered to enable native transfers of tokenized bank deposits across Ethereum, Solana, Base, and Keeta.",
     "image": "https://www.tbstat.com/wp/uploads/2024/05/layerzero-800x450.jpeg",
     "summary": "LayerZero and Keeta have partnered to enable the transfer of tokenized bank deposits across multiple blockchain platforms, including Ethereum, Solana, and Base. This partnership aims to facilitate seamless transactions between different networks. The collaboration allows for native transfers of tokenized bank deposits on the participating platforms.",
-    "importance": 8,
-    "classified": true
-  },
-  {
-    "title": "Flow Traders pilots Lombard’s new bitcoin-backed credit strategy for stablecoin borrowing",
-    "link": "https://www.theblock.co/post/409516/flow-traders-pilots-lombards-new-bitcoin-backed-credit-strategy-for-stablecoin-borrowing?utm_source=rss&utm_medium=rss",
-    "pubDate": "Thu, 23 Jul 2026 09:00:00 -0400",
-    "source": "The Block",
-    "category": "crypto",
-    "content": "Lombard Finance is launching its Bitcoin Onchain Credit Strategy with Flow Traders as the pilot partner.",
-    "image": "https://www.tbstat.com/wp/uploads/2026/04/20260410_Bitcoin_News-800x450.jpg",
-    "summary": "Lombard Finance has launched a Bitcoin Onchain Credit Strategy, with Flow Traders as the pilot partner, allowing for bitcoin-backed credit for stablecoin borrowing. This strategy enables the use of bitcoin as collateral for loans. The partnership aims to explore new lending opportunities in the crypto space.",
     "importance": 8,
     "classified": true
   },
@@ -986,10 +974,10 @@
   {
     "title": "Binance ‘red teams’ its own staff every month to keep hackers out",
     "link": "https://cointelegraph.com/news/binance-red-teams-own-staff-every-month-to-keep-hackers-out?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Sun, 26 Jul 2026 02:00:00 +0000",
+    "pubDate": "Sun, 26 Jul 2026 02:01:00 +0000",
     "source": "Cointelegraph",
     "category": "crypto",
-    "content": "Binance regularly tests its employees for security hygiene, with social engineering becoming a major source of industry breaches.",
+    "content": "Binance regularly tests its employees for security hygiene, as social engineering is becoming a major source of industry breaches.",
     "image": "https://s3-images.ctmedia.io/media/article-covers/phishing.jpg",
     "summary": "Binance conducts monthly 'red team' exercises, testing its employees' security hygiene to counteract social engineering, which is a significant cause of industry breaches. This proactive measure aims to enhance the security posture of the major cryptocurrency exchange.",
     "importance": 7,
@@ -998,7 +986,7 @@
   {
     "title": "Bitcoin advocacy group to join US State Department’s ‘digital freedom’ program",
     "link": "https://cointelegraph.com/news/bitcoin-policy-institute-state-department-program?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Sat, 25 Jul 2026 18:15:44 +0000",
+    "pubDate": "Sat, 25 Jul 2026 18:19:00 +0000",
     "source": "Cointelegraph",
     "category": "crypto",
     "content": "The Bitcoin Policy Institute and three partner organizations will be able to send employees to work alongside State Department officials to address issues including digital freedom.",
@@ -1010,10 +998,10 @@
   {
     "title": "North Korea arrests bank hacking ring tied to crypto laundering: Report",
     "link": "https://cointelegraph.com/news/north-korea-bank-hacking-ring-crypto-laundering-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Sat, 25 Jul 2026 13:14:18 +0000",
+    "pubDate": "Sat, 25 Jul 2026 13:16:00 +0000",
     "source": "Cointelegraph",
     "category": "crypto",
-    "content": "Daily NK reported that North Korea arrested former state cyber operators accused of hacking two state banks and laundering funds through crypto.",
+    "content": "South Korean Daily NK reported that North Korea arrested former state cyber operators accused of hacking two state banks and laundering funds through crypto.",
     "image": "https://s3-images.ctmedia.io/media/article-covers/hi-north-korea-crypto-relationship2.jpg",
     "summary": "North Korea has reportedly arrested former state cyber operators. These individuals are accused of hacking two state banks and subsequently laundering the stolen funds using cryptocurrency.",
     "importance": 7,
@@ -1022,7 +1010,7 @@
   {
     "title": "Fidelity joins push for Senate passage of CLARITY Act",
     "link": "https://cointelegraph.com/news/fidelity-push-senate-passage-of-clarity-act?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Sat, 25 Jul 2026 11:30:15 +0000",
+    "pubDate": "Sat, 25 Jul 2026 11:32:00 +0000",
     "source": "Cointelegraph",
     "category": "crypto",
     "content": "Fidelity called on the US Senate to pass the CLARITY Act, joining industry groups and crypto firms pushing for market structure legislation.",
@@ -1164,9 +1152,9 @@
     "classified": true
   },
   {
-    "title": " Wise to resubmit US charter application under GENIUS Act",
+    "title": " Wise to resubmit US bank charter application under GENIUS Act",
     "link": "https://cointelegraph.com/news/wise-resubmit-occ-charter-application-genius-stablecoins?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Sat, 25 Jul 2026 16:05:31 +0000",
+    "pubDate": "Sat, 25 Jul 2026 16:10:00 +0000",
     "source": "Cointelegraph",
     "category": "crypto",
     "content": "The OCC denied the UK company’s application this week citing AML/CFT risks, despite approving similar charters for digital asset companies in the last year.",
@@ -1178,7 +1166,7 @@
   {
     "title": "Dango’s perp DEX taps out nearly 4 months after launch",
     "link": "https://cointelegraph.com/news/dangos-perp-dex-taps-nearly-months-launch?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Sat, 25 Jul 2026 10:01:26 +0000",
+    "pubDate": "Sat, 25 Jul 2026 10:05:00 +0000",
     "source": "Cointelegraph",
     "category": "crypto",
     "content": "Dango will close its network on Aug. 13, joining BitMEX, Odos and Satori Finance in a wave of recent crypto shutdowns.",
@@ -1190,7 +1178,7 @@
   {
     "title": "Ethereum ETFs close week in red, end 5-day inflow streak",
     "link": "https://cointelegraph.com/markets/ethereum-etfs-week-red-end-inflow-streak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Sat, 25 Jul 2026 07:40:35 +0000",
+    "pubDate": "Sat, 25 Jul 2026 07:43:00 +0000",
     "source": "Cointelegraph",
     "category": "crypto",
     "content": "Ethereum ETFs snapped a five-day inflow streak and Bitcoin ETFs logged a second day of outflows, though both funds extended their weekly inflow streaks to three.",
@@ -1604,6 +1592,18 @@
     "content": "Michael Saylor's Strategy — under continued pressure in this crypto bear market — released a new set of metrics to judge company performance.",
     "image": "https://cdn.sanity.io/images/s3y3vcno/production/616e44316b00e97fa939ff279c0fd6447b7188ac-2916x1518.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
     "summary": "Dogecoin and ether saw drops of 4.5% and 2.5%, respectively, spearheading a broader but shallow retreat across major cryptocurrencies. Despite this pullback, most cryptos remain higher for the week as investors process tech earnings and look ahead to next week's Fed meeting.",
+    "importance": 5,
+    "classified": true
+  },
+  {
+    "title": "BitMart to wind down trading platform as global CEO says he was not consulted",
+    "link": "https://www.theblock.co/post/409670/bitmart-to-wind-down-trading-platform-as-global-ceo-says-he-was-not-consulted?utm_source=rss&utm_medium=rss",
+    "pubDate": "Sun, 26 Jul 2026 10:55:55 -0400",
+    "source": "The Block",
+    "category": "crypto",
+    "content": "BitMart's global CEO said the firm told him on July 24 that his employment was ending and that he learned of the closure when it went public.",
+    "image": "https://www.tbstat.com/wp/uploads/2025/01/20250115_Tokens_News_2-800x450.jpg",
+    "summary": "BitMart's global CEO was informed of his employment termination on July 24, simultaneously learning of the trading platform's closure when the news went public. He stated he was not consulted regarding the decision to wind down the platform.",
     "importance": 5,
     "classified": true
   },
