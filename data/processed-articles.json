@@ -300,18 +300,6 @@
     "classified": true
   },
   {
-    "title": "BitMEX hit with 623 BTC lawsuit on day it announces shutdown ",
-    "link": "https://cointelegraph.com/news/bitmex-liquidation-fraud-lawsuit-shutdown?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Fri, 24 Jul 2026 05:20:11 +0000",
-    "source": "Cointelegraph",
-    "category": "crypto",
-    "content": "The proposed class action alleges BitMEX used privileged trading access and server freezes to profit from forced liquidations.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/courtroom-court-lawsuit-justice-jurisdiction-breaking-news-1.png",
-    "summary": "A lawsuit has been filed against BitMEX, alleging the company used privileged trading access and server freezes to profit from forced liquidations, with the plaintiffs seeking 623 BTC. This lawsuit comes on the same day BitMEX announced its shutdown. The lawsuit claims BitMEX's actions were unfair and exploitative.",
-    "importance": 8,
-    "classified": true
-  },
-  {
     "title": "Robinhood in talks to add Crypto.com prediction markets as Kalshi rivalry grows: WSJ",
     "link": "https://www.theblock.co/post/409665/robinhood-in-talks-to-add-crypto-com-prediction-markets-as-kalshi-rivalry-grows-wsj?utm_source=rss&utm_medium=rss",
     "pubDate": "Sat, 25 Jul 2026 13:27:20 -0400",
@@ -516,6 +504,18 @@
     "classified": true
   },
   {
+    "title": "Monday.com is the latest tech company to blame AI for layoffs — here are 20 others",
+    "link": "https://techcrunch.com/2026/07/25/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
+    "pubDate": "Sun, 26 Jul 2026 01:30:00 +0000",
+    "source": "TechCrunch AI",
+    "category": "ai",
+    "content": "A running look — in reverse chronological order — at the bigger tech companies that have announced significant layoffs this year with AI as a stated factor.",
+    "image": "",
+    "summary": "The article highlights that Monday.com is the latest among over 20 major tech companies to attribute recent significant layoffs to artificial intelligence. It provides an ongoing look at these companies that have cited AI as a factor in their workforce reductions this year.",
+    "importance": 8,
+    "classified": true
+  },
+  {
     "title": "One fallen power line exposed a growing AI data center problem. Here’s how to fix it.",
     "link": "https://techcrunch.com/2026/07/25/one-fallen-power-line-exposed-a-growing-ai-data-center-problem-heres-how-to-fix-it/",
     "pubDate": "Sat, 25 Jul 2026 13:05:00 +0000",
@@ -644,18 +644,6 @@
     "content": "Users can also integrate their personal data from services like Apple Health, Function, and MyFitnessPal.",
     "image": "",
     "summary": "OpenAI has made ChatGPT Health available to all US users, allowing them to access personalized health and wellness information. Users can integrate their personal data from services like Apple Health, Function, and MyFitnessPal. This move expands the capabilities of ChatGPT in the health sector.",
-    "importance": 8,
-    "classified": true
-  },
-  {
-    "title": "AI chip startup Etched defies skeptics, hits $10.3B valuation from big-name investors ",
-    "link": "https://techcrunch.com/2026/07/23/ai-chip-startup-etched-defies-skeptics-hits-10-3b-valuation-from-big-name-investors/",
-    "pubDate": "Thu, 23 Jul 2026 15:00:00 +0000",
-    "source": "TechCrunch AI",
-    "category": "ai",
-    "content": "Etched, founded by three Harvard dropouts, has created new chips and memory components that speed up inference on any AI model -- no GPUs required, it says.",
-    "image": "",
-    "summary": "Etched, a startup founded by three Harvard dropouts, has developed new chips and memory components that can speed up AI inference without the need for GPUs, and has reached a valuation of $10.3B from big-name investors. This breakthrough could significantly impact the AI industry. The company's innovative technology has garnered attention from prominent investors.",
     "importance": 8,
     "classified": true
   },
@@ -992,6 +980,18 @@
     "content": "The post, now deleted, touted a token called $VLAD and falsely claimed it would be listed on Robinhood.",
     "image": "https://cdn.sanity.io/images/s3y3vcno/production/da9ffcdfcd965614c3a32a2e673631861308b387-1920x1080.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
     "summary": "Robinhood CEO Vlad Tenev's X account was hacked to promote a token called $VLAD. The deleted post falsely claimed the token would be listed on Robinhood amidst a memecoin frenzy.",
+    "importance": 7,
+    "classified": true
+  },
+  {
+    "title": "Binance ‘red teams’ its own staff every month to keep hackers out",
+    "link": "https://cointelegraph.com/news/binance-red-teams-own-staff-every-month-to-keep-hackers-out?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Sun, 26 Jul 2026 02:00:00 +0000",
+    "source": "Cointelegraph",
+    "category": "crypto",
+    "content": "Binance regularly tests its employees for security hygiene, with social engineering becoming a major source of industry breaches.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/phishing.jpg",
+    "summary": "Binance conducts monthly 'red team' exercises, testing its employees' security hygiene to counteract social engineering, which is a significant cause of industry breaches. This proactive measure aims to enhance the security posture of the major cryptocurrency exchange.",
     "importance": 7,
     "classified": true
   },
