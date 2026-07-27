@@ -36,6 +36,18 @@
     "classified": true
   },
   {
+    "title": "Bitcoin is back above $65,000 as U.S. and Iran hold fire. Oil drops 5%",
+    "link": "https://www.coindesk.com/markets/2026/07/27/bitcoin-is-back-above-usd65-000-as-u-s-iran-hold-fire-oil-drops-5",
+    "pubDate": "Mon, 27 Jul 2026 04:21:26 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "ETH outperforms BTC, hinting at potential altcoin rally, as the U.S. and Iran hold fire and oil drops.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/c33d360ec80c79d71a2d515c01e84c4978d1ef9f-2860x1070.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "Bitcoin has surged above $65,000, while Ethereum is notably outperforming BTC, suggesting the possibility of a broader altcoin rally. These market movements coincide with a de-escalation of tensions between the U.S. and Iran, which also led to a 5% drop in oil prices.",
+    "importance": 8,
+    "classified": true
+  },
+  {
     "title": "South Korea trading giant puts receivables onchain in tokenization test with LG CNS",
     "link": "https://www.coindesk.com/business/2026/07/26/south-korea-trading-giant-puts-receivables-onchain-in-tokenization-test-with-lg-cns",
     "pubDate": "Mon, 27 Jul 2026 00:00:00 +0000",
@@ -204,6 +216,30 @@
     "classified": true
   },
   {
+    "title": "Triple-A confirms treasury-wallet breach after losses reach $11.8M ",
+    "link": "https://cointelegraph.com/news/triple-a-treasury-wallet-breach-11-8-million-loss?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Mon, 27 Jul 2026 05:15:54 +0000",
+    "source": "Cointelegraph",
+    "category": "crypto",
+    "content": "The stablecoin payments company said client funds were unaffected and that the financial impact would be absorbed through its treasury reserves.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/password-fraud-hacker-scam3-2.jpg",
+    "summary": "Triple-A, a stablecoin payments company, has confirmed a treasury-wallet breach resulting in losses of $11.8M. The company stated that client funds were unaffected and the financial impact will be covered by its treasury reserves. The breach highlights the ongoing security risks in the crypto space.",
+    "importance": 8,
+    "classified": true
+  },
+  {
+    "title": "BitMart withdrawals appear to slow following wind-down announcement",
+    "link": "https://cointelegraph.com/news/bitmart-withdrawals-slow-exchange-wind-down?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Mon, 27 Jul 2026 04:34:44 +0000",
+    "source": "Cointelegraph",
+    "category": "crypto",
+    "content": "Users reported withdrawal delays and freeze notices as wallets attributed to BitMart fell to about $69 million and its BMX token extended an 81.5% weekly decline.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-bancor-excludes-users-1.jpg",
+    "summary": "BitMart users are experiencing withdrawal delays and freezes, with the platform's wallet holdings dropping to $69 million and its BMX token price declining 81.5% over the week. This comes after the company's wind-down announcement, sparking concerns among users. The situation highlights the risks associated with cryptocurrency exchanges.",
+    "importance": 8,
+    "classified": true
+  },
+  {
     "title": "CLARITY hopes fade, BitMEX shuts as lawsuit looms: Hodler’s Digest, July 26",
     "link": "https://cointelegraph.com/magazine/clarity-hopes-fade-bitmex-shuts-as-lawsuit-looms-hodlers-digest-july-27?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "pubDate": "Mon, 27 Jul 2026 00:03:44 +0000",
@@ -336,6 +372,18 @@
     "classified": true
   },
   {
+    "title": "The Funding: Are crypto vaults funds and curators fund managers?",
+    "link": "https://www.theblock.co/post/409690/are-crypto-vaults-funds-curators-fund-managers?utm_source=rss&utm_medium=rss",
+    "pubDate": "Mon, 27 Jul 2026 00:39:17 -0400",
+    "source": "The Block",
+    "category": "crypto",
+    "content": "The SEC's Hester Peirce says some of them may be — which could mean registration. Here's what that means, and what comes next.",
+    "image": "https://www.tbstat.com/wp/uploads/2021/06/20210628_Hester_Peirce-800x450.jpg",
+    "summary": "SEC's Hester Peirce suggests that some crypto vaults may be considered funds and their curators as fund managers, which could lead to registration requirements. This statement has implications for the crypto industry and its regulatory landscape. The outcome of this development is still uncertain and pending further clarification.",
+    "importance": 8,
+    "classified": true
+  },
+  {
     "title": "Robinhood in talks to add Crypto.com prediction markets as Kalshi rivalry grows: WSJ",
     "link": "https://www.theblock.co/post/409665/robinhood-in-talks-to-add-crypto-com-prediction-markets-as-kalshi-rivalry-grows-wsj?utm_source=rss&utm_medium=rss",
     "pubDate": "Sat, 25 Jul 2026 13:27:20 -0400",
@@ -440,18 +488,6 @@
     "content": "Coinbase will enable businesses to accept payments from AI bots, powered by Coinbase Payments and the x402 standard.",
     "image": "https://www.tbstat.com/wp/uploads/2023/03/20230306_Coinbase_News-800x450.jpg",
     "summary": "Coinbase is allowing businesses to accept payments from AI bots through its Coinbase Payments and x402 standard, marking a significant development in AI-powered transactions. This move enables AI agents to make payments, which Coinbase considers its 'most high-conviction bet'. The integration of AI and crypto payments is expected to drive innovation in the industry.",
-    "importance": 8,
-    "classified": true
-  },
-  {
-    "title": "Strategy, BlackRock form Bitcoin Security Consortium to prepare for quantum computing threat",
-    "link": "https://www.theblock.co/post/409522/strategy-blackrock-form-bitcoin-security-consortium-to-prepare-for-quantum-computing-threat?utm_source=rss&utm_medium=rss",
-    "pubDate": "Thu, 23 Jul 2026 09:40:41 -0400",
-    "source": "The Block",
-    "category": "both",
-    "content": "Nine firms including Strategy and BlackRock formed a $15 million Bitcoin security consortium to fund post-quantum cryptography research.",
-    "image": "https://www.tbstat.com/wp/uploads/2026/04/20260410_Bitcoin_News_2-800x450.jpg",
-    "summary": "Nine firms, including Strategy and BlackRock, have formed a $15 million Bitcoin security consortium to fund post-quantum cryptography research in preparation for the quantum computing threat. This consortium aims to enhance Bitcoin's security against potential quantum computing attacks. The research will focus on developing new cryptographic techniques to protect the Bitcoin network.",
     "importance": 8,
     "classified": true
   },
@@ -953,7 +989,7 @@
     "pubDate": "Mon, 27 Jul 2026 01:58:54 +0000",
     "source": "Cointelegraph",
     "category": "crypto",
-    "content": "Blockaid said an attacker drained about $450,000 in USDT from Garden Finance’s HTLC contracts across Ethereum, Base, Arbitrum and BNB Smart Chain.",
+    "content": "Garden Finance said no user funds or smart contracts were affected after an attacker compromised an independent solver’s off-chain database and inserted fraudulent swap records.",
     "image": "https://s3-images.ctmedia.io/media/article-covers/hi-bithumb-hack-what-is-known.jpg",
     "summary": "Garden Finance has disabled its application following a reported exploit by Blockaid, which saw an attacker drain approximately $450,000 in USDT. The funds were stolen from Garden Finance's HTLC contracts across multiple blockchains including Ethereum, Base, Arbitrum, and BNB Smart Chain.",
     "importance": 7,
@@ -1244,30 +1280,6 @@
     "content": "The organization sold locked WLD tokens to strategic investors as it seeks to grow its biometric identity network amid rising demand for human verification online.",
     "image": "https://s3-images.ctmedia.io/media/article-covers/hi-fundraising-ripple-a-beginners-guide-on-raising-funds-using-cryptocurrencies.png",
     "summary": "The World Foundation has raised $52.5M in funding led by Pantera to expand its World ID infrastructure, a biometric identity network. This investment will help meet the growing demand for human verification online. The funding was raised through the sale of locked WLD tokens to strategic investors.",
-    "importance": 6,
-    "classified": true
-  },
-  {
-    "title": "Odos Protocol to shut down, gives users until July 30 to withdraw assets",
-    "link": "https://cointelegraph.com/news/odos-protocol-shut-down-4-years?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Fri, 24 Jul 2026 11:59:42 +0000",
-    "source": "Cointelegraph",
-    "category": "crypto",
-    "content": "Odos Protocol will shut down on July 30, giving users one week to withdraw assets. The team did not provide a reason for the decision.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-got-crypto-losses-wallet.jpg",
-    "summary": "Odos Protocol is shutting down on July 30, with users having one week to withdraw their assets. The reason for the shutdown was not provided by the team. Users must act quickly to retrieve their assets before the deadline.",
-    "importance": 6,
-    "classified": true
-  },
-  {
-    "title": "RWAs become Hyperliquid’s largest trading category",
-    "link": "https://cointelegraph.com/news/hyperliquid-rwa-volume-crypto-trading-first-time?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Fri, 24 Jul 2026 11:42:32 +0000",
-    "source": "Cointelegraph",
-    "category": "crypto",
-    "content": "Tokenized RWA trading became Hyperliquid’s largest trading category for the first time, accounting for more than half of the decentralized exchange’s weekly trading volume.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/trading-app-crypto-messenger-phone-rwa.jpg",
-    "summary": "Tokenized real-world asset (RWA) trading has become the largest trading category on Hyperliquid, a decentralized exchange, accounting for over half of its weekly trading volume. This milestone marks a significant shift in the exchange's trading activity. The growth of RWA trading indicates increasing interest in tokenized assets.",
     "importance": 6,
     "classified": true
   },
@@ -1580,18 +1592,6 @@
     "content": "New framework gives common shareholders a clearer view of net bitcoin exposure after preferred stock and convertible debt obligations",
     "image": "https://cdn.sanity.io/images/s3y3vcno/production/d00d58cb37e792985dd1a2d7a5b976dca32d84c0-720x406.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
     "summary": "Michael Saylor's company, MicroStrategy, is overhauling its Bitcoin metrics framework to provide common shareholders with a clearer view of its net Bitcoin exposure. This change aims to better account for preferred stock and convertible debt obligations, occurring during a persistent bear market.",
-    "importance": 5,
-    "classified": true
-  },
-  {
-    "title": "Live updates: Bitcoin gives up gains, falls below $64,000 as stocks retreat",
-    "link": "https://www.coindesk.com/tech/2026/07/24/live-updates-dogecoin-and-ether-lead-pullback-as-investors-digest-tech-earnings",
-    "pubDate": "Fri, 24 Jul 2026 07:22:26 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "Michael Saylor's Strategy — under continued pressure in this crypto bear market — released a new set of metrics to judge company performance.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/616e44316b00e97fa939ff279c0fd6447b7188ac-2916x1518.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "Dogecoin and ether saw drops of 4.5% and 2.5%, respectively, spearheading a broader but shallow retreat across major cryptocurrencies. Despite this pullback, most cryptos remain higher for the week as investors process tech earnings and look ahead to next week's Fed meeting.",
     "importance": 5,
     "classified": true
   },
