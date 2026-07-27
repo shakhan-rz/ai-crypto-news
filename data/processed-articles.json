@@ -156,13 +156,13 @@
     "classified": true
   },
   {
-    "title": "Live updates: Bitcoin gives up early gains as stocks reverse lower",
+    "title": "Live updates: Bitcoin gives up early gains, holds near $65,000 as AI stocks skid",
     "link": "https://www.coindesk.com/markets/2026/07/27/live-updates-ether-leads-crypto-higher-as-bitcoin-trades-around-usd65-500",
     "pubDate": "Mon, 27 Jul 2026 06:43:34 +0000",
     "source": "CoinDesk",
     "category": "crypto",
     "content": "CoinEx's Jeff Ko sees bitcoin staying range-bound near $65,000 while retreating oil, a 4.7% 10-year yield and a week of mega-cap earnings set the tone.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/63fbff31819cf6e2dfc9c834e33a24619f013cb1-2870x1476.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/3ab7bae0f5eca3344d78fd14752f64216f38f16a-2130x1186.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
     "summary": "Bitcoin's price has risen above $65,000 as oil prices tumble amidst a cooldown in the Iran war situation. This development occurs alongside a 4.7% 10-year yield and a week of mega-cap earnings. Bitcoin is expected to stay range-bound near $65,000.",
     "importance": 8,
     "classified": true
@@ -200,18 +200,6 @@
     "content": "POSCO International and LG CNS is tapping Injective network to tokenize live commercial invoices, another sign blockchain rails are moving deeper into corporate finance.",
     "image": "https://cdn.sanity.io/images/s3y3vcno/production/2a5375a52db6596c0f51e89041e53f604c35310b-4240x2832.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
     "summary": "South Korean trading giant POSCO International and LG CNS are partnering to tokenize live commercial invoices using the Injective network. This initiative signals a deeper integration of blockchain technology into corporate finance by putting real-world receivables on-chain.",
-    "importance": 8,
-    "classified": true
-  },
-  {
-    "title": "2 weeks left for Clarity: State of Crypto ",
-    "link": "https://www.coindesk.com/policy/2026/07/26/2-weeks-left-for-clarity-state-of-crypto",
-    "pubDate": "Sun, 26 Jul 2026 18:30:00 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "The Senate leaves town in two weeks. Here's what needs to happen for Clarity to advance before then.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/fdf7f5a1bfc3ea1d7708ef0c24ddb8c1297cbb2f-3480x1958.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "The article discusses the urgent need for the 'Clarity' initiative, likely pertaining to crypto regulation, to advance in the Senate within the next two weeks before the legislative body recesses. It highlights the critical timeframe for moving this crypto-related legislation forward.",
     "importance": 8,
     "classified": true
   },
@@ -360,6 +348,18 @@
     "classified": true
   },
   {
+    "title": "NY Attorney General Letitia James warns Clarity Act would ‘dilute’ states’ ability to go after fraud as pressure mounts",
+    "link": "https://www.theblock.co/post/409831/ny-attorney-general-letitia-james-warns-clarity-act-dilute-states-ability-fraud-pressure-mounts?utm_source=rss&utm_medium=rss",
+    "pubDate": "Mon, 27 Jul 2026 16:31:57 -0400",
+    "source": "The Block",
+    "category": "crypto",
+    "content": "NYAG Letitia James urged Congress to tighten a crypto bill, warning that it would weaken states' ability to police the industry.",
+    "image": "https://www.tbstat.com/wp/uploads/2019/07/new-york-1-800x450.jpg",
+    "summary": "New York Attorney General Letitia James has urged Congress to tighten a proposed crypto bill, the Clarity Act, warning that its current form would weaken states' ability to police the cryptocurrency industry and combat fraud. Her concern highlights ongoing pressure regarding crypto regulation and state enforcement powers.",
+    "importance": 8,
+    "classified": true
+  },
+  {
     "title": "Lido begins consolidating $16 billion worth of staked ETH as Curated Module v2 rolls out",
     "link": "https://www.theblock.co/post/409780/lido-begins-consolidating-16-billion-worth-of-staked-eth-as-curated-module-v2-rolls-out?utm_source=rss&utm_medium=rss",
     "pubDate": "Mon, 27 Jul 2026 11:03:20 -0400",
@@ -504,18 +504,6 @@
     "classified": true
   },
   {
-    "title": "Top Crypto Industry Groups Pen Letter to Senate Leaders Urging Them To Support the Clarity Act",
-    "link": "https://bitcoinmagazine.com/news/crypto-industry-groups-support-the-clarity",
-    "pubDate": "Fri, 24 Jul 2026 16:05:35 +0000",
-    "source": "Bitcoin Magazine",
-    "category": "crypto",
-    "content": "Bitcoin Magazine\n\nTop Crypto Industry Groups Pen Letter to Senate Leaders Urging Them To Support the Clarity Act\nThree advocacy groups are the latest to throw their support behind the crypto market structure bill. \nThis post Top Crypto Industry Groups Pen Letter to Senate Leaders Urging Them To Support the Clarity Act first appeared on Bitcoin Magazine and is written by Mathew Di Salvo.",
-    "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/07/Top-Crypto-Industry-Groups-Pen-Letter-to-Senate-Leaders-U.jpg",
-    "summary": "Top crypto industry groups have written a letter to Senate leaders in support of the Clarity Act, a bill related to the crypto market structure. The letter is the latest show of support from advocacy groups for the bill. The bill's outcome may impact the future of the crypto industry.",
-    "importance": 8,
-    "classified": true
-  },
-  {
     "title": "OpenAI called the Hugging Face attack unprecedented. But we’ve been here before. ",
     "link": "https://www.technologyreview.com/2026/07/27/1140836/openai-hugging-face-attack-precedent/",
     "pubDate": "Mon, 27 Jul 2026 18:00:00 +0000",
@@ -560,6 +548,18 @@
     "content": "For the enterprise, the promise of agentic AI is much more than just a better chatbot. It is software agents that execute business tasks end-to-end across people, business workflows, data, and systems. The platform best-suited to run agents is built with proper CPU capacity, resilient data access, policy-aware tool use, observability, memory management, and the…",
     "image": "https://wp.technologyreview.com/wp-content/uploads/2026/07/Intel-image-contributed-article.png",
     "summary": "The article discusses the potential of agentic AI in enterprise environments, where AI agents can execute business tasks across various systems and workflows. It highlights the need for a suitable platform to run these agents, with features like proper CPU capacity and resilient data access. This can lead to increased efficiency and automation in business processes.",
+    "importance": 8,
+    "classified": true
+  },
+  {
+    "title": "Satya Nadella says companies that trust one AI for everything may not survive",
+    "link": "https://techcrunch.com/2026/07/27/satya-nadella-says-companies-that-trust-one-ai-for-everything-may-not-survive/",
+    "pubDate": "Mon, 27 Jul 2026 21:17:11 +0000",
+    "source": "TechCrunch AI",
+    "category": "ai",
+    "content": "Companies without their own models — or without a layer of AI infrastructure known as AI gateways to separate their prompts from the model itself — will be in trouble, Nadella says.",
+    "image": "",
+    "summary": "Satya Nadella warned that companies relying on a single AI for all their needs may not survive, emphasizing the importance of having their own models or AI gateways. This is crucial for separating prompts from the model itself, according to Nadella. Companies without such infrastructure will face trouble.",
     "importance": 8,
     "classified": true
   },
@@ -684,18 +684,6 @@
     "classified": true
   },
   {
-    "title": "As US weighs response to Chinese AI, industry urges against broad open-weight restrictions",
-    "link": "https://techcrunch.com/2026/07/24/as-us-weighs-response-to-chinese-ai-industry-urges-against-broad-open-weight-restrictions/",
-    "pubDate": "Fri, 24 Jul 2026 15:51:49 +0000",
-    "source": "TechCrunch AI",
-    "category": "ai",
-    "content": "AI companies, including Nvidia and Mistral, urge policymakers to avoid broad restrictions on open-weight AI models as Washington debates responses to Chinese AI and alleged model distillation.",
-    "image": "",
-    "summary": "The US is considering its response to Chinese AI, with AI companies such as Nvidia and Mistral urging policymakers to avoid broad restrictions on open-weight AI models. This comes as Washington debates responses to Chinese AI and alleged model distillation. The companies are advocating for a more nuanced approach to regulation.",
-    "importance": 8,
-    "classified": true
-  },
-  {
     "title": "Why China is giving away its best AI models",
     "link": "https://www.theverge.com/ai-artificial-intelligence/971444/how-chinese-open-weight-ai-models-impact-us-companies",
     "pubDate": "2026-07-27T16:51:50.000Z",
@@ -776,6 +764,18 @@
     "content": "Until now, voice mode has only been available on Claude Haiku, Anthropic's faster but less powerful model. Now the company is making its Opus and Sonnet models available in voice mode, and extending its reach into apps like Gmail, Slack, and Canva.\nWhen Anthropic launched voice mode last year, it was primarily focused on delivering answers to quick questions with minimal delay. But in a blog post, the company said people immediately started using voice mode for far more than casual queries. They were using it to work \"through real business problems,\" which Haiku was not really designed for. That model \"kept conversations quick, but not alwa …\nRead the full story at The Verge.",
     "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Claude-Voice-2-3-up.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
     "summary": "Anthropic's voice mode is now available for Opus and Sonnet models, in addition to Haiku, and can be integrated with apps like Gmail, Slack, and Canva. Initially, voice mode was used for quick queries, but users began using it to solve business problems. This expansion allows for more complex conversations and problem-solving.",
+    "importance": 8,
+    "classified": true
+  },
+  {
+    "title": "Microsoft unveils AI security tools it says outperform competing platforms",
+    "link": "https://arstechnica.com/security/2026/07/microsoft-unveils-ai-security-tools-it-says-outperform-competing-platforms/",
+    "pubDate": "Mon, 27 Jul 2026 21:56:14 +0000",
+    "source": "Ars Technica AI",
+    "category": "ai",
+    "content": "Microsoft says tools cost less than competing ones and outperform them, too.",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/microsoft-logo-1024x648.jpg",
+    "summary": "Microsoft has unveiled new AI security tools that it claims outperform competing platforms while being less expensive. The tools aim to provide better security solutions for users. This development highlights Microsoft's efforts in the AI security sector.",
     "importance": 8,
     "classified": true
   },
@@ -936,6 +936,18 @@
     "classified": true
   },
   {
+    "title": "Bitcoin shrugs off AI selloff but high-stakes Fed meeting could determine what's next",
+    "link": "https://www.coindesk.com/markets/2026/07/27/bitcoin-shrugs-off-ai-selloff-but-high-stakes-fed-meeting-could-determine-what-s-next",
+    "pubDate": "Mon, 27 Jul 2026 19:55:45 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "BTC held near $65,000 even as Nvidia and AI stocks fell sharply. This week's Fed decision could determine whether bitcoin finally breaks higher or revisits June's lows, analysts said.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/3ab7bae0f5eca3344d78fd14752f64216f38f16a-2130x1186.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "Bitcoin maintained its position near $65,000 despite a significant selloff experienced by Nvidia and other AI stocks. Analysts are now closely watching this week's Federal Reserve meeting, which is expected to be a pivotal factor in determining Bitcoin's next price movement, potentially leading to a breakout or a return to June's lows.",
+    "importance": 7,
+    "classified": true
+  },
+  {
     "title": "Fanatics buys regulated exchange in bid to grow prediction markets business",
     "link": "https://www.coindesk.com/markets/2026/07/27/fanatics-buys-regulated-exchange-in-bid-to-grow-prediction-markets-business",
     "pubDate": "Mon, 27 Jul 2026 14:46:10 +0000",
@@ -980,6 +992,18 @@
     "content": "Brent crude plunged 7% after the U.S. and Iran paused Strait of Hormuz strikes, lifting equities and DeFi tokens while bitcoin held near $65,000 ahead of a pivotal Fed decision Wednesday.",
     "image": "https://cdn.sanity.io/images/s3y3vcno/production/ca86898e3fc861b16500cb83d3e5b32ee0347565-1852x976.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
     "summary": "Brent crude oil prices plunged 7% following a pause in the conflict between the U.S. and Iran in the Strait of Hormuz. This de-escalation positively impacted risk assets, including equities and DeFi tokens, while Bitcoin held steady near $65,000 ahead of an upcoming Federal Reserve decision.",
+    "importance": 7,
+    "classified": true
+  },
+  {
+    "title": "Bitmine keeps buying Ether as ETH outperforms Bitcoin",
+    "link": "https://cointelegraph.com/news/bitmine-keeps-buying-ether-as-eth-outperforms-bitcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Mon, 27 Jul 2026 19:22:59 +0000",
+    "source": "Cointelegraph",
+    "category": "crypto",
+    "content": "The company added nearly 10,000 ETH over the past week, bringing its holdings to 5.79 million Ether, about 85% of which is staked through its validator operations.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-the-7-largest-ethereum-treasury-companies-right-now-ranked-by-holdings-bitmine-3.jpg",
+    "summary": "Bitmine acquired nearly 10,000 ETH over the past week, bringing its total Ether holdings to 5.79 million. Approximately 85% of these holdings are staked through the company's validator operations, as Ether continues to outperform Bitcoin.",
     "importance": 7,
     "classified": true
   },
@@ -1068,30 +1092,6 @@
     "classified": true
   },
   {
-    "title": "North Korea arrests bank hacking ring tied to crypto laundering: Report",
-    "link": "https://cointelegraph.com/news/north-korea-bank-hacking-ring-crypto-laundering-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Sat, 25 Jul 2026 13:16:00 +0000",
-    "source": "Cointelegraph",
-    "category": "crypto",
-    "content": "South Korean Daily NK reported that North Korea arrested former state cyber operators accused of hacking two state banks and laundering funds through crypto.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-north-korea-crypto-relationship2.jpg",
-    "summary": "North Korea has reportedly arrested former state cyber operators. These individuals are accused of hacking two state banks and subsequently laundering the stolen funds using cryptocurrency.",
-    "importance": 7,
-    "classified": true
-  },
-  {
-    "title": "Fidelity joins push for Senate passage of CLARITY Act",
-    "link": "https://cointelegraph.com/news/fidelity-push-senate-passage-of-clarity-act?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Sat, 25 Jul 2026 11:32:00 +0000",
-    "source": "Cointelegraph",
-    "category": "crypto",
-    "content": "Fidelity called on the US Senate to pass the CLARITY Act, joining industry groups and crypto firms pushing for market structure legislation.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/regulation-lot-of-papers-clarity-act.jpg",
-    "summary": "Fidelity, along with other industry groups and crypto firms, is actively lobbying the US Senate to pass the CLARITY Act. This legislation aims to provide much-needed market structure rules for the industry.",
-    "importance": 7,
-    "classified": true
-  },
-  {
     "title": "Triple-A hot wallet losses climb to $11.8 million as new deposits keep being swept: report",
     "link": "https://www.theblock.co/post/409678/triple-a-hot-wallet-losses-climb-to-11-8-million-as-new-deposits-keep-being-swept-report?utm_source=rss&utm_medium=rss",
     "pubDate": "Sun, 26 Jul 2026 18:38:54 -0400",
@@ -1112,18 +1112,6 @@
     "content": "Strategy holds 843,775 BTC at an average cost of $75,476, leaving the position roughly $9.3 billion underwater with bitcoin near $64,600.",
     "image": "https://www.tbstat.com/wp/uploads/2026/04/20260410_MichaelSaylor_News_2-800x450.jpg",
     "summary": "Michael Saylor's company, Strategy, has gone four consecutive weeks without purchasing Bitcoin, potentially signaling a new approach. The company currently holds 843,775 BTC at an average cost of $75,476, putting them approximately $9.3 billion underwater with Bitcoin trading near $64,600.",
-    "importance": 7,
-    "classified": true
-  },
-  {
-    "title": "EU adds HTX to Russia sanctions list, barring transactions starting Aug. 23",
-    "link": "https://www.theblock.co/post/409668/eu-adds-htx-to-russia-sanctions-list-barring-transactions-starting-aug-23?utm_source=rss&utm_medium=rss",
-    "pubDate": "Sat, 25 Jul 2026 17:23:27 -0400",
-    "source": "The Block",
-    "category": "crypto",
-    "content": "Other crypto platforms listed alongside HTX include EXMO, Rapira, BitPapa, Aifory Pro, WhiteBird, NoOnecrypto and Exnode.",
-    "image": "https://www.tbstat.com/wp/uploads/2023/10/20231006_HTXImages_News4-800x450.png",
-    "summary": "The European Union has added HTX and several other cryptocurrency platforms, including EXMO, Rapira, and BitPapa, to its Russia sanctions list. This measure will prohibit transactions involving these platforms starting August 23.",
     "importance": 7,
     "classified": true
   },
@@ -1392,6 +1380,18 @@
     "classified": true
   },
   {
+    "title": "Coinbase Chief Policy Officer Praises Crypto Clarity Act as “Extraordinarily Bipartisan”",
+    "link": "https://bitcoinmagazine.com/news/coinbase-policy-officer-praises-clarity",
+    "pubDate": "Mon, 27 Jul 2026 20:43:13 +0000",
+    "source": "Bitcoin Magazine",
+    "category": "crypto",
+    "content": "Bitcoin Magazine\n\nCoinbase Chief Policy Officer Praises Crypto Clarity Act as “Extraordinarily Bipartisan”\nCoinbase Chief Policy Officer Faryar Shirzad said it's time for Democrats and Republicans to vote on the Clarity Act. \nThis post Coinbase Chief Policy Officer Praises Crypto Clarity Act as “Extraordinarily Bipartisan” first appeared on Bitcoin Magazine and is written by Mathew Di Salvo.",
+    "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/04/Coinbase-Receives-Conditional-OCC-Approval-to-Form-National-Trust-Company.jpg",
+    "summary": "Coinbase Chief Policy Officer Faryar Shirzad has lauded the Crypto Clarity Act as \"extraordinarily bipartisan,\" urging both Democrats and Republicans to vote on the legislation. Shirzad's comments highlight a push for regulatory clarity within the cryptocurrency sector.",
+    "importance": 6,
+    "classified": true
+  },
+  {
     "title": "Strategy Skips Bitcoin Again, Buys Back $25M of STRC Stock",
     "link": "https://bitcoinmagazine.com/news/strategy-skips-bitcoin-buy-again",
     "pubDate": "Mon, 27 Jul 2026 14:36:24 +0000",
@@ -1436,6 +1436,18 @@
     "content": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The power line that could reshape New York’s grid is hitting snags  During a heat wave on July 3, New York State’s grid imported enough electricity from Canada to meet about…",
     "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f96c.png",
     "summary": "The newsletter discusses a power line project in New York and its potential impact on the grid, as well as US threats against Chinese AI, highlighting tensions between the two nations in the tech sector. The power line aims to reshape New York's grid, but is currently facing snags. The US-China AI tensions could have significant implications for the global tech industry.",
+    "importance": 6,
+    "classified": true
+  },
+  {
+    "title": "PSA: Your Claude shared chats and Artifacts may have ended up on Google",
+    "link": "https://techcrunch.com/2026/07/27/psa-your-claude-shared-chats-and-artifacts-may-have-ended-up-on-google/",
+    "pubDate": "Mon, 27 Jul 2026 20:19:42 +0000",
+    "source": "TechCrunch AI",
+    "category": "ai",
+    "content": "The issue appears to have originated from Claude’s “share chat” feature, which allows users to create links that enable anyone with the assigned URL view a conversation or project.",
+    "image": "",
+    "summary": "A bug in Claude's share chat feature may have exposed user conversations and projects to Google. This issue allows anyone with the assigned URL to view a conversation or project. The problem seems to be related to the share chat links.",
     "importance": 6,
     "classified": true
   },
@@ -1488,18 +1500,6 @@
     "classified": true
   },
   {
-    "title": "Bluesky’s AI assistant Attie expands into an open social research tool",
-    "link": "https://techcrunch.com/2026/07/24/blueskys-ai-assistant-attie-expands-into-an-open-social-research-tool/",
-    "pubDate": "Fri, 24 Jul 2026 15:13:57 +0000",
-    "source": "TechCrunch AI",
-    "category": "ai",
-    "content": "Users can now ask Attie questions about news, trends, and conversations on Bluesky and other apps on the AT Protocol.",
-    "image": "",
-    "summary": "Bluesky's AI assistant Attie has expanded its capabilities to become an open social research tool, allowing users to ask questions about news, trends, and conversations on Bluesky and other apps. This development enables users to gather information from multiple sources. Attie's expansion aims to provide a more comprehensive understanding of online discussions.",
-    "importance": 6,
-    "classified": true
-  },
-  {
     "title": "Midjourney bought the astrology app Co-Star",
     "link": "https://www.theverge.com/ai-artificial-intelligence/970894/midjourney-co-star-acquisition",
     "pubDate": "2026-07-24T19:06:58.000Z",
@@ -1532,6 +1532,18 @@
     "content": "Patreon is laying off 20 percent of its workers, or around 93 employees, as reported earlier by 404 Media. In a memo to employees, Patreon CEO Jack Conte writes that the company isn't making these changes \"because we believe AI replaces humans,\" but says AI has \"fundamentally transformed the tech industry, including how we work, how we build products, how we communicate, and more.\"\nThat shift has changed \"how we operate and organize,\" Conte writes.\nDuring an interview on Decoder, last month, Conte laid out his stance on AI, saying that the company is \"100 percent embracing\" AI tools internally to continue serving creators:\nIf Patreon doe …\n\nRead the full story at The Verge.",
     "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STK326_PATREON_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
     "summary": "Patreon is laying off 20% of its workers, citing the impact of AI on the tech industry. The company's CEO, Jack Conte, says AI has transformed how the company operates, but notes that the layoffs are not due to replacing humans with AI. Patreon is embracing AI tools internally to serve creators.",
+    "importance": 6,
+    "classified": true
+  },
+  {
+    "title": "“Google and Reddit do not own the Internet,\" web scraper says after court win",
+    "link": "https://arstechnica.com/tech-policy/2026/07/google-wont-give-up-odd-war-against-ai-web-scraping-despite-court-loss/",
+    "pubDate": "Mon, 27 Jul 2026 20:12:42 +0000",
+    "source": "Ars Technica AI",
+    "category": "ai",
+    "content": "Google's and Reddit's use of DMCA to fight web scraper is bizarre, expert says.",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2264310791-1152x648.jpg",
+    "summary": "A web scraper has won a court case against Google and Reddit, who attempted to use the DMCA to stop the scraper's activities. The case highlights the complexities of web scraping and copyright law. The outcome is seen as a significant development for the internet and data collection.",
     "importance": 6,
     "classified": true
   },
@@ -1596,30 +1608,6 @@
     "classified": true
   },
   {
-    "title": "Google-backed satellites for wildfire detection launch as smoke chokes US, Canada",
-    "link": "https://arstechnica.com/space/2026/07/google-backed-satellites-for-wildfire-detection-launch-as-smoke-chokes-us-canada/",
-    "pubDate": "Fri, 17 Jul 2026 19:50:18 +0000",
-    "source": "Ars Technica AI",
-    "category": "ai",
-    "content": "The FireSat program can spot wildfires that other satellites miss.",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/Operational-FireSat-satellites-1152x648.png",
-    "summary": "Google-backed satellites have launched as part of the FireSat program to detect wildfires, which can spot fires that other satellites miss. The launch comes as smoke from wildfires affects the US and Canada. This technology uses artificial intelligence to quickly identify fires.",
-    "importance": 6,
-    "classified": true
-  },
-  {
-    "title": "BitMart to wind down trading platform as global CEO says he was not consulted",
-    "link": "https://www.theblock.co/post/409670/bitmart-to-wind-down-trading-platform-as-global-ceo-says-he-was-not-consulted?utm_source=rss&utm_medium=rss",
-    "pubDate": "Sun, 26 Jul 2026 10:55:55 -0400",
-    "source": "The Block",
-    "category": "crypto",
-    "content": "BitMart's global CEO said the firm told him on July 24 that his employment was ending and that he learned of the closure when it went public.",
-    "image": "https://www.tbstat.com/wp/uploads/2025/01/20250115_Tokens_News_2-800x450.jpg",
-    "summary": "BitMart's global CEO was informed of his employment termination on July 24, simultaneously learning of the trading platform's closure when the news went public. He stated he was not consulted regarding the decision to wind down the platform.",
-    "importance": 5,
-    "classified": true
-  },
-  {
     "title": "Here’s what happened in crypto today",
     "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "pubDate": "Mon, 27 Jul 2026 18:51:58 +0000",
@@ -1629,6 +1617,18 @@
     "image": "https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg",
     "summary": "The article provides a daily roundup of the latest news affecting the cryptocurrency market, covering topics such as Bitcoin price movements, blockchain developments, DeFi, Web3, and regulatory updates. It serves as a quick guide to current trends and events in the crypto space.",
     "importance": 4,
+    "classified": true
+  },
+  {
+    "title": "NFL urges CFTC to strengthen rules on sports prediction markets: report",
+    "link": "https://www.theblock.co/post/409846/nfl-urges-cftc-to-strengthen-rules-on-sports-prediction-markets-report?utm_source=rss&utm_medium=rss",
+    "pubDate": "Mon, 27 Jul 2026 17:57:24 -0400",
+    "source": "The Block",
+    "category": "crypto",
+    "content": "The NFL responded to the CFTC’s recent draft rulemaking calling for stricter prediction markets oversight, including age restrictions.",
+    "image": "https://www.tbstat.com/wp/uploads/2022/03/621e4e41dfcf311335ccaefc_NFL-x6-1920-1080-1-800x450.jpg",
+    "summary": "The NFL has urged the Commodity Futures Trading Commission (CFTC) to implement stronger regulations for sports prediction markets. Their recommendations, made in response to a CFTC draft rulemaking, specifically advocate for age restrictions.",
+    "importance": 2,
     "classified": true
   },
   {
@@ -1692,15 +1692,15 @@
     "classified": true
   },
   {
-    "title": "San Francisco orders Apple, Google to remove nudify apps from app stores",
-    "link": "https://arstechnica.com/tech-policy/2026/07/apple-google-must-stop-profiting-off-ai-nudify-apps-san-francisco-ag-says/",
-    "pubDate": "Fri, 17 Jul 2026 16:10:05 +0000",
-    "source": "Ars Technica AI",
-    "category": "ai",
-    "content": "Official estimates Google and Apple likely made millions in nudify app fees.",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2216100332-1024x648.jpg",
-    "summary": "San Francisco has ordered Apple and Google to remove nudify apps from their app stores, with estimates suggesting the tech giants made millions in fees from these apps. The move is aimed at addressing concerns over the apps' content. The decision may impact the companies' revenue streams.",
-    "importance": 2,
+    "title": "Cross River to enable P2P payments, banking services for X Money",
+    "link": "https://cointelegraph.com/news/x-money-cross-river-embedded-banking-p2p-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Mon, 27 Jul 2026 21:05:05 +0000",
+    "source": "Cointelegraph",
+    "category": "crypto",
+    "content": "The banking-as-a-service provider will power X Money’s peer-to-peer payments, FDIC-insured accounts and Visa debit cards as the platform expands its financial services.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-crypto-is-the-next-step-toward-a-cashless-society-eu.png",
+    "summary": "Cross River, a banking-as-a-service provider, will enable X Money to expand its financial services. This partnership will power X Money’s peer-to-peer payments, FDIC-insured accounts, and Visa debit cards.",
+    "importance": 1,
     "classified": true
   },
   {
