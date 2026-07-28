@@ -24,6 +24,18 @@
     "classified": true
   },
   {
+    "title": "AmericanFortress proposes quantum-safe crypto wallet protection without fund migration",
+    "link": "https://cointelegraph.com/news/americanfortress-proposes-quantum-safe-crypto-wallet-protection-without-fund-migration?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Tue, 28 Jul 2026 18:47:26 +0000",
+    "source": "Cointelegraph",
+    "category": "crypto",
+    "content": "The proposed cryptographic scheme aims to protect existing Bitcoin, Ethereum and Solana wallets from future quantum attacks without requiring users to move funds or change wallet addresses.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/magazineq-day-bitcoin-could-take-7-years-to-upgrade-to-post-quantum.png",
+    "summary": "AmericanFortress has proposed a new cryptographic scheme to safeguard existing Bitcoin, Ethereum, and Solana wallets against future quantum attacks. This innovative solution aims to protect digital assets without requiring users to migrate funds or alter their current wallet addresses.",
+    "importance": 9,
+    "classified": true
+  },
+  {
     "title": "Making sense of the panic over Chinese AI",
     "link": "https://techcrunch.com/2026/07/26/making-sense-of-the-panic-over-chinese-ai/",
     "pubDate": "Sun, 26 Jul 2026 19:40:57 +0000",
@@ -45,6 +57,18 @@
     "image": "",
     "summary": "Hugging Face CEO Clement Delangue is advocating for \"radical transparency\" in response to an \"unprecedented\" cyberattack on OpenAI. He describes this incident as the \"first autonomous agent cyberattack,\" emphasizing that such a significant event warrants an equally unprecedented response. The call highlights growing concerns about AI security.",
     "importance": 9,
+    "classified": true
+  },
+  {
+    "title": "Wall Street veteran Don Wilson says regulators are getting perps all wrong",
+    "link": "https://www.coindesk.com/markets/2026/07/28/wall-street-veteran-don-wilson-says-regulators-are-getting-crypto-s-biggest-trading-innovation-all-wrong",
+    "pubDate": "Tue, 28 Jul 2026 17:23:35 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "DRW CEO Don Wilson says perpetual futures aren't inherently risky crypto gambling tools, and it’s time traditional markets and regulators start embracing them.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/e64710bbda7993c04f5eb016f20b5038b68ae35f-1000x668.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "DRW CEO Don Wilson, a Wall Street veteran, argues that perpetual futures are not inherently risky crypto gambling tools. He believes traditional markets and regulators should embrace these financial instruments rather than mischaracterizing them.",
+    "importance": 8,
     "classified": true
   },
   {
@@ -188,6 +212,18 @@
     "content": "Perps, which launched on BitMEX in 2016, have become one of the most traded financial products in the world.",
     "image": "https://cdn.sanity.io/images/s3y3vcno/production/a6df7d2a64af03ca4066072522fb9fceeb34abfc-6000x4000.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
     "summary": "The article introduces 'perps' (perpetual futures), a financial instrument launched on BitMEX in 2016 that has become one of the most widely traded products globally. It aims to explain what these perps are within the context of crypto trading.",
+    "importance": 8,
+    "classified": true
+  },
+  {
+    "title": "Galaxy, MARA Holdings deepen Texas expansion with land acquisitions",
+    "link": "https://cointelegraph.com/news/galaxy-mara-texas-land-deals-ai-bitcoin-data-centers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Tue, 28 Jul 2026 18:08:32 +0000",
+    "source": "Cointelegraph",
+    "category": "both",
+    "content": "The crypto-focused companies announced separate acquisitions as demand for power-intensive AI and digital infrastructure continues to grow.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-top-5-crypto-states-in-us-texas.jpg",
+    "summary": "Crypto-focused companies Galaxy and MARA Holdings have announced separate land acquisitions in Texas for expansion. This move is driven by the increasing demand for power-intensive infrastructure needed for both artificial intelligence and general digital operations.",
     "importance": 8,
     "classified": true
   },
@@ -360,14 +396,14 @@
     "classified": true
   },
   {
-    "title": "USDC issuer Circle to acquire nearly 1,000 IBM blockchain patents",
-    "link": "https://cointelegraph.com/news/circle-to-acquire-nearly-1000-ibm-blockchain-patents?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Mon, 27 Jul 2026 13:08:55 +0000",
-    "source": "Cointelegraph",
+    "title": "Ethereum L2 ecosystem loses momentum as TVL drops to two-year low",
+    "link": "https://www.theblock.co/post/409811/ethereum-l2-ecosystem-loses-momentum-as-tvl-drops-to-two-year-low?utm_source=rss&utm_medium=rss",
+    "pubDate": "Tue, 28 Jul 2026 14:21:02 -0400",
+    "source": "The Block",
     "category": "crypto",
-    "content": "IBM’s blockchain portfolio includes more than 680 patent families and nearly 1,000 issued patents worldwide, with a particular focus in supply chain applications.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-usdt-vs-usdc-whats-the-difference.png",
-    "summary": "Circle, the issuer of USDC, is acquiring nearly 1,000 IBM blockchain patents, which include over 680 patent families with a focus on supply chain applications. This acquisition expands Circle's blockchain capabilities. The patents are issued worldwide, giving Circle a significant global presence.",
+    "content": "Total value locked in Ethereum Layer 2s has slid back to roughly $5 billion, a level last seen in 2023.",
+    "image": "https://www.tbstat.com/wp/uploads/2024/05/20240523_Ethereum_News_3-800x450.jpg",
+    "summary": "The total value locked (TVL) in Ethereum Layer 2 solutions has recently fallen to approximately $5 billion. This significant drop brings the TVL to a two-year low, a level last observed in 2023.",
     "importance": 8,
     "classified": true
   },
@@ -468,14 +504,26 @@
     "classified": true
   },
   {
-    "title": "Lido begins consolidating $16 billion worth of staked ETH as Curated Module v2 rolls out",
-    "link": "https://www.theblock.co/post/409780/lido-begins-consolidating-16-billion-worth-of-staked-eth-as-curated-module-v2-rolls-out?utm_source=rss&utm_medium=rss",
-    "pubDate": "Mon, 27 Jul 2026 11:03:20 -0400",
-    "source": "The Block",
+    "title": "Bitcoin Dips As Crypto Clarity Act Hopes Fade ",
+    "link": "https://bitcoinmagazine.com/bitcoin-mining/bitcoin-price-dips-clarity-act",
+    "pubDate": "Tue, 28 Jul 2026 18:48:20 +0000",
+    "source": "Bitcoin Magazine",
     "category": "crypto",
-    "content": "Ethereum staking protocol Lido has begun consolidating more than 8 million ETH onto Ethereum’s larger post-Pectra 0x02 validators.",
-    "image": "https://www.tbstat.com/wp/uploads/2022/06/20220616_Lido_Community-800x450.jpg",
-    "summary": "Lido has started consolidating over 8 million ETH, worth around $16 billion, onto Ethereum's larger validators as part of its Curated Module v2 rollout. This move is part of the Ethereum staking protocol's efforts to streamline its operations. The consolidation aims to improve efficiency and security on the network.",
+    "content": "Bitcoin Magazine\n\nBitcoin Dips As Crypto Clarity Act Hopes Fade \nSome lawmakers are hoping the long-awaited Clarity Act gets a vote by next week. \nThis post Bitcoin Dips As Crypto Clarity Act Hopes Fade  first appeared on Bitcoin Magazine and is written by Mathew Di Salvo.",
+    "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/07/Bitcoin-Price-Down-Clarity-Act.jpg",
+    "summary": "Bitcoin's price has fallen as optimism for the Crypto Clarity Act has diminished. Lawmakers are currently hoping the long-awaited legislation will receive a vote by next week.",
+    "importance": 8,
+    "classified": true
+  },
+  {
+    "title": "I Scanned the Entire Bitcoin Blockchain for Images. What I Found Will Shock You",
+    "link": "https://bitcoinmagazine.com/guides/i-scanned-the-entire-bitcoin-blockchain-for-images-what-i-found-will-shock-you",
+    "pubDate": "Tue, 28 Jul 2026 18:05:14 +0000",
+    "source": "Bitcoin Magazine",
+    "category": "crypto",
+    "content": "Bitcoin Magazine\n\nI Scanned the Entire Bitcoin Blockchain for Images. What I Found Will Shock You\nAfter three days of validation and half a day of deep scanning, the findings force a hard look at what “content on the blockchain” really means for ordinary node operators.\nThis post I Scanned the Entire Bitcoin Blockchain for Images. What I Found Will Shock You first appeared on Bitcoin Magazine and is written by Juan Galt.",
+    "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/07/tn2-1.webp",
+    "summary": "A researcher scanned the entire Bitcoin blockchain for images and found surprising results, forcing a re-evaluation of what 'content on the blockchain' means for node operators. The scan took three days to validate and half a day to complete. The findings have significant implications for the Bitcoin community.",
     "importance": 8,
     "classified": true
   },
@@ -524,18 +572,6 @@
     "content": "Bitcoin Magazine\n\nRussia’s Sberbank Sets December Deadline for Crypto Buildout: Report\nRussia’s largest bank, Sberbank, will build crypto infrastructure by December, according to a report by Russian news agency Interfax.  A key piece will be a digital depository that tracks clients’ crypto rights and records off-blockchain transactions, while also handling wallet transfers to execute client orders, Interfax reported Monday.  Sberbank this month revealed plans to debut […]\nThis post Russia’s Sberbank Sets December Deadline for Crypto Buildout: Report first appeared on Bitcoin Magazine and is written by Mathew Di Salvo.",
     "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/07/Russian-Sberbank-Plans-Crypto-Wallet-and-Digital-Depository-by-December.jpg",
     "summary": "Sberbank, Russia's largest bank, plans to build crypto infrastructure by December, including a digital depository to track clients' crypto rights and handle transactions. The bank aims to debut its crypto platform soon. This move marks a significant step in Russia's growing crypto adoption.",
-    "importance": 8,
-    "classified": true
-  },
-  {
-    "title": "$7 Trillion Investment Giant Fidelity Backs New Crypto Clarity Act",
-    "link": "https://bitcoinmagazine.com/news/fidelity-backs-crypto-clarity-act",
-    "pubDate": "Fri, 24 Jul 2026 20:36:04 +0000",
-    "source": "Bitcoin Magazine",
-    "category": "crypto",
-    "content": "Bitcoin Magazine\n\n$7 Trillion Investment Giant Fidelity Backs New Crypto Clarity Act\nThe investment giant is the latest big player to back the bill. \nThis post $7 Trillion Investment Giant Fidelity Backs New Crypto Clarity Act first appeared on Bitcoin Magazine and is written by Mathew Di Salvo.",
-    "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/07/Fidelity-Clarity-Act.jpg",
-    "summary": "Fidelity, a $7 trillion investment giant, has backed the new Crypto Clarity Act, becoming the latest major player to support the bill. The act aims to provide clearer regulations for the cryptocurrency industry. This move demonstrates Fidelity's growing interest in the crypto space.",
     "importance": 8,
     "classified": true
   },
@@ -605,19 +641,19 @@
     "pubDate": "Tue, 28 Jul 2026 14:00:00 +0000",
     "source": "TechCrunch AI",
     "category": "ai",
-    "content": "Since launching last year, the startup today has more than 8 million people using the open-source or hosted version of its models, and now generates annual recurring revenue of $21 million.",
+    "content": "Since launching last year, the startup today has more than 8 million people using the open source or hosted version of its models, and now generates annual recurring revenue of $21 million.",
     "image": "",
     "summary": "Fish Audio, a startup, has raised $52M in seed funding to develop AI voice models for creators and enterprises, with over 8 million users and $21 million in annual recurring revenue. The company offers open-source and hosted versions of its models. This funding will help the company further build its AI voice technology.",
     "importance": 8,
     "classified": true
   },
   {
-    "title": "Recursive Superintelligence signs $410 million compute deal with Amazon",
+    "title": "Recursive Superintelligence signs $410M compute deal with Amazon",
     "link": "https://techcrunch.com/2026/07/28/recursive-superintelligence-signs-400-compute-deal-with-amazon/",
     "pubDate": "Tue, 28 Jul 2026 13:19:17 +0000",
     "source": "TechCrunch AI",
     "category": "ai",
-    "content": "Recursive’s $400 million outlay represents the bulk of the company’s fundraising to date.",
+    "content": "Recursive’s emphasis on self-improving AI systems means much of the budget that would traditionally go toward headcount and operations is put straight into compute, as the company seeks to automate its own product development process.",
     "image": "",
     "summary": "Recursive Superintelligence has signed a $410 million compute deal with Amazon, with the majority of the funds coming from Recursive's recent fundraising efforts. This deal suggests a significant investment in computing power, likely for AI development. The exact implications of this deal are not specified in the article.",
     "importance": 8,
@@ -1032,18 +1068,6 @@
     "classified": true
   },
   {
-    "title": "Fanatics buys regulated exchange in bid to grow prediction markets business",
-    "link": "https://www.coindesk.com/markets/2026/07/27/fanatics-buys-regulated-exchange-in-bid-to-grow-prediction-markets-business",
-    "pubDate": "Mon, 27 Jul 2026 14:46:10 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "The deal gives Fanatics control of its own prediction market infrastructure as event-based trading gains traction across sports, finance and crypto.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/87753819b04abf141210dc917dfa7a4e14fbf29a-5358x3652.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "Fanatics has acquired a regulated exchange to bolster its prediction markets business, securing its own infrastructure. This strategic move aims to capitalize on the increasing popularity of event-based trading across diverse sectors, including sports, finance, and crypto.",
-    "importance": 7,
-    "classified": true
-  },
-  {
     "title": "Binance phishes its own staff monthly, India censors BitChat code: Asia Express",
     "link": "https://cointelegraph.com/magazine/india-bans-bitchat-binance-phishs-its-own-staff-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "pubDate": "Tue, 28 Jul 2026 01:23:07 +0000",
@@ -1064,6 +1088,18 @@
     "content": "The company added nearly 10,000 ETH over the past week, bringing its holdings to 5.79 million Ether, about 85% of which is staked through its validator operations.",
     "image": "https://s3-images.ctmedia.io/media/article-covers/hi-the-7-largest-ethereum-treasury-companies-right-now-ranked-by-holdings-bitmine-3.jpg",
     "summary": "Bitmine acquired nearly 10,000 ETH over the past week, bringing its total Ether holdings to 5.79 million. Approximately 85% of these holdings are staked through the company's validator operations, as Ether continues to outperform Bitcoin.",
+    "importance": 7,
+    "classified": true
+  },
+  {
+    "title": "Zcash activates Ironwood upgrade, launching new shielded pool after Orchard vulnerability",
+    "link": "https://www.theblock.co/post/409934/zcash-ironwood-upgrade-launching-new-shielded-pool-after-orchard-vulnerability?utm_source=rss&utm_medium=rss",
+    "pubDate": "Tue, 28 Jul 2026 13:26:31 -0400",
+    "source": "The Block",
+    "category": "crypto",
+    "content": "Ironwood represents something of a unified effort across Zcash’s developer ecosystem after Shielded Labs found a bug in Orchard.",
+    "image": "https://www.tbstat.com/wp/uploads/2025/12/20251202_ZCash_News-800x450.jpg",
+    "summary": "Zcash has activated its Ironwood upgrade, introducing a new shielded pool as a unified effort by its developer ecosystem. This upgrade was prompted by a vulnerability found in the previous Orchard shielded pool by Shielded Labs.",
     "importance": 7,
     "classified": true
   },
@@ -1260,18 +1296,6 @@
     "classified": true
   },
   {
-    "title": "Strategy sells MSTR shares, buys back $25M in STRC preferred stock",
-    "link": "https://cointelegraph.com/news/strategy-sells-mstr-buys-back-25-milllion-strc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Mon, 27 Jul 2026 12:34:36 +0000",
-    "source": "Cointelegraph",
-    "category": "crypto",
-    "content": "Strategy raised $544.5 million through MSTR stock sales as it repurchased $25 million of STRC shares and expanded its US dollar reserve to $3.75 billion.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/michael-saylors-big-bet-institutional-investments-role-1.jpg",
-    "summary": "Strategy sold MSTR shares, raising $544.5 million, and used some of the funds to repurchase $25 million of its own STRC preferred stock. The company also increased its US dollar reserve to $3.75 billion. This move indicates a strategic financial adjustment by the company.",
-    "importance": 6,
-    "classified": true
-  },
-  {
     "title": "Robinhood Chain deposits climb but volume and users fade after memecoin-fueled launch",
     "link": "https://www.theblock.co/post/409813/robinhood-chain-deposits-climb-volume-users-fade-memecoin-fueled-launch?utm_source=rss&utm_medium=rss",
     "pubDate": "Tue, 28 Jul 2026 12:02:48 -0400",
@@ -1368,14 +1392,26 @@
     "classified": true
   },
   {
-    "title": "Metaplanet’s brokerage deal ‘badly undersells’ plans for bitcoin-backed ‘Bitbonds,’ Benchmark says",
-    "link": "https://www.theblock.co/post/409752/benchmark-metaplanet-brokerage-deal-badly-undersells-plans-bitcoin-backed-bitbonds?utm_source=rss&utm_medium=rss",
-    "pubDate": "Mon, 27 Jul 2026 11:06:52 -0400",
-    "source": "The Block",
+    "title": "Quick Maths On STRC Buybacks: The Truth About Net Bitcoin Per Share and Accretion",
+    "link": "https://bitcoinmagazine.com/bitcoin-for-corporations/on-strc-buybacks",
+    "pubDate": "Tue, 28 Jul 2026 17:40:07 +0000",
+    "source": "Bitcoin Magazine",
     "category": "crypto",
-    "content": "Metaplanet envisions launching 4% to 6% bitcoin-backed bonds before eventually moving them on-chain with stablecoin settlement.",
-    "image": "https://www.tbstat.com/wp/uploads/2025/04/20250401_MetaPlanet_News-800x450.jpg",
-    "summary": "Metaplanet plans to launch bitcoin-backed bonds with 4-6% interest, aiming to eventually move them on-chain with stablecoin settlement. The company's brokerage deal has been criticized by Benchmark for underselling its plans. The bonds will offer a new investment opportunity backed by bitcoin.",
+    "content": "Bitcoin Magazine\n\nQuick Maths On STRC Buybacks: The Truth About Net Bitcoin Per Share and Accretion\nUnderstanding the logic behind STRC preferred stock buybacks starts with familiarity around Strategy's newest metric.\nThis post Quick Maths On STRC Buybacks: The Truth About Net Bitcoin Per Share and Accretion first appeared on Bitcoin Magazine and is written by Allard Peng.",
+    "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/07/aghg.png",
+    "summary": "The article discusses the logic behind STRC preferred stock buybacks, focusing on net Bitcoin per share and accretion, providing insight into Strategy's newest metric. It aims to clarify the truth about the buybacks. The article is written by Allard Peng for Bitcoin Magazine.",
+    "importance": 6,
+    "classified": true
+  },
+  {
+    "title": "Core Scientific Adds More Bitcoin To Balance Sheet in Q2 Despite Selling Strategy",
+    "link": "https://bitcoinmagazine.com/news/core-scientific-adds-more-bitcoin",
+    "pubDate": "Tue, 28 Jul 2026 17:23:46 +0000",
+    "source": "Bitcoin Magazine",
+    "category": "crypto",
+    "content": "Bitcoin Magazine\n\nCore Scientific Adds More Bitcoin To Balance Sheet in Q2 Despite Selling Strategy\nWhile the publicly-traded miner's holdings have shrunk overall this year, the company has quickly added more Bitcoin to its balance sheet the past quarter. \nThis post Core Scientific Adds More Bitcoin To Balance Sheet in Q2 Despite Selling Strategy first appeared on Bitcoin Magazine and is written by Mathew Di Salvo.",
+    "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/07/Core-Scientific-Adds-More-Bitcoin.jpg",
+    "summary": "Core Scientific, a publicly-traded miner, added more Bitcoin to its balance sheet in Q2 despite having a selling strategy, although its overall holdings have shrunk this year. The company's move is notable given its prior strategy. This development reflects the complex dynamics of Bitcoin mining and investment.",
     "importance": 6,
     "classified": true
   },
@@ -1400,42 +1436,6 @@
     "content": "Bitcoin Magazine\n\nCoinbase Chief Policy Officer Praises Crypto Clarity Act as “Extraordinarily Bipartisan”\nCoinbase Chief Policy Officer Faryar Shirzad said it's time for Democrats and Republicans to vote on the Clarity Act. \nThis post Coinbase Chief Policy Officer Praises Crypto Clarity Act as “Extraordinarily Bipartisan” first appeared on Bitcoin Magazine and is written by Mathew Di Salvo.",
     "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/04/Coinbase-Receives-Conditional-OCC-Approval-to-Form-National-Trust-Company.jpg",
     "summary": "Coinbase Chief Policy Officer Faryar Shirzad has lauded the Crypto Clarity Act as \"extraordinarily bipartisan,\" urging both Democrats and Republicans to vote on the legislation. Shirzad's comments highlight a push for regulatory clarity within the cryptocurrency sector.",
-    "importance": 6,
-    "classified": true
-  },
-  {
-    "title": "Strategy Skips Bitcoin Again, Buys Back $25M of STRC Stock",
-    "link": "https://bitcoinmagazine.com/news/strategy-skips-bitcoin-buy-again",
-    "pubDate": "Mon, 27 Jul 2026 14:36:24 +0000",
-    "source": "Bitcoin Magazine",
-    "category": "crypto",
-    "content": "Bitcoin Magazine\n\nStrategy Skips Bitcoin Again, Buys Back $25M of STRC Stock\nThe company has not bought Bitcoin now for five weeks. \nThis post Strategy Skips Bitcoin Again, Buys Back $25M of STRC Stock first appeared on Bitcoin Magazine and is written by Mathew Di Salvo.",
-    "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/03/Strategy-MSTR-Breaks-13-Week-Bitcoin-Buying-Streak-Holdings-Hold-at-762099-BTC.jpg",
-    "summary": "Strategy has skipped buying Bitcoin for five weeks and instead bought back $25M of its own stock, STRC. This decision may indicate a shift in the company's investment strategy. The move has been reported by Bitcoin Magazine.",
-    "importance": 6,
-    "classified": true
-  },
-  {
-    "title": "Morgan Stanley Bitcoin ETF Nearly Notches $400M in Assets",
-    "link": "https://bitcoinmagazine.com/news/morgan-stanley-bitcoin-etf-400-million",
-    "pubDate": "Fri, 24 Jul 2026 22:16:22 +0000",
-    "source": "Bitcoin Magazine",
-    "category": "crypto",
-    "content": "Bitcoin Magazine\n\nMorgan Stanley Bitcoin ETF Nearly Notches $400M in Assets\nInvestors were cashing out of Bitcoin ETFs this week — but Morgan Stanley's product received fresh cash.\nThis post Morgan Stanley Bitcoin ETF Nearly Notches $400M in Assets first appeared on Bitcoin Magazine and is written by Mathew Di Salvo.",
-    "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/04/Morgan-Stanley-Becomes-Official-First-US-Bank-To-Launch-A-Spot-Bitcoin-ETF.jpg",
-    "summary": "Morgan Stanley's Bitcoin ETF has nearly reached $400M in assets, despite investors cashing out of other Bitcoin ETFs this week. This suggests that Morgan Stanley's product is still attracting fresh investment. The growth of the ETF is a significant development in the cryptocurrency market.",
-    "importance": 6,
-    "classified": true
-  },
-  {
-    "title": "State Department to Debut Freedom Tech Program with Bitcoin Policy Institute, Palantir as Founding Partners",
-    "link": "https://bitcoinmagazine.com/news/state-department-tech-program-with-bitcoin",
-    "pubDate": "Fri, 24 Jul 2026 20:20:05 +0000",
-    "source": "Bitcoin Magazine",
-    "category": "both",
-    "content": "Bitcoin Magazine\n\nState Department to Debut Freedom Tech Program with Bitcoin Policy Institute, Palantir as Founding Partners\nThe initiative wants to protect free expression online.\nThis post State Department to Debut Freedom Tech Program with Bitcoin Policy Institute, Palantir as Founding Partners first appeared on Bitcoin Magazine and is written by Mathew Di Salvo.",
-    "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/07/Pics-4.jpg",
-    "summary": "The US State Department is launching the Freedom Tech Program, aimed at protecting free expression online, with the Bitcoin Policy Institute and Palantir as founding partners. The initiative highlights the intersection of technology and free speech. The program's goals and implications are yet to be fully detailed.",
     "importance": 6,
     "classified": true
   },
@@ -1610,7 +1610,7 @@
   {
     "title": "Here’s what happened in crypto today",
     "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Tue, 28 Jul 2026 13:42:17 +0000",
+    "pubDate": "Tue, 28 Jul 2026 18:15:25 +0000",
     "source": "Cointelegraph",
     "category": "crypto",
     "content": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
