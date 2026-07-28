@@ -180,14 +180,14 @@
     "classified": true
   },
   {
-    "title": "Crypto is the canary in the coal mine for the quantum computing threat, experts say",
-    "link": "https://www.coindesk.com/markets/2026/07/27/crypto-is-the-canary-in-the-coal-mine-for-the-quantum-computing-threat-experts-say",
-    "pubDate": "Mon, 27 Jul 2026 06:37:54 +0000",
-    "source": "CoinDesk",
+    "title": "Hong Kong prepares banks for quantum threats amid tokenization push",
+    "link": "https://cointelegraph.com/news/hong-kong-banks-quantum-threats-tokenization?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Tue, 28 Jul 2026 02:21:04 +0000",
+    "source": "Cointelegraph",
     "category": "both",
-    "content": "As estimates for “Q-Day” move closer, experts warn that crypto’s slow governance, not its cryptography, may be the biggest obstacle to defending against quantum attacks.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/aeeabe28669425a95b4918b55a4680c3e968c1c7-6002x4001.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "Experts warn that crypto's slow governance may be the biggest obstacle to defending against quantum attacks, as estimates for Q-Day move closer. This poses a significant threat to the security of cryptocurrencies. The cryptography itself is not the main concern, but rather the ability to implement changes quickly.",
+    "content": "The HKMA aims to make Hong Kong’s banking sector fully prepared for quantum-related security risks by 2030 as the city expands tokenized finance.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-hong-kong-fund-how-dats-could-redefine-stablecoin-treasuries.jpg",
+    "summary": "The Hong Kong Monetary Authority is preparing the city's banking sector for quantum security threats by 2030, as Hong Kong expands its tokenized finance sector. This move aims to mitigate potential risks associated with quantum computing. The initiative is part of the city's push towards tokenization and digital finance.",
     "importance": 8,
     "classified": true
   },
@@ -320,30 +320,6 @@
     "content": "KB Kookmin Bank will use JPMorgan’s blockchain platform to support US dollar cross-border payments for import and export businesses across 10 countries.",
     "image": "https://s3-images.ctmedia.io/media/article-covers/hi-crypto-negotiation-south-korea.jpg",
     "summary": "South Korea's largest bank is set to launch a new US dollar cross-border payment service for import and export businesses, utilizing JPMorgan's Kinexys blockchain platform. This service will facilitate transactions across 10 countries, demonstrating a significant adoption of blockchain technology by a major traditional financial institution.",
-    "importance": 8,
-    "classified": true
-  },
-  {
-    "title": "BitMart to wind down exchange, end trading by Aug. 26",
-    "link": "https://cointelegraph.com/news/bitmart-wind-down-exchange-end-trading?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Sun, 26 Jul 2026 07:13:00 +0000",
-    "source": "Cointelegraph",
-    "category": "crypto",
-    "content": "Crypto exchange BitMart said it will wind down operations after its BMX token plunged and users reported withdrawal delays, with platform operations set to end in January.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/closed-exchange.jpg",
-    "summary": "Crypto exchange BitMart has announced its decision to wind down operations, citing a significant plunge in its BMX token and reports of user withdrawal delays. Trading on the platform is set to end by August 26, with full platform operations ceasing in January.",
-    "importance": 8,
-    "classified": true
-  },
-  {
-    "title": "Robinhood in talks with Crypto.com over prediction markets: WSJ",
-    "link": "https://cointelegraph.com/news/robinhood-cryptocom-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Sat, 25 Jul 2026 21:05:00 +0000",
-    "source": "Cointelegraph",
-    "category": "crypto",
-    "content": "While prediction market companies in the US continue to face legal battles between state and federal authorities, Robinhood is reportedly considering expanding its services.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-when-prediction-markets-go-wrong-who-decides-what-counts-as-the-truth.jpg",
-    "summary": "Robinhood is reportedly in discussions with Crypto.com regarding a potential expansion into prediction markets. This consideration comes amidst ongoing legal battles faced by prediction market companies within the United States.",
     "importance": 8,
     "classified": true
   },
@@ -692,18 +668,6 @@
     "content": "The neolab is betting that automating routine computer tasks will soon outpace coding as AI's biggest use case.",
     "image": "",
     "summary": "A new AI lab, Prentis, co-founded by Reid Hoffman and Mark Pincus, is in talks to raise $100M. The lab focuses on automating routine computer tasks, which it believes will become AI's biggest use case. This could significantly impact the AI community.",
-    "importance": 8,
-    "classified": true
-  },
-  {
-    "title": "Why Cognition bought Poke: AI personality is becoming a competitive advantage",
-    "link": "https://techcrunch.com/2026/07/24/why-cognition-bought-poke-ai-personality-is-becoming-a-competitive-advantage/",
-    "pubDate": "Fri, 24 Jul 2026 18:07:32 +0000",
-    "source": "TechCrunch AI",
-    "category": "ai",
-    "content": "The acquisition brings Poke’s conversational style and interaction model to Cognition’s coding agent Devin, reflecting a growing belief that how AI assistants interact with users is as important as the models powering them.",
-    "image": "",
-    "summary": "Cognition, an AI coding startup, has acquired Poke, an AI assistant, in a deal worth low nine figures, to integrate Poke's conversational style into its coding agent Devin. This acquisition highlights the increasing importance of AI personality and interaction models. The move aims to make Cognition's coding agent more user-friendly and interactive.",
     "importance": 8,
     "classified": true
   },
@@ -1116,30 +1080,6 @@
     "classified": true
   },
   {
-    "title": "Binance ‘red teams’ its own staff every month to keep hackers out",
-    "link": "https://cointelegraph.com/news/binance-red-teams-own-staff-every-month-to-keep-hackers-out?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Sun, 26 Jul 2026 02:01:00 +0000",
-    "source": "Cointelegraph",
-    "category": "crypto",
-    "content": "Binance regularly tests its employees for security hygiene, as social engineering is becoming a major source of industry breaches.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/phishing.jpg",
-    "summary": "Binance conducts monthly 'red team' exercises, testing its employees' security hygiene to counteract social engineering, which is a significant cause of industry breaches. This proactive measure aims to enhance the security posture of the major cryptocurrency exchange.",
-    "importance": 7,
-    "classified": true
-  },
-  {
-    "title": "Triple-A hot wallet losses climb to $11.8 million as new deposits keep being swept: report",
-    "link": "https://www.theblock.co/post/409678/triple-a-hot-wallet-losses-climb-to-11-8-million-as-new-deposits-keep-being-swept-report?utm_source=rss&utm_medium=rss",
-    "pubDate": "Sun, 26 Jul 2026 18:38:54 -0400",
-    "source": "The Block",
-    "category": "crypto",
-    "content": "Triple-A said it is investigating and that customer funds are not affected, though it has not fully addressed the incident publicly.",
-    "image": "https://www.tbstat.com/wp/uploads/2023/04/20230411_Hack_Generic_2-800x450.jpg",
-    "summary": "Cryptocurrency platform Triple-A has reportedly sustained $11.8 million in hot wallet losses, which are continuing to increase as new deposits are swept. The company states it is investigating and that customer funds remain unaffected, despite not fully addressing the incident publicly.",
-    "importance": 7,
-    "classified": true
-  },
-  {
     "title": "Librarians are hosting viral ‘Avoiding AI’ workshops for people who are fed up with Big Tech",
     "link": "https://techcrunch.com/2026/07/25/librarians-are-hosting-viral-avoiding-ai-workshops-for-people-who-are-fed-up-with-big-tech/",
     "pubDate": "Sat, 25 Jul 2026 16:00:00 +0000",
@@ -1149,6 +1089,18 @@
     "image": "",
     "summary": "Librarians nationwide are hosting \"Avoiding AI\" workshops that have seen unprecedented demand, indicating a growing public sentiment against artificial intelligence and Big Tech. These workshops cater to individuals who are wary of the increasing influence of AI in their lives.",
     "importance": 7,
+    "classified": true
+  },
+  {
+    "title": "Bitcoin slides 2% after U.S. close while Korea’s Kospi plunges 10%",
+    "link": "https://www.coindesk.com/markets/2026/07/28/bitcoin-slides-2-after-u-s-close-while-korea-s-kospi-plunges-10",
+    "pubDate": "Tue, 28 Jul 2026 04:32:39 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/af5533562893e00a029eaace0996b96eacade301-1905x1072.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "Bitcoin experienced a 2% decline after the U.S. market close. This occurred concurrently with a significant 10% plunge in South Korea's Kospi stock index.",
+    "importance": 6,
     "classified": true
   },
   {
@@ -1208,6 +1160,30 @@
     "content": "The decentralized data storage company says operations continue and proposes that token holders take equity in the restructured business — an unusual arrangement in bankruptcy.",
     "image": "https://cdn.sanity.io/images/s3y3vcno/production/8d684c2d735259a97e84723fb072716dab0c5fed-3456x2298.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
     "summary": "Storj, a decentralized data storage company, has filed for Chapter 11 bankruptcy, but will continue operations and propose an unusual arrangement where token holders take equity in the restructured business. The company's token has slid 16% following the news. This marks another failure in the crypto space this week.",
+    "importance": 6,
+    "classified": true
+  },
+  {
+    "title": "US judge temporarily blocks Minnesota prediction market ban ",
+    "link": "https://cointelegraph.com/news/us-judge-blocks-minnesota-prediction-market-ban?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Tue, 28 Jul 2026 04:28:10 +0000",
+    "source": "Cointelegraph",
+    "category": "crypto",
+    "content": "The preliminary injunction allows Kalshi and Polymarket US to continue operating in Minnesota while the court considers their challenge to the state law.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/man-documents-breaking-news-1.png",
+    "summary": "A US judge has temporarily blocked a ban on prediction markets in Minnesota, allowing companies like Kalshi and Polymarket US to continue operating in the state. The injunction is preliminary, pending the court's consideration of the companies' challenge to the state law. This decision may impact the use of blockchain and cryptocurrency in prediction markets.",
+    "importance": 6,
+    "classified": true
+  },
+  {
+    "title": "Zimbabwe admits seven fintech projects to regulatory sandbox",
+    "link": "https://cointelegraph.com/news/zimbabwe-seven-fintech-projects-regulatory-sandbox?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Tue, 28 Jul 2026 03:17:10 +0000",
+    "source": "Cointelegraph",
+    "category": "crypto",
+    "content": "Sandbox participation permits supervised testing but does not guarantee full commercial registration.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/coinsavanna.jpg",
+    "summary": "Zimbabwe has admitted seven fintech projects to its regulatory sandbox, allowing them to test their products under supervision. This move does not guarantee full commercial registration for the projects. The sandbox aims to foster innovation in the fintech sector.",
     "importance": 6,
     "classified": true
   },
@@ -1292,6 +1268,18 @@
     "content": "Strategy raised $544.5 million through MSTR stock sales as it repurchased $25 million of STRC shares and expanded its US dollar reserve to $3.75 billion.",
     "image": "https://s3-images.ctmedia.io/media/article-covers/michael-saylors-big-bet-institutional-investments-role-1.jpg",
     "summary": "Strategy sold MSTR shares, raising $544.5 million, and used some of the funds to repurchase $25 million of its own STRC preferred stock. The company also increased its US dollar reserve to $3.75 billion. This move indicates a strategic financial adjustment by the company.",
+    "importance": 6,
+    "classified": true
+  },
+  {
+    "title": "What Is KuCoin?",
+    "link": "https://www.theblock.co/learn/409571/what-is-kucoin?utm_source=rss&utm_medium=rss",
+    "pubDate": "Tue, 28 Jul 2026 01:14:22 -0400",
+    "source": "The Block",
+    "category": "crypto",
+    "content": "KuCoin is a global cryptocurrency exchange where users can trade, earn, spend, and manage digital assets. Founded in 2017, the platform is now one of the most popular CEXs, serving more than 45 million users across over 200 countries and regions. These range from first-time crypto users and active retail traders to professional and institutional […]",
+    "image": "https://www.tbstat.com/wp/uploads/2026/07/Kucoin-Learn-800x450.jpg",
+    "summary": "KuCoin is a global cryptocurrency exchange that allows users to trade, earn, and manage digital assets, serving over 45 million users across 200 countries. Founded in 2017, it has become one of the most popular cryptocurrency exchanges. The platform caters to a wide range of users, from first-time crypto users to institutional traders.",
     "importance": 6,
     "classified": true
   },
@@ -1676,6 +1664,18 @@
     "content": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Supercooled kidneys have been transplanted into pigs in a “landmark achievement”  When it comes to organ donation, time is everything. As soon as an organ has been removed from a donor’s…",
     "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f4b8.png",
     "summary": "Researchers have achieved a breakthrough in organ transplantation by successfully transplanting supercooled kidneys into pigs. This advancement has the potential to significantly impact the field of medicine. The breakthrough could help increase the availability of organs for transplantation.",
+    "importance": 2,
+    "classified": true
+  },
+  {
+    "title": "Cursor makes its biggest India push yet ahead of SpaceX acquisition with localized pricing",
+    "link": "https://techcrunch.com/2026/07/27/cursor-makes-its-biggest-india-push-yet-ahead-of-spacex-acquisition-with-localized-pricing/",
+    "pubDate": "Tue, 28 Jul 2026 04:30:00 +0000",
+    "source": "TechCrunch AI",
+    "category": "ai",
+    "content": "Cursor says India is now its third-largest market globally and plans to expand local hiring and enterprise sales.",
+    "image": "",
+    "summary": "Cursor is expanding its presence in India, making it its third-largest market globally, with plans for localized pricing, increased hiring, and enterprise sales. This move comes ahead of its acquisition by SpaceX. The company aims to strengthen its position in the Indian market.",
     "importance": 2,
     "classified": true
   },
