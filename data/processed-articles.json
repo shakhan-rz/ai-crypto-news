@@ -36,6 +36,18 @@
     "classified": true
   },
   {
+    "title": "Kalshi, Polymarket win pause against Minnesota's prediction market ban",
+    "link": "https://www.coindesk.com/policy/2026/07/27/kalshi-polymarket-win-pause-against-minnesota-s-prediction-market-ban",
+    "pubDate": "Mon, 27 Jul 2026 23:29:38 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "A federal judge ruled that Minnesota's law criminalizing prediction markets would probably violate the federal Commodity Exchange Act.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/f8247ad03ed0ee80d0bc837f451e14221f8fa7f3-1900x1067.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "A federal judge has issued a temporary injunction against Minnesota's law criminalizing prediction markets, ruling it likely violates the federal Commodity Exchange Act. This decision marks a significant legal victory for platforms like Kalshi and Polymarket, pausing the state's ban.",
+    "importance": 8,
+    "classified": true
+  },
+  {
     "title": "Crypto’s favorite $90 trillion trading product is coming to Wall Street, but big banks are taking it slow",
     "link": "https://www.coindesk.com/markets/2026/07/22/crypto-s-favorite-usd90-trillion-trading-product-is-coming-to-wall-street-but-big-banks-are-taking-it-slow",
     "pubDate": "Mon, 27 Jul 2026 18:00:00 +0000",
@@ -180,26 +192,14 @@
     "classified": true
   },
   {
-    "title": "Bitcoin is back above $65,000 as U.S. and Iran hold fire. Oil drops 5%",
-    "link": "https://www.coindesk.com/markets/2026/07/27/bitcoin-is-back-above-usd65-000-as-u-s-iran-hold-fire-oil-drops-5",
-    "pubDate": "Mon, 27 Jul 2026 04:21:26 +0000",
-    "source": "CoinDesk",
+    "title": "New York AG warns CLARITY Act could weaken state crypto enforcement",
+    "link": "https://cointelegraph.com/news/new-york-ag-clarity-act-state-crypto-enforcement?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Mon, 27 Jul 2026 22:55:44 +0000",
+    "source": "Cointelegraph",
     "category": "crypto",
-    "content": "ETH outperforms BTC, hinting at potential altcoin rally, as the U.S. and Iran hold fire and oil drops.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/c33d360ec80c79d71a2d515c01e84c4978d1ef9f-2860x1070.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "Bitcoin has surged above $65,000, while Ethereum is notably outperforming BTC, suggesting the possibility of a broader altcoin rally. These market movements coincide with a de-escalation of tensions between the U.S. and Iran, which also led to a 5% drop in oil prices.",
-    "importance": 8,
-    "classified": true
-  },
-  {
-    "title": "South Korea trading giant puts receivables onchain in tokenization test with LG CNS",
-    "link": "https://www.coindesk.com/business/2026/07/26/south-korea-trading-giant-puts-receivables-onchain-in-tokenization-test-with-lg-cns",
-    "pubDate": "Mon, 27 Jul 2026 00:00:00 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "POSCO International and LG CNS is tapping Injective network to tokenize live commercial invoices, another sign blockchain rails are moving deeper into corporate finance.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/2a5375a52db6596c0f51e89041e53f604c35310b-4240x2832.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "South Korean trading giant POSCO International and LG CNS are partnering to tokenize live commercial invoices using the Injective network. This initiative signals a deeper integration of blockchain technology into corporate finance by putting real-world receivables on-chain.",
+    "content": "New York Attorney General Letitia James said the federal crypto market structure bill could restrict state regulators and urged Congress to impose stronger consumer protections on digital asset platforms.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-why-us-regulated-bitcoin-perpetuals-could-change-crypto-trading.png",
+    "summary": "New York Attorney General Letitia James has expressed concerns that the CLARITY Act, a federal crypto market structure bill, could limit the power of state regulators and weaken enforcement. She is calling on Congress to implement stronger consumer protections for digital asset platforms. This warning highlights potential implications for crypto regulation.",
     "importance": 8,
     "classified": true
   },
@@ -344,6 +344,18 @@
     "content": "While prediction market companies in the US continue to face legal battles between state and federal authorities, Robinhood is reportedly considering expanding its services.",
     "image": "https://s3-images.ctmedia.io/media/article-covers/hi-when-prediction-markets-go-wrong-who-decides-what-counts-as-the-truth.jpg",
     "summary": "Robinhood is reportedly in discussions with Crypto.com regarding a potential expansion into prediction markets. This consideration comes amidst ongoing legal battles faced by prediction market companies within the United States.",
+    "importance": 8,
+    "classified": true
+  },
+  {
+    "title": "What Is a Digital Commodity?",
+    "link": "https://www.theblock.co/learn/409682/what-is-a-digital-commodity?utm_source=rss&utm_medium=rss",
+    "pubDate": "Mon, 27 Jul 2026 21:55:46 -0400",
+    "source": "The Block",
+    "category": "crypto",
+    "content": "A digital commodity is an onchain asset that draws its value from open-market supply and demand rather than from the work of a company or central issuer.  Assets in this category are freely transferable and traded on public markets, which makes them behave more like traditional commodities such as gold than like a share of […]",
+    "image": "https://www.tbstat.com/wp/uploads/2026/07/Digital-Commodity-716x450.jpg",
+    "summary": "A digital commodity is an on-chain asset that derives its value from market supply and demand, and is freely transferable and traded on public markets. This type of asset behaves similarly to traditional commodities like gold. The value of digital commodities is not tied to the work of a company or central issuer.",
     "importance": 8,
     "classified": true
   },
@@ -548,6 +560,18 @@
     "content": "For the enterprise, the promise of agentic AI is much more than just a better chatbot. It is software agents that execute business tasks end-to-end across people, business workflows, data, and systems. The platform best-suited to run agents is built with proper CPU capacity, resilient data access, policy-aware tool use, observability, memory management, and the…",
     "image": "https://wp.technologyreview.com/wp-content/uploads/2026/07/Intel-image-contributed-article.png",
     "summary": "The article discusses the potential of agentic AI in enterprise environments, where AI agents can execute business tasks across various systems and workflows. It highlights the need for a suitable platform to run these agents, with features like proper CPU capacity and resilient data access. This can lead to increased efficiency and automation in business processes.",
+    "importance": 8,
+    "classified": true
+  },
+  {
+    "title": "Anthropic’s Dario Amodei responds: doesn’t oppose open-weight models, but fears Chinese AI",
+    "link": "https://techcrunch.com/2026/07/27/anthropics-dario-amodei-responds-doesnt-oppose-open-weight-models-but-fears-chinese-ai/",
+    "pubDate": "Tue, 28 Jul 2026 00:13:33 +0000",
+    "source": "TechCrunch AI",
+    "category": "ai",
+    "content": "Anthropic founder and CEO Dario Amodei made his views clear about open-weight models and China's growing AI capabilities.",
+    "image": "",
+    "summary": "Anthropic's CEO Dario Amodei shared his views on open-weight models and expressed concerns about China's increasing AI capabilities. He clarified that he doesn't oppose open-weight models, but has fears regarding Chinese AI. Amodei's statement provides insight into his perspective on the AI landscape.",
     "importance": 8,
     "classified": true
   },
@@ -936,6 +960,18 @@
     "classified": true
   },
   {
+    "title": "U.S. Senate puts off crypto Clarity Act for now as it focuses limited bandwidth elsewhere",
+    "link": "https://www.coindesk.com/policy/2026/07/27/u-s-senate-puts-off-crypto-clarity-act-for-now-as-it-focuses-limited-bandwidth-elsewhere",
+    "pubDate": "Mon, 27 Jul 2026 23:55:16 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "The majority leader is pursuing floor time for unrelated bills as the crypto industry waits for its policy effort to get its chance for votes.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/eb8dcd6a8ff7a00d092a7e659c13193ec9cd42ea-1920x1080.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "The U.S. Senate has postponed the crypto Clarity Act, with the majority leader prioritizing unrelated legislation. This delay means the cryptocurrency industry will have to wait longer for its policy efforts to be considered for votes.",
+    "importance": 7,
+    "classified": true
+  },
+  {
     "title": "Bitcoin shrugs off AI selloff but high-stakes Fed meeting could determine what's next",
     "link": "https://www.coindesk.com/markets/2026/07/27/bitcoin-shrugs-off-ai-selloff-but-high-stakes-fed-meeting-could-determine-what-s-next",
     "pubDate": "Mon, 27 Jul 2026 19:55:45 +0000",
@@ -992,6 +1028,18 @@
     "content": "Brent crude plunged 7% after the U.S. and Iran paused Strait of Hormuz strikes, lifting equities and DeFi tokens while bitcoin held near $65,000 ahead of a pivotal Fed decision Wednesday.",
     "image": "https://cdn.sanity.io/images/s3y3vcno/production/ca86898e3fc861b16500cb83d3e5b32ee0347565-1852x976.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
     "summary": "Brent crude oil prices plunged 7% following a pause in the conflict between the U.S. and Iran in the Strait of Hormuz. This de-escalation positively impacted risk assets, including equities and DeFi tokens, while Bitcoin held steady near $65,000 ahead of an upcoming Federal Reserve decision.",
+    "importance": 7,
+    "classified": true
+  },
+  {
+    "title": "Binance phishs its own staff monthly, India censors BitChat code: Asia Express",
+    "link": "https://cointelegraph.com/magazine/india-bans-bitchat-binance-phishs-its-own-staff-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Tue, 28 Jul 2026 01:23:07 +0000",
+    "source": "Cointelegraph",
+    "category": "crypto",
+    "content": "Binance has been phishing its own staff to get ahead of potential attacks. South Korean crypto volumes tank 89% — plus all of the week’s other crypto news from Asia.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/asia-express-6.jpg",
+    "summary": "Binance proactively conducts monthly phishing exercises on its own staff to bolster security defenses against potential attacks. Meanwhile, South Korean crypto trading volumes have seen a dramatic 89% decrease, reflecting broader trends in the Asian crypto market.",
     "importance": 7,
     "classified": true
   },
@@ -1080,18 +1128,6 @@
     "classified": true
   },
   {
-    "title": "Bitcoin advocacy group to join US State Department’s ‘digital freedom’ program",
-    "link": "https://cointelegraph.com/news/bitcoin-policy-institute-state-department-program?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Sat, 25 Jul 2026 18:19:00 +0000",
-    "source": "Cointelegraph",
-    "category": "crypto",
-    "content": "The Bitcoin Policy Institute and three partner organizations will be able to send employees to work alongside State Department officials to address issues including digital freedom.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/bitcoin-state-department.png",
-    "summary": "The Bitcoin Policy Institute, a Bitcoin advocacy group, and three partner organizations are set to join the US State Department's 'digital freedom' program. This partnership will enable their employees to work directly with State Department officials to address issues related to digital freedom.",
-    "importance": 7,
-    "classified": true
-  },
-  {
     "title": "Triple-A hot wallet losses climb to $11.8 million as new deposits keep being swept: report",
     "link": "https://www.theblock.co/post/409678/triple-a-hot-wallet-losses-climb-to-11-8-million-as-new-deposits-keep-being-swept-report?utm_source=rss&utm_medium=rss",
     "pubDate": "Sun, 26 Jul 2026 18:38:54 -0400",
@@ -1100,18 +1136,6 @@
     "content": "Triple-A said it is investigating and that customer funds are not affected, though it has not fully addressed the incident publicly.",
     "image": "https://www.tbstat.com/wp/uploads/2023/04/20230411_Hack_Generic_2-800x450.jpg",
     "summary": "Cryptocurrency platform Triple-A has reportedly sustained $11.8 million in hot wallet losses, which are continuing to increase as new deposits are swept. The company states it is investigating and that customer funds remain unaffected, despite not fully addressing the incident publicly.",
-    "importance": 7,
-    "classified": true
-  },
-  {
-    "title": "Michael Saylor teases ‘another color’ after four straight weeks without a Strategy bitcoin buy",
-    "link": "https://www.theblock.co/post/409675/michael-saylor-teases-another-color-after-four-straight-weeks-without-a-strategy-bitcoin-buy?utm_source=rss&utm_medium=rss",
-    "pubDate": "Sun, 26 Jul 2026 16:49:10 -0400",
-    "source": "The Block",
-    "category": "crypto",
-    "content": "Strategy holds 843,775 BTC at an average cost of $75,476, leaving the position roughly $9.3 billion underwater with bitcoin near $64,600.",
-    "image": "https://www.tbstat.com/wp/uploads/2026/04/20260410_MichaelSaylor_News_2-800x450.jpg",
-    "summary": "Michael Saylor's company, Strategy, has gone four consecutive weeks without purchasing Bitcoin, potentially signaling a new approach. The company currently holds 843,775 BTC at an average cost of $75,476, putting them approximately $9.3 billion underwater with Bitcoin trading near $64,600.",
     "importance": 7,
     "classified": true
   },
@@ -1268,18 +1292,6 @@
     "content": "Strategy raised $544.5 million through MSTR stock sales as it repurchased $25 million of STRC shares and expanded its US dollar reserve to $3.75 billion.",
     "image": "https://s3-images.ctmedia.io/media/article-covers/michael-saylors-big-bet-institutional-investments-role-1.jpg",
     "summary": "Strategy sold MSTR shares, raising $544.5 million, and used some of the funds to repurchase $25 million of its own STRC preferred stock. The company also increased its US dollar reserve to $3.75 billion. This move indicates a strategic financial adjustment by the company.",
-    "importance": 6,
-    "classified": true
-  },
-  {
-    "title": " Wise to resubmit US bank charter application under GENIUS Act",
-    "link": "https://cointelegraph.com/news/wise-resubmit-occ-charter-application-genius-stablecoins?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Sat, 25 Jul 2026 16:10:00 +0000",
-    "source": "Cointelegraph",
-    "category": "crypto",
-    "content": "The OCC denied the UK company’s application this week citing AML/CFT risks, despite approving similar charters for digital asset companies in the last year.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-occ-application.png",
-    "summary": "Wise's US charter application was denied by the OCC this week, citing AML/CFT risks, despite the regulator recently approving similar applications for other digital asset companies. The UK company intends to resubmit its application under the GENIUS Act.",
     "importance": 6,
     "classified": true
   },
@@ -1484,18 +1496,6 @@
     "content": "OpenAI's fancy new AI keypad will be a lot of fun for some, while many others are probably not going to touch it.",
     "image": "",
     "summary": "OpenAI has introduced a new AI keypad that may appeal to some coders, but could be confusing for others. The keypad is expected to be entertaining for those who enjoy coding, while being less engaging for the general public. Its release is notable for the AI community, particularly coders",
-    "importance": 6,
-    "classified": true
-  },
-  {
-    "title": "Anthropic launches Opus 5",
-    "link": "https://techcrunch.com/2026/07/24/anthropic-launches-opus-5/",
-    "pubDate": "Fri, 24 Jul 2026 17:00:00 +0000",
-    "source": "TechCrunch AI",
-    "category": "ai",
-    "content": "Opus 5 will be both cheaper and less restrictive than Fable, likely making it preferable in most use cases.",
-    "image": "",
-    "summary": "Anthropic has launched Opus 5, a new option that is more affordable and less restrictive than Fable, making it a preferable choice for most use cases. This launch may impact the AI community by providing a more accessible tool. Opus 5's features and pricing could influence the adoption of AI technologies.",
     "importance": 6,
     "classified": true
   },
