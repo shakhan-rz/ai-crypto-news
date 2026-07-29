@@ -1,5 +1,17 @@
 [
   {
+    "title": "Company behind AI trade that caused $60 million crypto liquidations to cover all losses",
+    "link": "https://www.coindesk.com/markets/2026/07/29/company-behind-ai-trade-that-caused-usd60-million-crypto-liquidations-to-cover-all-losses",
+    "pubDate": "Wed, 29 Jul 2026 06:03:28 +0000",
+    "source": "CoinDesk",
+    "category": "both",
+    "content": "The mark price fell 19% on a single pre-market trade in Korea. The company says its oracle worked exactly as designed.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/b5d61433a7938f2a44279c76d6a4b0aa0600e1eb-1920x1227.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "A company is stepping up to cover $60 million in crypto liquidations triggered by an \"AI trade\" that led to a 19% drop in mark price during a pre-market trade in Korea. Despite the substantial losses incurred by users, the company asserts that its oracle system operated precisely as designed.",
+    "importance": 9,
+    "classified": true
+  },
+  {
     "title": "Zcash seals $1.7 billion shielded pool as Ironwood upgrade activates",
     "link": "https://www.coindesk.com/tech/2026/07/28/zcash-seals-usd1-7-billion-shielded-pool-as-ironwood-upgrade-activates",
     "pubDate": "Tue, 28 Jul 2026 14:35:28 +0000",
@@ -33,6 +45,30 @@
     "image": "https://s3-images.ctmedia.io/media/article-covers/magazineq-day-bitcoin-could-take-7-years-to-upgrade-to-post-quantum.png",
     "summary": "AmericanFortress has proposed a new cryptographic scheme to safeguard existing Bitcoin, Ethereum, and Solana wallets against future quantum attacks. This innovative solution aims to protect digital assets without requiring users to migrate funds or alter their current wallet addresses.",
     "importance": 9,
+    "classified": true
+  },
+  {
+    "title": "SpaceX is a battleground Solana must win",
+    "link": "https://www.coindesk.com/opinion/2026/07/29/spacex-is-a-battleground-solana-must-win",
+    "pubDate": "Wed, 29 Jul 2026 08:00:00 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "Perps are a trojan horse to bring all of traditional finance onchain, argues Brian Smith, president of the Jito Foundation.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/c13d21b1b1455bb264a337ea230fb7d60089dd81-6968x4650.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "Brian Smith, president of the Jito Foundation, argues that perpetual futures (\"Perps\") are a crucial mechanism for integrating traditional finance onto blockchain platforms. He frames Solana's success in this area as a vital \"battleground\" for achieving this on-chain transition.",
+    "importance": 8,
+    "classified": true
+  },
+  {
+    "title": "Live updates: Bitcoin clears $64,000 in Asia hours ahead of Fed decision",
+    "link": "https://www.coindesk.com/tech/2026/07/29/live-updates-bitcoin-clears-usd64-000-in-asia-hours-ahead-of-fed-decision",
+    "pubDate": "Wed, 29 Jul 2026 06:25:21 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "Markets price a hold at Wednesday's decision, but a real minority sees a surprise hike, with Citadel Securities and UBS among those flagging the risk.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/abfc53cb8936b0ca235301bd25a7729a38804863-4928x3264.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "Bitcoin has surged past $64,000 in Asia, ahead of a Federal Reserve decision where markets largely anticipate a hold. However, a minority, including firms like Citadel Securities and UBS, are flagging the potential for a surprise interest rate hike.",
+    "importance": 8,
     "classified": true
   },
   {
@@ -180,6 +216,18 @@
     "classified": true
   },
   {
+    "title": "Telegram founder Pavel Durov internationally wanted, Russia’s FSB says",
+    "link": "https://cointelegraph.com/news/telegram-founder-wanted-internationally-russia?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Wed, 29 Jul 2026 06:32:25 +0000",
+    "source": "Cointelegraph",
+    "category": "crypto",
+    "content": "Russia’s FSB says Telegram founder Pavel Durov faces a terrorism-related charge and an international arrest warrant, while a separate French case remains open.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/durov-sitting-in-office-2.jpg",
+    "summary": "Pavel Durov, the founder of Telegram, is internationally wanted by Russia's FSB on a terrorism-related charge. An international arrest warrant has been issued, and a separate case in France remains open. Durov's situation is significant due to Telegram's popularity and use in the crypto community.",
+    "importance": 8,
+    "classified": true
+  },
+  {
     "title": "Uniswap founder rejects claims v4 fees reduce LP earnings",
     "link": "https://cointelegraph.com/news/uniswap-founder-rejects-v4-fees-reduce-lp-earnings?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "pubDate": "Wed, 29 Jul 2026 05:02:07 +0000",
@@ -252,12 +300,12 @@
     "classified": true
   },
   {
-    "title": "Myanmar parliament passes crypto scam bill with penalties up to life",
+    "title": "Myanmar Parliament passes crypto scam bill with penalties up to life",
     "link": "https://cointelegraph.com/news/myanmar-parliament-crypto-scam-bill-life-sentences?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "pubDate": "Tue, 28 Jul 2026 23:27:28 +0000",
     "source": "Cointelegraph",
     "category": "crypto",
-    "content": "Myanmar lawmakers approved an anti-online scam bill whose draft proposed prison terms of 10 years to life for crypto scams and operating scam centers.",
+    "content": "Myanmar lawmakers approved an anti-online scam bill whose draft proposes prison terms of 10 years to life for crypto scams and operating scam centers.",
     "image": "https://s3-images.ctmedia.io/media/article-covers/hi-the-evolution-of-crypto-regulations-in-2024-what-it-means-for-2025.png",
     "summary": "Myanmar's parliament has passed a bill to combat online scams, including crypto scams, with penalties ranging from 10 years to life imprisonment. The bill aims to crack down on scam centers and individuals involved in crypto scams. This move is part of the country's efforts to regulate its digital economy.",
     "importance": 8,
@@ -432,14 +480,14 @@
     "classified": true
   },
   {
-    "title": "Hong Kong prepares banks for quantum threats amid tokenization push",
-    "link": "https://cointelegraph.com/news/hong-kong-banks-quantum-threats-tokenization?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Tue, 28 Jul 2026 02:21:04 +0000",
-    "source": "Cointelegraph",
-    "category": "both",
-    "content": "The HKMA aims to make Hong Kong’s banking sector fully prepared for quantum-related security risks by 2030 as the city expands tokenized finance.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-hong-kong-fund-how-dats-could-redefine-stablecoin-treasuries.jpg",
-    "summary": "The Hong Kong Monetary Authority is preparing the city's banking sector for quantum security threats by 2030, as Hong Kong expands its tokenized finance sector. This move aims to mitigate potential risks associated with quantum computing. The initiative is part of the city's push towards tokenization and digital finance.",
+    "title": "Russia charges Telegram founder Pavel Durov with aiding terrorism, issues arrest warrant: report",
+    "link": "https://www.theblock.co/post/410005/russia-charges-telegram-founder-pavel-durov?utm_source=rss&utm_medium=rss",
+    "pubDate": "Wed, 29 Jul 2026 03:40:59 -0400",
+    "source": "The Block",
+    "category": "crypto",
+    "content": "Russian security forces charged Telegram founder Pavel Durov with aiding terrorism, issuing an international warrant for his arrest.",
+    "image": "https://www.tbstat.com/wp/uploads/2024/08/20240830_Pavel-Durov_News_2-800x450.jpg",
+    "summary": "Russian authorities have charged Telegram founder Pavel Durov with aiding terrorism and issued an international arrest warrant. Durov is the founder of the popular messaging app Telegram, which has been used by various groups and individuals. The charges against him may have implications for the platform's operations and user base.",
     "importance": 8,
     "classified": true
   },
@@ -560,18 +608,6 @@
     "content": "A digital commodity is an onchain asset that draws its value from open-market supply and demand rather than from the work of a company or central issuer.  Assets in this category are freely transferable and traded on public markets, which makes them behave more like traditional commodities such as gold than like a share of […]",
     "image": "https://www.tbstat.com/wp/uploads/2026/07/Digital-Commodity-716x450.jpg",
     "summary": "A digital commodity is an on-chain asset that derives its value from market supply and demand, and is freely transferable and traded on public markets. This type of asset behaves similarly to traditional commodities like gold. The value of digital commodities is not tied to the work of a company or central issuer.",
-    "importance": 8,
-    "classified": true
-  },
-  {
-    "title": "NY Attorney General Letitia James warns Clarity Act would ‘dilute’ states’ ability to go after fraud as pressure mounts",
-    "link": "https://www.theblock.co/post/409831/ny-attorney-general-letitia-james-warns-clarity-act-dilute-states-ability-fraud-pressure-mounts?utm_source=rss&utm_medium=rss",
-    "pubDate": "Mon, 27 Jul 2026 16:31:57 -0400",
-    "source": "The Block",
-    "category": "crypto",
-    "content": "NYAG Letitia James urged Congress to tighten a crypto bill, warning that it would weaken states' ability to police the industry.",
-    "image": "https://www.tbstat.com/wp/uploads/2019/07/new-york-1-800x450.jpg",
-    "summary": "New York Attorney General Letitia James has urged Congress to tighten a proposed crypto bill, the Clarity Act, warning that its current form would weaken states' ability to police the cryptocurrency industry and combat fraud. Her concern highlights ongoing pressure regarding crypto regulation and state enforcement powers.",
     "importance": 8,
     "classified": true
   },
@@ -1140,26 +1176,26 @@
     "classified": true
   },
   {
-    "title": "U.S. Senate puts off crypto Clarity Act for now as it focuses limited bandwidth elsewhere",
-    "link": "https://www.coindesk.com/policy/2026/07/27/u-s-senate-puts-off-crypto-clarity-act-for-now-as-it-focuses-limited-bandwidth-elsewhere",
-    "pubDate": "Mon, 27 Jul 2026 23:55:16 +0000",
-    "source": "CoinDesk",
+    "title": "Bitcoin ETFs extend outflow streak as BTC fails to hold $65K",
+    "link": "https://cointelegraph.com/markets/bitcoin-etf-extend-outflow-streak-btc-slips-below-65k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Wed, 29 Jul 2026 07:16:47 +0000",
+    "source": "Cointelegraph",
     "category": "crypto",
-    "content": "The majority leader is pursuing floor time for unrelated bills as the crypto industry waits for its policy effort to get its chance for votes.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/eb8dcd6a8ff7a00d092a7e659c13193ec9cd42ea-1920x1080.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "The U.S. Senate has postponed the crypto Clarity Act, with the majority leader prioritizing unrelated legislation. This delay means the cryptocurrency industry will have to wait longer for its policy efforts to be considered for votes.",
+    "content": "US spot Bitcoin ETFs recorded four straight sessions of outflows totaling $526 million as Bitcoin faced renewed selling pressure after failing to hold $65,000.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-bitcoin-exchange-executive-digital-currency-as-the-basis-of-the-post-crisis-world-order-4.jpg",
+    "summary": "US spot Bitcoin ETFs have recorded four straight sessions of outflows, amounting to $526 million. This trend occurred as Bitcoin failed to sustain its $65,000 price point, indicating renewed selling pressure on the cryptocurrency.",
     "importance": 7,
     "classified": true
   },
   {
-    "title": "Binance phishes its own staff monthly, India censors BitChat code: Asia Express",
-    "link": "https://cointelegraph.com/magazine/india-bans-bitchat-binance-phishs-its-own-staff-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Tue, 28 Jul 2026 01:23:07 +0000",
+    "title": "UK policy sprint finds cross-border payments are stablecoins’ top use case",
+    "link": "https://cointelegraph.com/news/uk-policy-cross-border-payments-stablecoins-use-case?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Wed, 29 Jul 2026 07:11:27 +0000",
     "source": "Cointelegraph",
     "category": "crypto",
-    "content": "Binance has been phishing its own staff to get ahead of potential attacks. South Korean crypto volumes tank 89% — plus all of the week’s other crypto news from Asia.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/asia-express-6.jpg",
-    "summary": "Binance proactively conducts monthly phishing exercises on its own staff to bolster security defenses against potential attacks. Meanwhile, South Korean crypto trading volumes have seen a dramatic 89% decrease, reflecting broader trends in the Asian crypto market.",
+    "content": "Industry participants said stablecoins offer the biggest near-term benefits for cross-border payments, while domestic UK retail adoption is likely to remain limited.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-uk-regulations2.jpg",
+    "summary": "A UK policy sprint has identified cross-border payments as the primary near-term use case for stablecoins, according to industry participants. Conversely, domestic UK retail adoption of stablecoins is expected to remain limited.",
     "importance": 7,
     "classified": true
   },
@@ -1236,18 +1272,6 @@
     "classified": true
   },
   {
-    "title": "Bitcoin slides 2% after U.S. close while Korea’s Kospi plunges 10%",
-    "link": "https://www.coindesk.com/markets/2026/07/28/bitcoin-slides-2-after-u-s-close-while-korea-s-kospi-plunges-10",
-    "pubDate": "Tue, 28 Jul 2026 04:32:39 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/af5533562893e00a029eaace0996b96eacade301-1905x1072.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "Bitcoin experienced a 2% decline after the U.S. market close. This occurred concurrently with a significant 10% plunge in South Korea's Kospi stock index.",
-    "importance": 6,
-    "classified": true
-  },
-  {
     "title": "Trade.xyz to cover SK Hynix perp liquidation losses tied to price anomaly ",
     "link": "https://cointelegraph.com/news/trade-xyz-sk-hynix-perp-liquidations-price-anomaly?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "pubDate": "Wed, 29 Jul 2026 05:29:48 +0000",
@@ -1280,30 +1304,6 @@
     "content": "The new system marks an apparent departure from the institution-focused layer-1 blockchain Ondo announced in 2025.",
     "image": "https://s3-images.ctmedia.io/media/article-covers/hi-blockchain-explanatory-articles-for-the-very-beginner-ondo-1.jpg",
     "summary": "Ondo has shifted its focus from developing a layer-1 blockchain to creating an offchain execution network, marking a significant change in its approach. This move represents a departure from its initial institution-focused blockchain plan announced in 2025. The new system's details and implications are not specified.",
-    "importance": 6,
-    "classified": true
-  },
-  {
-    "title": "US judge temporarily blocks Minnesota prediction market ban ",
-    "link": "https://cointelegraph.com/news/us-judge-blocks-minnesota-prediction-market-ban?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Tue, 28 Jul 2026 04:28:10 +0000",
-    "source": "Cointelegraph",
-    "category": "crypto",
-    "content": "The preliminary injunction allows Kalshi and Polymarket US to continue operating in Minnesota while the court considers their challenge to the state law.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/man-documents-breaking-news-1.png",
-    "summary": "A US judge has temporarily blocked a ban on prediction markets in Minnesota, allowing companies like Kalshi and Polymarket US to continue operating in the state. The injunction is preliminary, pending the court's consideration of the companies' challenge to the state law. This decision may impact the use of blockchain and cryptocurrency in prediction markets.",
-    "importance": 6,
-    "classified": true
-  },
-  {
-    "title": "Zimbabwe admits 7 fintech projects to regulatory sandbox",
-    "link": "https://cointelegraph.com/news/zimbabwe-seven-fintech-projects-regulatory-sandbox?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Tue, 28 Jul 2026 03:17:10 +0000",
-    "source": "Cointelegraph",
-    "category": "crypto",
-    "content": "Sandbox participation permits supervised testing but does not guarantee full commercial registration.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/coinsavanna.jpg",
-    "summary": "Zimbabwe has admitted seven fintech projects to its regulatory sandbox, allowing them to test their products under supervision. This move does not guarantee full commercial registration for the projects. The sandbox aims to foster innovation in the fintech sector.",
     "importance": 6,
     "classified": true
   },
@@ -1352,30 +1352,6 @@
     "content": "KuCoin is a global cryptocurrency exchange where users can trade, earn, spend, and manage digital assets. Founded in 2017, the platform is now one of the most popular CEXs, serving more than 45 million users across over 200 countries and regions. These range from first-time crypto users and active retail traders to professional and institutional […]",
     "image": "https://www.tbstat.com/wp/uploads/2026/07/Kucoin-Learn-800x450.jpg",
     "summary": "KuCoin is a global cryptocurrency exchange that allows users to trade, earn, and manage digital assets, serving over 45 million users across 200 countries. Founded in 2017, it has become one of the most popular cryptocurrency exchanges. The platform caters to a wide range of users, from first-time crypto users to institutional traders.",
-    "importance": 6,
-    "classified": true
-  },
-  {
-    "title": "Ethereum, Solana and Avalanche get busier and cheaper even as token prices fall: Bitwise",
-    "link": "https://www.theblock.co/post/409799/ethereum-solana-avalanche-get-busier-cheaper-even-as-token-prices-fall-bitwise?utm_source=rss&utm_medium=rss",
-    "pubDate": "Mon, 27 Jul 2026 15:00:16 -0400",
-    "source": "The Block",
-    "category": "crypto",
-    "content": "Although activity rose, revenues declined and ETH, SOL and AVAX are all down over 50% when compared to a year ago.",
-    "image": "https://www.tbstat.com/wp/uploads/2026/06/20260612_Bitwise_News_2-800x450.jpg",
-    "summary": "Despite a decline in token prices, Ethereum, Solana, and Avalanche have seen an increase in activity and a decrease in costs. ETH, SOL, and AVAX are down over 50% compared to last year. Revenues have also declined for these cryptocurrencies.",
-    "importance": 6,
-    "classified": true
-  },
-  {
-    "title": "Securitize expands regulated platform with SEC adviser license",
-    "link": "https://www.theblock.co/post/409821/securitize-expands-regulated-platform-with-sec-adviser-license?utm_source=rss&utm_medium=rss",
-    "pubDate": "Mon, 27 Jul 2026 14:08:44 -0400",
-    "source": "The Block",
-    "category": "crypto",
-    "content": "This will enable Securitize to work more closely with asset managers and institutional investors on tokenized investment strategies.",
-    "image": "https://www.tbstat.com/wp/uploads/2025/10/20251028_Secrutize_News_2-800x450.jpg",
-    "summary": "Securitize has obtained an SEC adviser license, allowing it to work more closely with asset managers and institutional investors on tokenized investment strategies. This expansion enables Securitize to broaden its services within a regulated platform. The move is expected to increase institutional participation in tokenized investments.",
     "importance": 6,
     "classified": true
   },
@@ -1632,14 +1608,26 @@
     "classified": true
   },
   {
-    "title": "Live updates: Crypto climbs off worst levels as stock selloff is contained to AI names",
-    "link": "https://www.coindesk.com/markets/2026/07/28/bitcoin-recovers-from-asian-session-lows-nasdaq-futures-remain-under-pressure",
-    "pubDate": "Tue, 28 Jul 2026 07:46:22 +0000",
-    "source": "CoinDesk",
+    "title": "Coalition of 44 state attorneys general says CFTC lacks authority over sports prediction markets",
+    "link": "https://www.theblock.co/post/410013/state-attorneys-general-cftc-letter-prediction-markets?utm_source=rss&utm_medium=rss",
+    "pubDate": "Wed, 29 Jul 2026 04:21:19 -0400",
+    "source": "The Block",
     "category": "crypto",
-    "content": "While the chipmakers continue their tumble, the DJIA is actually higher by more than 1%, led by Coca-Cola, Walmart, and Home Depot.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/63fe9253b1a874ebe148245665677b8968bbdc82-2578x1450.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "Bitcoin has shown resilience on a 'risk-off' day, recovering from Asian session lows. It is reportedly holding up better than Nasdaq futures and other Asian equity markets.",
+    "content": "The group of AGs sent a letter to the CFTC, urging the agency to draft new rules consistent with the Commodity Exchange Act.",
+    "image": "https://www.tbstat.com/wp/uploads/2020/06/20200626_CFTC_-Daily-800x450.jpg",
+    "summary": "A coalition of 44 state attorneys general sent a letter to the CFTC, arguing that it lacks authority over sports prediction markets and urging the agency to draft new rules. The letter is related to the Commodity Exchange Act. This development may impact the regulation of sports betting and prediction markets.",
+    "importance": 2,
+    "classified": true
+  },
+  {
+    "title": "Ark Invest buys $12 million in SpaceX as it trims Block, Bullish and Robinhood holdings",
+    "link": "https://www.theblock.co/post/410002/ark-invest-buys-spacex-trims-block-bullish-robinhood?utm_source=rss&utm_medium=rss",
+    "pubDate": "Wed, 29 Jul 2026 03:28:37 -0400",
+    "source": "The Block",
+    "category": "crypto",
+    "content": "The firm sold $2.3 million worth of Block Inc. shares, $1.6 million worth of Bullish, and $4 million worth of Robinhood.",
+    "image": "https://www.tbstat.com/wp/uploads/2023/03/20230301_BankruptCompanies_ArkInvest-800x450.jpg",
+    "summary": "Ark Invest has purchased $12 million in SpaceX and simultaneously reduced its holdings in Block, Bullish, and Robinhood by selling $2.3 million, $1.6 million, and $4 million worth of shares respectively. This move indicates a strategic reallocation of investments. The sale and purchase may impact the market and the companies involved.",
     "importance": 2,
     "classified": true
   },
@@ -1713,6 +1701,18 @@
     "image": "",
     "summary": "A $9 NFC key has been introduced that physically locks addictive apps on phones, requiring users to scan the key to unlock them. This key aims to help individuals avoid distractions and increase productivity. The device is a simple solution to a common problem of excessive app usage.",
     "importance": 2,
+    "classified": true
+  },
+  {
+    "title": "Trump teleprompter operator accused over Kalshi bets leaves government: AP",
+    "link": "https://cointelegraph.com/news/trump-teleprompter-kalshi-bets-government-ap?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Wed, 29 Jul 2026 08:12:11 +0000",
+    "source": "Cointelegraph",
+    "category": "crypto",
+    "content": "Gabriel Perez, who was accused of profiting from Kalshi bets tied to President Donald Trump’s speeches, is no longer employed by the federal government.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/white-house-crypto.png",
+    "summary": "Gabriel Perez, a teleprompter operator for President Donald Trump, has reportedly left his federal government position. This departure follows accusations that he profited from Kalshi bets linked to the content of Trump’s speeches.",
+    "importance": 1,
     "classified": true
   },
   {
