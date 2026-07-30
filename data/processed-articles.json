@@ -48,7 +48,19 @@
     "classified": true
   },
   {
-    "title": "Senators said to hatch idea to toughen Trump's concession on Clarity Act's crypto limits",
+    "title": "Bitcoin's quantum plan assumes some algorithms break. AI just weakened one in 60 hours",
+    "link": "https://www.coindesk.com/tech/2026/07/29/bitcoin-s-quantum-plan-assumes-some-algorithms-break-ai-just-weakened-one-in-60-hours",
+    "pubDate": "Thu, 30 Jul 2026 04:16:30 +0000",
+    "source": "CoinDesk",
+    "category": "both",
+    "content": "The HAWK system isn't deployed anywhere, and Bitcoin doesn't use it. But is sitting in the same quantum race that Bitcoin developers are scrambling to finish.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/422bf0c58d3c5d984b8ee7f8a379b85250db7bc2-6016x4016.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "Bitcoin developers are racing to prepare for potential quantum attacks, and a recent AI breakthrough has weakened a quantum-resistant algorithm in 60 hours, highlighting the urgency of the issue. The HAWK system, not currently deployed, is also vulnerable. This development raises concerns for the security of quantum-resistant systems.",
+    "importance": 8,
+    "classified": true
+  },
+  {
+    "title": "Senators ready to send stricter ethics rules on Trump's crypto ventures to White House, sources say",
     "link": "https://www.coindesk.com/policy/2026/07/29/senators-said-to-strike-idea-to-toughen-trump-s-concession-on-clarity-act-s-crypto-limits",
     "pubDate": "Wed, 29 Jul 2026 23:12:04 +0000",
     "source": "CoinDesk",
@@ -144,14 +156,26 @@
     "classified": true
   },
   {
-    "title": "Coinbase wants to be Canada’s ‘everything exchange,’ but says clearer rules are needed first",
-    "link": "https://www.coindesk.com/policy/2026/07/28/coinbase-wants-to-be-canada-s-everything-exchange-but-says-clearer-rules-are-needed-first",
-    "pubDate": "Tue, 28 Jul 2026 23:50:38 +0000",
-    "source": "CoinDesk",
+    "title": "US sanctions Iranian maritime firm, says it accepted Bitcoin to evade restrictions",
+    "link": "https://cointelegraph.com/news/us-sanctions-iran-hormuzsafe-bitcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Thu, 30 Jul 2026 05:23:59 +0000",
+    "source": "Cointelegraph",
+    "category": "both",
+    "content": "The US Treasury said HormuzSafe accepted Bitcoin and other digital assets to evade sanctions and generate revenue for Iran’s Islamic Revolutionary Guard Corps.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-us-has-seized-iranian-crypto.jpg",
+    "summary": "The US Treasury has sanctioned Iranian maritime firm HormuzSafe for accepting Bitcoin and other digital assets to evade sanctions and generate revenue for Iran's Islamic Revolutionary Guard Corps. This move highlights the use of cryptocurrency in evading restrictions. The sanctions aim to curb Iran's revenue generation through such means.",
+    "importance": 8,
+    "classified": true
+  },
+  {
+    "title": "Luno cuts 20% of staff as crypto layoffs spread across 12 firms in July",
+    "link": "https://cointelegraph.com/news/luno-cuts-staff-crypto-layoffs-july?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Thu, 30 Jul 2026 04:13:34 +0000",
+    "source": "Cointelegraph",
     "category": "crypto",
-    "content": "Coinbase Canada's new CEO, Eric Richmond, says permanent rules, rather than temporary exemptions, are needed as the company pushes to expand into derivatives, tokenized assets and decentralized finance.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/01b078cd684ca9805f71cae842b6ed11cbf91ed4-1920x1080.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "Coinbase Canada aims to become a comprehensive exchange, but its CEO Eric Richmond emphasizes the need for clearer, permanent regulations to facilitate expansion into areas like derivatives and decentralized finance. The company currently operates under temporary exemptions. Richmond's statement highlights the importance of regulatory clarity for the crypto industry's growth.",
+    "content": "Luno and Gnosis joined a widening round of crypto restructurings in July, when at least 12 companies reported job cuts.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/layoffs-fired-human-resource-hr-leaving-quit-box-1.jpg",
+    "summary": "Luno and Gnosis are among 12 crypto companies that have cut jobs in July, with Luno reducing its staff by 20%. This wave of layoffs is part of a larger trend of crypto restructurings. The job cuts reflect the current challenges facing the crypto industry.",
     "importance": 8,
     "classified": true
   },
@@ -360,38 +384,14 @@
     "classified": true
   },
   {
-    "title": "European financial institutions launch RL1 cooperative blockchain network",
-    "link": "https://cointelegraph.com/markets/european-financial-institutions-launch-rl1-blockchain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Wed, 29 Jul 2026 00:09:29 +0000",
-    "source": "Cointelegraph",
+    "title": "Binance.US to apply for CFTC license in August for prediction market platform",
+    "link": "https://www.theblock.co/post/410110/binance-us-cftc-license?utm_source=rss&utm_medium=rss",
+    "pubDate": "Wed, 29 Jul 2026 23:17:36 -0400",
+    "source": "The Block",
     "category": "crypto",
-    "content": "RL1 began operations as a member-owned blockchain cooperative backed by 10 European financial institutions, including ABN AMRO, DekaBank and Natixis CIB.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-how-to-read-a-stablecoin-attestation-report-eu.png",
-    "summary": "A new blockchain cooperative network called RL1 has been launched by 10 European financial institutions, including ABN AMRO and Natixis CIB. The network is a member-owned cooperative, aiming to utilize blockchain technology. This launch marks a significant collaboration among major financial institutions in Europe.",
-    "importance": 8,
-    "classified": true
-  },
-  {
-    "title": "Myanmar Parliament passes crypto scam bill with penalties up to life",
-    "link": "https://cointelegraph.com/news/myanmar-parliament-crypto-scam-bill-life-sentences?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Tue, 28 Jul 2026 23:27:28 +0000",
-    "source": "Cointelegraph",
-    "category": "crypto",
-    "content": "Myanmar lawmakers approved an anti-online scam bill whose draft proposes prison terms of 10 years to life for crypto scams and operating scam centers.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-the-evolution-of-crypto-regulations-in-2024-what-it-means-for-2025.png",
-    "summary": "Myanmar's parliament has passed a bill to combat online scams, including crypto scams, with penalties ranging from 10 years to life imprisonment. The bill aims to crack down on scam centers and individuals involved in crypto scams. This move is part of the country's efforts to regulate its digital economy.",
-    "importance": 8,
-    "classified": true
-  },
-  {
-    "title": "Visa outlines stablecoin strategy during Q3 earnings call ",
-    "link": "https://cointelegraph.com/markets/visa-earnings-stablecoin-strategy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Tue, 28 Jul 2026 21:57:49 +0000",
-    "source": "Cointelegraph",
-    "category": "both",
-    "content": "Visa said it is investing across the stablecoin stack, highlighting OpenUSD, tokenized deposits and AI-powered commerce during the company’s third-quarter earnings call.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/visa.jpg",
-    "summary": "Visa outlined its stablecoin strategy during its Q3 earnings call, investing in the stablecoin stack and highlighting OpenUSD and tokenized deposits. The company also mentioned AI-powered commerce, indicating a connection between its stablecoin efforts and artificial intelligence. This integration could have significant implications for the future of digital payments.",
+    "content": "Binance.US CEO Stephen Gregory said at a recent conference that the company will apply for a designated contract market license in August.",
+    "image": "https://www.tbstat.com/wp/uploads/2024/11/20241127_Binance_News-800x450.jpg",
+    "summary": "Binance.US plans to apply for a designated contract market license in August, according to CEO Stephen Gregory. This license is for a prediction market platform. The move indicates the company's efforts to expand its services.",
     "importance": 8,
     "classified": true
   },
@@ -512,18 +512,6 @@
     "content": "Ethereum and Solana projects lost the most during the first half of 2026, at $332 million and $326 million, respectively.",
     "image": "https://www.tbstat.com/wp/uploads/2021/09/20210917_Hack_General-800x450.jpg",
     "summary": "Crypto hacks have reached a record high in the first half of 2026, with losses exceeding $1 billion, according to Blockaid. Ethereum and Solana projects were the most affected, with losses of $332 million and $326 million, respectively. This significant increase in hacks highlights the ongoing security concerns in the cryptocurrency space.",
-    "importance": 8,
-    "classified": true
-  },
-  {
-    "title": "Ethereum L2 ecosystem loses momentum as TVL drops to 2-year low",
-    "link": "https://www.theblock.co/post/409811/ethereum-l2-ecosystem-loses-momentum-as-tvl-drops-to-two-year-low?utm_source=rss&utm_medium=rss",
-    "pubDate": "Tue, 28 Jul 2026 14:21:02 -0400",
-    "source": "The Block",
-    "category": "crypto",
-    "content": "Total value locked in Ethereum Layer 2s has slid back to roughly $5 billion, a level last seen in 2023.",
-    "image": "https://www.tbstat.com/wp/uploads/2024/05/20240523_Ethereum_News_3-800x450.jpg",
-    "summary": "The total value locked (TVL) in Ethereum Layer 2 solutions has recently fallen to approximately $5 billion. This significant drop brings the TVL to a two-year low, a level last observed in 2023.",
     "importance": 8,
     "classified": true
   },
@@ -1188,18 +1176,6 @@
     "classified": true
   },
   {
-    "title": "Zcash activates Ironwood upgrade, launching new shielded pool after Orchard vulnerability",
-    "link": "https://www.theblock.co/post/409934/zcash-ironwood-upgrade-launching-new-shielded-pool-after-orchard-vulnerability?utm_source=rss&utm_medium=rss",
-    "pubDate": "Tue, 28 Jul 2026 13:26:31 -0400",
-    "source": "The Block",
-    "category": "crypto",
-    "content": "Ironwood represents something of a unified effort across Zcash’s developer ecosystem after Shielded Labs found a bug in Orchard.",
-    "image": "https://www.tbstat.com/wp/uploads/2025/12/20251202_ZCash_News-800x450.jpg",
-    "summary": "Zcash has activated its Ironwood upgrade, introducing a new shielded pool as a unified effort by its developer ecosystem. This upgrade was prompted by a vulnerability found in the previous Orchard shielded pool by Shielded Labs.",
-    "importance": 7,
-    "classified": true
-  },
-  {
     "title": "Stablecoin firm Brale says new protocol can remove a major hurdle to scaling custom tokens",
     "link": "https://www.coindesk.com/business/2026/07/29/stablecoin-firm-brale-says-new-protocol-can-remove-a-major-hurdle-to-scaling-custom-tokens",
     "pubDate": "Wed, 29 Jul 2026 15:27:30 +0000",
@@ -1236,14 +1212,14 @@
     "classified": true
   },
   {
-    "title": "'Anything remotely dovish' from Fed could be good for bitcoin, says analyst",
-    "link": "https://www.coindesk.com/markets/2026/07/28/remotely-dovish-fed-could-be-good-for-bitcoin-says-analyst",
-    "pubDate": "Tue, 28 Jul 2026 20:23:31 +0000",
-    "source": "CoinDesk",
+    "title": "Japanese game developer launches Bitcoin, altcoin fund with SBI",
+    "link": "https://cointelegraph.com/news/japanese-game-developer-bitcoin-altcoin-fund?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Thu, 30 Jul 2026 03:19:58 +0000",
+    "source": "Cointelegraph",
     "category": "crypto",
-    "content": "Traders are divided on whether the Fed will hike rates, but analysts said crypto may be less exposed than AI-driven tech stocks.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/aff32b708a5b4266e041a4eb460baa2d9236e4bb-3973x2235.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "Analysts suggest that any dovish signals from the Federal Reserve could positively impact Bitcoin's price. While traders are split on future rate hikes, some believe cryptocurrency assets might be less vulnerable to such changes compared to AI-driven tech stocks.",
+    "content": "The Bitcoin and altcoin fund builds on Gumi’s growing crypto business centered around XRP, with the company nearly doubling its crypto holdings over the past year.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/crypto-blockchain-puzzle-charity-donations-unite-ukraine.jpg",
+    "summary": "Japanese game developer Gumi has launched a Bitcoin and altcoin fund in partnership with SBI, expanding its growing crypto business. The company's crypto holdings have nearly doubled over the past year. This move marks a significant investment in cryptocurrency by a major game developer.",
     "importance": 6,
     "classified": true
   },
@@ -1289,7 +1265,7 @@
     "pubDate": "Wed, 29 Jul 2026 13:30:00 +0000",
     "source": "Cointelegraph",
     "category": "crypto",
-    "content": "Crypto’s fundamentals have never been stronger, yet degens keep chasing hot new narratives. Behavioral finance may explain why get rich quick stories continue to beat substance.",
+    "content": "Crypto’s fundamentals have never been stronger, yet degens keep chasing hot new narratives. Behavioral finance may explain why get-rich-quick stories continue to beat substance.",
     "image": "https://s3-images.ctmedia.io/media/article-covers/hi-how-to-spot-coins.jpg",
     "summary": "Despite strengthening fundamentals in the crypto market, investors frequently chase speculative \"get rich quick\" narratives rather than focusing on substantive value. The article suggests behavioral finance may explain this persistent preference for hot stories over underlying substance.",
     "importance": 6,
@@ -1316,6 +1292,18 @@
     "content": "Trade.xyz said its oracle worked as designed but will reimburse eligible traders after an external SK Hynix price print caused the contract’s mark price to fall nearly 19%.",
     "image": "https://s3-images.ctmedia.io/media/article-covers/wall-warning-hyperliquid-1.jpg",
     "summary": "Trade.xyz will reimburse traders for losses due to a price anomaly in SK Hynix, despite their oracle working as designed. The anomaly caused the contract's mark price to fall nearly 19%. This decision aims to cover losses from perp liquidations tied to the unexpected price change.",
+    "importance": 6,
+    "classified": true
+  },
+  {
+    "title": "Russia detains crypto mining firm BitRiver founder on fraud charges: report",
+    "link": "https://www.theblock.co/post/410117/russia-detains-bitriver-founder?utm_source=rss&utm_medium=rss",
+    "pubDate": "Thu, 30 Jul 2026 01:13:34 -0400",
+    "source": "The Block",
+    "category": "crypto",
+    "content": "Runets and his company were reportedly involved in a deal with local conglomerate En+ that resulted in $12.5 million in damages.",
+    "image": "https://www.tbstat.com/wp/uploads/2018/10/russian-flag-800x450.jpg",
+    "summary": "Russia has detained the founder of crypto mining firm BitRiver on fraud charges, related to a deal with a local conglomerate that resulted in $12.5 million in damages. The founder, reportedly involved in the deal, is now facing charges. The incident highlights potential risks in crypto mining operations.",
     "importance": 6,
     "classified": true
   },
@@ -1464,7 +1452,7 @@
     "classified": true
   },
   {
-    "title": "The Hugging Face AI break-in, as told through an increasingly committed bear metaphor",
+    "title": "The Hugging Face AI break-in explained",
     "link": "https://techcrunch.com/2026/07/29/the-hugging-face-ai-break-in-as-told-through-an-increasingly-committed-bear-metaphor/",
     "pubDate": "Wed, 29 Jul 2026 19:44:49 +0000",
     "source": "TechCrunch AI",
@@ -1605,6 +1593,18 @@
     "image": "https://www.tbstat.com/wp/uploads/2025/01/20250108_pump.fun_News_3-800x450.jpg",
     "summary": "The Pump.fun token graduation rate has increased following the launch of BOOST changes, which introduce new incentives. However, BOOST only takes effect after a token has already bonded and does not directly impact the share of tokens reaching the threshold. The change aims to incentivize token holders.",
     "importance": 4,
+    "classified": true
+  },
+  {
+    "title": "Ether, XRP flat as chip stocks steady on Samsung's 250-fold profit surge",
+    "link": "https://www.coindesk.com/markets/2026/07/30/ether-xrp-flat-as-chip-stocks-steady-on-samsung-s-250-fold-profit-surge",
+    "pubDate": "Thu, 30 Jul 2026 05:19:47 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "Crypto's majors barely moved as Asia's semiconductor selloff eased. Most are still lower over the week, with HYPE down 8%.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/ec16b0d98820048d0801ef198a8c4e6ca1e6f687-4608x3456.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "Major cryptocurrencies like Ether and XRP showed minimal movement, remaining largely flat despite an easing selloff in Asia's semiconductor stocks following Samsung's significant profit surge. However, most cryptocurrencies are still down over the week, with HYPE notably decreasing by 8%.",
+    "importance": 3,
     "classified": true
   },
   {
