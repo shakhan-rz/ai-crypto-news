@@ -12,6 +12,18 @@
     "classified": true
   },
   {
+    "title": "Major bitcoin wallet flaw drains 594 BTC in 25-minute sweep",
+    "link": "https://www.coindesk.com/tech/2026/07/31/major-bitcoin-wallet-flaw-drains-594-btc-in-25-minute-sweep",
+    "pubDate": "Fri, 31 Jul 2026 05:12:55 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "A hardware wallet randomness bug turned “impossible to guess” seeds into guessable ones, and $38 million is already gone.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/17e2199d1d92db776ca604acd66f78a2a5052896-1754x804.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "A hardware wallet flaw has been discovered, turning supposedly unguessable seeds into guessable ones, resulting in the theft of 594 BTC, valued at $38 million, in just 25 minutes. The bug is related to randomness in the wallet's seed generation. This exploit highlights a significant vulnerability in bitcoin storage security.",
+    "importance": 8,
+    "classified": true
+  },
+  {
     "title": "Strategy books $8.2 billion Q2 loss on bitcoin price decline ",
     "link": "https://www.coindesk.com/markets/2026/07/30/strategy-books-usd8-2-billion-second-quarter-loss-on-bitcoin-price-decline",
     "pubDate": "Thu, 30 Jul 2026 20:32:13 +0000",
@@ -132,26 +144,14 @@
     "classified": true
   },
   {
-    "title": "Bitcoin's quantum plan assumes some algorithms break. AI just weakened one in 60 hours",
-    "link": "https://www.coindesk.com/tech/2026/07/29/bitcoin-s-quantum-plan-assumes-some-algorithms-break-ai-just-weakened-one-in-60-hours",
-    "pubDate": "Thu, 30 Jul 2026 04:16:30 +0000",
-    "source": "CoinDesk",
-    "category": "both",
-    "content": "The HAWK system isn't deployed anywhere, and Bitcoin doesn't use it. But is sitting in the same quantum race that Bitcoin developers are scrambling to finish.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/422bf0c58d3c5d984b8ee7f8a379b85250db7bc2-6016x4016.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "Bitcoin developers are racing to prepare for potential quantum attacks, and a recent AI breakthrough has weakened a quantum-resistant algorithm in 60 hours, highlighting the urgency of the issue. The HAWK system, not currently deployed, is also vulnerable. This development raises concerns for the security of quantum-resistant systems.",
-    "importance": 8,
-    "classified": true
-  },
-  {
-    "title": "Senators ready to send stricter ethics rules on Trump's crypto ventures to White House, sources say",
-    "link": "https://www.coindesk.com/policy/2026/07/29/senators-said-to-strike-idea-to-toughen-trump-s-concession-on-clarity-act-s-crypto-limits",
-    "pubDate": "Wed, 29 Jul 2026 23:12:04 +0000",
-    "source": "CoinDesk",
+    "title": "Coldcard issues Mk3 warning as experts examine $38M Bitcoin wallet drain",
+    "link": "https://cointelegraph.com/news/coldcard-mk3-warning-594-btc-sweep?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Fri, 31 Jul 2026 02:38:09 +0000",
+    "source": "Cointelegraph",
     "category": "crypto",
-    "content": "Insiders say that the bipartisan Senate duo revamping the bill's Trump-approved ethics section have come up with something they hope wins sufficient yes votes.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/dcfc91ca7c57af4f7e08933d29c6f9a716b83ad6-5616x3744.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "A bipartisan Senate duo is reportedly developing a new strategy to tighten former President Trump's concession on cryptocurrency limits within the Clarity Act. This initiative aims to strengthen the bill's ethics section, with the senators hoping their revised approach will garner sufficient support.",
+    "content": "Coinkite urged Coldcard Mk3 users to migrate funds after identifying a potential seed-generation risk, as Bitcoin security experts separately examine an unexplained $38 million wallet drain.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/thief-bitcoin.jpg",
+    "summary": "Coinkite warned Coldcard Mk3 users to migrate funds due to a potential seed-generation risk, while Bitcoin security experts investigate an unexplained $38 million wallet drain. The incident highlights security concerns in the Bitcoin ecosystem. Users are advised to take precautions to protect their funds.",
     "importance": 8,
     "classified": true
   },
@@ -209,7 +209,7 @@
     "pubDate": "Thu, 30 Jul 2026 19:45:52 +0000",
     "source": "Cointelegraph",
     "category": "crypto",
-    "content": "The proposed legislation referenced Donald Trump’s disclosure of billions of dollars in crypto earnings in 2025, as well as his family’s business ties to foreign governments.",
+    "content": "The proposed legislation referenced US President Donald Trump’s disclosure of billions of dollars in crypto earnings in 2025, as well as his family’s business ties to foreign governments.",
     "image": "https://s3-images.ctmedia.io/media/article-covers/hi-law-on-promotion-of-crypto-us2.jpg",
     "summary": "Senator Schumer has proposed legislation to address corruption, including Donald Trump's crypto ventures, citing his disclosure of billions in crypto earnings and family business ties to foreign governments. The proposal aims to tackle corruption and increase transparency. The legislation mentions Trump's crypto dealings in 2025.",
     "importance": 8,
@@ -336,14 +336,26 @@
     "classified": true
   },
   {
-    "title": "Crypto entering biggest consolidation phase in history, says ARK analyst",
-    "link": "https://cointelegraph.com/news/crypto-entering-biggest-consolidation-phase-in-history-says-ark-analyst?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Wed, 29 Jul 2026 20:40:38 +0000",
-    "source": "Cointelegraph",
+    "title": "‘Funds may be at risk’: Coinkite issues warning for Coldcard Mk3 users amid 594 BTC theft reports",
+    "link": "https://www.theblock.co/post/410235/coinkite-coldcard-mk3-warning?utm_source=rss&utm_medium=rss",
+    "pubDate": "Thu, 30 Jul 2026 22:56:53 -0400",
+    "source": "The Block",
     "category": "crypto",
-    "content": "ARK Invest’s Lorenzo Valente says revenue is becoming increasingly concentrated among a handful of crypto protocols, setting the stage for more mergers, acquisitions and exchange closures.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/layoffs-fired-human-resource-hr-leaving-quit-closing-breaking-news-2.jpg",
-    "summary": "ARK Invest's Lorenzo Valente claims that the crypto industry is entering its largest consolidation phase in history, with revenue becoming more concentrated among a few protocols, leading to potential mergers and acquisitions. This may result in exchange closures. The consolidation phase could significantly impact the crypto market.",
+    "content": "Coinkite recommends that Mk3 users create a strong, unique BIP-39 passphrase on the device and move funds to the resulting wallet.",
+    "image": "https://www.tbstat.com/wp/uploads/2022/11/20221129_Hack-Exploit-3-800x450.jpg",
+    "summary": "Coinkite has issued a warning to Coldcard Mk3 users due to reports of 594 BTC theft, advising them to create a strong BIP-39 passphrase and move funds to a new wallet. This is a precautionary measure to protect user funds. The company is taking steps to address the issue.",
+    "importance": 8,
+    "classified": true
+  },
+  {
+    "title": "Stablecoin Reserve Requirements Explained",
+    "link": "https://www.theblock.co/learn/410234/stablecoin-reserve-requirements-explained?utm_source=rss&utm_medium=rss",
+    "pubDate": "Thu, 30 Jul 2026 22:31:26 -0400",
+    "source": "The Block",
+    "category": "crypto",
+    "content": "A stablecoin is a digital asset designed to maintain a steady value by pegging its price to another asset, most commonly a fiat currency like the U.S. dollar. Stablecoin reserve requirements are the rules determining the assets an issuer must hold to back up every stablecoin it puts into circulation.  Major jurisdictions with stablecoin reserve […]",
+    "image": "https://www.tbstat.com/wp/uploads/2023/08/20230817_LearnCategory_Custody-1-800x450.jpg",
+    "summary": "This article explains the concept of stablecoins and their reserve requirements, which are the rules that determine the assets an issuer must hold to back up every stablecoin in circulation. Stablecoins are digital assets designed to maintain a steady value by pegging their price to another asset, such as a fiat currency. The article aims to provide clarity on stablecoin reserve requirements in major jurisdictions.",
     "importance": 8,
     "classified": true
   },
@@ -452,30 +464,6 @@
     "content": "The team said trader collateral was unaffected and that it will release a recovery plan for liquidity providers.",
     "image": "https://www.tbstat.com/wp/uploads/2023/04/20230411_Hack_Generic_1-800x450.jpg",
     "summary": "Ostium experienced a $24 million exploit, which the team has attributed to an off-chain breach rather than a smart contract flaw. Trader collateral was unaffected, and Ostium plans to release a recovery plan for its liquidity providers.",
-    "importance": 8,
-    "classified": true
-  },
-  {
-    "title": "Binance.US to apply for CFTC license in August for prediction market platform",
-    "link": "https://www.theblock.co/post/410110/binance-us-cftc-license?utm_source=rss&utm_medium=rss",
-    "pubDate": "Wed, 29 Jul 2026 23:17:36 -0400",
-    "source": "The Block",
-    "category": "crypto",
-    "content": "Binance.US CEO Stephen Gregory said at a recent conference that the company will apply for a designated contract market license in August.",
-    "image": "https://www.tbstat.com/wp/uploads/2024/11/20241127_Binance_News-800x450.jpg",
-    "summary": "Binance.US plans to apply for a designated contract market license in August, according to CEO Stephen Gregory. This license is for a prediction market platform. The move indicates the company's efforts to expand its services.",
-    "importance": 8,
-    "classified": true
-  },
-  {
-    "title": "Robinhood’s prediction markets top crypto and equities revenue in Q2",
-    "link": "https://www.theblock.co/post/410102/robinhoods-prediction-markets-top-crypto-and-equities-revenue-in-q2?utm_source=rss&utm_medium=rss",
-    "pubDate": "Wed, 29 Jul 2026 17:14:23 -0400",
-    "source": "The Block",
-    "category": "both",
-    "content": "The trading platform generated $156 million from event contracts, compared with $100 million from cryptocurrency trading.",
-    "image": "https://www.tbstat.com/wp/uploads/2025/12/20251208_Robinhood_News-800x450.jpg",
-    "summary": "Robinhood's prediction markets generated $156 million in revenue in Q2, surpassing cryptocurrency trading revenue of $100 million. This indicates a significant shift in the platform's revenue streams. The company's event contracts outperformed its crypto and equities revenue.",
     "importance": 8,
     "classified": true
   },
@@ -1164,7 +1152,19 @@
     "classified": true
   },
   {
-    "title": "US Senators sent revised ethics rules to White House for CLARITY Act: Report",
+    "title": "Crypto’s next altseason may have fewer winners: Wintermute",
+    "link": "https://cointelegraph.com/news/crypto-next-altseason-fewer-winners-wintermute?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Fri, 31 Jul 2026 04:46:14 +0000",
+    "source": "Cointelegraph",
+    "category": "crypto",
+    "content": "Institutional investors accounted for 72% of Wintermute’s spot OTC flow in the first half of 2026 as capital clustered in fewer tokens and altcoin rallies became more selective.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-has-the-new-altseason-begun-1.jpg",
+    "summary": "Institutional investors dominated Wintermute's spot OTC flow in the first half of 2026, accounting for 72% of the flow, with capital focusing on fewer tokens and altcoin rallies becoming more selective. This trend may indicate a more limited altseason, with fewer winning tokens. Wintermute's data suggests a shift in investor behavior.",
+    "importance": 6,
+    "classified": true
+  },
+  {
+    "title": "US senators sent revised ethics rules to White House for CLARITY Act: Report",
     "link": "https://cointelegraph.com/news/us-senators-revised-ethics-rules-white-house-clarity-act?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "pubDate": "Thu, 30 Jul 2026 21:54:38 +0000",
     "source": "Cointelegraph",
@@ -1256,18 +1256,6 @@
     "content": "The online brokerage continued expanding its digital asset business with Robinhood Chain, tokenized stocks and decentralized lending even as cryptocurrency transaction revenue declined.",
     "image": "https://s3-images.ctmedia.io/media/article-covers/robinhood.jpg",
     "summary": "Robinhood reported a record quarter despite a 38% decline in cryptocurrency transaction revenue, and the company continues to expand its digital asset business with new initiatives such as Robinhood Chain and decentralized lending. The decline in crypto revenue is notable, but the company's overall performance remains strong. Robinhood is pushing forward with tokenized stocks and other innovations.",
-    "importance": 6,
-    "classified": true
-  },
-  {
-    "title": "Tennessee county passes another ban on crypto operations",
-    "link": "https://cointelegraph.com/news/tennessee-county-ban-crypto-operations?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Wed, 29 Jul 2026 20:11:27 +0000",
-    "source": "Cointelegraph",
-    "category": "crypto",
-    "content": "A group of 12 county commissioners voted unanimously to ban mining facilities and data centers in unincorporated areas as it deals with a lawsuit by a digital asset company.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-top-5-biggest-bitcoin-mining-farms-tn.jpg",
-    "summary": "A Tennessee county has banned crypto mining facilities and data centers in unincorporated areas, with all 12 county commissioners voting in favor of the ban, amid a lawsuit from a digital asset company. The ban aims to address concerns related to the crypto operations. The county is dealing with the lawsuit while implementing the new ban.",
     "importance": 6,
     "classified": true
   },
@@ -1605,6 +1593,18 @@
     "image": "https://s3-images.ctmedia.io/media/article-covers/hi-china-exit-scam2.jpg",
     "summary": "China Business Journal has warned about an extortion scam where fraudsters impersonated the newspaper. These scammers demanded Bitcoin from companies, threatening to publish fabricated investigative reports if their demands were not met.",
     "importance": 4,
+    "classified": true
+  },
+  {
+    "title": "Bitcoin flat near $64,000 as Kospi's record 17% surge leaves crypto untouched",
+    "link": "https://www.coindesk.com/markets/2026/07/31/bitcoin-flat-near-usd64-000-as-kospi-s-record-17-surge-leaves-crypto-untouched",
+    "pubDate": "Fri, 31 Jul 2026 05:43:39 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "Samsung and SK Hynix both jumped more than 23%. Bitcoin moved a fraction of a percent in the past 24 hours, and most majors are still lower on the week.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/d1da7dc81bdeb62967c50f138ab1a3e5b4aea59f-4032x3024.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "Bitcoin remained flat near $64,000, showing minimal movement over the past 24 hours, even as the Kospi index experienced a significant 17% surge, primarily driven by gains in Samsung and SK Hynix. This stock market rally left the cryptocurrency market largely untouched, with most major digital assets still lower for the week.",
+    "importance": 3,
     "classified": true
   },
   {
