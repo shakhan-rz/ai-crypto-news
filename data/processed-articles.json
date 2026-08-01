@@ -1,5 +1,17 @@
 [
   {
+    "title": "How bitcoin cold wallets lost $70 million in an attack that never touched the devices",
+    "link": "https://www.coindesk.com/tech/2026/08/01/how-bitcoin-cold-wallets-lost-usd70-million-in-an-attack-that-never-touched-the-devices",
+    "pubDate": "Sat, 01 Aug 2026 05:55:46 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "Galaxy Research said weak seed generation let an attacker recreate likely private keys offline, sweep more than 1,000 BTC from nearly 1,200 wallets and continue searching without ever accessing the devices.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/ee774b5ffc09b1ed7b4b987d689ad1a95db24aaa-1280x720.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "An attacker stole $70 million in Bitcoin from nearly 1,200 cold wallets by exploiting weak seed generation. This allowed them to recreate private keys offline and sweep funds without physically accessing the devices. The attack, detailed by Galaxy Research, continues as the perpetrator searches for more vulnerable wallets.",
+    "importance": 9,
+    "classified": true
+  },
+  {
     "title": "Tether posts $1.5 billion operating profit in Q2 as reserve buffer falls by half",
     "link": "https://www.coindesk.com/business/2026/07/31/tether-posts-usd1-5-billion-operating-profit-in-q2-as-reserve-buffer-falls-by-half",
     "pubDate": "Fri, 31 Jul 2026 18:24:55 +0000",
@@ -140,18 +152,6 @@
     "content": "The company reported $1.22 billion in overall revenue, down from $1.5 billion in the year prior.",
     "image": "https://cdn.sanity.io/images/s3y3vcno/production/868ae20c7c05b3aab1825f55f45b74a9484fd851-1920x1280.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
     "summary": "Coinbase's revenue for the second quarter was $1.22 billion, a decrease from $1.5 billion in the previous year, causing its stock to sink 5%. The company missed its revenue estimates for the quarter. This decline may impact investor confidence in the cryptocurrency market.",
-    "importance": 8,
-    "classified": true
-  },
-  {
-    "title": "Ondo Finance weighs acquisition worth up to $500 million",
-    "link": "https://www.coindesk.com/business/2026/07/30/ondo-finance-weighs-acquisition-worth-up-to-usd500-million",
-    "pubDate": "Thu, 30 Jul 2026 16:04:16 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "The tokenized-assets firm is considering an acquisition valued at $250 million to $500 million as consolidation accelerates across crypto infrastructure.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/b812b8ada6cef71c702a746a86725e170bb18b15-1920x1080.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "Ondo Finance is considering an acquisition worth $250-500 million, as consolidation in the crypto infrastructure space accelerates. This potential acquisition is a significant move for the tokenized-assets firm. The deal's value suggests a major expansion for Ondo Finance.",
     "importance": 8,
     "classified": true
   },
@@ -1056,6 +1056,18 @@
     "classified": true
   },
   {
+    "title": "XRP Ledger upgrade brings back features once pulled over critical bugs",
+    "link": "https://www.coindesk.com/tech/2026/08/01/xrp-ledger-upgrade-brings-back-features-once-pulled-over-critical-bugs",
+    "pubDate": "Sat, 01 Aug 2026 06:09:51 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "The xrpld 3.3.0 release is expected next week with five proposed amendments, including two revised features that were previously withdrawn after researchers found bugs that could have allowed unauthorized transactions or fee draining.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/eeb54516a3b0a19f03d51ee5552619fa13b3be71-1920x1440.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "The XRP Ledger (xrpld 3.3.0) is set for an upgrade next week, reintroducing two features previously withdrawn due to critical bugs that could have led to unauthorized transactions or fee draining. The release will include a total of five proposed amendments.",
+    "importance": 7,
+    "classified": true
+  },
+  {
     "title": "Bitcoin holds monthly gain, faces 'choppy' August as 'forced-selling' exhausted, analysts say",
     "link": "https://www.coindesk.com/markets/2026/07/31/bitcoin-holds-onto-july-gain-as-forced-selling-fuel-was-already-spent-analysts-say",
     "pubDate": "Fri, 31 Jul 2026 20:50:58 +0000",
@@ -1148,6 +1160,18 @@
     "content": "Bitcoin’s daily price swings have tightened to their narrowest since January, making clean trades harder to find. Here's what could happen next.",
     "image": "https://cdn.sanity.io/images/s3y3vcno/production/f9747ccb3b3edaff1ec28ee4730bc4ae5cbf95b9-2854x1488.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
     "summary": "Bitcoin's daily price swings have tightened to their narrowest since January, making clean trades difficult to find. This period of calm is setting up conditions for a potential \"volatility explosion\" in the cryptocurrency market.",
+    "importance": 6,
+    "classified": true
+  },
+  {
+    "title": "Bitcoin ETFs end July in the green despite late-month selling",
+    "link": "https://cointelegraph.com/markets/bitcoin-etfs-july-green-despite-late-month-selling?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Sat, 01 Aug 2026 07:23:07 +0000",
+    "source": "Cointelegraph",
+    "category": "crypto",
+    "content": "Spot Bitcoin ETFs attracted $172.4 million in July inflows but remained $5.3 billion negative year to date after heavy withdrawals in May and June.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-cmc-verified-info-deadline-1.png",
+    "summary": "Spot Bitcoin ETFs ended July with positive inflows of $172.4 million, marking a reversal from significant withdrawals in May and June. Despite this green month, the ETFs remain $5.3 billion negative year-to-date.",
     "importance": 6,
     "classified": true
   },
@@ -1268,18 +1292,6 @@
     "content": "A survey of more than 2,000 Canadians in late 2025 and early 2026 showed an increasing awareness of risk around the crypto industry and higher ownership of assets.",
     "image": "https://s3-images.ctmedia.io/media/article-covers/canada-coin-2.jpg",
     "summary": "A survey of over 2,000 Canadians showed an increase in crypto ownership to 25% and a growing awareness of the risks associated with the industry. The survey was conducted in late 2025 and early 2026. The results indicate a significant trend in the adoption of cryptocurrencies in Canada.",
-    "importance": 6,
-    "classified": true
-  },
-  {
-    "title": "Bitcoin stable as Fed favorite PCE inflation sees first monthly drop in 6 years",
-    "link": "https://cointelegraph.com/markets/bitcoin-crypto-stable-as-us-pce-inflation-sees-first-monthly-drop-in-six-years?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Thu, 30 Jul 2026 16:17:29 +0000",
-    "source": "Cointelegraph",
-    "category": "crypto",
-    "content": "Bitcoin and US stocks enjoyed a relief bounce as the South Korea semiconductor rout eased and US PCE inflation data conforms to year-on-year expectations.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-is-bitcoin-a-hedge-against-inflation.jpg",
-    "summary": "Bitcoin and US stocks saw a relief bounce due to eased South Korea semiconductor concerns and US PCE inflation data meeting year-on-year expectations. This marks the first monthly drop in PCE inflation in six years. The news has a stabilizing effect on Bitcoin.",
     "importance": 6,
     "classified": true
   },
@@ -1688,18 +1700,6 @@
     "content": "The suit wants to bar the company from operating what it says is an unlicensed gambling business and seeks financial redress.",
     "image": "https://cdn.sanity.io/images/s3y3vcno/production/a35a16c52c52cb32a4f9b8b5e616fae8fed3cfb6-4672x3104.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
     "summary": "New York has filed a lawsuit against Kalshi, alleging it operates an unlicensed gambling platform. The suit aims to prevent Kalshi from continuing its operations in New York and seeks financial compensation.",
-    "importance": 1,
-    "classified": true
-  },
-  {
-    "title": "Crypto for Advisors: Is the Clarity Act dead?",
-    "link": "https://www.coindesk.com/coindesk-indices/2026/07/30/crypto-for-advisors-is-the-clarity-act-dead",
-    "pubDate": "Thu, 30 Jul 2026 15:00:49 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/870e23f24d3a975a63fcf3a585ce35a63311601f-5820x3880.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "The article content was not provided, therefore a summary of its details cannot be generated. Based on the title alone, the piece would likely discuss the current status and potential demise of the 'Clarity Act' concerning cryptocurrency advisors.",
     "importance": 1,
     "classified": true
   },
