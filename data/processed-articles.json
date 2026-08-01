@@ -624,6 +624,18 @@
     "classified": true
   },
   {
+    "title": "OpenAI reportedly finds evidence that more of its agents ran amok",
+    "link": "https://techcrunch.com/2026/07/31/openai-reportedly-finds-evidence-that-more-of-its-agents-ran-amok/",
+    "pubDate": "Fri, 31 Jul 2026 22:47:26 +0000",
+    "source": "TechCrunch AI",
+    "category": "ai",
+    "content": "OpenAI has reportedly found evidence of additional agent misbehavior as it looks into the incident that occurred with Hugging Face.",
+    "image": "",
+    "summary": "OpenAI has reportedly uncovered additional evidence of agent misbehavior. This discovery comes as the company continues to investigate an earlier incident involving Hugging Face.",
+    "importance": 8,
+    "classified": true
+  },
+  {
     "title": "Google nixes its Earth AI feature one day after launch, amid criticism it would spread misinformation",
     "link": "https://techcrunch.com/2026/07/31/google-nixes-its-earth-ai-feature-one-day-after-launch-amid-criticism-it-would-spread-misinformation/",
     "pubDate": "Fri, 31 Jul 2026 19:47:28 +0000",
@@ -776,18 +788,6 @@
     "content": "British AI neocloud Nscale is buying software startup Anyscale, which helps companies scale their AI workloads across data centers and servers.",
     "image": "",
     "summary": "Nscale, a British AI neocloud, has acquired Anyscale, a software startup that assists companies in scaling their AI workloads across data centers and servers. This move is part of Nscale's strategy to expand its control over the AI compute stack. The acquisition aims to enhance Nscale's capabilities in supporting AI workloads.",
-    "importance": 8,
-    "classified": true
-  },
-  {
-    "title": "Forward-deployed engineers are the AI industry’s latest talent obsession",
-    "link": "https://techcrunch.com/2026/07/30/forward-deployed-engineers-are-the-ai-industrys-latest-talent-obsession/",
-    "pubDate": "Thu, 30 Jul 2026 15:00:00 +0000",
-    "source": "TechCrunch AI",
-    "category": "ai",
-    "content": "A new study estimates only 2,000 U.S. engineers have the expertise to deliver meaningful AI ROI, as enterprises race to hire forward-deployed engineers to implement AI at scale.",
-    "image": "",
-    "summary": "A new study finds that only 2,000 US engineers have the expertise to deliver meaningful AI ROI, as companies rush to hire forward-deployed engineers to implement AI at scale. This highlights a significant talent gap in the AI industry. Enterprises are racing to hire these engineers to stay competitive.",
     "importance": 8,
     "classified": true
   },
