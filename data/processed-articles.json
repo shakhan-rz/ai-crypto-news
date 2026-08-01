@@ -1,5 +1,17 @@
 [
   {
+    "title": "Binance founder CZ calls for wallet diversification after $70 million Coldcard exploit",
+    "link": "https://www.coindesk.com/markets/2026/08/01/binance-founder-cz-says-diversify-your-wallets-following-usd70-million-coldcard-exploit",
+    "pubDate": "Sat, 01 Aug 2026 09:01:08 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "Binance founder Changpeng Zhao says hardware wallets can still have bugs and suggests spreading funds across multiple wallets after the major Coldcard security failure.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/437628ccfb83a83e825c25c2a011fac07e55fd69-1920x1080.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "Binance founder Changpeng Zhao (CZ) has advised users to diversify their funds across multiple hardware wallets. This recommendation comes after a significant $70 million exploit involving a Coldcard hardware wallet, highlighting that even such devices can have bugs and vulnerabilities.",
+    "importance": 9,
+    "classified": true
+  },
+  {
     "title": "How bitcoin cold wallets lost $70 million in an attack that never touched the devices",
     "link": "https://www.coindesk.com/tech/2026/08/01/how-bitcoin-cold-wallets-lost-usd70-million-in-an-attack-that-never-touched-the-devices",
     "pubDate": "Sat, 01 Aug 2026 05:55:46 +0000",
@@ -60,14 +72,14 @@
     "classified": true
   },
   {
-    "title": "Global banks test tokenized money for cross-border payments in $1 million BIS pilot",
-    "link": "https://www.coindesk.com/business/2026/07/30/global-banks-test-tokenized-money-for-cross-border-payments-in-usd1-million-bis-pilot",
-    "pubDate": "Thu, 30 Jul 2026 17:34:03 +0000",
-    "source": "CoinDesk",
+    "title": "Coldcard Bitcoin loss estimate rises to $70M after Galaxy analysis",
+    "link": "https://cointelegraph.com/news/coldcard-bitcoin-loss-estimate-70-million-galaxy-analysis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Sat, 01 Aug 2026 09:23:56 +0000",
+    "source": "Cointelegraph",
     "category": "crypto",
-    "content": "Twenty-eight banks, including JPMorgan, Citi and UBS, moved real money across borders in a live test of blockchain-based settlement.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/4bba51485f26abb692e6ef6bcc557b0fc965919a-1500x1000.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "Twenty-eight global banks, including JPMorgan, Citi, and UBS, successfully tested blockchain-based settlement for cross-border payments. This pilot involved moving real tokenized money as part of a $1 million Bank for International Settlements (BIS) initiative.",
+    "content": "Galaxy Research identified 1,196 addresses that lost 1,082.65 Bitcoin in a 41-minute window, expanding the estimated scope of the Coldcard wallet incident.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/hand-coin-laptop-hack-bitcoin.jpg",
+    "summary": "Galaxy Research has updated the estimated losses from a Coldcard Bitcoin wallet incident to $70 million, identifying 1,196 addresses that lost 1,082.65 Bitcoin within a 41-minute window. This analysis significantly expands the previously understood scope of the incident.",
     "importance": 9,
     "classified": true
   },
@@ -152,6 +164,18 @@
     "content": "The company reported $1.22 billion in overall revenue, down from $1.5 billion in the year prior.",
     "image": "https://cdn.sanity.io/images/s3y3vcno/production/868ae20c7c05b3aab1825f55f45b74a9484fd851-1920x1280.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
     "summary": "Coinbase's revenue for the second quarter was $1.22 billion, a decrease from $1.5 billion in the previous year, causing its stock to sink 5%. The company missed its revenue estimates for the quarter. This decline may impact investor confidence in the cryptocurrency market.",
+    "importance": 8,
+    "classified": true
+  },
+  {
+    "title": "Russia expands crypto mining ban to Moscow through 2032",
+    "link": "https://cointelegraph.com/news/russia-expands-crypto-mining-ban-moscow-2032?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Sat, 01 Aug 2026 10:23:41 +0000",
+    "source": "Cointelegraph",
+    "category": "crypto",
+    "content": "Russia has added Moscow, the Moscow Region and parts of Kursk Region to its cryptocurrency mining ban list, citing power supply concerns behind the restrictions.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-china-mining-ban.jpg",
+    "summary": "Russia has expanded its cryptocurrency mining ban to include Moscow, the Moscow Region, and parts of the Kursk Region. Citing power supply concerns, these restrictions will remain in effect until 2032.",
     "importance": 8,
     "classified": true
   },
@@ -308,18 +332,6 @@
     "content": "The proposed legislation referenced US President Donald Trump’s disclosure of billions of dollars in crypto earnings in 2025, as well as his family’s business ties to foreign governments.",
     "image": "https://s3-images.ctmedia.io/media/article-covers/hi-law-on-promotion-of-crypto-us2.jpg",
     "summary": "Senator Schumer has proposed legislation to address corruption, including Donald Trump's crypto ventures, citing his disclosure of billions in crypto earnings and family business ties to foreign governments. The proposal aims to tackle corruption and increase transparency. The legislation mentions Trump's crypto dealings in 2025.",
-    "importance": 8,
-    "classified": true
-  },
-  {
-    "title": "Aviva Investors launches tokenized fund after Central Bank of Ireland approval",
-    "link": "https://cointelegraph.com/news/aviva-investors-tokenized-fund-central-bank-ireland-xrp-ledger?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Thu, 30 Jul 2026 17:38:13 +0000",
-    "source": "Cointelegraph",
-    "category": "both",
-    "content": "The new XRPL-based share class gives eligible investors blockchain-based access to a regulated US dollar liquidity fund while keeping traditional custody arrangements.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/ripple-vs-xrp-vs-xrp-ledger-2.png",
-    "summary": "Aviva Investors has launched a tokenized fund after receiving approval from the Central Bank of Ireland, providing eligible investors with blockchain-based access to a regulated US dollar liquidity fund. The fund is based on the XRPL blockchain and maintains traditional custody arrangements. This move combines traditional finance with blockchain technology.",
     "importance": 8,
     "classified": true
   },
@@ -1280,18 +1292,6 @@
     "content": "The Telegram founder said Russia designated him a terrorist after he refused government demands for mass surveillance and censorship on the messaging platform.",
     "image": "https://s3-images.ctmedia.io/media/article-covers/durov.png",
     "summary": "Telegram founder Pavel Durov has been designated a terrorist by Russia after refusing government demands for mass surveillance and censorship on the platform. This move is seen as an attempt to exert control over the messaging service. Durov's stance has been to prioritize user privacy and security.",
-    "importance": 6,
-    "classified": true
-  },
-  {
-    "title": "Canadian crypto ownership increases to 25%: Ontario survey",
-    "link": "https://cointelegraph.com/news/canadians-ownership-crypto-osc-survey?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Thu, 30 Jul 2026 17:03:17 +0000",
-    "source": "Cointelegraph",
-    "category": "crypto",
-    "content": "A survey of more than 2,000 Canadians in late 2025 and early 2026 showed an increasing awareness of risk around the crypto industry and higher ownership of assets.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/canada-coin-2.jpg",
-    "summary": "A survey of over 2,000 Canadians showed an increase in crypto ownership to 25% and a growing awareness of the risks associated with the industry. The survey was conducted in late 2025 and early 2026. The results indicate a significant trend in the adoption of cryptocurrencies in Canada.",
     "importance": 6,
     "classified": true
   },
