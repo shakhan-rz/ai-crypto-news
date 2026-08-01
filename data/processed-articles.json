@@ -108,6 +108,18 @@
     "classified": true
   },
   {
+    "title": "Russian decree bans crypto mining across Moscow region through 2032",
+    "link": "https://www.theblock.co/post/410345/russian-decree-bans-crypto-mining-across-moscow-region-through-2032?utm_source=rss&utm_medium=rss",
+    "pubDate": "Sat, 01 Aug 2026 12:09:15 -0400",
+    "source": "The Block",
+    "category": "crypto",
+    "content": "Regional energy officials had estimated that mining consumes 1 GW of power and could contribute to future electricity shortages.",
+    "image": "https://www.tbstat.com/wp/uploads/2018/10/russian-flag-800x450.jpg",
+    "summary": "Russia has issued a decree banning crypto mining across the Moscow region until 2032. This measure was taken due to concerns from regional energy officials that crypto mining consumes 1 GW of power, which could lead to future electricity shortages in the area.",
+    "importance": 9,
+    "classified": true
+  },
+  {
     "title": "Bitcoin mining difficulty shrinks 14% from this year's high as plunging revenues force operators to pivot",
     "link": "https://www.coindesk.com/business/2026/08/01/bitcoin-mining-difficulty-shrinks-14-from-this-year-s-high-as-plunging-revenues-force-operators-to-pivot",
     "pubDate": "Sat, 01 Aug 2026 15:51:10 +0000",
@@ -164,6 +176,18 @@
     "content": "The firm’s board raised the sale cap to 4,375 ETH through Oct. 30, nearly 66% of June holdings, although 3,050 of its remaining ETH is pledged.",
     "image": "https://cdn.sanity.io/images/s3y3vcno/production/c706eaf5f9a67595db3c046eac1adbf03d440022-4000x2250.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
     "summary": "Quantum Solutions and Hyperscale Data are funding AI data centers by leveraging their crypto treasuries, specifically through the sale of Ethereum. The firm's board increased the ETH sale cap to 4,375 ETH through October 30, which represents nearly 66% of its June holdings, with a portion of the remaining ETH already pledged. This move highlights a notable intersection of cryptocurrency assets being used to finance artificial intelligence infrastructure.",
+    "importance": 8,
+    "classified": true
+  },
+  {
+    "title": "Minnesota crypto ATM ban goes into effect after reported $1M losses",
+    "link": "https://cointelegraph.com/news/minnesota-crypto-atm-ban-losses-scams?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Sat, 01 Aug 2026 18:07:17 +0000",
+    "source": "Cointelegraph",
+    "category": "crypto",
+    "content": "State officials reported that Minnesota residents, and largely senior citizens, had lost about $1 million from scams tied to crypto kiosks from 2023 to 2025.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-crypto-atm-ban.png",
+    "summary": "Minnesota has implemented a ban on crypto ATMs after state officials reported approximately $1 million in losses from scams tied to these kiosks. A significant portion of these losses affected senior citizens between 2023 and 2025.",
     "importance": 8,
     "classified": true
   },
@@ -768,30 +792,6 @@
     "classified": true
   },
   {
-    "title": "Meta says AI is making it easier to build new apps — and more are coming",
-    "link": "https://techcrunch.com/2026/07/30/meta-says-ai-is-making-it-easier-to-build-new-apps-and-more-are-coming/",
-    "pubDate": "Thu, 30 Jul 2026 15:41:16 +0000",
-    "source": "TechCrunch AI",
-    "category": "ai",
-    "content": "Meta says AI is making it dramatically easier to build and launch new consumer apps, with CEO Mark Zuckerberg telling investors the company has more new consumer products on the way.",
-    "image": "",
-    "summary": "Meta CEO Mark Zuckerberg stated that AI is simplifying the process of building and launching new consumer apps, with more products in development. This development is expected to lead to an increase in new apps. The company is leveraging AI to streamline the app creation process.",
-    "importance": 8,
-    "classified": true
-  },
-  {
-    "title": "Nscale buys Anyscale as it seeks to own more of the AI compute stack",
-    "link": "https://techcrunch.com/2026/07/30/nscale-buys-anyscale-as-it-seeks-to-own-more-of-the-ai-compute-stack/",
-    "pubDate": "Thu, 30 Jul 2026 15:19:15 +0000",
-    "source": "TechCrunch AI",
-    "category": "ai",
-    "content": "British AI neocloud Nscale is buying software startup Anyscale, which helps companies scale their AI workloads across data centers and servers.",
-    "image": "",
-    "summary": "Nscale, a British AI neocloud, has acquired Anyscale, a software startup that assists companies in scaling their AI workloads across data centers and servers. This move is part of Nscale's strategy to expand its control over the AI compute stack. The acquisition aims to enhance Nscale's capabilities in supporting AI workloads.",
-    "importance": 8,
-    "classified": true
-  },
-  {
     "title": "Google Earth&#8217;s AI deepfake tool only lasted one day",
     "link": "https://www.theverge.com/tech/973943/google-earth-ai-image-generation-deepfake-tool",
     "pubDate": "2026-07-31T19:13:29.000Z",
@@ -1068,6 +1068,30 @@
     "classified": true
   },
   {
+    "title": "Tokenized stock trading surged 288% in July, but one QQQ token drove most of it",
+    "link": "https://www.coindesk.com/markets/2026/08/01/tokenized-stock-trading-surged-288-in-july-but-one-qqq-token-drove-most-of-it",
+    "pubDate": "Sat, 01 Aug 2026 16:51:35 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "Without that QQQ token, QQQB, July volume for tokenized equities would be roughly $2.03 billion, about 30% below June’s total.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/d050e4be1c5616c5c0df43f77406eebe7e1d4c9f-1920x1277.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "Tokenized stock trading experienced a significant 288% surge in July, though this growth was primarily driven by a single QQQ token, QQQB. Without QQQB, the volume for tokenized equities in July would have been approximately $2.03 billion, representing about a 30% decrease from June's total. This highlights a concentrated surge rather than broad market growth in tokenized assets.",
+    "importance": 7,
+    "classified": true
+  },
+  {
+    "title": "Bank of Italy research suggests stablecoins aren't necessarily cheaper for remittances",
+    "link": "https://www.coindesk.com/business/2026/08/01/bank-of-italy-research-suggests-stablecoins-aren-t-necessarily-cheaper-for-remittances",
+    "pubDate": "Sat, 01 Aug 2026 16:00:00 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "A mystery-shopping experiment found that exchange fees, foreign exchange spreads and banking rails mean stablecoin remittances are often no cheaper than traditional transfer means.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/198dcd7467c494c1194b67c1d80424db96f7e636-553x311.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "Bank of Italy research suggests that stablecoin remittances are not necessarily cheaper than traditional methods. A mystery-shopping experiment revealed that exchange fees, foreign exchange spreads, and reliance on banking rails often negate potential cost savings.",
+    "importance": 7,
+    "classified": true
+  },
+  {
     "title": "XRP Ledger upgrade brings back features once pulled over critical bugs",
     "link": "https://www.coindesk.com/tech/2026/08/01/xrp-ledger-upgrade-brings-back-features-once-pulled-over-critical-bugs",
     "pubDate": "Sat, 01 Aug 2026 06:09:51 +0000",
@@ -1176,6 +1200,18 @@
     "classified": true
   },
   {
+    "title": "Sam Altman is still making the case for parenting via ChatGPT",
+    "link": "https://techcrunch.com/2026/08/01/sam-altman-is-still-making-the-case-for-parenting-via-chatgpt/",
+    "pubDate": "Sat, 01 Aug 2026 17:07:34 +0000",
+    "source": "TechCrunch AI",
+    "category": "ai",
+    "content": "OpenAI's CEO seemed excited to share a \"cool use case\" for parents.",
+    "image": "",
+    "summary": "OpenAI CEO Sam Altman continues to champion ChatGPT as a valuable tool for parents, highlighting it as a \"cool use case.\" He is actively making the case for integrating AI into parenting practices.",
+    "importance": 7,
+    "classified": true
+  },
+  {
     "title": "Everyone has the perps convergence backwards",
     "link": "https://www.coindesk.com/opinion/2026/08/01/everyone-has-the-perps-convergence-backwards",
     "pubDate": "Sat, 01 Aug 2026 13:00:00 +0000",
@@ -1184,18 +1220,6 @@
     "content": "Crypto is said to be growing up to look like Wall Street. The evidence in its biggest market points the other way, argues Bitget CEO Gracy Chen.",
     "image": "https://cdn.sanity.io/images/s3y3vcno/production/28d796f6c0ac99b44636786b2b5009012039420d-7000x3700.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
     "summary": "Bitget CEO Gracy Chen challenges the common notion that the crypto market is maturing to resemble Wall Street. She argues that evidence from crypto's largest market indicates the convergence is actually happening in the opposite direction, with traditional finance potentially moving towards crypto structures.",
-    "importance": 6,
-    "classified": true
-  },
-  {
-    "title": "Bitcoin’s calm is back and so is the setup for a volatility explosion",
-    "link": "https://www.coindesk.com/markets/2026/07/31/bitcoin-s-calm-is-back-and-so-is-the-setup-for-a-volatility-explosion",
-    "pubDate": "Fri, 31 Jul 2026 08:30:31 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "Bitcoin’s daily price swings have tightened to their narrowest since January, making clean trades harder to find. Here's what could happen next.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/f9747ccb3b3edaff1ec28ee4730bc4ae5cbf95b9-2854x1488.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "Bitcoin's daily price swings have tightened to their narrowest since January, making clean trades difficult to find. This period of calm is setting up conditions for a potential \"volatility explosion\" in the cryptocurrency market.",
     "importance": 6,
     "classified": true
   },
@@ -1304,18 +1328,6 @@
     "content": "The window to pass a comprehensive crypto market structure bill before the Senate breaks for a month-long recess is closing, with ethics a dividing issue for many lawmakers.",
     "image": "https://s3-images.ctmedia.io/media/article-covers/white-house-crypto3.jpg",
     "summary": "US Senators have sent revised ethics rules to the White House for the CLARITY Act, as the window to pass a comprehensive crypto market structure bill is closing. The bill is being held up by disagreements over ethics. A month-long Senate recess is impending.",
-    "importance": 6,
-    "classified": true
-  },
-  {
-    "title": "Telegram’s Pavel Durov responds to Russia’s terrorism designation",
-    "link": "https://cointelegraph.com/news/pavel-durov-responds-russia-terrorism-designation-cites-mass-surveillance-censorship?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Thu, 30 Jul 2026 19:54:06 +0000",
-    "source": "Cointelegraph",
-    "category": "ai",
-    "content": "The Telegram founder said Russia designated him a terrorist after he refused government demands for mass surveillance and censorship on the messaging platform.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/durov.png",
-    "summary": "Telegram founder Pavel Durov has been designated a terrorist by Russia after refusing government demands for mass surveillance and censorship on the platform. This move is seen as an attempt to exert control over the messaging service. Durov's stance has been to prioritize user privacy and security.",
     "importance": 6,
     "classified": true
   },
@@ -1464,6 +1476,18 @@
     "classified": true
   },
   {
+    "title": "Is this Billboard Hot 100 hit AI slop?",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/974209/fenix-flexin-billboard-hot-100-rubberz-ai-slop",
+    "pubDate": "2026-08-01T18:20:00.000Z",
+    "source": "The Verge AI",
+    "category": "ai",
+    "content": "That cover art is almost certainly AI, too. | Image: Fenix Flexin\t\n\nFenix Flexin is best known as a member of Shoreline Mafia, a rap duo from Los Angeles. But he's recently found solo success with the track \"Rubberz,\" which has climbed to number 58 on the Billboard Hot 100. Almost immediately, though, questions were raised about the song's origins, with many speculating that it was largely, if not entirely, generated by AI. Fenix has denied those accusations, but done little to dispel them.\nPart of the suspicion is certainly due to the fact that the song is a dramatic left turn. Fenix has primarily trafficked in trap-influenced West Coast rap. \"Rubberz,\" on the other hand, is heavily influenced by '80s UK s …\nRead the full story at The Verge.",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/artworks-WsdIgVXV8NOV-0-t1080x1080.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "summary": "Fenix Flexin's song 'Rubberz' has raised questions about its origins, with many speculating it was generated by AI, despite the artist's denial. The song's style is a departure from Fenix's usual trap-influenced West Coast rap. 'Rubberz' has climbed to number 58 on the Billboard Hot 100.",
+    "importance": 6,
+    "classified": true
+  },
+  {
     "title": "The loss of Situational Awareness",
     "link": "https://www.theverge.com/ai-artificial-intelligence/973467/ai-bet-situational-awareness-oops-stonks",
     "pubDate": "2026-07-30T20:46:25.000Z",
@@ -1472,18 +1496,6 @@
     "content": "Neither artificial nor intelligent.\t\n\nI am not by any means an expert at finance but I think I do now have some advice for people who are: Do not name your hedge fund anything that will be hilarious if it blows up. Don't use a name like \"Long-Term Capital Management\" or \"Amaranth Advisors\" (named for the floral symbol for immortality). Certainly do not call yourself \"Situational Awareness,\" which might as well just be \"Hubris, Inc.\"\nAnyway, Situational Awareness, the hedge fund started by a 24-year-old former OpenAI employee that focuses on artificial intelligence bets, has sold most or all, depending on who's reporting, of its entire public stock portfolio to Ken Griffin's Cit …\nRead the full story at The Verge.",
     "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STKS522_AGI_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
     "summary": "A hedge fund called Situational Awareness, founded by a 24-year-old former OpenAI employee, has sold most of its public stock portfolio to Ken Griffin's company. The fund focuses on artificial intelligence bets. The name of the fund is ironic given its recent actions.",
-    "importance": 6,
-    "classified": true
-  },
-  {
-    "title": "Friend re-launches its AI pendant with a speaker that talks to you, for twice the price",
-    "link": "https://www.theverge.com/gadgets/973163/friend-re-launches-its-ai-pendant-with-a-speaker-that-talks-to-you-for-twice-the-price",
-    "pubDate": "2026-07-30T16:33:32.000Z",
-    "source": "The Verge AI",
-    "category": "ai",
-    "content": "Do you remember Friend? The Friend that launched an AI pendant, spent $1.8 million of its $2.5 million in funding to acquire friend.com, and plastered the NYC subway with ads promoting artificial companionship?\nYeah well, if you didn't remember, Friend is back. And now, it's twice the price.\nThis morning, Friend launched a new ad showing two people talking to their Friend pendants about very personal life problems. It didn't say it explicitly, but the ad showcased a new feature the pendant now includes: a speaker. Before, Friend would only message back to you, but now, it will talk to you, too. For some reason, the addition of that feature …\nRead the full story at The Verge.",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25777487/millennial_explorer_a_comp_v004.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "summary": "Friend has re-launched its AI pendant with a new speaker feature, allowing it to communicate through voice, and doubled the price. The pendant was previously only able to message back to users. The updated feature is showcased in a new ad highlighting the pendant's ability to provide artificial companionship.",
     "importance": 6,
     "classified": true
   },
@@ -1544,18 +1556,6 @@
     "content": "BTC fell as July drew to a close, even as stocks gained in Asia and U.S. index futures advanced. The CoinDesk 20 index is set to post its biggest gain since July 2025.",
     "image": "https://cdn.sanity.io/images/s3y3vcno/production/03fd18d91d0256863aca046dd26ae81faeb58698-1892x1064.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
     "summary": "Bitcoin and ether experienced a fall at the close of July, contrasting with gains in global stock markets. Despite this, the broader crypto market, as measured by the CoinDesk 20 index, is poised to record its most significant monthly gain since July 2025 (likely a typo for a past year).",
-    "importance": 4,
-    "classified": true
-  },
-  {
-    "title": "Live updates: 'Move your funds now,' says co-founder and CEO of Coldcard maker Coinkite",
-    "link": "https://www.coindesk.com/markets/2026/07/31/live-updates-bitcoin-steady-as-japan-holds-rates-at-1-keeping-the-yen-carry-trade-alive",
-    "pubDate": "Fri, 31 Jul 2026 07:46:10 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "The Bank of Japan left its benchmark at 1% and Governor Ueda's hawkish signals landed softly, since markets had already priced an October hike.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/93f43047e2642d3152c334c8c12ddbe63a31ff91-2794x1462.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "While the title indicates Bitcoin sliding below $64,000, the article's content focuses on the Bank of Japan's decision to maintain its benchmark interest rate at 1%. Governor Ueda's hawkish signals were largely anticipated by markets, having already priced in an October hike.",
     "importance": 4,
     "classified": true
   },
@@ -1704,18 +1704,6 @@
     "classified": true
   },
   {
-    "title": "Bipartisan Sens. Tillis and Gallego send new ethics compromise to White House in Clarity Act push",
-    "link": "https://www.theblock.co/post/410193/bipartisan-sens-tillis-gallego-new-ethics-compromise-white-house-clarity-act-push?utm_source=rss&utm_medium=rss",
-    "pubDate": "Thu, 30 Jul 2026 14:30:42 -0400",
-    "source": "The Block",
-    "category": "crypto",
-    "content": "Senators are trying again to see if they can get President Donald Trump to sign off on revised ethics language.",
-    "image": "https://www.tbstat.com/wp/uploads/2025/06/20250602_Trump_News_3-800x450.jpg",
-    "summary": "Senators Tillis and Gallego have sent a new ethics compromise to the White House in an attempt to get President Trump to sign off on revised ethics language. This is part of their push for the Clarity Act. The compromise aims to address ethics concerns.",
-    "importance": 1,
-    "classified": true
-  },
-  {
     "title": "The Download: Montana’s new experimental drug rules",
     "link": "https://www.technologyreview.com/2026/07/31/1140999/the-download-montanas-right-to-try-law-anthropic-hacks/",
     "pubDate": "Fri, 31 Jul 2026 12:16:00 +0000",
@@ -1736,6 +1724,18 @@
     "content": "Kris DeVault is desperate. His son, Brody, was born in March 2023. It wasn’t long before he started to show signs of developmental delay, says DeVault. As time went on, Brody started missing key milestones in speech, movement, and coordination, he says. When Brody was around two and a half years old, a genetic test…",
     "image": "https://wp.technologyreview.com/wp-content/uploads/2026/07/family-inset.jpg?w=840",
     "summary": "A new 'right to try' law in Montana may bring hope to families like Kris DeVault's, whose son Brody has developmental delays. Brody was born in March 2023 and has been missing key milestones in speech, movement, and coordination. The law's implementation could be crucial for families seeking experimental treatments.",
+    "importance": 1,
+    "classified": true
+  },
+  {
+    "title": "This $9 key physically locks your most addictive apps",
+    "link": "https://techcrunch.com/2026/08/01/this-9-key-physically-locks-your-most-addictive-apps/",
+    "pubDate": "Sat, 01 Aug 2026 15:58:17 +0000",
+    "source": "TechCrunch AI",
+    "category": "crypto",
+    "content": "This $9 NFC key requires you to physically scan it to unlock distracting apps on your phone.",
+    "image": "",
+    "summary": "A new $9 NFC key has been developed to combat smartphone addiction by physically locking distracting apps on a user's phone. This device requires a physical scan to unlock specific applications, providing a tangible barrier to reduce screen time and improve focus.",
     "importance": 1,
     "classified": true
   }
