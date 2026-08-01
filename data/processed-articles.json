@@ -1,5 +1,17 @@
 [
   {
+    "title": "SEC to review Nasdaq bitcoin options approval after CME challenge",
+    "link": "https://www.coindesk.com/policy/2026/08/01/sec-to-review-nasdaq-bitcoin-options-approval-after-cme-challenge",
+    "pubDate": "Sat, 01 Aug 2026 15:48:27 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "CME argues that because bitcoin is a commodity, options tied to its value fall under CFTC jurisdiction, not the SEC's authority.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/d515099cc27d1cef5d333e5c01bb778ce49d7531-6000x3376.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "The SEC is set to review Nasdaq's approval of bitcoin options after a challenge from CME. CME argues that options tied to bitcoin, a commodity, should fall under CFTC jurisdiction rather than the SEC's authority.",
+    "importance": 9,
+    "classified": true
+  },
+  {
     "title": "Binance founder CZ calls for wallet diversification after $70 million Coldcard exploit",
     "link": "https://www.coindesk.com/markets/2026/08/01/binance-founder-cz-says-diversify-your-wallets-following-usd70-million-coldcard-exploit",
     "pubDate": "Sat, 01 Aug 2026 09:01:08 +0000",
@@ -96,6 +108,30 @@
     "classified": true
   },
   {
+    "title": "Bitcoin mining difficulty shrinks 14% from this year's high as plunging revenues force operators to pivot",
+    "link": "https://www.coindesk.com/business/2026/08/01/bitcoin-mining-difficulty-shrinks-14-from-this-year-s-high-as-plunging-revenues-force-operators-to-pivot",
+    "pubDate": "Sat, 01 Aug 2026 15:51:10 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "Difficulty falls as weak mining economics reduce capacity, while forward markets signal little relief through year-end.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/54bd04de039305784bf732dce245207bcc75ba21-7008x3942.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "Bitcoin mining difficulty has decreased by 14% from its yearly high, as challenging mining economics compel operators to scale back capacity and pivot their strategies. Forward markets suggest that these economic pressures will likely persist with little relief through the end of the year.",
+    "importance": 8,
+    "classified": true
+  },
+  {
+    "title": "Solana Foundation's new CISO warns AI is making crypto scams more convincing",
+    "link": "https://www.coindesk.com/tech/2026/07/31/solana-foundation-s-new-ciso-warns-ai-is-making-crypto-scams-more-convincing",
+    "pubDate": "Sat, 01 Aug 2026 13:00:00 +0000",
+    "source": "CoinDesk",
+    "category": "both",
+    "content": "Michael Coates, the foundation’s new CISO, said that AI vulnerabilities and fake identities will drive the next wave of blockchain security concerns.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/42070a5fc4ab0ebbc0f2a9f758d87428aeab35b2-1152x648.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "Michael Coates, the Solana Foundation's new CISO, warns that AI is significantly increasing the sophistication of crypto scams. He predicts that AI vulnerabilities and fake identities will be the primary drivers of future blockchain security concerns.",
+    "importance": 8,
+    "classified": true
+  },
+  {
     "title": "Circle secures New York trust charter as crypto regulatory push accelerates",
     "link": "https://www.coindesk.com/policy/2026/07/31/circle-secures-new-york-trust-charter-as-crypto-regulatory-push-accelerates",
     "pubDate": "Fri, 31 Jul 2026 13:35:17 +0000",
@@ -128,42 +164,6 @@
     "content": "The firm’s board raised the sale cap to 4,375 ETH through Oct. 30, nearly 66% of June holdings, although 3,050 of its remaining ETH is pledged.",
     "image": "https://cdn.sanity.io/images/s3y3vcno/production/c706eaf5f9a67595db3c046eac1adbf03d440022-4000x2250.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
     "summary": "Quantum Solutions and Hyperscale Data are funding AI data centers by leveraging their crypto treasuries, specifically through the sale of Ethereum. The firm's board increased the ETH sale cap to 4,375 ETH through October 30, which represents nearly 66% of its June holdings, with a portion of the remaining ETH already pledged. This move highlights a notable intersection of cryptocurrency assets being used to finance artificial intelligence infrastructure.",
-    "importance": 8,
-    "classified": true
-  },
-  {
-    "title": "Major bitcoin wallet flaw drains $38 million worth of BTC in 25-minute sweep",
-    "link": "https://www.coindesk.com/tech/2026/07/31/major-bitcoin-wallet-flaw-drains-594-btc-in-25-minute-sweep",
-    "pubDate": "Fri, 31 Jul 2026 05:12:55 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "A hardware wallet randomness bug turned “impossible to guess” seeds into guessable ones, and $38 million is already gone.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/17e2199d1d92db776ca604acd66f78a2a5052896-1754x804.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "A hardware wallet flaw has been discovered, turning supposedly unguessable seeds into guessable ones, resulting in the theft of 594 BTC, valued at $38 million, in just 25 minutes. The bug is related to randomness in the wallet's seed generation. This exploit highlights a significant vulnerability in bitcoin storage security.",
-    "importance": 8,
-    "classified": true
-  },
-  {
-    "title": "Strategy books $8.2 billion Q2 loss on bitcoin price decline ",
-    "link": "https://www.coindesk.com/markets/2026/07/30/strategy-books-usd8-2-billion-second-quarter-loss-on-bitcoin-price-decline",
-    "pubDate": "Thu, 30 Jul 2026 20:32:13 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "The world's largest corporate bitcoin holder says it has built a cash reserve covering more than two years of dividend payments after investors questioned its growing stack of preferred securities.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/024d211d615916fbb53501cbb63dc60c856cab12-6000x3376.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "MicroStrategy, the world's largest corporate bitcoin holder, reported an $8.2 billion Q2 loss primarily due to a decline in bitcoin's price. Despite this significant loss, the company announced it has built a cash reserve sufficient to cover over two years of dividend payments, addressing investor concerns.",
-    "importance": 8,
-    "classified": true
-  },
-  {
-    "title": "Coinbase sinks 5% after missing second-quarter revenue estimates",
-    "link": "https://www.coindesk.com/markets/2026/07/30/coinbase-sinks-5-after-missing-q2-revenue-estimates",
-    "pubDate": "Thu, 30 Jul 2026 20:18:33 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "The company reported $1.22 billion in overall revenue, down from $1.5 billion in the year prior.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/868ae20c7c05b3aab1825f55f45b74a9484fd851-1920x1280.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "Coinbase's revenue for the second quarter was $1.22 billion, a decrease from $1.5 billion in the previous year, causing its stock to sink 5%. The company missed its revenue estimates for the quarter. This decline may impact investor confidence in the cryptocurrency market.",
     "importance": 8,
     "classified": true
   },
@@ -320,18 +320,6 @@
     "content": "The crypto exchange blamed softer spot trading and low volatility for the earnings miss while highlighting growth in derivatives, stablecoins and tokenized finance.",
     "image": "https://s3-images.ctmedia.io/media/article-covers/news-coin-coinbase.jpg",
     "summary": "Coinbase's Q2 profit missed estimates due to softer spot trading and low volatility, despite the company achieving a record crypto market share. The exchange saw growth in derivatives, stablecoins, and tokenized finance. This earnings miss may impact investor confidence in the crypto market.",
-    "importance": 8,
-    "classified": true
-  },
-  {
-    "title": "Senator Schumer proposes agency to address corruption, including Trump’s crypto ventures",
-    "link": "https://cointelegraph.com/news/senate-government-agency-donald-trump-cryptocurrency-ventures?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Thu, 30 Jul 2026 19:45:52 +0000",
-    "source": "Cointelegraph",
-    "category": "crypto",
-    "content": "The proposed legislation referenced US President Donald Trump’s disclosure of billions of dollars in crypto earnings in 2025, as well as his family’s business ties to foreign governments.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-law-on-promotion-of-crypto-us2.jpg",
-    "summary": "Senator Schumer has proposed legislation to address corruption, including Donald Trump's crypto ventures, citing his disclosure of billions in crypto earnings and family business ties to foreign governments. The proposal aims to tackle corruption and increase transparency. The legislation mentions Trump's crypto dealings in 2025.",
     "importance": 8,
     "classified": true
   },
@@ -900,6 +888,18 @@
     "classified": true
   },
   {
+    "title": "As Reddit stock falls, CEO questions value of Google's AI Overviews",
+    "link": "https://arstechnica.com/ai/2026/08/reddit-ceo-on-ai-overviews-were-still-looking-for-that-win-win/",
+    "pubDate": "Sat, 01 Aug 2026 12:30:36 +0000",
+    "source": "Ars Technica AI",
+    "category": "ai",
+    "content": "Reddit may still be considering ending its licensing deal with Google.",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2018/04/GettyImages-893877316-1152x648.jpg",
+    "summary": "Reddit's CEO is reportedly questioning the value of Google's AI Overviews, a development that could lead to the termination of their data licensing deal. This comes as Reddit's stock experiences a decline, highlighting potential disputes over content utilization by AI models and appropriate compensation.",
+    "importance": 8,
+    "classified": true
+  },
+  {
     "title": "Claude published malicious code to the Internet and attacked 3 real companies",
     "link": "https://arstechnica.com/security/2026/07/likely-illegally-claude-gained-access-to-3-networks-will-anthropic-be-held-to-account/",
     "pubDate": "Fri, 31 Jul 2026 20:39:14 +0000",
@@ -1140,6 +1140,18 @@
     "classified": true
   },
   {
+    "title": "Crypto PAC pours another $1M into Michigan House race",
+    "link": "https://cointelegraph.com/news/crypto-pac-michigan-thanedar-mckinney?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Sat, 01 Aug 2026 15:44:02 +0000",
+    "source": "Cointelegraph",
+    "category": "crypto",
+    "content": "Michigan incumbent Shri Thanedar’s re-election bid against other Democratic candidates is getting more about crypto with an infusion of ads funded by an industry-aligned PAC.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-crypto-industry-votes-us.png",
+    "summary": "A crypto-aligned Political Action Committee has contributed an additional $1 million to Michigan incumbent Shri Thanedar's re-election campaign. This significant funding infusion is increasingly shaping the Democratic primary race around cryptocurrency issues, highlighting the industry's growing political influence.",
+    "importance": 7,
+    "classified": true
+  },
+  {
     "title": "Bybit adds tokenized Nvidia, Apple, Tesla stocks as loan collateral",
     "link": "https://cointelegraph.com/news/bybit-tokenized-stocks-collateral-margin-loans?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "pubDate": "Fri, 31 Jul 2026 16:23:21 +0000",
@@ -1161,6 +1173,18 @@
     "image": "https://s3-images.ctmedia.io/media/article-covers/article-covers-33327-cameron-winklevoss-buy-btc-to-escape-negative-yield-bonds.jpg",
     "summary": "US Treasury yields are rising due to increased real yields, as indicated by TIPS data, rather than inflation. This dynamic negatively impacts non-yielding assets like Bitcoin.",
     "importance": 7,
+    "classified": true
+  },
+  {
+    "title": "Everyone has the perps convergence backwards",
+    "link": "https://www.coindesk.com/opinion/2026/08/01/everyone-has-the-perps-convergence-backwards",
+    "pubDate": "Sat, 01 Aug 2026 13:00:00 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "Crypto is said to be growing up to look like Wall Street. The evidence in its biggest market points the other way, argues Bitget CEO Gracy Chen.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/28d796f6c0ac99b44636786b2b5009012039420d-7000x3700.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "Bitget CEO Gracy Chen challenges the common notion that the crypto market is maturing to resemble Wall Street. She argues that evidence from crypto's largest market indicates the convergence is actually happening in the opposite direction, with traditional finance potentially moving towards crypto structures.",
+    "importance": 6,
     "classified": true
   },
   {
@@ -1512,18 +1536,6 @@
     "classified": true
   },
   {
-    "title": "“Google and Reddit do not own the Internet,\" web scraper says after court win",
-    "link": "https://arstechnica.com/tech-policy/2026/07/google-wont-give-up-odd-war-against-ai-web-scraping-despite-court-loss/",
-    "pubDate": "Mon, 27 Jul 2026 20:12:42 +0000",
-    "source": "Ars Technica AI",
-    "category": "ai",
-    "content": "Google's and Reddit's use of DMCA to fight web scraper is bizarre, expert says.",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2264310791-1152x648.jpg",
-    "summary": "A web scraper has won a court case against Google and Reddit, who attempted to use the DMCA to stop the scraper's activities. The case highlights the complexities of web scraping and copyright law. The outcome is seen as a significant development for the internet and data collection.",
-    "importance": 6,
-    "classified": true
-  },
-  {
     "title": "Bitcoin, ether fall, equities rally with broader crypto market on track for best month in a year",
     "link": "https://www.coindesk.com/markets/2026/07/31/bitcoin-ether-fall-equities-rally-with-broader-crypto-market-on-track-for-best-month-in-a-year",
     "pubDate": "Fri, 31 Jul 2026 11:07:52 +0000",
@@ -1568,18 +1580,6 @@
     "content": "Both retail and institutional traders worry about the funding rate.",
     "image": "https://cdn.sanity.io/images/s3y3vcno/production/e5935e0dfa2e7f85bd8761d8a1d6e4e8f1cce2c3-8192x5464.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
     "summary": "According to crypto traders, perpetual futures (\"perps\") have both advantages and disadvantages. A significant concern for both retail and institutional traders involved in perps is the associated funding rate.",
-    "importance": 3,
-    "classified": true
-  },
-  {
-    "title": "Bitcoin flat near $64,000 as Kospi's record 17% surge leaves crypto untouched",
-    "link": "https://www.coindesk.com/markets/2026/07/31/bitcoin-flat-near-usd64-000-as-kospi-s-record-17-surge-leaves-crypto-untouched",
-    "pubDate": "Fri, 31 Jul 2026 05:43:39 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "Samsung and SK Hynix both jumped more than 23%. Bitcoin moved a fraction of a percent in the past 24 hours, and most majors are still lower on the week.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/d1da7dc81bdeb62967c50f138ab1a3e5b4aea59f-4032x3024.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "Bitcoin remained flat near $64,000, showing minimal movement over the past 24 hours, even as the Kospi index experienced a significant 17% surge, primarily driven by gains in Samsung and SK Hynix. This stock market rally left the cryptocurrency market largely untouched, with most major digital assets still lower for the week.",
     "importance": 3,
     "classified": true
   },
