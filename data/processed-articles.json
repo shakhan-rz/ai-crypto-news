@@ -72,30 +72,6 @@
     "classified": true
   },
   {
-    "title": "Dubai-based crypto exchange tied to $4 billion Iran sanctioned-evasion network",
-    "link": "https://www.coindesk.com/business/2026/07/31/dubai-based-crypto-exchange-tied-to-usd4-billion-iran-sanctioned-evasion-network-reuters",
-    "pubDate": "Fri, 31 Jul 2026 12:28:02 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "Shelbit allegedly sent hundreds of millions of dollars to major crypto exchanges, including Binance, as it linked gambling sites and sanctioned Iranian entities to global crypto markets.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/9bc166a43d61272151ae89ff698586929d81a0b6-2084x1092.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "A Dubai-based crypto exchange named Shelbit is allegedly tied to a $4 billion network for evading Iranian sanctions. The firm reportedly sent hundreds of millions of dollars to major crypto exchanges like Binance, linking gambling sites and sanctioned Iranian entities to global crypto markets.",
-    "importance": 9,
-    "classified": true
-  },
-  {
-    "title": "U.S. sanctions Iran-linked bitcoin insurance scheme for Strait of Hormuz ships",
-    "link": "https://www.coindesk.com/policy/2026/07/31/u-s-sanctions-iran-linked-bitcoin-insurance-scheme-for-strait-of-hormuz-ships",
-    "pubDate": "Fri, 31 Jul 2026 11:58:33 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "The Treasury Department said the Hormuz Safe platform accepted bitcoin and other digital assets as part of an alleged sanctions workaround tied to IRGC-backed shipping controls.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/ea6e0ec4cd84026d0707ce39424079748bd5f9fb-3449x2300.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "The U.S. Treasury Department has sanctioned the \"Hormuz Safe\" platform, an alleged Iran-linked insurance scheme. This platform used Bitcoin and other digital assets as a workaround for sanctions tied to IRGC-backed shipping controls in the Strait of Hormuz.",
-    "importance": 9,
-    "classified": true
-  },
-  {
     "title": "Coldcard hack sparks biggest sub-1 BTC move since FTX: CryptoQuant",
     "link": "https://cointelegraph.com/news/coldcard-biggest-sub-1-btc-transfer-ftx-cryptoquant?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "pubDate": "Sun, 02 Aug 2026 08:07:00 +0000",
@@ -141,6 +117,18 @@
     "image": "https://www.tbstat.com/wp/uploads/2018/10/russian-flag-800x450.jpg",
     "summary": "Russia has issued a decree banning crypto mining across the Moscow region until 2032. This measure was taken due to concerns from regional energy officials that crypto mining consumes 1 GW of power, which could lead to future electricity shortages in the area.",
     "importance": 9,
+    "classified": true
+  },
+  {
+    "title": "The future of crypto payments won't include on-ramps or bridges, Fun CEO says",
+    "link": "https://www.coindesk.com/tech/2026/08/02/the-future-of-crypto-payments-won-t-include-on-ramps-or-bridges-fun-ceo-says",
+    "pubDate": "Sun, 02 Aug 2026 16:00:00 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "Alex Fine said standalone crypto payment rails are becoming obsolete as platforms shift toward unified funding flows that abstract away blockchain complexity for users.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/463ee8c8dbdfa6b99128660e3e64d57fcf21b9af-1920x1080.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "Alex Fine, CEO of Fun, predicts that the future of crypto payments will eliminate the need for traditional on-ramps and bridges. He states that standalone crypto payment rails are becoming obsolete as platforms transition to unified funding flows that abstract away blockchain complexity for users.",
+    "importance": 8,
     "classified": true
   },
   {
@@ -230,7 +218,7 @@
   {
     "title": "Russia expands crypto mining ban to Moscow through 2032",
     "link": "https://cointelegraph.com/news/russia-expands-crypto-mining-ban-moscow-2032?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Sat, 01 Aug 2026 10:23:41 +0000",
+    "pubDate": "Sat, 01 Aug 2026 10:30:00 +0000",
     "source": "Cointelegraph",
     "category": "crypto",
     "content": "Russia has added Moscow, the Moscow Region and parts of Kursk Region to its cryptocurrency mining ban list, citing power supply concerns behind the restrictions.",
@@ -332,6 +320,18 @@
     "content": "Coinkite urged Coldcard Mk3 users to migrate funds after identifying a potential seed-generation risk, as Bitcoin security experts separately examine an unexplained $38 million wallet drain.",
     "image": "https://s3-images.ctmedia.io/media/article-covers/thief-bitcoin.jpg",
     "summary": "Coinkite warned Coldcard Mk3 users to migrate funds due to a potential seed-generation risk, while Bitcoin security experts investigate an unexplained $38 million wallet drain. The incident highlights security concerns in the Bitcoin ecosystem. Users are advised to take precautions to protect their funds.",
+    "importance": 8,
+    "classified": true
+  },
+  {
+    "title": "Saylor hints at Strategy bitcoin buy after five-week pause as STRC rate stays at 12%: ‘Bitcoin Drive engaged’",
+    "link": "https://www.theblock.co/post/410370/saylor-hints-at-strategy-bitcoin-buy-after-five-week-pause-as-strc-rate-stays-at-12-bitcoin-drive-engaged?utm_source=rss&utm_medium=rss",
+    "pubDate": "Sun, 02 Aug 2026 14:10:43 -0400",
+    "source": "The Block",
+    "category": "crypto",
+    "content": "Strategy has gone five consecutive weeks without a disclosed bitcoin purchase; the firm last reported holding 843,775 BTC acquired for $63.69 billion.",
+    "image": "https://www.tbstat.com/wp/uploads/2025/06/20250603_MichaelSaylor_News-800x450.jpg",
+    "summary": "Michael Saylor of MicroStrategy has hinted at a new Bitcoin purchase, signaling an end to the firm's five-week pause in acquisitions. MicroStrategy currently holds 843,775 BTC, acquired for $63.69 billion.",
     "importance": 8,
     "classified": true
   },
@@ -452,18 +452,6 @@
     "content": "A stablecoin is a digital asset designed to maintain a steady value by pegging its price to another asset, most commonly a fiat currency like the U.S. dollar. Stablecoin reserve requirements are the rules determining the assets an issuer must hold to back up every stablecoin it puts into circulation.  Major jurisdictions with stablecoin reserve […]",
     "image": "https://www.tbstat.com/wp/uploads/2023/08/20230817_LearnCategory_Custody-1-800x450.jpg",
     "summary": "This article explains the concept of stablecoins and their reserve requirements, which are the rules that determine the assets an issuer must hold to back up every stablecoin in circulation. Stablecoins are digital assets designed to maintain a steady value by pegging their price to another asset, such as a fiat currency. The article aims to provide clarity on stablecoin reserve requirements in major jurisdictions.",
-    "importance": 8,
-    "classified": true
-  },
-  {
-    "title": "Stablecoins and Cross-Border Payments: How Digital Dollars Move Across Borders",
-    "link": "https://www.theblock.co/learn/410227/stablecoins-and-cross-border-payments?utm_source=rss&utm_medium=rss",
-    "pubDate": "Thu, 30 Jul 2026 21:53:33 -0400",
-    "source": "The Block",
-    "category": "crypto",
-    "content": "Stablecoins are a type of cryptocurrency designed to hold a fixed value against a reference currency, most commonly one U.S. dollar. Transferring stablecoins across countries is unlike transferring money through a bank: A sender converts their local currency into a stablecoin, sends it to the recipient’s blockchain address via a blockchain network, and the recipient […]",
-    "image": "https://www.tbstat.com/wp/uploads/2025/05/20250514_Tokenization-3-1200x675-1-800x450.jpg",
-    "summary": "Stablecoins, a type of cryptocurrency, are being used for cross-border payments, allowing for easy transfer of value across countries. This process involves converting local currency into a stablecoin and sending it to a recipient's blockchain address. The use of stablecoins for cross-border payments has the potential to disrupt traditional banking methods.",
     "importance": 8,
     "classified": true
   },
@@ -1032,6 +1020,18 @@
     "classified": true
   },
   {
+    "title": "Why a DeFi platform ditched its consumer app to become the secret backend for tech giants",
+    "link": "https://www.coindesk.com/web3/2026/08/02/why-a-defi-platform-ditched-its-consumer-app-to-become-the-secret-backend-for-tech-giants",
+    "pubDate": "Sun, 02 Aug 2026 17:00:00 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "Revenue fell from $80 million to $20 million in the bear market. OTC lending at $260 million outstanding is the fastest-growing line, targeting $1 billion by year-end.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/bfd770e38c8fc25420b61d080da050e9b05dd75e-1920x1280.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "A DeFi platform pivoted from its consumer app model to become an enterprise backend for tech giants, prompted by a substantial revenue decline during the bear market. Its primary growth driver is now OTC lending, which has $260 million outstanding and aims to reach $1 billion by year-end.",
+    "importance": 7,
+    "classified": true
+  },
+  {
     "title": "Tokenized stock trading surged 288% in July, but one QQQ token drove most of it",
     "link": "https://www.coindesk.com/markets/2026/08/01/tokenized-stock-trading-surged-288-in-july-but-one-qqq-token-drove-most-of-it",
     "pubDate": "Sat, 01 Aug 2026 16:51:35 +0000",
@@ -1188,6 +1188,18 @@
     "classified": true
   },
   {
+    "title": "Counting down the days: State of Crypto ",
+    "link": "https://www.coindesk.com/policy/2026/08/02/counting-down-the-days-state-of-crypto",
+    "pubDate": "Sun, 02 Aug 2026 18:30:00 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "The Senate is going on its summer break in a week, leaving next to no time left to sort out its remaining priorities in August. And obviously, the fate of Clarity is one of those priorities.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/39aef47b93f60ebf7e668e371d51320693bb79e3-3364x1894.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "The US Senate is nearing its summer recess with little time left to address outstanding priorities, including the fate of a crypto-related matter referred to as 'Clarity.' This legislative item is set against the backdrop of the 'State of Crypto' discussion.",
+    "importance": 6,
+    "classified": true
+  },
+  {
     "title": "Everyone has the perps convergence backwards",
     "link": "https://www.coindesk.com/opinion/2026/08/01/everyone-has-the-perps-convergence-backwards",
     "pubDate": "Sat, 01 Aug 2026 13:00:00 +0000",
@@ -1202,7 +1214,7 @@
   {
     "title": "Bitcoin ETFs end July in the green despite late-month selling",
     "link": "https://cointelegraph.com/markets/bitcoin-etfs-july-green-despite-late-month-selling?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Sat, 01 Aug 2026 07:23:07 +0000",
+    "pubDate": "Sat, 01 Aug 2026 07:25:00 +0000",
     "source": "Cointelegraph",
     "category": "crypto",
     "content": "Spot Bitcoin ETFs attracted $172.4 million in July inflows but remained $5.3 billion negative year to date after heavy withdrawals in May and June.",
@@ -1677,18 +1689,6 @@
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/Chrome-shield-1152x648.png",
     "summary": "Google Chrome's latest updates have included a significant number of patches, with the last two versions having more patches than the previous 23 combined. This could lead to faster updates with no restart required. The increased patch rate may improve browser security and performance.",
     "importance": 2,
-    "classified": true
-  },
-  {
-    "title": "World Cup bets smash records as prediction markets hit $20 billion in volume",
-    "link": "https://www.coindesk.com/markets/2026/07/31/world-cup-bets-smash-records-as-prediction-markets-hit-usd20-billion-in-volume",
-    "pubDate": "Fri, 31 Jul 2026 12:00:26 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "Markets ranged from the simple question of who would win the tournament to whether Cristiano Ronaldo would cry when Portugal were eliminated (he did).",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/32a69ea263f1f8d58c0bb85456d2b8b79327bae6-4673x2629.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "World Cup betting volumes reached unprecedented levels, driving prediction markets to a staggering $20 billion. These markets allowed participants to bet on a wide range of outcomes, from who would win the tournament to specific player events, like Cristiano Ronaldo's emotional reactions.",
-    "importance": 1,
     "classified": true
   },
   {
