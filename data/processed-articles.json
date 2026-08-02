@@ -144,6 +144,30 @@
     "classified": true
   },
   {
+    "title": "The reverse bridge: Crypto meets Wall Street using perps",
+    "link": "https://www.coindesk.com/business/2026/08/02/the-reverse-bridge-crypto-meets-wall-street-using-perps",
+    "pubDate": "Sun, 02 Aug 2026 13:00:00 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "Crypto exchanges built perpetual futures for digital assets. Now they are using them to offer 24/7 exposure to stocks, commodities and indexes.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/7eac92c55b377972de3017f48519c9d37c73a84a-862x598.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "Crypto exchanges are leveraging their existing perpetual futures products, originally built for digital assets, to now offer 24/7 exposure to traditional financial markets such as stocks, commodities, and indexes. This development creates a \"reverse bridge,\" bringing crypto-native derivatives functionality to traditional Wall Street assets.",
+    "importance": 8,
+    "classified": true
+  },
+  {
+    "title": "Unlike the FTX collapse, the $89 million Coldcard exploit has investors sending bitcoin back to exchanges",
+    "link": "https://www.coindesk.com/markets/2026/08/02/unlike-the-ftx-collapse-the-usd88-million-coldcard-exploit-has-investors-sending-bitcoin-back-to-exchanges",
+    "pubDate": "Sun, 02 Aug 2026 12:03:51 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "The Coldcard vulnerability has smaller bitcoin holders moving funds onto exchanges for safety, according to blockchain analytics firms. This is opposite of the trend seen following the FTX collapse in late 2022.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/ebab27428c42ef23eb3495a903cb473d0b2e540b-1600x900.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "An $89 million exploit linked to Coldcard has led smaller bitcoin holders to transfer their funds back to exchanges for safety. This trend is a reversal of the investor behavior seen after the FTX collapse, where many moved assets off exchanges.",
+    "importance": 8,
+    "classified": true
+  },
+  {
     "title": "Bitcoin mining difficulty shrinks 14% from this year's high as plunging revenues force operators to pivot",
     "link": "https://www.coindesk.com/business/2026/08/01/bitcoin-mining-difficulty-shrinks-14-from-this-year-s-high-as-plunging-revenues-force-operators-to-pivot",
     "pubDate": "Sat, 01 Aug 2026 15:51:10 +0000",
@@ -756,6 +780,18 @@
     "classified": true
   },
   {
+    "title": "Is paying artists enough to convince them to embrace AI?",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/974018/pippa-seedance-artist-royalties",
+    "pubDate": "2026-08-02T13:00:00.000Z",
+    "source": "The Verge AI",
+    "category": "ai",
+    "content": "Illustrators have spent years sounding the alarm about generative artificial intelligence startups training their models on artists' work without permission. They've pointed out how the practice is tantamount to theft, and in response, many gen AI boosters have argued that it's necessary for the technology's evolution. This has led to contentious legal battles, but it's also given rise to a new wave of AI startups like Pippa that market their services as being more ethical than the competition.\nLike most companies selling access to text-to-video models, Pippa's main product is short bursts of user-generated footage that can be cobbled toget …\nRead the full story at The Verge.",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Screenshot-2026-07-31-at-4.11.25-PM.png?quality=90&#038;strip=all&#038;crop=2.6881256103516,0,97.311874389648,100",
+    "summary": "The article addresses the ongoing ethical debate regarding generative AI models training on artists' work without permission, a practice artists often equate to theft. It highlights the resulting legal battles and the emergence of 'ethical' AI startups, such as Pippa, that aim to pay artists for their contributions. The central question explored is whether financial compensation will be enough to convince artists to embrace AI technology.",
+    "importance": 8,
+    "classified": true
+  },
+  {
     "title": "Google Earth&#8217;s AI deepfake tool only lasted one day",
     "link": "https://www.theverge.com/tech/973943/google-earth-ai-image-generation-deepfake-tool",
     "pubDate": "2026-07-31T19:13:29.000Z",
@@ -836,18 +872,6 @@
     "content": "A lot of content on LinkedIn might seem like AI slop, and now, you'll be able to report those posts. As part of a series of updates to reduce the volume of AI slop on the platform, LinkedIn is introducing an actual button that lets you flag a post as something that \"Seems like AI slop.\"\nThe new feature is part of a broader push to reduce the volume of apparent AI slop on the platform. AI detector Pangram recently found that 41 percent of longform LinkedIn posts were flagged as being completely generated by AI, as reported by 404Media.\n\"AI slop is a top priority for all of us,\" chief product officer Hari Srinivasan says in a post. \"We reall …\nRead the full story at The Verge.",
     "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/1785424232227.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
     "summary": "LinkedIn has introduced a new button to report posts that seem like they were generated by AI, as part of its efforts to reduce the volume of AI-generated content on the platform. According to AI detector Pangram, 41% of longform LinkedIn posts are completely generated by AI. This new feature aims to improve the user experience by reducing AI-generated content.",
-    "importance": 8,
-    "classified": true
-  },
-  {
-    "title": "Google DeepMind’s new AI model can control a robot’s entire body",
-    "link": "https://www.theverge.com/tech/973276/google-deepmind-gemini-robotics-2-whole-body",
-    "pubDate": "2026-07-30T17:18:45.000Z",
-    "source": "The Verge AI",
-    "category": "ai",
-    "content": "Apptronik’s Apollo 2 robot takes a baseball glove off of a shelf. | Image: Google\t\n\nGoogle DeepMind says the latest version of its Gemini Robotics AI model can \"control entire humanoid robots.\" While the previous model focused on controlling a humanoid robot's upper body, Gemini Robotics 2 now supports \"whole-body motions\" ranging from its feet to fingertips, according to an announcement on Thursday.\nThe new model will allow humanoid robots to perform a wider range of actions, as it allows them to walk, crouch, stretch, and manipulate objects. Videos shared by Google show how Apptronik's Apollo 2 robot can bend over to pick up a watering can, as well as find and take specific items off a shelf. \n\nThough Google DeepMind not …\nRead the full story at The Verge.",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gemini-robotics-2-shelf.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "summary": "Google DeepMind's new Gemini Robotics AI model can control a humanoid robot's entire body, enabling it to perform a wider range of actions such as walking and manipulating objects. The model supports whole-body motions and allows robots to interact with their environment in more complex ways. This advancement could lead to more sophisticated robotic capabilities.",
     "importance": 8,
     "classified": true
   },
@@ -1116,14 +1140,14 @@
     "classified": true
   },
   {
-    "title": "​Traders brace for an August crypto pull-back as protection against $60,000 bitcoin dip becomes top trade",
-    "link": "https://www.coindesk.com/daybook-us/2026/07/31/bitcoin-usd60-000-put-leads-the-pack-as-mood-swings-bearish-for-august",
-    "pubDate": "Fri, 31 Jul 2026 11:36:45 +0000",
-    "source": "CoinDesk",
+    "title": "BNB Chain pursues legal action after ex-employee’s memecoin launch",
+    "link": "https://cointelegraph.com/news/bnb-chain-legal-action-ex-employee-memecoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Sun, 02 Aug 2026 11:20:06 +0000",
+    "source": "Cointelegraph",
     "category": "crypto",
-    "content": "Your day-ahead look for July 31, 2026",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/3ca320c0730a76a824973a2dc7c675fa4bf6d736-6075x4050.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "Crypto traders are anticipating an August market pullback and are making protection against a potential Bitcoin dip to $60,000 their primary trade. This news provides a day-ahead look for July 31, 2026, focusing on prevalent market sentiment and strategies.",
+    "content": "BNB Chain said a former employee allegedly used a company tutorial wallet to create a memecoin that the company says it did not authorize or endorse.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-what-is-a-social-engineering-attack-bnb-chain.jpg",
+    "summary": "BNB Chain is pursuing legal action against a former employee who allegedly used a company tutorial wallet to launch an unauthorized memecoin. The company stated it did not endorse or authorize the memecoin's creation.",
     "importance": 7,
     "classified": true
   },
@@ -1292,18 +1316,6 @@
     "content": "Institutional investors accounted for 72% of Wintermute’s spot OTC flow in the first half of 2026 as capital clustered in fewer tokens and altcoin rallies became more selective.",
     "image": "https://s3-images.ctmedia.io/media/article-covers/hi-has-the-new-altseason-begun-1.jpg",
     "summary": "Institutional investors dominated Wintermute's spot OTC flow in the first half of 2026, accounting for 72% of the flow, with capital focusing on fewer tokens and altcoin rallies becoming more selective. This trend may indicate a more limited altseason, with fewer winning tokens. Wintermute's data suggests a shift in investor behavior.",
-    "importance": 6,
-    "classified": true
-  },
-  {
-    "title": "US senators sent revised ethics rules to White House for CLARITY Act: Report",
-    "link": "https://cointelegraph.com/news/us-senators-revised-ethics-rules-white-house-clarity-act?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Thu, 30 Jul 2026 21:54:38 +0000",
-    "source": "Cointelegraph",
-    "category": "crypto",
-    "content": "The window to pass a comprehensive crypto market structure bill before the Senate breaks for a month-long recess is closing, with ethics a dividing issue for many lawmakers.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/white-house-crypto3.jpg",
-    "summary": "US Senators have sent revised ethics rules to the White House for the CLARITY Act, as the window to pass a comprehensive crypto market structure bill is closing. The bill is being held up by disagreements over ethics. A month-long Senate recess is impending.",
     "importance": 6,
     "classified": true
   },
@@ -1536,14 +1548,14 @@
     "classified": true
   },
   {
-    "title": "Bitcoin, ether fall, equities rally with broader crypto market on track for best month in a year",
-    "link": "https://www.coindesk.com/markets/2026/07/31/bitcoin-ether-fall-equities-rally-with-broader-crypto-market-on-track-for-best-month-in-a-year",
-    "pubDate": "Fri, 31 Jul 2026 11:07:52 +0000",
-    "source": "CoinDesk",
+    "title": "Here’s what happened in crypto today",
+    "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Sun, 02 Aug 2026 11:56:35 +0000",
+    "source": "Cointelegraph",
     "category": "crypto",
-    "content": "BTC fell as July drew to a close, even as stocks gained in Asia and U.S. index futures advanced. The CoinDesk 20 index is set to post its biggest gain since July 2025.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/03fd18d91d0256863aca046dd26ae81faeb58698-1892x1064.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "Bitcoin and ether experienced a fall at the close of July, contrasting with gains in global stock markets. Despite this, the broader crypto market, as measured by the CoinDesk 20 index, is poised to record its most significant monthly gain since July 2025 (likely a typo for a past year).",
+    "content": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg",
+    "summary": "The article provides a daily roundup of the latest news affecting the cryptocurrency market, covering topics such as Bitcoin price movements, blockchain developments, DeFi, Web3, and regulatory updates. It serves as a quick guide to current trends and events in the crypto space.",
     "importance": 4,
     "classified": true
   },
@@ -1556,18 +1568,6 @@
     "content": "Trump Media transferred another 2,628 Bitcoin to Crypto.com, bringing its reported sales over seven months to 7,281 BTC and leaving the company with 4,261 BTC in holdings.",
     "image": "https://s3-images.ctmedia.io/media/article-covers/hi-trump-on-bitcoin.jpg",
     "summary": "Trump Media has reportedly sold another 2,628 Bitcoin to Crypto.com, bringing its total BTC sales over the past seven months to 7,281. Following this latest transaction, the company's remaining Bitcoin holdings now stand at 4,261 BTC.",
-    "importance": 4,
-    "classified": true
-  },
-  {
-    "title": "Here’s what happened in crypto today",
-    "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Fri, 31 Jul 2026 18:09:51 +0000",
-    "source": "Cointelegraph",
-    "category": "crypto",
-    "content": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg",
-    "summary": "The article provides a daily roundup of the latest news affecting the cryptocurrency market, covering topics such as Bitcoin price movements, blockchain developments, DeFi, Web3, and regulatory updates. It serves as a quick guide to current trends and events in the crypto space.",
     "importance": 4,
     "classified": true
   },
