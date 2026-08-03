@@ -72,7 +72,7 @@
     "classified": true
   },
   {
-    "title": "Suspected 4th Coldcard attack wave sweeps 389 Bitcoin: Galaxy’s Thorn",
+    "title": "Suspected 4th Coldcard attack wave sweeps 448 Bitcoin: Galaxy’s Thorn",
     "link": "https://cointelegraph.com/news/suspected-4th-coldcard-attack-wave-sweeps-389-bitcoin-galaxys-thorn?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "pubDate": "Mon, 03 Aug 2026 01:57:40 +0000",
     "source": "Cointelegraph",
@@ -192,26 +192,14 @@
     "classified": true
   },
   {
-    "title": "Circle secures New York trust charter as crypto regulatory push accelerates",
-    "link": "https://www.coindesk.com/policy/2026/07/31/circle-secures-new-york-trust-charter-as-crypto-regulatory-push-accelerates",
-    "pubDate": "Fri, 31 Jul 2026 13:35:17 +0000",
-    "source": "CoinDesk",
+    "title": "Coldcard’s 5-year flaw reveals hardware wallet testing gap: Kraken’s security chief",
+    "link": "https://cointelegraph.com/news/coldcards-5-year-flaw-reveals-hardware-wallet-testing-gap-krakens-security-chief?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Mon, 03 Aug 2026 04:09:44 +0000",
+    "source": "Cointelegraph",
     "category": "crypto",
-    "content": "The approval lets the USDC issuer offer fiduciary and custody services under New York banking law.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/c2139b7674a59fe930af251fac55d7854178a153-5472x3648.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "Circle, the issuer of the USDC stablecoin, has secured a New York trust charter. This approval allows the company to offer fiduciary and custody services under New York banking law, aligning with the accelerating push for crypto regulation.",
-    "importance": 8,
-    "classified": true
-  },
-  {
-    "title": "RWA perps will outpace tokenization",
-    "link": "https://www.coindesk.com/opinion/2026/07/31/rwa-perps-will-outpace-tokenization",
-    "pubDate": "Fri, 31 Jul 2026 13:00:00 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "Tokenization was crypto's first big export to TradFi. Perps are next, says Martin Lee, markets insight lead at DWF labs.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/81ec8c6cf32b1ab496743941c1f77e7361545eaa-7517x5012.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "Martin Lee of DWF Labs predicts that Real-World Asset (RWA) perpetual contracts will outpace tokenization as crypto's next significant export to traditional finance. While tokenization marked crypto's initial success in bridging to TradFi, Lee believes perps will be the subsequent, more impactful trend.",
+    "content": "The five-year bug escaped detection because auditors verified that the intended random number generator existed, but not that it was being called.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-bitcoin-wallets-btc-wallet-inaccessible.jpg",
+    "summary": "A 5-year flaw in Coldcard's hardware wallet went undetected because auditors only verified the existence of a random number generator, not its actual use. This gap in testing was revealed by Kraken's security chief. The bug's discovery highlights the need for more thorough testing of hardware wallets.",
     "importance": 8,
     "classified": true
   },
@@ -300,38 +288,26 @@
     "classified": true
   },
   {
-    "title": "Aave weighs closing 6 V3 blockchain markets, offboarding 50 low-use reserves",
-    "link": "https://cointelegraph.com/news/aave-weighs-closing-6-v3-blockchain-markets-offboarding-50-low-use-reserves?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Fri, 31 Jul 2026 08:57:53 +0000",
-    "source": "Cointelegraph",
+    "title": "Kalshi and Polymarket’s combined volume reaches all-time high in July, surpassing $50 billion",
+    "link": "https://www.theblock.co/post/410382/kalshi-polymarket-volume-july?utm_source=rss&utm_medium=rss",
+    "pubDate": "Mon, 03 Aug 2026 00:34:46 -0400",
+    "source": "The Block",
     "category": "crypto",
-    "content": "DeFi risk management service LlamaRisk recommended that Aave wind down every reserve on Sonic, Scroll, zkSync, Metis, Soneium and Aptos, but action against most of those instances was already taken.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-aave-survived-845b-in-withdrawals-but-the-risk-debate-is-not-over.jpg",
-    "summary": "Aave is considering closing 6 V3 blockchain markets and offboarding 50 low-use reserves, as recommended by DeFi risk management service LlamaRisk. The move aims to manage risk and has already been partially implemented on some platforms. This decision may impact the liquidity and functionality of Aave's services on these blockchains.",
+    "content": "Notably, Polymarket US's volume rose 54% while the main Polymarket platform's volume fell 26% compared to June.",
+    "image": "https://www.tbstat.com/wp/uploads/2026/01/20260120_Prediction-Markets_News_2-800x450.jpg",
+    "summary": "The combined volume of Kalshi and Polymarket reached an all-time high in July, surpassing $50 billion. Polymarket US's volume saw a significant increase of 54%, while the main platform's volume decreased by 26% compared to June. This milestone highlights the growing interest in these platforms.",
     "importance": 8,
     "classified": true
   },
   {
-    "title": "RWA perpetual futures volume nears Bitcoin on Hyperliquid, Binance",
-    "link": "https://cointelegraph.com/markets/rwa-perpetual-futures-bitcoin-hyperliquid-binance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Fri, 31 Jul 2026 08:29:51 +0000",
-    "source": "Cointelegraph",
+    "title": "Hong Kong police flag $3.3 million romance scam involving fake crypto app",
+    "link": "https://www.theblock.co/post/410377/hong-kong-3-million-crypto-romance-scam?utm_source=rss&utm_medium=rss",
+    "pubDate": "Sun, 02 Aug 2026 23:42:16 -0400",
+    "source": "The Block",
     "category": "crypto",
-    "content": "RWA perpetual futures reached 99.2% of Bitcoin perpetual volume on Hyperliquid and Binance as tokenized equities led trading.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-how-to-tokenize-real-world-assets-on-bitcoin-1.jpg",
-    "summary": "RWA perpetual futures have reached 99.2% of Bitcoin perpetual volume on Hyperliquid and Binance, with tokenized equities leading trading. This surge in volume indicates a growing interest in non-traditional assets. The high volume suggests a significant shift in market dynamics.",
-    "importance": 8,
-    "classified": true
-  },
-  {
-    "title": "Bitcoin ETFs post $233M inflows, pushing week back into the green",
-    "link": "https://cointelegraph.com/markets/bitcoin-etfs-inflows-week-back-green?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Fri, 31 Jul 2026 06:46:23 +0000",
-    "source": "Cointelegraph",
-    "category": "crypto",
-    "content": "BlackRock’s IBIT led $233.1 million in daily inflows as US spot Bitcoin ETFs turned positive for the week and July stayed on track to end in the green.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/btc-etf-waiting-2.png",
-    "summary": "Bitcoin ETFs have seen a significant influx of $233 million, led by BlackRock's IBIT, turning the week's performance positive and putting July on track to end in the green. This surge in investment indicates growing interest in Bitcoin-based exchange-traded funds. The influx is a notable development for the cryptocurrency market.",
+    "content": "Hong Kong police reported that an insurance agent lost more than $3.3 million after being lured into a fake crypto investment scheme.",
+    "image": "https://www.tbstat.com/wp/uploads/2023/12/20231114_HongKong_News2-800x450.jpg",
+    "summary": "A Hong Kong insurance agent lost over $3.3 million in a romance scam involving a fake cryptocurrency investment app. The scam was reported to the police, who are now investigating the incident. The victim was lured into the scheme through a fake online relationship.",
     "importance": 8,
     "classified": true
   },
@@ -452,18 +428,6 @@
     "content": "Recent financial disclosures showed that Trump made hundreds of millions of dollars in crypto-related income.",
     "image": "https://www.tbstat.com/wp/uploads/2025/04/20250414_Trump_News_2-800x450.jpg",
     "summary": "Senate Democrats have proposed an anti-corruption bureau, which comes as former President Trump's crypto portfolio is under increased scrutiny after disclosures showed he made hundreds of millions in crypto-related income. This development may impact the crypto industry. The proposal aims to address corruption concerns.",
-    "importance": 8,
-    "classified": true
-  },
-  {
-    "title": "‘Funds may be at risk’: Coinkite issues warning for Coldcard Mk3 users amid 594 BTC theft reports",
-    "link": "https://www.theblock.co/post/410235/coinkite-coldcard-mk3-warning?utm_source=rss&utm_medium=rss",
-    "pubDate": "Thu, 30 Jul 2026 22:56:53 -0400",
-    "source": "The Block",
-    "category": "crypto",
-    "content": "Coinkite recommends that Mk3 users create a strong, unique BIP-39 passphrase on the device and move funds to the resulting wallet.",
-    "image": "https://www.tbstat.com/wp/uploads/2022/11/20221129_Hack-Exploit-3-800x450.jpg",
-    "summary": "Coinkite has issued a warning to Coldcard Mk3 users due to reports of 594 BTC theft, advising them to create a strong BIP-39 passphrase and move funds to a new wallet. This is a precautionary measure to protect user funds. The company is taking steps to address the issue.",
     "importance": 8,
     "classified": true
   },
@@ -1020,6 +984,30 @@
     "classified": true
   },
   {
+    "title": "Trump Media’s bitcoin stash may be down to loan collateral after $165 million BTC move",
+    "link": "https://www.coindesk.com/markets/2026/08/03/trump-media-s-bitcoin-stash-may-be-down-to-loan-collateral-after-usd165-million-btc-move",
+    "pubDate": "Mon, 03 Aug 2026 05:52:29 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "Wallets tied to the Truth Social parent now hold about as much bitcoin as the company previously pledged as note collateral, making its next 10-Q the key test of whether recent Crypto.com transfers were custody moves or sales.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/841ac31fb4e72ea7f68c4ff1293a8c535f8c28c0-510x287.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "Wallets tied to Trump Media, the parent company of Truth Social, now hold significantly less Bitcoin, potentially matching only the amount previously pledged as loan collateral. The upcoming 10-Q filing will clarify whether recent large transfers from Crypto.com were custody moves or actual sales of its Bitcoin assets.",
+    "importance": 7,
+    "classified": true
+  },
+  {
+    "title": "Michael Saylor’s Strategy is now tracking bitcoin’s 200-week moving average",
+    "link": "https://www.coindesk.com/markets/2026/08/03/michael-saylor-s-strategy-is-now-tracking-bitcoin-s-200-week-moving-average",
+    "pubDate": "Mon, 03 Aug 2026 05:07:49 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "Michael Saylor’s company, Strategy, is now closely monitoring bitcoin’s 200-week moving average, a key long-term support level that the cryptocurrency has historically respected.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/a69310de795892b6f936291acde8ee7358171cea-1536x651.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "Michael Saylor's company, Strategy, is now closely monitoring Bitcoin's 200-week moving average. This metric is a historically significant long-term support level for the cryptocurrency.",
+    "importance": 7,
+    "classified": true
+  },
+  {
     "title": "Why a DeFi platform ditched its consumer app to become the secret backend for tech giants",
     "link": "https://www.coindesk.com/web3/2026/08/02/why-a-defi-platform-ditched-its-consumer-app-to-become-the-secret-backend-for-tech-giants",
     "pubDate": "Sun, 02 Aug 2026 17:00:00 +0000",
@@ -1104,14 +1092,14 @@
     "classified": true
   },
   {
-    "title": "Coinbase's weak quarter leaves Wall Street split on timing of a recovery",
-    "link": "https://www.coindesk.com/markets/2026/07/31/coinbase-s-weak-quarter-leaves-wall-street-split-on-timing-of-a-recovery",
-    "pubDate": "Fri, 31 Jul 2026 13:20:45 +0000",
-    "source": "CoinDesk",
+    "title": "Bitcoin hits $62K while Coinbase premium hits 77-day negative streak",
+    "link": "https://cointelegraph.com/markets/bitcoin-hits-62k-while-coinbase-premium-hits-77-day-negative-streak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Mon, 03 Aug 2026 05:58:00 +0000",
+    "source": "Cointelegraph",
     "category": "crypto",
-    "content": "Most analysts blamed a weak crypto market for Coinbase's earnings miss, though opinions diverged on when trading activity will recover.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/f8d7504a44461e3168672f5739292318dd792954-5749x3832.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "Coinbase reported a weak quarter, with most analysts attributing its earnings miss to a struggling crypto market. Opinions are divided among Wall Street analysts regarding the timing of a recovery in crypto trading activity.",
+    "content": "The persistent discount suggests US spot buyers have remained less aggressive than overseas traders even as US Bitcoin ETF inflows turned positive in July.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-crypto-trading-basics-a-beginners-guide-to-cryptocurrency-order-types1-3.jpg",
+    "summary": "Bitcoin reached $62,000, however, Coinbase's premium has registered a 77-day negative streak, suggesting that US spot buyers are less aggressive than international traders. This persistent discount comes even as US Bitcoin ETF inflows turned positive in July.",
     "importance": 7,
     "classified": true
   },
@@ -1188,6 +1176,18 @@
     "classified": true
   },
   {
+    "title": "Bitcoin slips under $63,000 despite Iran deal hopes as Coldcard losses rattle market",
+    "link": "https://www.coindesk.com/markets/2026/08/03/bitcoin-slips-under-usd63-000-despite-iran-deal-hopes-as-coldcard-losses-rattle-market",
+    "pubDate": "Mon, 03 Aug 2026 06:15:38 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "Oil and Treasury yields fell after fresh U.S.-Iran talks eased inflation fears, but bitcoin and ether failed to catch a bid as fresh Coldcard-linked sweeps pushed observed losses to nearly $89 million.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/0488b788c19848f57da6b37663dd081d8da75980-2944x1456.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "Bitcoin's price has dropped below $63,000 despite hopes of a US-Iran deal, as losses from Coldcard have shaken the market. Oil and Treasury yields also fell due to eased inflation fears, but bitcoin and ether prices did not increase. The Coldcard-linked losses have reached nearly $89 million.",
+    "importance": 6,
+    "classified": true
+  },
+  {
     "title": "Counting down the days: State of Crypto ",
     "link": "https://www.coindesk.com/policy/2026/08/02/counting-down-the-days-state-of-crypto",
     "pubDate": "Sun, 02 Aug 2026 18:30:00 +0000",
@@ -1208,6 +1208,18 @@
     "content": "Crypto is said to be growing up to look like Wall Street. The evidence in its biggest market points the other way, argues Bitget CEO Gracy Chen.",
     "image": "https://cdn.sanity.io/images/s3y3vcno/production/28d796f6c0ac99b44636786b2b5009012039420d-7000x3700.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
     "summary": "Bitget CEO Gracy Chen challenges the common notion that the crypto market is maturing to resemble Wall Street. She argues that evidence from crypto's largest market indicates the convergence is actually happening in the opposite direction, with traditional finance potentially moving towards crypto structures.",
+    "importance": 6,
+    "classified": true
+  },
+  {
+    "title": "South Korean stablecoin outflows top $367M in June: Report ",
+    "link": "https://cointelegraph.com/news/south-korea-stablecoin-outflows-overseas-exchanges?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Mon, 03 Aug 2026 04:05:11 +0000",
+    "source": "Cointelegraph",
+    "category": "crypto",
+    "content": "Stablecoins have been flowing out of South Korean exchanges for 18 consecutive months as regulators weigh tighter oversight of cross-border crypto activity.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/lost-bitcoins-crypto-hack-hacking-falling-jeans-south-korea.png",
+    "summary": "Stablecoin outflows from South Korean exchanges have exceeded $367 million in June, marking 18 consecutive months of outflows amid potential regulatory oversight. Regulators are considering tighter control over cross-border crypto activity. This trend may impact the country's crypto market.",
     "importance": 6,
     "classified": true
   },
@@ -1616,18 +1628,6 @@
     "content": "World Cup betting activity peaked around major knockout matches, with markets ranging from match outcomes to player-specific outcomes.",
     "image": "https://www.tbstat.com/wp/uploads/2022/11/20221129_World-Cup-2-800x450.jpg",
     "summary": "World Cup 2026 prediction markets have reached over $20 billion, with significant betting activity around major knockout matches and player-specific outcomes. The markets include wagers on match outcomes and specific events, such as Ronaldo's performance. This surge in betting activity is notable for its scale and variety of markets.",
-    "importance": 2,
-    "classified": true
-  },
-  {
-    "title": "New York sues Kalshi over illegal gambling claims, seeks $36 billion in damages",
-    "link": "https://www.theblock.co/post/410247/new-york-sues-kalshi?utm_source=rss&utm_medium=rss",
-    "pubDate": "Fri, 31 Jul 2026 03:34:48 -0400",
-    "source": "The Block",
-    "category": "crypto",
-    "content": "New York State is seeking at least $36 billion in compensatory damages from Kalshi, pending a full accounting.",
-    "image": "https://www.tbstat.com/wp/uploads/2025/09/20250917_Kalshi_News-800x450.jpg",
-    "summary": "New York State is suing Kalshi for alleged illegal gambling, seeking at least $36 billion in damages. The lawsuit is pending a full accounting. Kalshi's business model is being scrutinized by the state.",
     "importance": 2,
     "classified": true
   },
