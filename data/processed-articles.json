@@ -36,15 +36,15 @@
     "classified": true
   },
   {
-    "title": "Coldcard hack sparks biggest sub-1 BTC move since FTX: CryptoQuant",
-    "link": "https://cointelegraph.com/news/coldcard-biggest-sub-1-btc-transfer-ftx-cryptoquant?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Sun, 02 Aug 2026 08:07:00 +0000",
-    "source": "Cointelegraph",
+    "title": "A new Solana proposal would take daily SOL burns from $47,000 to $650,000",
+    "link": "https://www.coindesk.com/tech/2026/08/04/a-new-solana-proposal-would-take-daily-sol-burns-from-usd47-000-to-usd650-000",
+    "pubDate": "Tue, 04 Aug 2026 05:39:18 +0000",
+    "source": "CoinDesk",
     "category": "crypto",
-    "content": "Bitcoin users moved 39,600 BTC in small transactions as the Coldcard hack continued, with researchers warning that the attack remained active.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-what-is-segwit-explained2-1.jpg",
-    "summary": "The ongoing Coldcard hardware wallet hack has triggered the movement of 39,600 BTC in small transactions, marking the largest sub-1 BTC transfer since the FTX collapse. Researchers have issued warnings that the attack remains active, indicating continued security concerns for users.",
-    "importance": 9,
+    "content": "SGP-0003 bundles a fee overhaul with a doubling of the disinflation rate. It needs 40 million more SOL of validator support in two weeks to reach a vote.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/2e14ef9e0ece47068da06c0d0405ba1e13c15bd8-3904x2196.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "A new Solana proposal, SGP-0003, aims to significantly increase daily SOL burns from $47,000 to $650,000. This plan involves a fee overhaul and a doubled disinflation rate. The proposal requires an additional 40 million SOL in validator support within two weeks to proceed to a vote.",
+    "importance": 8,
     "classified": true
   },
   {
@@ -132,38 +132,50 @@
     "classified": true
   },
   {
-    "title": "The future of crypto payments won't include on-ramps or bridges, Fun CEO says",
-    "link": "https://www.coindesk.com/tech/2026/08/02/the-future-of-crypto-payments-won-t-include-on-ramps-or-bridges-fun-ceo-says",
-    "pubDate": "Sun, 02 Aug 2026 16:00:00 +0000",
-    "source": "CoinDesk",
+    "title": "Coldcard Bitcoin theft tops $100M across 3 confirmed attack waves: Galaxy",
+    "link": "https://cointelegraph.com/news/coldcard-bitcoin-theft-100-million-three-waves?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Tue, 04 Aug 2026 04:47:13 +0000",
+    "source": "Cointelegraph",
     "category": "crypto",
-    "content": "Alex Fine said standalone crypto payment rails are becoming obsolete as platforms shift toward unified funding flows that abstract away blockchain complexity for users.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/463ee8c8dbdfa6b99128660e3e64d57fcf21b9af-1920x1080.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "Alex Fine, CEO of Fun, predicts that the future of crypto payments will eliminate the need for traditional on-ramps and bridges. He states that standalone crypto payment rails are becoming obsolete as platforms transition to unified funding flows that abstract away blockchain complexity for users.",
+    "content": "Galaxy Research said 90% of the stolen Bitcoin remains unmoved as investigators examine a suspected fourth wave that could lift losses to $130 million.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/hand-coin-laptop-hack-bitcoin.png",
+    "summary": "According to Galaxy Research, there have been three confirmed attack waves on Coldcard Bitcoin, resulting in over $100 million in losses, with 90% of the stolen Bitcoin remaining unmoved. Investigators are examining a possible fourth wave, which could increase losses to $130 million. The attacks highlight a significant security vulnerability in the system.",
     "importance": 8,
     "classified": true
   },
   {
-    "title": "The reverse bridge: Crypto meets Wall Street using perps",
-    "link": "https://www.coindesk.com/business/2026/08/02/the-reverse-bridge-crypto-meets-wall-street-using-perps",
-    "pubDate": "Sun, 02 Aug 2026 13:00:00 +0000",
-    "source": "CoinDesk",
+    "title": "Bitmine adds $19.6M in ETH, repurchases 4.5M shares",
+    "link": "https://cointelegraph.com/news/bitmine-buys-10399-eth-repurchases-4-5-million-shares?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Tue, 04 Aug 2026 03:52:56 +0000",
+    "source": "Cointelegraph",
     "category": "crypto",
-    "content": "Crypto exchanges built perpetual futures for digital assets. Now they are using them to offer 24/7 exposure to stocks, commodities and indexes.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/7eac92c55b377972de3017f48519c9d37c73a84a-862x598.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "Crypto exchanges are leveraging their existing perpetual futures products, originally built for digital assets, to now offer 24/7 exposure to traditional financial markets such as stocks, commodities, and indexes. This development creates a \"reverse bridge,\" bringing crypto-native derivatives functionality to traditional Wall Street assets.",
+    "content": "Bitmine said it now holds about 4.8% of Ether’s circulating supply as it pursues its 5% acquisition target.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-company-buys-ethereum-expands-treasury-to-thousands-eth-1.png",
+    "summary": "Bitmine has acquired $19.6M in ETH, now holding about 4.8% of Ether's circulating supply, and has repurchased 4.5M shares as it works towards its 5% acquisition target. This move indicates a significant investment in Ethereum. The company's actions may impact the crypto market.",
     "importance": 8,
     "classified": true
   },
   {
-    "title": "Unlike the FTX collapse, the $89 million Coldcard exploit has investors sending bitcoin back to exchanges",
-    "link": "https://www.coindesk.com/markets/2026/08/02/unlike-the-ftx-collapse-the-usd88-million-coldcard-exploit-has-investors-sending-bitcoin-back-to-exchanges",
-    "pubDate": "Sun, 02 Aug 2026 12:03:51 +0000",
-    "source": "CoinDesk",
+    "title": "Mastercard completes $1.8B BVNK acquisition in stablecoin push",
+    "link": "https://cointelegraph.com/news/mastercard-completes-bvnk-acquisition-stablecoin-push?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Tue, 04 Aug 2026 02:58:51 +0000",
+    "source": "Cointelegraph",
+    "category": "both",
+    "content": "Mastercard said the tie-up would help banks, fintechs and enterprises expand stablecoin payments, payouts, settlement and treasury services.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-sofi-and-mastercard-move-stablecoin-settlement-into-global-network.png",
+    "summary": "Mastercard has completed its $1.8B acquisition of BVNK to enhance its stablecoin capabilities, allowing banks and fintechs to expand their stablecoin services. This move is expected to improve stablecoin payments, payouts, and settlement services. The acquisition aims to promote the growth of stablecoin adoption.",
+    "importance": 8,
+    "classified": true
+  },
+  {
+    "title": "Malaysia Blockchain Week’s OnlyFans scandal, lonely heart scammed for $3.3M: Asia Express",
+    "link": "https://cointelegraph.com/magazine/hong-kong-lonely-heart-scammed-out-of-33m-in-crypto-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Tue, 04 Aug 2026 02:03:26 +0000",
+    "source": "Cointelegraph",
     "category": "crypto",
-    "content": "The Coldcard vulnerability has smaller bitcoin holders moving funds onto exchanges for safety, according to blockchain analytics firms. This is opposite of the trend seen following the FTX collapse in late 2022.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/ebab27428c42ef23eb3495a903cb473d0b2e540b-1600x900.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "An $89 million exploit linked to Coldcard has led smaller bitcoin holders to transfer their funds back to exchanges for safety. This trend is a reversal of the investor behavior seen after the FTX collapse, where many moved assets off exchanges.",
+    "content": "Fake romance crypto investment scams net $9 million in a single week in Hong Kong, as Malaysian authorities lose it over a crypto conference’s after-party.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/asia-express-7.jpg",
+    "summary": "A fake romance crypto investment scam in Hong Kong resulted in $9 million in losses in one week, while Malaysian authorities are dealing with a controversy over an after-party at a crypto conference. The conference, Malaysia Blockchain Week, has been marred by a scandal involving OnlyFans. A lonely heart was scammed for $3.3M in a separate incident.",
     "importance": 8,
     "classified": true
   },
@@ -288,14 +300,26 @@
     "classified": true
   },
   {
-    "title": "Minnesota crypto ATM ban goes into effect after reported $1M losses",
-    "link": "https://cointelegraph.com/news/minnesota-crypto-atm-ban-losses-scams?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Sat, 01 Aug 2026 18:09:00 +0000",
-    "source": "Cointelegraph",
+    "title": "NEAR co-founder proposes protocol sovereign fund for long-term sustainability",
+    "link": "https://www.theblock.co/post/410528/near-protocol-sovereign-fund?utm_source=rss&utm_medium=rss",
+    "pubDate": "Tue, 04 Aug 2026 00:32:28 -0400",
+    "source": "The Block",
     "category": "crypto",
-    "content": "State officials reported that Minnesota residents, and largely senior citizens, had lost about $1 million from scams tied to crypto kiosks from 2023 to 2025.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-crypto-atm-ban.png",
-    "summary": "Minnesota has implemented a ban on crypto ATMs after state officials reported approximately $1 million in losses from scams tied to these kiosks. A significant portion of these losses affected senior citizens between 2023 and 2025.",
+    "content": "The concept draws from sovereign wealth funds in places like Norway and Singapore, as well as university endowments.",
+    "image": "https://www.tbstat.com/wp/uploads/2022/08/20220808_NEAR-Protocol-1-800x450.jpg",
+    "summary": "NEAR co-founder has proposed a protocol sovereign fund to ensure long-term sustainability, drawing inspiration from existing sovereign wealth funds and university endowments. This concept aims to provide a stable financial foundation for the protocol. The proposal is significant for the blockchain community.",
+    "importance": 8,
+    "classified": true
+  },
+  {
+    "title": "Mastercard completes BVNK acquisition to expand stablecoin payments infrastructure",
+    "link": "https://www.theblock.co/post/410521/mastercard-completes-bvnk-acquisition?utm_source=rss&utm_medium=rss",
+    "pubDate": "Mon, 03 Aug 2026 23:34:53 -0400",
+    "source": "The Block",
+    "category": "crypto",
+    "content": "Mastercard said it will leverage BVNK's expertise to help enterprises scale use cases involving stablecoins and tokenized assets.",
+    "image": "https://www.tbstat.com/wp/uploads/2019/07/mastercard-card-2-800x450.jpg",
+    "summary": "Mastercard has completed its acquisition of BVNK to expand its stablecoin payments infrastructure, leveraging BVNK's expertise to help enterprises scale use cases involving stablecoins and tokenized assets. This move aims to enhance Mastercard's capabilities in the digital asset space. The acquisition is expected to benefit the growth of stablecoin payments.",
     "importance": 8,
     "classified": true
   },
@@ -428,18 +452,6 @@
     "content": "CME is arguing that the contracts are commodity option swaps subject exclusively to the CFTC's oversight rather than the SEC's.",
     "image": "https://www.tbstat.com/wp/uploads/2025/04/20250414_SEC_News_2-800x450.jpg",
     "summary": "The SEC continues to keep Nasdaq's proposed bitcoin options contracts on hold, following a review granted to the CME Group. This delay is due to CME arguing that these contracts are commodity option swaps subject exclusively to the CFTC's jurisdiction, not the SEC's.",
-    "importance": 8,
-    "classified": true
-  },
-  {
-    "title": "Saylor hints at Strategy bitcoin buy after five-week pause as STRC rate stays at 12%: ‘Bitcoin Drive engaged’",
-    "link": "https://www.theblock.co/post/410370/saylor-hints-at-strategy-bitcoin-buy-after-five-week-pause-as-strc-rate-stays-at-12-bitcoin-drive-engaged?utm_source=rss&utm_medium=rss",
-    "pubDate": "Sun, 02 Aug 2026 14:10:43 -0400",
-    "source": "The Block",
-    "category": "crypto",
-    "content": "Strategy has gone five consecutive weeks without a disclosed bitcoin purchase; the firm last reported holding 843,775 BTC acquired for $63.69 billion.",
-    "image": "https://www.tbstat.com/wp/uploads/2025/06/20250603_MichaelSaylor_News-800x450.jpg",
-    "summary": "Michael Saylor of MicroStrategy has hinted at a new Bitcoin purchase, signaling an end to the firm's five-week pause in acquisitions. MicroStrategy currently holds 843,775 BTC, acquired for $63.69 billion.",
     "importance": 8,
     "classified": true
   },
@@ -1128,18 +1140,6 @@
     "classified": true
   },
   {
-    "title": "Onchain, in court: What happened in crypto legal news this week",
-    "link": "https://cointelegraph.com/news/on-chain-in-court-crypto-legal-news4?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Sat, 01 Aug 2026 21:19:00 +0000",
-    "source": "Cointelegraph",
-    "category": "crypto",
-    "content": "A case tied to defunct crypto exchange FTX moves forward, a soldier seeks to dismiss over a Polymarket bet and a former congressman was ordered to pay $35,000 for manipulative trading.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-5-key-highlights-of-the-secs-lawsuit-against-binance.jpg",
-    "summary": "This week in crypto legal news, a case involving the defunct exchange FTX is moving forward. Additionally, a soldier is seeking to dismiss a Polymarket bet, and a former congressman was ordered to pay $35,000 for manipulative trading practices.",
-    "importance": 7,
-    "classified": true
-  },
-  {
     "title": "Blockchain Association counters National Sheriffs’ group claims as pivotal week for Clarity Act unfolds",
     "link": "https://www.theblock.co/post/410507/blockchain-association-counters-sheriffs-associations-claims-pivotal-week-clarity-act?utm_source=rss&utm_medium=rss",
     "pubDate": "Mon, 03 Aug 2026 17:13:10 -0400",
@@ -1161,6 +1161,18 @@
     "image": "",
     "summary": "OpenAI CEO Sam Altman continues to champion ChatGPT as a valuable tool for parents, highlighting it as a \"cool use case.\" He is actively making the case for integrating AI into parenting practices.",
     "importance": 7,
+    "classified": true
+  },
+  {
+    "title": "Bitcoin nears $64,000 as traders look past the fourth Coldcard sweep",
+    "link": "https://www.coindesk.com/markets/2026/08/04/bitcoin-nears-usd64-000-as-traders-look-past-the-fourth-coldcard-sweep",
+    "pubDate": "Tue, 04 Aug 2026 05:21:13 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "Every major token except ether is green on the week, with BTC up 1.9% over 24 hours and Asian equities selling off on AI-trade jitters.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/466866fc8ca7e798aae518ccf68ab98a3e67a323-2886x1486.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "Bitcoin is nearing $64,000, with most major cryptocurrencies seeing gains despite concerns related to the Coldcard sweep. This market movement coincides with Asian equities selling off due to jitters surrounding the AI trade.",
+    "importance": 6,
     "classified": true
   },
   {
@@ -1364,18 +1376,6 @@
     "content": "Bithumb plans to request a preliminary listing review and have its application reviewed by local authorities in 2027.",
     "image": "https://www.tbstat.com/wp/uploads/2026/02/IMG_1434-e1770700184451-797x450.jpg",
     "summary": "South Korea's Bithumb is aiming for an initial public offering (IPO) in 2028, with plans to submit a preliminary listing review in 2027. The company has outlined a multi-year roadmap to achieve this goal. Bithumb's IPO target is a significant development in the cryptocurrency industry.",
-    "importance": 6,
-    "classified": true
-  },
-  {
-    "title": "Trump Media says $165 million bitcoin transfer to Crypto.com wasn’t a sale",
-    "link": "https://www.theblock.co/post/410360/trump-media-linked-wallets-move-165-million-in-bitcoin-to-crypto-com-leaving-4261-btc-in-tracked-wallets?utm_source=rss&utm_medium=rss",
-    "pubDate": "Sun, 02 Aug 2026 11:16:08 -0400",
-    "source": "The Block",
-    "category": "crypto",
-    "content": "The company said a similar transfer to Crypto.com in May was part of a broader trading strategy and did not represent a sale.",
-    "image": "https://www.tbstat.com/wp/uploads/2024/03/20240313_Trump_News_2-800x450.jpg",
-    "summary": "Trump Media clarified that a recent $165 million Bitcoin transfer to Crypto.com was not a sale. The company stated that this transfer, along with a similar one in May, was part of a broader trading strategy.",
     "importance": 6,
     "classified": true
   },
@@ -1596,6 +1596,18 @@
     "classified": true
   },
   {
+    "title": "A bitcoin wallet dormant since 2013 moved $31 million, and it's not the only one",
+    "link": "https://www.coindesk.com/markets/2026/08/04/a-bitcoin-wallet-dormant-since-2013-moved-usd31-million-and-it-s-not-the-only-one",
+    "pubDate": "Tue, 04 Aug 2026 04:48:40 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "A 12-year-old bitcoin wallet moved $31 million on Monday, part of a broader wave of dormant coins shifting since the Coldcard hack.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/8779265b47c9dddde904c03a5d98623bc8b64d37-2379x1154.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "A Bitcoin wallet, dormant for 12 years, recently moved $31 million worth of BTC. This transaction is part of a broader trend of inactive Bitcoin holdings shifting, potentially triggered by the recent Coldcard hack.",
+    "importance": 4,
+    "classified": true
+  },
+  {
     "title": "Here’s what happened in crypto today",
     "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "pubDate": "Mon, 03 Aug 2026 19:52:11 +0000",
@@ -1604,18 +1616,6 @@
     "content": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
     "image": "https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg",
     "summary": "The article provides a daily roundup of the latest news affecting the cryptocurrency market, covering topics such as Bitcoin price movements, blockchain developments, DeFi, Web3, and regulatory updates. It serves as a quick guide to current trends and events in the crypto space.",
-    "importance": 4,
-    "classified": true
-  },
-  {
-    "title": "Trump Media sells another 2,628 BTC, holdings fall to 4,261 BTC",
-    "link": "https://cointelegraph.com/news/trump-media-2628-btc-crypto-com-4261-btc-holdings?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Sun, 02 Aug 2026 09:31:00 +0000",
-    "source": "Cointelegraph",
-    "category": "crypto",
-    "content": "Trump Media transferred another 2,628 Bitcoin to Crypto.com, bringing its reported sales over seven months to 7,281 BTC and leaving the company with 4,261 BTC in holdings.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-trump-on-bitcoin.jpg",
-    "summary": "Trump Media has reportedly sold another 2,628 Bitcoin to Crypto.com, bringing its total BTC sales over the past seven months to 7,281. Following this latest transaction, the company's remaining Bitcoin holdings now stand at 4,261 BTC.",
     "importance": 4,
     "classified": true
   },
