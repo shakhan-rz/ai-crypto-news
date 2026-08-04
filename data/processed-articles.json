@@ -1,5 +1,17 @@
 [
   {
+    "title": "Wells Fargo joins JPMorgan and Citi in the race to tokenize Wall Street’s settlement rails",
+    "link": "https://www.coindesk.com/business/2026/08/04/wells-fargo-to-offer-tokenized-deposits-for-24-7-corporate-payments",
+    "pubDate": "Tue, 04 Aug 2026 15:47:05 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "Payments will run on the bank’s proprietary blockchain and be routed automatically through its existing client interface.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/21526e2b03174760b5362a6b9c761c3e24ae28be-1500x852.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "Wells Fargo is joining major banks like JPMorgan and Citi in the race to tokenize Wall Street's settlement rails. The bank plans to use its proprietary blockchain to automate payments, routing them through its existing client interface.",
+    "importance": 9,
+    "classified": true
+  },
+  {
     "title": "BitGo’s WBTC move pushes LayerZero-to-Chainlink tally near $15 billion",
     "link": "https://www.coindesk.com/business/2026/08/04/bitgo-s-wbtc-move-pushes-layerzero-to-chainlink-tally-near-usd15-billion",
     "pubDate": "Tue, 04 Aug 2026 13:00:00 +0000",
@@ -36,18 +48,6 @@
     "classified": true
   },
   {
-    "title": "BlackRock expands tokenized cash with new blockchain-based money market offerings",
-    "link": "https://www.coindesk.com/business/2026/08/03/blackrock-expands-tokenized-cash-with-new-blockchain-based-money-market-offerings",
-    "pubDate": "Mon, 03 Aug 2026 13:15:46 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "Both funds intend to qualify as eligible reserve assets for permitted U.S. payment stablecoin issuers under the GENIUS Act.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/5eda3f2941b1af76c37db38c8f034e356c2c36d0-5196x3464.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "BlackRock is expanding its tokenized cash offerings by introducing new blockchain-based money market funds. These funds are specifically designed to qualify as eligible reserve assets for U.S. payment stablecoin issuers, aligning with the GENIUS Act.",
-    "importance": 9,
-    "classified": true
-  },
-  {
     "title": "Boltz pauses service after wave of AI-assisted hacking attempts ",
     "link": "https://cointelegraph.com/news/boltz-pauses-service-after-wave-of-ai-assisted-hacking-attempts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "pubDate": "Tue, 04 Aug 2026 00:03:47 +0000",
@@ -57,6 +57,42 @@
     "image": "https://s3-images.ctmedia.io/media/article-covers/password-fraud-hacker-scam3-3.jpg",
     "summary": "Boltz, a non-custodial protocol, has temporarily paused its services due to a surge in AI-assisted hacking attempts. The protocol reported that attackers are utilizing AI to discover and adapt exploits faster than its small development team can identify and patch them.",
     "importance": 9,
+    "classified": true
+  },
+  {
+    "title": "Clarity Act sits idle over Trump ethics question as Warren asks SEC to investigate him",
+    "link": "https://www.coindesk.com/policy/2026/08/04/clarity-act-sits-idle-over-trump-ethics-question-as-warren-asks-sec-to-investigate-him",
+    "pubDate": "Tue, 04 Aug 2026 16:21:59 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "Senators Elizabeth Warren and Richard Blumenthal requested the U.S. Securities and Exchange Commission probe Trump's memecoin.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/95723a31d1edeac729277890d08a21ea5bae38f0-1692x952.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "Senators Elizabeth Warren and Richard Blumenthal have formally requested that the U.S. Securities and Exchange Commission (SEC) investigate former President Donald Trump's memecoin.",
+    "importance": 8,
+    "classified": true
+  },
+  {
+    "title": "Bitcoin’s $63,000 zone emerges as key battleground for buyers: Glassnode",
+    "link": "https://www.coindesk.com/markets/2026/08/04/bitcoin-s-usd63-000-zone-emerges-as-key-battleground-for-buyers-glassnode",
+    "pubDate": "Tue, 04 Aug 2026 14:49:33 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "Retail investors and large whales are buying as bitcoin trades near its 200-week moving average.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/1fef90fa61521de9a85cccfd07689eec3083aee1-3200x1800.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "Bitcoin's $63,000 price zone has emerged as a key battleground for buyers, with both retail investors and large whales actively accumulating the cryptocurrency. This significant buying activity is occurring as Bitcoin trades near its critical 200-week moving average.",
+    "importance": 8,
+    "classified": true
+  },
+  {
+    "title": "Polymarket targets $20 billion valuation as competition heats up in prediction market sector",
+    "link": "https://www.coindesk.com/markets/2026/08/04/polymarket-targets-usd20-billion-valuation-as-competition-heats-up-in-prediction-markets",
+    "pubDate": "Tue, 04 Aug 2026 14:38:23 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "The blockchain-based prediction markets platform is reportedly returning to investors months after a $15 billion funding round.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/473cadb20fe4e7c052f29ddddcf48b15aee79ec0-1920x1152.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "Polymarket, a blockchain-based prediction markets platform, is reportedly seeking a $20 billion valuation after a recent $15 billion funding round. This move comes as competition in the prediction market sector heats up. The company's valuation target indicates its confidence in its growth prospects.",
+    "importance": 8,
     "classified": true
   },
   {
@@ -108,26 +144,26 @@
     "classified": true
   },
   {
-    "title": "Circle slides after Morgan Stanley downgrade, cut in price target",
-    "link": "https://www.coindesk.com/markets/2026/08/03/circle-internet-slides-after-morgan-stanley-downgrade-cut-in-price-target",
-    "pubDate": "Mon, 03 Aug 2026 13:59:50 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "The bank said tokenized money market funds, Open USD and slower USDC growth could weigh on the stablecoin issuer's earnings.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/5375c855453eb305797281edc37be56277accf7e-5819x3273.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "Morgan Stanley downgraded stablecoin issuer Circle and cut its price target, citing potential negative impacts on earnings from tokenized money market funds, Open USD, and slower USDC growth. This news reflects concerns from a major bank regarding key factors affecting a prominent player in the stablecoin market.",
+    "title": "Bitdeer expands AI infrastructure with long-term $4.7B data center lease",
+    "link": "https://cointelegraph.com/news/bitdeer-ai-data-center-lease-norway?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Tue, 04 Aug 2026 15:50:20 +0000",
+    "source": "Cointelegraph",
+    "category": "both",
+    "content": "A 16-year agreement secures 121 megawatts of AI computing capacity in Norway, highlighting how crypto mining companies continue to pursue new revenue streams beyond Bitcoin.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/article-covers-137272-bitcoin-mining-company-bitdeer-lease-ohio-site.jpg",
+    "summary": "Bitdeer has secured a 16-year lease for a data center in Norway, expanding its AI infrastructure with 121 megawatts of computing capacity. This move highlights crypto mining companies' pursuit of new revenue streams beyond Bitcoin. The $4.7B lease demonstrates the company's significant investment in AI infrastructure.",
     "importance": 8,
     "classified": true
   },
   {
-    "title": "Bernstein sees another leg lower for crypto markets if Clarity Act stalls",
-    "link": "https://www.coindesk.com/policy/2026/08/03/bernstein-sees-another-leg-lower-for-crypto-markets-if-clarity-act-stalls",
-    "pubDate": "Mon, 03 Aug 2026 13:49:40 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "The broker said failure to pass the Clarity Act this year would likely send crypto lower, but expects U.S. regulators to accelerate rulemaking.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/9a03886b63f9f486ffe9b1e5246f92bf2b612c49-1500x998.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "Bernstein predicts a potential downturn in crypto markets if the Clarity Act fails to pass this year. Despite this, the broker expects U.S. regulators to accelerate the rulemaking process, which could still impact the market.",
+    "title": "At least 15 attackers exploited Coldcard vulnerability: Galaxy",
+    "link": "https://cointelegraph.com/news/15-attackers-exploited-coldcard-vulnerability-galaxy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Tue, 04 Aug 2026 14:38:49 +0000",
+    "source": "Cointelegraph",
+    "category": "both",
+    "content": "Galaxy said that at least 15 different attackers have exploited the Coldcard vulnerability, which may have been avoided with just $2 worth of AI hardening, according to Dragonfly’s managing partner.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-crypto-safety-2025-7-easy-ways-to-avoid-hacks-and-scams.jpg",
+    "summary": "At least 15 attackers have exploited a vulnerability in Coldcard, which could have been prevented with a $2 AI hardening solution. Galaxy reported the incident, highlighting the potential of AI in preventing such attacks. The vulnerability may have significant implications for cryptocurrency security.",
     "importance": 8,
     "classified": true
   },
@@ -276,14 +312,38 @@
     "classified": true
   },
   {
-    "title": "CLARITY Act failure could send crypto valuations lower: Bernstein",
-    "link": "https://cointelegraph.com/news/clarity-act-failure-crypto-valuations-lower-bernstein?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Mon, 03 Aug 2026 12:07:42 +0000",
-    "source": "Cointelegraph",
+    "title": "Dinari launches tokenized S&P 500 stocks for US self-custody wallets using USDC",
+    "link": "https://www.theblock.co/post/410588/dinari-tokenized-sp-500-stocks-self-custody-wallets-using-usdc?utm_source=rss&utm_medium=rss",
+    "pubDate": "Tue, 04 Aug 2026 11:27:00 -0400",
+    "source": "The Block",
+    "category": "both",
+    "content": "Tokenizing equities has generated significant interest from both crypto natives and firms like JPMorgan and Goldman Sachs.",
+    "image": "https://www.tbstat.com/wp/uploads/2025/01/20250102_USDC_News2-800x450.jpg",
+    "summary": "Dinari has launched tokenized S&P 500 stocks for US self-custody wallets using USDC, generating interest from both crypto natives and traditional firms. This move allows for greater accessibility and flexibility in trading traditional assets. It has the potential to bridge the gap between crypto and traditional finance.",
+    "importance": 8,
+    "classified": true
+  },
+  {
+    "title": "BitGo moves $7.4 billion Wrapped Bitcoins to Chainlink CCIP in latest LayerZero exodus",
+    "link": "https://www.theblock.co/post/410594/bitgo-moves-7-4-billion-wrapped-bitcoins-to-chainlink-ccip-in-latest-layerzero-exodus?utm_source=rss&utm_medium=rss",
+    "pubDate": "Tue, 04 Aug 2026 11:24:31 -0400",
+    "source": "The Block",
     "category": "crypto",
-    "content": "Bernstein said Congress’ failure to pass the CLARITY Act’s could trigger another leg down for crypto valuations and accelerate policy support from US regulators.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/transparency-crypto.jpg",
-    "summary": "The failure to pass the CLARITY Act may lead to lower crypto valuations and increased regulatory support from US authorities, according to Bernstein. This could potentially trigger another decline in crypto prices. The act's failure may have significant implications for the crypto market.",
+    "content": "The move pushes the total value migrating from LayerZero to Chainlink near $15 billion, with WBTC representing the largest shift yet.",
+    "image": "https://www.tbstat.com/wp/uploads/2020/07/20200706_WBTC-800x450.jpg",
+    "summary": "BitGo has moved $7.4 billion in Wrapped Bitcoins to Chainlink CCIP, marking a significant shift from LayerZero. This move brings the total value migrating to Chainlink to nearly $15 billion. WBTC represents the largest shift yet in this migration.",
+    "importance": 8,
+    "classified": true
+  },
+  {
+    "title": "Bitdeer stock pops and drops on $4.7 billion AI data center lease in Norway",
+    "link": "https://www.theblock.co/post/410578/bitdeer-stock-pops-drops-4-7-billion-ai-data-center-lease-norway?utm_source=rss&utm_medium=rss",
+    "pubDate": "Tue, 04 Aug 2026 10:24:52 -0400",
+    "source": "The Block",
+    "category": "both",
+    "content": "Bitcoin miner Bitdeer shares jump after disclosing $4.7 billion AI data center lease terms with Volta in Norway.",
+    "image": "https://www.tbstat.com/wp/uploads/2026/04/20260428_Bitcoin-Mining_News_2-800x450.jpg",
+    "summary": "Bitdeer shares saw a surge after announcing a $4.7 billion AI data center lease in Norway with Volta. The lease terms have drawn attention to the company's plans for expansion. The stock's fluctuation reflects investor interest in the project's potential.",
     "importance": 8,
     "classified": true
   },
@@ -396,26 +456,14 @@
     "classified": true
   },
   {
-    "title": "Michael Saylor says he’s never sold his personal bitcoin after Strategy dumps more BTC",
-    "link": "https://www.theblock.co/post/410451/michael-saylor-says-never-sold-his-personal-bitcoin-strategy-dumps-more-btc?utm_source=rss&utm_medium=rss",
-    "pubDate": "Mon, 03 Aug 2026 12:57:22 -0400",
-    "source": "The Block",
+    "title": "Nearly $32 Million in ‘Dormant’ Bitcoin Moves After Coldcard Hack Reaches Estimated $130M ",
+    "link": "https://bitcoinmagazine.com/news/32-million-in-dormant-bitcoin-moves",
+    "pubDate": "Tue, 04 Aug 2026 15:22:53 +0000",
+    "source": "Bitcoin Magazine",
     "category": "crypto",
-    "content": "Strategy Inc disclosed that it sold 1,638 bitcoin last week for $104.7 million, reducing its total holdings to 842,138 BTC.",
-    "image": "https://www.tbstat.com/wp/uploads/2024/11/20241127_Michael-Saylor_News-800x450.jpg",
-    "summary": "Strategy Inc sold 1,638 bitcoin for $104.7 million, reducing its holdings to 842,138 BTC, while Michael Saylor claims to have never sold his personal bitcoin. This sale is a significant event in the crypto market. Saylor's statement suggests his long-term commitment to bitcoin.",
-    "importance": 8,
-    "classified": true
-  },
-  {
-    "title": "Michael Saylor’s Strategy sells another 1,638 BTC for $105 million, reducing total holdings to 842,138 BTC",
-    "link": "https://www.theblock.co/post/410414/michael-saylors-strategy-sells-another-1638-btc-for-105-million-reducing-total-holdings-to-842138-btc?utm_source=rss&utm_medium=rss",
-    "pubDate": "Mon, 03 Aug 2026 08:13:30 -0400",
-    "source": "The Block",
-    "category": "crypto",
-    "content": "Strategy's total holdings account for around 4% of the 21 million bitcoin supply cap — worth roughly $53 billion.",
-    "image": "https://www.tbstat.com/wp/uploads/2025/12/20251208_Microstrategy_News-800x450.jpg",
-    "summary": "Michael Saylor's company Strategy has sold 1,638 BTC for $105 million, leaving them with 842,138 BTC, which accounts for around 4% of the total bitcoin supply. This sale reduces their holdings but still values their remaining bitcoin at roughly $53 billion. The sale is a significant move in the crypto market.",
+    "content": "Bitcoin Magazine\n\nNearly $32 Million in ‘Dormant’ Bitcoin Moves After Coldcard Hack Reaches Estimated $130M \nBitcoin worth close to $32 million moved for the first time in 12 years yesterday. \nThis post Nearly $32 Million in ‘Dormant’ Bitcoin Moves After Coldcard Hack Reaches Estimated $130M  first appeared on Bitcoin Magazine and is written by Mathew Di Salvo.",
+    "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/08/0_3.png",
+    "summary": "Nearly $32 million in dormant Bitcoin moved for the first time in 12 years, following a Coldcard hack that has reached an estimated $130 million. The hack has resulted in a significant amount of previously inactive Bitcoin being transferred. This movement of dormant Bitcoin is noteworthy for the crypto community.",
     "importance": 8,
     "classified": true
   },
@@ -468,18 +516,6 @@
     "classified": true
   },
   {
-    "title": "US Closes in on Iran’s Strait of Hormuz Bitcoin Insurance Policy, Sanctions Companies",
-    "link": "https://bitcoinmagazine.com/news/us-sanctions-iran-companies-using-bitcoin",
-    "pubDate": "Fri, 31 Jul 2026 16:20:58 +0000",
-    "source": "Bitcoin Magazine",
-    "category": "crypto",
-    "content": "Bitcoin Magazine\n\nUS Closes in on Iran’s Strait of Hormuz Bitcoin Insurance Policy, Sanctions Companies\nThe news comes after the U.S. froze Iran's other digital assets. \nThis post US Closes in on Iran’s Strait of Hormuz Bitcoin Insurance Policy, Sanctions Companies first appeared on Bitcoin Magazine and is written by Mathew Di Salvo.",
-    "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/07/US-Closes-In-of-Irans-Bitcoin-Insurance-Policy-in-strait-of-hormuz.jpg",
-    "summary": "The US has sanctioned companies related to Iran's Bitcoin insurance policy in the Strait of Hormuz, following the freezing of Iran's other digital assets. This move is part of the US's efforts to restrict Iran's access to digital currencies. The sanctions aim to limit Iran's ability to use Bitcoin as an insurance policy.",
-    "importance": 8,
-    "classified": true
-  },
-  {
     "title": "The Download: reward hacking explained, and suspected Iranian cyberattacks",
     "link": "https://www.technologyreview.com/2026/08/03/1141039/the-download-reward-hacking-water-cyberattacks/",
     "pubDate": "Mon, 03 Aug 2026 12:08:00 +0000",
@@ -528,12 +564,48 @@
     "classified": true
   },
   {
+    "title": "Spotify expands AI remix and covers project with Merlin partnership",
+    "link": "https://techcrunch.com/2026/08/04/spotify-adds-merlin-to-its-ai-music-remix-and-covers-effort/",
+    "pubDate": "Tue, 04 Aug 2026 15:50:06 +0000",
+    "source": "TechCrunch AI",
+    "category": "ai",
+    "content": "Spotify says Merlin, which represents more than 30,000 independent labels and distributors, has joined Universal Music Group in backing its upcoming AI-powered remix and covers product. The paid tool will let fans create AI-generated covers and remixes of participating artists’ music while ensuring artists opt in, receive credit, and are compensated.",
+    "image": "",
+    "summary": "Spotify has partnered with Merlin to expand its AI-powered remix and covers project, allowing fans to create AI-generated content from participating artists' music. The tool will ensure artists receive credit and compensation for their work. This project brings together music and AI technology.",
+    "importance": 8,
+    "classified": true
+  },
+  {
+    "title": "Elon Musk spends half his time talking robots and AI on Tesla earnings calls",
+    "link": "https://techcrunch.com/2026/08/04/elon-musk-spends-half-his-time-talking-robots-and-ai-on-tesla-earnings-calls/",
+    "pubDate": "Tue, 04 Aug 2026 15:20:06 +0000",
+    "source": "TechCrunch AI",
+    "category": "ai",
+    "content": "An analysis of the last seven years of Tesla earnings calls shows just little attention Musk pays to Tesla's car business.",
+    "image": "",
+    "summary": "An analysis of Tesla's earnings calls over the last seven years reveals that Elon Musk spends a significant amount of time discussing robots and AI, rather than the company's car business. This suggests that Musk's focus is shifting towards emerging technologies. Musk's emphasis on AI and robots may indicate a new direction for the company.",
+    "importance": 8,
+    "classified": true
+  },
+  {
+    "title": "Apple says more ex-employees may have taken confidential data to OpenAI",
+    "link": "https://techcrunch.com/2026/08/04/apple-says-more-ex-employees-may-have-taken-confidential-data-to-openai/",
+    "pubDate": "Tue, 04 Aug 2026 14:03:01 +0000",
+    "source": "TechCrunch AI",
+    "category": "ai",
+    "content": "Apple says its trade secrets investigation into OpenAI has widened. In a new court filing, Apple claims additional former staff may have retained or accessed confidential information.",
+    "image": "",
+    "summary": "Apple's trade secrets investigation into OpenAI has expanded, with the company claiming more former employees may have taken confidential data. The investigation is ongoing, with Apple filing new court documents. This development could have significant implications for both Apple and OpenAI.",
+    "importance": 8,
+    "classified": true
+  },
+  {
     "title": "EON wants to move the data superhighway from ocean fiber to space lasers",
     "link": "https://techcrunch.com/2026/08/04/eon-wants-to-move-the-data-superhighway-from-ocean-fiber-to-space-lasers/",
     "pubDate": "Tue, 04 Aug 2026 12:00:00 +0000",
     "source": "TechCrunch AI",
     "category": "ai",
-    "content": "Endeavour Optical Networks is planning to launch the fastest space laser communications system yet built.",
+    "content": "Endeavor Optical Networks is planning to launch the fastest space laser communications system yet built.",
     "image": "",
     "summary": "Endeavour Optical Networks plans to launch a space laser communications system, aiming to move data transmission from ocean fiber to space lasers. This system is expected to be the fastest yet built. The move could potentially revolutionize data transfer, reducing reliance on traditional fiber optic cables.",
     "importance": 8,
@@ -624,42 +696,6 @@
     "classified": true
   },
   {
-    "title": "Google nixes its Earth AI feature one day after launch, amid criticism it would spread misinformation",
-    "link": "https://techcrunch.com/2026/07/31/google-nixes-its-earth-ai-feature-one-day-after-launch-amid-criticism-it-would-spread-misinformation/",
-    "pubDate": "Fri, 31 Jul 2026 19:47:28 +0000",
-    "source": "TechCrunch AI",
-    "category": "ai",
-    "content": "A tool that allowed anyone to generate fake AI-generated imagery and superimpose it over real Google Earth maps quickly spurred backlash.",
-    "image": "",
-    "summary": "Google launched an AI feature that allowed users to generate fake imagery over real Google Earth maps, but it was quickly shut down due to criticism that it would spread misinformation. The feature was only available for one day before being taken down. The move highlights concerns about the potential misuse of AI-generated content.",
-    "importance": 8,
-    "classified": true
-  },
-  {
-    "title": "Sam Altman isn’t the only one who wants to pump the brakes on AI",
-    "link": "https://techcrunch.com/video/sam-altman-isnt-the-only-one-who-wants-to-pump-the-brakes-on-ai/",
-    "pubDate": "Fri, 31 Jul 2026 17:26:32 +0000",
-    "source": "TechCrunch AI",
-    "category": "ai",
-    "content": "After years of pushing full speed ahead on AI, OpenAI CEO Sam Altman says maybe it’s time for the AI industry to “pace” itself. The comments came just days after one of OpenAI’s own models broke out of its test environment and got tangled up in a breach at Hugging Face — though as Equity’s hosts point out, sloppy security seems to have […]",
-    "image": "",
-    "summary": "Sam Altman, OpenAI CEO, suggests the AI industry should slow down, citing potential risks and recent security breaches, such as one involving an OpenAI model and Hugging Face. This comes after years of rapid development in the AI field. The incident highlights the need for more cautious progress in AI development.",
-    "importance": 8,
-    "classified": true
-  },
-  {
-    "title": "Snapchat no longer rewards fully AI-generated Spotlight content",
-    "link": "https://techcrunch.com/2026/07/31/snapchat-no-longer-rewards-fully-ai-generated-spotlight-content/",
-    "pubDate": "Fri, 31 Jul 2026 16:49:08 +0000",
-    "source": "TechCrunch AI",
-    "category": "ai",
-    "content": "Snapchat has adjusted its recommendation systems to ensure that only videos created by real people are eligible for Spotlight recommendations, taking a stance against AI slop.",
-    "image": "",
-    "summary": "Snapchat has updated its recommendation system to prioritize videos created by real people, making AI-generated content ineligible for Spotlight recommendations. This change aims to promote authentic user-generated content. The move takes a stance against AI-generated videos.",
-    "importance": 8,
-    "classified": true
-  },
-  {
     "title": "OpenAI drags Apple’s lawsuit into the court of public opinion",
     "link": "https://www.theverge.com/ai-artificial-intelligence/974914/openai-blog-response-apple-lawsuit-messages",
     "pubDate": "2026-08-04T11:27:55.000Z",
@@ -740,18 +776,6 @@
     "content": "A text prompt was all it took to generate reality-warping images using Google Earth's satellite, aerial, and 3D imagery with a now-rolled back AI feature, like these images generated by Digital Digging's Henk van Ess that show \"refugees near the Mexican border\" and a bomb crater near a hospital in Gaza. \nGoogle initially responded to Digital Digging's AI-altered images, saying, \"We take misinformation seriously - every image created with Nano Banana in Google Earth includes the SynthID digital watermark, so if someone is unsure about an image, they can ask the Gemini app or use Lens in Search to see if the image was AI-generated.\" In additi …\nRead the full story at The Verge.",
     "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Dream-House.mp4_snapshot_00.11.422.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
     "summary": "Google Earth's integration with AI image generators has raised concerns about misinformation, as users can create realistic images that may be misleading. Google has responded by adding digital watermarks to AI-generated images. The feature allows users to verify the authenticity of images using the Gemini app or Google Lens.",
-    "importance": 8,
-    "classified": true
-  },
-  {
-    "title": "The major labels propose rules to keep AI slop off the charts",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/973741/ai-music-major-record-labels-charts",
-    "pubDate": "2026-07-31T16:36:48.000Z",
-    "source": "The Verge AI",
-    "category": "ai",
-    "content": "Several record labels, including the big three - Universal Music Group, Sony Music, and Warner Music Group - have proposed rules regarding chart eligibility for AI songs. In short, they wouldn't be. \nThe proposal goes quite a bit further than a labeling proposal put forth by the RIAA, the International Federation of the Phonographic Industry (IFPI), SAG-AFTRA, and others. That would create a set of standardized labels for AI-generated and AI-assisted music. The labels' proposal would require songs be clearly labeled, but it would also keep them off international charts unless they met specific criteria, including being \"substantially human  …\nRead the full story at The Verge.",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/STK467_AI_Music.webp?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "summary": "Major record labels propose rules to keep AI-generated songs off the charts unless they meet specific criteria, including being substantially human-created. The proposal would require clear labeling of AI-generated music. This move aims to distinguish human-created music from AI-generated content.",
     "importance": 8,
     "classified": true
   },
@@ -1032,18 +1056,6 @@
     "classified": true
   },
   {
-    "title": "Tom Lee's Bitmine bought more ether, added to stock buyback last week",
-    "link": "https://www.coindesk.com/business/2026/08/03/bitmine-bought-more-ether-added-to-stock-buyback-last-week",
-    "pubDate": "Mon, 03 Aug 2026 12:53:21 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "Chairman Tom Lee said ether's outperformance versus the Nasdaq in July signals strengthening crypto fundamentals.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/9d7bd39b2982649e7e43cc0537c507eb62abc21c-2048x1152.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "Tom Lee's company, Bitmine, increased its Ether holdings and added to its stock buyback last week. Chairman Tom Lee cited Ether's strong performance against the Nasdaq in July as an indicator of strengthening fundamentals within the crypto market.",
-    "importance": 7,
-    "classified": true
-  },
-  {
     "title": "Bessent’s top crypto adviser Tyler Williams exits US Treasury: Report",
     "link": "https://cointelegraph.com/news/bessent-top-crypto-adviser-tyler-williams-leaves-us-treasury-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "pubDate": "Mon, 03 Aug 2026 20:29:47 +0000",
@@ -1077,6 +1089,18 @@
     "image": "",
     "summary": "OpenAI CEO Sam Altman continues to champion ChatGPT as a valuable tool for parents, highlighting it as a \"cool use case.\" He is actively making the case for integrating AI into parenting practices.",
     "importance": 7,
+    "classified": true
+  },
+  {
+    "title": "Intesa Sanpaolo slashed IBIT stake by 94% in 2Q, tripled ether ETF holding as crypto prices slumped",
+    "link": "https://www.coindesk.com/business/2026/08/04/intesa-sanpaolo-slashed-ibit-stake-by-94-in-2q-tripled-ether-etf-holding-as-crypto-prices-slumped",
+    "pubDate": "Tue, 04 Aug 2026 14:25:50 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "The Italian bank tripled its holding of iShares Staked Ethereum Trust ETF stake as total bitcoin ETF holdings fell 35% to $69.3 million.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/4f6884d703d96bd3df7b3b79f2b9d501d7fcae0f-1280x720.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "Intesa Sanpaolo reduced its IBIT stake by 94% and tripled its holding of an Ethereum ETF, despite a decline in crypto prices. The bank's total bitcoin ETF holdings decreased by 35% to $69.3 million. This move indicates a shift in the bank's investment strategy amidst market fluctuations.",
+    "importance": 6,
     "classified": true
   },
   {
@@ -1142,7 +1166,7 @@
   {
     "title": "Jim Cramer plans to sell his Bitcoin over quantum fears as BTC rises 1.6%",
     "link": "https://cointelegraph.com/markets/jim-cramer-sell-bitcoin-quantum-fears-btc-rises?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Tue, 04 Aug 2026 10:49:00 +0000",
+    "pubDate": "Tue, 04 Aug 2026 10:53:00 +0000",
     "source": "Cointelegraph",
     "category": "crypto",
     "content": "The CNBC personality said he’ll sell his Bitcoin holdings due to fears about quantum computing, as some cryptocurrency investors celebrated, referencing the popular “inverse Cramer” meme.",
@@ -1224,14 +1248,14 @@
     "classified": true
   },
   {
-    "title": "Trumps’ American Bitcoin reports record BTC output, narrower Q2 loss",
-    "link": "https://cointelegraph.com/news/trumps-american-bitcoin-output-narrower-q2-loss?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Mon, 03 Aug 2026 11:40:09 +0000",
-    "source": "Cointelegraph",
-    "category": "crypto",
-    "content": "Trump-linked Bitcoin miner produced a record 932 BTC in the second quarter, lifting mining revenue 8% as its net loss narrowed from the previous quarter.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/crypto-bitcoin-storage-us-1.jpg",
-    "summary": "Trump's American Bitcoin miner produced a record 932 BTC in Q2, increasing mining revenue by 8% and narrowing its net loss. This improvement in production and revenue is a notable development for the company. The record output and reduced loss are positive signs for the miner's performance.",
+    "title": "Hut 8 shares slip after mild Q2 revenue miss as AI data center pipeline grows",
+    "link": "https://www.theblock.co/post/410581/hut-8-shares-slip-mild-q2-revenue-miss-ai-data-center-pipeline-grows?utm_source=rss&utm_medium=rss",
+    "pubDate": "Tue, 04 Aug 2026 11:00:35 -0400",
+    "source": "The Block",
+    "category": "both",
+    "content": "Hut 8 CEO Asher Genoot said future bitcoin exposure will primarily come through its American Bitcoin subsidiary.",
+    "image": "https://www.tbstat.com/wp/uploads/2025/10/20251028_Hut8_News-800x450.jpg",
+    "summary": "Hut 8's Q2 revenue missed expectations, but the company's AI data center pipeline is growing. The CEO stated that future bitcoin exposure will come through its American Bitcoin subsidiary. This development affects both the crypto and AI sectors.",
     "importance": 6,
     "classified": true
   },
@@ -1296,37 +1320,13 @@
     "classified": true
   },
   {
-    "title": "Tom Lee says ether outperformed Nasdaq 100 in July as Bitmine adds 10,399 ETH",
-    "link": "https://www.theblock.co/post/410441/tom-lee-says-ether-outperformed-nasdaq-100-july-bitmine-adds-10399-eth?utm_source=rss&utm_medium=rss",
-    "pubDate": "Mon, 03 Aug 2026 09:48:47 -0400",
-    "source": "The Block",
-    "category": "crypto",
-    "content": "Bitmine expanded its ether treasury to 5.8 million ETH tokens as Tom Lee highlighted July's outperformance against the Nasdaq 100.",
-    "image": "https://www.tbstat.com/wp/uploads/2025/09/ETH-Ethereum-800x450.jpg",
-    "summary": "Tom Lee noted that ether outperformed the Nasdaq 100 in July. Bitmine has expanded its ether holdings to 5.8 million ETH tokens, adding 10,399 ETH. This development highlights ether's recent performance.",
-    "importance": 6,
-    "classified": true
-  },
-  {
-    "title": "Eric Trump’s American Bitcoin treasury tops 8,000 BTC as Q2 mining production hits record",
-    "link": "https://www.theblock.co/post/410426/eric-trumps-american-bitcoin-treasury-tops-8000-btc-as-q2-mining-production-hits-record?utm_source=rss&utm_medium=rss",
-    "pubDate": "Mon, 03 Aug 2026 09:03:00 -0400",
-    "source": "The Block",
-    "category": "crypto",
-    "content": "American Bitcoin expanded its reserve to 8,002 BTC after a record 932 BTC mined in Q2, with revenue rising 8% to $67 million.",
-    "image": "https://www.tbstat.com/wp/uploads/2025/08/20250818_Eric-Trump_News_2-800x450.jpg",
-    "summary": "American Bitcoin has expanded its reserve to 8,002 BTC after mining 932 BTC in Q2, with revenue rising 8% to $67 million. The company's Q2 mining production has hit a record. This growth indicates a significant increase in the company's bitcoin holdings.",
-    "importance": 6,
-    "classified": true
-  },
-  {
     "title": "Hyperscale Trims Bitcoin Holdings, Still Sits on $61M Stack",
     "link": "https://bitcoinmagazine.com/news/hyperscale-sells-some-bitcoin",
     "pubDate": "Tue, 04 Aug 2026 13:58:28 +0000",
     "source": "Bitcoin Magazine",
     "category": "crypto",
-    "content": "Bitcoin Magazine\nHyperscale Trims Bitcoin Holdings, Still Sits on $61M Stack\nHypserscale offloaded more Bitcoin than it bought last week in a bid to generate cash flow. \nThis post Hyperscale Trims Bitcoin Holdings, Still Sits on $61M Stack first appeared on Bitcoin Magazine and is written by Mathew Di Salvo.",
-    "image": "",
+    "content": "Bitcoin Magazine\n\nHyperscale Trims Bitcoin Holdings, Still Sits on $61M Stack\nHypserscale offloaded more Bitcoin than it bought last week in a bid to generate cash flow. \nThis post Hyperscale Trims Bitcoin Holdings, Still Sits on $61M Stack first appeared on Bitcoin Magazine and is written by Mathew Di Salvo.",
+    "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/08/Hyperscale-Trims-Bitcoin-Holdings.jpg",
     "summary": "Hyperscale reduced its Bitcoin holdings to generate cash flow, despite still having a significant amount of $61M in Bitcoin",
     "importance": 6,
     "classified": true
@@ -1404,6 +1404,18 @@
     "classified": true
   },
   {
+    "title": "Texas halts new data centers as governor calls for audits",
+    "link": "https://techcrunch.com/2026/08/04/texas-halts-new-data-centers-as-governor-calls-for-audits/",
+    "pubDate": "Tue, 04 Aug 2026 15:42:35 +0000",
+    "source": "TechCrunch AI",
+    "category": "both",
+    "content": "Texas Governor Greg Abbott has paused new data center development until an audit has been completed.",
+    "image": "",
+    "summary": "Texas Governor Greg Abbott has halted new data center development in the state until an audit is completed. This move may impact various industries, including those related to AI and crypto. The pause is intended to ensure that data centers are being used efficiently and securely.",
+    "importance": 6,
+    "classified": true
+  },
+  {
     "title": "Is the future of data centers portable? Runware builds a pod to find out",
     "link": "https://techcrunch.com/2026/08/04/is-the-future-of-data-centers-portable-runware-builds-a-pod-to-find-out/",
     "pubDate": "Tue, 04 Aug 2026 13:00:00 +0000",
@@ -1464,14 +1476,14 @@
     "classified": true
   },
   {
-    "title": "Siri AI could come with a paywall for power users",
-    "link": "https://techcrunch.com/2026/07/31/siri-ai-could-come-with-a-paywall-for-power-users/",
-    "pubDate": "Fri, 31 Jul 2026 16:08:18 +0000",
-    "source": "TechCrunch AI",
-    "category": "ai",
-    "content": "Apple CEO Tim Cook envisions users being able to buy more compute for Siri AI via Apple's existing iCloud+ subscriptions.",
-    "image": "",
-    "summary": "Apple CEO Tim Cook plans to offer additional compute for Siri AI through iCloud+ subscriptions, potentially creating a paywall for power users. This move could enhance the capabilities of Siri for those willing to pay. The change may impact how users interact with the virtual assistant.",
+    "title": "Texas says data centers must pass an audit before connecting to the grid",
+    "link": "https://www.theverge.com/policy/975071/texas-data-center-audit",
+    "pubDate": "2026-08-04T15:33:21.000Z",
+    "source": "The Verge AI",
+    "category": "crypto",
+    "content": "Texas announced new a audit on data centers that could slow approval for new facilities seeking to connect to the state energy grid.\nGovernor Greg Abbott (R) on Monday directed the Public Utility Commission of Texas (PUCT) and the Electric Reliability Council of Texas (ERCOT) to verify and audit new data center proposals, writing that the review is needed to \"keep the grid stable and reliable.\" Data centers will need to provide information on state and local incentives they've received, how much they'd rely on the state grid, expected water consumption and sources, and how they plan to track community impacts including noise. \nIt's not cle …\nRead the full story at The Verge.",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKS528_DATA_CENTERS2_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "summary": "Texas has introduced a new audit for data centers to ensure grid stability and reliability before they can connect to the state energy grid, requiring them to provide information on incentives, grid reliance, water consumption, and community impacts. This move may slow approval for new facilities. The audit aims to keep the grid stable.",
     "importance": 6,
     "classified": true
   },
@@ -1544,18 +1556,6 @@
     "content": "Japan may have spent as much as $36.6 billion buying yen in the first joint US-Japan action to support the currency since 1998. Bitget Wallet’s Alvin Kan says it can slow a disorderly slide without reversing the broader trend.",
     "image": "https://cdn.sanity.io/images/s3y3vcno/production/c0eecad8311b025c3b0811a6f8f2e63fa4ebdced-2872x1492.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
     "summary": "Japan and the US have jointly intervened in the currency market, with Japan potentially spending $36.6 billion to support the yen, marking the first such action since 1998. An expert from Bitget Wallet notes that this intervention may slow the yen's disorderly slide but is unlikely to reverse the broader trend, while Bitcoin trades at $63,600 amid carry-trade concerns.",
-    "importance": 5,
-    "classified": true
-  },
-  {
-    "title": "Strategy sold another $105 million of bitcoin last week, repurchased $81.2 million of STRC",
-    "link": "https://www.coindesk.com/markets/2026/08/03/strategy-sold-another-usd105-million-of-bitcoin-last-week-repurchased-usd81-2-million-of-strc",
-    "pubDate": "Mon, 03 Aug 2026 12:17:10 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "The company trimmed bitcoin holdings by 1,638 coins, while raising $290.6 million with sales of common stock.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/d00d58cb37e792985dd1a2d7a5b976dca32d84c0-720x406.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "Strategy sold $105 million worth of Bitcoin last week, reducing its holdings by 1,638 coins. Concurrently, the company repurchased $81.2 million of its own STRC stock and raised $290.6 million through sales of common stock.",
     "importance": 5,
     "classified": true
   },
