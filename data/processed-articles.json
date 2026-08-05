@@ -1,5 +1,29 @@
 [
   {
+    "title": "The worst chart for bitcoin bulls right now",
+    "link": "https://www.coindesk.com/markets/2026/08/05/the-worst-chart-for-bitcoin-bulls-right-now",
+    "pubDate": "Wed, 05 Aug 2026 07:54:22 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "For 14 years, one ratio moved only in bitcoin's favor. Now it has decisively turned the other way and bulls may not like what it means.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/dd01b26662171c87383c52b19f38a55c06ddba13-2854x1488.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "A long-standing ratio, which for 14 years consistently moved in Bitcoin's favor, has now decisively reversed its trend. This significant shift could signal a challenging period ahead for Bitcoin bulls.",
+    "importance": 9,
+    "classified": true
+  },
+  {
+    "title": "New Ethereum proposal would cut issuance to zero if staked ETH reaches $112 billion",
+    "link": "https://www.coindesk.com/tech/2026/08/05/new-ethereum-proposal-would-cut-issuance-to-zero-if-staked-eth-reaches-usd112-billion",
+    "pubDate": "Wed, 05 Aug 2026 05:49:57 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "The EIP-8361 draft proposal calls for burning a rising share of validator rewards as the staking ratio climbs.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/c357579ddef2051b405b9e89f8525dd02709081d-5760x3240.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "A new draft Ethereum proposal, EIP-8361, aims to reduce ETH issuance to zero if staked ETH reaches $112 billion. The plan involves burning an increasing portion of validator rewards as the staking ratio rises, significantly impacting Ethereum's economic model.",
+    "importance": 9,
+    "classified": true
+  },
+  {
     "title": "Wells Fargo joins JPMorgan and Citi in the race to tokenize Wall Street’s settlement rails",
     "link": "https://www.coindesk.com/business/2026/08/04/wells-fargo-to-offer-tokenized-deposits-for-24-7-corporate-payments",
     "pubDate": "Tue, 04 Aug 2026 15:47:05 +0000",
@@ -44,6 +68,30 @@
     "content": "Earlier this week, BlackRock expanded its U.S. tokenized cash platform which involved offering onchain shares of an existing fund, plus a new daily reinvestment stablecoin fund.",
     "image": "https://cdn.sanity.io/images/s3y3vcno/production/5ba4e49ddffd762d22c0425a56fc08272bcd872d-1440x1080.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
     "summary": "BlackRock has launched tokenized access to its substantial money market funds in Europe, following an earlier expansion of its U.S. tokenized cash platform. This initiative includes offering onchain shares of existing funds and introducing a new daily reinvestment stablecoin fund.",
+    "importance": 9,
+    "classified": true
+  },
+  {
+    "title": "Cloudflare introduces wallets for AI agents, plans stablecoin payments",
+    "link": "https://cointelegraph.com/news/cloudflare-wallets-ai-agents-stablecoin-payments-plan?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Wed, 05 Aug 2026 07:20:03 +0000",
+    "source": "Cointelegraph",
+    "category": "both",
+    "content": "Cloudflare introduced programmable Wallets for AI agents and said payment features using stablecoins will launch in a future update.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/crypto-card-online-payment-cashless-payments-cloudflare-ai.jpg",
+    "summary": "Cloudflare has introduced programmable Wallets designed for AI agents, marking a significant step toward autonomous AI financial operations. The company also announced future plans to integrate payment features into these wallets, specifically using stablecoins.",
+    "importance": 9,
+    "classified": true
+  },
+  {
+    "title": "AI credit bubble could fuel Bitcoin ‘crack-up boom’ past $1M: Hayes",
+    "link": "https://cointelegraph.com/markets/arthur-hayes-ai-credit-crisis-bitcoin-1-million?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Wed, 05 Aug 2026 06:27:49 +0000",
+    "source": "Cointelegraph",
+    "category": "both",
+    "content": "Hayes likened the debt-fueled AI infrastructure boom to the 2008 credit bubble, but evidence suggests financial strain is uneven across Big Tech.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/arthur-hayes3-1.png",
+    "summary": "Arthur Hayes suggests that an \"AI credit bubble,\" drawing parallels to the 2008 financial crisis, could fuel a \"crack-up boom\" for Bitcoin, potentially pushing its price past $1 million. This perspective highlights the potential macroeconomic impact of the debt-fueled AI infrastructure boom on the cryptocurrency market, despite observed uneven financial strain among Big Tech companies.",
     "importance": 9,
     "classified": true
   },
@@ -180,14 +228,14 @@
     "classified": true
   },
   {
-    "title": "A new Solana proposal aims to ramp up daily SOL Burns from $47,000 to $650,000",
-    "link": "https://www.coindesk.com/tech/2026/08/04/a-new-solana-proposal-would-take-daily-sol-burns-from-usd47-000-to-usd650-000",
-    "pubDate": "Tue, 04 Aug 2026 05:39:18 +0000",
-    "source": "CoinDesk",
+    "title": "CLARITY or not, crypto isn’t going back in the bottle: Bitwise ",
+    "link": "https://cointelegraph.com/news/clarity-or-not-crypto-isnt-going-back-in-the-bottle-bitwise?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Wed, 05 Aug 2026 05:47:42 +0000",
+    "source": "Cointelegraph",
     "category": "crypto",
-    "content": "SGP-0003 bundles a fee overhaul with a doubling of the disinflation rate. It needs 40 million more SOL of validator support in two weeks to reach a vote.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/2e14ef9e0ece47068da06c0d0405ba1e13c15bd8-3904x2196.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "A new Solana proposal, SGP-0003, aims to significantly increase daily SOL burns from $47,000 to $650,000. This plan involves a fee overhaul and a doubled disinflation rate. The proposal requires an additional 40 million SOL in validator support within two weeks to proceed to a vote.",
+    "content": "Matt Hougan argues that regulatory guidance from the SEC and CFTC would keep the industry moving even if Congress fails to pass landmark market structure legislation this year.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-where-are-the-bitcoin-traders-going-now-after-clarity-act-1.jpg",
+    "summary": "Matt Hougan of Bitwise believes that the crypto industry will continue to advance, even without new landmark legislation from Congress this year, as long as regulatory guidance from the SEC and CFTC is provided. This perspective suggests that regulatory clarity, regardless of its form, is crucial for the industry's ongoing momentum.",
     "importance": 8,
     "classified": true
   },
@@ -360,30 +408,6 @@
     "classified": true
   },
   {
-    "title": "Kenya moves 30 million academic credentials onto Avalanche blockchain",
-    "link": "https://cointelegraph.com/news/kenya-avalanche-blockchain-academic-credentials-verification?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Mon, 03 Aug 2026 16:46:22 +0000",
-    "source": "Cointelegraph",
-    "category": "crypto",
-    "content": "A new digital verification platform aims to reduce forged certificates by allowing employers and universities to authenticate academic records onchain.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/bookkenya.png",
-    "summary": "Kenya has launched a digital verification platform on the Avalanche blockchain to store 30 million academic credentials, aiming to reduce forged certificates. The platform allows employers and universities to authenticate academic records on-chain. This move is expected to increase trust and efficiency in verifying academic credentials.",
-    "importance": 8,
-    "classified": true
-  },
-  {
-    "title": "BlackRock launches tokenized money market funds for stablecoin reserves",
-    "link": "https://cointelegraph.com/news/blackrock-launches-tokenized-money-market-funds-stablecoin-reserves?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Mon, 03 Aug 2026 16:13:12 +0000",
-    "source": "Cointelegraph",
-    "category": "both",
-    "content": "The asset manager introduced two blockchain-based money market funds designed to qualify as stablecoin reserve assets under the US GENIUS Act.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-j-blackrock-investments-explained.jpg",
-    "summary": "BlackRock has launched two blockchain-based money market funds designed to serve as stablecoin reserve assets under the US GENIUS Act. These tokenized funds aim to provide a new option for stablecoin issuers to manage their reserves. The move marks a significant development in the intersection of traditional finance and cryptocurrency.",
-    "importance": 8,
-    "classified": true
-  },
-  {
     "title": "Ethereum researchers propose burning validator rewards to cap staking at 50%",
     "link": "https://www.theblock.co/post/410643/ethereum-researchers-propose-burning-validator-rewards-cap-staking-50?utm_source=rss&utm_medium=rss",
     "pubDate": "Tue, 04 Aug 2026 15:49:58 -0400",
@@ -476,30 +500,6 @@
     "content": "BlackRock launched Ethereum-based tokenized share classes for select European money market funds using JPMorgan's Kinexys.",
     "image": "https://www.tbstat.com/wp/uploads/2022/10/20221005_Blackrock-800x450.jpg",
     "summary": "BlackRock has introduced tokenized share classes for select European money market funds with $311 billion in assets, utilizing Ethereum-based technology and JPMorgan's Kinexys. This move brings blockchain technology to traditional finance. The tokenized share classes aim to increase efficiency and accessibility in money market funds.",
-    "importance": 8,
-    "classified": true
-  },
-  {
-    "title": "Bitcoin losses from Coldcard hack could swell to $130 million, Galaxy Research says",
-    "link": "https://www.theblock.co/post/410533/coldcard-hack-130-million-galaxy-research?utm_source=rss&utm_medium=rss",
-    "pubDate": "Tue, 04 Aug 2026 01:46:06 -0400",
-    "source": "The Block",
-    "category": "crypto",
-    "content": "Galaxy said on X that it suspects the losses to be greater once the yet-unconfirmed fourth wave of attacks is included.",
-    "image": "https://www.tbstat.com/wp/uploads/2026/08/coldcard-e1785820303366-800x450.png",
-    "summary": "Galaxy Research estimates that the losses from the Coldcard hack could reach $130 million, with potential further losses from a fourth wave of attacks. The hack has significant implications for the cryptocurrency community. The total losses are expected to increase once the fourth wave is confirmed.",
-    "importance": 8,
-    "classified": true
-  },
-  {
-    "title": "NEAR co-founder proposes protocol sovereign fund for long-term sustainability",
-    "link": "https://www.theblock.co/post/410528/near-protocol-sovereign-fund?utm_source=rss&utm_medium=rss",
-    "pubDate": "Tue, 04 Aug 2026 00:32:28 -0400",
-    "source": "The Block",
-    "category": "crypto",
-    "content": "The concept draws from sovereign wealth funds in places like Norway and Singapore, as well as university endowments.",
-    "image": "https://www.tbstat.com/wp/uploads/2022/08/20220808_NEAR-Protocol-1-800x450.jpg",
-    "summary": "NEAR co-founder has proposed a protocol sovereign fund to ensure long-term sustainability, drawing inspiration from existing sovereign wealth funds and university endowments. This concept aims to provide a stable financial foundation for the protocol. The proposal is significant for the blockchain community.",
     "importance": 8,
     "classified": true
   },
@@ -1068,26 +1068,14 @@
     "classified": true
   },
   {
-    "title": "XRP holders can now borrow RLUSD on Ethereum through $280 million lending pool",
-    "link": "https://www.coindesk.com/markets/2026/08/04/flare-s-wrapped-xrp-wins-approval-in-a-usd280-million-rlusd-lending-vault",
-    "pubDate": "Tue, 04 Aug 2026 06:12:20 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "XRP holders can now borrow RLUSD against their coins on Ethereum without selling, through a $280 million vault that had never accepted an XRP-linked asset before.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/bf2fb64bb4bc73cd9c7a9df82a875d8bcc7a78a8-1440x1080.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "XRP holders are now able to borrow RLUSD on Ethereum without selling their XRP tokens. This new functionality is made possible through a $280 million lending pool that has integrated an XRP-linked asset for the first time.",
-    "importance": 7,
-    "classified": true
-  },
-  {
-    "title": "Bessent’s top crypto adviser Tyler Williams exits US Treasury: Report",
-    "link": "https://cointelegraph.com/news/bessent-top-crypto-adviser-tyler-williams-leaves-us-treasury-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Mon, 03 Aug 2026 20:29:47 +0000",
+    "title": "Missouri trio charged over alleged Bitcoin kidnapping plot",
+    "link": "https://cointelegraph.com/news/three-missouri-men-charged-bitcoin-kidnapping?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Wed, 05 Aug 2026 07:34:12 +0000",
     "source": "Cointelegraph",
     "category": "crypto",
-    "content": "A key architect of the Trump administration’s digital asset agenda is leaving the Treasury Department as Congress struggles to advance landmark crypto legislation.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/political-tokens-into-the-white-house-sec.jpg",
-    "summary": "Tyler Williams, a key architect of the Trump administration's digital asset agenda and a top crypto adviser, is reportedly leaving the US Treasury Department. His departure comes as Congress continues to struggle with advancing landmark crypto legislation.",
+    "content": "The defendants allegedly traveled from Missouri to Connecticut to kidnap a Bitcoin holder and force him to transfer cryptocurrency before abandoning the plan.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-the-role-of-cryptocurrencies-in-the-rise-of-ransomware.jpg",
+    "summary": "Three individuals from Missouri have been charged for allegedly plotting to kidnap a Bitcoin holder in Connecticut. The defendants intended to force the victim to transfer cryptocurrency, but the plan was ultimately abandoned.",
     "importance": 7,
     "classified": true
   },
@@ -1212,14 +1200,26 @@
     "classified": true
   },
   {
-    "title": "FalconX cuts 10% of workforce amid prolonged crypto market slump: Report",
-    "link": "https://cointelegraph.com/news/falconx-workforce-reduction-amid-crypto-market-slump-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Mon, 03 Aug 2026 19:44:48 +0000",
-    "source": "Cointelegraph",
+    "title": "Eliza Labs founder declares native token ‘dead,’ winds down foundation after Burwick Law settlement",
+    "link": "https://www.theblock.co/post/410774/eliza-labs-native-token-dead?utm_source=rss&utm_medium=rss",
+    "pubDate": "Wed, 05 Aug 2026 03:39:06 -0400",
+    "source": "The Block",
     "category": "crypto",
-    "content": "According to Bloomberg, the digital asset prime broker is refocusing its Singapore strategy and withdrawing its local license application as crypto companies continue to trim costs.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/layoffs-fired-human-resource-hr-leaving-quit-people-ai-1.jpg",
-    "summary": "FalconX, a digital asset prime broker, has reportedly cut 10% of its workforce and is refocusing its Singapore strategy. This decision includes withdrawing its local license application, reflecting a broader trend of crypto companies trimming costs amid a prolonged market slump.",
+    "content": "Walters said the team used its remaining treasury and available funds to settle the class action lawsuit represented by Burwick Law.",
+    "image": "https://www.tbstat.com/wp/uploads/2024/11/20241104_ZK-proofs_News_2-800x450.jpg",
+    "summary": "Eliza Labs founder has declared the native token dead and is winding down the foundation after settling a class action lawsuit with Burwick Law using remaining treasury funds. The settlement utilized all available funds, marking the end of the token. This decision follows a lawsuit represented by Burwick Law.",
+    "importance": 6,
+    "classified": true
+  },
+  {
+    "title": "Crypto PAC Fairshake scores primary wins in Michigan and Washington",
+    "link": "https://www.theblock.co/post/410744/fairshake-michigan-washington-primaries?utm_source=rss&utm_medium=rss",
+    "pubDate": "Wed, 05 Aug 2026 02:29:14 -0400",
+    "source": "The Block",
+    "category": "crypto",
+    "content": "Fairshake backed Michigan's Bill Huizenga and Washington's Suzan DelBene, Kim Schrier, Marilyn Strickland and Amanda McKinney.",
+    "image": "https://www.tbstat.com/wp/uploads/2020/11/20201105_OTC_Election-800x450.jpg",
+    "summary": "Fairshake, a crypto PAC, has achieved primary wins in Michigan and Washington by backing several candidates, including Bill Huizenga and Suzan DelBene. This indicates a growing influence of cryptocurrency-related groups in US politics. The wins are a significant development for the crypto community.",
     "importance": 6,
     "classified": true
   },
@@ -1586,7 +1586,7 @@
   {
     "title": "Here’s what happened in crypto today",
     "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Tue, 04 Aug 2026 19:59:26 +0000",
+    "pubDate": "Wed, 05 Aug 2026 05:56:55 +0000",
     "source": "Cointelegraph",
     "category": "crypto",
     "content": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
@@ -1640,18 +1640,6 @@
     "content": "As of this week in Montana, any biotech company with an experimental drug has a clear path to selling it to consumers. Companies whose drugs have been through preliminary testing—sometimes in as few as 10 healthy people—can pay $12,500 to apply to a newly established review board for approval. Once its treatment is rubber-stamped, the…",
     "image": "",
     "summary": "Montana has established a review board that allows biotech companies to sell experimental drugs to consumers after preliminary testing, potentially with as few as 10 healthy participants, for a $12,500 application fee. This move aims to turn Montana into an experimental medical hub. The state's new approach could significantly impact the medical industry.",
-    "importance": 2,
-    "classified": true
-  },
-  {
-    "title": "How an overlooked geothermal plant got a second chance",
-    "link": "https://www.technologyreview.com/2026/07/29/1140896/geothermal-second-chance/",
-    "pubDate": "Wed, 29 Jul 2026 17:58:44 +0000",
-    "source": "MIT Technology Review",
-    "category": "crypto",
-    "content": "In June 2024, a small company called Zanskar purchased a geothermal power plant in New Mexico that was failing fast. The water coming from the underground reservoir was getting colder by the day, making the plant uneconomical to run. Now, two years later, that plant is running at full capacity again, thanks to a new…",
-    "image": "",
-    "summary": "A geothermal power plant in New Mexico was on the verge of shutting down due to declining water temperatures, but was revived by a new company called Zanskar. The plant is now running at full capacity again after implementing changes. This story highlights the potential for renewal of existing geothermal energy sources.",
     "importance": 2,
     "classified": true
   },
@@ -1712,6 +1700,18 @@
     "content": "Senators and tribal gaming regulators are pushing to keep sports betting under state jurisdiction, resisting efforts by a federal regulator.",
     "image": "https://www.tbstat.com/wp/uploads/2021/12/20211208_Capitol-Congress-Regulation-800x450.jpg",
     "summary": "Senators and tribal gaming regulators are advocating to maintain state control over sports betting jurisdiction, resisting federal regulatory efforts. They are also pushing to include a prediction markets provision in the Clarity Act.",
+    "importance": 1,
+    "classified": true
+  },
+  {
+    "title": "NASA’s new dark energy space telescope can also detect killer asteroids",
+    "link": "https://www.technologyreview.com/2026/08/05/1141200/nasas-roman-telescope-detect-asteroids/",
+    "pubDate": "Wed, 05 Aug 2026 08:06:40 +0000",
+    "source": "MIT Technology Review",
+    "category": "ai",
+    "content": "At the end of August, NASA is set to launch the Nancy Grace Roman Space Telescope from Kennedy Space Center in Florida. Its quest is to help us better understand how the universe works, from the glue-like dark matter that keeps galaxies together to the elusive dark energy that drives the expansion of the cosmos.…",
+    "image": "",
+    "summary": "NASA is set to launch the Nancy Grace Roman Space Telescope to study the universe, including dark matter and dark energy. The telescope will also be able to detect killer asteroids. This mission aims to improve our understanding of the cosmos.",
     "importance": 1,
     "classified": true
   },
