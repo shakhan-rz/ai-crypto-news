@@ -492,18 +492,6 @@
     "classified": true
   },
   {
-    "title": "DEXs capture record 24% of spot crypto trading as CEX volumes sink",
-    "link": "https://www.theblock.co/post/410476/dexs-capture-record-spot-crypto-trading-as-cex-volumes-sink?utm_source=rss&utm_medium=rss",
-    "pubDate": "Mon, 03 Aug 2026 16:46:31 -0400",
-    "source": "The Block",
-    "category": "crypto",
-    "content": "Spot exchange volume is on track to set a new 12-month low at $670 million, down from its annual high of $2.23 trillion.",
-    "image": "https://www.tbstat.com/wp/uploads/2020/10/Decentralized_Gen_10.2-Daily-800x450.jpg",
-    "summary": "Spot exchange volume has reached a 12-month low of $670 million, down from its annual high of $2.23 trillion, while decentralized exchanges (DEXs) have captured a record 24% of spot crypto trading. This shift indicates a significant change in the cryptocurrency market. DEXs are gaining traction as an alternative to traditional centralized exchanges.",
-    "importance": 8,
-    "classified": true
-  },
-  {
     "title": "Self Custody Is Dead. Long Live Self Custody",
     "link": "https://bitcoinmagazine.com/culture/self-custody-is-dead-long-live-self-custody",
     "pubDate": "Tue, 04 Aug 2026 21:25:26 +0000",
@@ -756,6 +744,30 @@
     "classified": true
   },
   {
+    "title": "AMD&#8217;s data center business is booming while gaming takes a backseat",
+    "link": "https://www.theverge.com/tech/975381/amd-q2-2026-earnings-ai-gaming-ryzen",
+    "pubDate": "2026-08-04T20:57:49.000Z",
+    "source": "The Verge AI",
+    "category": "ai",
+    "content": "Driven by demand for AI capacity, AMD's data center revenue more than doubled year-over-year in its latest earnings report, reaching $6.7 billion. That's up from $5.8 billion in Q1, and jumping 107 percent from the $3.2 billion it reported for the same period a year ago. During Tuesday's earnings call, AMD CEO Lisa Su said the company expects \"data center segment revenue to more than double year-over-year in 2027,\" as well. \nAt the same time, AMD's gaming revenue fell 31 percent compared to last year, to $779 million, as price hikes and component shortages slowed sales for the Xbox Series X / S, PS5, and Valve's Steam Deck. On a call after  …\nRead the full story at The Verge.",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24002467/acastro_STK081_amd_02.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "summary": "AMD's data center revenue has more than doubled year-over-year, driven by demand for AI capacity, reaching $6.7 billion. In contrast, the company's gaming revenue fell 31 percent compared to last year. AMD expects its data center segment revenue to more than double year-over-year in 2027.",
+    "importance": 8,
+    "classified": true
+  },
+  {
+    "title": "SpaceX made more revenue as an AI company than a space company",
+    "link": "https://www.theverge.com/science/975335/spacex-made-more-money-as-a-neocloud",
+    "pubDate": "2026-08-04T20:47:55.000Z",
+    "source": "The Verge AI",
+    "category": "ai",
+    "content": "SpaceX's AI revenue grew more than three times to $2.6 billion from the year before, mostly because of deals that the company made to provide compute to other AI companies, according to SpaceX's quarterly earnings. The AI division, which the company said in its documents to go public was the source of most of its value, lost $1.5 billion this quarter, slightly less than in the same quarter last year.\nSpaceX made deals with Anthropic in May and Google in June to provide compute to the other two AI companies, putting it in competition with other neoclouds such as CoreWeave. The increased presence in AI is also driving the company to spend mor …\nRead the full story at The Verge.",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/gettyimages-2286629860.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "summary": "SpaceX's AI revenue has grown to $2.6 billion, more than three times the previous year, due to deals with other AI companies, while its AI division lost $1.5 billion this quarter. The company is increasing its presence in the AI sector through partnerships with companies like Anthropic and Google. This growth puts SpaceX in competition with other cloud computing providers like CoreWeave.",
+    "importance": 8,
+    "classified": true
+  },
+  {
     "title": "‘Not healthy’ LLM use is more common than you think",
     "link": "https://www.theverge.com/ai-artificial-intelligence/975180/llm-ai-chatbot-use-not-healthy",
     "pubDate": "2026-08-04T17:33:46.000Z",
@@ -812,18 +824,6 @@
     "content": "The Alibaba logo is displayed outside its headquarters in Hangzhou, Zhejiang Province, China. | Image: NurPhoto via Getty Images\t\n\nChinese tech giant Alibaba released what it says is its largest and \"most capable AI model to date,\" claiming performance rivaling the best systems from US frontier labs Anthropic and OpenAI, as well as domestic rivals like Moonshot AI's Kimi K3.  Alibaba said it was making the model, Qwen3.8-Max, widely available to users in a blog post published on Monday. The release had been expected after the company previewed the model last month, when it claimed it was \"second only to Fable 5,\" Anthropic's flagship.\nThe open release of another highly capable Chinese AI model adds to sky-high tensions along multiple fronts in Silicon Valley and Washin …\nRead the full story at The Verge.",
     "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/gettyimages-2266883826.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
     "summary": "Alibaba released its largest AI model, Qwen3.8-Max, which it claims rivals the performance of top US models, and is making it widely available to users. This move adds to tensions in Silicon Valley and Washington. The model's release was expected after a preview last month.",
-    "importance": 8,
-    "classified": true
-  },
-  {
-    "title": "Is paying artists enough to convince them to embrace AI?",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/974018/pippa-seedance-artist-royalties",
-    "pubDate": "2026-08-02T13:00:00.000Z",
-    "source": "The Verge AI",
-    "category": "ai",
-    "content": "Illustrators have spent years sounding the alarm about generative artificial intelligence startups training their models on artists' work without permission. They've pointed out how the practice is tantamount to theft, and in response, many gen AI boosters have argued that it's necessary for the technology's evolution. This has led to contentious legal battles, but it's also given rise to a new wave of AI startups like Pippa that market their services as being more ethical than the competition.\nLike most companies selling access to text-to-video models, Pippa's main product is short bursts of user-generated footage that can be cobbled toget …\nRead the full story at The Verge.",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Screenshot-2026-07-31-at-4.11.25-PM.png?quality=90&#038;strip=all&#038;crop=2.6881256103516,0,97.311874389648,100",
-    "summary": "The article addresses the ongoing ethical debate regarding generative AI models training on artists' work without permission, a practice artists often equate to theft. It highlights the resulting legal battles and the emergence of 'ethical' AI startups, such as Pippa, that aim to pay artists for their contributions. The central question explored is whether financial compensation will be enough to convince artists to embrace AI technology.",
     "importance": 8,
     "classified": true
   },
@@ -1512,18 +1512,6 @@
     "classified": true
   },
   {
-    "title": "Is this Billboard Hot 100 hit AI slop?",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/974209/fenix-flexin-billboard-hot-100-rubberz-ai-slop",
-    "pubDate": "2026-08-01T18:20:00.000Z",
-    "source": "The Verge AI",
-    "category": "ai",
-    "content": "That cover art is almost certainly AI, too. | Image: Fenix Flexin\t\n\nFenix Flexin is best known as a member of Shoreline Mafia, a rap duo from Los Angeles. But he's recently found solo success with the track \"Rubberz,\" which has climbed to number 58 on the Billboard Hot 100. Almost immediately, though, questions were raised about the song's origins, with many speculating that it was largely, if not entirely, generated by AI. Fenix has denied those accusations, but done little to dispel them.\nPart of the suspicion is certainly due to the fact that the song is a dramatic left turn. Fenix has primarily trafficked in trap-influenced West Coast rap. \"Rubberz,\" on the other hand, is heavily influenced by '80s UK s …\nRead the full story at The Verge.",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/artworks-WsdIgVXV8NOV-0-t1080x1080.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "summary": "Fenix Flexin's song 'Rubberz' has raised questions about its origins, with many speculating it was generated by AI, despite the artist's denial. The song's style is a departure from Fenix's usual trap-influenced West Coast rap. 'Rubberz' has climbed to number 58 on the Billboard Hot 100.",
-    "importance": 6,
-    "classified": true
-  },
-  {
     "title": "Reddit keeps its strange DMCA fight over Google search results alive",
     "link": "https://arstechnica.com/tech-policy/2026/07/reddit-keeps-weird-dmca-lawsuit-against-web-scraper-alive-despite-googles-loss/",
     "pubDate": "Fri, 31 Jul 2026 21:19:39 +0000",
@@ -1712,6 +1700,18 @@
     "content": "Your day-ahead look for Aug. 4, 2026",
     "image": "https://cdn.sanity.io/images/s3y3vcno/production/cde7c5c55d62c3364cef9c31433ea411ca1bbd11-2854x1488.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
     "summary": "The news article's title highlights a prevailing calm in the bitcoin market despite potential reasons for concern. The content is identified as a 'day-ahead look' for August 4, 2026, suggesting a market outlook or forecast.",
+    "importance": 1,
+    "classified": true
+  },
+  {
+    "title": "Tribal gaming regulators, senators make a renewed push to add prediction markets provision to Clarity Act",
+    "link": "https://www.theblock.co/post/410668/tribal-gaming-regulators-senators-make-renewed-push-add-prediction-markets-provision-clarity-act?utm_source=rss&utm_medium=rss",
+    "pubDate": "Tue, 04 Aug 2026 18:15:26 -0400",
+    "source": "The Block",
+    "category": "crypto",
+    "content": "Senators and tribal gaming regulators are pushing to keep sports betting under state jurisdiction, resisting efforts by a federal regulator.",
+    "image": "https://www.tbstat.com/wp/uploads/2021/12/20211208_Capitol-Congress-Regulation-800x450.jpg",
+    "summary": "Senators and tribal gaming regulators are advocating to maintain state control over sports betting jurisdiction, resisting federal regulatory efforts. They are also pushing to include a prediction markets provision in the Clarity Act.",
     "importance": 1,
     "classified": true
   },
