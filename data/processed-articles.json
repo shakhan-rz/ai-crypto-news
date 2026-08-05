@@ -72,12 +72,24 @@
     "classified": true
   },
   {
+    "title": "Coldcard exploit could boost demand for regulated bitcoin exposure, analysts say",
+    "link": "https://www.coindesk.com/tech/2026/08/05/coldcard-exploit-could-boost-demand-for-regulated-bitcoin-exposure-analysts-say",
+    "pubDate": "Wed, 05 Aug 2026 15:44:08 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "Cantor sees positive read-through for crypto custody providers, while FRNT says the breach could drive some investors toward bitcoin ETFs.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/df75194a14ee0137a319a24c95c7971dfac737a2-4896x3268.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "An exploit involving Coldcard is anticipated to increase demand for regulated bitcoin exposure. Analysts from Cantor and FRNT suggest this could positively impact crypto custody providers and encourage investors to consider bitcoin ETFs.",
+    "importance": 8,
+    "classified": true
+  },
+  {
     "title": "Nomura’s Laser Digital backs ZIGChain for onchain private credit push in UAE",
     "link": "https://www.coindesk.com/business/2026/08/05/noumura-s-laser-digital-backs-zigchain-for-onchain-private-credit-push-in-uae",
     "pubDate": "Wed, 05 Aug 2026 13:25:04 +0000",
     "source": "CoinDesk",
     "category": "crypto",
-    "content": "Laser’s investment in ZIGChain is understood to be in the high single-digit millions.",
+    "content": "Laser’s investment in ZIGChain is understood to be in the single-digit millions.",
     "image": "https://cdn.sanity.io/images/s3y3vcno/production/1c5f9936bbd084d1a17d68695e5de5b4ec268eb4-778x509.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
     "summary": "Nomura's crypto arm, Laser Digital, has invested a significant amount in ZIGChain, a deal reportedly in the high single-digit millions. This investment aims to drive the expansion of onchain private credit initiatives, particularly focusing on the UAE market.",
     "importance": 8,
@@ -192,26 +204,14 @@
     "classified": true
   },
   {
-    "title": "Bitcoin’s $63,000 zone emerges as key battleground for buyers: Glassnode",
-    "link": "https://www.coindesk.com/markets/2026/08/04/bitcoin-s-usd63-000-zone-emerges-as-key-battleground-for-buyers-glassnode",
-    "pubDate": "Tue, 04 Aug 2026 14:49:33 +0000",
-    "source": "CoinDesk",
+    "title": "Crypto whales accumulate as bear market nears late stage: CryptoQuant",
+    "link": "https://cointelegraph.com/markets/crypto-whales-buy-bear-market-late-stage-cryptoquant?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Wed, 05 Aug 2026 14:08:27 +0000",
+    "source": "Cointelegraph",
     "category": "crypto",
-    "content": "Retail investors and large whales are buying as bitcoin trades near its 200-week moving average.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/1fef90fa61521de9a85cccfd07689eec3083aee1-3200x1800.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "Bitcoin's $63,000 price zone has emerged as a key battleground for buyers, with both retail investors and large whales actively accumulating the cryptocurrency. This significant buying activity is occurring as Bitcoin trades near its critical 200-week moving average.",
-    "importance": 8,
-    "classified": true
-  },
-  {
-    "title": "Polymarket targets $20 billion valuation as competition heats up in prediction market sector",
-    "link": "https://www.coindesk.com/markets/2026/08/04/polymarket-targets-usd20-billion-valuation-as-competition-heats-up-in-prediction-markets",
-    "pubDate": "Tue, 04 Aug 2026 14:38:23 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "The blockchain-based prediction markets platform is reportedly returning to investors months after a $15 billion funding round.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/473cadb20fe4e7c052f29ddddcf48b15aee79ec0-1920x1152.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "Polymarket, a blockchain-based prediction markets platform, is reportedly seeking a $20 billion valuation after a recent $15 billion funding round. This move comes as competition in the prediction market sector heats up. The company's valuation target indicates its confidence in its growth prospects.",
+    "content": "Bitcoin, Ethereum and XRP whales increased balances during market weakness, as CryptoQuant said large holders are absorbing supply ahead of a possible bottom.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/article-covers-34555-analysts-laugh-off-recent-one-whale-theory-of-btcs-2017-bull-run.jpg",
+    "summary": "Bitcoin, Ethereum, and XRP whales have increased their balances during market weakness, according to CryptoQuant, as large holders absorb supply ahead of a possible bottom. This suggests that these whales are accumulating assets in anticipation of a market rebound. The move may indicate that the bear market is nearing its late stage.",
     "importance": 8,
     "classified": true
   },
@@ -408,6 +408,18 @@
     "classified": true
   },
   {
+    "title": "Kraken parent Payward shifts position on tokenized equities and voting rights",
+    "link": "https://www.theblock.co/post/410878/kraken-parent-payward-shifts-position-tokenized-equities-voting-rights?utm_source=rss&utm_medium=rss",
+    "pubDate": "Wed, 05 Aug 2026 11:26:17 -0400",
+    "source": "The Block",
+    "category": "crypto",
+    "content": "While previously xStocks holders had no voting rights, this deal will allow eligible investors to submit proxy voting preferences.",
+    "image": "https://www.tbstat.com/wp/uploads/2026/06/20260612_Kraken_News_2-800x450.jpg",
+    "summary": "Payward, the parent company of Kraken, has changed its stance on tokenized equities and voting rights, allowing eligible investors to submit proxy voting preferences. This shift will impact xStocks holders, who previously had no voting rights. The move is a significant development in the intersection of cryptocurrency and traditional finance.",
+    "importance": 8,
+    "classified": true
+  },
+  {
     "title": "World Chain becomes first production L2 to ship streaming Block Access Lists via Flashblocks",
     "link": "https://www.theblock.co/post/410651/world-chain-first-production-l2-block-access-lists-via-flashblocks?utm_source=rss&utm_medium=rss",
     "pubDate": "Wed, 05 Aug 2026 09:00:02 -0400",
@@ -504,26 +516,14 @@
     "classified": true
   },
   {
-    "title": "Dinari launches tokenized S&P 500 stocks for US self-custody wallets using USDC",
-    "link": "https://www.theblock.co/post/410588/dinari-tokenized-sp-500-stocks-self-custody-wallets-using-usdc?utm_source=rss&utm_medium=rss",
-    "pubDate": "Tue, 04 Aug 2026 11:27:00 -0400",
-    "source": "The Block",
-    "category": "both",
-    "content": "Tokenizing equities has generated significant interest from both crypto natives and firms like JPMorgan and Goldman Sachs.",
-    "image": "https://www.tbstat.com/wp/uploads/2025/01/20250102_USDC_News2-800x450.jpg",
-    "summary": "Dinari has launched tokenized S&P 500 stocks for US self-custody wallets using USDC, generating interest from both crypto natives and traditional firms. This move allows for greater accessibility and flexibility in trading traditional assets. It has the potential to bridge the gap between crypto and traditional finance.",
-    "importance": 8,
-    "classified": true
-  },
-  {
-    "title": "BitGo moves $7.4 billion Wrapped Bitcoins to Chainlink CCIP in latest LayerZero exodus",
-    "link": "https://www.theblock.co/post/410594/bitgo-moves-7-4-billion-wrapped-bitcoins-to-chainlink-ccip-in-latest-layerzero-exodus?utm_source=rss&utm_medium=rss",
-    "pubDate": "Tue, 04 Aug 2026 11:24:31 -0400",
-    "source": "The Block",
+    "title": "‘If Clarity Dies, Democrats Killed It’: Lummis Urges Senate to Act on Crypto Bill Before Recess",
+    "link": "https://bitcoinmagazine.com/news/cynthia-lummis-urges-clarity-act-speed",
+    "pubDate": "Wed, 05 Aug 2026 16:12:01 +0000",
+    "source": "Bitcoin Magazine",
     "category": "crypto",
-    "content": "The move pushes the total value migrating from LayerZero to Chainlink near $15 billion, with WBTC representing the largest shift yet.",
-    "image": "https://www.tbstat.com/wp/uploads/2020/07/20200706_WBTC-800x450.jpg",
-    "summary": "BitGo has moved $7.4 billion in Wrapped Bitcoins to Chainlink CCIP, marking a significant shift from LayerZero. This move brings the total value migrating to Chainlink to nearly $15 billion. WBTC represents the largest shift yet in this migration.",
+    "content": "Bitcoin Magazine\n\n‘If Clarity Dies, Democrats Killed It’: Lummis Urges Senate to Act on Crypto Bill Before Recess\nTime is running out for the Clarity Act. Senator Lummis warns that some lawmakers still want to delay the bill. \nThis post ‘If Clarity Dies, Democrats Killed It’: Lummis Urges Senate to Act on Crypto Bill Before Recess first appeared on Bitcoin Magazine and is written by Mathew Di Salvo.",
+    "image": "https://bitcoinmagazine.com/wp-content/uploads/2025/05/President-Trump-Supports-Strategic-Bitcoin-Reserve-Bill-Senator-Lummis-Says.jpg",
+    "summary": "Senator Lummis is urging the Senate to pass the Clarity Act, a crypto bill, before recess, warning that delays may kill the bill. The bill's fate is uncertain due to some lawmakers' desire to postpone it. The senator is pushing for action to provide clarity for the crypto industry.",
     "importance": 8,
     "classified": true
   },
@@ -612,14 +612,26 @@
     "classified": true
   },
   {
-    "title": "The Download: tricking LLMs, and reviving geothermal plants",
-    "link": "https://www.technologyreview.com/2026/07/30/1140936/the-download-tricking-llms-reviving-geothermal/",
-    "pubDate": "Thu, 30 Jul 2026 12:10:00 +0000",
-    "source": "MIT Technology Review",
+    "title": "Shopify says AI search is driving more traffic and sales, not replacing Google",
+    "link": "https://techcrunch.com/2026/08/05/shopify-says-ai-search-is-driving-more-traffic-and-sales-not-replacing-google/",
+    "pubDate": "Wed, 05 Aug 2026 15:56:14 +0000",
+    "source": "TechCrunch AI",
     "category": "ai",
-    "content": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. A fundamental flaw leaves LLMs strikingly vulnerable to attack  It is impossible to make large language models fully secure against hacks because of a fundamental flaw in how they work, a…",
-    "image": "https://wp.technologyreview.com/wp-content/uploads/2025/12/Helsing_CA-1_Europa_design_study_2.jpg?w=840",
-    "summary": "A fundamental flaw in large language models makes them vulnerable to attacks, and it's impossible to make them fully secure. This flaw affects how they work, making them susceptible to hacks. Researchers are working to address this issue.",
+    "content": "Shopify says AI isn’t cannibalizing search traffic the way it has for publishers. Instead, AI-driven traffic and orders to Shopify stores tripled year over year in Q2.",
+    "image": "",
+    "summary": "Shopify reports that AI-driven search has tripled traffic and orders to its stores year over year in Q2, contradicting concerns that AI would replace traditional search methods. This increase suggests AI is supplementing rather than replacing existing search traffic. The findings indicate a positive impact of AI on Shopify's platform.",
+    "importance": 8,
+    "classified": true
+  },
+  {
+    "title": "Anthropic is hiring an AI chip design team",
+    "link": "https://techcrunch.com/2026/08/05/anthropic-is-hiring-an-ai-chip-design-team/",
+    "pubDate": "Wed, 05 Aug 2026 14:13:18 +0000",
+    "source": "TechCrunch AI",
+    "category": "ai",
+    "content": "Anthropic is building a team for designing its own custom AI chips. The Claude maker said it would co-design hardware and models to help its technology run faster and more efficiently.",
+    "image": "",
+    "summary": "Anthropic is forming a team to design custom AI chips, aiming to co-design hardware and models for faster and more efficient performance of its technology, including its Claude model.",
     "importance": 8,
     "classified": true
   },
@@ -744,30 +756,6 @@
     "classified": true
   },
   {
-    "title": "A Marc Benioff-backed startup thinks AI can solve the AI deployment problem",
-    "link": "https://techcrunch.com/2026/08/03/a-marc-benioff-backed-startup-thinks-ai-can-solve-the-ai-deployment-problem/",
-    "pubDate": "Mon, 03 Aug 2026 10:00:00 +0000",
-    "source": "TechCrunch AI",
-    "category": "ai",
-    "content": "June emerged from stealth today with a $20 million pre-seed round to make AI adoption simpler.",
-    "image": "",
-    "summary": "June, a startup backed by Marc Benioff, has emerged from stealth with a $20 million pre-seed round to simplify AI adoption. The company aims to solve the AI deployment problem using AI itself. This innovation could make AI more accessible to businesses.",
-    "importance": 8,
-    "classified": true
-  },
-  {
-    "title": "Google Assistant will disappear from your phone next month",
-    "link": "https://www.theverge.com/tech/975516/google-assistant-android-phones-tablets-shutdown",
-    "pubDate": "2026-08-05T11:12:50.000Z",
-    "source": "The Verge AI",
-    "category": "ai",
-    "content": "Farewell, Google Assistant art, we hardly knew ye. | Illustration by Alex Castro / The Verge\t\n\nGoogle Assistant's days have been numbered ever since Gemini arrived on the scene, and its time is now up. Google has announced that it will be removing access to Assistant on Android phones and tablets, along with paired devices like smartwatches or headphones, from September 4th.\nThe announcement came in an email apparently sent to some users, as reported by 9to5Google and shared in full on Reddit. The Verge has asked Google for confirmation that the email is accurate, and will update this story once we have it. \n\"We will begin removing access to Google Assistant starting on 4 September,\" Google states in the email, \"and expect that this …\nRead the full story at The Verge.",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/19482921/acastro_180510_1777_google_assistant_0001.0.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "summary": "Google is removing access to Google Assistant on Android phones and tablets starting September 4th, replacing it with Gemini. The change will also affect paired devices like smartwatches and headphones. This shift marks the end of Google Assistant as it currently exists.",
-    "importance": 8,
-    "classified": true
-  },
-  {
     "title": "AMD&#8217;s data center business is booming while gaming takes a backseat",
     "link": "https://www.theverge.com/tech/975381/amd-q2-2026-earnings-ai-gaming-ryzen",
     "pubDate": "2026-08-04T20:57:49.000Z",
@@ -836,6 +824,18 @@
     "content": "The EU made some AI labels that companies can use instead of designing their own. | Image: The European Commission / The Verge\t\n\nThe European Union has ushered in some additional rules that aim to make it easier for people to identify chatbots and AI deepfakes online. The new transparency obligations under the bloc's landmark AI Act came into effect on August 2nd, requiring companies to disclose when people are interacting with AI models, and if content has been generated or altered by them.\nThe transparency rules differ between providers (companies that develop and market AI systems) and deployers (platforms and services that use those AI systems), though some companies like Meta and SpaceXAI are classified as both.\nProviders must design AI systems to explicitly no …\nRead the full story at The Verge.",
     "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/268679_Europes_AI_labeling_and_transparency_rules_are_now_in_effect_CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
     "summary": "The European Union has introduced new transparency rules for AI, requiring companies to disclose when people interact with AI models or altered content, aiming to make it easier to identify chatbots and deepfakes online. The rules differ between AI providers and deployers. The new rules came into effect on August 2nd.",
+    "importance": 8,
+    "classified": true
+  },
+  {
+    "title": "China&#8217;s Alibaba takes another swipe at America’s AI supremacy",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/974342/alibaba-qwen-max-open-weight-ai",
+    "pubDate": "2026-08-03T11:01:11.000Z",
+    "source": "The Verge AI",
+    "category": "ai",
+    "content": "The Alibaba logo is displayed outside its headquarters in Hangzhou, Zhejiang Province, China. | Image: NurPhoto via Getty Images\t\n\nChinese tech giant Alibaba released what it says is its largest and \"most capable AI model to date,\" claiming performance rivaling the best systems from US frontier labs Anthropic and OpenAI, as well as domestic rivals like Moonshot AI's Kimi K3.  Alibaba said it was making the model, Qwen3.8-Max, widely available to users in a blog post published on Monday. The release had been expected after the company previewed the model last month, when it claimed it was \"second only to Fable 5,\" Anthropic's flagship.\nThe open release of another highly capable Chinese AI model adds to sky-high tensions along multiple fronts in Silicon Valley and Washin …\nRead the full story at The Verge.",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/gettyimages-2266883826.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "summary": "Alibaba has released its largest AI model, Qwen3.8-Max, which it claims has performance rivaling top US labs like Anthropic and OpenAI. The model is now widely available to users, adding to tensions in Silicon Valley. Alibaba's move is seen as a challenge to US AI supremacy.",
     "importance": 8,
     "classified": true
   },
@@ -996,27 +996,27 @@
     "classified": true
   },
   {
-    "title": "What happens when you put AI to work deciphering lost languages?",
-    "link": "https://arstechnica.com/science/2026/07/what-happens-when-you-put-ai-to-work-deciphering-lost-languages/",
-    "pubDate": "Wed, 29 Jul 2026 13:23:31 +0000",
-    "source": "Ars Technica AI",
-    "category": "ai",
-    "content": "AI is fantastic at spotting patterns, but human insight is the key.",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/etruscan-1024x648.jpg",
-    "summary": "Researchers are using AI to decipher lost languages, leveraging its pattern-spotting capabilities, but also emphasizing the importance of human insight in the process. This combination of human and artificial intelligence can lead to breakthroughs in understanding previously unknown languages. The use of AI in this field has the potential to significantly advance our knowledge of ancient cultures.",
-    "importance": 8,
+    "title": "Crypto Long & Short: Putting the bitcoin sizing question to the test",
+    "link": "https://www.coindesk.com/coindesk-indices/2026/08/05/crypto-long-and-short-putting-the-bitcoin-sizing-question-to-the-test",
+    "pubDate": "Wed, 05 Aug 2026 15:03:19 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "In a follow-up to his essay on sizing crypto risk, Lionsoul Global's Gregory Mall backtests bitcoin in a 60/40 across bull, bear and sideways regimes, showing how a straight bitcoin position, a large-cap basket and a trend-managed sleeve part ways and why the way you hold bitcoin can matter as much as how much you hold.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/f066ec84ad6156be84349aefba10e930edf5f59c-7360x4912.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "Gregory Mall backtested Bitcoin's performance within a 60/40 portfolio across bull, bear, and sideways market regimes. His analysis compared a straight Bitcoin position, a large-cap crypto basket, and a trend-managed sleeve, revealing that the method of holding Bitcoin can be as crucial as the quantity held.",
+    "importance": 7,
     "classified": true
   },
   {
-    "title": "Google's SynthID watermark is hard to break, but it doesn't solve AI disinformation",
-    "link": "https://arstechnica.com/ai/2026/07/tested-google-synthid-works-great-but-labeling-ai-content-may-be-a-losing-game/",
-    "pubDate": "Wed, 29 Jul 2026 11:00:39 +0000",
-    "source": "Ars Technica AI",
-    "category": "ai",
-    "content": "Deciding what's real on the Internet won't be easy in the future.",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/synthid-fingerprint-1152x648.jpg",
-    "summary": "Google has introduced SynthID, a watermark aimed at identifying AI-generated content, but it may not be effective in solving AI misinformation. The tool's difficulty to break is noted, but its overall impact on combating misinformation is uncertain. The future of distinguishing real from fake online content remains challenging.",
-    "importance": 8,
+    "title": "Strategy’s STRC rebounds 30% as company builds cash reserve, bitcoin price stabilizes",
+    "link": "https://www.coindesk.com/markets/2026/08/05/strategy-s-strc-rebounds-30-as-company-builds-cash-reserve-bitcoin-price-stabilizes",
+    "pubDate": "Wed, 05 Aug 2026 14:44:30 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "Bitcoin sales, what is now a $4 billion cash reserve, and a $975 million repurchase program, have supported STRC’s recovery.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/1b143885ed58dece3a26646b1d6d4e198494e466-1534x969.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "STRC's stock rebounded 30%, a recovery supported by the company's Bitcoin sales, which helped build a $4 billion cash reserve and fund a $975 million repurchase program. This positive movement also coincided with a stabilization in Bitcoin's price.",
+    "importance": 7,
     "classified": true
   },
   {
@@ -1056,18 +1056,6 @@
     "classified": true
   },
   {
-    "title": "Dinari brings tokenized U.S. stocks to American investors as equity race heats up",
-    "link": "https://www.coindesk.com/business/2026/08/04/dinari-brings-tokenized-u-s-stocks-to-american-investors-as-equity-race-heats-up",
-    "pubDate": "Tue, 04 Aug 2026 14:00:00 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "The move brings the custodial tokenization model to eligible U.S. investors as competition over blockchain-based equities intensifies.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/c9255df7fcdaef0e272bed71c29a3b20ac87ef51-1170x780.webp?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "Dinari is launching tokenized U.S. stocks for eligible American investors, utilizing a custodial tokenization model. This move intensifies the competition within the growing market for blockchain-based equities.",
-    "importance": 7,
-    "classified": true
-  },
-  {
     "title": "Missouri trio charged over alleged Bitcoin kidnapping plot",
     "link": "https://cointelegraph.com/news/three-missouri-men-charged-bitcoin-kidnapping?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "pubDate": "Wed, 05 Aug 2026 07:34:12 +0000",
@@ -1077,6 +1065,18 @@
     "image": "https://s3-images.ctmedia.io/media/article-covers/hi-the-role-of-cryptocurrencies-in-the-rise-of-ransomware.jpg",
     "summary": "Three individuals from Missouri have been charged for allegedly plotting to kidnap a Bitcoin holder in Connecticut. The defendants intended to force the victim to transfer cryptocurrency, but the plan was ultimately abandoned.",
     "importance": 7,
+    "classified": true
+  },
+  {
+    "title": "Ondo Finance hires former Blockchain.com CFO Adam Schlisman",
+    "link": "https://www.coindesk.com/business/2026/08/05/ondo-finance-hires-former-blockchain-com-cfo-adam-schlisman",
+    "pubDate": "Wed, 05 Aug 2026 13:00:00 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "The tokenized-assets firm appointed ex-Blockchain.com and Monashee executive as finance chief as it expands its onchain capital markets business.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/a847196eb90f8db8671bc9cfaff6f4139272f8d3-1672x941.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "Ondo Finance has hired Adam Schlisman, former CFO of Blockchain.com, as its new finance chief. This appointment is part of the company's expansion of its onchain capital markets business. Schlisman's experience is expected to aid the firm's growth.",
+    "importance": 6,
     "classified": true
   },
   {
@@ -1100,18 +1100,6 @@
     "content": "BTC held near $64,000 as MSCI's world index set another peak and Brent fell toward a Hormuz deal. Ether is the only major down on the week.",
     "image": "https://cdn.sanity.io/images/s3y3vcno/production/5dff6ed058589d3d749c6423fadd99ca9476909d-5083x3388.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
     "summary": "Bitcoin remains steady at $64,000 as global stock markets reach new highs, while Ether experiences a decline. The price stability of Bitcoin comes amidst a potential deal in Hormuz and a decline in Brent. This news may have implications for cryptocurrency investors and the broader financial market.",
-    "importance": 6,
-    "classified": true
-  },
-  {
-    "title": "Intesa Sanpaolo slashed IBIT stake by 94% in 2Q, tripled ether ETF holding as crypto prices slumped",
-    "link": "https://www.coindesk.com/business/2026/08/04/intesa-sanpaolo-slashed-ibit-stake-by-94-in-2q-tripled-ether-etf-holding-as-crypto-prices-slumped",
-    "pubDate": "Tue, 04 Aug 2026 14:25:50 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "The Italian bank tripled its holding of iShares Staked Ethereum Trust ETF stake as total bitcoin ETF holdings fell 35% to $69.3 million.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/4f6884d703d96bd3df7b3b79f2b9d501d7fcae0f-1280x720.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "Intesa Sanpaolo reduced its IBIT stake by 94% and tripled its holding of an Ethereum ETF, despite a decline in crypto prices. The bank's total bitcoin ETF holdings decreased by 35% to $69.3 million. This move indicates a shift in the bank's investment strategy amidst market fluctuations.",
     "importance": 6,
     "classified": true
   },
@@ -1212,26 +1200,14 @@
     "classified": true
   },
   {
-    "title": "Tether Gold reserves rise 9.5% as gold posts worst quarter in 13 years",
-    "link": "https://cointelegraph.com/news/tether-gold-rise-q2-sharpest-quarterly-gold-correction?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Tue, 04 Aug 2026 12:30:07 +0000",
-    "source": "Cointelegraph",
-    "category": "crypto",
-    "content": "XAUt added to its bullion backing during gold’s worst quarter since 2013, as tokenized commodity holder counts continued to rise.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-crypto-guys-in-the-list-of-richest.jpg",
-    "summary": "Tether Gold's reserves have increased by 9.5% despite gold experiencing its worst quarter in 13 years since 2013. The growth in reserves is accompanied by a rise in tokenized commodity holders. This development suggests a growing interest in tokenized assets.",
-    "importance": 6,
-    "classified": true
-  },
-  {
-    "title": "Italy’s biggest bank triples staked Ether ETF holdings while cutting IBIT shares",
-    "link": "https://cointelegraph.com/news/intesa-sanpaolo-bank-staked-ether-etf-ibit-shares?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Tue, 04 Aug 2026 11:55:19 +0000",
-    "source": "Cointelegraph",
-    "category": "crypto",
-    "content": "Italy’s largest bank Intesa Sanpaolo increased its staked Ether ETF position to $7.1 million while reducing its holdings in two spot Bitcoin ETFs.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-ethereum-italy.jpg",
-    "summary": "Intesa Sanpaolo, Italy's largest bank, has increased its stake in a staked Ether ETF to $7.1 million, while reducing its holdings in two spot Bitcoin ETFs. This move suggests the bank is shifting its investment focus towards Ethereum-based assets. The bank's increased investment in Ether ETFs may indicate growing institutional interest in the cryptocurrency.",
+    "title": "Galaxy shares sink 12% after Q2 loss as AI data center business begins generating revenue",
+    "link": "https://www.theblock.co/post/410851/galaxy-shares-sink-11-after-85-million-q2-loss-despite-ai-data-center-gains?utm_source=rss&utm_medium=rss",
+    "pubDate": "Wed, 05 Aug 2026 11:02:26 -0400",
+    "source": "The Block",
+    "category": "ai",
+    "content": "Galaxy's Helios Phase I campus is expected to generate roughly $80 million in quarterly leasing revenue beginning in Q3.",
+    "image": "https://www.tbstat.com/wp/uploads/2023/03/20230301_BankruptCompanies_Galaxy-800x450.jpg",
+    "summary": "Galaxy's shares dropped 12% after reporting a Q2 loss, despite its AI data center business starting to generate revenue. The company's Helios Phase I campus is expected to bring in $80 million in quarterly leasing revenue starting in Q3. This is a significant development for Galaxy's AI business.",
     "importance": 6,
     "classified": true
   },
@@ -1332,18 +1308,6 @@
     "classified": true
   },
   {
-    "title": "Hut 8 shares slip after mild Q2 revenue miss as AI data center pipeline grows",
-    "link": "https://www.theblock.co/post/410581/hut-8-shares-slip-mild-q2-revenue-miss-ai-data-center-pipeline-grows?utm_source=rss&utm_medium=rss",
-    "pubDate": "Tue, 04 Aug 2026 11:00:35 -0400",
-    "source": "The Block",
-    "category": "both",
-    "content": "Hut 8 CEO Asher Genoot said future bitcoin exposure will primarily come through its American Bitcoin subsidiary.",
-    "image": "https://www.tbstat.com/wp/uploads/2025/10/20251028_Hut8_News-800x450.jpg",
-    "summary": "Hut 8's Q2 revenue missed expectations, but the company's AI data center pipeline is growing. The CEO stated that future bitcoin exposure will come through its American Bitcoin subsidiary. This development affects both the crypto and AI sectors.",
-    "importance": 6,
-    "classified": true
-  },
-  {
     "title": "Bitcoin Treasury Firm Strategy Pledges $250 a Year to Employee Trump Accounts",
     "link": "https://bitcoinmagazine.com/news/strategy-to-help-employee-trump-accounts",
     "pubDate": "Wed, 05 Aug 2026 13:57:09 +0000",
@@ -1392,18 +1356,6 @@
     "classified": true
   },
   {
-    "title": "‘We’ll Get Through This Bear Market,’ Says CEO of Bitcoin Treasury Company Strategy ",
-    "link": "https://bitcoinmagazine.com/news/strategy-to-get-through-bitcoin-bear-market",
-    "pubDate": "Mon, 03 Aug 2026 21:21:15 +0000",
-    "source": "Bitcoin Magazine",
-    "category": "crypto",
-    "content": "Bitcoin Magazine\n\n‘We’ll Get Through This Bear Market,’ Says CEO of Bitcoin Treasury Company Strategy \nThe biggest corporate holder of Bitcoin has again cashed out some of its crypto. \nThis post ‘We’ll Get Through This Bear Market,’ Says CEO of Bitcoin Treasury Company Strategy  first appeared on Bitcoin Magazine and is written by Mathew Di Salvo.",
-    "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/08/Strategy-MSTR-scaled.jpg",
-    "summary": "The CEO of a Bitcoin treasury company is optimistic about getting through the current bear market despite the company cashing out some of its cryptocurrency holdings. The company is the largest corporate holder of Bitcoin. The CEO's statement aims to reassure investors and the community during a difficult market period.",
-    "importance": 6,
-    "classified": true
-  },
-  {
     "title": "The Download: US robot restrictions and ICE’s DNA grab",
     "link": "https://www.technologyreview.com/2026/08/04/1141098/the-download-robot-restrictions-ice-dna/",
     "pubDate": "Tue, 04 Aug 2026 12:14:00 +0000",
@@ -1424,6 +1376,30 @@
     "content": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Humanoid robots usually elicit more cringe than awe: They stumble, kick children, and despite advances are still worse at using their hands than my toddler. It’s a nascent industry, and such robots…",
     "image": "",
     "summary": "The article discusses the current state of humanoid robots, noting their limitations and the challenges they face. It also mentions Trump's AI protectionism and its potential impact on the robotics industry. The industry is still in its early stages, with much room for improvement.",
+    "importance": 6,
+    "classified": true
+  },
+  {
+    "title": "Hark previews its browser use agent for completing tasks",
+    "link": "https://techcrunch.com/2026/08/05/hark-previews-its-browser-use-agent-for-completing-tasks/",
+    "pubDate": "Wed, 05 Aug 2026 15:46:27 +0000",
+    "source": "TechCrunch AI",
+    "category": "ai",
+    "content": "Hark claims that its browser use agent is faster and cheaper than competition.",
+    "image": "",
+    "summary": "Hark has introduced a browser use agent that it claims is faster and cheaper than its competitors, potentially streamlining task completion. This agent aims to outperform existing solutions. The significance of this agent is in its efficiency and cost-effectiveness.",
+    "importance": 6,
+    "classified": true
+  },
+  {
+    "title": "TechCrunch Disrupt 2026’s Real World AI Stage features robots, automated factories, and extinct animals ",
+    "link": "https://techcrunch.com/2026/08/05/techcrunch-disrupt-2026s-real-world-ai-stage-features-robots-automated-factories-and-extinct-animals/",
+    "pubDate": "Wed, 05 Aug 2026 15:05:00 +0000",
+    "source": "TechCrunch AI",
+    "category": "ai",
+    "content": "On our new Real World AI stage, we’ll be focusing on the intersection between the digital and physical, and all the ways we’ll continue to see a blending of the two.",
+    "image": "",
+    "summary": "TechCrunch Disrupt 2026's Real World AI Stage will explore the intersection of digital and physical worlds, featuring robots and automated factories. The stage will showcase how AI is being used in real-world applications. The event will also include discussions on unique topics such as extinct animals.",
     "importance": 6,
     "classified": true
   },
@@ -1488,54 +1464,6 @@
     "classified": true
   },
   {
-    "title": "Influencers draw backlash for attending OpenAI’s first luxury trip",
-    "link": "https://techcrunch.com/2026/08/03/influencers-draw-backlash-for-attending-openais-first-luxury-trip/",
-    "pubDate": "Mon, 03 Aug 2026 19:09:56 +0000",
-    "source": "TechCrunch AI",
-    "category": "ai",
-    "content": "OpenAI’s first-ever influencer brand trip is sparking online backlash as tensions over the use of AI continue.",
-    "image": "",
-    "summary": "OpenAI's first luxury trip for influencers has sparked online backlash amid ongoing tensions over AI use. The trip is seen as a marketing effort by OpenAI. This has led to criticism from various quarters.",
-    "importance": 6,
-    "classified": true
-  },
-  {
-    "title": "Apple finally fixed Siri. So why does it feel anticlimactic?",
-    "link": "https://techcrunch.com/2026/08/03/apple-finally-fixed-siri-so-why-does-it-feel-anticlimactic/",
-    "pubDate": "Mon, 03 Aug 2026 18:43:43 +0000",
-    "source": "TechCrunch AI",
-    "category": "ai",
-    "content": "Apple’s long-awaited AI overhaul finally makes Siri the assistant it was always supposed to be. Yet it arrives at a moment when simply being a capable AI assistant no longer feels revolutionary.",
-    "image": "",
-    "summary": "Apple's long-awaited AI overhaul has improved Siri, making it a capable AI assistant, but its launch feels anticlimactic due to the rapid evolution of chatbots in the AI landscape. Siri's capabilities, although useful, no longer feel revolutionary. The AI overhaul has made Siri what it was supposed to be, but it arrives at a time when AI assistants are expected to do more.",
-    "importance": 6,
-    "classified": true
-  },
-  {
-    "title": "Congress’ favorite AI tool? ChatGPT",
-    "link": "https://techcrunch.com/2026/08/03/congresss-favorite-ai-tool-chatgpt/",
-    "pubDate": "Mon, 03 Aug 2026 16:40:55 +0000",
-    "source": "TechCrunch AI",
-    "category": "ai",
-    "content": "House spending records show OpenAI's ChatGPT dominates paid AI use on Capitol Hill, with congressional offices relying on the chatbot to draft memos, summarize legislation, and assist constituent communications.",
-    "image": "",
-    "summary": "Congressional offices are increasingly using ChatGPT, an AI tool developed by OpenAI, to draft memos, summarize legislation, and assist with constituent communications. According to House spending records, ChatGPT dominates paid AI use on Capitol Hill. This highlights the growing reliance on AI tools in government operations.",
-    "importance": 6,
-    "classified": true
-  },
-  {
-    "title": "Trump’s AI testing plan is limited and vague",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/975509/white-house-ai-framework-open-models-excluded",
-    "pubDate": "2026-08-05T10:29:47.000Z",
-    "source": "The Verge AI",
-    "category": "ai",
-    "content": "The Trump administration's framework for assessing potential cybersecurity risks posed by advanced AI reportedly has no interest in testing open models. Axios reports that not only do the voluntary guidelines outright exclude open models - meaning anyone can download them and inspect their core components - but the framework explicitly says it can't be used to restrict open models after they've been released.\nThe AI testing framework was created after President Trump signed an executive order in June, requesting that AI companies share their frontier models with the federal government prior to release to address cybersecurity concerns. AI c …\nRead the full story at The Verge.",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/STK485_STK414_AI_SAFETY_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "summary": "The Trump administration's AI testing framework excludes open models and cannot be used to restrict them after release. The framework was created in response to an executive order to address cybersecurity concerns. It has been criticized for being limited and vague.",
-    "importance": 6,
-    "classified": true
-  },
-  {
     "title": "How an OpenAI influencer trip backfired ",
     "link": "https://www.theverge.com/tech/975173/openai-influencers-brand-trip-ai-backlash-marketing",
     "pubDate": "2026-08-04T17:46:41.000Z",
@@ -1556,6 +1484,30 @@
     "content": "Texas announced new a audit on data centers that could slow approval for new facilities seeking to connect to the state energy grid.\nGovernor Greg Abbott (R) on Monday directed the Public Utility Commission of Texas (PUCT) and the Electric Reliability Council of Texas (ERCOT) to verify and audit new data center proposals, writing that the review is needed to \"keep the grid stable and reliable.\" Data centers will need to provide information on state and local incentives they've received, how much they'd rely on the state grid, expected water consumption and sources, and how they plan to track community impacts including noise. \nIt's not cle …\nRead the full story at The Verge.",
     "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKS528_DATA_CENTERS2_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
     "summary": "Texas has introduced a new audit for data centers to ensure grid stability and reliability before they can connect to the state energy grid, requiring them to provide information on incentives, grid reliance, water consumption, and community impacts. This move may slow approval for new facilities. The audit aims to keep the grid stable.",
+    "importance": 6,
+    "classified": true
+  },
+  {
+    "title": "Fender’s CEO seems to think your bandmates are just analog AI",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/974265/fender-ceo-bud-cole-ai-music",
+    "pubDate": "2026-08-02T19:36:08.000Z",
+    "source": "The Verge AI",
+    "category": "ai",
+    "content": "Edward “Bud” Cole speaks in Japan in 2023. | Image: Jun Sato/WireImage\t\n\nFender CEO Edward \"Bud\" Cole gave an interview to T3 in May celebrating the 75th anniversary of the Telecaster with comments on AI and music that initially flew under the radar. But it has started making the rounds recently, pouring more fuel on an already raging fire of bad PR following the company pissing off basically the entire guitar-playing community by sending cease-and-desist letters to builders, claiming copyright of the Stratocaster body shape.\nSome influential guitar YouTubers have even said they're done buying Fender gear in the wake of the controversy. And Cole's resurfaced comments comparing cover songs and bandmates to a sort …\nRead the full story at The Verge.",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/gettyimages-1259130896.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "summary": "Fender CEO Edward 'Bud' Cole made comments comparing bandmates to analog AI, sparking controversy among guitar players, amidst a larger backlash over the company's copyright claims on the Stratocaster body shape. This follows the company sending cease-and-desist letters to builders. The comments have reignited a firestorm of bad PR for Fender.",
+    "importance": 6,
+    "classified": true
+  },
+  {
+    "title": "Google plans to kill Assistant on your phone on September 4",
+    "link": "https://arstechnica.com/ai/2026/08/google-plans-to-kill-assistant-on-your-phone-on-september-4/",
+    "pubDate": "Wed, 05 Aug 2026 15:30:02 +0000",
+    "source": "Ars Technica AI",
+    "category": "ai",
+    "content": "Assistant will disappear, leaving only Gemini for voice control in the coming weeks.",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/gemini-general-5-1152x648.jpg",
+    "summary": "Google plans to discontinue Assistant on phones, replacing it with Gemini for voice control, starting September 4. This change will likely impact how users interact with their devices. The reason for the switch was not specified in the report.",
     "importance": 6,
     "classified": true
   },
@@ -1620,6 +1572,18 @@
     "classified": true
   },
   {
+    "title": "Gold hits six-week highs on China demand as Bitcoin ignores fresh S&P 500 record",
+    "link": "https://cointelegraph.com/markets/gold-hits-six-week-highs-on-china-demand?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Wed, 05 Aug 2026 15:02:16 +0000",
+    "source": "Cointelegraph",
+    "category": "crypto",
+    "content": "Gold and US stocks stole the limelight on Wednesday as Bitcoin failed to gain significantly beyond $64,000.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/magazinechina-gold.png",
+    "summary": "Gold prices have reached six-week highs due to demand from China, while US stocks have also performed well, and Bitcoin has failed to gain significant value beyond $64,000. This news may indicate a shift in investor interest towards traditional assets. The lack of movement in Bitcoin's price suggests a potential stagnation in the cryptocurrency market.",
+    "importance": 4,
+    "classified": true
+  },
+  {
     "title": "Here’s what happened in crypto today",
     "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "pubDate": "Wed, 05 Aug 2026 13:20:01 +0000",
@@ -1629,6 +1593,18 @@
     "image": "https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg",
     "summary": "The article provides a daily roundup of the latest news affecting the cryptocurrency market, covering topics such as Bitcoin price movements, blockchain developments, DeFi, Web3, and regulatory updates. It serves as a quick guide to current trends and events in the crypto space.",
     "importance": 4,
+    "classified": true
+  },
+  {
+    "title": "Saylor’s Strategy joins Coinbase, Morgan Stanley and more in pledging contributions to Trump Accounts",
+    "link": "https://www.theblock.co/post/410849/saylors-strategy-joins-morgan-stanley-goldman-sachs-contributions-trump-accounts?utm_source=rss&utm_medium=rss",
+    "pubDate": "Wed, 05 Aug 2026 10:16:41 -0400",
+    "source": "The Block",
+    "category": "crypto",
+    "content": "Trump Accounts will invest in mutual funds or ETFs that track the S&P 500 or another index of mainly U.S. equities.",
+    "image": "https://www.tbstat.com/wp/uploads/2026/04/20260410_MichaelSaylor_News-800x450.jpg",
+    "summary": "Trump Accounts will receive contributions from various entities, including Saylor's Strategy, Coinbase, and Morgan Stanley, to invest in US equities through mutual funds or ETFs. The investments will track indices such as the S&P 500. This move indicates a collaborative effort among major players in the financial and technology sectors.",
+    "importance": 2,
     "classified": true
   },
   {
@@ -1668,6 +1644,18 @@
     "classified": true
   },
   {
+    "title": "SpaceX spooks investors with debut earnings report",
+    "link": "https://arstechnica.com/ai/2026/08/spacex-spooks-investors-with-debut-earnings-report/",
+    "pubDate": "Wed, 05 Aug 2026 13:59:17 +0000",
+    "source": "Ars Technica AI",
+    "category": "ai",
+    "content": "Shares slide in pre-market trading even as group says its quarterly revenues nearly doubled.",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/spacex-nasdaq-1024x648.jpg",
+    "summary": "SpaceX's debut earnings report has caused investors to become cautious, with shares sliding in pre-market trading despite the company's quarterly revenues nearly doubling. This reaction may be due to concerns over the company's financials and future growth prospects. The report's impact on investor confidence is noteworthy, but not directly related to AI or crypto.",
+    "importance": 2,
+    "classified": true
+  },
+  {
     "title": "Chrome may get faster updates with no restart required",
     "link": "https://arstechnica.com/ai/2026/07/chrome-may-get-faster-updates-with-no-restart-required/",
     "pubDate": "Thu, 30 Jul 2026 19:26:56 +0000",
@@ -1700,6 +1688,18 @@
     "content": "Senators and tribal gaming regulators are pushing to keep sports betting under state jurisdiction, resisting efforts by a federal regulator.",
     "image": "https://www.tbstat.com/wp/uploads/2021/12/20211208_Capitol-Congress-Regulation-800x450.jpg",
     "summary": "Senators and tribal gaming regulators are advocating to maintain state control over sports betting jurisdiction, resisting federal regulatory efforts. They are also pushing to include a prediction markets provision in the Clarity Act.",
+    "importance": 1,
+    "classified": true
+  },
+  {
+    "title": "Puzzle Corner",
+    "link": "https://www.technologyreview.com/2026/08/05/1141230/puzzle-corner-84/",
+    "pubDate": "Wed, 05 Aug 2026 14:56:29 +0000",
+    "source": "MIT Technology Review",
+    "category": "ai",
+    "content": "Ready for a fresh set of puzzles? Click here for the September/October 2026 Puzzle Corner, brought to you by Michael S. Branicky, ScD ’95, of the Puzzle Corner Puzzle Crew (aka PC2), which also includes Edward Faulkner ’03, MEng ’04, and Abe Kunin ’03. This column includes solutions to the May/June issue. Send problems, solutions (by October…",
+    "image": "",
+    "summary": "A new set of puzzles is available for September/October 2026, along with solutions to the previous issue. The puzzles are presented by the Puzzle Corner Puzzle Crew. The crew invites readers to send in problems and solutions for future issues.",
     "importance": 1,
     "classified": true
   },
