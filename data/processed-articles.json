@@ -1,5 +1,17 @@
 [
   {
+    "title": "Coldcard hack sparks a self-custody security overhaul: Cory Klippsten",
+    "link": "https://www.coindesk.com/markets/2026/08/05/coldcard-hack-sparks-a-self-custody-security-overhaul-cory-klippsten",
+    "pubDate": "Wed, 05 Aug 2026 09:55:32 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "The attack exposed a five-year-old firmware flaw. The industry’s rapid response is accelerating the adoption of collaborative multisig security.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/0903df38954495f9e1aeb6c9d49b67bdddee5d15-1008x567.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "A recent Coldcard hack uncovered a five-year-old firmware vulnerability, triggering a significant self-custody security overhaul. The cryptocurrency industry's swift reaction is driving the accelerated adoption of collaborative multisig security solutions.",
+    "importance": 9,
+    "classified": true
+  },
+  {
     "title": "The worst chart for bitcoin bulls right now",
     "link": "https://www.coindesk.com/markets/2026/08/05/the-worst-chart-for-bitcoin-bulls-right-now",
     "pubDate": "Wed, 05 Aug 2026 07:54:22 +0000",
@@ -60,18 +72,6 @@
     "classified": true
   },
   {
-    "title": "BlackRock debuts tokenized access to $311 billion of money market funds in Europe",
-    "link": "https://www.coindesk.com/business/2026/08/04/blackrock-debuts-tokenized-access-to-usd311-billion-of-money-market-funds-in-europe",
-    "pubDate": "Tue, 04 Aug 2026 10:03:24 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "Earlier this week, BlackRock expanded its U.S. tokenized cash platform which involved offering onchain shares of an existing fund, plus a new daily reinvestment stablecoin fund.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/5ba4e49ddffd762d22c0425a56fc08272bcd872d-1440x1080.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "BlackRock has launched tokenized access to its substantial money market funds in Europe, following an earlier expansion of its U.S. tokenized cash platform. This initiative includes offering onchain shares of existing funds and introducing a new daily reinvestment stablecoin fund.",
-    "importance": 9,
-    "classified": true
-  },
-  {
     "title": "Cloudflare introduces wallets for AI agents, plans stablecoin payments",
     "link": "https://cointelegraph.com/news/cloudflare-wallets-ai-agents-stablecoin-payments-plan?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "pubDate": "Wed, 05 Aug 2026 07:20:03 +0000",
@@ -96,15 +96,27 @@
     "classified": true
   },
   {
-    "title": "Boltz pauses service after wave of AI-assisted hacking attempts ",
-    "link": "https://cointelegraph.com/news/boltz-pauses-service-after-wave-of-ai-assisted-hacking-attempts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Tue, 04 Aug 2026 00:03:47 +0000",
-    "source": "Cointelegraph",
+    "title": "Circle shares jump as earnings beat offsets revenue miss, Arc blockchain gains Wall Street backing",
+    "link": "https://www.coindesk.com/markets/2026/08/05/circle-shares-jump-as-earnings-beat-offsets-revenue-miss-arc-blockchain-gains-wall-street-backing",
+    "pubDate": "Wed, 05 Aug 2026 11:13:17 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "Shares jumped 10% in pre-market trading as the stablecoin issuer revealed institutional adoption for its layer 1 blockchain Arc.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/13963e0d3858e00fbf1de77c79da7c5226d29b5a-1920x1080.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "Circle's shares surged 10% in pre-market trading after the stablecoin issuer announced significant institutional adoption for its new layer-1 blockchain, Arc. This positive development for Arc's Wall Street backing overshadowed a reported revenue miss, contributing to the stock's jump.",
+    "importance": 8,
+    "classified": true
+  },
+  {
+    "title": "Live updates: An AI credit bubble could set up bitcoin’s path to $1 million",
+    "link": "https://www.coindesk.com/markets/2026/08/05/live-updates-an-ai-credit-bubble-could-set-up-bitcoin-s-path-to-usd1-million",
+    "pubDate": "Wed, 05 Aug 2026 09:00:20 +0000",
+    "source": "CoinDesk",
     "category": "both",
-    "content": "The non-custodial protocol said attackers are discovering and adapting exploits faster than its small development team can identify and patch them.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/password-fraud-hacker-scam3-3.jpg",
-    "summary": "Boltz, a non-custodial protocol, has temporarily paused its services due to a surge in AI-assisted hacking attempts. The protocol reported that attackers are utilizing AI to discover and adapt exploits faster than its small development team can identify and patch them.",
-    "importance": 9,
+    "content": "Maelstrom co-founder Arthur Hayes says overleveraged AI data-center spending will eventually crack, forcing government bailouts and money printing that become the next major bitcoin catalyst.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/2771883a4e6391de7227ecc345175032a26924a9-1280x925.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "Maelstrom co-founder Arthur Hayes predicts that excessive spending on AI data centers will create a credit bubble that will eventually burst. This will necessitate government bailouts and significant money printing, which he believes will serve as the next major catalyst to propel Bitcoin's price to $1 million.",
+    "importance": 8,
     "classified": true
   },
   {
@@ -204,26 +216,62 @@
     "classified": true
   },
   {
-    "title": "First U.S. spot bitcoin ETF to close as inflows dwindle, investors chase AI returns",
-    "link": "https://www.coindesk.com/business/2026/08/04/first-u-s-spot-bitcoin-etf-to-close-as-inflows-dwindle-investors-chase-ai-returns",
-    "pubDate": "Tue, 04 Aug 2026 09:54:02 +0000",
-    "source": "CoinDesk",
-    "category": "both",
-    "content": "Hashdex's DEFI, the smallest of the funds, held $14.7 million under management, compared with $47.08 billion for BlackRock’s IBIT.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/b2b575e5fb400b044ebb5d3c2d88d2a80846eafb-1920x1080.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "Hashdex's DEFI, the smallest U.S. spot bitcoin ETF, is set to close due to dwindling inflows. This closure highlights a shift in investor focus, with many now pursuing returns in artificial intelligence. DEFI held only $14.7 million under management, a stark contrast to BlackRock's IBIT with $47.08 billion.",
+    "title": "Bitcoin ETFs log inflows as cold wallet hack reignites custody debate",
+    "link": "https://cointelegraph.com/markets/bitcoin-etfs-inflows-cold-wallet-hack-custody-debate?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Wed, 05 Aug 2026 10:43:05 +0000",
+    "source": "Cointelegraph",
+    "category": "crypto",
+    "content": "US spot Bitcoin ETFs drew $382 million in two-day inflows, with Galaxy’s Bitcoin ETF returning to gains as the Coldcard incident renewed custody concerns.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-a-stronger-foundation-for-bitcoin-etf-applications1-1.jpg",
+    "summary": "US spot Bitcoin ETFs collectively experienced $382 million in two-day inflows, with Galaxy's Bitcoin ETF notably returning to gains. This positive market activity coincided with the Coldcard incident, which reignited the ongoing debate and concerns surrounding cryptocurrency custody.",
     "importance": 8,
     "classified": true
   },
   {
-    "title": "Bhutan's GMC puts part of its bitcoin treasury to work after 10,000 BTC pledge",
-    "link": "https://www.coindesk.com/markets/2026/08/04/bhutan-s-gmc-puts-part-of-its-bitcoin-treasury-to-work-after-10-000-btc-pledge",
-    "pubDate": "Tue, 04 Aug 2026 07:56:11 +0000",
-    "source": "CoinDesk",
+    "title": "S&P gives BlackRock tokenized reserve fund top stability rating",
+    "link": "https://cointelegraph.com/news/sp-blackrock-tokenized-reserve-fund-stability?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Wed, 05 Aug 2026 10:40:43 +0000",
+    "source": "Cointelegraph",
     "category": "crypto",
-    "content": "The planned Gelephu Mindfulness City says 3iQ will run part of its bitcoin treasury on a market-neutral basis, a shift from holding the coins as a long-term national asset.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/adf4cf82040d1106a3db7981dca4bd3bfd1b5efc-1440x825.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "Bhutan's Gelephu Mindfulness City (GMC) is changing its strategy for managing its bitcoin treasury. Instead of holding the digital asset as a long-term national asset, GMC will now have 3iQ run part of its bitcoin holdings on a market-neutral basis, following an earlier pledge of 10,000 BTC.",
+    "content": "The rating recognizes the fund’s ability to maintain a stable net asset value, while S&P separately reaffirmed USDT among the lowest-rated stablecoins under its existing assessment framework.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/handshake-agreement-union-partnership-cooperation-collaboration-join-deal-blackrock-3.jpg",
+    "summary": "S&P has given BlackRock's tokenized reserve fund its top stability rating, acknowledging the fund's ability to maintain a stable net asset value. Meanwhile, S&P reaffirmed USDT as one of the lowest-rated stablecoins in its assessment framework. This development reflects the growing importance of stability in the crypto space.",
+    "importance": 8,
+    "classified": true
+  },
+  {
+    "title": "Bitcoin price-metric basket sees longest capitulation since FTX blow-up: Glassnode",
+    "link": "https://cointelegraph.com/markets/bitcoin-price-metric-basket-sees-longest-capitulation-since-ftx-blow-up-glassnode?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Wed, 05 Aug 2026 09:40:00 +0000",
+    "source": "Cointelegraph",
+    "category": "crypto",
+    "content": "Glassnode confirmed that its aggregate BTC price cycle tool was in its coldest phase since the collapse of FTX in late 2022.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/article-covers-66799-bitcoin-dominance-cycle-suggests-the-2017-crypto-rally-could-repeat.jpg",
+    "summary": "Glassnode's Bitcoin price-metric basket has entered its longest capitulation phase since the collapse of FTX in late 2022, indicating a cold market. This phase is part of Glassnode's aggregate BTC price cycle tool. The tool suggests the market is experiencing a significant downturn.",
+    "importance": 8,
+    "classified": true
+  },
+  {
+    "title": "BlackRock brings tokenized money market funds to Europe via JPMorgan",
+    "link": "https://cointelegraph.com/news/blackrock-jpmorgan-tokenized-money-market-funds-europe?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Wed, 05 Aug 2026 09:24:03 +0000",
+    "source": "Cointelegraph",
+    "category": "both",
+    "content": "JPMorgan’s Kinexys platform will tokenize select BlackRock money market fund shares denominated in pounds, euros and US dollars.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/news-crypto-studio-blackrock.jpg",
+    "summary": "BlackRock is introducing tokenized money market funds in Europe through JPMorgan's Kinexys platform, with shares denominated in pounds, euros, and US dollars. This move brings the benefits of tokenization to traditional financial products. The collaboration aims to increase efficiency and accessibility in the financial sector.",
+    "importance": 8,
+    "classified": true
+  },
+  {
+    "title": "Taiwan plans Travel Rule for domestic crypto transfers from October",
+    "link": "https://cointelegraph.com/news/taiwan-crypto-travel-rule-domestic-vasp-transfers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Wed, 05 Aug 2026 08:21:54 +0000",
+    "source": "Cointelegraph",
+    "category": "crypto",
+    "content": "Taiwan’s regulator plans to apply the Travel Rule to domestic VASP transfers from October before extending it to overseas platforms by the end of 2027.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-what-is-a-cryptocurrency-aml-and-how-does-it-work-taiwan.jpg",
+    "summary": "Taiwan's regulator plans to implement the Travel Rule for domestic crypto transfers starting October, with plans to extend it to overseas platforms by 2027. This move aims to increase transparency and compliance in crypto transactions. The regulation will affect Virtual Asset Service Providers (VASPs) operating in Taiwan.",
     "importance": 8,
     "classified": true
   },
@@ -332,78 +380,6 @@
     "content": "The first US-Japan joint yen intervention in 28 years came amid record bond yields and worries about the yen carry trade.",
     "image": "https://s3-images.ctmedia.io/media/article-covers/article-covers-226969-bitcoin-is-infrastructure.jpg",
     "summary": "The US and Japan have conducted a joint intervention in the yen market, the first in 28 years, amidst record bond yields and concerns about the yen carry trade, which may impact liquidity and affect risk assets like Bitcoin. This move could have significant implications for global financial markets. The intervention aims to stabilize the yen and mitigate potential risks.",
-    "importance": 8,
-    "classified": true
-  },
-  {
-    "title": "Nigeria sets crypto tax collection rules for digital asset platforms",
-    "link": "https://cointelegraph.com/news/nigeria-crypto-tax-rules-digital-asset-platforms?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Tue, 04 Aug 2026 07:25:32 +0000",
-    "source": "Cointelegraph",
-    "category": "crypto",
-    "content": "The framework specifies how existing tax obligations apply to crypto disposals and rewards, with some withheld amounts payable in the originating token.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-the-crypto-act-explained-nigeria.png",
-    "summary": "Nigeria has established new tax collection rules for digital asset platforms, specifying how existing tax obligations will apply to crypto disposals and rewards. The framework includes provisions for some withheld tax amounts to be paid in the originating cryptocurrency token.",
-    "importance": 8,
-    "classified": true
-  },
-  {
-    "title": "Crypto firms still seeking frontier AI access; only select few have it ",
-    "link": "https://cointelegraph.com/news/few-crypto-firms-have-access-to-frontier-ai-as-cyber-threats-escalate?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Tue, 04 Aug 2026 06:00:23 +0000",
-    "source": "Cointelegraph",
-    "category": "both",
-    "content": "Crypto executives say restricting powerful AI models may initially be justified, but it doesn’t make sense as open-source alternatives become more capable.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/ai-hack-1.jpg",
-    "summary": "Crypto executives believe that restricting access to powerful AI models is not justified, especially with open-source alternatives becoming more capable. Currently, only a select few crypto firms have access to frontier AI, but many are still seeking it. This disparity may impact the growth and development of the crypto industry.",
-    "importance": 8,
-    "classified": true
-  },
-  {
-    "title": "Coldcard Bitcoin theft tops $100M across 3 confirmed attack waves: Galaxy",
-    "link": "https://cointelegraph.com/news/coldcard-bitcoin-theft-100-million-three-waves?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Tue, 04 Aug 2026 04:47:13 +0000",
-    "source": "Cointelegraph",
-    "category": "crypto",
-    "content": "Galaxy Research said 90% of the stolen Bitcoin remains unmoved as investigators examine a suspected fourth wave that could lift losses to $130 million.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/hand-coin-laptop-hack-bitcoin.png",
-    "summary": "According to Galaxy Research, there have been three confirmed attack waves on Coldcard Bitcoin, resulting in over $100 million in losses, with 90% of the stolen Bitcoin remaining unmoved. Investigators are examining a possible fourth wave, which could increase losses to $130 million. The attacks highlight a significant security vulnerability in the system.",
-    "importance": 8,
-    "classified": true
-  },
-  {
-    "title": "Bitmine adds $19.6M in ETH, repurchases 4.5M shares",
-    "link": "https://cointelegraph.com/news/bitmine-buys-10399-eth-repurchases-4-5-million-shares?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Tue, 04 Aug 2026 03:52:56 +0000",
-    "source": "Cointelegraph",
-    "category": "crypto",
-    "content": "Bitmine said it now holds about 4.8% of Ether’s circulating supply as it pursues its 5% acquisition target.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-company-buys-ethereum-expands-treasury-to-thousands-eth-1.png",
-    "summary": "Bitmine has acquired $19.6M in ETH, now holding about 4.8% of Ether's circulating supply, and has repurchased 4.5M shares as it works towards its 5% acquisition target. This move indicates a significant investment in Ethereum. The company's actions may impact the crypto market.",
-    "importance": 8,
-    "classified": true
-  },
-  {
-    "title": "Mastercard completes $1.8B BVNK acquisition in stablecoin push",
-    "link": "https://cointelegraph.com/news/mastercard-completes-bvnk-acquisition-stablecoin-push?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Tue, 04 Aug 2026 02:58:51 +0000",
-    "source": "Cointelegraph",
-    "category": "both",
-    "content": "Mastercard said the tie-up would help banks, fintechs and enterprises expand stablecoin payments, payouts, settlement and treasury services.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-sofi-and-mastercard-move-stablecoin-settlement-into-global-network.png",
-    "summary": "Mastercard has completed its $1.8B acquisition of BVNK to enhance its stablecoin capabilities, allowing banks and fintechs to expand their stablecoin services. This move is expected to improve stablecoin payments, payouts, and settlement services. The acquisition aims to promote the growth of stablecoin adoption.",
-    "importance": 8,
-    "classified": true
-  },
-  {
-    "title": "Malaysia Blockchain Week’s OnlyFans scandal, lonely heart scammed for $3.3M: Asia Express",
-    "link": "https://cointelegraph.com/magazine/hong-kong-lonely-heart-scammed-out-of-33m-in-crypto-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Tue, 04 Aug 2026 02:03:26 +0000",
-    "source": "Cointelegraph",
-    "category": "crypto",
-    "content": "Fake romance crypto investment scams net $9 million in a single week in Hong Kong, as Malaysian authorities lose it over a crypto conference’s after-party.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/asia-express-7.jpg",
-    "summary": "A fake romance crypto investment scam in Hong Kong resulted in $9 million in losses in one week, while Malaysian authorities are dealing with a controversy over an after-party at a crypto conference. The conference, Malaysia Blockchain Week, has been marred by a scandal involving OnlyFans. A lonely heart was scammed for $3.3M in a separate incident.",
     "importance": 8,
     "classified": true
   },
@@ -564,7 +540,7 @@
     "classified": true
   },
   {
-    "title": "The Download: reward hacking explained, and suspected Iranian cyberattacks",
+    "title": "The Download: reward hacking explained and suspected Iranian cyberattacks",
     "link": "https://www.technologyreview.com/2026/08/03/1141039/the-download-reward-hacking-water-cyberattacks/",
     "pubDate": "Mon, 03 Aug 2026 12:08:00 +0000",
     "source": "MIT Technology Review",
@@ -756,6 +732,18 @@
     "classified": true
   },
   {
+    "title": "Google Assistant will disappear from your phone next month",
+    "link": "https://www.theverge.com/tech/975516/google-assistant-android-phones-tablets-shutdown",
+    "pubDate": "2026-08-05T11:12:50.000Z",
+    "source": "The Verge AI",
+    "category": "ai",
+    "content": "Farewell, Google Assistant art, we hardly knew ye. | Illustration by Alex Castro / The Verge\t\n\nGoogle Assistant's days have been numbered ever since Gemini arrived on the scene, and its time is now up. Google has announced that it will be removing access to Assistant on Android phones and tablets, along with paired devices like smartwatches or headphones, from September 4th.\nThe announcement came in an email apparently sent to some users, as reported by 9to5Google and shared in full on Reddit. The Verge has asked Google for confirmation that the email is accurate, and will update this story once we have it. \n\"We will begin removing access to Google Assistant starting on 4 September,\" Google states in the email, \"and expect that this …\nRead the full story at The Verge.",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/19482921/acastro_180510_1777_google_assistant_0001.0.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "summary": "Google is removing access to Google Assistant on Android phones and tablets starting September 4th, replacing it with Gemini. The change will also affect paired devices like smartwatches and headphones. This shift marks the end of Google Assistant as it currently exists.",
+    "importance": 8,
+    "classified": true
+  },
+  {
     "title": "AMD&#8217;s data center business is booming while gaming takes a backseat",
     "link": "https://www.theverge.com/tech/975381/amd-q2-2026-earnings-ai-gaming-ryzen",
     "pubDate": "2026-08-04T20:57:49.000Z",
@@ -824,18 +812,6 @@
     "content": "The EU made some AI labels that companies can use instead of designing their own. | Image: The European Commission / The Verge\t\n\nThe European Union has ushered in some additional rules that aim to make it easier for people to identify chatbots and AI deepfakes online. The new transparency obligations under the bloc's landmark AI Act came into effect on August 2nd, requiring companies to disclose when people are interacting with AI models, and if content has been generated or altered by them.\nThe transparency rules differ between providers (companies that develop and market AI systems) and deployers (platforms and services that use those AI systems), though some companies like Meta and SpaceXAI are classified as both.\nProviders must design AI systems to explicitly no …\nRead the full story at The Verge.",
     "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/268679_Europes_AI_labeling_and_transparency_rules_are_now_in_effect_CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
     "summary": "The European Union has introduced new transparency rules for AI, requiring companies to disclose when people interact with AI models or altered content, aiming to make it easier to identify chatbots and deepfakes online. The rules differ between AI providers and deployers. The new rules came into effect on August 2nd.",
-    "importance": 8,
-    "classified": true
-  },
-  {
-    "title": "China&#8217;s Alibaba takes another swipe at America’s AI supremacy",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/974342/alibaba-qwen-max-open-weight-ai",
-    "pubDate": "2026-08-03T11:01:11.000Z",
-    "source": "The Verge AI",
-    "category": "ai",
-    "content": "The Alibaba logo is displayed outside its headquarters in Hangzhou, Zhejiang Province, China. | Image: NurPhoto via Getty Images\t\n\nChinese tech giant Alibaba released what it says is its largest and \"most capable AI model to date,\" claiming performance rivaling the best systems from US frontier labs Anthropic and OpenAI, as well as domestic rivals like Moonshot AI's Kimi K3.  Alibaba said it was making the model, Qwen3.8-Max, widely available to users in a blog post published on Monday. The release had been expected after the company previewed the model last month, when it claimed it was \"second only to Fable 5,\" Anthropic's flagship.\nThe open release of another highly capable Chinese AI model adds to sky-high tensions along multiple fronts in Silicon Valley and Washin …\nRead the full story at The Verge.",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/gettyimages-2266883826.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "summary": "Alibaba released its largest AI model, Qwen3.8-Max, which it claims rivals the performance of top US models, and is making it widely available to users. This move adds to tensions in Silicon Valley and Washington. The model's release was expected after a preview last month.",
     "importance": 8,
     "classified": true
   },
@@ -1020,6 +996,18 @@
     "classified": true
   },
   {
+    "title": "Why bitcoin’s ‘500-day rule’ faces its biggest test yet",
+    "link": "https://www.coindesk.com/markets/2026/08/05/why-bitcoin-s-500-day-rule-faces-its-biggest-test-yet",
+    "pubDate": "Wed, 05 Aug 2026 09:06:15 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "The so-called ‘500-day rule’ says buying BTC roughly 500 days before a bitcoin halving and selling it about 500 days after would have produced profits in prior cycles.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/b72b4dd95175914ab42f1abbcbe7a1c1085f565e-4000x2250.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "The article discusses the '500-day rule' for Bitcoin trading, a historical pattern suggesting profitability by buying approximately 500 days before a halving and selling around 500 days after. This rule, observed in previous cycles, is currently facing its biggest test yet.",
+    "importance": 7,
+    "classified": true
+  },
+  {
     "title": "Dinari brings tokenized U.S. stocks to American investors as equity race heats up",
     "link": "https://www.coindesk.com/business/2026/08/04/dinari-brings-tokenized-u-s-stocks-to-american-investors-as-equity-race-heats-up",
     "pubDate": "Tue, 04 Aug 2026 14:00:00 +0000",
@@ -1080,6 +1068,18 @@
     "classified": true
   },
   {
+    "title": "Bitcoin, broader market fail to keep pace as global equities hit record highs",
+    "link": "https://www.coindesk.com/markets/2026/08/05/bitcoin-broader-market-fail-to-keep-pace-as-global-equities-hit-record-highs",
+    "pubDate": "Wed, 05 Aug 2026 11:01:15 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "Derivatives data show subdued activity in bitcoin and ether but aggressive positioning in select altcoins.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/9b1f83688f4588197032a91f7adfaf3a6a9b6f01-3317x1697.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "Bitcoin and the broader cryptocurrency market, including Ether, are showing subdued derivatives activity and failing to keep pace with global equities reaching record highs. Despite this, there is aggressive positioning observed in select altcoins.",
+    "importance": 6,
+    "classified": true
+  },
+  {
     "title": "Bitcoin flat at $64,000 as stocks print records and Hormuz deal nears",
     "link": "https://www.coindesk.com/markets/2026/08/05/bitcoin-flat-at-usd64-000-as-stocks-print-records-and-hormuz-deal-nears",
     "pubDate": "Wed, 05 Aug 2026 04:32:16 +0000",
@@ -1104,14 +1104,50 @@
     "classified": true
   },
   {
-    "title": "Why Jim Cramer’s quantum panic isn’t rattling bitcoin as price holds steady around $64,000",
-    "link": "https://www.coindesk.com/markets/2026/08/04/why-jim-cramer-s-quantum-panic-isn-t-rattling-bitcoin-as-price-holds-steady-around-usd64-000",
-    "pubDate": "Tue, 04 Aug 2026 07:53:18 +0000",
-    "source": "CoinDesk",
+    "title": "Proof of Play to shut down after blockchain gaming thesis falls short",
+    "link": "https://cointelegraph.com/news/proof-of-play-shut-blockchain-gaming-thesis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Wed, 05 Aug 2026 09:10:04 +0000",
+    "source": "Cointelegraph",
     "category": "crypto",
-    "content": "Jim Cramer says he's dumping his bitcoin over quantum computing fears, but his track record of crypto and bank calls has buoyed the crypto community.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/01565a4311c987ed02655c3289885242c8c50ef8-6000x3375.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "Jim Cramer is selling his Bitcoin due to fears of quantum computing impacting its security, a move he announced publicly. Despite his panic, the crypto community remains unconcerned, largely due to Cramer's historically inaccurate market predictions. Bitcoin's price has also held steady around $64,000, unaffected by his actions.",
+    "content": "The a16z-backed studio will open-source Pirate Nation assets, while an independent foundation continues supporting the PIRATE token.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/nft-gaming-entertainment-ecosystem.jpg",
+    "summary": "Proof of Play, a blockchain gaming studio, is shutting down due to its gaming thesis not meeting expectations. The studio will open-source its Pirate Nation assets and an independent foundation will continue to support the PIRATE token. This move marks a significant shift in the studio's operations.",
+    "importance": 6,
+    "classified": true
+  },
+  {
+    "title": "Forgd brings its crypto market-maker leaderboard to DefiLlama",
+    "link": "https://cointelegraph.com/news/forgd-market-maker-leaderboard-defillama?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Wed, 05 Aug 2026 09:00:00 +0000",
+    "source": "Cointelegraph",
+    "category": "crypto",
+    "content": "Forgd’s ratings draw on data from more than 500 token projects and 35 market-making firms, but do not solely reflect trading performance.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-market-makers-vs-market-takers-key-differences-explained.png",
+    "summary": "Forgd has launched a crypto market-maker leaderboard on DefiLlama, using data from over 500 token projects and 35 market-making firms to provide ratings beyond just trading performance. This leaderboard aims to offer a more comprehensive view of market makers. Forgd's ratings will help users make informed decisions.",
+    "importance": 6,
+    "classified": true
+  },
+  {
+    "title": "Boerse Stuttgart Digital, Tradias close European crypto merger",
+    "link": "https://cointelegraph.com/news/boerse-stuttgart-digital-tradias-european-crypto-merger?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Wed, 05 Aug 2026 08:47:24 +0000",
+    "source": "Cointelegraph",
+    "category": "crypto",
+    "content": "The completed tie-up combines Boerse Stuttgart Digital’s custody business with Tradias’ trading operations under a joint management team.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-institutional-trading-and-cryptocurrency-industry-eu.jpg",
+    "summary": "Boerse Stuttgart Digital and Tradias have completed a merger in Europe, combining their custody and trading operations under joint management. This merger aims to strengthen their presence in the European crypto market. The deal brings together the two companies' expertise in crypto trading and custody.",
+    "importance": 6,
+    "classified": true
+  },
+  {
+    "title": "MiCA list expands with 12 companies in fourth post-deadline update",
+    "link": "https://cointelegraph.com/news/mica-register-casps-fourth-post-deadline-update?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Wed, 05 Aug 2026 08:25:34 +0000",
+    "source": "Cointelegraph",
+    "category": "crypto",
+    "content": "ESMA’s latest MiCA update brings the number of authorized CASPs to 321 and adds three entities to its non-compliant register.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/news-crypto-studio-mica-eu.jpg",
+    "summary": "The European Securities and Markets Authority has updated its MiCA list, adding 12 companies and bringing the total number of authorized CASPs to 321. Three entities were also added to the non-compliant register. This update is part of the regulatory efforts in the crypto space.",
     "importance": 6,
     "classified": true
   },
@@ -1188,14 +1224,26 @@
     "classified": true
   },
   {
-    "title": "Caleb & Brown expands to UK, betting on untapped crypto demand ",
-    "link": "https://cointelegraph.com/news/caleb-brown-expands-to-uk-betting-on-untapped-crypto-demand?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Tue, 04 Aug 2026 00:51:32 +0000",
-    "source": "Cointelegraph",
+    "title": "Cipher slides 16% on wider Q2 losses as Bernstein sees upside from Texas power audit",
+    "link": "https://www.theblock.co/post/410820/cipher-wider-q2-losses?utm_source=rss&utm_medium=rss",
+    "pubDate": "Wed, 05 Aug 2026 05:50:28 -0400",
+    "source": "The Block",
     "category": "crypto",
-    "content": "The boutique brokerage will focus on high-net-worth clients rather than competing with retail crypto exchanges.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-the-revival-of-general-partnership-in-the-age-of-tokenomics-part-1.jpg",
-    "summary": "Caleb & Brown, a boutique crypto brokerage, is expanding its operations into the UK market. The firm plans to target high-net-worth clients, rather than competing with retail exchanges, to capitalize on untapped demand for crypto services in this segment.",
+    "content": "The bitcoin miner-turned-HPC developer posted a net loss of $267.5 million in Q2, more than five times the loss it registered a year ago.",
+    "image": "https://www.tbstat.com/wp/uploads/2021/02/20210216_Mining_Bitcoin_2_Generic-800x450.jpg",
+    "summary": "Cipher, a bitcoin miner-turned-HPC developer, reported a net loss of $267.5 million in Q2, more than five times its loss last year. This significant loss led to a 16% slide in its stock price. Bernstein still sees upside potential due to a Texas power audit.",
+    "importance": 6,
+    "classified": true
+  },
+  {
+    "title": "Former LAPD officer gets life sentence for kidnapping teen in $350,000 bitcoin robbery: report",
+    "link": "https://www.theblock.co/post/410805/former-lapd-officer-gets-life-sentence-bitcoin-robbery?utm_source=rss&utm_medium=rss",
+    "pubDate": "Wed, 05 Aug 2026 04:37:20 -0400",
+    "source": "The Block",
+    "category": "crypto",
+    "content": "Former LAPD officer Eric Halem was sentenced to life plus 15 years for kidnapping teen and stealing $350,000 in bitcoin.",
+    "image": "https://www.tbstat.com/wp/uploads/2019/03/prison-553836_1920-675x450.jpg",
+    "summary": "A former LAPD officer, Eric Halem, has been sentenced to life plus 15 years for kidnapping a teenager and stealing $350,000 in bitcoin. The sentence is the result of a robbery case involving cryptocurrency. The crime highlights the potential risks associated with bitcoin transactions.",
     "importance": 6,
     "classified": true
   },
@@ -1308,30 +1356,6 @@
     "classified": true
   },
   {
-    "title": "Binance launches bitcoin-backed ‘Lite Loan’ with $1,000 borrowing limit",
-    "link": "https://www.theblock.co/post/410544/binance-lite-loan-bitcoin?utm_source=rss&utm_medium=rss",
-    "pubDate": "Tue, 04 Aug 2026 05:30:03 -0400",
-    "source": "The Block",
-    "category": "crypto",
-    "content": "Binance has launched Lite Loan, a bitcoin-backed borrowing product that lets eligible users borrow up to $1,000 in USDT.",
-    "image": "https://www.tbstat.com/wp/uploads/2024/11/20241127_Binance_News_2-800x450.jpg",
-    "summary": "Binance has introduced a new bitcoin-backed borrowing product called Lite Loan, allowing users to borrow up to $1,000 in USDT. This product is available to eligible users and provides a new lending option. The launch of Lite Loan expands Binance's financial services offerings.",
-    "importance": 6,
-    "classified": true
-  },
-  {
-    "title": "Bernstein says Texas data center audit could boost value of existing bitcoin mining and AI sites",
-    "link": "https://www.theblock.co/post/410545/bernstein-texas-data-center-audit?utm_source=rss&utm_medium=rss",
-    "pubDate": "Tue, 04 Aug 2026 04:57:13 -0400",
-    "source": "The Block",
-    "category": "both",
-    "content": "Bernstein said a state-ordered audit of Texas data centers will heighten power scarcity across the regional grid.",
-    "image": "https://www.tbstat.com/wp/uploads/2021/07/20210714_Crypto_Mining_Texas-800x450.jpg",
-    "summary": "A state-ordered audit of Texas data centers may lead to power scarcity, potentially increasing the value of existing bitcoin mining and AI sites. The audit is expected to impact the regional grid. Bernstein believes this could be beneficial for current mining and AI operations.",
-    "importance": 6,
-    "classified": true
-  },
-  {
     "title": "Corporation’s Approach to the BIP-110 Soft Fork",
     "link": "https://bitcoinmagazine.com/bitcoin-for-corporations/corp-bip-110-soft-fork",
     "pubDate": "Tue, 04 Aug 2026 20:41:18 +0000",
@@ -1392,7 +1416,7 @@
     "classified": true
   },
   {
-    "title": "The Download: US robot restrictions, and ICE’s DNA grab",
+    "title": "The Download: US robot restrictions and ICE’s DNA grab",
     "link": "https://www.technologyreview.com/2026/08/04/1141098/the-download-robot-restrictions-ice-dna/",
     "pubDate": "Tue, 04 Aug 2026 12:14:00 +0000",
     "source": "MIT Technology Review",
@@ -1412,6 +1436,18 @@
     "content": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Humanoid robots usually elicit more cringe than awe: They stumble, kick children, and despite advances are still worse at using their hands than my toddler. It’s a nascent industry, and such robots…",
     "image": "",
     "summary": "The article discusses the current state of humanoid robots, noting their limitations and the challenges they face. It also mentions Trump's AI protectionism and its potential impact on the robotics industry. The industry is still in its early stages, with much room for improvement.",
+    "importance": 6,
+    "classified": true
+  },
+  {
+    "title": "AI makes weather prediction better. Can WindBorne make it lucrative?",
+    "link": "https://techcrunch.com/2026/08/05/ai-makes-weather-prediction-better-can-windborne-make-it-lucrative/",
+    "pubDate": "Wed, 05 Aug 2026 11:00:00 +0000",
+    "source": "TechCrunch AI",
+    "category": "ai",
+    "content": "WindBorne Systems has raised $37 million Series B round to scale its weather balloons and AI forecasts.",
+    "image": "",
+    "summary": "WindBorne Systems has raised $37 million in a Series B round to expand its weather forecasting technology, which utilizes AI and weather balloons. This investment aims to enhance the accuracy of weather predictions and potentially make them more lucrative. The company's innovative approach combines traditional weather balloons with advanced AI analysis.",
     "importance": 6,
     "classified": true
   },
@@ -1488,14 +1524,14 @@
     "classified": true
   },
   {
-    "title": "Judge denies xAI’s request to block Minnesota ban on ‘nudify’ apps",
-    "link": "https://techcrunch.com/2026/08/01/judge-denies-xais-request-to-block-minnesota-ban-on-nudify-apps/",
-    "pubDate": "Sat, 01 Aug 2026 20:26:04 +0000",
-    "source": "TechCrunch AI",
+    "title": "Trump’s AI testing plan is limited and vague",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/975509/white-house-ai-framework-open-models-excluded",
+    "pubDate": "2026-08-05T10:29:47.000Z",
+    "source": "The Verge AI",
     "category": "ai",
-    "content": "Despite a lawsuit from xAI, a Minnesota ban on apps that allow users to “nudify” images can move forward.",
-    "image": "",
-    "summary": "A Minnesota ban on apps that allow users to 'nudify' images can proceed after a judge denied xAI's request to block it. The lawsuit was filed by xAI, the company behind the app. The ban will impact the availability of such apps in Minnesota.",
+    "content": "The Trump administration's framework for assessing potential cybersecurity risks posed by advanced AI reportedly has no interest in testing open models. Axios reports that not only do the voluntary guidelines outright exclude open models - meaning anyone can download them and inspect their core components - but the framework explicitly says it can't be used to restrict open models after they've been released.\nThe AI testing framework was created after President Trump signed an executive order in June, requesting that AI companies share their frontier models with the federal government prior to release to address cybersecurity concerns. AI c …\nRead the full story at The Verge.",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/STK485_STK414_AI_SAFETY_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "summary": "The Trump administration's AI testing framework excludes open models and cannot be used to restrict them after release. The framework was created in response to an executive order to address cybersecurity concerns. It has been criticized for being limited and vague.",
     "importance": 6,
     "classified": true
   },
@@ -1572,18 +1608,6 @@
     "classified": true
   },
   {
-    "title": "Live updates: Bitcoin stuck in tight range as risk assets soar on Iran deal hopes",
-    "link": "https://www.coindesk.com/business/2026/08/04/live-updates-bitcoin-at-usd63-600-as-rare-us-japan-yen-action-tests-carry-trade-fears",
-    "pubDate": "Tue, 04 Aug 2026 08:41:00 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "Japan may have spent as much as $36.6 billion buying yen in the first joint US-Japan action to support the currency since 1998. Bitget Wallet’s Alvin Kan says it can slow a disorderly slide without reversing the broader trend.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/c0eecad8311b025c3b0811a6f8f2e63fa4ebdced-2872x1492.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "Japan and the US have jointly intervened in the currency market, with Japan potentially spending $36.6 billion to support the yen, marking the first such action since 1998. An expert from Bitget Wallet notes that this intervention may slow the yen's disorderly slide but is unlikely to reverse the broader trend, while Bitcoin trades at $63,600 amid carry-trade concerns.",
-    "importance": 5,
-    "classified": true
-  },
-  {
     "title": "Here’s what happened in crypto today",
     "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "pubDate": "Wed, 05 Aug 2026 05:56:55 +0000",
@@ -1620,18 +1644,6 @@
     "classified": true
   },
   {
-    "title": "NY judge denies CFTC motion to halt enforcement action against Kalshi",
-    "link": "https://cointelegraph.com/news/ny-judge-denies-cftc-motion-enforcement-kalshi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Tue, 04 Aug 2026 07:49:22 +0000",
-    "source": "Cointelegraph",
-    "category": "crypto",
-    "content": "The ruling leaves New York’s case against Kalshi in place while allowing the CFTC to renew its request before Judge Victor Marrero.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/b-lawsuit-kalshi-2.jpg",
-    "summary": "A New York judge denied the CFTC's motion to halt an enforcement action against Kalshi. This ruling allows New York’s case against Kalshi to proceed while the CFTC is permitted to renew its request before Judge Victor Marrero.",
-    "importance": 2,
-    "classified": true
-  },
-  {
     "title": "Montana’s plan to become an experimental medical hub just pushed forward",
     "link": "https://www.technologyreview.com/2026/07/30/1140942/montana-experimental-medical-hub-pushed-forward-right-to-try/",
     "pubDate": "Thu, 30 Jul 2026 17:10:00 +0000",
@@ -1652,18 +1664,6 @@
     "content": "The purchase illustrates just how interconnected Elon Musk's universe of companies are.",
     "image": "",
     "summary": "SpaceX has purchased $329M worth of Tesla Megapacks this year, showcasing the interconnection between Elon Musk's companies. This deal highlights the synergy between Musk's ventures, with Tesla's energy storage solutions supporting SpaceX's operations. The transaction demonstrates the growing ties between Musk's business interests.",
-    "importance": 2,
-    "classified": true
-  },
-  {
-    "title": "Fender’s CEO seems to think your bandmates are just analog AI",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/974265/fender-ceo-bud-cole-ai-music",
-    "pubDate": "2026-08-02T19:36:08.000Z",
-    "source": "The Verge AI",
-    "category": "ai",
-    "content": "Edward “Bud” Cole speaks in Japan in 2023. | Image: Jun Sato/WireImage\t\n\nFender CEO Edward \"Bud\" Cole gave an interview to T3 in May celebrating the 75th anniversary of the Telecaster with comments on AI and music that initially flew under the radar. But it has started making the rounds recently, pouring more fuel on an already raging fire of bad PR following the company pissing off basically the entire guitar-playing community by sending cease-and-desist letters to builders, claiming copyright of the Stratocaster body shape.\nSome influential guitar YouTubers have even said they're done buying Fender gear in the wake of the controversy. And Cole's resurfaced comments comparing cover songs and bandmates to a sort …\nRead the full story at The Verge.",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/gettyimages-1259130896.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "summary": "Fender CEO Edward \"Bud\" Cole's resurfaced comments, which controversially compared bandmates and cover songs to \"analog AI,\" are adding to the company's current PR crisis. These remarks follow widespread backlash from the guitar community over Fender's aggressive copyright enforcement regarding the Stratocaster body shape, prompting some influential YouTubers to boycott the brand.",
     "importance": 2,
     "classified": true
   },
