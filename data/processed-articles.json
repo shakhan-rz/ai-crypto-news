@@ -132,6 +132,18 @@
     "classified": true
   },
   {
+    "title": "US Treasury’s OFAC sanctions 2 Iran-linked crypto exchanges",
+    "link": "https://cointelegraph.com/news/us-treasury-sanctions-iran-crypto-exchanges?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Fri, 07 Aug 2026 20:02:20 +0000",
+    "source": "Cointelegraph",
+    "category": "crypto",
+    "content": "The US government sanctioned an individual and two crypto exchanges it said facilitated money laundering for a combined $5 million in digital assets linked to Iran.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-crypto-users-in-iran-sanctions2.jpg",
+    "summary": "The US Treasury's OFAC sanctioned an individual and two crypto exchanges, alleging they facilitated $5 million in digital asset money laundering linked to Iran. This action targets illicit financial activities within the cryptocurrency ecosystem.",
+    "importance": 8,
+    "classified": true
+  },
+  {
     "title": "Bitcoin price tags $65.3K August high as low US jobs numbers cool Fed rate bets",
     "link": "https://cointelegraph.com/markets/bitcoin-price-tags-653k-august-high-as-low-us-jobs-numbers-cool-fed-rate-bets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "pubDate": "Fri, 07 Aug 2026 15:23:15 +0000",
@@ -288,6 +300,30 @@
     "classified": true
   },
   {
+    "title": "US sanctions two more Iranian crypto exchanges under ‘Economic Fury’ campaign",
+    "link": "https://www.theblock.co/news/regulation/2026-08-07-us-sanctions-two-more-iranian-crypto-exchanges-under-economic-fury-campaign-411184?utm_source=rss&utm_medium=rss",
+    "pubDate": "Fri, 07 Aug 2026 15:49:33 -0400",
+    "source": "The Block",
+    "category": "crypto",
+    "content": "The U.S. Treasury Department traced more than $3 million in transfers between Shelbit and IRGC-linked wallets.",
+    "image": "https://www.tbstat.com/wp/uploads/2019/06/iran-btc-1-800x450.jpg",
+    "summary": "The U.S. Treasury Department has sanctioned two additional Iranian crypto exchanges as part of its 'Economic Fury' campaign. This action follows the tracing of over $3 million in transfers between Shelbit and wallets linked to the IRGC.",
+    "importance": 8,
+    "classified": true
+  },
+  {
+    "title": "SharpLink CEO warns EIP-8363 could kill ETH’s biggest advantage over Bitcoin",
+    "link": "https://www.theblock.co/news/defi/2026-08-07-sharplink-ceo-warns-eip-8363-could-kill-eths-biggest-advantage-over-bitcoin-411186?utm_source=rss&utm_medium=rss",
+    "pubDate": "Fri, 07 Aug 2026 15:37:14 -0400",
+    "source": "The Block",
+    "category": "crypto",
+    "content": "The \"Tapered Issuance Burn\" proposal would phase in a rising burn of consensus rewards to limit the amount of ETH staked.",
+    "image": "https://www.tbstat.com/wp/uploads/2026/05/20260512_Sharplink_News_2-800x450.jpg",
+    "summary": "SharpLink's CEO warns that the proposed \"Tapered Issuance Burn\" (EIP-8363) could undermine Ethereum's primary advantage over Bitcoin. This controversial proposal seeks to gradually increase the burning of consensus rewards, which would limit the total amount of ETH available for staking.",
+    "importance": 8,
+    "classified": true
+  },
+  {
     "title": "BTCPay warns of actively exploited vulnerability that could drain funds",
     "link": "https://www.theblock.co/news/ecosystems/2026-08-07-btcpay-warns-actively-exploited-vulnerability-could-drain-funds-411170?utm_source=rss&utm_medium=rss",
     "pubDate": "Fri, 07 Aug 2026 13:03:20 -0400",
@@ -396,14 +432,14 @@
     "classified": true
   },
   {
-    "title": "More than $30 million stolen in violent crypto attacks in 2026 as France emerges as ‘wrench attack’ hotspot: Chainalysis",
-    "link": "https://www.theblock.co/news/regulation/2026-08-06-more-than-30-million-stolen-in-violent-crypto-attacks-in-2026-as-france-emerges-as-wrench-attack-hotspot-chainalysis-410984?utm_source=rss&utm_medium=rss",
-    "pubDate": "Thu, 06 Aug 2026 08:00:00 -0400",
-    "source": "The Block",
+    "title": "Senators Cynthia Lummis and Angela Alsobrooks Say Bipartisan Work on Clarity Act Continues Despite Delays",
+    "link": "https://bitcoinmagazine.com/news/lummis-alsobrooks-work-on-clarity-act",
+    "pubDate": "Fri, 07 Aug 2026 20:42:33 +0000",
+    "source": "Bitcoin Magazine",
     "category": "crypto",
-    "content": "Chainalysis says more than $30M was stolen in violent crypto attacks in 2026 through mid-year, with France the top hotspot.",
-    "image": "https://www.tbstat.com/wp/uploads/2021/12/211130_Hacked_General3-800x450.jpg",
-    "summary": "Chainalysis reports over $30 million stolen in violent crypto attacks in 2026, with France being the top location for these 'wrench attacks' through mid-year. The attacks highlight the risks associated with crypto storage. France's emergence as a hotspot may lead to increased security measures.",
+    "content": "Bitcoin Magazine\n\nSenators Cynthia Lummis and Angela Alsobrooks Say Bipartisan Work on Clarity Act Continues Despite Delays\nThe long-awaited crypto Clarity Act bill has been stalled. Still, lawmakers from both parties say the fight isn't over. \nThis post Senators Cynthia Lummis and Angela Alsobrooks Say Bipartisan Work on Clarity Act Continues Despite Delays first appeared on Bitcoin Magazine and is written by Mathew Di Salvo.",
+    "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/08/Senators-Cynthia-Lummis-and-Angela-Alsobrooks-Say-Bipartisan-Work-on-Clarity-Act-Continues-Despite-Delays.jpg",
+    "summary": "The crypto Clarity Act bill has been stalled, but Senators Cynthia Lummis and Angela Alsobrooks say bipartisan work on the bill continues. The bill's progress has been delayed, but lawmakers from both parties remain committed to its passage. The Clarity Act aims to provide regulatory clarity for the crypto industry.",
     "importance": 8,
     "classified": true
   },
@@ -476,18 +512,6 @@
     "content": "Bitcoin Magazine\n\nSenate Whip Barrasso Becomes Latest Lawmaker to Support Crypto Clarity Act, But Time May Be Running Out \nWhile Republicans are urging lawmakers to get the bill over the line, there isn't much time left before the Senate goes to recess. \nThis post Senate Whip Barrasso Becomes Latest Lawmaker to Support Crypto Clarity Act, But Time May Be Running Out  first appeared on Bitcoin Magazine and is written by Mathew Di Salvo.",
     "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/08/Senate-Whip-Barrasso-Becomes-Latest-Lawmaker-to-Support-Crypto-Clarity-Act-But-Time-May-Be-Running-Out.jpg",
     "summary": "Senate Whip Barrasso has become the latest lawmaker to support the Crypto Clarity Act, a bill that aims to bring clarity to the cryptocurrency space. With Republicans urging lawmakers to pass the bill, time is running out as the Senate is set to go to recess soon. The bill's fate remains uncertain as the deadline approaches.",
-    "importance": 8,
-    "classified": true
-  },
-  {
-    "title": "The End of the Closed-Source Era Is at Hand: Obscurity Was Never Security",
-    "link": "https://bitcoinmagazine.com/technical/the-end-of-the-closed-source-era-is-at-hand-obscurity-was-never-security",
-    "pubDate": "Thu, 06 Aug 2026 18:43:13 +0000",
-    "source": "Bitcoin Magazine",
-    "category": "crypto",
-    "content": "Bitcoin Magazine\n\nThe End of the Closed-Source Era Is at Hand: Obscurity Was Never Security\nThe Coldcard hack is a preview. When machines can read what humans couldn't (or just didn't), closed source stops being a category.\nThis post The End of the Closed-Source Era Is at Hand: Obscurity Was Never Security first appeared on Bitcoin Magazine and is written by Colin Crossman.",
-    "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/07/AIs-Bitcoin-Moment-Why-the-Open-Source-Fight-Looks-Like-Crypto-Back-in-2014.jpg",
-    "summary": "The end of the closed-source era is approaching as machines can now read and understand what humans couldn't, making closed source no longer a secure category, as seen in the Coldcard hack. This shift is significant for the security of systems. The era of obscurity as security is ending.",
     "importance": 8,
     "classified": true
   },
@@ -648,30 +672,6 @@
     "classified": true
   },
   {
-    "title": "OpenAI puts the brakes on a new model because it&#8217;s supposedly too powerful",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/976948/openai-astra-model-pause-critical-cyber-capabilities",
-    "pubDate": "2026-08-07T18:40:34.000Z",
-    "source": "The Verge AI",
-    "category": "ai",
-    "content": "OpenAI says it is pausing \"internal activities\" around an in-development AI model, Astra, because it doesn't yet meet new security standards the company is putting in place. The announcement follows its recent disclosure that OpenAI models accidentally hacked Hugging Face. Anthropic and Meta have also since admitted that they had AI models that went rogue and breached other organizations. \nRecent internal evaluations of an OpenAI model called Astra indicate that it offers \"significant advancements in agentic coding and cybersecurity,\" according to the company. \"These results, in addition to expert assessments, have led us to conclude last n …\nRead the full story at The Verge.",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK155_OPEN_AI_CVirginia_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "summary": "OpenAI has paused development of its new AI model, Astra, due to concerns it doesn't meet new security standards, after recent incidents of AI models accidentally hacking other organizations. Astra allegedly offers significant advancements in coding and cybersecurity. The pause is a precautionary measure to ensure the model's safety.",
-    "importance": 8,
-    "classified": true
-  },
-  {
-    "title": "What&#8217;s behind the Google AI shake-up",
-    "link": "https://www.theverge.com/podcast/976784/google-deepmind-ai-race-vergecast",
-    "pubDate": "2026-08-07T16:45:14.000Z",
-    "source": "The Verge AI",
-    "category": "ai",
-    "content": "Some of the biggest names on Google's AI team got new jobs this week. In some cases, including for legendary Googler Jeff Dean, those jobs are no longer at Google. Given that Google's models seem to be behind the best of what's coming out of anthropic and OpenAI, is this a sign of Google in turmoil? Is it about Demis Hassabis wanting something more interesting to work on than virtual assistants? Or is there something else entirely happening here?\nOn this episode of The Vergecast, Nilay and David start by discussing the leadership shake-up at Google, the state of the AI race, and whether Google is actually set up to succeed here. They also t …\nRead the full story at The Verge.",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/VRG_VST080726_Site.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "summary": "Google's AI team has undergone a significant shake-up, with top names like Jeff Dean taking on new roles or leaving the company, sparking speculation about Google's position in the AI race. The changes raise questions about Google's ability to succeed in the AI field. The Vergecast discusses the implications of these changes.",
-    "importance": 8,
-    "classified": true
-  },
-  {
     "title": "Jony Ive&#8217;s first OpenAI gadget is reportedly a hockey puck-sized smart speaker",
     "link": "https://www.theverge.com/ai-artificial-intelligence/976431/openai-chatgpt-battery-smart-speaker-rumor",
     "pubDate": "2026-08-06T20:55:39.000Z",
@@ -740,6 +740,30 @@
     "content": "OpenAI has asked a federal judge to toss out Apple's landmark lawsuit accusing the ChatGPT maker of stealing trade secrets, describing the allegations as \"meritless.\" In a motion filed yesterday to dismiss the complaint, OpenAI says that Apple is mischaracterizing both the actions of the AI startup's employees as theft, and \"generic\" product development information as \"trade secrets,\" adding that Apple made no reasonable efforts to maintain such secrecy.\nThe dismissal request is in response to a lawsuit filed by Apple in July, alleging that former Apple employees that went on to work for OpenAI stole confidential documents to further OpenAI …\nRead the full story at The Verge.",
     "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25431704/STK201_SAM_ALTMAN_CVIRGINIA_C.jpg?quality=90&#038;strip=all&#038;crop=4.7487503051758,18.543864880511,95.251249694824,81.456135119489",
     "summary": "OpenAI is asking a federal judge to dismiss Apple's lawsuit, which accuses the AI startup of stealing trade secrets, calling the allegations meritless. OpenAI claims Apple mischaracterized employee actions and product development information. The lawsuit was filed by Apple in July, alleging former Apple employees stole confidential documents to aid OpenAI.",
+    "importance": 8,
+    "classified": true
+  },
+  {
+    "title": "Elon Musk&#8217;s attempt at an AI Wikipedia hasn&#8217;t been updated in months",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/976004/elon-musk-grokipedia-ai-wikipedia-not-updating-dead",
+    "pubDate": "2026-08-06T00:25:10.000Z",
+    "source": "The Verge AI",
+    "category": "ai",
+    "content": "xAI's Grokipedia, an online encyclopedia with AI-generated articles that Elon Musk once promised would be a \"massive improvement\" over Wikipedia, apparently hasn't been updated since April 24th, according to a report from Lawfare. \"As far as we can tell, no entry has changed in more than three months,\" Lawfare said.\nGrokipedia launched in v0.1 in October 2025 with an initial batch of 885,000 articles, and is now on v0.2 (released in November 2025) and has more than 6,000,000 total articles, according to grokipedia.com/live. But that live page also has a section titled \"Recent changes to…\" with a message under it that reads \"No live edits av …\nRead the full story at The Verge.",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/STK171_VRG_Illo_15_Normand_ElonMusk_15.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "summary": "Elon Musk's AI-generated encyclopedia, Grokipedia, has not been updated since April 24th, despite promises of being a massive improvement over Wikipedia. The site launched in October 2025 with 885,000 articles and has since grown to over 6,000,000 articles. The lack of updates raises questions about the project's future.",
+    "importance": 8,
+    "classified": true
+  },
+  {
+    "title": "Sure seems like Fenix Flexin used AI music generator Treblo",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/975528/fenix-flexin-ai-music-generator-treblo",
+    "pubDate": "2026-08-05T16:57:25.000Z",
+    "source": "The Verge AI",
+    "category": "ai",
+    "content": "And you thought we were done with this one… | Image: Fenix Flexin\t\n\nWe were pretty sure that Fenix Flexin's \"Rubberz\" was made using AI, but musician Medasin was confident that it was made using Treblo specifically. Now the company and a new detection tool seem to confirm it.\nOn Monday, the company announced the open-source Treblo AI Music Classifier, which detects when a song was generated using Treblo, though not other AI tools. According to a blog post, it has a false positive rate of less than 1 in 10,000. That's not unimpeachable, but it's notable that the company's own Classifier determined that \"Rubberz\" was \"very likely Treblo\" with \"high confidence,\" adding more fuel to the PR nightmare for Fenix. \n …\nRead the full story at The Verge.",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/artworks-WsdIgVXV8NOV-0-t1080x1080.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "summary": "Fenix Flexin's song 'Rubberz' was suspected to be made using AI, and a new detection tool from Treblo confirms it was likely generated using their AI music generator, causing a PR controversy. The Treblo AI Music Classifier has a low false positive rate and detected 'Rubberz' with high confidence. This incident raises questions about AI-generated music authenticity.",
     "importance": 8,
     "classified": true
   },
@@ -984,6 +1008,18 @@
     "classified": true
   },
   {
+    "title": "Trump Media and Crypto.com end partnerships as companies shifts priorities",
+    "link": "https://www.theblock.co/news/deals/2026-08-07-trump-media-crypto-com-end-partnerships-as-companies-shifts-priorities-411198?utm_source=rss&utm_medium=rss",
+    "pubDate": "Fri, 07 Aug 2026 17:01:36 -0400",
+    "source": "The Block",
+    "category": "crypto",
+    "content": "This ends plans Trump Media, Crypto.com and Yorkville Acquisition Corp. had to turn Yorkville into a CRO treasury company.",
+    "image": "https://www.tbstat.com/wp/uploads/2025/05/20250513_Donald_Trump-1200x675-1-800x450.jpg",
+    "summary": "Trump Media and Crypto.com have ended their partnerships with Yorkville Acquisition Corp. This decision terminates the previous plan to transform Yorkville into a CRO treasury company, signaling a shift in strategic priorities for the involved parties.",
+    "importance": 7,
+    "classified": true
+  },
+  {
     "title": "CFTC cautions prediction markets over using American-style ‘moneyline’ betting odds: Bloomberg",
     "link": "https://www.theblock.co/news/regulation/2026-08-07-cftc-cautions-prediction-markets-american-style-moneyline-betting-odds-bloomberg-411178?utm_source=rss&utm_medium=rss",
     "pubDate": "Fri, 07 Aug 2026 14:39:26 -0400",
@@ -993,6 +1029,18 @@
     "image": "https://www.tbstat.com/wp/uploads/2020/06/20200630_CFTC-Daily-800x450.jpg",
     "summary": "The CFTC has issued a warning to several prediction market platforms. They were advised to refrain from using American-style gambling odds, according to a report by Bloomberg.",
     "importance": 7,
+    "classified": true
+  },
+  {
+    "title": "Trump-Backed American Bitcoin director Justin Mateen buys nearly $2 million of ABTC stock",
+    "link": "https://www.coindesk.com/business/2026/08/07/trump-backed-american-bitcoin-director-justin-mateen-buys-nearly-usd2-million-of-abtc-stock",
+    "pubDate": "Fri, 07 Aug 2026 20:20:00 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "Mateen purchased more than 306,000 shares across two days following the company's quarterly earnings, lifting his stake to more than 492,000 shares.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/8f0a42a577ede2b80befc0e1cc23d307bb7258be-7800x3900.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "Justin Mateen, a director for Trump-backed American Bitcoin, purchased nearly $2 million worth of ABTC stock, acquiring over 306,000 shares across two days after the company's quarterly earnings report. This significant acquisition increases his total stake to more than 492,000 shares.",
+    "importance": 6,
     "classified": true
   },
   {
@@ -1212,18 +1260,6 @@
     "classified": true
   },
   {
-    "title": "Hyperliquid RWA contracts grow to 32% of trading activity in Q2",
-    "link": "https://cointelegraph.com/news/hyperliquid-rwa-contracts-rise-32-trading-q2?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Thu, 06 Aug 2026 12:55:44 +0000",
-    "source": "Cointelegraph",
-    "category": "crypto",
-    "content": "Tokenized real-world assets accounted for more than a third of Hyperliquid’s quarterly trading volume, generating 6.6% of the protocol’s $169 million quarterly revenue.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-bull-market-vs-bear-market-hyperliquid.jpg",
-    "summary": "Tokenized real-world assets (RWA) contracts on Hyperliquid accounted for 32% of trading activity in Q2, generating $11.14 million in revenue. This represents a significant portion of the protocol's $169 million quarterly revenue. The growth of RWA contracts indicates increased adoption of tokenized assets.",
-    "importance": 6,
-    "classified": true
-  },
-  {
     "title": "Bernstein favors CleanSpark on AI execution as MARA awaits first commercial contract",
     "link": "https://www.theblock.co/news/business/2026-08-07-bernstein-favors-cleanspark-on-ai-execution-as-mara-awaits-first-commercial-contract-411136?utm_source=rss&utm_medium=rss",
     "pubDate": "Fri, 07 Aug 2026 07:51:21 -0400",
@@ -1296,26 +1332,14 @@
     "classified": true
   },
   {
-    "title": "Block’s spending rise despite 40% workforce cut leaves analysts weighing growth prospects",
-    "link": "https://www.theblock.co/news/markets/2026-08-06-blocks-spending-rise-despite-workforce-cut-leaves-analysts-weighing-growth-prospects-410997?utm_source=rss&utm_medium=rss",
-    "pubDate": "Thu, 06 Aug 2026 12:12:35 -0400",
-    "source": "The Block",
+    "title": "Trump Media Pulls Back From Crypto Deals: Report",
+    "link": "https://bitcoinmagazine.com/news/trump-media-pulls-back-from-crypto-deals",
+    "pubDate": "Fri, 07 Aug 2026 21:15:05 +0000",
+    "source": "Bitcoin Magazine",
     "category": "crypto",
-    "content": "Analysts remain bullish on Block following Q2 earnings beat, though Mizuho questioned why spending is rising despite a 40% workforce cut.",
-    "image": "https://www.tbstat.com/wp/uploads/2022/04/20220426_Block-Square-App-800x450.png",
-    "summary": "Block's Q2 earnings beat analyst expectations, but a 40% workforce cut has raised questions about the company's rising spending. Despite this, analysts remain bullish on the company's growth prospects. The spending increase has sparked debate among analysts, with some questioning the company's decisions.",
-    "importance": 6,
-    "classified": true
-  },
-  {
-    "title": "Bernstein says Circle’s Q2 counters bearish concerns over competition, reserve income",
-    "link": "https://www.theblock.co/news/markets/2026-08-06-bernstein-says-circles-q2-counters-bearish-concerns-over-competition-reserve-income-410979?utm_source=rss&utm_medium=rss",
-    "pubDate": "Thu, 06 Aug 2026 08:10:44 -0400",
-    "source": "The Block",
-    "category": "crypto",
-    "content": "Bernstein said Circle's partnerships, regulatory approvals, and Arc launch provide additional revenue streams not reflected in estimates.",
-    "image": "https://www.tbstat.com/wp/uploads/2025/11/20230424_Circle_News-800x450.jpg",
-    "summary": "Bernstein analysts believe Circle's Q2 performance counters concerns over competition and reserve income, citing partnerships and new revenue streams. Circle's Arc launch and regulatory approvals are expected to contribute to its growth. This update may alleviate bearish sentiments surrounding the company.",
+    "content": "Bitcoin Magazine\n\nTrump Media Pulls Back From Crypto Deals: Report\nTrump Media wants to focus on other business ventures, according to an Axios report. \nThis post Trump Media Pulls Back From Crypto Deals: Report first appeared on Bitcoin Magazine and is written by Mathew Di Salvo.",
+    "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/08/Trump-Media.jpg",
+    "summary": "Trump Media is pulling back from crypto deals to focus on other business ventures, according to a report by Axios. This decision may impact the company's involvement in the cryptocurrency space. Trump Media's shift in focus is reported by Bitcoin Magazine.",
     "importance": 6,
     "classified": true
   },
@@ -1344,18 +1368,6 @@
     "classified": true
   },
   {
-    "title": "Breez Drops New Bitcoin App Which Doubles As Wallet and Developer Toolkit",
-    "link": "https://bitcoinmagazine.com/news/breez-drops-new-bitcoin-app",
-    "pubDate": "Thu, 06 Aug 2026 17:38:13 +0000",
-    "source": "Bitcoin Magazine",
-    "category": "crypto",
-    "content": "Bitcoin Magazine\n\nBreez Drops New Bitcoin App Which Doubles As Wallet and Developer Toolkit\nThe app, Glow, allows developers to see what's working under the hood with the Lightning wallet so they can build their own products. \nThis post Breez Drops New Bitcoin App Which Doubles As Wallet and Developer Toolkit first appeared on Bitcoin Magazine and is written by Mathew Di Salvo.",
-    "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/08/Breez-Drops-New-Bitcoin-App-Which-Doubles-As-Wallet-and-Developer-Toolkit.jpg",
-    "summary": "Breez has released a new Bitcoin app called Glow, which serves as both a wallet and a developer toolkit, allowing developers to build their own products using the Lightning wallet. The app provides insight into the underlying mechanics of the wallet. This new tool is expected to facilitate further development in the Bitcoin ecosystem.",
-    "importance": 6,
-    "classified": true
-  },
-  {
     "title": "The Download: US robot restrictions and ICE’s DNA grab",
     "link": "https://www.technologyreview.com/2026/08/04/1141098/the-download-robot-restrictions-ice-dna/",
     "pubDate": "Tue, 04 Aug 2026 12:14:00 +0000",
@@ -1376,6 +1388,18 @@
     "content": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Humanoid robots usually elicit more cringe than awe: They stumble, kick children, and despite advances are still worse at using their hands than my toddler. It’s a nascent industry, and such robots…",
     "image": "",
     "summary": "The article discusses the current state of humanoid robots, noting their limitations and the challenges they face. It also mentions Trump's AI protectionism and its potential impact on the robotics industry. The industry is still in its early stages, with much room for improvement.",
+    "importance": 6,
+    "classified": true
+  },
+  {
+    "title": "After Rippling blew millions on AI in months, it built an employee ROI tool",
+    "link": "https://techcrunch.com/2026/08/07/after-rippling-blew-millions-on-ai-in-months-it-built-an-employee-roi-tool/",
+    "pubDate": "Fri, 07 Aug 2026 21:30:11 +0000",
+    "source": "TechCrunch AI",
+    "category": "ai",
+    "content": "After its own AI usage wake-up call, Rippling this week unveiled AI Spend Console, a product that tracks individual and team employee AI spending.",
+    "image": "",
+    "summary": "Rippling has launched AI Spend Console, a tool to track employee AI spending after the company itself spent millions on AI in a short period. This move is a response to Rippling's own experience with unexpected AI costs. The tool aims to help businesses manage their AI expenses more effectively.",
     "importance": 6,
     "classified": true
   },
@@ -1488,18 +1512,6 @@
     "classified": true
   },
   {
-    "title": "TechCrunch Disrupt 2026’s Real World AI Stage features robots, automated factories, and extinct animals ",
-    "link": "https://techcrunch.com/2026/08/05/techcrunch-disrupt-2026s-real-world-ai-stage-features-robots-automated-factories-and-extinct-animals/",
-    "pubDate": "Wed, 05 Aug 2026 15:05:00 +0000",
-    "source": "TechCrunch AI",
-    "category": "ai",
-    "content": "On our new Real World AI stage, we’ll be focusing on the intersection between the digital and physical, and all the ways we’ll continue to see a blending of the two.",
-    "image": "",
-    "summary": "TechCrunch Disrupt 2026's Real World AI Stage will explore the intersection of digital and physical worlds, featuring robots and automated factories. The stage will showcase how AI is being used in real-world applications. The event will also include discussions on unique topics such as extinct animals.",
-    "importance": 6,
-    "classified": true
-  },
-  {
     "title": "Suno shares plans to combat spammy AI music",
     "link": "https://www.theverge.com/ai-artificial-intelligence/976289/suno-ai-music-spam-watermark",
     "pubDate": "2026-08-06T17:39:43.000Z",
@@ -1584,26 +1596,14 @@
     "classified": true
   },
   {
-    "title": "Crypto for Advisors: Europe's crypto rules, U.S. Preview",
-    "link": "https://www.coindesk.com/coindesk-indices/2026/08/06/crypto-for-advisors-europe-s-crypto-rules-u-s-preview",
-    "pubDate": "Thu, 06 Aug 2026 15:07:00 +0000",
+    "title": "Trump Media pulls back from crypto, scraps Crypto.com's CRO token treasury deal",
+    "link": "https://www.coindesk.com/business/2026/08/07/trump-media-pulls-back-from-crypto-scraps-crypto-com-cro-treasury-deal",
+    "pubDate": "Fri, 07 Aug 2026 21:13:21 +0000",
     "source": "CoinDesk",
     "category": "crypto",
-    "content": "You’re reading Crypto for Advisors, CoinDesk’s weekly newsletter that unpacks digital assets for financial advisors. Subscribe here to get it every Thursday.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/c9fbd001548b6de8385cb2300eed1ee57477c132-5593x3729.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "This text is an introduction to CoinDesk's weekly \"Crypto for Advisors\" newsletter, designed to inform financial advisors about digital assets. The newsletter will cover important topics like Europe's crypto regulations and a preview of the U.S. crypto landscape.",
-    "importance": 3,
-    "classified": true
-  },
-  {
-    "title": "JPMorgan says Hyperliquid ETF inflows have stalled as competition mounts",
-    "link": "https://www.coindesk.com/markets/2026/08/06/jpmorgan-says-hyperliquid-etf-inflows-have-stalled-as-competition-mounts",
-    "pubDate": "Thu, 06 Aug 2026 12:46:42 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "After leading crypto ETF inflows in May and June, demand for Hyperliquid funds stalled in July and August as competition intensified, the bank said.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/5b3e22f79db7d662674f6627620b8e945757ba94-1280x702.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "JPMorgan reported that Hyperliquid ETF inflows have stalled in July and August after leading the market in May and June. This slowdown is attributed to intensified competition within the crypto ETF sector.",
+    "content": "The Truth Social parent company is refocusing on media and its pending merger with a fusion energy firm, as the digital asset treasury boom has lost its steam.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/841ac31fb4e72ea7f68c4ff1293a8c535f8c28c0-510x287.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "Trump Media, parent company of Truth Social, is pulling back from its crypto involvement by scrapping a CRO token treasury deal with Crypto.com. The company is shifting its focus back to media and a pending merger with a fusion energy firm, citing a decline in the digital asset treasury market.",
     "importance": 3,
     "classified": true
   },
