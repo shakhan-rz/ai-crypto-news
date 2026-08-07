@@ -120,6 +120,18 @@
     "classified": true
   },
   {
+    "title": "Crypto market maker Wintermute launches US broker-dealer ",
+    "link": "https://cointelegraph.com/news/crypto-market-maker-wintermute-launches-us-broker-dealer?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Fri, 07 Aug 2026 00:09:47 +0000",
+    "source": "Cointelegraph",
+    "category": "crypto",
+    "content": "Wintermute said the registration allows the firm to position itself for the growth of tokenized securities in the US.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-how-wall-street-is-using-ethereum-without-talking-about-ethereum.jpg",
+    "summary": "Crypto market maker Wintermute has launched a US broker-dealer, a move it believes will position the firm for the anticipated growth of tokenized securities in the United States. This strategic registration aims to capitalize on the evolving landscape of digital assets within the US market.",
+    "importance": 8,
+    "classified": true
+  },
+  {
     "title": "US appellate court mandate affirms Sam Bankman-Fried conviction",
     "link": "https://cointelegraph.com/news/us-appellate-court-mandate-sam-bankman-fried?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "pubDate": "Thu, 06 Aug 2026 17:17:34 +0000",
@@ -276,26 +288,14 @@
     "classified": true
   },
   {
-    "title": "Senator Warren questions US AI chip policy after Trump crypto investment: Report",
-    "link": "https://cointelegraph.com/news/senator-warren-us-policy-uae-ai-chips-trump-crypto-investment?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Wed, 05 Aug 2026 21:15:37 +0000",
-    "source": "Cointelegraph",
-    "category": "both",
-    "content": "The lawmaker reportedly sent a letter to the Commerce Secretary demanding answers about the administration’s treatment of the UAE following investments in the Trump family’s crypto company.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-us-chip-maker-crypto-company.png",
-    "summary": "Senator Warren is questioning the US AI chip policy after the Trump family's crypto company received investments, prompting her to send a letter to the Commerce Secretary demanding answers about the administration's treatment of the UAE. The inquiry suggests potential conflicts of interest. The situation involves both AI chip policy and cryptocurrency investments.",
-    "importance": 8,
-    "classified": true
-  },
-  {
-    "title": "Senator Lummis still pushing for CLARITY vote before August recess",
-    "link": "https://cointelegraph.com/news/senator-lummis-clarity-vote-movement-calendar?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Wed, 05 Aug 2026 19:18:24 +0000",
-    "source": "Cointelegraph",
+    "title": "Sui to add post-quantum signature schemes for quantum-safe accounts",
+    "link": "https://www.theblock.co/post/410968/sui-post-quantum-signature-scheme?utm_source=rss&utm_medium=rss",
+    "pubDate": "Thu, 06 Aug 2026 22:09:29 -0400",
+    "source": "The Block",
     "category": "crypto",
-    "content": "US lawmakers have only a few days to hold a vote on a crypto market structure bill before a recess begins that could push consideration into the 2026 election season or beyond.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-the-evolution-of-crypto-regulations-in-2024-what-it-means-for-2025.png",
-    "summary": "US lawmakers are racing to vote on a crypto market structure bill before a recess, which could delay consideration until the 2026 election season. The bill aims to bring clarity to the crypto market. Senator Lummis is pushing for a vote before the recess.",
+    "content": "Sui said users can adopt quantum-safe keys without creating a new recovery phrase or changing wallet addresses.",
+    "image": "https://www.tbstat.com/wp/uploads/2024/10/sui-news-800x450.png",
+    "summary": "Sui is introducing post-quantum signature schemes to enhance the security of its accounts against quantum attacks, allowing users to adopt quantum-safe keys without needing to change their wallet addresses or create a new recovery phrase. This move aims to future-proof Sui's security. The update will enable users to maintain their existing accounts and wallet addresses while benefiting from the added security of quantum-safe keys.",
     "importance": 8,
     "classified": true
   },
@@ -392,18 +392,6 @@
     "content": "With a procedural vote on crypto legislation up in the air, lawmakers are racing to resolve outstanding issues within the next few days.",
     "image": "https://www.tbstat.com/wp/uploads/2019/05/capitol-720677_1280-563x450.jpg",
     "summary": "The US Senate is racing to pass the Clarity Act, a crypto legislation, before the August recess, amid outstanding issues and concerns from law enforcement. The procedural vote is uncertain, and lawmakers have only a few days to resolve the issues. The fate of the legislation hangs in the balance.",
-    "importance": 8,
-    "classified": true
-  },
-  {
-    "title": "CryptoQuant says bitcoin, ether and XRP whales are accumulating, signaling a ‘late-stage bear market’",
-    "link": "https://www.theblock.co/post/410920/cryptoquant-bitcoin-ether-xrp-whales-accumulating-late-stage-bear-market?utm_source=rss&utm_medium=rss",
-    "pubDate": "Wed, 05 Aug 2026 15:09:26 -0400",
-    "source": "The Block",
-    "category": "crypto",
-    "content": "Large crypto holders are accumulating bitcoin, ether, and XRP as prices remain under pressure, CryptoQuant said.",
-    "image": "https://www.tbstat.com/wp/uploads/2022/11/20221116_Market_Generic-800x450.jpg",
-    "summary": "CryptoQuant reports that large holders of bitcoin, ether, and XRP are accumulating these assets despite current low prices, indicating a potential late-stage bear market. This accumulation could signal a shift in market sentiment. The move may be a sign of investor confidence in the future of these cryptocurrencies.",
     "importance": 8,
     "classified": true
   },
@@ -1044,18 +1032,6 @@
     "classified": true
   },
   {
-    "title": "Ondo Finance hires former Blockchain.com CFO Adam Schlisman",
-    "link": "https://www.coindesk.com/business/2026/08/05/ondo-finance-hires-former-blockchain-com-cfo-adam-schlisman",
-    "pubDate": "Wed, 05 Aug 2026 13:00:00 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "The tokenized-assets firm appointed ex-Blockchain.com and Monashee executive as finance chief as it expands its onchain capital markets business.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/a847196eb90f8db8671bc9cfaff6f4139272f8d3-1672x941.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "Ondo Finance has hired Adam Schlisman, former CFO of Blockchain.com, as its new finance chief. This appointment is part of the company's expansion of its onchain capital markets business. Schlisman's experience is expected to aid the firm's growth.",
-    "importance": 6,
-    "classified": true
-  },
-  {
     "title": "Following primary loss, crypto PACs invest $1.5M in 3 US state races",
     "link": "https://cointelegraph.com/news/crypto-pac-florida-alaska-wyoming-primary-races?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "pubDate": "Thu, 06 Aug 2026 21:11:19 +0000",
@@ -1548,6 +1524,18 @@
     "classified": true
   },
   {
+    "title": "Senate won't vote on crypto Clarity Act before its summer break",
+    "link": "https://www.coindesk.com/policy/2026/08/06/senate-won-t-vote-on-crypto-clarity-act-before-its-summer-break",
+    "pubDate": "Fri, 07 Aug 2026 02:14:43 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "The U.S. Senate won't go on its August recess just yet but it will not vote on the Clarity Act this month, dimming hopes that the bill can become law this year.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/164f2ef09ede4214270f05f41bac4752e823c525-3762x2116.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "The U.S. Senate will not hold a vote on the crypto Clarity Act this month, delaying its potential passage. This decision significantly diminishes the chances of the bill becoming law within the current year.",
+    "importance": 5,
+    "classified": true
+  },
+  {
     "title": "Live updates: Bitcoin flatlines near $64,000 ahead of Friday's jobs report",
     "link": "https://www.coindesk.com/tech/2026/08/06/live-updates-bitcoin-nears-usd65-000-as-oil-inflation-hopes-keep-macro-bid-alive",
     "pubDate": "Thu, 06 Aug 2026 07:26:23 +0000",
@@ -1592,6 +1580,18 @@
     "content": "After leading crypto ETF inflows in May and June, demand for Hyperliquid funds stalled in July and August as competition intensified, the bank said.",
     "image": "https://cdn.sanity.io/images/s3y3vcno/production/5b3e22f79db7d662674f6627620b8e945757ba94-1280x702.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
     "summary": "JPMorgan reported that Hyperliquid ETF inflows have stalled in July and August after leading the market in May and June. This slowdown is attributed to intensified competition within the crypto ETF sector.",
+    "importance": 3,
+    "classified": true
+  },
+  {
+    "title": "MARA swings to Q2 loss as Bitcoin’s slump masks higher output ",
+    "link": "https://cointelegraph.com/markets/mara-swings-to-q2-loss-as-bitcoins-slump-masks-higher-output?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Fri, 07 Aug 2026 02:17:07 +0000",
+    "source": "Cointelegraph",
+    "category": "crypto",
+    "content": "Bitcoin miner MARA posted its highest quarterly Bitcoin production in over a year, but was overshadowed by a 28% decline in the average price of Bitcoin.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/miner.jpg",
+    "summary": "Bitcoin miner MARA achieved its highest quarterly Bitcoin production in over a year, but this was overshadowed by a 28% decline in the average price of Bitcoin during Q2. Consequently, the company swung to a loss for the quarter despite increased output.",
     "importance": 3,
     "classified": true
   },
