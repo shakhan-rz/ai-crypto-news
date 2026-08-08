@@ -1,5 +1,17 @@
 [
   {
+    "title": "Another Bitcoin infrastructure exploit hits, this time draining Lightning payment servers",
+    "link": "https://www.coindesk.com/tech/2026/08/08/another-bitcoin-infrastructure-exploit-hits-this-time-draining-merchant-lightning-nodes",
+    "pubDate": "Sat, 08 Aug 2026 07:46:04 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "BTCPay told users running LND to update immediately or take servers offline after attackers stole credentials that can control Lightning wallets and move funds.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/f2f6731511c468648ae94fe05f6331efb1318c2f-1500x1071.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "An exploit has targeted Bitcoin's Lightning payment servers, enabling attackers to steal credentials and move funds from Lightning wallets. BTCPay has urged users running LND to immediately update their software or take their servers offline to mitigate the risk.",
+    "importance": 9,
+    "classified": true
+  },
+  {
     "title": "Bybit sues North Korea and Lazarus Group over $1.5 billion hack, secures asset freeze",
     "link": "https://www.coindesk.com/policy/2026/08/07/bybit-sues-north-korea-and-lazarus-group-over-usd1-5-billion-hack-secures-asset-freeze",
     "pubDate": "Fri, 07 Aug 2026 16:32:41 +0000",
@@ -9,6 +21,18 @@
     "image": "https://cdn.sanity.io/images/s3y3vcno/production/09baa6e384a585b06e0cf87764845da486f35cd2-1691x1268.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
     "summary": "Bybit has initiated legal action against North Korea and the Lazarus Group over a substantial $1.5 billion hack. The cryptocurrency exchange successfully secured a preliminary injunction to freeze the stolen assets, aiming to recover funds from the illicit operation.",
     "importance": 9,
+    "classified": true
+  },
+  {
+    "title": "U.S. Senate opens first stage of crypto Clarity Act voting to give bill a chance next month",
+    "link": "https://www.coindesk.com/policy/2026/08/08/u-s-senate-opens-first-stage-of-crypto-clarity-act-voting-to-give-bill-a-chance-next-month",
+    "pubDate": "Sat, 08 Aug 2026 09:07:24 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "The majority leader opened the multi-stage process the Senate follows when trying to get a bill over its 60-vote hurdle, so it's still got a shot in September.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/a6f02ef703e994951b57b8fa5172c8f10bfe45ac-5508x3672.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "The U.S. Senate has commenced the initial stage of voting for the \"crypto Clarity Act.\" This multi-stage process, initiated by the majority leader, aims to give the bill a chance to overcome its 60-vote hurdle and potentially advance in September.",
+    "importance": 8,
     "classified": true
   },
   {
@@ -1128,18 +1152,6 @@
     "classified": true
   },
   {
-    "title": "XRP leads majors losses as Clarity Act vote slips to September",
-    "link": "https://www.coindesk.com/markets/2026/08/07/bitcoin-stuck-near-usd64-000-as-clarity-act-vote-slips-to-september",
-    "pubDate": "Fri, 07 Aug 2026 04:17:01 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "Bitcoin, ether showed slight losses while Ripple-linked XRP fell 5.5% on the week, the worst of the majors, as the Senate left Washington without taking up the market structure bill.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/b1c014a2d37a67798524621c1d3d9c1251ff9030-1500x935.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "XRP experienced a 5.5% loss, the largest among major cryptocurrencies, as the US Senate delayed voting on the Clarity Act until September. Bitcoin and ether also saw slight losses. The delay may impact the crypto market structure",
-    "importance": 6,
-    "classified": true
-  },
-  {
     "title": "Donald Trump’s media company to terminate Crypto.com deal",
     "link": "https://cointelegraph.com/news/donald-trump-media-company-crypto-deal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "pubDate": "Fri, 07 Aug 2026 21:39:36 +0000",
@@ -1581,18 +1593,6 @@
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2218358312-1024x648.jpg",
     "summary": "Reddit is continuing its lawsuit against Perplexity AI, accusing the company of conspiring with a web scraper to manipulate Google search results. The case involves allegations of copyright infringement and is being closely watched due to its implications for online content. The lawsuit is part of a broader trend of companies seeking to protect their intellectual property in the digital age.",
     "importance": 6,
-    "classified": true
-  },
-  {
-    "title": "Senate won't vote on crypto Clarity Act before its summer break",
-    "link": "https://www.coindesk.com/policy/2026/08/06/senate-won-t-vote-on-crypto-clarity-act-before-its-summer-break",
-    "pubDate": "Fri, 07 Aug 2026 02:14:43 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "The U.S. Senate won't go on its August recess just yet but it will not vote on the Clarity Act this month, dimming hopes that the bill can become law this year.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/164f2ef09ede4214270f05f41bac4752e823c525-3762x2116.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "The U.S. Senate will not hold a vote on the crypto Clarity Act this month, delaying its potential passage. This decision significantly diminishes the chances of the bill becoming law within the current year.",
-    "importance": 5,
     "classified": true
   },
   {
