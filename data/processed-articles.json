@@ -12,6 +12,18 @@
     "classified": true
   },
   {
+    "title": "Bitcoin holders risk losing real BTC if they sell coins from BIP-110 fork, says developer",
+    "link": "https://www.coindesk.com/tech/2026/08/08/bitcoin-holders-risk-losing-real-btc-if-they-sell-coins-from-bip-110-fork-says-developer",
+    "pubDate": "Sat, 08 Aug 2026 02:30:00 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "If a minority chain appears this weekend, buyers could replay signed fork-coin sales on bitcoin itself, making doing nothing the safest move until the chains can be separated.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/61a9559ef27c28600826f6691b0424ccfd776182-1500x1000.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "Bitcoin holders may lose real BTC if they sell coins from the BIP-110 fork, a developer warns, as a minority chain could appear and allow buyers to replay signed fork-coin sales on the main bitcoin chain. This could happen if the chains cannot be separated, making it risky for holders to sell. The safest move may be to do nothing until the issue is resolved.",
+    "importance": 8,
+    "classified": true
+  },
+  {
     "title": "U.S. widens Iran crypto crackdown with sanctions on two exchanges",
     "link": "https://www.coindesk.com/policy/2026/08/07/u-s-widens-iran-crypto-crackdown-with-sanctions-on-two-exchanges",
     "pubDate": "Fri, 07 Aug 2026 18:42:44 +0000",
@@ -104,30 +116,6 @@
     "content": "Bitcoin whales accumulate $1.2 billion in BTC while spot ETFs pull in $754 million this week.",
     "image": "https://cdn.sanity.io/images/s3y3vcno/production/cdf7e8f4de8522a9a5bf3476f78117049a0d84cb-1280x853.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
     "summary": "Bitcoin whales have accumulated $1.2 billion in BTC, while spot ETFs have pulled in $754 million this week, indicating a significant surge in investment. This increased investment may be a sign of growing confidence in the cryptocurrency market. The influx of funds could potentially impact the market's overall stability and growth.",
-    "importance": 8,
-    "classified": true
-  },
-  {
-    "title": "Power struggle erupts at Ondo Finance after founder’s death",
-    "link": "https://www.coindesk.com/policy/2026/08/06/power-struggle-erupts-at-ondo-finance-after-founder-s-death",
-    "pubDate": "Thu, 06 Aug 2026 21:59:33 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "Three Delaware court filings reveal a battle for control of Ondo Finance after founder Nathan Allman's death.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/80c70565576dca57e467a9c505945531db3c6631-1452x817.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "A power struggle has erupted for control of Ondo Finance following the death of its founder, Nathan Allman. This internal dispute at the real-world asset (RWA) tokenization protocol has been brought to light through three recent Delaware court filings.",
-    "importance": 8,
-    "classified": true
-  },
-  {
-    "title": "Tether expands tokenization business into Saudi Arabia, starting with real estate",
-    "link": "https://www.coindesk.com/business/2026/08/06/tether-expands-tokenization-business-into-saudi-arabia-starting-with-real-estate",
-    "pubDate": "Thu, 06 Aug 2026 16:10:04 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "The stablecoin issuer is extending its tokenization business into Saudi Arabia, starting with institutional real estate assets with plans to expand to other asset classes.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/27b510056d3b25a67300d1c4cc5407c2ac5cf669-4635x3090.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "Tether, a leading stablecoin issuer, is expanding its tokenization business into Saudi Arabia. The initiative will initially focus on tokenizing institutional real estate assets, with plans to extend to other asset classes in the future. This marks Tether's entry into the Saudi market for asset tokenization.",
     "importance": 8,
     "classified": true
   },
@@ -933,6 +921,18 @@
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/Google-Earth-AI-generated-image-of-Googleplex-on-fire-1152x648.png",
     "summary": "Google Earth retracted an AI tool that could generate fake satellite images, sparking concerns about the spread of misinformation. The tool's capabilities raised fears about the potential for abuse and manipulation of satellite imagery. The decision to walk back the tool highlights the challenges of balancing innovation with responsibility.",
     "importance": 8,
+    "classified": true
+  },
+  {
+    "title": "New XRP Ledger amendments target $530 million in tokenized Wall Street assets",
+    "link": "https://www.coindesk.com/tech/2026/08/07/new-xrp-ledger-amendments-target-usd530-million-in-tokenized-wall-street-assets",
+    "pubDate": "Sat, 08 Aug 2026 03:30:00 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "A new XRPL amendment proposal would let institutions encrypt token balances and transfer amounts while still giving issuers, auditors and regulators selective access.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/7062083f3eac875ac832f0c15d78be2612e57afe-1440x810.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "New amendments proposed for the XRP Ledger (XRPL) aim to attract $530 million in tokenized Wall Street assets by enabling institutions to encrypt token balances and transfer amounts. This proposal would still grant selective access to issuers, auditors, and regulators, addressing privacy concerns for institutional adoption.",
+    "importance": 7,
     "classified": true
   },
   {
