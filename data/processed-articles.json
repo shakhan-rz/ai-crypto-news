@@ -1,5 +1,17 @@
 [
   {
+    "title": "Trillions in institutional money to flow into bitcoin, says Bitwise's Matt Hougan",
+    "link": "https://www.coindesk.com/business/2026/08/08/trillions-in-institutional-money-to-flow-into-bitcoin-says-bitwise-s-matt-hougan",
+    "pubDate": "Sat, 08 Aug 2026 14:00:00 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "The digital asset manager's CIO says large capital pools control up to $200 trillion globally, and just a 1% shift toward bitcoin could unlock massive long-term growth.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/18172463a019e513e643fd2ed9ab0e0806baf68b-1440x810.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "Bitwise CIO Matt Hougan predicts that trillions in institutional money will flow into bitcoin, noting that global capital pools manage up to $200 trillion. He suggests that even a 1% allocation from these funds into bitcoin could unlock massive long-term growth for the digital asset.",
+    "importance": 9,
+    "classified": true
+  },
+  {
     "title": "Another Bitcoin infrastructure exploit hits, this time draining Lightning payment servers",
     "link": "https://www.coindesk.com/tech/2026/08/08/another-bitcoin-infrastructure-exploit-hits-this-time-draining-merchant-lightning-nodes",
     "pubDate": "Sat, 08 Aug 2026 07:46:04 +0000",
@@ -21,6 +33,30 @@
     "image": "https://cdn.sanity.io/images/s3y3vcno/production/09baa6e384a585b06e0cf87764845da486f35cd2-1691x1268.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
     "summary": "Bybit has initiated legal action against North Korea and the Lazarus Group over a substantial $1.5 billion hack. The cryptocurrency exchange successfully secured a preliminary injunction to freeze the stolen assets, aiming to recover funds from the illicit operation.",
     "importance": 9,
+    "classified": true
+  },
+  {
+    "title": "US Senate to vote on advancing CLARITY Act on Sept. 15 after Thune files cloture",
+    "link": "https://cointelegraph.com/news/us-senate-clarity-act-september-vote-thune-cloture?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Sat, 08 Aug 2026 15:08:06 +0000",
+    "source": "Cointelegraph",
+    "category": "crypto",
+    "content": "The procedural move puts crypto market structure legislation back on track as lawmakers continue negotiations over ethics and stablecoin provisions.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-us-crypto-regulation-is-pushing-its-way-to-clarity-act-2.jpg",
+    "summary": "The US Senate is scheduled to vote on advancing the CLARITY Act on Sept. 15, following Senator Thune's cloture filing. This procedural move brings crypto market structure legislation back into focus, although lawmakers are still negotiating key ethics and stablecoin provisions.",
+    "importance": 9,
+    "classified": true
+  },
+  {
+    "title": "Why trillion-dollar asset manager T. Rowe Price put memecoins in its crypto ETF",
+    "link": "https://www.coindesk.com/markets/2026/08/06/why-trillion-dollar-asset-manager-t-rowe-price-put-memecoins-in-its-crypto-etf",
+    "pubDate": "Sat, 08 Aug 2026 13:00:00 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "The $1.9 trillion asset manager says excluding established memecoins on principle would undermine its active approach to crypto investing.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/20ab5a9646b9489023b2430751cd56fc03709f8d-2048x1152.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "T. Rowe Price, a $1.9 trillion asset manager, has included memecoins in its crypto ETF, stating that excluding them on principle would undermine its active investment approach. This move highlights a traditional financial institution's strategic decision to embrace a broader range of digital assets within its portfolio.",
+    "importance": 8,
     "classified": true
   },
   {
@@ -324,14 +360,14 @@
     "classified": true
   },
   {
-    "title": "Bitcoin price coils under $65K as US PMI data brings new ‘stagflation’ warning",
-    "link": "https://cointelegraph.com/markets/bitcoin-price-compresses-as-us-pmi-data-brings-new-stagflation-warning?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Thu, 06 Aug 2026 16:24:18 +0000",
-    "source": "Cointelegraph",
+    "title": "Bitcoin, ether ETFs draw $1.1 billion in best inflow week since April, despite low volume",
+    "link": "https://www.theblock.co/news/markets/2026-08-08-bitcoin-ether-etfs-draw-1-1-billion-in-best-inflow-week-since-april-despite-low-volume-411204?utm_source=rss&utm_medium=rss",
+    "pubDate": "Sat, 08 Aug 2026 10:52:11 -0400",
+    "source": "The Block",
     "category": "crypto",
-    "content": "Bitcoin price action stayed compressed in an ongoing divergence from stocks and gold while US PMI data sparked fresh talk of “stagflation.”",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-bull-market-vs-bear-market-hyperliquid.jpg",
-    "summary": "The Bitcoin price remains under $65K, diverging from stocks and gold, as US PMI data warns of potential stagflation. This warning of stagflation could impact the overall economy and financial markets. The Bitcoin price action is currently compressed, awaiting further movement.",
+    "content": "Bloomberg analyst Eric Balchunas tied the run to the Coldcard wallet exploit, noting several Bitcoin funds have drawn inflows daily since the hack.",
+    "image": "https://www.tbstat.com/wp/uploads/2023/08/20230726_BitcoinVEthereum_News-800x450.jpg",
+    "summary": "Bitcoin and ether ETFs attracted $1.1 billion in inflows, marking their strongest week since April. A Bloomberg analyst linked this surge to the Coldcard wallet exploit, noting that several Bitcoin funds have seen daily inflows since the hack.",
     "importance": 8,
     "classified": true
   },
@@ -1020,14 +1056,14 @@
     "classified": true
   },
   {
-    "title": "Bitcoin wallet dormant since 2011 moves $3.2 million toward FalconX-linked address",
-    "link": "https://www.coindesk.com/markets/2026/08/07/bitcoin-wallet-dormant-since-2011-moves-usd3-2-million-toward-falconx-linked-address",
-    "pubDate": "Fri, 07 Aug 2026 04:50:44 +0000",
-    "source": "CoinDesk",
+    "title": "Bitcoin will never fall below $60K again: Nansen founder",
+    "link": "https://cointelegraph.com/magazine/bitcoin-will-never-fall-below-60k-again-nansen-founder?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Sat, 08 Aug 2026 13:30:00 +0000",
+    "source": "Cointelegraph",
     "category": "crypto",
-    "content": "The 50 BTC remained in the receiving address Friday, but that wallet has previously sent funds to FalconX-labeled deposits, leaving open whether the old stash is being reorganized or moved closer to a trading venue.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/70198f64252bcded39f90b505eb1a2f4f3b2fb92-1500x1000.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "A Bitcoin wallet, which had been dormant since 2011, recently moved 50 BTC, valued at $3.2 million, to an address linked to FalconX. The funds are currently held in the receiving wallet, which has a history of sending transactions to FalconX-labeled deposits. This movement suggests the possibility of the old stash being reorganized or prepared for a trading venue.",
+    "content": "Crypto is growing up thanks to trading in real world assets, and Bitcoin will never dip below $60K again, says Nansen founder founder Alex Svanevik.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/alex-svanevik-interview.jpg",
+    "summary": "Nansen founder Alex Svanevik predicts that Bitcoin will never fall below $60,000 again. He attributes this new stability to the crypto market's maturation, driven by the increasing trading of Real World Assets (RWAs).",
     "importance": 7,
     "classified": true
   },
@@ -1136,18 +1172,6 @@
     "content": "The U.S. lost 23,000 in July, the first such loss since February. Expectations had been for a gain of 80,000 jobs.",
     "image": "https://cdn.sanity.io/images/s3y3vcno/production/8c5b6006d5fa8669c35c8173d18dd59e1b21a9e4-2880x1500.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
     "summary": "The US lost 23,000 jobs in July, contrary to expectations of a gain of 80,000 jobs, and Bitcoin is holding near $65,000. This loss is the first since February. The job market development may impact the cryptocurrency market.",
-    "importance": 6,
-    "classified": true
-  },
-  {
-    "title": "A bitcoin pattern taking shape right now could send prices soaring to $76,000",
-    "link": "https://www.coindesk.com/markets/2026/08/07/a-case-for-a-bitcoin-surge-to-usd76-000-may-be-building-beneath-the-boring-price-action-but-there-s-a-caveat",
-    "pubDate": "Fri, 07 Aug 2026 04:28:17 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "Bitcoin's chart is quietly tracing out a bullish setup technical analysts watch closely. But it isn't confirmed, and one key level will decide if it plays out.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/a52834e6e53c318a5414a955c503c268d0a9bdff-2854x1488.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "Technical analysts see a potential bullish setup for bitcoin, which could lead to a surge in price, but it's not confirmed and depends on a key level. The setup is forming beneath the current stable price action. Confirmation of this setup is crucial for the predicted price surge.",
     "importance": 6,
     "classified": true
   },
@@ -1272,18 +1296,6 @@
     "classified": true
   },
   {
-    "title": "Bitcoin miners’ AI pivot loses Wall Street’s wow factor",
-    "link": "https://cointelegraph.com/news/bitcoin-miners-ai-infrastructure-deals-wall-street-reaction?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Thu, 06 Aug 2026 16:42:33 +0000",
-    "source": "Cointelegraph",
-    "category": "both",
-    "content": "New analysis finds AI infrastructure contracts are becoming larger and more profitable, but investors now demand stronger execution before rewarding bitcoin mining stocks.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-ai-is-now-paying-bitcoin-miners-more-than-mining.jpg",
-    "summary": "Bitcoin miners are shifting towards AI infrastructure, with larger and more profitable contracts, but investors are now expecting stronger execution before investing in bitcoin mining stocks. This pivot has lost its initial enthusiasm from Wall Street. The demand for stronger execution may impact the mining industry's growth.",
-    "importance": 6,
-    "classified": true
-  },
-  {
     "title": "Bernstein favors CleanSpark on AI execution as MARA awaits first commercial contract",
     "link": "https://www.theblock.co/news/business/2026-08-07-bernstein-favors-cleanspark-on-ai-execution-as-mara-awaits-first-commercial-contract-411136?utm_source=rss&utm_medium=rss",
     "pubDate": "Fri, 07 Aug 2026 07:51:21 -0400",
@@ -1340,18 +1352,6 @@
     "content": "Base is seeing growing demand across tokenization and payments, and Pollack called blockchain launches from Robinhood and Stripe \"validation.\"",
     "image": "https://www.tbstat.com/wp/uploads/2023/08/20230821_JessePollak_Editorial-800x450.jpg",
     "summary": "Coinbase's Base app is evolving to be less focused on its own brand, with growing demand in tokenization and payments. This shift comes as other companies like Robinhood and Stripe launch their own blockchain products. The move is seen as validation of the blockchain space.",
-    "importance": 6,
-    "classified": true
-  },
-  {
-    "title": "JPMorgan says Hyperliquid faces growing competition while HYPE ETF inflows stall",
-    "link": "https://www.theblock.co/news/markets/2026-08-06-jpmorgan-hyperliquid-competition-hype-etf-inflows-stall-411001?utm_source=rss&utm_medium=rss",
-    "pubDate": "Thu, 06 Aug 2026 12:17:58 -0400",
-    "source": "The Block",
-    "category": "crypto",
-    "content": "\"Whether Hyperliquid eventually surpasses in market cap other tokens such as Solana and XRP remains to be seen,\" analysts said.",
-    "image": "https://www.tbstat.com/wp/uploads/2020/10/20201026_JPMorgan-Crypto-Org-800x450.jpg",
-    "summary": "JPMorgan analysts discuss Hyperliquid's market prospects, noting growing competition and stalled inflows for the HYPE ETF. Hyperliquid's potential to surpass other tokens like Solana and XRP is uncertain. The analysts' comments reflect a cautious outlook for Hyperliquid's growth.",
     "importance": 6,
     "classified": true
   },
