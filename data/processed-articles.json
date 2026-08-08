@@ -36,7 +36,7 @@
     "classified": true
   },
   {
-    "title": "US Senate to vote on advancing CLARITY Act on Sept. 15 after Thune files cloture",
+    "title": "US Senate to vote on advancing CLARITY Act in September after Thune files cloture",
     "link": "https://cointelegraph.com/news/us-senate-clarity-act-september-vote-thune-cloture?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "pubDate": "Sat, 08 Aug 2026 15:08:06 +0000",
     "source": "Cointelegraph",
@@ -45,6 +45,18 @@
     "image": "https://s3-images.ctmedia.io/media/article-covers/hi-us-crypto-regulation-is-pushing-its-way-to-clarity-act-2.jpg",
     "summary": "The US Senate is scheduled to vote on advancing the CLARITY Act on Sept. 15, following Senator Thune's cloture filing. This procedural move brings crypto market structure legislation back into focus, although lawmakers are still negotiating key ethics and stablecoin provisions.",
     "importance": 9,
+    "classified": true
+  },
+  {
+    "title": "Brazil's central bank orders exchanges to delay large crypto transfers abroad",
+    "link": "https://www.coindesk.com/business/2026/08/08/brazil-s-central-bank-orders-exchanges-to-delay-large-crypto-transfers-abroad",
+    "pubDate": "Sat, 08 Aug 2026 15:25:38 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "The rule applies to transfers above $10,000 and smaller transactions flagged as risky by exchanges.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/a010b6e8d5d9fab88360e6939414f5b12c6bf695-1920x1272.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "Brazil's central bank has mandated that crypto exchanges delay international transfers exceeding $10,000. The new regulation also applies to smaller transactions identified as high-risk by exchanges.",
+    "importance": 8,
     "classified": true
   },
   {
@@ -168,14 +180,14 @@
     "classified": true
   },
   {
-    "title": "Bitcoin whales load up on $1.2 billion in BTC as ETFs attract $750 million",
-    "link": "https://www.coindesk.com/markets/2026/08/07/bitcoin-whales-load-up-on-usd1-2-billion-in-btc-as-etfs-attract-usd750-million",
-    "pubDate": "Fri, 07 Aug 2026 05:45:21 +0000",
-    "source": "CoinDesk",
+    "title": "US spot Bitcoin ETFs post best week since April with $1B inflows",
+    "link": "https://cointelegraph.com/news/us-bitcoin-etfs-best-weekly-inflows-april-coldcard-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Sat, 08 Aug 2026 16:20:17 +0000",
+    "source": "Cointelegraph",
     "category": "crypto",
-    "content": "Bitcoin whales accumulate $1.2 billion in BTC while spot ETFs pull in $754 million this week.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/cdf7e8f4de8522a9a5bf3476f78117049a0d84cb-1280x853.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "Bitcoin whales have accumulated $1.2 billion in BTC, while spot ETFs have pulled in $754 million this week, indicating a significant surge in investment. This increased investment may be a sign of growing confidence in the cryptocurrency market. The influx of funds could potentially impact the market's overall stability and growth.",
+    "content": "The spot Bitcoin exchange-traded funds registered their third-strongest showing since October as institutional demand showed signs of renewed momentum.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-part-2-where-oh-where-has-btc-volatility-gone-etf.jpg",
+    "summary": "US spot Bitcoin Exchange-Traded Funds (ETFs) experienced their best week since April, attracting $1 billion in inflows. This surge represents their third-strongest performance since October, indicating a renewed momentum in institutional demand for Bitcoin.",
     "importance": 8,
     "classified": true
   },
@@ -348,18 +360,6 @@
     "classified": true
   },
   {
-    "title": "US Senate will vote on CLARITY crypto bill ‘without any question’ this week: Tim Scott ",
-    "link": "https://cointelegraph.com/news/us-senate-vote-clarity-act-tim-scott?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Thu, 06 Aug 2026 16:53:45 +0000",
-    "source": "Cointelegraph",
-    "category": "crypto",
-    "content": "The South Carolina lawmaker who heads the Senate Banking Committee said that the majority leader still had time to put the crypto bill on the agenda despite the narrow voting window.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-us-senate-infrastructure-bill-doom-and-gloom-for-crypto-clarity-act.jpg",
-    "summary": "The US Senate will vote on the CLARITY crypto bill this week, according to Senator Tim Scott, who heads the Senate Banking Committee. The majority leader still has time to add the bill to the agenda despite a narrow voting window. The bill's passage could have significant implications for the cryptocurrency industry.",
-    "importance": 8,
-    "classified": true
-  },
-  {
     "title": "Bitcoin, ether ETFs draw $1.1 billion in best inflow week since April, despite low volume",
     "link": "https://www.theblock.co/news/markets/2026-08-08-bitcoin-ether-etfs-draw-1-1-billion-in-best-inflow-week-since-april-despite-low-volume-411204?utm_source=rss&utm_medium=rss",
     "pubDate": "Sat, 08 Aug 2026 10:52:11 -0400",
@@ -488,18 +488,6 @@
     "content": "Vangrid contributors are currently paid bounties, Brighton said, noting that a token is planned for later this year.",
     "image": "https://www.tbstat.com/wp/uploads/2025/04/20250411_Funding_News_3-800x450.jpg",
     "summary": "Vangrid, a project under DePIN, has raised $9 million in a token round to develop a spatial data network for physical AI, with plans to introduce a token later this year. The project currently rewards contributors with bounties. This funding will support the development of the spatial data network.",
-    "importance": 8,
-    "classified": true
-  },
-  {
-    "title": "Tokenized RWAs triple deposits to $7.4 billion as broader DeFi contracts 15%: CoinShares",
-    "link": "https://www.theblock.co/news/defi/2026-08-06-tokenized-rwas-triple-deposits-to-7-4-billion-as-broader-defi-contracts-15-coinshares-411015?utm_source=rss&utm_medium=rss",
-    "pubDate": "Thu, 06 Aug 2026 13:22:22 -0400",
-    "source": "The Block",
-    "category": "crypto",
-    "content": "Deposits of tokenized RWAs into lending platforms and DEXs more than tripled from Q2 2025 to Q2 2026, from $2.3 billion to $7.4 billion.",
-    "image": "https://www.tbstat.com/wp/uploads/2026/05/20260513_RWAs_Learn-1-800x450.jpg",
-    "summary": "Tokenized real-world assets (RWAs) deposits have tripled to $7.4 billion in Q2 2026, despite a 15% contraction in the broader DeFi market. This growth indicates increasing interest in tokenized assets. The rise in tokenized RWAs deposits suggests a potential shift in the DeFi landscape.",
     "importance": 8,
     "classified": true
   },
@@ -1008,6 +996,18 @@
     "classified": true
   },
   {
+    "title": "Hardware wallet sales in Russia more than double as new crypto rules near",
+    "link": "https://www.coindesk.com/business/2026/08/08/hardware-wallet-sales-in-russia-more-than-double-as-new-crypto-rules-near",
+    "pubDate": "Sat, 08 Aug 2026 17:48:02 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "Wildberries’ average price for hardware wallets fell 13% to 7,900 rubles, and M.Video broadened its range of products, though neither retailer identified the driving force behind the renewed demand.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/30976665dd7fa778eff16c38318b48d658559cdb-1920x1282.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "Hardware wallet sales in Russia have more than doubled recently, with average prices at Wildberries falling by 13% and M.Video expanding its product range. This surge in demand coincides with the impending implementation of new cryptocurrency regulations in the country, though retailers have not identified the specific drivers behind it.",
+    "importance": 7,
+    "classified": true
+  },
+  {
     "title": "New XRP Ledger amendments target $530 million in tokenized Wall Street assets",
     "link": "https://www.coindesk.com/tech/2026/08/07/new-xrp-ledger-amendments-target-usd530-million-in-tokenized-wall-street-assets",
     "pubDate": "Sat, 08 Aug 2026 03:30:00 +0000",
@@ -1164,14 +1164,14 @@
     "classified": true
   },
   {
-    "title": "Live updates: 'This can't last forever': Mulling bitcoin's lame price action as risk markets rally",
-    "link": "https://www.coindesk.com/markets/2026/08/07/live-updates-bitcoin-flat-at-usd64-300-before-us-jobs-report-with-oil-back-as-a-headwind",
-    "pubDate": "Fri, 07 Aug 2026 07:44:57 +0000",
-    "source": "CoinDesk",
+    "title": "Here’s what happened in crypto today",
+    "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Sat, 08 Aug 2026 17:19:56 +0000",
+    "source": "Cointelegraph",
     "category": "crypto",
-    "content": "The U.S. lost 23,000 in July, the first such loss since February. Expectations had been for a gain of 80,000 jobs.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/8c5b6006d5fa8669c35c8173d18dd59e1b21a9e4-2880x1500.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "The US lost 23,000 jobs in July, contrary to expectations of a gain of 80,000 jobs, and Bitcoin is holding near $65,000. This loss is the first since February. The job market development may impact the cryptocurrency market.",
+    "content": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg",
+    "summary": "The article provides a brief overview of the latest news and trends in the crypto space, covering topics such as Bitcoin price, blockchain, DeFi, Web3, and crypto regulation. It aims to keep readers updated on daily events impacting the cryptocurrency market. The article serves as a daily recap of crypto-related news.",
     "importance": 6,
     "classified": true
   },
@@ -1184,18 +1184,6 @@
     "content": "The president’s company will unwind an agreement with Crypto.com to create a multibillion-dollar CRO treasury and reportedly not integrate prediction markets onto Truth Social.",
     "image": "https://s3-images.ctmedia.io/media/article-covers/hi-tmtg-wallet.jpg",
     "summary": "Donald Trump’s media company is terminating its agreement with Crypto.com. This deal would have involved creating a multibillion-dollar CRO treasury and reportedly integrating prediction markets onto Truth Social, which will now not proceed.",
-    "importance": 6,
-    "classified": true
-  },
-  {
-    "title": "Here’s what happened in crypto today",
-    "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Fri, 07 Aug 2026 18:36:10 +0000",
-    "source": "Cointelegraph",
-    "category": "crypto",
-    "content": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg",
-    "summary": "The article provides a brief overview of the latest news and trends in the crypto space, covering topics such as Bitcoin price, blockchain, DeFi, Web3, and crypto regulation. It aims to keep readers updated on daily events impacting the cryptocurrency market. The article serves as a daily recap of crypto-related news.",
     "importance": 6,
     "classified": true
   },
@@ -1712,6 +1700,18 @@
     "content": "The chances of a Federal Reserve rate hike at its next meeting in September have slipped below 50% in the aftermath of the report.",
     "image": "https://cdn.sanity.io/images/s3y3vcno/production/802ff63bb41cf1a48be506ef0f8579ae4fffea87-1920x1040.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
     "summary": "The U.S. unexpectedly shed 23,000 jobs in July, a report that has significantly lowered the probability of a Federal Reserve rate hike at its upcoming September meeting. The chances of a rate increase have now fallen below 50%.",
+    "importance": 1,
+    "classified": true
+  },
+  {
+    "title": "Majority Leader Thune files cloture on Clarity Act, setting up Sept. 15 Senate vote",
+    "link": "https://www.theblock.co/news/regulation/2026-08-08-majority-leader-thune-files-cloture-on-clarity-act-setting-up-sept-15-senate-vote-411211?utm_source=rss&utm_medium=rss",
+    "pubDate": "Sat, 08 Aug 2026 13:27:45 -0400",
+    "source": "The Block",
+    "category": "crypto",
+    "content": "The Senate is set to vote on the motion on Tuesday, Sept. 15, the day after the body returns, though at least seven non-Republicans will need to support it.",
+    "image": "https://www.tbstat.com/wp/uploads/2021/12/20211208_Capitol-Congress-Regulation-800x450.jpg",
+    "summary": "The Senate is scheduled to vote on the Clarity Act on September 15th, following Majority Leader Thune's filing of cloture. The bill's passage will require support from at least seven non-Republican senators.",
     "importance": 1,
     "classified": true
   },
