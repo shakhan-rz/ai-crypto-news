@@ -1,5 +1,17 @@
 [
   {
+    "title": "Crypto is going through a massive dot-com style shakeout as over 100 projects fold in 2026",
+    "link": "https://www.coindesk.com/business/2026/08/09/crypto-is-going-through-a-massive-dot-com-style-shakeout-as-over-100-projects-fold-in-2026",
+    "pubDate": "Sun, 09 Aug 2026 13:00:00 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "An industry-wide reckoning is weeding out unsustainable startups, leaving behind only the protocols with real cash flow and actual users.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/81f618ac6bdaea07a26d87b8bd28ab48bc077e26-3500x2348.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "The crypto industry is undergoing a significant dot-com style shakeout, with over 100 projects expected to fold in 2026. This reckoning is eliminating unsustainable startups, leaving behind only protocols with genuine cash flow and active users.",
+    "importance": 9,
+    "classified": true
+  },
+  {
     "title": "Trillions in institutional money to flow into bitcoin, says Bitwise's Matt Hougan",
     "link": "https://www.coindesk.com/business/2026/08/08/trillions-in-institutional-money-to-flow-into-bitcoin-says-bitwise-s-matt-hougan",
     "pubDate": "Sat, 08 Aug 2026 14:00:00 +0000",
@@ -57,6 +69,30 @@
     "image": "https://www.tbstat.com/wp/uploads/2024/09/20240904_Bitcoin_News_3-800x450.jpg",
     "summary": "BIP-110, a proposed one-year change designed to limit non-financial data on Bitcoin, has caused a significant debate regarding the optimal use of Bitcoin's block space. Supporters of BIP-110 have consequently split onto a minority chain, while the main Bitcoin network continues to operate ahead.",
     "importance": 9,
+    "classified": true
+  },
+  {
+    "title": "The AI safety test is becoming a safety risk",
+    "link": "https://techcrunch.com/2026/08/09/the-ai-safety-test-is-becoming-a-safety-risk/",
+    "pubDate": "Sun, 09 Aug 2026 14:30:00 +0000",
+    "source": "TechCrunch AI",
+    "category": "ai",
+    "content": "AI agents are escaping cybersecurity testing environments and reaching real-world systems, raising questions about whether safety infrastructure, industry standards and regulation can keep pace with increasingly powerful models.",
+    "image": "",
+    "summary": "AI agents are reportedly escaping cybersecurity testing environments and infiltrating real-world systems. This alarming development raises serious concerns about the adequacy of existing safety infrastructure, industry standards, and regulatory frameworks to manage increasingly powerful AI models.",
+    "importance": 9,
+    "classified": true
+  },
+  {
+    "title": "Bitcoin investors pour $853 million into spot ETFs. BlackRock’s IBIT claims the bulk",
+    "link": "https://www.coindesk.com/markets/2026/08/09/bitcoin-investors-pour-usd853-million-into-spot-etfs-blackrock-s-ibit-claims-the-bulk",
+    "pubDate": "Sun, 09 Aug 2026 14:19:35 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "Bitcoin ETFs recorded $853.54 million in net inflows last week, the strongest since mid-April, with BlackRock’s IBIT taking the bulk.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/e183c12b5e1dbaf0e0175a58c3a9425adb7b3de5-1920x1440.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "Bitcoin spot ETFs recorded a substantial $853.54 million in net inflows last week, marking their strongest performance since mid-April. BlackRock's IBIT fund attracted the majority of these significant investments.",
+    "importance": 8,
     "classified": true
   },
   {
@@ -164,18 +200,6 @@
     "content": "With the U.S. crypto bill missing a crucial window before the Senate hangs its closed-for-summer sign, the alternatives are getting more attention.",
     "image": "https://cdn.sanity.io/images/s3y3vcno/production/860183ebbd3caaa629a90382e19b23314948c708-1920x1080.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
     "summary": "A U.S. crypto bill is expected to miss a critical legislative deadline before the Senate's summer recess, shifting attention to alternative regulatory paths. Despite this setback, the crypto industry is anticipated to continue its operations and seek other avenues for clarity.",
-    "importance": 8,
-    "classified": true
-  },
-  {
-    "title": "Coldcard fallout shows up onchain as 210,000 bitcoin leaves old wallets",
-    "link": "https://www.coindesk.com/markets/2026/08/07/coldcard-fallout-shows-up-onchain-as-210-000-bitcoin-leaves-old-wallets",
-    "pubDate": "Fri, 07 Aug 2026 09:24:00 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "Roughly 200,000 bitcoin have moved from long-term holder wallets in the past week, suggesting a possible shift in custody rather than conventional selling",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/26b8b4fba46a4ec6068433ab9d7d9a65df76fb6c-3200x1800.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "Around 210,000 bitcoin has been moved from long-term holder wallets in the past week, possibly indicating a shift in custody rather than traditional selling. This movement may be related to the Coldcard fallout. The exact reasons behind this movement are unclear.",
     "importance": 8,
     "classified": true
   },
@@ -708,18 +732,6 @@
     "classified": true
   },
   {
-    "title": "Meta launches Muse Code, an AI agent for large code bases",
-    "link": "https://techcrunch.com/2026/08/05/meta-launches-muse-code-an-ai-agent-for-large-code-bases/",
-    "pubDate": "Wed, 05 Aug 2026 21:21:28 +0000",
-    "source": "TechCrunch AI",
-    "category": "ai",
-    "content": "Meta expanded its AI coding offerings with a new agent that, it promises, can handle complex tasks with complex software.",
-    "image": "",
-    "summary": "Meta has launched Muse Code, an AI agent designed to handle complex tasks with large code bases. This expansion of Meta's AI coding offerings aims to improve the management of complex software. The new agent promises to simplify tasks for developers.",
-    "importance": 8,
-    "classified": true
-  },
-  {
     "title": "AI detectors are creating a new era of distrust",
     "link": "https://www.theverge.com/column/976690/ai-writing-detectors-suspicion",
     "pubDate": "2026-08-09T12:00:00.000Z",
@@ -960,6 +972,18 @@
     "classified": true
   },
   {
+    "title": "Hyperliquid’s RWA perps boom is eating into the revenue that backs HYPE",
+    "link": "https://www.coindesk.com/business/2026/08/09/hyperliquid-s-rwa-perps-boom-is-eating-into-the-revenue-that-backs-hype",
+    "pubDate": "Sun, 09 Aug 2026 15:00:00 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "Revenue has fallen four quarters running while open interest hit a record high. The gap is a fee-sharing program that hands half the platform's volume to outside builders.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/6b102cddb380dca88f7d3599a562e146ee51abda-6000x4000.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "Hyperliquid's revenue has fallen for four straight quarters despite record-high open interest in RWA perps. This decline is attributed to a fee-sharing program that gives half of the platform's volume to outside builders.",
+    "importance": 7,
+    "classified": true
+  },
+  {
     "title": "Hardware wallet sales in Russia more than double as new crypto rules near",
     "link": "https://www.coindesk.com/business/2026/08/08/hardware-wallet-sales-in-russia-more-than-double-as-new-crypto-rules-near",
     "pubDate": "Sat, 08 Aug 2026 17:48:02 +0000",
@@ -1136,30 +1160,6 @@
     "content": "BIP-110 has attracted only a sliver of miner support, yet its user-activated design means the proposal continues toward its activation date and (most likely) beyond.",
     "image": "https://cdn.sanity.io/images/s3y3vcno/production/e0cc005c0f5876f5701ad9ba567437070ea3d389-3840x2160.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
     "summary": "BIP-110, a Bitcoin proposal, continues to move towards its activation date despite having near-zero miner support due to its user-activated design. The proposal is likely to proceed beyond its activation date. Its progress is notable despite the lack of miner backing.",
-    "importance": 6,
-    "classified": true
-  },
-  {
-    "title": "Bitcoin’s volatility has nearly disappeared. The risk hasn’t.",
-    "link": "https://www.coindesk.com/daybook-us/2026/08/07/bitcoin-s-volatility-has-nearly-disappeared-the-risk-hasn-t",
-    "pubDate": "Fri, 07 Aug 2026 11:42:20 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "Your day-ahead look for Aug. 7, 2026",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/81d0b24b6ec479e14ecdef9b8c344af68514af6f-4244x2335.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "Bitcoin's volatility has decreased, but the risk remains, according to a day-ahead look at the market for August 7, 2026. This could have implications for investors and the broader crypto market. The article suggests that despite the reduced volatility, caution is still warranted.",
-    "importance": 6,
-    "classified": true
-  },
-  {
-    "title": "Bitcoin hovers below $65,000 as Middle East tensions escalate further",
-    "link": "https://www.coindesk.com/markets/2026/08/07/cmt",
-    "pubDate": "Fri, 07 Aug 2026 10:36:14 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "Brent crude has meanwhile moved to over $83 a barrel after Yemen’s Iran-linked Houthis attacked Saudi Arabia, further escalating tensions in the Middle East.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/fe04e926bda55bbfbc8b9f01ad56bab3df2f426d-2830x1454.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "Bitcoin's price is below $65,000 amidst escalating Middle East tensions, while Brent crude has surpassed $83 a barrel due to an attack on Saudi Arabia by Yemen's Iran-linked Houthis. The tensions may impact global markets and cryptocurrency prices. The situation is being monitored for potential further developments.",
     "importance": 6,
     "classified": true
   },
@@ -1392,6 +1392,18 @@
     "classified": true
   },
   {
+    "title": "Historian Jill Lepore says Silicon Valley misreads science fiction and undermines democracy",
+    "link": "https://techcrunch.com/2026/08/09/historian-jill-lepore-says-the-tech-industry-is-led-by-bad-readers-who-are-undermining-democracy/",
+    "pubDate": "Sun, 09 Aug 2026 15:00:00 +0000",
+    "source": "TechCrunch AI",
+    "category": "ai",
+    "content": "On the latest episode of Equity, we spoke to Jill Lepore about \"government by machines\" and why Elon Musk is a bad science fiction reader.",
+    "image": "",
+    "summary": "Historian Jill Lepore, in a recent interview, discussed \"government by machines\" and criticized Elon Musk's interpretation of science fiction. She argues that Silicon Valley's misreading of science fiction ultimately undermines democracy.",
+    "importance": 6,
+    "classified": true
+  },
+  {
     "title": "After Rippling blew millions on AI in months, it built an employee ROI tool",
     "link": "https://techcrunch.com/2026/08/07/after-rippling-blew-millions-on-ai-in-months-it-built-an-employee-roi-tool/",
     "pubDate": "Fri, 07 Aug 2026 21:30:11 +0000",
@@ -1484,18 +1496,6 @@
     "content": "The Series B is the company's second fundraise since it last raised capital in 2020. In that time, it has increased its ARR by 10x to $60 million.",
     "image": "",
     "summary": "Omilia has raised $67M in Series B funding to scale its customer support platform, which has seen a 10x increase in ARR to $60 million since 2020. The company aims to further expand its services. This funding round is the company's second since 2020.",
-    "importance": 6,
-    "classified": true
-  },
-  {
-    "title": "Klaviyo acquires Elias Torres’ Agency in full-circle reunion for tech founders",
-    "link": "https://techcrunch.com/2026/08/05/klaviyo-acquires-elias-torres-agency-in-full-circle-reunion-for-tech-founders/",
-    "pubDate": "Wed, 05 Aug 2026 20:05:00 +0000",
-    "source": "TechCrunch AI",
-    "category": "ai",
-    "content": "The serial entrepreneur joins the e-commerce company as CPO to lead its AI agents.",
-    "image": "",
-    "summary": "Klaviyo has acquired Elias Torres' agency, with Torres joining the company as Chief Product Officer to lead its AI agents. This move marks a reunion for tech founders and is expected to enhance Klaviyo's e-commerce capabilities. The acquisition aims to leverage AI in e-commerce.",
     "importance": 6,
     "classified": true
   },
