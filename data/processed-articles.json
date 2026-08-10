@@ -192,18 +192,6 @@
     "classified": true
   },
   {
-    "title": "After a Clarity Act funeral, the crypto world would keep turning",
-    "link": "https://www.coindesk.com/news-analysis/2026/08/06/after-a-clarity-act-funeral-the-crypto-world-would-keep-turning",
-    "pubDate": "Fri, 07 Aug 2026 12:00:00 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "With the U.S. crypto bill missing a crucial window before the Senate hangs its closed-for-summer sign, the alternatives are getting more attention.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/860183ebbd3caaa629a90382e19b23314948c708-1920x1080.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "A U.S. crypto bill is expected to miss a critical legislative deadline before the Senate's summer recess, shifting attention to alternative regulatory paths. Despite this setback, the crypto industry is anticipated to continue its operations and seek other avenues for clarity.",
-    "importance": 8,
-    "classified": true
-  },
-  {
     "title": "BIP-110 Bitcoin branch stalls after two blocks as gap widens",
     "link": "https://cointelegraph.com/news/bitcoin-bip-110-branch-stalls-miner-support?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "pubDate": "Sun, 09 Aug 2026 11:00:53 +0000",
@@ -1068,6 +1056,18 @@
     "classified": true
   },
   {
+    "title": "Crypto’s first quantum attack will look like unexplained breach: Quantus founder",
+    "link": "https://cointelegraph.com/news/cryptos-first-quantum-attack-look-like-ordinary-key-theft-quantus-founder?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Mon, 10 Aug 2026 03:34:53 +0000",
+    "source": "Cointelegraph",
+    "category": "crypto",
+    "content": "Bad actors with access to a cryptography-breaking quantum computer probably won’t try to announce it to the world by hacking Satoshi Nakamoto’s high-profile Bitcoin wallets, crypto executives say.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/quantum.jpg",
+    "summary": "A quantum attack on cryptocurrency would likely manifest as an unexplained breach rather than a public, high-profile hack, according to crypto executives. This subtle approach would make it harder to detect the advanced technology behind the attack.",
+    "importance": 7,
+    "classified": true
+  },
+  {
     "title": "Brazil targets crypto fraud with up to 24-hour transfer hold ",
     "link": "https://cointelegraph.com/news/brazil-targets-crypto-fraud-with-up-to-24-hour-transfer-hold?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "pubDate": "Sun, 09 Aug 2026 09:10:39 +0000",
@@ -1292,18 +1292,6 @@
     "content": "The latest bipartisan ethics proposal would reportedly require Trump to divest crypto businesses while allowing him to defer capital gains taxes on those sales.",
     "image": "https://s3-images.ctmedia.io/media/article-covers/hi-fungible-tokens-turn-monopoly-money-into-cryptocurrency-trump.jpg",
     "summary": "A bipartisan ethics proposal could allow Trump to defer capital gains taxes on the sale of his crypto businesses, while requiring him to divest from them. The proposal may help Trump save millions in taxes. The deal is part of a broader ethics package.",
-    "importance": 6,
-    "classified": true
-  },
-  {
-    "title": "Bitget explores licensed crypto presence in Bhutan",
-    "link": "https://cointelegraph.com/news/bitget-explores-licensed-crypto-presence-in-bhutan?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Fri, 07 Aug 2026 03:22:26 +0000",
-    "source": "Cointelegraph",
-    "category": "crypto",
-    "content": "Crypto exchange Bitget has signed an agreement with Gelephu Mindfulness City Authority to pursue a regulated local presence.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/building-bitcoin-investment-bhutan.jpg",
-    "summary": "Bitget, a crypto exchange, has signed an agreement with Gelephu Mindfulness City Authority to establish a regulated presence in Bhutan. This move aims to expand Bitget's services in the region. The agreement marks a significant step for crypto adoption in Bhutan.",
     "importance": 6,
     "classified": true
   },
@@ -1569,6 +1557,18 @@
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2218358312-1024x648.jpg",
     "summary": "Reddit is continuing its lawsuit against Perplexity AI, accusing the company of conspiring with a web scraper to manipulate Google search results. The case involves allegations of copyright infringement and is being closely watched due to its implications for online content. The lawsuit is part of a broader trend of companies seeking to protect their intellectual property in the digital age.",
     "importance": 6,
+    "classified": true
+  },
+  {
+    "title": "XRP is getting left behind in the crypto bounce even as ETFs keep attracting investor money",
+    "link": "https://www.coindesk.com/markets/2026/08/10/xrp-is-getting-left-behind-in-the-crypto-bounce-even-as-etfs-keep-attracting-investor-money",
+    "pubDate": "Mon, 10 Aug 2026 04:26:01 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "The token fell 5% last week while BTC, ETH and SOL climbed.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/94d6b058781a0a1c3225d8d2d844d7410eb18794-3000x2001.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "XRP significantly underperformed other major cryptocurrencies last week, dropping 5% while Bitcoin, Ethereum, and Solana climbed. This decline occurred despite continued investor interest flowing into crypto ETFs.",
+    "importance": 3,
     "classified": true
   },
   {
