@@ -1,6 +1,6 @@
 [
   {
-    "title": "Ravencoin could roll back four days of transactions after critical block flaw",
+    "title": "Ravencoin, a blockchain built from Bitcoin’s code, could roll back four days of transactions",
     "link": "https://www.coindesk.com/tech/2026/08/11/ravencoin-could-roll-back-four-days-of-transactions-after-critical-block-flaw",
     "pubDate": "Tue, 11 Aug 2026 11:24:56 +0000",
     "source": "CoinDesk",
@@ -84,6 +84,30 @@
     "classified": true
   },
   {
+    "title": "If crypto goes back to the congressional drawing board, 3 Democrat women loom large",
+    "link": "https://www.coindesk.com/news-analysis/2026/08/11/if-crypto-goes-back-to-the-congressional-drawing-board-3-democrat-women-loom-large",
+    "pubDate": "Tue, 11 Aug 2026 14:40:15 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "The Democrats who may get a bigger say in future crypto legislative efforts are familiar figures, and they generally look at digital assets with distrust.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/2cf8c56e1ec085b0709d193283ca438dc2b33772-3849x2566.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "Three Democratic women, known for their distrust of digital assets, are expected to have a significant influence on future congressional crypto legislative efforts. Their involvement signals a potentially challenging regulatory environment ahead for the cryptocurrency industry.",
+    "importance": 8,
+    "classified": true
+  },
+  {
+    "title": "Crypto-friendly bank Erebor in talks to raise $1.5 billion at $9.5 billion valuation: FT",
+    "link": "https://www.coindesk.com/business/2026/08/11/crypto-friendly-bank-erebor-in-talks-to-raise-usd1-5-billion-at-usd9-5-billion-valuation-ft",
+    "pubDate": "Tue, 11 Aug 2026 14:39:12 +0000",
+    "source": "CoinDesk",
+    "category": "both",
+    "content": "Total deposits grew from $1.1 billion in March to $4.6 billion by July, driven by clients in crypto, AI and defense.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/1f36f4b6075554c7a225b5bdef6b7d0bb9142a62-1920x1280.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "Erebor, a crypto-friendly bank, is in talks to raise $1.5 billion at a $9.5 billion valuation, with significant deposit growth driven by crypto, AI, and defense clients. Total deposits have increased from $1.1 billion to $4.6 billion between March and July. This growth is notable for the crypto and AI communities.",
+    "importance": 8,
+    "classified": true
+  },
+  {
     "title": "MoneyGram expands on Solana with global crypto-to-cash service",
     "link": "https://www.coindesk.com/business/2026/08/10/moneygram-expands-on-solana-with-global-crypto-to-cash-service",
     "pubDate": "Tue, 11 Aug 2026 12:02:22 +0000",
@@ -132,7 +156,7 @@
     "classified": true
   },
   {
-    "title": "Live updates: Bitcoin holds $64,200; Anthropic to watermark Claude's AI content after EU regulations",
+    "title": "Live updates: Bitcoin falls below $64,000; Anthropic to watermark Claude's AI content after EU regulations",
     "link": "https://www.coindesk.com/tech/2026/08/11/live-updates-bitcoin-slips-as-corporate-btc-enthusiasm-moves-to-ai",
     "pubDate": "Tue, 11 Aug 2026 10:34:52 +0000",
     "source": "CoinDesk",
@@ -228,6 +252,18 @@
     "classified": true
   },
   {
+    "title": "ADI Chain, Shipfinex partner to tokenize $500M vessel pipeline ",
+    "link": "https://cointelegraph.com/news/adi-chain-shipfinex-partner-to-tokenize-500m-vessel-pipeline?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Tue, 11 Aug 2026 13:59:20 +0000",
+    "source": "Cointelegraph",
+    "category": "crypto",
+    "content": "Shipfinex plans to bring 35 vessels onchain through ADI Chain as tokenization expands into the multitrillion-dollar maritime industry.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-inside-the-mas-sandbox-how-ripple-is-testing-rlusd-for-real-trade-settlements.png",
+    "summary": "Shipfinex has partnered with ADI Chain to tokenize a $500M vessel pipeline, bringing 35 vessels on-chain. This move marks the expansion of tokenization into the maritime industry. The partnership aims to leverage blockchain technology for vessel financing.",
+    "importance": 8,
+    "classified": true
+  },
+  {
     "title": "Russia proposes exchange trading of Bitcoin, Ether and Tether’s USDT",
     "link": "https://cointelegraph.com/news/bank-of-russia-trading-bitcoin-ether-tether-usdt?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "pubDate": "Tue, 11 Aug 2026 12:09:38 +0000",
@@ -265,13 +301,13 @@
   },
   {
     "title": "Keel shuts US Bitcoin mining operations as Q2 revenue falls 50%",
-    "link": "https://cointelegraph.com/news/keel-shuts-bitcoin-mining-ai-pivot-revenue-falls?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Tue, 11 Aug 2026 09:24:15 +0000",
+    "link": "https://cointelegraph.com/markets/keel-shuts-bitcoin-mining-ai-pivot-revenue-falls?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Tue, 11 Aug 2026 09:26:00 +0000",
     "source": "Cointelegraph",
     "category": "both",
     "content": "Keel completed the shutdown of its US Bitcoin mining operations as it pivots toward AI and high-performance computing infrastructure",
     "image": "https://s3-images.ctmedia.io/media/article-covers/hi-is-cryptocurrency-mining-still-profitable-in-2025.jpg",
-    "summary": "Keel has ceased its US Bitcoin mining operations following a 50% drop in Q2 revenue. The company is now redirecting its focus towards artificial intelligence and high-performance computing infrastructure. This strategic pivot marks a significant shift away from cryptocurrency mining.",
+    "summary": "Keel has shut down its US Bitcoin mining operations due to a 50% fall in Q2 revenue, and is now shifting focus towards AI and high-performance computing infrastructure. This move indicates a significant change in the company's business strategy. The shutdown is expected to have implications for the crypto mining industry.",
     "importance": 8,
     "classified": true
   },
@@ -408,6 +444,54 @@
     "classified": true
   },
   {
+    "title": "From bitcoin bull to ‘complete demolition’: Keel CEO bets on AI’s greater value",
+    "link": "https://www.theblock.co/news/business/2026-08-11-bitcoin-bull-to-complete-demolition-keel-ceo-bets-on-ai-greater-value-411435",
+    "pubDate": "Tue, 11 Aug 2026 11:48:01 -0400",
+    "source": "The Block",
+    "category": "both",
+    "content": "In May 2025, Keel's CEO said firm's bitcoin business was “strong” and said company remained “bullish on mining economics.\"",
+    "image": "https://www.tbstat.com/wp/uploads/2025/06/20250603_Bitcoin_News_2-800x450.jpg",
+    "summary": "Keel's CEO has changed their stance from being bullish on bitcoin to now prioritizing AI, indicating a significant shift in focus for the company. This change in perspective suggests that the CEO believes AI has greater potential than bitcoin. The CEO had previously expressed confidence in the company's bitcoin business.",
+    "importance": 8,
+    "classified": true
+  },
+  {
+    "title": "Bitcoin slips toward $64,000 as traders await Wednesday’s inflation test",
+    "link": "https://www.theblock.co/news/markets/2026-08-11-bitcoin-slips-toward-64000-as-traders-await-wednesdays-inflation-test-411418",
+    "pubDate": "Tue, 11 Aug 2026 10:34:02 -0400",
+    "source": "The Block",
+    "category": "crypto",
+    "content": "Bitcoin eased toward $64,000 before Wednesday's US CPI report, with analysts split on whether the stall breaks higher or reverses.",
+    "image": "https://www.tbstat.com/wp/uploads/2024/05/20240509_Bitcoin_News_5-800x450.jpg",
+    "summary": "Bitcoin's price is approaching $64,000 as traders await the US CPI report on Wednesday, with analysts unsure if the stall will lead to a higher price or a reversal. The report may impact Bitcoin's value. The cryptocurrency's price has been fluctuating in anticipation of the report.",
+    "importance": 8,
+    "classified": true
+  },
+  {
+    "title": "Benchmark sees over 150% upside for Bitdeer on bitcoin mining, AI outlook",
+    "link": "https://www.theblock.co/news/business/2026-08-11-benchmark-sees-over-150-upside-for-bitdeer-on-bitcoin-mining-ai-outlook-411424",
+    "pubDate": "Tue, 11 Aug 2026 10:25:24 -0400",
+    "source": "The Block",
+    "category": "both",
+    "content": "Benchmark sees over 150% upside for Bitdeer as bitcoin mining operations fund its $4.7 billion AI data-center buildout.",
+    "image": "https://www.tbstat.com/wp/uploads/2026/04/20260428_Bitcoin-Mining_News_2-800x450.jpg",
+    "summary": "Benchmark predicts a 150% upside for Bitdeer due to its bitcoin mining operations funding its AI data-center buildout. The buildout is valued at $4.7 billion. This development signifies a notable intersection of bitcoin mining and AI.",
+    "importance": 8,
+    "classified": true
+  },
+  {
+    "title": "‘Clear scale up path’: Bernstein sees 80% upside for Riot after reported $9.1 billion Anthropic deal",
+    "link": "https://www.theblock.co/news/business/2026-08-11-bernstein-riot-upside-anthropic-deal-411407",
+    "pubDate": "Tue, 11 Aug 2026 09:15:21 -0400",
+    "source": "The Block",
+    "category": "both",
+    "content": "The firm's analysts estimate AI colocation now accounts for 84% of Riot's target enterprise value, versus 11% for bitcoin mining.",
+    "image": "https://www.tbstat.com/wp/uploads/2024/05/crypto-etfs-800x450.png",
+    "summary": "Riot's value is expected to increase by 80% due to a reported $9.1 billion deal with Anthropic, with AI colocation accounting for 84% of the company's target enterprise value. This shift highlights the growing importance of AI in Riot's business. The deal is seen as a significant opportunity for growth.",
+    "importance": 8,
+    "classified": true
+  },
+  {
     "title": "‘One of the single biggest barriers to growth’: UK lawmakers press banks over crypto access ahead of new FCA regime",
     "link": "https://www.theblock.co/news/regulation/2026-08-11-uk-crypto-banking-access-411389",
     "pubDate": "Tue, 11 Aug 2026 07:04:38 -0400",
@@ -540,74 +624,14 @@
     "classified": true
   },
   {
-    "title": "Crypto lost $110 million to hacks in July amid rising bug bounty activity: Immunefi",
-    "link": "https://www.theblock.co/news/defi/2026-08-10-crypto-hacks-july-immunefi-411246",
-    "pubDate": "Mon, 10 Aug 2026 10:00:00 -0400",
-    "source": "The Block",
+    "title": "Luke Dashjr Removed as Bitcoin BIP Editor Following (BIP)-110 Fork Failure ",
+    "link": "https://bitcoinmagazine.com/news/luke-dashjr-removed-as-bitcoin-bip-editor",
+    "pubDate": "Tue, 11 Aug 2026 14:57:26 +0000",
+    "source": "Bitcoin Magazine",
     "category": "crypto",
-    "content": "Crypto lost roughly $110 million to hacks in July as Immunefi said its audit competitions outperformed tier-1 audits.",
-    "image": "https://www.tbstat.com/wp/uploads/2024/07/20240710_Cypherpunks_News_1-800x450.jpg",
-    "summary": "The crypto industry lost approximately $110 million to hacks in July, according to Immunefi. Despite this, Immunefi's audit competitions showed promising results, outperforming tier-1 audits. This highlights the ongoing struggle with security in the crypto space.",
-    "importance": 8,
-    "classified": true
-  },
-  {
-    "title": "Bitmine adds 7,391 ether in a week, bringing total Ethereum holdings to 5.81 million ETH",
-    "link": "https://www.theblock.co/news/business/2026-08-10-bitmine-adds-7391-eth-411265",
-    "pubDate": "Mon, 10 Aug 2026 09:53:42 -0400",
-    "source": "The Block",
-    "category": "crypto",
-    "content": "Bitmine bought 7,391 ether last week, lifting its total Ethereum treasury to 5.81 million ETH, worth roughly $11 billion.",
-    "image": "https://www.tbstat.com/wp/uploads/2024/05/20240523_Ethereum_News_5-800x450.jpg",
-    "summary": "Bitmine has increased its Ethereum holdings by 7,391 ether, bringing its total to 5.81 million ETH, valued at approximately $11 billion. This significant acquisition boosts Bitmine's treasury. The purchase highlights the company's continued investment in Ethereum.",
-    "importance": 8,
-    "classified": true
-  },
-  {
-    "title": "‘Owning the rails’: Standard Chartered sees LINK at $200 by 2030 as Chainlink underpins tokenized-asset boom",
-    "link": "https://www.theblock.co/news/defi/2026-08-10-standard-chartered-chainlink-tokenization-411252",
-    "pubDate": "Mon, 10 Aug 2026 09:04:18 -0400",
-    "source": "The Block",
-    "category": "crypto",
-    "content": "Standard Chartered bets Chainlink owns the rails for tokenized finance, initiating LINK coverage with a $200 target by end-2030.",
-    "image": "https://www.tbstat.com/wp/uploads/2022/10/20221005_Chainlink-800x450.jpg",
-    "summary": "Standard Chartered has initiated coverage of Chainlink with a target price of $200 by 2030, citing the platform's potential to underpin a tokenized-asset boom. The bank believes Chainlink will play a key role in tokenized finance. This could be a significant development for the crypto space.",
-    "importance": 8,
-    "classified": true
-  },
-  {
-    "title": "Michael Saylor’s Strategy sells another 1,690 BTC as USD reserve hits $4.65 billion",
-    "link": "https://www.theblock.co/news/business/2026-08-10-michael-saylor-strategy-bitcoin-treasury-411237",
-    "pubDate": "Mon, 10 Aug 2026 08:09:39 -0400",
-    "source": "The Block",
-    "category": "crypto",
-    "content": "Strategy's total holdings account for roughly 4% of the 21 million bitcoin supply cap — worth roughly $55 billion.",
-    "image": "https://www.tbstat.com/wp/uploads/2025/03/20250304_Strategy_News-800x450.jpg",
-    "summary": "Michael Saylor's company Strategy has sold 1,690 BTC, with the company's USD reserve now at $4.65 billion, and its total bitcoin holdings accounting for 4% of the total supply cap, worth around $55 billion. This sale is a significant move in the crypto market. The company's large holdings and actions have a substantial impact on the market.",
-    "importance": 8,
-    "classified": true
-  },
-  {
-    "title": "North Korea’s Kimsuky integrates AI into cyberattacks targeting crypto and finance",
-    "link": "https://www.theblock.co/news/defi/2026-08-10-north-korea-kimsuky-ai-crypto-411229",
-    "pubDate": "Mon, 10 Aug 2026 04:35:09 -0400",
-    "source": "The Block",
-    "category": "both",
-    "content": "Kimsuky uses generative AI to produce phishing documents themed around digital assets, investment strategies, and fintech services.",
-    "image": "https://www.tbstat.com/wp/uploads/2019/03/north-korea-2662076_1920-e1734489004471-800x450.jpg",
-    "summary": "North Korea's Kimsuky group is using generative AI to create targeted phishing documents focused on digital assets and fintech services, integrating AI into their cyberattacks. This approach aims to deceive individuals and organizations in the crypto and finance sectors. The use of AI enhances the sophistication of their attacks.",
-    "importance": 8,
-    "classified": true
-  },
-  {
-    "title": "Robinhood brings crypto trading to main UK app through Bitstamp",
-    "link": "https://www.theblock.co/news/business/2026-08-10-robinhood-uk-crypto-trading-bitstamp-411140",
-    "pubDate": "Mon, 10 Aug 2026 03:00:00 -0400",
-    "source": "The Block",
-    "category": "crypto",
-    "content": "The launch adds crypto alongside stocks, ISAs, options, and futures in the UK as Robinhood continues to expand its broader crypto ecosystem.",
-    "image": "https://www.tbstat.com/wp/uploads/2025/12/20251208_Robinhood_News_3-800x450.jpg",
-    "summary": "Robinhood has added crypto trading to its main UK app through a partnership with Bitstamp, expanding its crypto ecosystem alongside traditional stocks and financial products. This move allows UK users to trade cryptocurrencies alongside other investment options. The launch reflects Robinhood's continued efforts to grow its presence in the crypto market.",
+    "content": "Bitcoin Magazine\n\nLuke Dashjr Removed as Bitcoin BIP Editor Following (BIP)-110 Fork Failure \nBitcoin developer Luke Dashjr, who backed the failed Bitcoin Improvement Proposal (BIP)-110, has been removed from his position as an editor of such proposals for the development of the Bitcoin network.  The decision, voted on by other Bitcoin developers, was posted on the BIP Github Sunday. The BIP Github page, separate from Bitcoin Core’s repository, […]\nThis post Luke Dashjr Removed as Bitcoin BIP Editor Following (BIP)-110 Fork Failure  first appeared on Bitcoin Magazine and is written by Mathew Di Salvo.",
+    "image": "https://bitcoinmagazine.com/wp-content/uploads/2024/11/luke-dashjruasf.png",
+    "summary": "Luke Dashjr, a Bitcoin developer, has been removed as a BIP editor after the failure of BIP-110, a proposal he backed. The decision was made by other Bitcoin developers and announced on the BIP Github page. This change may impact the development of the Bitcoin network.",
     "importance": 8,
     "classified": true
   },
@@ -704,6 +728,18 @@
     "content": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Google’s AI empire is being reshaped. Here’s what’s changed. After a wave of painful losses in the tech talent wars, delays to its next flagship model, and murmurings of poor morale,…",
     "image": "https://wp.technologyreview.com/wp-content/uploads/2025/04/2_digitalselves_photocredit_JonathanReus.jpg?fit=2128,1196",
     "summary": "Google's AI empire is undergoing changes due to tech talent losses, delays, and poor morale, while Meta has a rogue model, as reported in The Download newsletter. The situation affects the tech industry, particularly those interested in AI developments. These changes may have significant impacts on Google's AI future.",
+    "importance": 8,
+    "classified": true
+  },
+  {
+    "title": "Spotify will label ‘AI Persona’ profiles and exclude their music from recommendations",
+    "link": "https://techcrunch.com/2026/08/11/spotify-will-label-ai-persona-profiles-and-exclude-their-music-from-recommendations/",
+    "pubDate": "Tue, 11 Aug 2026 13:00:00 +0000",
+    "source": "TechCrunch AI",
+    "category": "ai",
+    "content": "Spotify is introducing “AI Persona” labels for artist profiles that represent AI-generated identities and will exclude their music from editorial, algorithmic, and personalized recommendations by default.",
+    "image": "",
+    "summary": "Spotify will label and exclude music from 'AI Persona' profiles, which represent AI-generated identities, from recommendations. This change aims to distinguish human-created content from AI-generated content. The move may impact the discoverability of AI-generated music on the platform.",
     "importance": 8,
     "classified": true
   },
@@ -816,14 +852,38 @@
     "classified": true
   },
   {
-    "title": "OpenAI’s new AI smart speaker will reportedly sell for between $300 and $400",
-    "link": "https://techcrunch.com/2026/08/06/openais-new-ai-smart-speaker-will-reportedly-sell-for-between-300-and-400/",
-    "pubDate": "Thu, 06 Aug 2026 22:43:53 +0000",
-    "source": "TechCrunch AI",
+    "title": "‘Zoomsday’ hack uncovered using fewer than 20 AI prompts",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/977909/zoom-vulnerability-ai-attack",
+    "pubDate": "2026-08-11T14:45:44.000Z",
+    "source": "The Verge AI",
     "category": "ai",
-    "content": "Additional details about OpenAI's mysterious new AI device make it sound like a pricey smart speaker.",
-    "image": "",
-    "summary": "OpenAI is reportedly releasing a new AI smart speaker priced between $300 and $400, with details suggesting it will be a high-end device. The device is described as mysterious, implying it may have unique features. Further information about its capabilities is not provided.",
+    "content": "Zoom has patched a major security vulnerability that could allow an attacker to hijack anyone's device during a meeting. In a blog post on Tuesday, researchers at A Security say they uncovered the flaw using \"fewer than 20 prompts on publicly available AI models,\" as reported earlier by Wired.\nThe exploit involved Zoom's annotation feature, which allows users to draw on their screen while sharing it with other meeting participants. With the exploit, an attacker could join or host a meeting and run malicious code on victims' devices, allowing them to steal data, turn on the camera or microphone, or install malware. The attack required no act …\nRead the full story at The Verge.",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/acastro_STK059_zoom_03.webp?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "summary": "Researchers used AI prompts to uncover a major security vulnerability in Zoom, allowing attackers to hijack devices during meetings. The exploit involved Zoom's annotation feature and could allow malicious code to be run on victims' devices. Zoom has since patched the vulnerability.",
+    "importance": 8,
+    "classified": true
+  },
+  {
+    "title": "Spotify says it won&#8217;t recommend music from &#8216;AI Personas&#8217;",
+    "link": "https://www.theverge.com/entertainment/977815/spotify-ai-persona-label-recommendations",
+    "pubDate": "2026-08-11T13:00:00.000Z",
+    "source": "The Verge AI",
+    "category": "ai",
+    "content": "Spotify will soon label AI artists and remove their music from your recommendations. The change, which will start rolling out in mid-September, means you'll see an \"AI Persona\" badge on an artist's profile across the app if they do \"not represent a real person.\"\nThe music streaming platform will allow artists to disclose that they're an AI persona starting today, but it won't rely solely on self-identification. Spotify says it will use human review and AI tools to determine whether someone's profile, including their name and image, \"appears to represent photorealistic AI-generated identities.\" If Spotify determines that an artist's identity …\nRead the full story at The Verge.",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/AI-Personas-Display-2.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "summary": "Spotify will label and remove music from AI artists from recommendations, starting in mid-September, and will use human review and AI tools to identify them. AI artists will have the option to self-identify, and their profiles will be marked with an 'AI Persona' badge. This change aims to differentiate between human and AI-generated music.",
+    "importance": 8,
+    "classified": true
+  },
+  {
+    "title": "Claude will apply invisible watermarks to AI text and images",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/977823/anthropic-claude-ai-watermarks-c2pa-text-images",
+    "pubDate": "2026-08-11T12:22:20.000Z",
+    "source": "The Verge AI",
+    "category": "ai",
+    "content": "Anthropic has pledged to start marking Claude-generated text and images with machine-readable data, in an effort to comply with European rules for AI transparency. \"Generated text will carry embedded watermarks, and generated files will include digitally signed provenance metadata where supported,\" Anthropic says on a new Claude support page. The changes are invisible to human eyes, but will make it easier for people and online platforms to detect if content was generated by Claude models.\nThese updates are a future commitment rather than something that will go into effect immediately. New AI labeling and transparency obligations under the  …\nRead the full story at The Verge.",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STKB364_CLAUDE_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "summary": "Anthropic will add invisible watermarks to text and images generated by Claude, making it easier to detect AI-generated content. This change aims to comply with European rules for AI transparency. The updates will include embedded watermarks and digitally signed provenance metadata.",
     "importance": 8,
     "classified": true
   },
@@ -860,42 +920,6 @@
     "content": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more news about how AI is changing our daily lives, follow Emma Roth. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here.\nHow it started\nLong before ChatGPT became a thing, educators and editors frequently used anti-plagiarism tools to see if writers were being honest about their work. These tools work by comparing a written work against a database filled with content from across the web, scholarly articles, and more to check for matching sentences and phrases. Some, like Turnitin, offer a percentage th …\nRead the full story at The Verge.",
     "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/268680_AI_detection_CVirginia-.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
     "summary": "This article introduces the growing use of AI detectors, drawing parallels to traditional anti-plagiarism tools, and notes that their rise in the wake of ChatGPT is fostering a new era of distrust. These tools work by comparing written content against extensive databases to identify AI-generated text, impacting how authenticity is perceived.",
-    "importance": 8,
-    "classified": true
-  },
-  {
-    "title": "Fenix Flexin isn’t even denying using AI to make ‘Rubberz’ anymore",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/976801/fenix-flexin-rubberz-ai-song-treblo",
-    "pubDate": "2026-08-07T20:01:51.000Z",
-    "source": "The Verge AI",
-    "category": "ai",
-    "content": "That cover art is almost certainly AI too. | Image: Fenix Flexin\t\n\nIt took long enough, but now LA rapper Fenix Flexin appears to have admitted using AI for the 80s synth pop-themed song \"Rubberz.\" His comments follow the producer Medasin's videos claiming that an AI tool called Treblo (formerly Sonauto) was used to make the song, and the company releasing an AI detector that identifies it as Treblo AI-created. \nIn a reply to a comment pointing out that Tyga admitted to relying on AI for his own controversial '80s-influenced album $tarface, on one of his Instagram posts, Fenix said:\nnever said I didn't use AI , i said it had nun to do w recording process . I didn't even know what da app was till we mixed …\n\nRead the full story at The Verge.",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/artworks-WsdIgVXV8NOV-0-t1080x1080.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "summary": "LA rapper Fenix Flexin has admitted to using AI to make his song 'Rubberz', after producer Medasin claimed the song was created with the AI tool Treblo. The admission comes after Tyga also revealed using AI for his album. The song's cover art is also suspected to be AI-generated.",
-    "importance": 8,
-    "classified": true
-  },
-  {
-    "title": "Watching Roku’s AI channel is like eating from a trough",
-    "link": "https://www.theverge.com/entertainment/976939/roku-fairground-ai-fast-channel",
-    "pubDate": "2026-08-07T18:59:46.000Z",
-    "source": "The Verge AI",
-    "category": "ai",
-    "content": "The appeal of free ad-supported streaming television (FAST) channels has always been the way they make it easier to (re)discover classic films and series. But Roku's latest experiment in the FAST space has less to do with traditionally produced entertainment and is entirely focused on giving viewers access to a constant source of AI-generated content.\nThis week, Roku added four new channels to its library of streamable programming. Along with dedicated feeds for old episodes of Mad TV, Whose Line Is It Anyway?, and a variety of Black sitcoms, the platform also debuted a 24/7 stream filled with projects from Colin Petrie-Norris' AI startup,  …\nRead the full story at The Verge.",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Screenshot-2026-08-07-at-2.40.34-PM.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "summary": "Roku has introduced a new AI-generated content channel to its streaming platform, offering a 24/7 stream of projects from an AI startup, in addition to other new channels featuring classic TV shows. The channel is part of Roku's experiment in the free ad-supported streaming television space. This move marks a shift towards AI-generated content on the platform.",
-    "importance": 8,
-    "classified": true
-  },
-  {
-    "title": "OpenAI puts the brakes on a new model because it&#8217;s supposedly too powerful",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/976948/openai-astra-model-pause-critical-cyber-capabilities",
-    "pubDate": "2026-08-07T18:40:34.000Z",
-    "source": "The Verge AI",
-    "category": "ai",
-    "content": "OpenAI says it is pausing \"internal activities\" around an in-development AI model, Astra, because it doesn't yet meet new security standards the company is putting in place. The announcement follows its recent disclosure that OpenAI models accidentally hacked Hugging Face. Anthropic and Meta have also since admitted that they had AI models that went rogue and breached other organizations. \nRecent internal evaluations of an OpenAI model called Astra indicate that it offers \"significant advancements in agentic coding and cybersecurity,\" according to the company. \"These results, in addition to expert assessments, have led us to conclude last n …\nRead the full story at The Verge.",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK155_OPEN_AI_CVirginia_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "summary": "OpenAI is pausing development of its new AI model, Astra, due to concerns that it is too powerful and does not meet the company's new security standards. This decision follows recent incidents where AI models from OpenAI and other companies, such as Anthropic and Meta, have accidentally hacked into other organizations. Astra has shown significant advancements in agentic coding and cybersecurity, prompting the company to reassess its security protocols.",
     "importance": 8,
     "classified": true
   },
@@ -1068,6 +1092,18 @@
     "classified": true
   },
   {
+    "title": "Pokémon cards are becoming multibillion dollar market. Crypto wants to fix how they trade",
+    "link": "https://www.coindesk.com/business/2026/08/11/pokemon-cards-are-becoming-multibillion-dollar-market-crypto-wants-to-fix-how-they-trade",
+    "pubDate": "Tue, 11 Aug 2026 13:06:07 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "Collectors are spending millions on trading cards, while blockchain startups are turning physical Pokémon cards into digital assets. The harder task is creating enough liquidity to compete with established marketplaces.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/800c6fe6e3c91b04429f89f7d1800b84095103a7-5777x3851.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "Pokémon cards have become a multibillion-dollar market, with collectors spending millions on them. Blockchain startups are now aiming to revolutionize their trading by digitizing physical cards into digital assets. The main challenge for these initiatives is generating enough liquidity to effectively compete with established marketplaces.",
+    "importance": 7,
+    "classified": true
+  },
+  {
     "title": "Trump Media’s bitcoin holdings shrink as crypto losses hit $361 million",
     "link": "https://www.coindesk.com/business/2026/08/10/trump-media-s-bitcoin-holdings-shrink-as-crypto-losses-hit-usd361-million",
     "pubDate": "Mon, 10 Aug 2026 21:12:07 +0000",
@@ -1076,6 +1112,18 @@
     "content": "The Truth Social parent held 9,477 BTC worth $557 million at the end of June, while its Cronos position also suffered a steep drop in value.",
     "image": "https://cdn.sanity.io/images/s3y3vcno/production/6e4532d237786704984596878a883a023b94ba32-4540x2554.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
     "summary": "Trump Media, the parent company of Truth Social, reported substantial crypto losses totaling $361 million. By the end of June, its holdings of 9,477 BTC were valued at $557 million, indicating a decrease in value, with its Cronos position also suffering a steep drop.",
+    "importance": 7,
+    "classified": true
+  },
+  {
+    "title": "SharpLink reports $394M in Q2 net loss fueled by ETH decline",
+    "link": "https://cointelegraph.com/markets/sharplink-reports-394m-q2-net-loss?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Tue, 11 Aug 2026 13:17:00 +0000",
+    "source": "Cointelegraph",
+    "category": "crypto",
+    "content": "SharpLink reported a net loss of $394 million in the second quarter of 2026, largely driven by Ether’s 23% decline during the quarter.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-takeaways-5-years-after-the-dao-crisis-and-ethereum-hardfork.jpg",
+    "summary": "SharpLink reported a substantial net loss of $394 million in the second quarter of 2026. This significant financial downturn was primarily attributed to the 23% decline of Ether during the same period.",
     "importance": 7,
     "classified": true
   },
@@ -1092,18 +1140,6 @@
     "classified": true
   },
   {
-    "title": "Crypto’s first quantum attack will look like unexplained breach: Quantus founder",
-    "link": "https://cointelegraph.com/news/cryptos-first-quantum-attack-look-like-ordinary-key-theft-quantus-founder?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Mon, 10 Aug 2026 03:34:53 +0000",
-    "source": "Cointelegraph",
-    "category": "crypto",
-    "content": "Bad actors with access to a cryptography-breaking quantum computer probably won’t try to announce it to the world by hacking Satoshi Nakamoto’s high-profile Bitcoin wallets, crypto executives say.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/quantum.jpg",
-    "summary": "A quantum attack on cryptocurrency would likely manifest as an unexplained breach rather than a public, high-profile hack, according to crypto executives. This subtle approach would make it harder to detect the advanced technology behind the attack.",
-    "importance": 7,
-    "classified": true
-  },
-  {
     "title": "AI for science needs reasoning, not just data",
     "link": "https://www.technologyreview.com/2026/08/10/1141384/ai-agents-for-science/",
     "pubDate": "Mon, 10 Aug 2026 09:00:00 +0000",
@@ -1112,18 +1148,6 @@
     "content": "Every few decades, someone announces that science has reached its end. In 1903, the revered physicist Albert Michelson wrote that the “facts of physical science have all been discovered.” In the 1980s, Stephen Hawking predicted that theoretical physics might be finished by the end of the century. With the explosive arrival of artificial intelligence, the…",
     "image": "",
     "summary": "The article contends that artificial intelligence needs advanced reasoning capabilities, not just data processing, to truly advance scientific discovery, contrasting with historical predictions of science reaching its end. It suggests that current AI, while powerful, is insufficient for making fundamental scientific breakthroughs without improved reasoning.",
-    "importance": 7,
-    "classified": true
-  },
-  {
-    "title": "An Amazon data center could have the worst polluting power plant in the country",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/977124/amazon-data-center-worst-polluting-power-plant",
-    "pubDate": "2026-08-08T17:53:34.000Z",
-    "source": "The Verge AI",
-    "category": "ai",
-    "content": "To power its new West Texas data center, Amazon is investing in the construction of a new power plant that could be one of the largest single producers of greenhouse gases in the US, according to The New York Times. The new gas-burning plant in Pecos County, Texas, has received significant investment from Amazon and, at least initially, would not be connected to the state's power grid. Instead, its 35 natural-gas turbines would primarily deliver its 7.65 gigawatts of electricity to the new data center.\nAccording to Cleanview, which tracks data centers and their associated power projects, GW Ranch received a permit from Texas allowing for th …\nRead the full story at The Verge.",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKS528_DATA_CENTERS2_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "summary": "Amazon is investing in the construction of a new gas-burning power plant in West Texas to power its new data center, which could become one of the largest single producers of greenhouse gases in the US. This plant, equipped with 35 natural-gas turbines, would initially deliver its 7.65 gigawatts of electricity primarily to the data center without connecting to the state's main power grid.",
     "importance": 7,
     "classified": true
   },
@@ -1164,50 +1188,26 @@
     "classified": true
   },
   {
-    "title": "Strategy builds $4.75 billion cash cushion as only bitcoin isn’t enough for investors",
-    "link": "https://www.coindesk.com/coindesk-news/2026/08/10/strategy-builds-usd4-75-billion-cash-cushion-as-only-bitcoin-isn-t-enough-for-investors",
-    "pubDate": "Mon, 10 Aug 2026 20:03:24 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "Strategy is holding billions in cash after learning that traditional investors don’t necessarily view its massive bitcoin reserves as a substitute for dollars.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/6398b4995f520f7aff6cf8486d8ae4c965ff005c-1252x702.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "Strategy is holding $4.75 billion in cash after discovering that traditional investors do not view its large bitcoin reserves as a suitable substitute for dollars. This move indicates a shift in investor sentiment, where bitcoin alone is not enough to satisfy investment requirements. The company's decision to accumulate a large cash reserve highlights the ongoing complexity of cryptocurrency adoption.",
-    "importance": 6,
-    "classified": true
-  },
-  {
-    "title": "Grayscale quietly drops Cardano, Polkadot and Hedera ETF plans",
-    "link": "https://www.coindesk.com/business/2026/08/10/grayscale-quietly-drops-cardano-polkadot-and-hedera-etf-plans",
-    "pubDate": "Mon, 10 Aug 2026 15:02:14 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "The asset manager said it no longer intends to proceed with the offerings. None became effective, and no securities were issued or sold.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/8dd88cb35b7bebbb09c8e4ed53c431f147391d5b-2048x1365.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "Grayscale has dropped its plans to launch ETFs for Cardano, Polkadot, and Hedera. The asset manager stated that it no longer intends to proceed with these offerings, and no securities were issued or sold. This decision may impact the cryptocurrency market, particularly for these three projects.",
-    "importance": 6,
-    "classified": true
-  },
-  {
-    "title": "Solana lending giant Jupiter now lets the same dollar earn twice",
-    "link": "https://www.coindesk.com/markets/2026/08/10/solana-lending-giant-jupiter-now-lets-the-same-dollar-earn-twice",
-    "pubDate": "Mon, 10 Aug 2026 14:30:00 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "The new Lend v2 product turns deposits and borrowed assets into trading liquidity, tying higher returns to whether Jupiter’s router can send enough swap flow to the new vaults.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/6a5e129a1540983596e499dd8e96b7b5e60f29d0-1920x1280.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "Solana lending giant Jupiter has launched Lend v2, allowing the same dollar to earn twice by turning deposits and borrowed assets into trading liquidity. This new product ties higher returns to the router's ability to send swap flow to the new vaults. The update aims to increase earnings for users.",
-    "importance": 6,
-    "classified": true
-  },
-  {
     "title": "EToro to buy TradeZero as Q2 crypto revenue falls 30%",
-    "link": "https://cointelegraph.com/news/etoro-buy-tradezero-crypto-revenue-falls?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Tue, 11 Aug 2026 12:25:41 +0000",
+    "link": "https://cointelegraph.com/markets/etoro-buy-tradezero-crypto-revenue-falls?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Tue, 11 Aug 2026 12:35:00 +0000",
     "source": "Cointelegraph",
     "category": "crypto",
     "content": "Trading platform eToro will acquire TradeZero as part of its US expansion as it reported crypto-related revenue fell by about 30% compared to the second quarter of 2025.",
     "image": "https://s3-images.ctmedia.io/media/article-covers/hi-how-to-buy-bitcoin-on-etoro.jpg",
-    "summary": "eToro is acquiring TradeZero as part of its US expansion, while reporting a 30% decline in crypto-related revenue compared to Q2 2025. This move aims to strengthen eToro's presence in the US market. The decline in revenue may be a concern for the company's growth prospects.",
+    "summary": "Trading platform eToro is set to acquire TradeZero as part of its strategic expansion into the US market. This move follows a significant drop in eToro's crypto-related revenue, which fell by approximately 30% in the second quarter of 2025.",
+    "importance": 6,
+    "classified": true
+  },
+  {
+    "title": "Here’s what happened in crypto today",
+    "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Tue, 11 Aug 2026 06:39:00 +0000",
+    "source": "Cointelegraph",
+    "category": "crypto",
+    "content": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg",
+    "summary": "The article provides a brief overview of the latest news and trends in the crypto space, covering topics such as Bitcoin price, blockchain, DeFi, Web3, and crypto regulation. It aims to keep readers updated on daily events impacting the cryptocurrency market. The article serves as a daily recap of crypto-related news.",
     "importance": 6,
     "classified": true
   },
@@ -1220,18 +1220,6 @@
     "content": "Decta will use USDC through OpenPayd’s infrastructure for international treasury settlement, seeking faster transfers and more efficient liquidity management.",
     "image": "https://s3-images.ctmedia.io/media/article-covers/hi-stablecoins-turn-a-corner-driven-by-the-acceptance-of-financial-institutions.jpg",
     "summary": "Decta, a payments platform, is exploring the use of stablecoins for international treasury settlement, utilizing USDC through OpenPayd's infrastructure to improve transfer speeds and liquidity management. This move aims to increase efficiency in cross-border transactions. The implementation of stablecoins is expected to reduce settlement times and costs.",
-    "importance": 6,
-    "classified": true
-  },
-  {
-    "title": "Here’s what happened in crypto today",
-    "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Tue, 11 Aug 2026 05:39:31 +0000",
-    "source": "Cointelegraph",
-    "category": "crypto",
-    "content": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg",
-    "summary": "The article provides a brief overview of the latest news and trends in the crypto space, covering topics such as Bitcoin price, blockchain, DeFi, Web3, and crypto regulation. It aims to keep readers updated on daily events impacting the cryptocurrency market. The article serves as a daily recap of crypto-related news.",
     "importance": 6,
     "classified": true
   },
@@ -1308,14 +1296,38 @@
     "classified": true
   },
   {
-    "title": "BIP-110 ends with a whimper, CLARITY vote punted: Hodler’s Digest, Aug. 9",
-    "link": "https://cointelegraph.com/magazine/bip-110-dies-with-a-whimper-clarity-vote-punted-hodlers-digest-aug-9?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Mon, 10 Aug 2026 00:32:21 +0000",
-    "source": "Cointelegraph",
+    "title": "Twenty One Capital takes $414 million Q2 loss as new CEO plots path to become ‘more than a Bitcoin treasury’",
+    "link": "https://www.theblock.co/news/business/2026-08-11-twenty-one-capital-414-million-q2-loss-new-ceo-plots-path-bitcoin-treasury-411432",
+    "pubDate": "Tue, 11 Aug 2026 11:15:42 -0400",
+    "source": "The Block",
     "category": "crypto",
-    "content": "BIP-110 forks itself into oblivion with a “2-block chain” and CLARITY will finally get a Senate vote in September. The odds say that vote will be a No.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/02-aug-5.jpg",
-    "summary": "BIP-110, a blockchain proposal, has effectively failed by forking itself into a '2-block chain' and becoming obsolete. Concurrently, the CLARITY bill, likely pertaining to crypto regulation, is scheduled for a Senate vote in September, with expectations that it will not pass.",
+    "content": "Twenty One’s new CEO lays out plans to build beyond its massive bitcoin treasury after a $414 million loss.",
+    "image": "https://www.tbstat.com/wp/uploads/2024/01/20240111_Bitcoin_News_2-800x450.jpg",
+    "summary": "Twenty One Capital reported a $414 million loss in Q2 and its new CEO plans to expand the company beyond its bitcoin treasury. The company aims to diversify and become more than just a bitcoin holder. This move may impact the crypto market and the company's future prospects.",
+    "importance": 6,
+    "classified": true
+  },
+  {
+    "title": "eToro agrees to buy TradeZero for up to $231 million as equities drive Q2 growth",
+    "link": "https://www.theblock.co/news/business/2026-08-11-etoro-to-buy-tradezero-for-231-million-equities-drive-q2-growth-411417",
+    "pubDate": "Tue, 11 Aug 2026 10:19:52 -0400",
+    "source": "The Block",
+    "category": "crypto",
+    "content": "Net contribution rose 9% year-over-year to $229 million, driven mainly by stronger equities trading, according to a statement.",
+    "image": "https://www.tbstat.com/wp/uploads/2019/08/etoro-800x450.jpg",
+    "summary": "eToro has agreed to buy TradeZero for up to $231 million, driven by strong equities trading growth. Net contribution rose 9% year-over-year to $229 million. The acquisition is expected to further drive eToro's growth.",
+    "importance": 6,
+    "classified": true
+  },
+  {
+    "title": "Grvt eyes $100 million USDY position in Ondo Finance tie-up",
+    "link": "https://www.theblock.co/news/defi/2026-08-11-grvt-100-million-usdy-position-ondo-finance-411393",
+    "pubDate": "Tue, 11 Aug 2026 09:05:02 -0400",
+    "source": "The Block",
+    "category": "crypto",
+    "content": "USDY is a tokenized secured note backed primarily by short-term U.S. Treasurys, Treasury-based ETF shares, and bank deposits.",
+    "image": "https://www.tbstat.com/wp/uploads/2022/09/cbdc_explainer_banner-e1662119794422-800x448.png",
+    "summary": "Grvt is collaborating with Ondo Finance to take a $100 million position in USDY, a tokenized secured note backed by US Treasurys and other assets. This partnership aims to increase the adoption of tokenized financial products. The move highlights the growing intersection of traditional finance and cryptocurrency.",
     "importance": 6,
     "classified": true
   },
@@ -1328,18 +1340,6 @@
     "content": "Trump Media recorded a $360.6M unrealized digital-asset loss in H1. Its directly held BTC and CRO were worth $597.7M at June 30.",
     "image": "https://www.tbstat.com/wp/uploads/2025/06/20250602_Trump_News_3-800x450.jpg",
     "summary": "Trump Media reported a $360.6 million unrealized loss on digital assets in the first half of the year, despite its directly held Bitcoin and CRO being valued at $597.7 million at the end of June. The company's significant loss highlights the volatility of the cryptocurrency market. This loss may impact Trump Media's financial stability.",
-    "importance": 6,
-    "classified": true
-  },
-  {
-    "title": "World Liberty received $100 million from businessman investigated for money laundering: NYT",
-    "link": "https://www.theblock.co/news/regulation/2026-08-09-world-liberty-received-100-million-from-businessman-investigated-for-money-laundering-nyt-411221",
-    "pubDate": "Sun, 09 Aug 2026 14:51:32 -0400",
-    "source": "The Block",
-    "category": "crypto",
-    "content": "The businessman, Guren \"Bobby\" Zhou, has not been charged, though British officials told the Times that the investigation remained active as of late July.",
-    "image": "https://www.tbstat.com/wp/uploads/2024/10/20241001_World-Liberty-Financial_News-800x450.jpg",
-    "summary": "World Liberty received $100 million from Guren 'Bobby' Zhou, a businessman under investigation for money laundering, according to the New York Times. Zhou has not been charged, but the investigation is still active. The donation's significance is unclear, but it raises questions about the source of the funds.",
     "importance": 6,
     "classified": true
   },
@@ -1400,18 +1400,6 @@
     "content": "Bitcoin Magazine\n\nTrump Media Pulls Back From Crypto Deals: Report\nTrump Media wants to focus on other business ventures, according to an Axios report. \nThis post Trump Media Pulls Back From Crypto Deals: Report first appeared on Bitcoin Magazine and is written by Mathew Di Salvo.",
     "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/08/Trump-Media.jpg",
     "summary": "Trump Media is pulling back from crypto deals to focus on other business ventures, according to a report by Axios. This decision may impact the company's involvement in the cryptocurrency space. Trump Media's shift in focus is reported by Bitcoin Magazine.",
-    "importance": 6,
-    "classified": true
-  },
-  {
-    "title": "Bitcoin Shrugs off Coldcard Hack and Clarity Act Delays, Price Chops Higher as Investors Buy ETFs",
-    "link": "https://bitcoinmagazine.com/news/bitcoin-price-shrugs-off-coldcard-hack",
-    "pubDate": "Fri, 07 Aug 2026 16:29:44 +0000",
-    "source": "Bitcoin Magazine",
-    "category": "crypto",
-    "content": "Bitcoin Magazine\n\nBitcoin Shrugs off Coldcard Hack and Clarity Act Delays, Price Chops Higher as Investors Buy ETFs\nThe Bitcoin price seems unfazed by recent negative news. \nThis post Bitcoin Shrugs off Coldcard Hack and Clarity Act Delays, Price Chops Higher as Investors Buy ETFs first appeared on Bitcoin Magazine and is written by Mathew Di Salvo.",
-    "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/08/Bitcoin-Shrugs-off-Coldcard-Hack-and-Clarity-Act-Delays-Price-Chops-Higher.jpg",
-    "summary": "Bitcoin's price has increased despite recent negative news, including a Coldcard hack and delays in the Clarity Act, as investors buy ETFs. The Bitcoin price seems unfazed by these events. Investors are continuing to buy into Bitcoin through ETFs.",
     "importance": 6,
     "classified": true
   },
@@ -1736,6 +1724,18 @@
     "content": "Ready for a fresh set of puzzles? Click here for the September/October 2026 Puzzle Corner, brought to you by Michael S. Branicky, ScD ’95, of the Puzzle Corner Puzzle Crew (aka PC2), which also includes Edward Faulkner ’03, MEng ’04, and Abe Kunin ’03. This column includes solutions to the May/June issue. Send problems, solutions (by October…",
     "image": "",
     "summary": "A new set of puzzles is available for September/October 2026, along with solutions to the previous issue. The puzzles are presented by the Puzzle Corner Puzzle Crew. The crew invites readers to send in problems and solutions for future issues.",
+    "importance": 1,
+    "classified": true
+  },
+  {
+    "title": "Why your Amazon order confirmation emails have become so unhelpful",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/977733/amazon-order-emails-google-gmail-ai-agents-data",
+    "pubDate": "2026-08-11T13:27:20.000Z",
+    "source": "The Verge AI",
+    "category": "ai",
+    "content": "Earlier this summer, Amazon customers began noticing that emails related to their online orders looked sparse: Order confirmation emails didn't name specific items anymore, and instead listed only item categories. \n\"Your Beauty item is confirmed!\" an email about my retainer cleaning tablets read. Shoppers have posted other iterations of the redacted emails as well: \"Ordered: 1 Hardware item,\" \"Your Drugstore, Shoes, and other items are here!\" and \"1 Nutrition & Wellness, 1 Wireless Accessories,\" for example. The emails have clip art-style illustrations of general product categories, and a shopper has to exit their email and go to Amazon to  …\nRead the full story at The Verge.",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Screenshot-2026-08-10-at-10.31.39-AM.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "summary": "Amazon order confirmation emails have become less detailed, no longer listing specific items, and instead categorize products, requiring customers to visit the website for more information. This change has been noticed by customers since summer. The emails now include generic category names and clip art-style illustrations.",
     "importance": 1,
     "classified": true
   }
