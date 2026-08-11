@@ -48,6 +48,30 @@
     "classified": true
   },
   {
+    "title": "OpenAI reportedly completed a $7 billion employee tender offer",
+    "link": "https://techcrunch.com/2026/08/10/openai-reportedly-completed-a-7-billion-employee-tender-offer/",
+    "pubDate": "Tue, 11 Aug 2026 00:03:18 +0000",
+    "source": "TechCrunch AI",
+    "category": "ai",
+    "content": "San Francisco's housing market is in trouble again.",
+    "image": "",
+    "summary": "OpenAI reportedly completed a significant $7 billion employee tender offer, which values the prominent AI company at $86 billion and allows employees to sell their shares.",
+    "importance": 9,
+    "classified": true
+  },
+  {
+    "title": "As AI-led attacks multiply, OpenAI launches a new cyber model",
+    "link": "https://techcrunch.com/2026/08/10/as-ai-led-attacks-multiply-openai-launches-a-new-cyber-model/",
+    "pubDate": "Mon, 10 Aug 2026 23:56:15 +0000",
+    "source": "TechCrunch AI",
+    "category": "ai",
+    "content": "OpenAI is expanding its AI cybersecurity defense program Daybreak, and rolling out a new cyber-trained AI model with it.",
+    "image": "",
+    "summary": "OpenAI has announced the expansion of its AI cybersecurity defense program, Daybreak, by launching a new AI model specifically trained for cyber defense. This initiative aims to counter the proliferation of AI-led cyberattacks and strengthen digital security.",
+    "importance": 9,
+    "classified": true
+  },
+  {
     "title": "The AI safety test is becoming a safety risk",
     "link": "https://techcrunch.com/2026/08/09/the-ai-safety-test-is-becoming-a-safety-risk/",
     "pubDate": "Sun, 09 Aug 2026 14:30:00 +0000",
@@ -702,7 +726,7 @@
     "source": "The Verge AI",
     "category": "ai",
     "content": "Meta CEO Mark Zuckerberg has a lot to say about the idealized future he now envisions for humanity co-existing with artificial intelligence - his latest essay spans more than 6,500 words on the matter. The lengthy manifesto Zuckerberg published on Monday, titled \"The Future is for Everyone,\" broadly lays out his beliefs about how the technology should be developed, expanded, and regulated, and how Meta is positioning itself to enable those goals.\nSome points echo a similar (albeit, much shorter) public letter that Zuckerberg put out last year, heralding the importance of public access to superintelligent AI - a term for artificial general i …\nRead the full story at The Verge.",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25546252/STK169_Mark_Zuckerburg_CVIRGINIA_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25546248/STK169_Mark_Zuckerburg_CVIRGINIA_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
     "summary": "Mark Zuckerberg published a 6,500-word essay on the future of artificial intelligence, outlining his vision for its development, expansion, and regulation. He discussed how Meta is positioning itself to enable these goals and emphasized the importance of public access to superintelligent AI. The essay expands on ideas he introduced in a public letter last year.",
     "importance": 8,
     "classified": true
@@ -768,14 +792,14 @@
     "classified": true
   },
   {
-    "title": "Jony Ive&#8217;s first OpenAI gadget is reportedly a hockey puck-sized smart speaker",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/976431/openai-chatgpt-battery-smart-speaker-rumor",
-    "pubDate": "2026-08-06T20:55:39.000Z",
-    "source": "The Verge AI",
+    "title": "With new open models, Meta pitches another reboot of its struggling AI strategy",
+    "link": "https://arstechnica.com/ai/2026/08/with-new-open-models-meta-pitches-another-reboot-of-its-struggling-ai-strategy/",
+    "pubDate": "Mon, 10 Aug 2026 22:13:03 +0000",
+    "source": "Ars Technica AI",
     "category": "ai",
-    "content": "The AI device OpenAI is developing with former Apple designer Jony Ive is \"essentially a smart speaker without a display\" that's battery-powered, doughnut-shaped and roughly the size of a hockey puck, according to Bloomberg reporter Mark Gurman. The device, expected to launch in 2027 for a price over $300,  reportedly \"will have a unique look, complete with moving parts,\" including some that will move on their own to show when the device is responding or interacting with the user, along with lights, a camera system, and other sensors.\nGurman's sources also say the \"battery-powered\" device is designed to be \"easy to carry around the home wit …\nRead the full story at The Verge.",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24958946/1421761326.jpg?quality=90&#038;strip=all&#038;crop=21.6,18.717179294824,78.4,81.282820705176",
-    "summary": "OpenAI is developing a smart speaker with former Apple designer Jony Ive, which is a battery-powered, doughnut-shaped device with moving parts and sensors. The device is expected to launch in 2027 for over $300. It has a unique design with lights, a camera system, and is designed to be portable.",
+    "content": "Meta has been trailing competitors. Zuckerberg thinks he's found a way forward.",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2024/08/GettyImages-2162539176-1024x648.jpg",
+    "summary": "Meta is revamping its AI strategy with new open models, as the company has been lagging behind its competitors, and CEO Mark Zuckerberg believes this new approach will be the way forward. This move aims to revive Meta's struggling AI efforts. The new strategy may help Meta to regain its competitive edge in the AI sector.",
     "importance": 8,
     "classified": true
   },
@@ -932,18 +956,6 @@
     "content": "Top scores increased by 5x.",
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-82955454-1152x648.jpg",
     "summary": "An AI-supervised remote exam resulted in top scores increasing by 5x, prompting 58,000 students to retake the exam due to the discrepancy. The incident highlights concerns about relying on AI in high-stakes assessments. The retake is a significant consequence of the exam's failure.",
-    "importance": 8,
-    "classified": true
-  },
-  {
-    "title": "As Reddit stock falls, CEO questions value of Google's AI Overviews",
-    "link": "https://arstechnica.com/ai/2026/08/reddit-ceo-on-ai-overviews-were-still-looking-for-that-win-win/",
-    "pubDate": "Sat, 01 Aug 2026 12:30:36 +0000",
-    "source": "Ars Technica AI",
-    "category": "ai",
-    "content": "Reddit may still be considering ending its licensing deal with Google.",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2018/04/GettyImages-893877316-1152x648.jpg",
-    "summary": "Reddit's CEO is reportedly questioning the value of Google's AI Overviews, a development that could lead to the termination of their data licensing deal. This comes as Reddit's stock experiences a decline, highlighting potential disputes over content utilization by AI models and appropriate compensation.",
     "importance": 8,
     "classified": true
   },
@@ -1464,31 +1476,7 @@
     "classified": true
   },
   {
-    "title": "Naïve raises $28.5M to automate the grunt work of setting up and running a company",
-    "link": "https://techcrunch.com/2026/08/06/naive-raises-28-5m-to-automate-the-grunt-work-of-setting-up-and-running-a-company/",
-    "pubDate": "Thu, 06 Aug 2026 17:00:37 +0000",
-    "source": "TechCrunch AI",
-    "category": "ai",
-    "content": "Taking vibe-coding a step further, Naïve claims its infra can automate most of the work in setting up and running a business.",
-    "image": "",
-    "summary": "Naïve, a company, has raised $28.5M to automate the process of setting up and running a business, using vibe-coding to simplify infrastructure. This technology aims to reduce the manual work involved in establishing and managing a company. The funding will likely support further development of Naïve's automation capabilities.",
-    "importance": 6,
-    "classified": true
-  },
-  {
-    "title": "Gen Z dating apps like Ditto ditch swiping in favor of AI matchmaking",
-    "link": "https://techcrunch.com/2026/08/06/gen-z-dating-apps-like-ditto-ditch-swiping-in-favor-of-ai-matchmaking/",
-    "pubDate": "Thu, 06 Aug 2026 15:53:03 +0000",
-    "source": "TechCrunch AI",
-    "category": "ai",
-    "content": "This generation of twentysomethings is so disillusioned with swipe-based dating apps that they'll try literally anything else — even an AI matchmaker.",
-    "image": "",
-    "summary": "Gen Z is turning away from traditional swiping dating apps and towards AI-based matchmaking, with apps like Ditto offering an alternative. This shift is driven by disillusionment with existing dating apps. The use of AI in matchmaking is a new approach to finding compatible partners.",
-    "importance": 6,
-    "classified": true
-  },
-  {
-    "title": "Bose CEO Lila Snyder on the fight for high-quality audio",
+    "title": "What happens to Bose when headphones become AI?",
     "link": "https://www.theverge.com/podcast/975732/bose-ceo-lila-snyder-ai-wearables-licensing-headphones-audio",
     "pubDate": "2026-08-10T14:00:00.000Z",
     "source": "The Verge AI",
@@ -1640,6 +1628,18 @@
     "content": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. NASA’s new dark energy space telescope can also detect killer asteroids   At the end of August, NASA is set to launch the Nancy Grace Roman Space Telescope from Kennedy Space…",
     "image": "https://wp.technologyreview.com/wp-content/uploads/2026/01/vitalist_master.jpg?w=840",
     "summary": "NASA is set to launch the Nancy Grace Roman Space Telescope, which can detect dark energy and killer asteroids. The launch is scheduled for the end of August from Kennedy Space. This telescope is a significant development in space technology.",
+    "importance": 2,
+    "classified": true
+  },
+  {
+    "title": "Mark Zuckerberg doesn’t understand how to live",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/977623/mark-zuckerberg-ai-manifesto-dim-vision",
+    "pubDate": "2026-08-10T22:00:00.000Z",
+    "source": "The Verge AI",
+    "category": "ai",
+    "content": "Recently, a man I was rock climbing with told me about how he'd used AI to make a motivational poster for himself, which he'd hung on his bedroom wall: a bear, walking a slackline over a canyon, holding a sign that said, \"Do cool shit.\" I made what I hoped was a polite noise. What reaction was this man looking for? He probably hoped someone, maybe me, would say it was cool or inspiring. It seemed I was not the first person he'd told about this poster. \"You know, it's funny,\" he said to me. \"No one ever says anything about it.\" \nI have been thinking about this now for several days. There's a sort of turducken of things that I find off-puttin …\nRead the full story at The Verge.",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/zuckerberg_stock_Parkin.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "summary": "A man created a motivational poster using AI, which he hung on his bedroom wall, but received little reaction from others, leading the author to ponder the significance of this event. The poster featured a bear on a slackline holding a sign that said 'Do cool shit'. The author is reflecting on the story and its implications.",
     "importance": 2,
     "classified": true
   },
