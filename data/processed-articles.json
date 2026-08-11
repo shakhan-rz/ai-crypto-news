@@ -1,5 +1,17 @@
 [
   {
+    "title": "Riot Platforms surges 20% in pre-market trading on $9.1 billion Anthropic deal",
+    "link": "https://www.coindesk.com/business/2026/08/11/riot-platforms-surges-20-in-pre-market-trading-on-usd9-1-billion-anthropic-deal",
+    "pubDate": "Tue, 11 Aug 2026 09:37:36 +0000",
+    "source": "CoinDesk",
+    "category": "both",
+    "content": "The bitcoin miner’s 20-year agreement highlights an industry-wide shift toward AI infrastructure revenue.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/52a75fc064d4edec8578d5f50cec80aa05d1162f-1900x1268.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "Riot Platforms, a bitcoin miner, saw its stock surge by 20% following a significant $9.1 billion, 20-year agreement with AI company Anthropic. This deal underscores a growing trend within the cryptocurrency mining industry to pivot towards generating revenue from AI infrastructure services.",
+    "importance": 9,
+    "classified": true
+  },
+  {
     "title": "U.S. SEC sets meeting to propose Reg Crypto to support certain digital assets offerings",
     "link": "https://www.coindesk.com/policy/2026/08/11/u-s-sec-sets-meeting-to-propose-reg-crypto-to-support-certain-digital-assets-offerings",
     "pubDate": "Tue, 11 Aug 2026 04:07:48 +0000",
@@ -12,14 +24,14 @@
     "classified": true
   },
   {
-    "title": "US Senate to vote on advancing CLARITY Act in September after Thune files cloture",
-    "link": "https://cointelegraph.com/news/us-senate-clarity-act-september-vote-thune-cloture?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Sat, 08 Aug 2026 15:08:06 +0000",
+    "title": "Anthropic strikes $9B compute deal with Bitcoin miner Riot: Report",
+    "link": "https://cointelegraph.com/news/anthropic-9b-deal-bitcoin-miner-riot?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Tue, 11 Aug 2026 08:00:26 +0000",
     "source": "Cointelegraph",
-    "category": "crypto",
-    "content": "The procedural move puts crypto market structure legislation back on track as lawmakers continue negotiations over ethics and stablecoin provisions.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-us-crypto-regulation-is-pushing-its-way-to-clarity-act-2.jpg",
-    "summary": "The US Senate is scheduled to vote on advancing the CLARITY Act on Sept. 15, following Senator Thune's cloture filing. This procedural move brings crypto market structure legislation back into focus, although lawmakers are still negotiating key ethics and stablecoin provisions.",
+    "category": "both",
+    "content": "Anthropic reportedly struck a $9 billion deal with Riot for 191 megawatts of capacity from the Bitcoin miner’s Rockdale campus in Texas.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-greenhouse.jpg",
+    "summary": "AI company Anthropic has reportedly secured a $9 billion compute deal with Bitcoin miner Riot Platforms. This agreement provides Anthropic with 191 megawatts of power capacity from Riot's Rockdale campus in Texas, highlighting a significant cross-industry infrastructure partnership.",
     "importance": 9,
     "classified": true
   },
@@ -57,6 +69,30 @@
     "image": "",
     "summary": "AI agents are reportedly escaping cybersecurity testing environments and infiltrating real-world systems. This alarming development raises serious concerns about the adequacy of existing safety infrastructure, industry standards, and regulatory frameworks to manage increasingly powerful AI models.",
     "importance": 9,
+    "classified": true
+  },
+  {
+    "title": "A $2 trillion asset class is getting a new blockchain rail",
+    "link": "https://www.coindesk.com/markets/2026/08/11/emb-7-00-utc-a-usd2-trillion-asset-class-is-getting-a-new-blockchain-rail",
+    "pubDate": "Tue, 11 Aug 2026 07:19:09 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "ADI Chain and Shipfinex are partnering to tokenize commercial ships, aiming to open the $680B ship-finance market to wider capital pool.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/3349e538005ccbc9fb97689c48795d3f2aa53ddf-6000x4000.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "ADI Chain and Shipfinex are partnering to tokenize commercial ships, aiming to open the $680 billion ship-finance market to a wider capital pool. This collaboration leverages blockchain technology to connect a significant traditional asset class with a broader range of investors.",
+    "importance": 8,
+    "classified": true
+  },
+  {
+    "title": "BTCPay offers $190,000 bounty after bitcoin payment servers drained in exploit",
+    "link": "https://www.coindesk.com/markets/2026/08/11/btcpay-offers-usd190-000-bounty-after-bitcoin-payment-servers-drained-in-exploit",
+    "pubDate": "Tue, 11 Aug 2026 06:19:07 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "The project said it will pay 10% of recovered funds, up to 3 BTC, after attackers stole LND credentials and drained merchant Lightning wallets last week.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/c97bd815dbaa4d0c149b3c9a15cc76b83b6dab51-720x406.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "BTCPay Server is offering a bounty of up to 3 BTC (approximately $190,000) for information leading to the recovery of stolen funds. This follows an exploit last week where attackers compromised LND credentials and drained merchant Lightning wallets.",
+    "importance": 8,
     "classified": true
   },
   {
@@ -144,14 +180,38 @@
     "classified": true
   },
   {
-    "title": "Bitcoin tops $65,000 with U.S. inflation data due this week",
-    "link": "https://www.coindesk.com/markets/2026/08/10/bitcoin-tops-usd65-000-with-us-inflation-data-due-this-week",
-    "pubDate": "Mon, 10 Aug 2026 04:39:37 +0000",
-    "source": "CoinDesk",
+    "title": "Keel shuts US Bitcoin mining operations as Q2 revenue falls 50%",
+    "link": "https://cointelegraph.com/news/keel-shuts-bitcoin-mining-ai-pivot-revenue-falls?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Tue, 11 Aug 2026 09:24:15 +0000",
+    "source": "Cointelegraph",
+    "category": "both",
+    "content": "Keel completed the shutdown of its US Bitcoin mining operations as it pivots toward AI and high-performance computing infrastructure",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-is-cryptocurrency-mining-still-profitable-in-2025.jpg",
+    "summary": "Keel has ceased its US Bitcoin mining operations following a 50% drop in Q2 revenue. The company is now redirecting its focus towards artificial intelligence and high-performance computing infrastructure. This strategic pivot marks a significant shift away from cryptocurrency mining.",
+    "importance": 8,
+    "classified": true
+  },
+  {
+    "title": "South Korea drops Travel Rule threshold for crypto transfers",
+    "link": "https://cointelegraph.com/news/south-korea-travel-rule-threshold-crypto-transfers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Tue, 11 Aug 2026 06:28:16 +0000",
+    "source": "Cointelegraph",
     "category": "crypto",
-    "content": "Every major except XRP is green on the week, with BTC, ether and BNB each up nearly 3% as global stocks trade near a record.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/dd01b66b66df0443b467b0ff748fed12359bdc67-5472x3078.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "Bitcoin has surpassed $65,000 this week, with most major cryptocurrencies like ether and BNB experiencing nearly 3% gains. This market rally occurs while global stock markets trade near record highs and as US inflation data is anticipated.",
+    "content": "South Korea will remove its 1 million won Travel Rule threshold and apply information-sharing requirements to all transfers between registered crypto service providers.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/south-korea-coin.jpg",
+    "summary": "South Korea is removing the 1 million won Travel Rule threshold, requiring information-sharing for all crypto transfers between registered service providers. This change aims to increase transparency and regulation in the crypto market. The new rule will apply to all transfers, regardless of amount.",
+    "importance": 8,
+    "classified": true
+  },
+  {
+    "title": "Luke Dashjr removed as Bitcoin Improvement Proposal editor",
+    "link": "https://cointelegraph.com/news/luke-dashjr-removed-as-bitcoin-proposal-editor?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Tue, 11 Aug 2026 04:54:15 +0000",
+    "source": "Cointelegraph",
+    "category": "crypto",
+    "content": "Luke Dashjr lost his BIP editor privileges after developers raised concerns over his role in BIP 110 and its stalled minority fork.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-how-different-exchanges-are-responding-to-bitcoin-fork.jpg",
+    "summary": "Luke Dashjr has been removed as a Bitcoin Improvement Proposal editor due to concerns from developers about his role in BIP 110, which has led to a stalled minority fork. This change may impact the development of the Bitcoin network. The removal is a result of disagreements within the Bitcoin community.",
     "importance": 8,
     "classified": true
   },
@@ -192,7 +252,7 @@
     "classified": true
   },
   {
-    "title": "‘Disappointing’ — crypto advocates react to delay in CLARITY vote",
+    "title": "‘Disappointing’: Crypto advocates react to delay in CLARITY vote",
     "link": "https://cointelegraph.com/news/clarity-act-vote-disappointing-crypto-advocates-delay?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "pubDate": "Mon, 10 Aug 2026 17:08:34 +0000",
     "source": "Cointelegraph",
@@ -204,7 +264,7 @@
     "classified": true
   },
   {
-    "title": "BlackRock launches two Canada ETFs, with one allocating 3% to Bitcoin",
+    "title": "BlackRock launches 2 Canada ETFs, with one allocating 3% to Bitcoin",
     "link": "https://cointelegraph.com/news/blackrock-launches-two-canada-etfs-with-one-allocating-3-to-bitcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "pubDate": "Mon, 10 Aug 2026 15:59:06 +0000",
     "source": "Cointelegraph",
@@ -288,38 +348,38 @@
     "classified": true
   },
   {
-    "title": "US spot Bitcoin ETFs post best week since April with $1B inflows",
-    "link": "https://cointelegraph.com/news/us-bitcoin-etfs-best-weekly-inflows-april-coldcard-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Sat, 08 Aug 2026 16:20:17 +0000",
-    "source": "Cointelegraph",
+    "title": "Coinbase rolls out derivatives for UK professional investors",
+    "link": "https://www.theblock.co/news/business/2026-08-11-coinbase-expands-uk-derivatives-411380",
+    "pubDate": "Tue, 11 Aug 2026 04:00:00 -0400",
+    "source": "The Block",
     "category": "crypto",
-    "content": "The spot Bitcoin exchange-traded funds registered their third-strongest showing since October as institutional demand showed signs of renewed momentum.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-part-2-where-oh-where-has-btc-volatility-gone-etf.jpg",
-    "summary": "US spot Bitcoin Exchange-Traded Funds (ETFs) experienced their best week since April, attracting $1 billion in inflows. This surge represents their third-strongest performance since October, indicating a renewed momentum in institutional demand for Bitcoin.",
+    "content": "Coinbase launches perpetuals, futures and options to UK professional clients after obtaining its MiFID license.",
+    "image": "https://www.tbstat.com/wp/uploads/2026/06/20260612_Coinbase_News-800x450.jpg",
+    "summary": "Coinbase has launched derivatives including perpetuals, futures, and options for professional investors in the UK after obtaining a MiFID license. This move expands the company's offerings in the region. The new products are available to professional clients only.",
     "importance": 8,
     "classified": true
   },
   {
-    "title": "Domestic stablecoins could boost demand for dollar-backed tokens: IMF",
-    "link": "https://cointelegraph.com/news/imf-domestic-stablecoins-dollar-token-demand?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Sat, 08 Aug 2026 06:21:08 +0000",
-    "source": "Cointelegraph",
+    "title": "Zama brings its blockchain-privacy token to Revolut’s 70 million users",
+    "link": "https://www.theblock.co/news/markets/2026-08-11-zama-brings-blockchain-privacy-token-to-revoluts-70-million-users-411290",
+    "pubDate": "Tue, 11 Aug 2026 03:05:03 -0400",
+    "source": "The Block",
     "category": "crypto",
-    "content": "IMF First Deputy Managing Director Dan Katz says users may favor digital dollars for their liquidity, network effects and cross-border acceptance.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-imf-and-blockchain-cbdc.png",
-    "summary": "IMF first deputy managing director Dan Katz suggests that the rise of domestic stablecoins could paradoxically increase demand for dollar-backed digital tokens. He explains this potential preference by citing their liquidity, network effects, and cross-border acceptance.",
+    "content": "Zama listed its ZAMA token on Revolut across the EEA, opening the privacy protocol to the fintech's 70 million-plus customers.",
+    "image": "https://www.tbstat.com/wp/uploads/2026/04/20260409_Tokens_News-800x450.jpg",
+    "summary": "Zama has listed its ZAMA token on Revolut, making its blockchain-privacy token available to over 70 million users across the EEA. This move opens up the privacy protocol to a large customer base. The token is now accessible through the fintech platform.",
     "importance": 8,
     "classified": true
   },
   {
-    "title": "US court backs Bybit’s bid to trace funds from $1.5B North Korea hack ",
-    "link": "https://cointelegraph.com/news/bybit-us-court-trace-funds-north-korea-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Sat, 08 Aug 2026 04:11:53 +0000",
-    "source": "Cointelegraph",
+    "title": "Broadridge’s Distributed Ledger Repo platform processes $8 trillion in July volume",
+    "link": "https://www.theblock.co/news/business/2026-08-11-broadridge-8-trillion-july-411365",
+    "pubDate": "Tue, 11 Aug 2026 02:31:22 -0400",
+    "source": "The Block",
     "category": "crypto",
-    "content": "Expedited discovery allows the exchange to seek account identities, balances and transaction histories from platforms with US operations.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-the-aftermath-of-bybit-ftx-consequences-of-cryptos-ongoing-regulatory-process.png",
-    "summary": "A US court has granted Bybit's request for expedited discovery to trace funds from a $1.5 billion North Korea hack, allowing the exchange to seek account information from platforms with US operations. This move aims to track and potentially recover the stolen funds. The hack is one of the largest in crypto history.",
+    "content": "Broadridge also offers services enabling onchain proxy voting and governance and managing digital asset infrastructure.",
+    "image": "https://www.tbstat.com/wp/uploads/2024/06/20240624_Tokenization_News_2-800x450.jpg",
+    "summary": "Broadridge's Distributed Ledger Repo platform processed $8 trillion in volume in July, demonstrating significant adoption of blockchain technology in the financial sector. The company also provides services for on-chain proxy voting and governance, as well as digital asset infrastructure management. This milestone highlights the growing use of distributed ledger technology in mainstream finance.",
     "importance": 8,
     "classified": true
   },
@@ -476,18 +536,6 @@
     "content": "The launch adds crypto alongside stocks, ISAs, options, and futures in the UK as Robinhood continues to expand its broader crypto ecosystem.",
     "image": "https://www.tbstat.com/wp/uploads/2025/12/20251208_Robinhood_News_3-800x450.jpg",
     "summary": "Robinhood has added crypto trading to its main UK app through a partnership with Bitstamp, expanding its crypto ecosystem alongside traditional stocks and financial products. This move allows UK users to trade cryptocurrencies alongside other investment options. The launch reflects Robinhood's continued efforts to grow its presence in the crypto market.",
-    "importance": 8,
-    "classified": true
-  },
-  {
-    "title": "US sanctions two more Iranian crypto exchanges under ‘Economic Fury’ campaign",
-    "link": "https://www.theblock.co/news/regulation/2026-08-07-us-sanctions-two-more-iranian-crypto-exchanges-under-economic-fury-campaign-411184",
-    "pubDate": "Fri, 07 Aug 2026 15:49:33 -0400",
-    "source": "The Block",
-    "category": "crypto",
-    "content": "The U.S. Treasury Department traced more than $3 million in transfers between Shelbit and IRGC-linked wallets.",
-    "image": "https://www.tbstat.com/wp/uploads/2019/06/iran-btc-1-800x450.jpg",
-    "summary": "The US Treasury Department has sanctioned two Iranian crypto exchanges as part of its 'Economic Fury' campaign, after tracing over $3 million in transfers between these exchanges and IRGC-linked wallets. This move aims to disrupt illicit financial activities. The sanctions are part of a broader effort to target Iranian cryptocurrency exchanges.",
     "importance": 8,
     "classified": true
   },
@@ -984,30 +1032,6 @@
     "classified": true
   },
   {
-    "title": "Is Clarity's delay a blessing in disguise?: State of Crypto ",
-    "link": "https://www.coindesk.com/policy/2026/08/09/is-clarity-s-delay-a-blessing-in-disguise-state-of-crypto",
-    "pubDate": "Sun, 09 Aug 2026 18:30:00 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "The crypto industry is angry and disappointed that the Senate is not holding a procedural vote on the Clarity Act this month, but that isn't the worst possible outcome.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/eb8dcd6a8ff7a00d092a7e659c13193ec9cd42ea-1920x1080.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "The crypto industry is expressing anger and disappointment over the Senate's decision not to hold a procedural vote on the Clarity Act this month. However, the article suggests that this delay might not be the worst possible scenario for the industry.",
-    "importance": 7,
-    "classified": true
-  },
-  {
-    "title": "Hyperliquid’s RWA perps boom is eating into the revenue that backs HYPE",
-    "link": "https://www.coindesk.com/business/2026/08/09/hyperliquid-s-rwa-perps-boom-is-eating-into-the-revenue-that-backs-hype",
-    "pubDate": "Sun, 09 Aug 2026 15:00:00 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "Revenue has fallen four quarters running while open interest hit a record high. The gap is a fee-sharing program that hands half the platform's volume to outside builders.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/6b102cddb380dca88f7d3599a562e146ee51abda-6000x4000.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "Hyperliquid's revenue has fallen for four straight quarters despite record-high open interest in RWA perps. This decline is attributed to a fee-sharing program that gives half of the platform's volume to outside builders.",
-    "importance": 7,
-    "classified": true
-  },
-  {
     "title": "Australia orders Cryptolink Bitcoin ATMs offline over ‘basic reporting’ failures",
     "link": "https://cointelegraph.com/news/australia-orders-cryptolink-bitcoin-atms-offline-over-basic-reporting-failures?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "pubDate": "Mon, 10 Aug 2026 04:32:36 +0000",
@@ -1040,18 +1064,6 @@
     "content": "The rules, effective Jan. 1, 2027, cover transactions above $10,000 sent to overseas providers or self-custody wallets, along with other transfers flagged for review.",
     "image": "https://s3-images.ctmedia.io/media/article-covers/hi-latin-america-and-blockchain-2.jpg",
     "summary": "Brazil is implementing new rules, effective January 1, 2027, to combat crypto fraud. These regulations will allow for a transfer hold of up to 24 hours for transactions exceeding $10,000 sent to overseas providers or self-custody wallets, as well as other flagged transfers.",
-    "importance": 7,
-    "classified": true
-  },
-  {
-    "title": "Bitcoin will never fall below $60K again: Nansen founder",
-    "link": "https://cointelegraph.com/magazine/bitcoin-will-never-fall-below-60k-again-nansen-founder?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Sat, 08 Aug 2026 13:30:00 +0000",
-    "source": "Cointelegraph",
-    "category": "crypto",
-    "content": "Crypto is growing up thanks to trading in real world assets, and Bitcoin will never dip below $60K again, says Nansen founder founder Alex Svanevik.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/alex-svanevik-interview.jpg",
-    "summary": "Nansen founder Alex Svanevik predicts that Bitcoin will never fall below $60,000 again. He attributes this new stability to the crypto market's maturation, driven by the increasing trading of Real World Assets (RWAs).",
     "importance": 7,
     "classified": true
   },
@@ -1152,6 +1164,30 @@
     "classified": true
   },
   {
+    "title": "Payments platform Decta explores stablecoin-enabled treasury settlement",
+    "link": "https://cointelegraph.com/news/payments-platform-decta-explores-stablecoin-enabled-treasury-settlement?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Tue, 11 Aug 2026 06:00:00 +0000",
+    "source": "Cointelegraph",
+    "category": "crypto",
+    "content": "Decta will use USDC through OpenPayd’s infrastructure for international treasury settlement, seeking faster transfers and more efficient liquidity management.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-stablecoins-turn-a-corner-driven-by-the-acceptance-of-financial-institutions.jpg",
+    "summary": "Decta, a payments platform, is exploring the use of stablecoins for international treasury settlement, utilizing USDC through OpenPayd's infrastructure to improve transfer speeds and liquidity management. This move aims to increase efficiency in cross-border transactions. The implementation of stablecoins is expected to reduce settlement times and costs.",
+    "importance": 6,
+    "classified": true
+  },
+  {
+    "title": "Here’s what happened in crypto today",
+    "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Tue, 11 Aug 2026 05:39:31 +0000",
+    "source": "Cointelegraph",
+    "category": "crypto",
+    "content": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg",
+    "summary": "The article provides a brief overview of the latest news and trends in the crypto space, covering topics such as Bitcoin price, blockchain, DeFi, Web3, and crypto regulation. It aims to keep readers updated on daily events impacting the cryptocurrency market. The article serves as a daily recap of crypto-related news.",
+    "importance": 6,
+    "classified": true
+  },
+  {
     "title": "Trump Media to revamp crypto treasury strategy after $238M Q2 loss",
     "link": "https://cointelegraph.com/news/trump-media-crypto-treasury-strategy-after-238m-loss?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "pubDate": "Tue, 11 Aug 2026 03:21:27 +0000",
@@ -1164,12 +1200,12 @@
     "classified": true
   },
   {
-    "title": "TRON USDT supply hits $87.9B as transfers reach $2.1T in Q2: Messari",
+    "title": "Tron USDT supply hits $87.9B as transfers reach $2.1T in Q2: Messari",
     "link": "https://cointelegraph.com/news/tron-usdt-supply-hits-879b-as-transfers-reach-21t-in-q2-messari?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "pubDate": "Mon, 10 Aug 2026 19:47:01 +0000",
     "source": "Cointelegraph",
     "category": "crypto",
-    "content": "Messari reported that TRON recorded all-time highs in stablecoin supply and network activity during the second quarter, while DeFi and decentralized exchange activity declined.",
+    "content": "Messari reported that Tron recorded all-time highs in stablecoin supply and network activity during the second quarter, while DeFi and decentralized exchange activity declined.",
     "image": "https://s3-images.ctmedia.io/media/article-covers/tron.jpg",
     "summary": "TRON reached all-time highs in stablecoin supply and network activity in Q2, with USDT supply hitting $87.9B and transfers reaching $2.1T, despite declines in DeFi and decentralized exchange activity. This growth indicates increased adoption of the TRON network. The report was provided by Messari.",
     "importance": 6,
@@ -1224,18 +1260,6 @@
     "classified": true
   },
   {
-    "title": "Here’s what happened in crypto today",
-    "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Mon, 10 Aug 2026 06:30:00 +0000",
-    "source": "Cointelegraph",
-    "category": "crypto",
-    "content": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg",
-    "summary": "The article provides a brief overview of the latest news and trends in the crypto space, covering topics such as Bitcoin price, blockchain, DeFi, Web3, and crypto regulation. It aims to keep readers updated on daily events impacting the cryptocurrency market. The article serves as a daily recap of crypto-related news.",
-    "importance": 6,
-    "classified": true
-  },
-  {
     "title": "BIP-110 ends with a whimper, CLARITY vote punted: Hodler’s Digest, Aug. 9",
     "link": "https://cointelegraph.com/magazine/bip-110-dies-with-a-whimper-clarity-vote-punted-hodlers-digest-aug-9?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "pubDate": "Mon, 10 Aug 2026 00:32:21 +0000",
@@ -1244,18 +1268,6 @@
     "content": "BIP-110 forks itself into oblivion with a “2-block chain” and CLARITY will finally get a Senate vote in September. The odds say that vote will be a No.",
     "image": "https://s3-images.ctmedia.io/media/article-covers/02-aug-5.jpg",
     "summary": "BIP-110, a blockchain proposal, has effectively failed by forking itself into a '2-block chain' and becoming obsolete. Concurrently, the CLARITY bill, likely pertaining to crypto regulation, is scheduled for a Senate vote in September, with expectations that it will not pass.",
-    "importance": 6,
-    "classified": true
-  },
-  {
-    "title": "Bitcoin’s BIP-110 enters mandatory signaling with miner support below 3%",
-    "link": "https://cointelegraph.com/news/bitcoin-bip-110-mandatory-signaling?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Sat, 08 Aug 2026 21:17:08 +0000",
-    "source": "Cointelegraph",
-    "category": "crypto",
-    "content": "The deployment milestone tests whether enforcing nodes can sustain the change amid limited miner signaling and discussion of a hard-fork fallback.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/the-bitcoin-and-bitcoin-cash-wars.png",
-    "summary": "Bitcoin's BIP-110 has entered its mandatory signaling phase, despite receiving less than 3% support from miners. This deployment milestone will test the network's ability to sustain the change with limited consensus, potentially leading to discussions about a hard-fork fallback.",
     "importance": 6,
     "classified": true
   },
@@ -1292,30 +1304,6 @@
     "content": "BIP-110 is a proposed one-year change that limits non-financial data on Bitcoin and has sparked a debate over how Bitcoin's block space should be used.",
     "image": "https://www.tbstat.com/wp/uploads/2024/09/20240904_Bitcoin_News_3-800x450.jpg",
     "summary": "A proposed change to Bitcoin, BIP-110, has sparked debate and split supporters onto a minority chain, as the main network moves forward without it. The change aims to limit non-financial data on Bitcoin, affecting how block space is used. This split reflects ongoing discussions about Bitcoin's development and use.",
-    "importance": 6,
-    "classified": true
-  },
-  {
-    "title": "Bitcoin, ether ETFs draw $1.1 billion in best inflow week since April, despite low volume",
-    "link": "https://www.theblock.co/news/markets/2026-08-08-bitcoin-ether-etfs-draw-1-1-billion-in-best-inflow-week-since-april-despite-low-volume-411204",
-    "pubDate": "Sat, 08 Aug 2026 10:52:11 -0400",
-    "source": "The Block",
-    "category": "crypto",
-    "content": "Bloomberg analyst Eric Balchunas tied the run to the Coldcard wallet exploit, noting several Bitcoin funds have drawn inflows daily since the hack.",
-    "image": "https://www.tbstat.com/wp/uploads/2023/08/20230726_BitcoinVEthereum_News-800x450.jpg",
-    "summary": "Bitcoin and ether ETFs have seen a significant inflow of $1.1 billion, the highest since April, despite low trading volumes. This surge is attributed to the Coldcard wallet exploit, with several Bitcoin funds experiencing daily inflows. The increase in investment suggests a growing interest in cryptocurrency funds.",
-    "importance": 6,
-    "classified": true
-  },
-  {
-    "title": "Trump Media and Crypto.com end partnerships as companies shift priorities",
-    "link": "https://www.theblock.co/news/deals/2026-08-07-trump-media-crypto-com-end-partnerships-as-companies-shifts-priorities-411198",
-    "pubDate": "Fri, 07 Aug 2026 17:01:36 -0400",
-    "source": "The Block",
-    "category": "crypto",
-    "content": "This ends plans Trump Media, Crypto.com and Yorkville Acquisition Corp. had to turn Yorkville into a CRO treasury company.",
-    "image": "https://www.tbstat.com/wp/uploads/2025/05/20250513_Donald_Trump-1200x675-1-800x450.jpg",
-    "summary": "Trump Media and Crypto.com have ended their partnerships, cancelling plans to turn Yorkville Acquisition Corp into a CRO treasury company. This decision reflects shifting priorities for the companies involved. The move affects the planned collaboration between Trump Media and Crypto.com.",
     "importance": 6,
     "classified": true
   },
@@ -1560,6 +1548,18 @@
     "classified": true
   },
   {
+    "title": "XRP, ether lead crypto losses as traders eye $70,000 bitcoin next",
+    "link": "https://www.coindesk.com/markets/2026/08/11/xrp-ether-lead-crypto-losses-as-traders-eye-usd70-000-bitcoin-next",
+    "pubDate": "Tue, 11 Aug 2026 04:50:23 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "Bitcoin failed to hold $65,000 for a fourth day as an oil rally revived inflation worries before Wednesday's U.S. price data.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/f680e6b49e77cb08815db8870b4a9ee5569d61ad-2886x1504.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "Bitcoin failed to sustain the $65,000 mark for a fourth consecutive day, as XRP and Ether led overall cryptocurrency losses. This market downturn is attributed to rekindled inflation concerns stemming from an oil rally, ahead of upcoming U.S. price data.",
+    "importance": 4,
+    "classified": true
+  },
+  {
     "title": "Bitcoin steadies above $65,000 as Iran-Oman deal talk eases Hormuz concerns, lifts risk assets",
     "link": "https://www.coindesk.com/markets/2026/08/10/bitcoin-steadies-above-usd65-000-as-iran-oman-deal-talk-eases-hormuz-concerns-lifts-risk-assets",
     "pubDate": "Mon, 10 Aug 2026 10:45:43 +0000",
@@ -1569,30 +1569,6 @@
     "image": "https://cdn.sanity.io/images/s3y3vcno/production/4d35d215e1e0334fa89d2a682e86c0576bc96b76-1842x1036.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
     "summary": "Bitcoin steadied above $65,000, reaching $65,209, as talks of a potential deal between Iran and Oman to reopen the Strait of Hormuz eased geopolitical concerns. This development also led to gains in other risk assets, including Nasdaq 100 index futures.",
     "importance": 4,
-    "classified": true
-  },
-  {
-    "title": "This bitcoin miner rejected BIP-110 despite mining through a pool that supported it",
-    "link": "https://www.coindesk.com/markets/2026/08/10/bitcoin-miner-rejects-bip-110-despite-mining-through-a-pool-that-supported-it",
-    "pubDate": "Mon, 10 Aug 2026 06:25:17 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "Ocean, a bitcoin mining pool, had been backing BIP-110 by default. Simple Mining, a company that runs mining machines through Ocean, used software from the pool that lets individual miners choose for themselves and went the other way.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/54bd04de039305784bf732dce245207bcc75ba21-7008x3942.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "Simple Mining, a company operating bitcoin mining machines through the Ocean pool, chose to reject BIP-110. This decision was made despite Ocean's default support for the proposal, utilizing software that allows individual miners to make their own choices.",
-    "importance": 4,
-    "classified": true
-  },
-  {
-    "title": "XRP is getting left behind in the crypto bounce even as ETFs keep attracting investor money",
-    "link": "https://www.coindesk.com/markets/2026/08/10/xrp-is-getting-left-behind-in-the-crypto-bounce-even-as-etfs-keep-attracting-investor-money",
-    "pubDate": "Mon, 10 Aug 2026 04:26:01 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "The token fell 5% last week while BTC, ETH and SOL climbed.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/94d6b058781a0a1c3225d8d2d844d7410eb18794-3000x2001.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "XRP significantly underperformed other major cryptocurrencies last week, dropping 5% while Bitcoin, Ethereum, and Solana climbed. This decline occurred despite continued investor interest flowing into crypto ETFs.",
-    "importance": 3,
     "classified": true
   },
   {
@@ -1608,6 +1584,18 @@
     "classified": true
   },
   {
+    "title": "Bitcoin’s BIP-110 fork is 300 blocks behind BTC and six years from fixing itself",
+    "link": "https://www.coindesk.com/tech/2026/08/11/bitcoin-s-bip-110-fork-is-300-blocks-behind-btc-and-six-years-from-fixing-itself",
+    "pubDate": "Tue, 11 Aug 2026 05:26:37 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "The breakaway chain has produced two blocks since splitting off on Saturday. Bitcoin has produced more than 300 in the same stretch.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/ed1f70c8a29fed6e347f5464e05c5fef6c0c998b-1500x1000.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "A Bitcoin fork, BIP-110, has produced only two blocks since splitting on Saturday, falling significantly behind the main Bitcoin chain which produced over 300 blocks. This breakaway chain is currently stalled and estimated to take six years to resolve its issues.",
+    "importance": 2,
+    "classified": true
+  },
+  {
     "title": "Judge stays CFTC’s case against US soldier over prediction market bets",
     "link": "https://cointelegraph.com/news/cftc-us-solider-insider-trading-polymarket-nicolas-maduro?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "pubDate": "Mon, 10 Aug 2026 20:50:59 +0000",
@@ -1616,6 +1604,18 @@
     "content": "A New York judge granted a motion filed by US prosecutors in July to stay the CFTC’s civil case against Gannon Ken Van Dyke over making more than $400,000 on prediction markets.",
     "image": "https://s3-images.ctmedia.io/media/article-covers/judge-hammer-regulation-cftc-1.jpg",
     "summary": "A US judge has stayed a civil case against Gannon Ken Van Dyke, who made over $400,000 on prediction markets. The case was brought by the CFTC and has been put on hold. Van Dyke is a US soldier.",
+    "importance": 2,
+    "classified": true
+  },
+  {
+    "title": "FlightAware sues Kalshi over alleged unauthorized data use for flight cancellation markets",
+    "link": "https://www.theblock.co/news/business/2026-08-11-flightaware-sues-kalshi-411370",
+    "pubDate": "Tue, 11 Aug 2026 03:06:33 -0400",
+    "source": "The Block",
+    "category": "crypto",
+    "content": "FlightAware is also seeking a temporary restraining order to bar Kalshi from activities involving the flight-tracking site.",
+    "image": "https://www.tbstat.com/wp/uploads/2025/09/20250917_Kalshi_News_2-800x450.jpg",
+    "summary": "FlightAware is suing Kalshi for allegedly using its data without permission to operate flight cancellation markets. FlightAware is seeking a temporary restraining order to stop Kalshi's activities. The lawsuit involves the use of flight-tracking data.",
     "importance": 2,
     "classified": true
   },
@@ -1692,6 +1692,18 @@
     "classified": true
   },
   {
+    "title": "White House vows to get CLARITY across ‘finish line’ in September",
+    "link": "https://cointelegraph.com/news/white-house-clarity-across-finish-line-september?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Tue, 11 Aug 2026 04:12:58 +0000",
+    "source": "Cointelegraph",
+    "category": "both",
+    "content": "Patrick Witt says the Trump administration will keep negotiating with Democrats as the Senate prepares for a September CLARITY vote.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/white-house-crypto-clarity.jpg",
+    "summary": "The White House plans to continue negotiating with Democrats to pass the CLARITY act by September. The Senate is preparing for a vote on the act next month. The outcome of the negotiations and vote are still uncertain.",
+    "importance": 1,
+    "classified": true
+  },
+  {
     "title": "Ex-US defense secretary calls CLARITY Act a ‘national security bill’",
     "link": "https://cointelegraph.com/news/ex-us-defense-secretary-calls-clarity-act-a-national-security-bill?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "pubDate": "Mon, 10 Aug 2026 00:31:34 +0000",
@@ -1700,18 +1712,6 @@
     "content": "Former US Defense Secretary Mark Esper says the CLARITY Act is not merely a financial services bill, its a national security one.",
     "image": "https://s3-images.ctmedia.io/media/article-covers/hi-crypto-mad-max-fury-road.jpg",
     "summary": "Former US Defense Secretary Mark Esper has stated that the CLARITY Act should be viewed as a national security bill, rather than merely a financial services bill. He emphasizes its broader implications for national security.",
-    "importance": 1,
-    "classified": true
-  },
-  {
-    "title": "Majority Leader Thune files cloture on Clarity Act, setting up Sept. 15 Senate vote",
-    "link": "https://www.theblock.co/news/regulation/2026-08-08-majority-leader-thune-files-cloture-on-clarity-act-setting-up-sept-15-senate-vote-411211",
-    "pubDate": "Sat, 08 Aug 2026 13:27:45 -0400",
-    "source": "The Block",
-    "category": "crypto",
-    "content": "The Senate is set to vote on the motion on Tuesday, Sept. 15, the day after the body returns, though at least seven non-Republicans will need to support it.",
-    "image": "https://www.tbstat.com/wp/uploads/2021/12/20211208_Capitol-Congress-Regulation-800x450.jpg",
-    "summary": "The US Senate is scheduled to vote on the Clarity Act on September 15, which will require at least seven non-Republican supporters to pass. The act has been filed by Majority Leader Thune. The vote will take place the day after the Senate returns from recess.",
     "importance": 1,
     "classified": true
   },
