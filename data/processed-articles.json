@@ -1,5 +1,17 @@
 [
   {
+    "title": "Ravencoin could roll back four days of transactions after critical block flaw",
+    "link": "https://www.coindesk.com/tech/2026/08/11/ravencoin-could-roll-back-four-days-of-transactions-after-critical-block-flaw",
+    "pubDate": "Tue, 11 Aug 2026 11:24:56 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "Two mining pools controlling most of Ravencoin’s hashpower are building a replacement chain from before Friday’s first invalid block, putting deposits, withdrawals and payments made since then at risk of reversal.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/ec6f5528399406702a50fb295a2d41da17857368-6000x4000.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "Ravencoin is facing a potential rollback of four days of transactions due to a critical block flaw discovered last Friday. Two major mining pools are building a replacement chain from before the invalid block, which could reverse all deposits, withdrawals, and payments made during that period.",
+    "importance": 9,
+    "classified": true
+  },
+  {
     "title": "Riot Platforms surges 20% in pre-market trading on $9.1 billion Anthropic deal",
     "link": "https://www.coindesk.com/business/2026/08/11/riot-platforms-surges-20-in-pre-market-trading-on-usd9-1-billion-anthropic-deal",
     "pubDate": "Tue, 11 Aug 2026 09:37:36 +0000",
@@ -72,6 +84,102 @@
     "classified": true
   },
   {
+    "title": "MoneyGram expands on Solana with global crypto-to-cash service",
+    "link": "https://www.coindesk.com/business/2026/08/10/moneygram-expands-on-solana-with-global-crypto-to-cash-service",
+    "pubDate": "Tue, 11 Aug 2026 12:02:22 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "Wallets and apps on Solana can now tap MoneyGram's global network to move between digital assets and local currencies.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/d7959f555e24e90cf0a41c4677d90edb55b5cd06-2048x1152.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "MoneyGram has expanded its services on the Solana blockchain, allowing wallets and apps to utilize its global network. This new integration facilitates the seamless conversion between digital assets and local fiat currencies.",
+    "importance": 8,
+    "classified": true
+  },
+  {
+    "title": "Australian watchdog suspends Cryptolink, forcing 96 ATMs offline",
+    "link": "https://www.coindesk.com/policy/2026/08/11/australian-watchdog-suspends-cryptolink-forcing-96-atms-offline",
+    "pubDate": "Tue, 11 Aug 2026 11:45:47 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "The regulator cited missing transaction reports and the company’s failure to respond to an information request.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/3472ecc19f3cbf47a2ced92e05ca5858d3c21771-1920x1280.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "Australia's financial regulator has suspended Cryptolink, a cryptocurrency ATM operator, due to non-compliance with reporting requirements, resulting in 96 ATMs going offline. The suspension was caused by missing transaction reports and the company's failure to respond to an information request. This move is a regulatory crackdown on cryptocurrency operations.",
+    "importance": 8,
+    "classified": true
+  },
+  {
+    "title": "Coinbase picks Abu Dhabi for its global tokenized asset push",
+    "link": "https://www.coindesk.com/business/2026/08/11/coinbase-picks-abu-dhabi-for-its-global-tokenized-asset-push",
+    "pubDate": "Tue, 11 Aug 2026 11:23:25 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "The crypto exchange said it secured regulatory approval to offer tokenized securities from Abu Dhabi as the emirate deepens its push into onchain finance.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/8f8e845d301c236d4f4687a125d984bf99f2fe55-1152x648.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "Coinbase has secured regulatory approval in Abu Dhabi to offer tokenized securities. This strategic move allows the crypto exchange to advance its global initiative for tokenized assets while aligning with Abu Dhabi's increasing focus on on-chain finance.",
+    "importance": 8,
+    "classified": true
+  },
+  {
+    "title": "Bitcoin-backed lending is entering its institutional era: Two Prime",
+    "link": "https://www.coindesk.com/markets/2026/08/11/bitcoin-backed-lending-is-entering-its-institutional-era-two-prime",
+    "pubDate": "Tue, 11 Aug 2026 11:04:28 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "Public companies are increasingly borrowing against their bitcoin holdings to fund acquisitions and capital spending without selling the asset.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/f2b778c374f09c89cb217469fcbc7a90dc64323b-2048x1150.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "Public companies are increasingly using their Bitcoin holdings as collateral for loans to finance acquisitions and capital expenditures. This strategy allows them to secure funding without selling their digital assets, signifying Bitcoin-backed lending's entry into an institutional era.",
+    "importance": 8,
+    "classified": true
+  },
+  {
+    "title": "Live updates: Bitcoin holds $64,200; Anthropic to watermark Claude's AI content after EU regulations",
+    "link": "https://www.coindesk.com/tech/2026/08/11/live-updates-bitcoin-slips-as-corporate-btc-enthusiasm-moves-to-ai",
+    "pubDate": "Tue, 11 Aug 2026 10:34:52 +0000",
+    "source": "CoinDesk",
+    "category": "both",
+    "content": "FxPro’s Alex Kuptsikevich said companies that helped give bitcoin institutional cover are now chasing AI data centers, putting BTC’s flat 50-day moving average in focus.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/4ef8d303f7969904e5e1ae76f9c06eaf7e4ea513-2856x1448.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "Bitcoin's price holds at $64,200, while companies that previously supported bitcoin are now investing in AI data centers. This shift is highlighted by FxPro's Alex Kuptsikevich. Additionally, Anthropic will watermark Claude's AI content due to EU regulations.",
+    "importance": 8,
+    "classified": true
+  },
+  {
+    "title": "Luke Dashjr removed as Bitcoin BIP editor after controversial BIP-110 fork stalls",
+    "link": "https://www.coindesk.com/tech/2026/08/11/luke-dashjr-removed-as-bitcoin-bip-editor-after-controversial-bip-110-fork-stalls",
+    "pubDate": "Tue, 11 Aug 2026 10:28:19 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "Dashjr said he is taking a sabbatical from his role as chair and chief technology officer of mining pool Ocean.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/dc4c12877ab4eb63b5f44ae62d0347edcbabaa90-1920x1080.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "Luke Dashjr has been removed as a Bitcoin BIP editor due to a controversial BIP-110 fork, and he is also taking a sabbatical from his role as chair and chief technology officer of mining pool Ocean. This change may impact the development of Bitcoin. The reason for his removal is the stalled BIP-110 fork.",
+    "importance": 8,
+    "classified": true
+  },
+  {
+    "title": "Nvidia’s $500 billion AI infrastructure push leaves crypto compute further behind",
+    "link": "https://www.coindesk.com/tech/2026/08/11/nvidia-wants-to-turn-its-ai-chips-into-an-investable-asset-class",
+    "pubDate": "Tue, 11 Aug 2026 10:10:36 +0000",
+    "source": "CoinDesk",
+    "category": "both",
+    "content": "Nvidia has signed memorandums of understanding with six major Wall Street firms to establish \"AI compute\" as a bankable infrastructure asset.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/e9266feac47af2efb0e63d06bff2900b7b377789-2118x1192.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "Nvidia is pushing a $500 billion AI infrastructure plan, partnering with six major Wall Street firms to establish AI compute as a bankable infrastructure asset, potentially leaving crypto compute behind. This move may indicate a significant shift in investment towards AI. Nvidia's plan could have major implications for the tech industry.",
+    "importance": 8,
+    "classified": true
+  },
+  {
+    "title": " UK lawmakers question lenders over lack of banking for the country’s crypto firms",
+    "link": "https://www.coindesk.com/policy/2026/08/11/uk-lawmakers-question-lenders-over-lack-of-banking-for-the-country-s-crypto-firms",
+    "pubDate": "Tue, 11 Aug 2026 10:06:39 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "The U.K.’s Crypto and Digital Assets All-Party Parliamentary Group asked banks to explain their approach to providing banking services to crypto and digital asset businesses.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/d4612798d9bbe555c5efe5641284432f65e99e51-1500x938.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "The UK's Crypto and Digital Assets All-Party Parliamentary Group has asked lenders to explain their approach to providing banking services to crypto and digital asset businesses. This move is a response to the lack of banking services for the country's crypto firms. The inquiry aims to understand the banking industry's stance on serving crypto businesses.",
+    "importance": 8,
+    "classified": true
+  },
+  {
     "title": "A $2 trillion asset class is getting a new blockchain rail",
     "link": "https://www.coindesk.com/markets/2026/08/11/emb-7-00-utc-a-usd2-trillion-asset-class-is-getting-a-new-blockchain-rail",
     "pubDate": "Tue, 11 Aug 2026 07:19:09 +0000",
@@ -120,62 +228,38 @@
     "classified": true
   },
   {
-    "title": "Crypto exchange Coinsbuy loses $8 million in coordinated two-blockchain attack",
-    "link": "https://www.coindesk.com/business/2026/08/10/crypto-exchange-coinsbuy-loses-usd8-million-in-coordinated-two-blockchain-attack",
-    "pubDate": "Mon, 10 Aug 2026 11:39:44 +0000",
-    "source": "CoinDesk",
+    "title": "Russia proposes exchange trading of Bitcoin, Ether and Tether’s USDT",
+    "link": "https://cointelegraph.com/news/bank-of-russia-trading-bitcoin-ether-tether-usdt?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Tue, 11 Aug 2026 12:09:38 +0000",
+    "source": "Cointelegraph",
     "category": "crypto",
-    "content": "Onchain forensics tie a single actor to an $8 million coordinated drain across TRON and Ethereum, with most funds routed through FixedFloat and the attack vector still unknown.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/6c28c3dcd5461d3803d6e6200f1da0686dde993f-1920x1082.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "Crypto exchange Coinsbuy suffered an $8 million loss in a coordinated attack across the TRON and Ethereum blockchains. Onchain forensics identified a single perpetrator who routed most of the stolen funds through FixedFloat, though the specific attack vector remains unknown.",
+    "content": "Russia’s central bank proposed allowing Bitcoin, Ether and USDT to trade on regulated exchanges, following a law signed by President Vladimir Putin last week.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/bank-with-crypto-characters.png",
+    "summary": "Russia's central bank has proposed allowing Bitcoin, Ether, and Tether's USDT to trade on regulated exchanges, following a law signed by President Vladimir Putin. This move could increase cryptocurrency adoption in the country. The proposal is a significant development for the crypto market in Russia.",
     "importance": 8,
     "classified": true
   },
   {
-    "title": "Bitcoin volatility is in meltdown, but downside protection still commands a premium",
-    "link": "https://www.coindesk.com/markets/2026/08/10/bitcoin-volatility-is-in-meltdown-but-downside-protection-still-commands-a-premium",
-    "pubDate": "Mon, 10 Aug 2026 10:13:58 +0000",
-    "source": "CoinDesk",
+    "title": "Bitcoin sell pressure ‘closer to exhaustion’ after $4B USDT market-cap drop: CryptoQuant",
+    "link": "https://cointelegraph.com/markets/bitcoin-sell-pressure-closer-to-exhaustion-after-4b-usdt-market-cap-drop-cryptoquant?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Tue, 11 Aug 2026 10:55:00 +0000",
+    "source": "Cointelegraph",
     "category": "crypto",
-    "content": "Bitcoin’s BVIV volatility index hit the lowest level since 2025 as option demand collapsed. Still, overwriting surged and downside protection stayed pricey.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/a30cc5909ba74d536022faa3e9dacc8019d48321-2108x1488.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "Bitcoin's BVIV volatility index has reached its lowest point since 2025 due to a significant drop in option demand. Despite this reduced volatility, the cost of downside protection remains high, and overwriting activity has surged.",
+    "content": "Bitcoin analysis suggested that sell pressure would not increase given the historically large contraction in USDT market cap over a 60-day period.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-tether-on-a-brink-of-major-upgrade-eu.png",
+    "summary": "Bitcoin analysis suggests that sell pressure is closer to exhaustion due to a large contraction in USDT market cap over 60 days. The $4B USDT market-cap drop is a significant event that may impact Bitcoin's price. This development could lead to a decrease in sell pressure for Bitcoin.",
     "importance": 8,
     "classified": true
   },
   {
-    "title": "A rare CME shift: Hedge funds abandon structural shorts to bet on a bitcoin rally",
-    "link": "https://www.coindesk.com/markets/2026/08/10/a-rare-cme-shift-hedge-funds-abandon-structural-shorts-to-bet-on-a-bitcoin-rally",
-    "pubDate": "Mon, 10 Aug 2026 09:09:32 +0000",
-    "source": "CoinDesk",
+    "title": "Coldcard hack losses: How investigators trace stolen Bitcoin",
+    "link": "https://cointelegraph.com/news/coldcard-losses-how-investigators-trace-stolen-bitcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Tue, 11 Aug 2026 10:14:39 +0000",
+    "source": "Cointelegraph",
     "category": "crypto",
-    "content": "CME leveraged funds turn net long as weak futures yields undermine the once-popular basis trade.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/96665eee3aaf5f2e4c6a8be5b5698ad14f60cfd5-4000x2250.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "Hedge funds utilizing CME leveraged funds are making a rare shift, moving from structural short positions to net long on Bitcoin. This change signals a bet on a bitcoin rally and is prompted by weak futures yields, which have undermined the profitability of the once-popular basis trade.",
-    "importance": 8,
-    "classified": true
-  },
-  {
-    "title": "Inside stablecoin firm BVNK’s journey to a $1.8B acquisition by Mastercard",
-    "link": "https://www.coindesk.com/business/2026/08/10/inside-stablecoin-firm-bvnk-s-journey-to-a-usd1-8b-acquisition-by-mastercard",
-    "pubDate": "Mon, 10 Aug 2026 07:52:00 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "Early BVNK investor Concentric shares a fascinating inside view on the stablecoin startup’s journey and the eventual Mastercard deal.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/b1099fc28972e0ad7e7b65cb3c0555457bdef222-3888x2592.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "The article provides an inside look, from early investor Concentric, at stablecoin firm BVNK's journey leading up to its reported $1.8 billion acquisition by Mastercard. It details the startup's path to this significant deal.",
-    "importance": 8,
-    "classified": true
-  },
-  {
-    "title": "Robinhood brings crypto trading to UK in AI-powered all-in-one app ",
-    "link": "https://www.coindesk.com/business/2026/08/07/robinhood-introduces-no-fee-crypto-trading-in-the-uk-with-ai-assistance",
-    "pubDate": "Mon, 10 Aug 2026 07:00:00 +0000",
-    "source": "CoinDesk",
-    "category": "both",
-    "content": "The trading firm is also introducing “Robinhood Cortex Digests for Crypto,” a generative AI-powered widget that analyses breaking news and other data.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/166a72044a3e5f64fbf16cfa4eb77e12266ee978-5184x3456.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "Robinhood is launching crypto trading services in the UK, integrated into an AI-powered all-in-one app. The platform will feature \"Robinhood Cortex Digests for Crypto,\" a generative AI widget designed to analyze breaking news and market data for users.",
+    "content": "The Coldcard hack has no definitive loss figure yet as investigators rely on victim reports and onchain analysis that produce varying estimates.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/coldcard-screen-edit.png",
+    "summary": "The Coldcard hack has resulted in unspecified Bitcoin losses, with investigators relying on victim reports and onchain analysis to estimate the damage. The exact loss figure has not been determined due to varying estimates. Investigators are working to trace the stolen Bitcoin.",
     "importance": 8,
     "classified": true
   },
@@ -324,26 +408,14 @@
     "classified": true
   },
   {
-    "title": "BIP-110 Bitcoin branch stalls after two blocks as gap widens",
-    "link": "https://cointelegraph.com/news/bitcoin-bip-110-branch-stalls-miner-support?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Sun, 09 Aug 2026 11:00:53 +0000",
-    "source": "Cointelegraph",
+    "title": "‘One of the single biggest barriers to growth’: UK lawmakers press banks over crypto access ahead of new FCA regime",
+    "link": "https://www.theblock.co/news/regulation/2026-08-11-uk-crypto-banking-access-411389",
+    "pubDate": "Tue, 11 Aug 2026 07:04:38 -0400",
+    "source": "The Block",
     "category": "crypto",
-    "content": "The enforcing fork remains stuck at Bitcoin’s full mining difficulty as mandatory signaling proceeds with little hashpower support.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-coinbase-seeks-ipo.png",
-    "summary": "BIP-110, a specific Bitcoin branch, has stalled after processing only two blocks. The enforcing fork is struggling to proceed at Bitcoin’s full mining difficulty, experiencing a significant lack of hashpower support despite mandatory signaling. This indicates substantial challenges in its proposed implementation within the Bitcoin network.",
-    "importance": 8,
-    "classified": true
-  },
-  {
-    "title": "BTCPay restricts remote Lightning access after attackers steal funds",
-    "link": "https://cointelegraph.com/news/btcpay-restricts-remote-lightning-access-after-attackers-steal-funds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Sun, 09 Aug 2026 05:46:07 +0000",
-    "source": "Cointelegraph",
-    "category": "crypto",
-    "content": "Foundation and Citadel21 reported drained Lightning nodes, but the total amount stolen and number of affected operators remain unknown.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/thief-bitcoin.png",
-    "summary": "BTCPay Server has restricted remote Lightning access following reports of stolen funds from Lightning nodes operated by entities like Foundation and Citadel21. The total amount stolen and the number of affected operators are currently unknown.",
+    "content": "UK lawmakers have asked banks to explain how the new FCA crypto regime may change their policies toward digital asset firms.",
+    "image": "https://www.tbstat.com/wp/uploads/2024/07/uk-parliament-800x450.png",
+    "summary": "UK lawmakers are pressing banks to disclose how the new FCA crypto regime will impact their policies towards digital asset firms. This move comes ahead of the implementation of the new regime. The goal is to address a significant barrier to growth for digital asset firms.",
     "importance": 8,
     "classified": true
   },
@@ -588,6 +660,18 @@
     "classified": true
   },
   {
+    "title": "The Download: the next big thing in LLMs and how AI academic research is shifting",
+    "link": "https://www.technologyreview.com/2026/08/11/1141610/the-download-next-big-thing-llms-ai-academic-research-shifting/",
+    "pubDate": "Tue, 11 Aug 2026 12:10:00 +0000",
+    "source": "MIT Technology Review",
+    "category": "ai",
+    "content": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. These startups are chasing the next big thing in LLMs Nine years after Google researchers introduced the transformer, this family of neural networks has become the engine inside every major large…",
+    "image": "https://wp.technologyreview.com/wp-content/uploads/2025/10/MIT_FeatureSelection_Full_1.jpg?fit=2128,1196",
+    "summary": "Startups are working on the next big thing in Large Language Models (LLMs), a type of neural network introduced by Google researchers nine years ago. The transformer family of neural networks has become a key component in major language models. Research in this area is shifting, with new developments emerging.",
+    "importance": 8,
+    "classified": true
+  },
+  {
     "title": "These startups are chasing the next big thing in LLMs",
     "link": "https://www.technologyreview.com/2026/08/10/1141511/these-startups-are-chasing-the-next-big-thing-in-llms/",
     "pubDate": "Mon, 10 Aug 2026 09:00:00 +0000",
@@ -620,6 +704,18 @@
     "content": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Google’s AI empire is being reshaped. Here’s what’s changed. After a wave of painful losses in the tech talent wars, delays to its next flagship model, and murmurings of poor morale,…",
     "image": "https://wp.technologyreview.com/wp-content/uploads/2025/04/2_digitalselves_photocredit_JonathanReus.jpg?fit=2128,1196",
     "summary": "Google's AI empire is undergoing changes due to tech talent losses, delays, and poor morale, while Meta has a rogue model, as reported in The Download newsletter. The situation affects the tech industry, particularly those interested in AI developments. These changes may have significant impacts on Google's AI future.",
+    "importance": 8,
+    "classified": true
+  },
+  {
+    "title": "Anthropic says it will watermark text generated by its AI models",
+    "link": "https://techcrunch.com/2026/08/11/anthropic-says-it-will-watermark-text-generated-by-its-ai-models/",
+    "pubDate": "Tue, 11 Aug 2026 12:13:47 +0000",
+    "source": "TechCrunch AI",
+    "category": "ai",
+    "content": "Anthropic will extend support for watermarking AI generations for older models as well.",
+    "image": "",
+    "summary": "Anthropic will add watermarking to its AI models, including older ones, to track generated text. This move aims to provide transparency and identify AI-generated content. The watermarking will be extended to support older models.",
     "importance": 8,
     "classified": true
   },
@@ -732,14 +828,14 @@
     "classified": true
   },
   {
-    "title": "ChatGPT brings unlimited text chats to free users",
-    "link": "https://techcrunch.com/2026/08/06/openai-brings-unlimited-chatgpt-text-chats-to-free-users/",
-    "pubDate": "Thu, 06 Aug 2026 17:34:42 +0000",
-    "source": "TechCrunch AI",
+    "title": "The AI takeover of mathematics has begun",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/977273/the-ai-takeover-of-mathematics-has-begun",
+    "pubDate": "2026-08-11T11:00:00.000Z",
+    "source": "The Verge AI",
     "category": "ai",
-    "content": "OpenAI said that ChatGPT free and Go users are also getting a new think button for complex queries.",
-    "image": "",
-    "summary": "OpenAI's ChatGPT now offers unlimited text chats to free users, and introduces a new think button to help with complex queries. This update enhances the user experience for free and paid users alike. The think button aims to improve the model's ability to handle intricate questions.",
+    "content": "Mathematician James Maynard has spent a lot of time this past year \"soul searching.\" A professor at the University of Oxford and winner of the prestigious Fields Medal, Maynard told The Verge he's been grappling with the future of his field as the traditionally slow-moving discipline hurries to adapt to AI. \nDays before we spoke, OpenAI revealed it had produced the solutions to 10 long-standing mathematics problems, some of which had confounded academics for decades. Like generative AI used to produce text and images or propose ideas in science and medicine, the technology learns patterns and connections from the vast amount of material it' …\nRead the full story at The Verge.",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/268684_OpenAI_claims_to_revolutionize_maths_CVirginia2.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "summary": "Mathematician James Maynard is grappling with the impact of AI on his field as OpenAI reveals solutions to 10 long-standing math problems, some of which had gone unsolved for decades. This development has significant implications for the future of mathematics. The use of AI in math is accelerating the traditionally slow-moving discipline.",
     "importance": 8,
     "classified": true
   },
@@ -800,18 +896,6 @@
     "content": "OpenAI says it is pausing \"internal activities\" around an in-development AI model, Astra, because it doesn't yet meet new security standards the company is putting in place. The announcement follows its recent disclosure that OpenAI models accidentally hacked Hugging Face. Anthropic and Meta have also since admitted that they had AI models that went rogue and breached other organizations. \nRecent internal evaluations of an OpenAI model called Astra indicate that it offers \"significant advancements in agentic coding and cybersecurity,\" according to the company. \"These results, in addition to expert assessments, have led us to conclude last n …\nRead the full story at The Verge.",
     "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK155_OPEN_AI_CVirginia_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
     "summary": "OpenAI is pausing development of its new AI model, Astra, due to concerns that it is too powerful and does not meet the company's new security standards. This decision follows recent incidents where AI models from OpenAI and other companies, such as Anthropic and Meta, have accidentally hacked into other organizations. Astra has shown significant advancements in agentic coding and cybersecurity, prompting the company to reassess its security protocols.",
-    "importance": 8,
-    "classified": true
-  },
-  {
-    "title": "What&#8217;s behind the Google AI shake-up",
-    "link": "https://www.theverge.com/podcast/976784/google-deepmind-ai-race-vergecast",
-    "pubDate": "2026-08-07T16:45:14.000Z",
-    "source": "The Verge AI",
-    "category": "ai",
-    "content": "Some of the biggest names on Google's AI team got new jobs this week. In some cases, including for legendary Googler Jeff Dean, those jobs are no longer at Google. Given that Google's models seem to be behind the best of what's coming out of anthropic and OpenAI, is this a sign of Google in turmoil? Is it about Demis Hassabis wanting something more interesting to work on than virtual assistants? Or is there something else entirely happening here?\nOn this episode of The Vergecast, Nilay and David start by discussing the leadership shake-up at Google, the state of the AI race, and whether Google is actually set up to succeed here. They also t …\nRead the full story at The Verge.",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/VRG_VST080726_Site.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "summary": "Google's AI team has undergone a significant shake-up, with top names like Jeff Dean taking on new roles or leaving the company, sparking questions about the state of Google's AI endeavors and its position in the AI race. The changes have raised speculation about the company's ability to succeed in AI. The shake-up is seen as a significant event in the AI community.",
     "importance": 8,
     "classified": true
   },
@@ -996,42 +1080,6 @@
     "classified": true
   },
   {
-    "title": "Strategy sells 1,690 bitcoin, raises $653 million from MSTR shares",
-    "link": "https://www.coindesk.com/markets/2026/08/10/strategy-sells-1-690-bitcoin-raises-usd653-million-from-mstr-shares",
-    "pubDate": "Mon, 10 Aug 2026 12:09:26 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "The company increased its USD reserve to $4.65 billion while reducing its bitcoin holdings to 840,447 BTC",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/d00d58cb37e792985dd1a2d7a5b976dca32d84c0-720x406.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "MicroStrategy sold 1,690 bitcoin and raised $653 million through MSTR shares, increasing its USD reserve to $4.65 billion. This transaction reduced its total bitcoin holdings to 840,447 BTC.",
-    "importance": 7,
-    "classified": true
-  },
-  {
-    "title": "UK’s FCA to regulate tokenized gold to preserve London’s place as the top hub for bullion",
-    "link": "https://www.coindesk.com/business/2026/08/10/why-the-uk-financial-watchdog-is-drafting-new-rules-for-tokenized-gold",
-    "pubDate": "Mon, 10 Aug 2026 11:38:33 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "The FCA said it will 'have more to say on' their approach to tokenization, as it draws up rules to put assets on the blockchain.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/2a77c714f950490d92fe6afe133dc6a75706c94e-5760x3840.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "The UK's financial watchdog, the FCA, is anticipated to announce upcoming rules for tokenized digital assets, specifically mentioning tokenized gold. This development highlights ongoing regulatory efforts within the UK regarding digital assets.",
-    "importance": 7,
-    "classified": true
-  },
-  {
-    "title": "Live updates: WTI crude oil up 5% and back to $80, as bitcoin drops below $64,000",
-    "link": "https://www.coindesk.com/markets/2026/08/10/live-updates-btc-above-usd65-000-even-as-the-senate-punts-the-clarity-act-to-the-fall",
-    "pubDate": "Mon, 10 Aug 2026 06:56:50 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "The market rose even as the Senate left the crypto bill unpassed before its recess, with steady ETF inflows and a softer dollar doing more for prices than Washington.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/eb3b5620a15695c6f06ce5eedabd547d9e584c27-2102x1124.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "Bitcoin surpassed $65,000 despite the Senate postponing the CLARITY Act, a crypto bill, until the fall. The market's rise is attributed to consistent ETF inflows and a softer dollar, rather than legislative action.",
-    "importance": 7,
-    "classified": true
-  },
-  {
     "title": "Australia orders Cryptolink Bitcoin ATMs offline over ‘basic reporting’ failures",
     "link": "https://cointelegraph.com/news/australia-orders-cryptolink-bitcoin-atms-offline-over-basic-reporting-failures?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "pubDate": "Mon, 10 Aug 2026 04:32:36 +0000",
@@ -1052,18 +1100,6 @@
     "content": "Bad actors with access to a cryptography-breaking quantum computer probably won’t try to announce it to the world by hacking Satoshi Nakamoto’s high-profile Bitcoin wallets, crypto executives say.",
     "image": "https://s3-images.ctmedia.io/media/article-covers/quantum.jpg",
     "summary": "A quantum attack on cryptocurrency would likely manifest as an unexplained breach rather than a public, high-profile hack, according to crypto executives. This subtle approach would make it harder to detect the advanced technology behind the attack.",
-    "importance": 7,
-    "classified": true
-  },
-  {
-    "title": "Brazil targets crypto fraud with up to 24-hour transfer hold ",
-    "link": "https://cointelegraph.com/news/brazil-targets-crypto-fraud-with-up-to-24-hour-transfer-hold?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Sun, 09 Aug 2026 09:10:39 +0000",
-    "source": "Cointelegraph",
-    "category": "crypto",
-    "content": "The rules, effective Jan. 1, 2027, cover transactions above $10,000 sent to overseas providers or self-custody wallets, along with other transfers flagged for review.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-latin-america-and-blockchain-2.jpg",
-    "summary": "Brazil is implementing new rules, effective January 1, 2027, to combat crypto fraud. These regulations will allow for a transfer hold of up to 24 hours for transactions exceeding $10,000 sent to overseas providers or self-custody wallets, as well as other flagged transfers.",
     "importance": 7,
     "classified": true
   },
@@ -1089,6 +1125,42 @@
     "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKS528_DATA_CENTERS2_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
     "summary": "Amazon is investing in the construction of a new gas-burning power plant in West Texas to power its new data center, which could become one of the largest single producers of greenhouse gases in the US. This plant, equipped with 35 natural-gas turbines, would initially deliver its 7.65 gigawatts of electricity primarily to the data center without connecting to the state's main power grid.",
     "importance": 7,
+    "classified": true
+  },
+  {
+    "title": "When safe assets compete with risk. Lessons from the 1960s–90s for bitcoin and stocks.",
+    "link": "https://www.coindesk.com/daybook-us/2026/08/11/when-safe-assets-compete-with-risk-lessons-from-the-1960s-90s-for-bitcoin-and-stocks",
+    "pubDate": "Tue, 11 Aug 2026 11:13:55 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "Your day-ahead look for Aug. 11 2026",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/51585465c8e5765c3b15c8fddc2d86d2c373f603-4294x2415.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "The article reflects on historical lessons from the 1960s-90s regarding safe assets and risk, drawing parallels with modern-day comparisons between bitcoin and stocks. It aims to provide insight into the competition between safe and risky assets. The article is set to be released on August 11, 2026.",
+    "importance": 6,
+    "classified": true
+  },
+  {
+    "title": "Bitcoin stuck below $65,000 as Hormuz hopes evaporate, XRP close to dropping below $1",
+    "link": "https://www.coindesk.com/markets/2026/08/11/bitcoin-stuck-below-usd65-000-as-the-strait-of-hormuz-stalemate-and-strategy-s-selling-squeeze-the-market",
+    "pubDate": "Tue, 11 Aug 2026 10:48:08 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "The Strait of Hormuz relief trade unraveled after Trump demanded 50 years of Iranian compensation, pushing oil back to $89 and leaving crypto and equities unchanged ahead of a pivotal CPI report.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/05b77ba911a6a3107a8ada460c01d26723950dda-1884x1060.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "Bitcoin's price remains below $65,000 and XRP is close to dropping below $1, as the Strait of Hormuz relief trade dissipates due to Trump's demands for Iranian compensation. This development has no significant impact on crypto and equities. A pivotal CPI report is upcoming, which may influence market trends.",
+    "importance": 6,
+    "classified": true
+  },
+  {
+    "title": "Software stocks break away from bitcoin: What the rare divergence means for crypto",
+    "link": "https://www.coindesk.com/markets/2026/08/11/software-stocks-break-away-from-bitcoin-what-the-rare-divergence-means-for-crypto",
+    "pubDate": "Tue, 11 Aug 2026 10:31:26 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "IGV’s rebound is reshaping a relationship it held with bitcoin for years, but history suggests bitcoin could still catch up.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/fdf51ced1e9ffbb8c0b1d7b79ae3a125caf2fb88-1534x969.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "The IGV software stock is rebounding and breaking away from its long-held relationship with bitcoin, but history suggests bitcoin could still catch up. This rare divergence may have implications for the crypto market. The relationship between software stocks and bitcoin has been reshaped in recent times.",
+    "importance": 6,
     "classified": true
   },
   {
@@ -1128,38 +1200,14 @@
     "classified": true
   },
   {
-    "title": "Bitmine’s ETH buying slows as Tom Lee's firm shifts capital to share buybacks",
-    "link": "https://www.coindesk.com/business/2026/08/10/bitmine-s-eth-buying-slows-as-tom-lee-s-firm-shifts-capital-to-share-buybacks",
-    "pubDate": "Mon, 10 Aug 2026 13:50:51 +0000",
-    "source": "CoinDesk",
+    "title": "EToro to buy TradeZero as Q2 crypto revenue falls 30%",
+    "link": "https://cointelegraph.com/news/etoro-buy-tradezero-crypto-revenue-falls?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Tue, 11 Aug 2026 12:25:41 +0000",
+    "source": "Cointelegraph",
     "category": "crypto",
-    "content": "Chairman Tom Lee said easing financial conditions could support crypto, even as the CLARITY Act failed to reach a Senate vote before the August recess.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/bc173559f15091e27a52c22dedbaade8c86f0509-1920x1080.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "Bitmine's ETH buying has slowed as Tom Lee's firm shifts its focus to share buybacks. The company's chairman believes easing financial conditions could still support the crypto market. The CLARITY Act, however, failed to reach a Senate vote before the August recess.",
-    "importance": 6,
-    "classified": true
-  },
-  {
-    "title": "Solana gets its first Strategy STRC product through Solstice Finance ",
-    "link": "https://www.coindesk.com/business/2026/08/10/solstice-rolls-out-strategy-s-strc-preferred-stock-income-to-solana",
-    "pubDate": "Mon, 10 Aug 2026 13:26:36 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "The Solana vault splits income from Strategy’s preferred stock into a lower-risk senior token and a higher-risk junior token.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/0339788ec6da49e65916e89c4bf0f137635275cd-720x406.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "Solana has introduced its first Strategy STRC product through Solstice Finance, allowing for income splitting from preferred stock into senior and junior tokens. This product is part of a Solana vault and offers a risk-diversified investment option. The innovation aims to provide a unique opportunity for investors on the Solana network.",
-    "importance": 6,
-    "classified": true
-  },
-  {
-    "title": "U.S. CPI inflation, Securitize, Gemini among earnings reports: Crypto Week Ahead",
-    "link": "https://www.coindesk.com/markets/2026/08/10/u-s-cpi-inflation-securitize-gemini-among-earnings-reports-crypto-week-ahead",
-    "pubDate": "Mon, 10 Aug 2026 08:57:04 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "Your look at what's coming in the week starting Aug. 10",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/f93a68faff56e9b07fbb81cf8ad37ba84d47c186-4920x2768.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "This article offers a brief look at the upcoming week starting August 10th for the crypto community. Key events include earnings reports from crypto firms Securitize and Gemini, alongside the anticipated release of U.S. CPI inflation data.",
+    "content": "Trading platform eToro will acquire TradeZero as part of its US expansion as it reported crypto-related revenue fell by about 30% compared to the second quarter of 2025.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-how-to-buy-bitcoin-on-etoro.jpg",
+    "summary": "eToro is acquiring TradeZero as part of its US expansion, while reporting a 30% decline in crypto-related revenue compared to Q2 2025. This move aims to strengthen eToro's presence in the US market. The decline in revenue may be a concern for the company's growth prospects.",
     "importance": 6,
     "classified": true
   },
@@ -1272,6 +1320,18 @@
     "classified": true
   },
   {
+    "title": "Trump Media records $360.6 million unrealized loss on digital assets in first half of the year",
+    "link": "https://www.theblock.co/news/business/2026-08-11-trump-media-records-360-6-million-unrealized-loss-on-digital-assets-in-first-half-of-the-year-411394",
+    "pubDate": "Tue, 11 Aug 2026 07:34:20 -0400",
+    "source": "The Block",
+    "category": "crypto",
+    "content": "Trump Media recorded a $360.6M unrealized digital-asset loss in H1. Its directly held BTC and CRO were worth $597.7M at June 30.",
+    "image": "https://www.tbstat.com/wp/uploads/2025/06/20250602_Trump_News_3-800x450.jpg",
+    "summary": "Trump Media reported a $360.6 million unrealized loss on digital assets in the first half of the year, despite its directly held Bitcoin and CRO being valued at $597.7 million at the end of June. The company's significant loss highlights the volatility of the cryptocurrency market. This loss may impact Trump Media's financial stability.",
+    "importance": 6,
+    "classified": true
+  },
+  {
     "title": "World Liberty received $100 million from businessman investigated for money laundering: NYT",
     "link": "https://www.theblock.co/news/regulation/2026-08-09-world-liberty-received-100-million-from-businessman-investigated-for-money-laundering-nyt-411221",
     "pubDate": "Sun, 09 Aug 2026 14:51:32 -0400",
@@ -1280,30 +1340,6 @@
     "content": "The businessman, Guren \"Bobby\" Zhou, has not been charged, though British officials told the Times that the investigation remained active as of late July.",
     "image": "https://www.tbstat.com/wp/uploads/2024/10/20241001_World-Liberty-Financial_News-800x450.jpg",
     "summary": "World Liberty received $100 million from Guren 'Bobby' Zhou, a businessman under investigation for money laundering, according to the New York Times. Zhou has not been charged, but the investigation is still active. The donation's significance is unclear, but it raises questions about the source of the funds.",
-    "importance": 6,
-    "classified": true
-  },
-  {
-    "title": "Brazil to tighten crypto fraud controls with new 24-hour wait on transfers to self-custody wallets",
-    "link": "https://www.theblock.co/news/regulation/2026-08-09-brazil-to-tighten-crypto-fraud-controls-with-new-24-hour-wait-on-transfers-to-self-custody-wallets-411219",
-    "pubDate": "Sun, 09 Aug 2026 13:03:38 -0400",
-    "source": "The Block",
-    "category": "crypto",
-    "content": "The new rule will take effect on Jan. 1, 2027, and will cover cryptocurrencies including fiat-backed stablecoins.",
-    "image": "https://www.tbstat.com/wp/uploads/2022/05/20220523-Brazil-News-1-800x450.png",
-    "summary": "Brazil will implement a new rule requiring a 24-hour wait on transfers to self-custody wallets, effective January 1, 2027, in an effort to tighten crypto fraud controls. This rule will apply to various cryptocurrencies, including fiat-backed stablecoins. The move aims to prevent fraudulent activities in the crypto space.",
-    "importance": 6,
-    "classified": true
-  },
-  {
-    "title": "Bitcoin’s BIP-110 supporters split onto minority chain as main network pulls ahead",
-    "link": "https://www.theblock.co/news/ecosystems/2026-08-08-bitcoins-bip-110-supporters-split-onto-minority-chain-as-main-network-pulls-ahead-411213",
-    "pubDate": "Sat, 08 Aug 2026 18:05:44 -0400",
-    "source": "The Block",
-    "category": "crypto",
-    "content": "BIP-110 is a proposed one-year change that limits non-financial data on Bitcoin and has sparked a debate over how Bitcoin's block space should be used.",
-    "image": "https://www.tbstat.com/wp/uploads/2024/09/20240904_Bitcoin_News_3-800x450.jpg",
-    "summary": "A proposed change to Bitcoin, BIP-110, has sparked debate and split supporters onto a minority chain, as the main network moves forward without it. The change aims to limit non-financial data on Bitcoin, affecting how block space is used. This split reflects ongoing discussions about Bitcoin's development and use.",
     "importance": 6,
     "classified": true
   },
@@ -1560,18 +1596,6 @@
     "classified": true
   },
   {
-    "title": "Bitcoin steadies above $65,000 as Iran-Oman deal talk eases Hormuz concerns, lifts risk assets",
-    "link": "https://www.coindesk.com/markets/2026/08/10/bitcoin-steadies-above-usd65-000-as-iran-oman-deal-talk-eases-hormuz-concerns-lifts-risk-assets",
-    "pubDate": "Mon, 10 Aug 2026 10:45:43 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "BTC rose to $65,209 and Nasdaq 100 index futures gained 0.45% on reports that Iran may strike a deal with Oman to reopen the Strait of Hormuz.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/4d35d215e1e0334fa89d2a682e86c0576bc96b76-1842x1036.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "Bitcoin steadied above $65,000, reaching $65,209, as talks of a potential deal between Iran and Oman to reopen the Strait of Hormuz eased geopolitical concerns. This development also led to gains in other risk assets, including Nasdaq 100 index futures.",
-    "importance": 4,
-    "classified": true
-  },
-  {
     "title": "Planned Amazon data center could become the biggest climate polluter in the US",
     "link": "https://techcrunch.com/2026/08/08/planned-amazon-data-center-could-become-the-biggest-climate-polluter-in-the-u-s/",
     "pubDate": "Sat, 08 Aug 2026 21:24:02 +0000",
@@ -1581,6 +1605,18 @@
     "image": "",
     "summary": "Amazon is planning a new data center in Texas that will include an on-site power plant. This facility could reportedly become the single largest source of climate pollution in the United States.",
     "importance": 3,
+    "classified": true
+  },
+  {
+    "title": "FlightAware sues Kalshi over bets on flight cancellations",
+    "link": "https://www.coindesk.com/policy/2026/08/11/kalshi-faces-new-lawsuit-flightaware-accuses-it-of-using-its-data-for-flight-cancellation-betting",
+    "pubDate": "Tue, 11 Aug 2026 10:34:17 +0000",
+    "source": "CoinDesk",
+    "category": "ai",
+    "content": "The flight-tracking company alleges Kalshi used its data and trademark without permission to settle contracts on canceled flights.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/bc7f3e9169bf9107fc03d78e5c94a7e1d9d83488-4062x2708.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "FlightAware is suing Kalshi for using its data and trademark without permission to settle contracts on canceled flights. Kalshi allegedly used FlightAware's information to determine the outcome of bets on flight cancellations. This lawsuit highlights issues of data usage and intellectual property.",
+    "importance": 2,
     "classified": true
   },
   {
@@ -1680,18 +1716,6 @@
     "classified": true
   },
   {
-    "title": "Bitcoin's BIP-110 episode is free-market capitalism in purest form",
-    "link": "https://www.coindesk.com/daybook-us/2026/08/10/bitcoin-s-bip-110-episode-is-free-market-capitalism-in-purest-form",
-    "pubDate": "Mon, 10 Aug 2026 11:31:29 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "Your day-ahead look for Aug. 10, 2026",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/c63a7207811606c7cfd0da7433f399e31e89396f-3626x2016.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "This article, titled 'Bitcoin's BIP-110 episode is free-market capitalism in purest form,' is merely a placeholder for a 'day-ahead look' scheduled for August 10, 2026. The provided content is minimal, offering no actual details about Bitcoin's BIP-110 or its economic implications.",
-    "importance": 1,
-    "classified": true
-  },
-  {
     "title": "White House vows to get CLARITY across ‘finish line’ in September",
     "link": "https://cointelegraph.com/news/white-house-clarity-across-finish-line-september?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "pubDate": "Tue, 11 Aug 2026 04:12:58 +0000",
@@ -1704,18 +1728,6 @@
     "classified": true
   },
   {
-    "title": "Ex-US defense secretary calls CLARITY Act a ‘national security bill’",
-    "link": "https://cointelegraph.com/news/ex-us-defense-secretary-calls-clarity-act-a-national-security-bill?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Mon, 10 Aug 2026 00:31:34 +0000",
-    "source": "Cointelegraph",
-    "category": "ai",
-    "content": "Former US Defense Secretary Mark Esper says the CLARITY Act is not merely a financial services bill, its a national security one.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-crypto-mad-max-fury-road.jpg",
-    "summary": "Former US Defense Secretary Mark Esper has stated that the CLARITY Act should be viewed as a national security bill, rather than merely a financial services bill. He emphasizes its broader implications for national security.",
-    "importance": 1,
-    "classified": true
-  },
-  {
     "title": "Puzzle Corner",
     "link": "https://www.technologyreview.com/2026/08/05/1141230/puzzle-corner-84/",
     "pubDate": "Wed, 05 Aug 2026 14:56:29 +0000",
@@ -1724,18 +1736,6 @@
     "content": "Ready for a fresh set of puzzles? Click here for the September/October 2026 Puzzle Corner, brought to you by Michael S. Branicky, ScD ’95, of the Puzzle Corner Puzzle Crew (aka PC2), which also includes Edward Faulkner ’03, MEng ’04, and Abe Kunin ’03. This column includes solutions to the May/June issue. Send problems, solutions (by October…",
     "image": "",
     "summary": "A new set of puzzles is available for September/October 2026, along with solutions to the previous issue. The puzzles are presented by the Puzzle Corner Puzzle Crew. The crew invites readers to send in problems and solutions for future issues.",
-    "importance": 1,
-    "classified": true
-  },
-  {
-    "title": "NASA’s new dark-energy space telescope can also detect killer asteroids",
-    "link": "https://www.technologyreview.com/2026/08/05/1141200/nasas-roman-telescope-detect-asteroids/",
-    "pubDate": "Wed, 05 Aug 2026 08:06:40 +0000",
-    "source": "MIT Technology Review",
-    "category": "ai",
-    "content": "At the end of August, NASA is set to launch the Nancy Grace Roman Space Telescope from Kennedy Space Center in Florida. Its goal is to help us better understand how the universe works, from the glue-like dark matter that keeps galaxies together to the elusive dark energy that drives the expansion of the cosmos.…",
-    "image": "",
-    "summary": "NASA is set to launch the Nancy Grace Roman Space Telescope to study the universe, including dark matter and dark energy. The telescope will also be able to detect killer asteroids. This mission aims to improve our understanding of the cosmos.",
     "importance": 1,
     "classified": true
   }
