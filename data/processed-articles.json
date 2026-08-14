@@ -12,6 +12,30 @@
     "classified": true
   },
   {
+    "title": "U.S. SEC to again delay 'innovation exemption' for tokenization amid Wall Street, White House concerns",
+    "link": "https://www.coindesk.com/policy/2026/08/13/u-s-sec-to-again-delay-innovation-exemption-for-tokenization-amid-wall-street-white-house-concerns",
+    "pubDate": "Thu, 13 Aug 2026 23:09:14 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "The SEC was ready to release at least some part of the innovation exemption alongside its now-canceled open meeting for \"Reg Crypto\" on Friday.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/027ad48cfa40c0b6f4997f516abebf656a10a0e9-720x406.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "The U.S. SEC is delaying an 'innovation exemption' for tokenization and canceled its 'Reg Crypto' open meeting, signaling continued caution and a lack of immediate regulatory clarity for digital assets. This postponement indicates potential roadblocks for Wall Street firms interested in leveraging tokenization.",
+    "importance": 8,
+    "classified": true
+  },
+  {
+    "title": "SEC cancels long-awaited proposal of Reg Crypto, postponing meeting without new date",
+    "link": "https://www.coindesk.com/policy/2026/08/13/sec-cancels-long-awaited-proposal-of-reg-crypto-postponing-meeting-without-new-date",
+    "pubDate": "Thu, 13 Aug 2026 22:18:07 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "The first major crypto rule to be proposed by the U.S. Securities and Exchange Commission will have to wait a bit longer after a sudden postponement.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/090e5c77bf9a39a85f3ba365ccf65e1cbecb6a4f-3781x2129.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "The US Securities and Exchange Commission has postponed a meeting to propose its first major crypto rule, known as Reg Crypto, without setting a new date. This move delays a highly anticipated regulation in the cryptocurrency space. The postponement's impact on the crypto community is still uncertain.",
+    "importance": 8,
+    "classified": true
+  },
+  {
     "title": "Tether says it completed long-promised 'Big Four' audit of finances behind $180 billion USDT stablecoin",
     "link": "https://www.coindesk.com/business/2026/08/13/tether-says-it-completed-long-promised-big-four-audit-of-finances-behind-usd180-billion-usdt-stablecoin",
     "pubDate": "Thu, 13 Aug 2026 18:26:21 +0000",
@@ -96,26 +120,14 @@
     "classified": true
   },
   {
-    "title": "Goldman Sachs leaps into bitcoin income ETFs with $2.25 billion NEOS buyout",
-    "link": "https://www.coindesk.com/business/2026/08/12/goldman-sachs-leaps-into-bitcoin-income-etfs-with-usd2-25-billion-neos-buyout",
-    "pubDate": "Wed, 12 Aug 2026 17:21:03 +0000",
-    "source": "CoinDesk",
+    "title": "Ethereum Foundation pivots away from Poseidon in post-quantum plan",
+    "link": "https://cointelegraph.com/news/ethereum-foundation-drops-poseidon-post-quantum-plan?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Thu, 13 Aug 2026 23:34:56 +0000",
+    "source": "Cointelegraph",
     "category": "crypto",
-    "content": "The $2.25 billion deal expands Goldman’s derivative platform to $130 billion in total ETF assets, taking direct aim at BlackRock's rival BITA fund, according to an analyst.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/7146178019a1ec7dc2d3b45b9e54eb4155bc8715-1280x720.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "Goldman Sachs has acquired NEOS in a $2.25 billion deal, significantly expanding its derivative platform to $130 billion in total ETF assets. This strategic move aims to directly compete with BlackRock's BITA fund, particularly in the bitcoin income ETF market.",
-    "importance": 8,
-    "classified": true
-  },
-  {
-    "title": "Wintermute plans $1 billion AI push beyond crypto: Bloomberg",
-    "link": "https://www.coindesk.com/business/2026/08/12/wintermute-plans-usd1-billion-ai-push-beyond-crypto-bloomberg",
-    "pubDate": "Wed, 12 Aug 2026 16:34:24 +0000",
-    "source": "CoinDesk",
-    "category": "both",
-    "content": "The firm aims for non-crypto markets to drive over 50% of revenue by 2027, up from 10% currently, as it seeks to diversify its business.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/7db3bf97253af39b70ae7cb86f74023bea1187e3-4323x2432.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "Wintermute, a significant player in the crypto space, plans a $1 billion investment in artificial intelligence as part of a strategic move to diversify its business. The firm aims for non-crypto markets to generate over 50% of its revenue by 2027, a substantial increase from the current 10%.",
+    "content": "Advances in compact proofs have erased Poseidon’s previous performance advantage, according to researcher Justin Drake.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-eth-20-progress.jpg",
+    "summary": "The Ethereum Foundation is shifting away from Poseidon due to advancements in compact proofs that have diminished its performance advantage. This change is part of the foundation's post-quantum plan. The decision was reportedly based on research by Justin Drake.",
     "importance": 8,
     "classified": true
   },
@@ -636,6 +648,18 @@
     "classified": true
   },
   {
+    "title": "OpenAI is losing its second executive this week",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/979815/openai-denise-dresser-leaving-executive-departure",
+    "pubDate": "2026-08-13T19:28:39.000Z",
+    "source": "The Verge AI",
+    "category": "ai",
+    "content": "Another OpenAI executive is departing. Denise Dresser, who joined OpenAI as its chief revenue officer in December after serving as CEO of Slack, will be leaving in the \"coming weeks\" to \"pursue other opportunities,\" she said in a team note posted to LinkedIn. Dali Rajic, president and COO of Wiz, will be taking over the CRO role, OpenAI says.\nDresser's departure is just the latest in a string of major exits. Earlier this week, special projects lead and former COO Brad Lightcap announced he would be leaving. (Dresser had taken over some of Lightcap's work when he moved to the special projects role.) Former AGI chief Fidji Simo and former CMO …\nRead the full story at The Verge.",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/gettyimages-2275749204.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "summary": "OpenAI is experiencing a series of executive departures, with chief revenue officer Denise Dresser leaving to pursue other opportunities and former COO Brad Lightcap also announcing his exit. Dresser will be replaced by Dali Rajic, president and COO of Wiz. This is the second major exit for OpenAI this week.",
+    "importance": 8,
+    "classified": true
+  },
+  {
     "title": "Does Google even want to win at AI?",
     "link": "https://www.theverge.com/podcast/979370/google-deepmind-ai-race-lose-jeff-dean-demis-hassabis",
     "pubDate": "2026-08-13T14:10:31.000Z",
@@ -680,18 +704,6 @@
     "content": "Remember that much-hyped story about an Australian tech entrepreneur using ChatGPT, Grok, and other AI tools to craft a personalized cancer vaccine for his dog? Well, surprise: He's launched a startup. \nThat entrepreneur is Paul Conyngham, who says he is launching Gamgee to offer \"personalised mRNA cancer vaccines for dogs.\" But his ambitions go well beyond dogs - and pets - with Gamgee's website promising the company will harness AI and genetics to develop personalized treatments for a range of diseases and species, including humans. \nAt the center of Gamgee's origin story is Rosie, Conyngham's Staffordshire bull terrier-Shar Pei mix, who …\nRead the full story at The Verge.",
     "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/acastro_201217_1777_vaccine_0001.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
     "summary": "An Australian tech entrepreneur, Paul Conyngham, used ChatGPT and other AI tools to create a personalized cancer vaccine for his dog and is now launching a startup called Gamgee to offer similar treatments for dogs and potentially humans. The company aims to harness AI and genetics to develop personalized treatments for various diseases and species. Gamgee's ambitions go beyond pets, with plans to develop treatments for humans as well.",
-    "importance": 8,
-    "classified": true
-  },
-  {
-    "title": "Grok is now an AI ‘teammate’ you can assign work",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/978666/spacexai-grok-bot-ai-agent-beta-launch",
-    "pubDate": "2026-08-12T11:58:54.000Z",
-    "source": "The Verge AI",
-    "category": "ai",
-    "content": "You’ll have to be fine with letting Grok sign into your online accounts, however. | Image: SpaceXAI\t\n\nSpaceXAI has introduced Grok Bot, an always-on AI agent service designed to behave like independent \"AI teammates\" that can do your work for you. The bots share their own cloud-based computer environment, and can sign into apps, tools, and websites you already use to complete multi-step workplace tasks, only coming back when their assigned work is completed or if something requires approval.\nGrok Bot (or Bots, as SpaceXAI inconsistently pluralizes it) is the latest push from Elon Musk's AI company to keep up with business services launched by rival AI providers, including OpenAI's ChatGPT Work, Anthropic's Claude Cowork, and Microsoft's Cop …\nRead the full story at The Verge.",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Grok-Bot-desktop-and-iOS.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "summary": "SpaceXAI has introduced Grok Bot, an AI agent service that can behave like independent teammates and complete multi-step workplace tasks by signing into apps and tools. The service is designed to work autonomously and only requires approval when necessary. This is part of SpaceXAI's effort to keep up with rival AI providers.",
     "importance": 8,
     "classified": true
   },
@@ -1512,6 +1524,18 @@
     "classified": true
   },
   {
+    "title": "Microsoft’s Clippy-like Mico character is no longer the face of Copilot",
+    "link": "https://www.theverge.com/tech/979871/microsoft-copilot-mico-retired",
+    "pubDate": "2026-08-13T21:42:38.000Z",
+    "source": "The Verge AI",
+    "category": "ai",
+    "content": "Mico is headed to Learn Live. | Image: Microsoft\t\n\nMicrosoft Copilot will no longer show its emotive yellow blob, Mico, when you use the chatbot's voice mode. In a support page, Microsoft says it's going to move Mico to its Learn Live platform, where the avatar will have \"more to react to,\" as reported earlier by GeekWire.\nMico launched in Copilot's voice mode last October, with Microsoft AI CEO Mustafa Suleyman pitching the avatar as a way to give the chatbot an \"identity.\" The blob would react to what you say in real-time, complete with facial expressions and animations.\n\nMico joins the long list of virtual helpers that Microsoft has retired over the years, like Clippy, Cortana, and Rover …\nRead the full story at The Verge.",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/mico-copilot.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "summary": "Microsoft's virtual assistant Mico is being moved from Copilot to Learn Live, marking the end of its role as the face of the chatbot's voice mode. Mico was introduced last October as a way to give Copilot an identity. The avatar will now have more interactions on the Learn Live platform.",
+    "importance": 6,
+    "classified": true
+  },
+  {
     "title": "I looked inside an AI generated movie, and the best parts were all human",
     "link": "https://www.theverge.com/entertainment/977994/higgsfield-ai-cully-hill-boys-black-list",
     "pubDate": "2026-08-13T15:30:00.000Z",
@@ -1544,18 +1568,6 @@
     "content": "At least there’s no new proprietary charger this year. Huzzah!! | Photo: David Imel / The Verge\t\n\nThe $399 Google Pixel Watch 5 isn't about the hardware. Sure, there's a new satin pyrite case finish, a few new strap colors, and a Steph Curry Special Edition. Under the hood, there's a slightly faster Qualcomm processor and an itty-bitty battery bump. There's a $50 price hike from last year, too, because the Pixel Watch 5 isn't immune to RAMageddon - none of us are. Otherwise, no one would blame you for looking at this watch and thinking absolutely nothing's changed. That's because the big updates this year are all software-based.\nThis isn't a huge surprise considering Google's Fitbit Air launch in May. And after seeing some Pixel Watch 5 …\nRead the full story at The Verge.",
     "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Google-Pixel-Watch-5-on-stand.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
     "summary": "The Google Pixel Watch 5 features minimal hardware updates, but significant software updates, particularly in AI and health, with a new satin pyrite case finish and a slightly faster processor. The watch has a $50 price hike from last year. The updates focus on software-based improvements, likely due to Google's recent Fitbit Air launch.",
-    "importance": 6,
-    "classified": true
-  },
-  {
-    "title": "Saber denies replacing Rideshare Stimulator&#8217;s writers with ChatGPT",
-    "link": "https://www.theverge.com/games/978558/rideshare-stimulator-writer-ai-saber-interactive",
-    "pubDate": "2026-08-12T00:39:26.000Z",
-    "source": "The Verge AI",
-    "category": "ai",
-    "content": "After a former lead writer claimed Saber \"replaced me with ChatGPT,\" CEO Matthew Karch now claims, \"Neither Saber nor Unigine have replaced any writers with AI,\" for the Rideshare \"Stimulator\" game announced last month, developed by Unigine.\nThe writer, Stella Sacco, says differently, however, posting on Bluesky that \"I was lead writer on this one! And Saber replaced me with ChatGPT midway through development. All the passenger voices were AI too. Either they changed direction at some point or they're not disclosing it on Steam.\" \nSaber describes Rideshare \"Stimulator\" as an \"immersive driving simulation game that puts you behind the wheel …\nRead the full story at The Verge.",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/RS_storefronts_3840x2160_8.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "summary": "Saber's CEO denies replacing human writers with ChatGPT for the Rideshare Stimulator game, despite a former lead writer's claims that she was replaced by the AI tool midway through development. The writer, Stella Sacco, alleges that Saber used ChatGPT for passenger voices as well. The game is an immersive driving simulation developed by Unigine.",
     "importance": 6,
     "classified": true
   },
@@ -1697,7 +1709,7 @@
     "pubDate": "2026-08-13T16:00:00.000Z",
     "source": "The Verge AI",
     "category": "ai",
-    "content": "Suno is releasing Studio 2.0 with significant upgrades that push it closer to an actual digital audio workstation (DAW), rather than a bare-bones audio editor with generative AI features. The biggest addition is undoubtedly MIDI support. Suno says that MIDI was its most requested feature, and it's basically a prerequisite for any modern DAW. Unfortunately, Suno Studio doesn't appear to support third-party plugins or VSTs yet, so you're stuck using its proprietary built-in synth. That synth appears to be a basic two-oscillator wavetable plugin with three envelopes and four envelopes.\nThe point is less about using your favorite Arturia vintag …\nRead the full story at The Verge.",
+    "content": "Suno is releasing Studio 2.0 with significant upgrades that push it closer to an actual digital audio workstation (DAW), rather than a bare-bones audio editor with generative AI features. The biggest addition is undoubtedly MIDI support. Suno says that MIDI was its most requested feature, and it's basically a prerequisite for any modern DAW. Unfortunately, Suno Studio doesn't appear to support third-party plugins or VSTs yet, so you're stuck using its proprietary built-in synth. That synth appears to be a basic two-oscillator wavetable plugin with three envelopes and four LFOs.\nThe point is less about using your favorite Arturia vintage syn …\nRead the full story at The Verge.",
     "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Suno_Studio2.0_Press_Hero.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
     "summary": "Suno is releasing Studio 2.0 with significant upgrades, including MIDI support, to make it more like a real music production tool. This update brings it closer to a digital audio workstation, but it still lacks support for third-party plugins. The new features are focused on enhancing the user experience and making it more competitive with other music production tools.",
     "importance": 2,
@@ -1713,18 +1725,6 @@
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/instagram-2026-wordmark.png",
     "summary": "The new Instagram logo has been criticized in an opinion piece, with the author jokingly calling it the perfect embodiment of AI slop, implying that it was poorly designed, possibly with AI influence. The author's remarks are lighthearted and humorous, focusing on the accidentally awful design of the new wordmark. The article does not provide a serious analysis but rather a comedic take on the situation.",
     "importance": 2,
-    "classified": true
-  },
-  {
-    "title": "FlightAware drops Kalshi lawsuit one day after filing",
-    "link": "https://cointelegraph.com/news/flightaware-drops-kalshi-lawsuit-one-day-after-filing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Wed, 12 Aug 2026 16:58:52 +0000",
-    "source": "Cointelegraph",
-    "category": "crypto",
-    "content": "Following the initial lawsuit, at least one of Kalshi’s event contracts was changed to list “Primary Source Agency” as the entity behind verifying flight cancellation data.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/courtroom-court-lawsuit-justice-jurisdiction-breaking-news.jpg",
-    "summary": "FlightAware swiftly dropped its lawsuit against Kalshi just one day after its initial filing. This action came as Kalshi amended its event contracts to designate a \"Primary Source Agency\" responsible for verifying flight cancellation data.",
-    "importance": 1,
     "classified": true
   },
   {
