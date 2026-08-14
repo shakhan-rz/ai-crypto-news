@@ -12,6 +12,18 @@
     "classified": true
   },
   {
+    "title": "Bitcoin holders Strategy and Metaplanet face stock-index exclusion under MSCI’s new proposal",
+    "link": "https://www.coindesk.com/markets/2026/08/14/bitcoin-holders-strategy-and-metaplanet-face-stock-index-exclusion-under-msci-s-new-proposal",
+    "pubDate": "Fri, 14 Aug 2026 06:20:54 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "A new consultation targets \"non-operating companies\" broadly. Two familiar names still land on the deletion list.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/90e55252ca8600f3f161a4c428bcbc02de07fb89-2316x1046.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "MSCI has proposed a new consultation targeting \"non-operating companies,\" which could lead to significant Bitcoin holders like MicroStrategy (referred to as Strategy) and Metaplanet being excluded from stock indexes. This potential deletion impacts companies known for their substantial Bitcoin investments, raising questions about their status within traditional finance indices.",
+    "importance": 8,
+    "classified": true
+  },
+  {
     "title": "U.S. SEC to again delay 'innovation exemption' for tokenization amid Wall Street, White House concerns",
     "link": "https://www.coindesk.com/policy/2026/08/13/u-s-sec-to-again-delay-innovation-exemption-for-tokenization-amid-wall-street-white-house-concerns",
     "pubDate": "Thu, 13 Aug 2026 23:09:14 +0000",
@@ -108,14 +120,26 @@
     "classified": true
   },
   {
-    "title": "Prediction markets should dial back faulty filings for incentives to boost trading: CFTC",
-    "link": "https://www.coindesk.com/policy/2026/08/12/prediction-markets-should-dial-back-faulty-filings-for-incentives-to-boost-trading-cftc",
-    "pubDate": "Wed, 12 Aug 2026 23:16:53 +0000",
-    "source": "CoinDesk",
+    "title": "SEC cancels key crypto regulatory meeting",
+    "link": "https://cointelegraph.com/news/sec-cancels-crypto-regulatory-meeting?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Fri, 14 Aug 2026 08:02:18 +0000",
+    "source": "Cointelegraph",
     "category": "crypto",
-    "content": "The U.S. regulator of platforms such as Kalshi and Polymarket suggests the industry is getting into bad compliance habits that may allow for market abuse.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/ba52f7bccf2ae307a3c4c7efe5945ed295f5380d-4032x2268.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "The U.S. regulator, CFTC, has warned prediction market platforms like Kalshi and Polymarket about developing \"bad compliance habits\" and making \"faulty filings.\" The regulator suggests these practices could lead to market abuse and need to be corrected to ensure proper trading incentives.",
+    "content": "The SEC canceled a meeting on proposed crypto offering rules after the Senate left for recess without voting on the CLARITY Act.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-setting-court-precedent-for-btc.jpg",
+    "summary": "The SEC canceled a meeting on proposed crypto offering rules due to the Senate's recess without voting on the CLARITY Act. The meeting's cancellation may impact the regulatory clarity for the crypto industry. This development is significant for cryptocurrency regulations.",
+    "importance": 8,
+    "classified": true
+  },
+  {
+    "title": "Neutrl pauses NUSD redemptions over undisclosed reserve issue ",
+    "link": "https://cointelegraph.com/news/neutrl-pauses-nusd-redemptions-over-undisclosed-reserve-issue?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Fri, 14 Aug 2026 04:44:31 +0000",
+    "source": "Cointelegraph",
+    "category": "crypto",
+    "content": "BA Labs had previously classified a proposed NUSD integration as higher risk because of its counterparty, operational and liquidity exposure.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-world-liberty-launches-34b-stablecoin-how-it-fits-into-onchain-credit-systems.jpg",
+    "summary": "Neutrl has paused NUSD redemptions due to an undisclosed reserve issue, which was previously flagged as higher risk by BA Labs. The pause is related to concerns over counterparty, operational, and liquidity exposure. This development may impact the stability of NUSD and its users.",
     "importance": 8,
     "classified": true
   },
@@ -528,6 +552,18 @@
     "classified": true
   },
   {
+    "title": "Cloning could be used to save species—or make human “organ sacks”",
+    "link": "https://www.technologyreview.com/2026/08/14/1141919/cloning-save-species-or-make-human-organ-sacks/",
+    "pubDate": "Fri, 14 Aug 2026 09:00:00 +0000",
+    "source": "MIT Technology Review",
+    "category": "ai",
+    "content": "This week I spoke to scientists who have found a way to turn male mouse embryos female. They’ve developed a CRISPR-based approach to essentially cut out the Y chromosome. It allowed them to create female clones of male mice. That’s right: female animals that are genetically identical to males, except for the missing Y chromosome.…",
+    "image": "",
+    "summary": "Scientists have developed a CRISPR-based approach to create female clones of male mice by essentially removing the Y chromosome, which could potentially be used to save species or create human organ sacks. This breakthrough has significant implications for genetic engineering and could lead to new possibilities in biotechnology. The technology is still in its early stages, but it has sparked interesting discussions about its potential applications.",
+    "importance": 8,
+    "classified": true
+  },
+  {
     "title": "Building a practical path to post-quantum cryptography",
     "link": "https://www.technologyreview.com/2026/08/13/1141041/building-a-practical-path-to-post-quantum-cryptography/",
     "pubDate": "Thu, 13 Aug 2026 18:11:42 +0000",
@@ -536,18 +572,6 @@
     "content": "Quantum computing has alternated between breakthrough darling and overhyped promise in technology circles. Its powerful new capabilities come with a threat to break current cryptography, but for business leaders navigating the noise, the signal should be clear: post-quantum cryptography (PQC) is a manageable evolution, not a crisis. The mathematics behind today’s encrypted digital transactions may…",
     "image": "https://wp.technologyreview.com/wp-content/uploads/2026/08/Intel-contributed-iStock-2259858626.jpg",
     "summary": "Quantum computing poses a threat to current cryptography, but post-quantum cryptography is a manageable evolution, not a crisis. Business leaders can navigate this change with a clear understanding of the mathematics behind encrypted digital transactions. The goal is to build a practical path to post-quantum cryptography.",
-    "importance": 8,
-    "classified": true
-  },
-  {
-    "title": "Scaling AI agents with trustworthy data",
-    "link": "https://www.technologyreview.com/2026/08/12/1141032/scaling-ai-agents-with-trustworthy-data/",
-    "pubDate": "Wed, 12 Aug 2026 16:51:57 +0000",
-    "source": "MIT Technology Review",
-    "category": "ai",
-    "content": "Business and technology leaders need no convincing that the time of agentic AI is here. Organizations are rapidly adopting agents, and few executives doubt the technology’s potential to transform work. But many organizations find that realizing the desired return on investment (ROI) from AI hinges on having the right foundation, with inadequate infrastructure and data…",
-    "image": "https://wp.technologyreview.com/wp-content/uploads/2026/08/Google-Report-2026-cover.png",
-    "summary": "Business leaders recognize the potential of agentic AI to transform work, but many organizations struggle to realize the desired return on investment due to inadequate infrastructure and data. This hinders the scaling of AI agents. Trustworthy data is essential for successful AI adoption.",
     "importance": 8,
     "classified": true
   },
@@ -660,6 +684,18 @@
     "classified": true
   },
   {
+    "title": "Apple trained its own AI model for China with help from Alibaba",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/980160/apple-intelligence-china-custom-ai-model-alibaba",
+    "pubDate": "2026-08-14T09:21:17.000Z",
+    "source": "The Verge AI",
+    "category": "ai",
+    "content": "Apple has reportedly trained a custom AI model for the China market alongside domestic tech giant Alibaba, a rare cross-border partnership that cuts across growing tensions between Beijing and Washington.\nThe China-focused large language model was developed in partnership with Alibaba and trained with the company's support, Reuters reports, citing three unnamed people familiar with the matter. \nDeveloping a custom model of its own marks a departure from Apple's previous strategy in the country and would give the company more control over its products in the competitive Chinese smartphone market. Historically, Apple has used domestic Chines …\nRead the full story at The Verge.",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/STK071_APPLE_A-1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "summary": "Apple has partnered with Alibaba to train a custom AI model for the China market, marking a rare cross-border collaboration amidst growing tensions between Beijing and Washington. The model was developed with Alibaba's support, giving Apple more control over its products. This move is a departure from Apple's previous strategy in the country.",
+    "importance": 8,
+    "classified": true
+  },
+  {
     "title": "OpenAI is losing its second executive this week",
     "link": "https://www.theverge.com/ai-artificial-intelligence/979815/openai-denise-dresser-leaving-executive-departure",
     "pubDate": "2026-08-13T19:28:39.000Z",
@@ -704,18 +740,6 @@
     "content": "Twitch users can now opt out of allowing their content to be used to train Amazon's generative AI models. Opting out means that \"your streams, VODs, clips, stream chats, and pictures and text on your channel\" won't be used in \"future training\" of an Amazon AI model \"whose purpose is to generate or synthesize text, audio, images, or video,\" according to a Twitch support page.\nOther \"AI-supported\" features like captions and safety tools will still function if you opt out of generative AI training. However, if you participate in a chat on another person's stream, \"their opt-out preferences govern if that chat can be used for training,\" Twitch  …\nRead the full story at The Verge.",
     "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK044_VRG_Illo_N_Barclay_1_twitch.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
     "summary": "Twitch users can now opt out of allowing their content to be used to train Amazon's generative AI models, excluding streams, VODs, and other content from training data. This change does not affect AI-supported features like captions and safety tools. Users' opt-out preferences will also apply to chats on other streams.",
-    "importance": 8,
-    "classified": true
-  },
-  {
-    "title": "Of course the ChatGPT dog cancer vaccine spawned a startup",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/978671/ai-cured-dog-cancer-mrna-vaccine-startup-gamgee",
-    "pubDate": "2026-08-12T12:09:34.000Z",
-    "source": "The Verge AI",
-    "category": "ai",
-    "content": "Remember that much-hyped story about an Australian tech entrepreneur using ChatGPT, Grok, and other AI tools to craft a personalized cancer vaccine for his dog? Well, surprise: He's launched a startup. \nThat entrepreneur is Paul Conyngham, who says he is launching Gamgee to offer \"personalised mRNA cancer vaccines for dogs.\" But his ambitions go well beyond dogs - and pets - with Gamgee's website promising the company will harness AI and genetics to develop personalized treatments for a range of diseases and species, including humans. \nAt the center of Gamgee's origin story is Rosie, Conyngham's Staffordshire bull terrier-Shar Pei mix, who …\nRead the full story at The Verge.",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/acastro_201217_1777_vaccine_0001.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "summary": "An Australian tech entrepreneur, Paul Conyngham, used ChatGPT and other AI tools to create a personalized cancer vaccine for his dog and is now launching a startup called Gamgee to offer similar treatments for dogs and potentially humans. The company aims to harness AI and genetics to develop personalized treatments for various diseases and species. Gamgee's ambitions go beyond pets, with plans to develop treatments for humans as well.",
     "importance": 8,
     "classified": true
   },
@@ -912,6 +936,18 @@
     "classified": true
   },
   {
+    "title": "Cluster of headwinds weigh on bitcoin. XRP teeters near $1",
+    "link": "https://www.coindesk.com/markets/2026/08/14/cluster-of-headwinds-weigh-on-bitcoin-xrp-teeters-near-usd1",
+    "pubDate": "Fri, 14 Aug 2026 07:14:37 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "Top cryptocurrencies nurse losses as regulatory picture sours. ETF flows and traditional markets offer little support.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/08b73b53b7d99907e25db584d50c4b5d0065ff53-1920x1080.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "Major cryptocurrencies, including Bitcoin and XRP, are experiencing losses due to a deteriorating regulatory landscape. The market is also finding little support from ETF flows and traditional financial markets, contributing to the downward pressure on digital assets.",
+    "importance": 7,
+    "classified": true
+  },
+  {
     "title": "Forecasts for $1 million bitcoin price likely look too ambitious, key ratio suggests",
     "link": "https://www.coindesk.com/markets/2026/08/13/forecasts-for-usd1-million-bitcoin-price-likely-look-too-ambitious-key-ratio-suggests",
     "pubDate": "Thu, 13 Aug 2026 17:43:25 +0000",
@@ -996,6 +1032,18 @@
     "classified": true
   },
   {
+    "title": "Crypto payments barely register among euro area merchants, ECB finds",
+    "link": "https://cointelegraph.com/news/ecb-survey-0-2-euro-area-companies-accept-crypto-online?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Fri, 14 Aug 2026 08:22:54 +0000",
+    "source": "Cointelegraph",
+    "category": "crypto",
+    "content": "Crypto acceptance was just 0.2% online and remained below 1% at physical points of sale, while mobile payments gained ground.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-digitized-europe-the-shift-to-a-cashless-world-crypto.jpg",
+    "summary": "The European Central Bank (ECB) reports very low acceptance of cryptocurrency payments among merchants in the euro area. Online acceptance stood at just 0.2%, and physical point-of-sale acceptance was below 1%, despite the growth in mobile payment usage.",
+    "importance": 7,
+    "classified": true
+  },
+  {
     "title": "Figure reports $4.3B in loan marketplace volume as profit nearly triples",
     "link": "https://cointelegraph.com/news/figure-q2-loan-marketplace-volume-profit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "pubDate": "Fri, 14 Aug 2026 02:06:37 +0000",
@@ -1020,27 +1068,15 @@
     "classified": true
   },
   {
-    "title": "Hawaii crypto ATM ban to take effect on Oct. 1",
-    "link": "https://cointelegraph.com/news/hawaii-crypto-atm-ban-october-enforcement?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Wed, 12 Aug 2026 21:21:17 +0000",
-    "source": "Cointelegraph",
-    "category": "crypto",
-    "content": "Hawaii will join Minnesota, Tennessee and Indiana in becoming the fourth US state to completely ban the use of cryptocurrency ATMs and kiosks in response to scams.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-bitcoins-real-world-uses.png",
-    "summary": "Hawaii is set to implement a complete ban on cryptocurrency ATMs and kiosks starting October 1st. This makes it the fourth U.S. state to enact such a prohibition, following Minnesota, Tennessee, and Indiana, primarily in response to increasing scam incidents.",
-    "importance": 7,
-    "classified": true
-  },
-  {
-    "title": "Goldman Sachs to acquire ETF manager NEOS in $2.25B deal ",
-    "link": "https://cointelegraph.com/news/goldman-sachs-to-acquire-etf-manager-neos-225b-deal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Wed, 12 Aug 2026 20:37:55 +0000",
-    "source": "Cointelegraph",
-    "category": "crypto",
-    "content": "The deal would add NEOS’ $30 billion ETF business, including Bitcoin- and Ether-linked income funds, to Goldman Sachs Asset Management.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-goldman-sachs-and-crypto-recap.png",
-    "summary": "Goldman Sachs is acquiring ETF manager NEOS in a $2.25 billion deal, which will integrate NEOS's $30 billion ETF business into Goldman Sachs Asset Management. This acquisition notably includes NEOS's existing Bitcoin- and Ether-linked income funds.",
-    "importance": 7,
+    "title": "JPMorgan shuttered its banking relationship with predictions platform Polymarket: FT",
+    "link": "https://www.coindesk.com/markets/2026/08/14/jpmorgan-shuttered-its-banking-relationship-with-predictions-platform-polymarket-ft",
+    "pubDate": "Fri, 14 Aug 2026 05:04:52 +0000",
+    "source": "CoinDesk",
+    "category": "both",
+    "content": "According to Financial Times, JPMorgan ended its banking relationship with Polymarket in late 2025 over regulatory concerns.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/c04fefa41085c2dc54aaae74833200ba210061d6-1920x1080.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "JPMorgan ended its banking relationship with Polymarket, a predictions platform, in late 2025 due to regulatory concerns. This decision was reportedly made to mitigate potential risks associated with the platform. The move highlights growing regulatory scrutiny of emerging technologies.",
+    "importance": 6,
     "classified": true
   },
   {
@@ -1092,38 +1128,14 @@
     "classified": true
   },
   {
-    "title": "Bitcoin slips near $63,500 as traders look past CPI to Fed’s next tests",
-    "link": "https://www.coindesk.com/markets/2026/08/13/bitcoin-slips-near-usd63-500-as-traders-look-past-cpi-to-fed-s-next-tests",
-    "pubDate": "Thu, 13 Aug 2026 03:39:06 +0000",
-    "source": "CoinDesk",
+    "title": "JPMorgan cut Polymarket banking ties over regulatory concerns: Report",
+    "link": "https://cointelegraph.com/news/jpmorgan-debanked-polymarket-regulatory-concerns-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Fri, 14 Aug 2026 08:53:42 +0000",
+    "source": "Cointelegraph",
     "category": "crypto",
-    "content": "An in-line inflation print removed a tail risk but gave BTC little reason to rally, leaving Jackson Hole, jobs data and the next CPI release as the market’s next catalysts.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/b2197931706e07b90e7d6508d64a10a39dff3e40-2842x1488.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "Bitcoin's price slipped near $63,500 as traders looked past the Consumer Price Index (CPI) to upcoming events such as Jackson Hole and jobs data. The in-line inflation print removed a tail risk but did not provide a reason for a BTC rally. The market is waiting for its next catalysts.",
-    "importance": 6,
-    "classified": true
-  },
-  {
-    "title": "Securitize falls 20% after earnings miss as tokenization revenue falls short",
-    "link": "https://www.coindesk.com/markets/2026/08/12/securitize-falls-20-after-earnings-miss-as-tokenization-revenue-falls-short",
-    "pubDate": "Wed, 12 Aug 2026 22:26:24 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "Tokenized assets hit a record and trading activity jumped, but revenue slipped in the firm’s first earnings report since going public.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/0df058fe321b648948d8a5b690588aaafbb157fe-2048x1152.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "Securitize's earnings report showed a 20% decline after missing revenue expectations, despite a record in tokenized assets and increased trading activity. The firm's revenue from tokenization fell short. This is Securitize's first earnings report since going public.",
-    "importance": 6,
-    "classified": true
-  },
-  {
-    "title": "Morgan Stanley's infrastructure partner Zerohash rebuffed in pitch to be U.S. trust bank",
-    "link": "https://www.coindesk.com/policy/2026/08/12/morgan-stanley-s-infrastructure-partner-zerohash-rebuffed-in-pitch-to-be-u-s-trust-bank",
-    "pubDate": "Wed, 12 Aug 2026 22:11:09 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "Zerohash, which handles crypto plumbing for Morgan Stanley's E*Trade, said it's planning on re-filing and hoping for a swift resolution.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/7150e9147434709d0f26c49d26f21b2219558bef-2803x1577.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "Zerohash, a crypto infrastructure partner of Morgan Stanley, was rebuffed in its pitch to become a US trust bank, but plans to re-file and hopes for a swift resolution. Zerohash handles cryptocurrency operations for Morgan Stanley's E*Trade. The decision may impact the company's ability to expand its crypto services.",
+    "content": "JPMorgan Chase reportedly cut banking ties with Polymarket in October 2025 over regulatory concerns but remains open to an underwriting role if the platform goes public.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-jp-morgan-chase-and-crypto-recap.jpg",
+    "summary": "JPMorgan Chase cut its banking ties with Polymarket in October 2025 due to regulatory concerns. However, the bank is still open to underwriting Polymarket if it goes public. This move may impact Polymarket's operations and future plans.",
     "importance": 6,
     "classified": true
   },
@@ -1244,30 +1256,6 @@
     "content": "ASX’s failed blockchain-based CHESS overhaul faces renewed governance scrutiny after the exchange admitted misleading the market.",
     "image": "https://s3-images.ctmedia.io/media/article-covers/courtroom-court-lawsuit-justice-jurisdiction-breaking-news-1.jpg",
     "summary": "An ASX shareholder plans to sue former directors over a failed blockchain project, specifically the blockchain-based CHESS overhaul, which the exchange admitted was misleading to the market. The project's failure has raised governance scrutiny. The lawsuit may have implications for the exchange's transparency and accountability.",
-    "importance": 6,
-    "classified": true
-  },
-  {
-    "title": "NYC council announces probe into ‘predatory marketing practices’ on prediction markets",
-    "link": "https://cointelegraph.com/news/new-york-council-probe-marketing-practices-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Wed, 12 Aug 2026 20:22:46 +0000",
-    "source": "Cointelegraph",
-    "category": "crypto",
-    "content": "Council Speaker Julie Menin sent letters to four companies offering prediction market services to New Yorkers as part of an investigation into their marketing practices.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-us-takes-regulatory-steps-for-blockchain-technology-adoption-1.jpg",
-    "summary": "The NYC council has launched an investigation into the marketing practices of four companies offering prediction market services, citing concerns over predatory tactics. The probe aims to examine the companies' marketing strategies and their potential impact on New Yorkers. Council Speaker Julie Menin has sent letters to the companies as part of the investigation.",
-    "importance": 6,
-    "classified": true
-  },
-  {
-    "title": "Kraken adds S&P 500 to funded trading program, commodities to follow",
-    "link": "https://cointelegraph.com/news/kraken-prop-sp500-perpetual-commodities-next?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Wed, 12 Aug 2026 18:55:56 +0000",
-    "source": "Cointelegraph",
-    "category": "crypto",
-    "content": "Kraken’s funded trading program adds round-the-clock exposure to the US equity benchmark as it builds out its multi-asset offering.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-sp-500-can-be-confusing-bitcoin.png",
-    "summary": "Kraken has added the S&P 500 to its funded trading program, allowing for 24/7 trading of the US equity benchmark. The program will also include commodities in the future. This expansion is part of Kraken's efforts to build out its multi-asset offering.",
     "importance": 6,
     "classified": true
   },
@@ -1620,6 +1608,18 @@
     "classified": true
   },
   {
+    "title": "Live updates: Bitcoin slips below $63,000 as oil, yields climb ",
+    "link": "https://www.coindesk.com/tech/2026/08/14/live-updates-bitcoin-slips-below-usd63-000-as-oil-yields-climb",
+    "pubDate": "Fri, 14 Aug 2026 08:51:48 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "WTI crude tops $82 a barrel, adding inflation pressure and weighing on risk assets as bond yields rise.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/bce0f33371330b08e2ce67dd4abee833c362a946-8000x4500.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "Bitcoin has slipped below $63,000, a movement attributed to rising WTI crude oil prices surpassing $82 a barrel. This increase is contributing to inflation pressure and negatively impacting risk assets, including cryptocurrencies, as bond yields continue to climb.",
+    "importance": 4,
+    "classified": true
+  },
+  {
     "title": "Mesh, Automattic’s CRM for everyone, comes to Android",
     "link": "https://techcrunch.com/2026/08/12/mesh-automattics-crm-for-everyone-comes-to-android/",
     "pubDate": "Wed, 12 Aug 2026 16:57:58 +0000",
@@ -1668,26 +1668,26 @@
     "classified": true
   },
   {
-    "title": "The Download: our 35 young innovators and the “censorship-industrial complex”",
-    "link": "https://www.technologyreview.com/2026/08/12/1141714/the-download-innovators-under-35-censorship-industrial-complex/",
-    "pubDate": "Wed, 12 Aug 2026 12:10:00 +0000",
+    "title": "This scientist is helping build a missing map of childhood",
+    "link": "https://www.technologyreview.com/2026/08/14/1141354/deanne-taylor-gene-expression-children/",
+    "pubDate": "Fri, 14 Aug 2026 09:00:00 +0000",
     "source": "MIT Technology Review",
     "category": "ai",
-    "content": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. How we picked 35 of the world’s top young scientists and engineers On September 8, MIT Technology Review will reveal its 2026 list of Innovators Under 35, recognizing 35 young people…",
-    "image": "https://wp.technologyreview.com/wp-content/uploads/2025/06/opener_thumb.jpg?w=840",
-    "summary": "MIT Technology Review will reveal its 2026 list of Innovators Under 35, recognizing 35 young scientists and engineers, on September 8. The list highlights top young talent in the tech industry. The reveal is part of the publication's daily newsletter, The Download.",
+    "content": "In 2017, Deanne Taylor attended a presentation at the University of Pennsylvania, just a short walk from her office. A researcher was there to unveil the Human Cell Atlas, an ambitious project that aimed to map every cell in the human body. Taylor was floored, and then concerned. As details emerged, she discovered that the…",
+    "image": "https://wp.technologyreview.com/wp-content/uploads/2026/08/HLY_5999.jpg?w=840",
+    "summary": "A scientist named Deanne Taylor was inspired by the Human Cell Atlas project, which aims to map every cell in the human body, and is now working on a similar project to map childhood development. The project's goal is to create a comprehensive map of childhood. Taylor's work is focused on understanding human development, particularly in early childhood.",
     "importance": 2,
     "classified": true
   },
   {
-    "title": "How we picked 35 of the world’s top young scientists and engineers",
-    "link": "https://www.technologyreview.com/2026/08/12/1141605/2026-innovators-under-35-top-young-scientists-engineers/",
-    "pubDate": "Wed, 12 Aug 2026 09:08:40 +0000",
+    "title": "Job titles of the future: Space travel agent",
+    "link": "https://www.technologyreview.com/2026/08/14/1141431/job-titles-space-travel-agent-roman-chiporukha/",
+    "pubDate": "Fri, 14 Aug 2026 09:00:00 +0000",
     "source": "MIT Technology Review",
     "category": "ai",
-    "content": "Next month, on September 8, MIT Technology Review will reveal its 2026 list of Innovators Under 35, recognizing 35 young people from around the world who are doing groundbreaking scientific work and building clever technical fixes for sticky problems.  By finding the top young innovators globally and learning what they’re focused on in their work,…",
-    "image": "",
-    "summary": "MIT Technology Review will reveal its 2026 list of Innovators Under 35, recognizing 35 young people doing groundbreaking scientific work and building technical fixes for problems. The list aims to find top young innovators globally and learn about their work. This recognition can inspire and promote innovation among young scientists and engineers.",
+    "content": "Roman Chiporukha has long turned wild travel dreams into reality. Over two decades as co-owner of the luxury lifestyle firm Roman & Erica, he has orchestrated everything from the construction of a client’s superyacht to vacations in the Bahamas at a location so private that guests must sign an NDA.  The experiences earned him “the…",
+    "image": "https://wp.technologyreview.com/wp-content/uploads/2026/08/space.jpeg?w=840",
+    "summary": "Roman Chiporukha, co-owner of Roman & Erica, has been creating luxury travel experiences for clients, including building a superyacht and private vacations, and is now looking to the future of space travel. He has been making wild travel dreams a reality for over two decades. His work may be relevant to future job titles involving space travel.",
     "importance": 2,
     "classified": true
   },
