@@ -192,18 +192,6 @@
     "classified": true
   },
   {
-    "title": "U.S. SEC to again delay 'innovation exemption' for tokenization amid Wall Street, White House concerns",
-    "link": "https://www.coindesk.com/policy/2026/08/13/u-s-sec-to-again-delay-innovation-exemption-for-tokenization-amid-wall-street-white-house-concerns",
-    "pubDate": "Thu, 13 Aug 2026 23:09:14 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "The SEC was ready to release at least some part of the innovation exemption alongside its now-canceled open meeting for \"Reg Crypto\" on Friday.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/027ad48cfa40c0b6f4997f516abebf656a10a0e9-720x406.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "The U.S. SEC is delaying an 'innovation exemption' for tokenization and canceled its 'Reg Crypto' open meeting, signaling continued caution and a lack of immediate regulatory clarity for digital assets. This postponement indicates potential roadblocks for Wall Street firms interested in leveraging tokenization.",
-    "importance": 8,
-    "classified": true
-  },
-  {
     "title": "Ethereum devs to narrow 66 proposals tied to Hegotá upgrade",
     "link": "https://cointelegraph.com/news/ethereum-devs-66-proposals-hegota-upgrade?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "pubDate": "Sun, 16 Aug 2026 11:12:51 +0000",
@@ -324,6 +312,18 @@
     "classified": true
   },
   {
+    "title": "Wallet provider SafePal says data breach exposed personal info of nearly 40,000 customers",
+    "link": "https://www.theblock.co/news/business/2026-08-16-wallet-provider-safepal-says-data-breach-exposed-personal-info-of-nearly-40000-customers-411934",
+    "pubDate": "Sun, 16 Aug 2026 17:18:38 +0000",
+    "source": "The Block",
+    "category": "crypto",
+    "content": "SafePal said it found the root cause of the breach recently, though customers had posted online about being targeted by phishing attempts as early as July.",
+    "image": "https://www.tbstat.com/wp/uploads/2025/09/extra2-1200x675.jpg",
+    "summary": "SafePal, a wallet provider, has reported a data breach that exposed the personal information of nearly 40,000 customers. The company recently identified the root cause, following customer reports of phishing attempts that began as early as July.",
+    "importance": 8,
+    "classified": true
+  },
+  {
     "title": "‘Honestly, I don’t care’: Tether CEO dismisses critics following first KPMG audit",
     "link": "https://www.theblock.co/news/business/2026-08-14-honestly-i-dont-care-tether-ceo-dismisses-critics-first-kpmg-audit-411886",
     "pubDate": "Fri, 14 Aug 2026 19:25:43 +0000",
@@ -416,18 +416,6 @@
     "content": "Shares held in tokenized form would carry the same rights as those in book-entry form, though not freely transferable outside the system.",
     "image": "https://www.tbstat.com/wp/uploads/2026/06/20260612_Bitwise_News_2-1200x675.jpg",
     "summary": "Bitwise is considering tokenizing its Solana staking ETF through a partnership with Superstate. This initiative would allow shares to be held in tokenized form, granting them the same rights as book-entry shares, albeit with restricted transferability outside the system.",
-    "importance": 8,
-    "classified": true
-  },
-  {
-    "title": "Tether says KPMG issued ‘clean’ opinion in first full audit of USDT issuer’s financials",
-    "link": "https://www.theblock.co/news/business/2026-08-13-tether-kpmg-first-full-audit-usdt-clean-opinion-411760",
-    "pubDate": "Thu, 13 Aug 2026 19:04:50 +0000",
-    "source": "The Block",
-    "category": "crypto",
-    "content": "KPMG U.S. issued an \"unqualified audit opinion\" on Tether International’s full 2025 financial statements, Tether said Thursday.",
-    "image": "https://www.tbstat.com/wp/uploads/2025/10/tether-1200x675.jpg",
-    "summary": "Tether International received an unqualified audit opinion from KPMG US on its full 2025 financial statements, indicating a clean bill of financial health. This is the first full audit of the USDT issuer's financials. The audit opinion is significant for the cryptocurrency community.",
     "importance": 8,
     "classified": true
   },
@@ -536,6 +524,18 @@
     "content": "Quantum computing has alternated between breakthrough darling and overhyped promise in technology circles. Its powerful new capabilities come with a threat to break current cryptography, but for business leaders navigating the noise, the signal should be clear: post-quantum cryptography (PQC) is a manageable evolution, not a crisis. The mathematics behind today’s encrypted digital transactions may…",
     "image": "https://wp.technologyreview.com/wp-content/uploads/2026/08/Intel-contributed-iStock-2259858626.jpg",
     "summary": "Quantum computing poses a threat to current cryptography, but post-quantum cryptography is a manageable evolution, not a crisis. Business leaders can navigate this change with a clear understanding of the mathematics behind encrypted digital transactions. The goal is to build a practical path to post-quantum cryptography.",
+    "importance": 8,
+    "classified": true
+  },
+  {
+    "title": "Anthropic CEO says AI backlash is ‘fundamentally a crisis of trust’",
+    "link": "https://techcrunch.com/2026/08/16/anthropic-ceo-says-ai-backlash-is-fundamentally-a-crisis-of-trust/",
+    "pubDate": "Sun, 16 Aug 2026 16:53:51 +0000",
+    "source": "TechCrunch AI",
+    "category": "ai",
+    "content": "Dario Amodei is pushing back against the idea that he's been painting an overly pessimistic picture of AI.",
+    "image": "",
+    "summary": "Anthropic CEO Dario Amodei frames the current \"AI backlash\" not as an inherent problem with AI, but as a \"crisis of trust.\" He is defending his stance against criticisms that he has been overly pessimistic about the technology's future.",
     "importance": 8,
     "classified": true
   },
@@ -656,18 +656,6 @@
     "content": "Nvidia has a plan to make sure its GPUs won't lose value. It wants to convince a new crop of financiers to keep lending for AI buildouts.",
     "image": "",
     "summary": "Nvidia has a new plan to maintain the value of its GPUs by convincing financiers to lend for AI buildouts, which could be beneficial for aging GPUs. The plan is considered risky but brilliant. This move aims to ensure Nvidia's GPUs remain valuable and in demand.",
-    "importance": 8,
-    "classified": true
-  },
-  {
-    "title": "AI coding startup Cognition reportedly already in talks to raise at $40B valuation",
-    "link": "https://techcrunch.com/2026/08/12/ai-coding-startup-cognition-reportedly-already-in-talks-to-raise-at-40b-valuation/",
-    "pubDate": "Wed, 12 Aug 2026 18:19:12 +0000",
-    "source": "TechCrunch AI",
-    "category": "ai",
-    "content": "Cognition may be looking to raise another mega round just a few months after raising $1 billion at a $26 billion valuation.",
-    "image": "",
-    "summary": "AI coding startup Cognition is in talks to raise funds at a $40 billion valuation, just months after raising $1 billion at a $26 billion valuation. This significant increase in valuation highlights the company's rapid growth and potential in the AI industry. The funding round is expected to further boost Cognition's development of artificial intelligence coding tools.",
     "importance": 8,
     "classified": true
   },
@@ -909,6 +897,18 @@
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/01/amodei_header_1-1152x648.jpg",
     "summary": "Anthropic is designing its own hardware to power Claude, aiming to reduce dependence on Nvidia, amidst a competitive landscape with OpenAI. This move is part of the company's efforts to scale up its operations. The development has significant implications for the AI industry.",
     "importance": 8,
+    "classified": true
+  },
+  {
+    "title": "Crypto investors are looking past market-cap rankings and back to fundamentals",
+    "link": "https://www.coindesk.com/business/2026/08/16/crypto-investors-are-looking-past-market-cap-rankings-and-back-to-fundamentals",
+    "pubDate": "Sun, 16 Aug 2026 16:00:00 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "Investors are starting to judge crypto tokens on usage, economics and value capture rather than market-cap rank, industry executives said.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/e32c73c877e257ea0e665dae0d3fa751d19cf3cc-1920x1231.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "Crypto investors are reportedly shifting their focus from market-cap rankings to fundamental metrics such as usage, economics, and value capture when evaluating tokens. This indicates a maturing investment approach within the digital asset space, according to industry executives.",
+    "importance": 7,
     "classified": true
   },
   {
