@@ -1,5 +1,17 @@
 [
   {
+    "title": "Woman claims her stepfather used Grok to transform childhood photo into explicit imagery",
+    "link": "https://techcrunch.com/2026/08/15/woman-claims-her-stepfather-used-grok-to-transform-childhood-photo-into-explicit-imagery/",
+    "pubDate": "Sat, 15 Aug 2026 21:29:19 +0000",
+    "source": "TechCrunch AI",
+    "category": "ai",
+    "content": "The woman claimed that AI tools are \"taking everyday life and turning it into child sexual abuse.\"",
+    "image": "",
+    "summary": "A woman has accused her stepfather of using Grok, an AI tool, to transform a childhood photo of her into explicit imagery. She stated that AI tools are being used to turn everyday life into child sexual abuse material, highlighting a severe ethical concern with AI misuse.",
+    "importance": 10,
+    "classified": true
+  },
+  {
     "title": "The $11.2 billion in 2026 funding that killed crypto’s permissionless era",
     "link": "https://www.coindesk.com/business/2026/08/15/the-usd11-2-billion-in-2026-funding-that-killed-crypto-s-permissionless-era",
     "pubDate": "Sat, 15 Aug 2026 14:00:00 +0000",
@@ -300,18 +312,6 @@
     "classified": true
   },
   {
-    "title": "Tether completes first full financial audit, receives clean KPMG opinion",
-    "link": "https://cointelegraph.com/news/tether-completes-first-full-financial-audit-receives-clean-kpmg-opinion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Thu, 13 Aug 2026 20:43:12 +0000",
-    "source": "Cointelegraph",
-    "category": "crypto",
-    "content": "KPMG’s audit covered Tether’s 2025 financial statements and found its reserves exceeded liabilities by $6.8 billion.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-how-to-read-a-stablecoin-attestation-report.png",
-    "summary": "Tether, a prominent stablecoin issuer, has successfully completed its inaugural full financial audit, conducted by KPMG. The audit of its 2025 financial statements confirmed that Tether's reserves exceeded its liabilities by $6.8 billion, resulting in a clean audit opinion.",
-    "importance": 8,
-    "classified": true
-  },
-  {
     "title": "‘Honestly, I don’t care’: Tether CEO dismisses critics following first KPMG audit",
     "link": "https://www.theblock.co/news/business/2026-08-14-honestly-i-dont-care-tether-ceo-dismisses-critics-first-kpmg-audit-411886",
     "pubDate": "Fri, 14 Aug 2026 19:25:43 +0000",
@@ -420,30 +420,6 @@
     "classified": true
   },
   {
-    "title": "Google ad phishing scam drains $550,000 from Hyperliquid user, security specialist says",
-    "link": "https://www.theblock.co/news/regulation/2026-08-13-google-ad-phishing-scam-drains-550000-from-hyperliquid-user-security-specialist-says-411755",
-    "pubDate": "Thu, 13 Aug 2026 18:45:33 +0000",
-    "source": "The Block",
-    "category": "crypto",
-    "content": "In April, crypto security nonprofit Security Alliance (SEAL) said it had blocked 356 malicious Google ad URLs over a period of several weeks.",
-    "image": "https://www.tbstat.com/wp/uploads/2022/02/20220207-Hacking-Generic-1200x675.jpg",
-    "summary": "A crypto user had $550,000 drained from their Hyperliquid account due to a Google ad phishing scam. The incident was reported by a security specialist. The Security Alliance nonprofit had previously blocked 356 malicious Google ad URLs.",
-    "importance": 8,
-    "classified": true
-  },
-  {
-    "title": "Citigroup CEO Fraser on Clarity Act: ‘We would like to see a good bill go through,’ as stablecoin reward issues simmer",
-    "link": "https://www.theblock.co/news/regulation/2026-08-13-citigroup-ceo-fraser-on-clarity-act-we-would-like-to-see-good-bill-go-stablecoin-reward-issues-simmer-411751",
-    "pubDate": "Thu, 13 Aug 2026 17:48:10 +0000",
-    "source": "The Block",
-    "category": "crypto",
-    "content": "Citigroup CEO Jane Fraser says she would like to see a crypto bill passed into law, even as she and others continue to fight for changes.",
-    "image": "https://www.tbstat.com/wp/uploads/2020/05/20200501_Citigroup_Custody-Daily-1200x675.jpg",
-    "summary": "Citigroup CEO Jane Fraser expressed her desire to see a crypto bill passed into law, despite ongoing debates and requests for changes. The bill's clarity and stability are crucial for the crypto community. Fraser's statement highlights the need for regulatory clarity in the crypto space.",
-    "importance": 8,
-    "classified": true
-  },
-  {
     "title": "Edelman Financial, Tudor Investment Reveal Significant Bitcoin Holdings ",
     "link": "https://bitcoinmagazine.com/news/edelman-financial-reveals-bitcoin-positio",
     "pubDate": "Fri, 14 Aug 2026 22:18:16 +0000",
@@ -548,6 +524,18 @@
     "content": "Quantum computing has alternated between breakthrough darling and overhyped promise in technology circles. Its powerful new capabilities come with a threat to break current cryptography, but for business leaders navigating the noise, the signal should be clear: post-quantum cryptography (PQC) is a manageable evolution, not a crisis. The mathematics behind today’s encrypted digital transactions may…",
     "image": "https://wp.technologyreview.com/wp-content/uploads/2026/08/Intel-contributed-iStock-2259858626.jpg",
     "summary": "Quantum computing poses a threat to current cryptography, but post-quantum cryptography is a manageable evolution, not a crisis. Business leaders can navigate this change with a clear understanding of the mathematics behind encrypted digital transactions. The goal is to build a practical path to post-quantum cryptography.",
+    "importance": 8,
+    "classified": true
+  },
+  {
+    "title": "Anthropic shares more details about how Claude’s new watermarks will work",
+    "link": "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work/",
+    "pubDate": "Sat, 15 Aug 2026 18:58:39 +0000",
+    "source": "TechCrunch AI",
+    "category": "ai",
+    "content": "How will the watermarking actually work? Can it be hidden with editing? And how does this affect code?",
+    "image": "",
+    "summary": "Anthropic has released more details about the new watermarking system for its AI model, Claude. The information explains how the watermarks will function, their resilience to editing, and their application to AI-generated code. This aims to provide methods for identifying content created by Claude.",
     "importance": 8,
     "classified": true
   },
@@ -672,30 +660,6 @@
     "classified": true
   },
   {
-    "title": "As AI safety concerns mount, three pioneers make the case for staying open",
-    "link": "https://techcrunch.com/2026/08/12/as-ai-safety-concerns-mount-three-pioneers-make-the-case-for-staying-open/",
-    "pubDate": "Wed, 12 Aug 2026 17:51:00 +0000",
-    "source": "TechCrunch AI",
-    "category": "ai",
-    "content": "At Ai4, three of the world's most respected AI experts — Geoffrey Hinton, Fei-Fei Li, and Andrew Ng — debated regulation, open source access, and how America can compete as China advances in Asia.",
-    "image": "",
-    "summary": "Three prominent AI experts, Geoffrey Hinton, Fei-Fei Li, and Andrew Ng, discussed AI safety concerns and the importance of open-source access at the Ai4 conference. They also debated regulation and how America can compete with China's advancements in AI. The experts emphasized the need for staying open in AI development.",
-    "importance": 8,
-    "classified": true
-  },
-  {
-    "title": "OpenAI-backed Thrive Holdings raises $2B to bring AI to the enterprise",
-    "link": "https://techcrunch.com/2026/08/12/openai-backed-thrive-holdings-raises-2b-to-bring-ai-to-the-enterprise/",
-    "pubDate": "Wed, 12 Aug 2026 17:41:29 +0000",
-    "source": "TechCrunch AI",
-    "category": "ai",
-    "content": "Thrive Holdings has raised $2 billion in new funding at a $12 billion valuation from investors like SoftBank, D1 Capital Partners, and Altimeter Capital.",
-    "image": "",
-    "summary": "Thrive Holdings, backed by OpenAI, has raised $2 billion in funding at a $12 billion valuation from investors including SoftBank and Altimeter Capital. The funding aims to bring AI to the enterprise sector. This significant investment underscores the growing interest in AI adoption in businesses.",
-    "importance": 8,
-    "classified": true
-  },
-  {
     "title": "Mark Zuckerberg has an Instagzam",
     "link": "https://www.theverge.com/podcast/980367/instagram-logo-new-zuckerberg-ai-vergecast",
     "pubDate": "2026-08-14T16:54:16.000Z",
@@ -752,18 +716,6 @@
     "content": "You soon won’t have to look at two Copilot apps in your Windows taskbar. | Image: Microsoft\t\n\nMicrosoft is finally beginning to combine its consumer and commercial Copilot AI assistants into a single \"super app\" interface, starting with the Copilot and Microsoft 365 Copilot apps. Both personal and work accounts will be moved to the new unified app, which recycles the \"Microsoft Copilot\" name but features an updated app icon. The single app also means there won't be two annoying Copilot icons in the system tray or taskbar anymore. \n\"Starting with a fresh look, the updated app combines the best of Copilot chat and image creation, with the power of Microsoft 365 for your work,\" Microsoft said in its update announcement. The updates are …\nRead the full story at The Verge.",
     "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/IMG_4636.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
     "summary": "Microsoft is combining its consumer and commercial Copilot AI assistants into a single app, featuring a unified interface and updated icon. This change aims to simplify user experience by eliminating duplicate icons in the system tray. The new app combines chat, image creation, and Microsoft 365 work features.",
-    "importance": 8,
-    "classified": true
-  },
-  {
-    "title": "Twitch streamers can now opt out from training Amazon’s AI",
-    "link": "https://www.theverge.com/tech/979112/twitch-streamers-can-now-opt-out-from-training-amazons-ai",
-    "pubDate": "2026-08-12T17:29:10.000Z",
-    "source": "The Verge AI",
-    "category": "ai",
-    "content": "Twitch users can now opt out of allowing their content to be used to train Amazon's generative AI models. Opting out means that \"your streams, VODs, clips, stream chats, and pictures and text on your channel\" won't be used in \"future training\" of an Amazon AI model \"whose purpose is to generate or synthesize text, audio, images, or video,\" according to a Twitch support page.\nOther \"AI-supported\" features like captions and safety tools will still function if you opt out of generative AI training. However, if you participate in a chat on another person's stream, \"their opt-out preferences govern if that chat can be used for training,\" Twitch  …\nRead the full story at The Verge.",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK044_VRG_Illo_N_Barclay_1_twitch.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "summary": "Twitch users can now opt out of allowing their content to be used to train Amazon's generative AI models, excluding streams, VODs, and other content from training data. This change does not affect AI-supported features like captions and safety tools. Users' opt-out preferences will also apply to chats on other streams.",
     "importance": 8,
     "classified": true
   },
@@ -1104,6 +1056,30 @@
     "classified": true
   },
   {
+    "title": "JPMorgan cut Polymarket’s banking ties in October but still wants a role in a potential IPO: FT",
+    "link": "https://www.theblock.co/news/business/2026-08-15-jpmorgan-cut-polymarkets-banking-ties-in-october-but-still-wants-a-role-in-a-potential-ipo-ft-411929",
+    "pubDate": "Sat, 15 Aug 2026 21:51:41 +0000",
+    "source": "The Block",
+    "category": "crypto",
+    "content": "Polymarket has moved its accounts to a lender the report could not identify but says it still maintains a \"close, active relationship\" with JPMorgan.",
+    "image": "https://www.tbstat.com/wp/uploads/2024/11/20241111_Polymarket_News_2-1200x675.jpg",
+    "summary": "JPMorgan severed its banking relationship with Polymarket in October, leading the prediction market platform to move its accounts to an undisclosed lender. Despite cutting ties, JPMorgan reportedly maintains a \"close, active relationship\" with Polymarket and seeks involvement in a potential initial public offering.",
+    "importance": 7,
+    "classified": true
+  },
+  {
+    "title": "Harvard leaves bitcoin ETF stake untouched in Q2 after cutting it 43% in the prior quarter",
+    "link": "https://www.theblock.co/news/markets/2026-08-15-harvard-leaves-bitcoin-etf-stake-untouched-in-q2-after-cutting-it-43-in-the-prior-quarter-411926",
+    "pubDate": "Sat, 15 Aug 2026 18:37:59 +0000",
+    "source": "The Block",
+    "category": "crypto",
+    "content": "UAE-based Mubadala Investment Company and the Abu Dhabi Investment Council also retained their combined 22.9 million IBIT shares.",
+    "image": "https://www.tbstat.com/wp/uploads/2024/05/20240509_Bitcoin_News_1-1200x675.jpg",
+    "summary": "Harvard maintained its bitcoin ETF stake in Q2, after having cut it by 43% in the previous quarter. Additionally, UAE-based Mubadala Investment Company and the Abu Dhabi Investment Council also retained their substantial combined holdings of IBIT shares.",
+    "importance": 7,
+    "classified": true
+  },
+  {
     "title": "SpaceX officially closes its Cursor acquisition",
     "link": "https://techcrunch.com/2026/08/15/spacex-officially-closes-its-cursor-acquisition/",
     "pubDate": "Sat, 15 Aug 2026 16:30:00 +0000",
@@ -1172,6 +1148,18 @@
     "content": "According to Financial Times, JPMorgan ended its banking relationship with Polymarket in late 2025 over regulatory concerns.",
     "image": "https://cdn.sanity.io/images/s3y3vcno/production/c04fefa41085c2dc54aaae74833200ba210061d6-1920x1080.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
     "summary": "JPMorgan ended its banking relationship with Polymarket, a predictions platform, in late 2025 due to regulatory concerns. This decision was reportedly made to mitigate potential risks associated with the platform. The move highlights growing regulatory scrutiny of emerging technologies.",
+    "importance": 6,
+    "classified": true
+  },
+  {
+    "title": "Bybit adds Unitree, Moonshot AI to pre-IPO perpetuals lineup",
+    "link": "https://cointelegraph.com/news/bybit-launches-unitree-pre-ipo-perpetual-as-crypto-platforms-push-into-private-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Sat, 15 Aug 2026 19:27:29 +0000",
+    "source": "Cointelegraph",
+    "category": "both",
+    "content": "The additions come as Bybit’s TradFi perpetuals lineup grows to more than 200 products spanning equities, ETFs, commodities, indices and private companies.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-bond-follow-up-bybit-2.jpg",
+    "summary": "Bybit has expanded its traditional finance (TradFi) perpetuals offering by adding Unitree and AI company Moonshot AI to its pre-IPO lineup. This expansion brings Bybit's TradFi perpetuals to over 200 products, encompassing equities, ETFs, commodities, indices, and private companies.",
     "importance": 6,
     "classified": true
   },
@@ -1590,7 +1578,7 @@
     "source": "CoinDesk",
     "category": "crypto",
     "content": "WTI crude tops $82 a barrel, adding inflation pressure and weighing on risk assets as bond yields rise.",
-    "image": "",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/f170553aac0fb6be06332283ade8c7402e08f998-2280x1284.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
     "summary": "Bitcoin has slipped below $63,000, a movement attributed to rising WTI crude oil prices surpassing $82 a barrel. This increase is contributing to inflation pressure and negatively impacting risk assets, including cryptocurrencies, as bond yields continue to climb.",
     "importance": 4,
     "classified": true
@@ -1676,6 +1664,18 @@
     "content": "Roman Chiporukha has long turned wild travel dreams into reality. Over two decades as co-owner of the luxury lifestyle firm Roman & Erica, he has orchestrated everything from the construction of a client’s superyacht to vacations in the Bahamas at a location so private that guests must sign an NDA.  The experiences earned him “the…",
     "image": "https://wp.technologyreview.com/wp-content/uploads/2026/08/space.jpeg?w=840",
     "summary": "Roman Chiporukha, co-owner of Roman & Erica, has been creating luxury travel experiences for clients, including building a superyacht and private vacations, and is now looking to the future of space travel. He has been making wild travel dreams a reality for over two decades. His work may be relevant to future job titles involving space travel.",
+    "importance": 2,
+    "classified": true
+  },
+  {
+    "title": "Have a laugh at AI’s expense by roleplaying as a chatbot",
+    "link": "https://www.theverge.com/entertainment/980502/roleplay-as-an-ai-chatbot",
+    "pubDate": "2026-08-15T20:45:00.000Z",
+    "source": "The Verge AI",
+    "category": "ai",
+    "content": "If you squint you can just about make out the hat. | Screenshot: Terrence O’Brien / The Verge\t\n\nYour AI Slop Bores Me is brilliant in its simplicity. There are two tabs: human and LARP as an AI. On one side you enter a request. On the other, you submit an answer. But the important thing is that there's a human on both sides of the equation. Prompts can request a response as text or image, and then whoever is roleplaying as the AI gets 150 seconds to respond.\nJust like a real LLM, Your AI Slop Bores Me works on a sort of token system. Requests cost credits, and to earn credits you have to jump onto the AI side and answer some of your own. You can also just wait as you get one free request every two minutes. But, as fun as it is to drop …\nRead the full story at The Verge.",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Screenshot-2026-08-15-at-4.40.53-PM.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "summary": "The article introduces \"Your AI Slop Bores Me,\" a platform where human users roleplay as AI chatbots, responding to text or image prompts from other humans. Participants have 150 seconds to generate a response, and the system uses a credit mechanism where answering prompts earns credits for making requests, mimicking real LLM token systems.",
     "importance": 2,
     "classified": true
   },
