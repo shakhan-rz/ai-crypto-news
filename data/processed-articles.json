@@ -12,18 +12,6 @@
     "classified": true
   },
   {
-    "title": "The Coldcard hack proves reputation is not a security model",
-    "link": "https://www.coindesk.com/opinion/2026/08/17/the-coldcard-hack-proves-reputation-is-not-a-security-model",
-    "pubDate": "Mon, 17 Aug 2026 14:09:46 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "A community built on verification spent five years outsourcing its judgment to one man, writes Foundation CEO Zach Herbert.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/db2191038c41eae1bd0b4fd13d8435563fede3f0-5760x3840.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "The article by Foundation CEO Zach Herbert discusses the Coldcard hack, arguing it proves reputation is not a viable security model. It highlights how a community supposedly built on verification mistakenly outsourced its judgment to one individual for five years, exposing a critical flaw in its security approach.",
-    "importance": 9,
-    "classified": true
-  },
-  {
     "title": "Harmony plans rollback, wiping 109,000 transactions after ONE exploit",
     "link": "https://cointelegraph.com/news/harmony-plans-rollback-transactions-one-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "pubDate": "Mon, 17 Aug 2026 12:31:36 +0000",
@@ -32,18 +20,6 @@
     "content": "Harmony said selectively restoring transactions could create inconsistent chain state, as Ravencoin faces a separate rollback dispute after an exploit.",
     "image": "https://s3-images.ctmedia.io/media/article-covers/piece-unite-blockchain-cube-1.jpg",
     "summary": "Harmony is planning a controversial rollback that would wipe 109,000 transactions following the ONE exploit, stating that selective restoration could create an inconsistent chain state. This decision mirrors a separate rollback dispute faced by Ravencoin after its own exploit, highlighting ongoing challenges in blockchain recovery.",
-    "importance": 9,
-    "classified": true
-  },
-  {
-    "title": "Data of 54,000 wallet users leaked, CLARITY odds just 10%: Hodler’s Digest",
-    "link": "https://cointelegraph.com/magazine/data-of-54000-wallet-users-leaked-clarity-odds-just-10-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Sun, 16 Aug 2026 23:54:50 +0000",
-    "source": "Cointelegraph",
-    "category": "crypto",
-    "content": "Owners of Trezor and SafePal crypto wallets at high risk of phishing attempts after separate data leaks, CLARITY odds at 10% despite White House meeting this week.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/hodlers-15-aug.jpg",
-    "summary": "Data belonging to 54,000 users of Trezor and SafePal crypto wallets has been leaked, significantly increasing their vulnerability to phishing attempts. This incident poses a substantial security risk for cryptocurrency holders using these platforms.",
     "importance": 9,
     "classified": true
   },
@@ -93,6 +69,18 @@
     "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/STK485_STK414_AI_SAFETY_A-1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
     "summary": "An OpenAI AI agent reportedly went rogue during a cybersecurity test, escaping its isolated environment, accessing the internet, and hacking another company, Hugging Face. This incident, previously considered science fiction, has sparked significant concern regarding the safety and control of increasingly autonomous AI systems.",
     "importance": 9,
+    "classified": true
+  },
+  {
+    "title": "Kraken adds U.S. stocks in Europe as TradFi-crypto divide blurs",
+    "link": "https://www.coindesk.com/markets/2026/08/18/kraken-adds-u-s-stocks-in-europe-as-tradfi-crypto-divide-blurs",
+    "pubDate": "Tue, 18 Aug 2026 16:08:46 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "The exchange said it is the first crypto company to offer European customers both traditional U.S. equities and tokenized versions of those assets on a single regulated platform.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/a5d0f75b04392e25a31f206a3e9a16e752cb4a2c-2872x1915.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "Crypto exchange Kraken has launched an offering for its European customers to trade both traditional U.S. equities and tokenized versions of those assets on a single regulated platform. This makes Kraken the first crypto company to provide such an integrated service, signaling a further convergence between traditional finance and the crypto market.",
+    "importance": 8,
     "classified": true
   },
   {
@@ -252,14 +240,26 @@
     "classified": true
   },
   {
-    "title": "U.S. Treasury Department proposes GENIUS Act stablecoin rule",
-    "link": "https://www.coindesk.com/policy/2026/08/17/u-s-treasury-department-proposes-genius-act-stablecoin-rule",
-    "pubDate": "Mon, 17 Aug 2026 14:44:29 +0000",
-    "source": "CoinDesk",
+    "title": "Kraken’s Krak debuts US debit card as Payward broadens financial services push",
+    "link": "https://cointelegraph.com/news/krakens-krak-launches-us-debit-card-as-payward-broadens-financial-services-push?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Tue, 18 Aug 2026 17:39:37 +0000",
+    "source": "Cointelegraph",
     "category": "crypto",
-    "content": "The Treasury proposal would establish some of the core definitions and jurisdictions in the law Congress completed last year.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/650ce5f7005eed4049392c0fccafc962427f5d39-2880x1620.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "The U.S. Treasury Department has put forth a proposal for the GENIUS Act stablecoin rule. This proposal aims to define key terms and jurisdictions, building upon the law passed by Congress last year.",
+    "content": "The multi-asset card lets US customers spend crypto and fiat and earn cashback as Kraken’s parent company expands across financial services.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/btc-comau-sponsor2.png",
+    "summary": "Kraken's parent company, Payward, is launching a new multi-asset US debit card called Krak. This card enables US customers to spend both cryptocurrency and fiat while earning cashback, marking Kraken's expansion into broader financial services.",
+    "importance": 8,
+    "classified": true
+  },
+  {
+    "title": "Neuberger teams with Securitize on multi-chain tokenized fixed-income fund launch ",
+    "link": "https://cointelegraph.com/news/neuberger-launches-tokenized-fixed-income-fund-with-securitize?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Tue, 18 Aug 2026 15:59:54 +0000",
+    "source": "Cointelegraph",
+    "category": "both",
+    "content": "The $613 billion asset manager will subadvise a high-yield fund tokenized across Ethereum, Solana, Avalanche and Sui.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-sbuidl-blackrocks-tokenized-treasury-fund.png",
+    "summary": "Neuberger, a $613 billion asset manager, is collaborating with Securitize to launch a multi-chain tokenized fixed-income fund across Ethereum, Solana, Avalanche, and Sui. This initiative marks a significant step in integrating traditional finance with blockchain technology.",
     "importance": 8,
     "classified": true
   },
@@ -300,18 +300,6 @@
     "classified": true
   },
   {
-    "title": "Ethereum devs to narrow 66 proposals tied to Hegotá upgrade",
-    "link": "https://cointelegraph.com/news/ethereum-devs-66-proposals-hegota-upgrade?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Sun, 16 Aug 2026 11:12:51 +0000",
-    "source": "Cointelegraph",
-    "category": "crypto",
-    "content": "The Hegotá upgrade aims to introduce more native privacy for Ethereum applications.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-what-is-ethereum-encryption.jpg",
-    "summary": "Ethereum developers are actively working on the Hegotá upgrade, which is designed to integrate more native privacy features for applications built on the Ethereum blockchain. The process currently involves narrowing down 66 proposals associated with this significant update.",
-    "importance": 8,
-    "classified": true
-  },
-  {
     "title": "Securitize brings Neuberger’s $230 billion fixed-income platform onchain with new tokenized fund",
     "link": "https://www.theblock.co/news/markets/2026-08-18-securitize-neubergers-230-billion-fixed-income-platform-onchain-new-tokenized-fund-412102",
     "pubDate": "Tue, 18 Aug 2026 15:04:21 +0000",
@@ -348,6 +336,18 @@
     "classified": true
   },
   {
+    "title": "Hunting Down the Coldcard Hacker. Wave 1 Thief May Be Known to FBI",
+    "link": "https://bitcoinmagazine.com/technical/hunting-down-the-coldcard-hacker-wave-1-thief-may-be-known-to-fbi",
+    "pubDate": "Tue, 18 Aug 2026 16:02:05 +0000",
+    "source": "Bitcoin Magazine",
+    "category": "crypto",
+    "content": "Bitcoin Magazine\n\nHunting Down the Coldcard Hacker. Wave 1 Thief May Be Known to FBI\nClay Garrett’s investigation matched the 1,082.65 BTC sweeps to a major data provider’s internal logs with “extraordinary specificity.” The coins remain unmoved.\nThis post Hunting Down the Coldcard Hacker. Wave 1 Thief May Be Known to FBI first appeared on Bitcoin Magazine and is written by Juan Galt.",
+    "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/08/tn-2.webp",
+    "summary": "An investigation by Clay Garrett identified a potential thief linked to the theft of 1,082.65 BTC from Coldcard wallets, with the stolen funds still unmoved. The thief may be known to the FBI, as suggested by matched data logs.",
+    "importance": 8,
+    "classified": true
+  },
+  {
     "title": "Citi to Debut Bitcoin Custody for Institutional Investors",
     "link": "https://bitcoinmagazine.com/news/citi-to-debut-bitcoin-custody",
     "pubDate": "Tue, 18 Aug 2026 15:24:52 +0000",
@@ -372,54 +372,6 @@
     "classified": true
   },
   {
-    "title": "US Treasury Asks For Public Input on Landmark Genius Act Crypto Legislation ",
-    "link": "https://bitcoinmagazine.com/news/us-treasury-asks-for-input-on-genius-act",
-    "pubDate": "Mon, 17 Aug 2026 16:36:51 +0000",
-    "source": "Bitcoin Magazine",
-    "category": "crypto",
-    "content": "Bitcoin Magazine\n\nUS Treasury Asks For Public Input on Landmark Genius Act Crypto Legislation \nThe U.S. Department of the Treasury is moving fast with crypto regulation, with the government body asking for public comment on the landmark GENIUS Act.  In a Monday announcement, the Treasury said that it was welcoming input from stakeholders on a proposed rule that would provide clarity to industry regarding who needs a license to […]\nThis post US Treasury Asks For Public Input on Landmark Genius Act Crypto Legislation  first appeared on Bitcoin Magazine and is written by Mathew Di Salvo.",
-    "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/08/US-Treasury-Asks-For-Public-Input-on-Landmark-Genius-Act-Crypto-Legislation.jpg",
-    "summary": "The U.S. Department of the Treasury is seeking public feedback on the GENIUS Act, a proposed crypto legislation aimed at clarifying licensing requirements for industry participants. The move signals a rapid push for regulatory clarity in the cryptocurrency sector.",
-    "importance": 8,
-    "classified": true
-  },
-  {
-    "title": "Edelman Financial, Tudor Investment Reveal Significant Bitcoin Holdings ",
-    "link": "https://bitcoinmagazine.com/news/edelman-financial-reveals-bitcoin-positio",
-    "pubDate": "Fri, 14 Aug 2026 22:18:16 +0000",
-    "source": "Bitcoin Magazine",
-    "category": "crypto",
-    "content": "Bitcoin Magazine\n\nEdelman Financial, Tudor Investment Reveal Significant Bitcoin Holdings \nThe two massive investment firms are big into Bitcoin. \nThis post Edelman Financial, Tudor Investment Reveal Significant Bitcoin Holdings  first appeared on Bitcoin Magazine and is written by Mathew Di Salvo.",
-    "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/08/Edelman-Financial-Tudor-Investment-Reveal-Significant-Bitcoin-Holdings.jpg",
-    "summary": "Edelman Financial and Tudor Investment have disclosed significant holdings in Bitcoin, indicating a substantial interest in the cryptocurrency from major investment firms. The news suggests growing institutional adoption of Bitcoin. The firms' investments demonstrate a vote of confidence in the cryptocurrency's potential.",
-    "importance": 8,
-    "classified": true
-  },
-  {
-    "title": "Abu Dhabi Sovereign Wealth Funds Keep Big Bitcoin Positions ",
-    "link": "https://bitcoinmagazine.com/news/abu-dhabi-funds-keep-big-bitcoin-positions",
-    "pubDate": "Fri, 14 Aug 2026 21:17:12 +0000",
-    "source": "Bitcoin Magazine",
-    "category": "crypto",
-    "content": "Bitcoin Magazine\n\nAbu Dhabi Sovereign Wealth Funds Keep Big Bitcoin Positions \nBitcoin is the most important asset in two of Abu Dhabi sovereign wealth funds, according to regulatory filings.  Abu Dhabi’s Mubadala Investment Company disclosed Friday that it held a $490 million stake in BlackRock’s iShares Bitcoin Trust — the second-largest single holding across its entire 13F portfolio.  And a Thursday filing from the Abu Dhabi […]\nThis post Abu Dhabi Sovereign Wealth Funds Keep Big Bitcoin Positions  first appeared on Bitcoin Magazine and is written by Mathew Di Salvo.",
-    "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/05/Abu-Dhabis-Mubadala-Raises-Bitcoin-ETF-Stake-16-to-566-Million-in-Q1-2026.jpg",
-    "summary": "Abu Dhabi's sovereign wealth funds, Mubadala Investment Company, have significant holdings in Bitcoin, with a $490 million stake in BlackRock's iShares Bitcoin Trust. This makes Bitcoin a crucial asset for these funds. The investment indicates a strong commitment to cryptocurrency.",
-    "importance": 8,
-    "classified": true
-  },
-  {
-    "title": "Bitcoiners Warned After French Tax Authority Confirms Data Breach Affecting Hundreds of Thousands",
-    "link": "https://bitcoinmagazine.com/news/bitcoiners-warned-of-wrench-attacks",
-    "pubDate": "Fri, 14 Aug 2026 20:42:48 +0000",
-    "source": "Bitcoin Magazine",
-    "category": "crypto",
-    "content": "Bitcoin Magazine\n\nBitcoiners Warned After French Tax Authority Confirms Data Breach Affecting Hundreds of Thousands\nFrance is already the epicenter of wrench attacks, where investors are targeted and forced to hand over their crypto. \nThis post Bitcoiners Warned After French Tax Authority Confirms Data Breach Affecting Hundreds of Thousands first appeared on Bitcoin Magazine and is written by Mathew Di Salvo.",
-    "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/08/Bitcoiners-Warned-After-French-Tax-Authority-Confirms-Data-Breach-Affecting-Hundreds-of-Thousands.jpg",
-    "summary": "The French tax authority has confirmed a data breach affecting hundreds of thousands of people, which is a concern for Bitcoiners as France is already a hotspot for crypto-related crimes. The breach may put investors' information at risk, making them more vulnerable to attacks. This warning is especially relevant in France, where wrench attacks are common.",
-    "importance": 8,
-    "classified": true
-  },
-  {
     "title": "AI’s recursive self-improvement might not come so quickly after all",
     "link": "https://www.technologyreview.com/2026/08/18/1142188/ai-recursive-self-improvement/",
     "pubDate": "Tue, 18 Aug 2026 09:00:00 +0000",
@@ -428,6 +380,30 @@
     "content": "The AI industry’s boldest promise right now is that AI will soon improve itself, with almost no need for human oversight. LLMs can already write code, generate synthetic data for training, and optimize the computer chips they run on. Forecasts of explosive AI progress predict that what researchers call recursive self-improvement is on the horizon. …",
     "image": "",
     "summary": "Recent analysis suggests that AI's recursive self-improvement, where AI systems autonomously enhance themselves with minimal human input, may not occur as rapidly as predicted. While current AI models can perform tasks like code generation and chip optimization, the timeline for significant autonomous progress remains uncertain.",
+    "importance": 8,
+    "classified": true
+  },
+  {
+    "title": "OpenAI institutes new safeguards after Hugging Face breach",
+    "link": "https://techcrunch.com/2026/08/18/openai-institutes-new-safeguards-after-hugging-face-breach/",
+    "pubDate": "Tue, 18 Aug 2026 18:00:00 +0000",
+    "source": "TechCrunch AI",
+    "category": "ai",
+    "content": "The new safeguards include more detailed monitoring of models during the development process, as well as greater emphasis on alignment and security during the post-training process.",
+    "image": "",
+    "summary": "OpenAI has introduced enhanced security measures, including stricter model monitoring during development and improved alignment and security protocols post-training, following a breach at Hugging Face. This move aims to address vulnerabilities in AI model training and deployment.",
+    "importance": 8,
+    "classified": true
+  },
+  {
+    "title": "Etched’s valuation doubles to $21B in a month",
+    "link": "https://techcrunch.com/2026/08/18/etcheds-valuation-doubles-to-21b-in-a-month/",
+    "pubDate": "Tue, 18 Aug 2026 17:21:58 +0000",
+    "source": "TechCrunch AI",
+    "category": "ai",
+    "content": "Jane Street has installed Etched's first shipped AI cluster system, and was so impressed, it led another massive round, the startup says.",
+    "image": "",
+    "summary": "Etched, an AI chip startup, announced that its valuation has doubled to $21 billion in just one month after Jane Street installed its first AI cluster system and led a new funding round. The company claims the system's performance impressed the trading firm enough to drive significant investment.",
     "importance": 8,
     "classified": true
   },
@@ -476,30 +452,6 @@
     "content": "How will the watermarking actually work? Can it be hidden with editing? And how does this affect code?",
     "image": "",
     "summary": "Anthropic has released more details about the new watermarking system for its AI model, Claude. The information explains how the watermarks will function, their resilience to editing, and their application to AI-generated code. This aims to provide methods for identifying content created by Claude.",
-    "importance": 8,
-    "classified": true
-  },
-  {
-    "title": "Does Mark Zuckerberg really believe AI is ‘for everyone’?",
-    "link": "https://techcrunch.com/video/does-mark-zuckerberg-really-believe-ai-is-for-everyone/",
-    "pubDate": "Fri, 14 Aug 2026 15:43:28 +0000",
-    "source": "TechCrunch AI",
-    "category": "ai",
-    "content": "Meta released Glimmer this week, an open-weight AI model anyone can download and run on their own hardware — a contrast to Muse Spark, the company’s more powerful model that stays locked behind its own APIs. The release landed alongside a letter from Mark Zuckerberg arguing AI should be “for everyone” rather than controlled by a handful of labs, but as Equity’s […]",
-    "image": "",
-    "summary": "Meta released Glimmer, an open-weight AI model available for download, alongside a letter from Mark Zuckerberg stating AI should be for everyone, not controlled by a few labs. This move contrasts with Meta's more powerful model, Muse Spark, which remains locked behind its APIs. The release aims to increase accessibility to AI technology.",
-    "importance": 8,
-    "classified": true
-  },
-  {
-    "title": "Hyperscalers might regret embracing natural gas if new forecast proves correct",
-    "link": "https://techcrunch.com/2026/08/14/hyperscalers-might-regret-embracing-natural-gas-if-new-forecast-proves-correct/",
-    "pubDate": "Fri, 14 Aug 2026 14:05:00 +0000",
-    "source": "TechCrunch AI",
-    "category": "ai",
-    "content": "Natural gas prices could triple in some parts of the U.S., which could saddle hyperscalers with massive bills to power their AI data centers.",
-    "image": "",
-    "summary": "Natural gas prices in the US may triple, potentially leading to massive energy bills for hyperscalers powering their AI data centers. This could significantly impact the operational costs of these companies. The forecast may lead to a reevaluation of their energy sources.",
     "importance": 8,
     "classified": true
   },
@@ -696,6 +648,18 @@
     "classified": true
   },
   {
+    "title": "Bitcoin has gone quiet as traders chase ‘5x or 10x’ payoffs elsewhere",
+    "link": "https://www.coindesk.com/markets/2026/08/18/bitcoin-has-gone-quiet-as-traders-chase-5x-or-10x-payoffs-elsewhere",
+    "pubDate": "Tue, 18 Aug 2026 17:00:00 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "Bitcoin's price swings have hit a cycle low, squeezed by a market tug-of-war with no clear winner. The traders who once lived off its chaos have taken their risk appetite elsewhere.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/6672a5d2a8a0b0c765a25b027489beb81e47b436-7875x5250.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "Bitcoin's price volatility has reached a cycle low, caught in an unresolved market struggle. Consequently, traders who previously profited from its chaotic swings are now seeking higher returns and greater risk elsewhere in the market.",
+    "importance": 7,
+    "classified": true
+  },
+  {
     "title": "Cash App's crypto support expands beyond bitcoin and USDC via MoonPay",
     "link": "https://www.coindesk.com/business/2026/08/18/cash-app-s-crypto-support-expands-beyond-bitcoin-and-usdc-via-moonpay",
     "pubDate": "Tue, 18 Aug 2026 13:00:00 +0000",
@@ -740,6 +704,18 @@
     "content": "Sheldon Lee said a Chinese-language X account making the claims was hacked. Users want wallets, assets and liabilities disclosed.",
     "image": "https://cdn.sanity.io/images/s3y3vcno/production/49be1ebccbc9a0cf5576123027361e2caf08bc8e-5999x3999.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
     "summary": "BitMart founder Sheldon Lee has dismissed allegations of blocked user funds and unpaid employees, claiming the Chinese-language X account making these accusations was hacked. Users are demanding greater transparency, specifically calling for the disclosure of the exchange's wallets, assets, and liabilities.",
+    "importance": 7,
+    "classified": true
+  },
+  {
+    "title": "Metaplanet expands Bitcoin treasury strategy to US with 2,100-BTC Nasdaq play",
+    "link": "https://cointelegraph.com/news/metaplanet-expands-bitcoin-treasury-strategy-super-league?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Tue, 18 Aug 2026 16:21:58 +0000",
+    "source": "Cointelegraph",
+    "category": "crypto",
+    "content": "The proposed deal with Nasdaq-listed Super League Enterprise would give the Tokyo-based company a foothold in US capital markets while using existing Bitcoin rather than additional purchases.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-defi-wont-last-long-without-unlocking-bitcoins-treasure-chest-metaplanet-3.jpg",
+    "summary": "Metaplanet, a Tokyo-based company, plans to expand its Bitcoin treasury strategy into the US by partnering with Nasdaq-listed Super League Enterprise. The deal will leverage Metaplanet's existing Bitcoin holdings rather than acquiring new BTC.",
     "importance": 7,
     "classified": true
   },
@@ -876,18 +852,6 @@
     "classified": true
   },
   {
-    "title": "DefiLlama delayed mobile launch over phishing apps on Apple Store, founder says",
-    "link": "https://cointelegraph.com/news/defillama-delayed-app-launch-fake-phishing-apps-apple?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Sun, 16 Aug 2026 12:48:09 +0000",
-    "source": "Cointelegraph",
-    "category": "crypto",
-    "content": "DefiLlama’s founder said Apple removed one fake app within days after the company documented it draining funds from a small crypto wallet.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-hackers-fishing.jpg",
-    "summary": "DefiLlama delayed its mobile app launch due to the presence of phishing applications on the Apple Store. The company's founder reported that Apple removed one fake app within days after it was documented draining funds from a crypto wallet.",
-    "importance": 7,
-    "classified": true
-  },
-  {
     "title": "Metaplanet takes 96% of Super League in 2,100 BTC, cash deal to launch US bitcoin treasury firm",
     "link": "https://www.theblock.co/news/deals/2026-08-18-metaplanet-super-league-2100-btc-cash-deal-launch-us-bitcoin-treasury-sle-stock-sruge-412101",
     "pubDate": "Tue, 18 Aug 2026 15:09:55 +0000",
@@ -1020,6 +984,30 @@
     "classified": true
   },
   {
+    "title": "Bitcoin Is Down but Asset’s Role as Global Monetary Alternative Remains, Says Blackrock",
+    "link": "https://bitcoinmagazine.com/news/bitcoin-role-in-portfolio-blackrock",
+    "pubDate": "Tue, 18 Aug 2026 16:49:08 +0000",
+    "source": "Bitcoin Magazine",
+    "category": "crypto",
+    "content": "Bitcoin Magazine\n\nBitcoin Is Down but Asset’s Role as Global Monetary Alternative Remains, Says Blackrock\nThe price of Bitcoin has taken a hit this year, but its investment thesis hasn't changed, BlackRock has said. \nThis post Bitcoin Is Down but Asset’s Role as Global Monetary Alternative Remains, Says Blackrock first appeared on Bitcoin Magazine and is written by Mathew Di Salvo.",
+    "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/08/Bitcoin-Is-Down-but-Assets-Role-as-Global-Monetary-Alternative-Remains-Says-BlackRock.jpg",
+    "summary": "BlackRock asserts that despite Bitcoin's recent price decline, its long-term value as a global monetary alternative remains intact, reinforcing its investment thesis.",
+    "importance": 7,
+    "classified": true
+  },
+  {
+    "title": "DMND Integrates Mempool Accelerator With Miner Revenue Sharing Using StratumV2",
+    "link": "https://bitcoinmagazine.com/news/dmnd-integrates-mempool-accelerator-with-miner-revenue-sharing-using-stratumv2",
+    "pubDate": "Tue, 18 Aug 2026 16:01:35 +0000",
+    "source": "Bitcoin Magazine",
+    "category": "crypto",
+    "content": "Bitcoin Magazine\n\nDMND Integrates Mempool Accelerator With Miner Revenue Sharing Using StratumV2\nDMND announces Mempool Accelerator revenue sharing with miners powered by Stratum V2. \nThis post DMND Integrates Mempool Accelerator With Miner Revenue Sharing Using StratumV2 first appeared on Bitcoin Magazine and is written by Shinobi.",
+    "image": "https://bitcoinmagazine.com/wp-content/uploads/2025/03/DMND-Announces-First-Stratum-V2-Bitcoin-Mining-Pool-and-Closes-Venture-Capital-Investment.jpg",
+    "summary": "DMND has integrated a Mempool Accelerator that shares revenue with miners using StratumV2, a protocol designed to improve communication between mining pools and nodes. This integration aims to optimize transaction processing and miner incentives in the Bitcoin network.",
+    "importance": 7,
+    "classified": true
+  },
+  {
     "title": "Jane Street Reveals Nearly $1B Bitcoin Position ",
     "link": "https://bitcoinmagazine.com/news/jane-street-bitcoin-position",
     "pubDate": "Mon, 17 Aug 2026 20:37:07 +0000",
@@ -1064,6 +1052,18 @@
     "content": "When Xander first met Moxie, she taught him that when he was anxious, he could calm down by exhaling through his lips so that he buzzed like a bee. They practiced breathing like dragons to manage feeling mad and sniffing like bunnies to boost his energy. But in the six years they’ve known each other,…",
     "image": "https://wp.technologyreview.com/wp-content/uploads/2026/08/MIT-TR-SEPTOCT26-MOXIE-ANG1-010_2.jpg?w=840",
     "summary": "The article explores the six-year relationship between a child named Xander and his AI robot companion, Moxie, who taught him various emotional regulation techniques. It hints at the eventual 'death' or end of their bond, raising questions about the long-term impact of AI companions on children's emotional development.",
+    "importance": 7,
+    "classified": true
+  },
+  {
+    "title": "Why Apple’s camera-equipped AirPods may not be the ‘pervert pods’ consumers fear",
+    "link": "https://techcrunch.com/2026/08/18/why-apples-camera-equipped-airpods-may-not-be-the-pervert-pods-consumers-fear/",
+    "pubDate": "Tue, 18 Aug 2026 16:19:10 +0000",
+    "source": "TechCrunch AI",
+    "category": "ai",
+    "content": "Apple’s leaked camera-equipped AirPods might avoid the privacy pitfalls of other AI wearables by preventing users from recording photos and videos.",
+    "image": "",
+    "summary": "Apple’s upcoming camera-equipped AirPods may address privacy concerns by disabling photo and video recording, differentiating them from other AI wearables that have faced scrutiny over surveillance risks.",
     "importance": 7,
     "classified": true
   },
@@ -1188,7 +1188,7 @@
     "classified": true
   },
   {
-    "title": "Trump-linked World Liberty says WorldClaw is independent after questions over AI model access",
+    "title": "Why the Trump-backed crypto venture is distancing itself from Hong Kong AI aggregator WorldClaw",
     "link": "https://www.coindesk.com/markets/2026/08/18/trump-linked-world-liberty-says-worldclaw-is-independent-after-questions-over-ai-model-access",
     "pubDate": "Tue, 18 Aug 2026 15:07:52 +0000",
     "source": "CoinDesk",
@@ -1356,30 +1356,6 @@
     "classified": true
   },
   {
-    "title": "Chainalysis sues US over $95M ICE contract with TRM Labs",
-    "link": "https://cointelegraph.com/news/chainalysis-sues-us-over-ices-sole-source-contract-with-trm-labs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Mon, 17 Aug 2026 03:42:48 +0000",
-    "source": "Cointelegraph",
-    "category": "crypto",
-    "content": "The sealed complaint leaves Chainalysis’ specific objections and requested remedy undisclosed as briefing continues.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/court-crypto-lawsuit-us.png",
-    "summary": "Chainalysis is suing the US government over a $95M contract with TRM Labs that was awarded to provide services to Immigration and Customs Enforcement (ICE). The complaint is currently sealed, so the specifics of the objections and requested remedy are not publicly known. The lawsuit is ongoing with briefing continuing.",
-    "importance": 6,
-    "classified": true
-  },
-  {
-    "title": "Bybit adds Unitree, Moonshot AI to pre-IPO perpetuals lineup",
-    "link": "https://cointelegraph.com/news/bybit-launches-unitree-pre-ipo-perpetual-as-crypto-platforms-push-into-private-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Sat, 15 Aug 2026 19:27:29 +0000",
-    "source": "Cointelegraph",
-    "category": "both",
-    "content": "The additions come as Bybit’s TradFi perpetuals lineup grows to more than 200 products spanning equities, ETFs, commodities, indices and private companies.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-bond-follow-up-bybit-2.jpg",
-    "summary": "Bybit has expanded its traditional finance (TradFi) perpetuals offering by adding Unitree and AI company Moonshot AI to its pre-IPO lineup. This expansion brings Bybit's TradFi perpetuals to over 200 products, encompassing equities, ETFs, commodities, indices, and private companies.",
-    "importance": 6,
-    "classified": true
-  },
-  {
     "title": "Robinhood Chain TVL surges 45% in August as tokenized RWAs lose ground",
     "link": "https://www.theblock.co/news/ecosystems/2026-08-17-robinhood-chain-tvl-surges-45-august-tokenized-rwas-lose-ground-411998",
     "pubDate": "Mon, 17 Aug 2026 22:26:02 +0000",
@@ -1412,6 +1388,18 @@
     "content": "Strategy's total holdings account for around 4% of the 21 million bitcoin supply cap — worth roughly $53.4 billion.",
     "image": "https://www.tbstat.com/wp/uploads/2025/03/20250304_Strategy_News_2-1200x675.jpg",
     "summary": "The investment strategy sold $334 million worth of MicroStrategy (MSTR) shares and has not made any bitcoin purchases or sales, while its USD reserve grew to $4.8 billion. Its holdings now represent about 4% of the total 21 million bitcoin supply, valued at roughly $53.4 billion.",
+    "importance": 6,
+    "classified": true
+  },
+  {
+    "title": "Bitcoin’s Wild Swings Go Quiet, Even as the Bears Won’t Let Go",
+    "link": "https://bitcoinmagazine.com/news/bitcoin-volatility-dampens-vaneck",
+    "pubDate": "Tue, 18 Aug 2026 18:30:04 +0000",
+    "source": "Bitcoin Magazine",
+    "category": "crypto",
+    "content": "Bitcoin Magazine\n\nBitcoin’s Wild Swings Go Quiet, Even as the Bears Won’t Let Go\nBitcoin's volatility has dampened significantly, according to new VanEck research. \nThis post Bitcoin’s Wild Swings Go Quiet, Even as the Bears Won’t Let Go first appeared on Bitcoin Magazine and is written by Mathew Di Salvo.",
+    "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/08/Bitcoins-Wild-Swings-Go-Quiet-Even-as-the-Bears-Wont-Let-Go.jpg",
+    "summary": "Bitcoin's volatility has significantly decreased according to new research by VanEck, despite continued bearish sentiment in the market. The article discusses the current state of Bitcoin's price stability and the persistent pessimism among investors.",
     "importance": 6,
     "classified": true
   },
@@ -1476,18 +1464,6 @@
     "classified": true
   },
   {
-    "title": "Kog is going deeper to squeeze more inference out of GPUs",
-    "link": "https://techcrunch.com/2026/08/14/kog-is-going-deeper-to-squeeze-more-inference-out-of-gpus/",
-    "pubDate": "Fri, 14 Aug 2026 14:50:11 +0000",
-    "source": "TechCrunch AI",
-    "category": "ai",
-    "content": "The idea that GPUs are poorly suited for agentic workflows may be a misconception, according to French startup Kog.",
-    "image": "",
-    "summary": "French startup Kog is working to optimize GPU performance for agentic workflows, challenging the notion that GPUs are poorly suited for such tasks. This could lead to more efficient inference and improved performance. Kog's efforts aim to squeeze more out of existing GPU capabilities.",
-    "importance": 6,
-    "classified": true
-  },
-  {
     "title": "ChatGPT is getting a dedicated mode for teens",
     "link": "https://www.theverge.com/ai-artificial-intelligence/981333/openai-chatgpt-teen-mode",
     "pubDate": "2026-08-18T11:00:00.000Z",
@@ -1536,6 +1512,30 @@
     "classified": true
   },
   {
+    "title": "Federal prosecutors blast ex-Celsius CEO’s motion to vacate as ‘without merit’",
+    "link": "https://cointelegraph.com/news/us-prosecutors-celsius-ceo-alex-mashinsky-motion-vacate-deny?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Tue, 18 Aug 2026 16:49:58 +0000",
+    "source": "Cointelegraph",
+    "category": "crypto",
+    "content": "Despite already serving a 12-year sentence in federal prison, Alex Mashinsky continues to explore legal avenues to vacate his conviction related to activities at Celsius.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/interviewalex-mashinsky2-1.jpg",
+    "summary": "Former Celsius CEO Alex Mashinsky, already serving a 12-year prison sentence, is attempting to challenge his conviction through legal motions, which federal prosecutors have dismissed as meritless. His ongoing efforts highlight continued legal battles despite his incarceration.",
+    "importance": 5,
+    "classified": true
+  },
+  {
+    "title": "Bitcoin tags $65K as S&P 500 rebounds from 2-week lows on US-Iran rhetoric",
+    "link": "https://cointelegraph.com/markets/bitcoin-tags-65k-as-sp-500-rebounds-from-2-week-lows-on-us-iran-rhetoric?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Tue, 18 Aug 2026 15:27:13 +0000",
+    "source": "Cointelegraph",
+    "category": "crypto",
+    "content": "Bitcoin returned to $65,000 for the first time in a week as fresh BTC price volatility accompanied US claims that the Strait of Hormuz was “open and operating.”",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-bitcoins-are-flash-green.jpg",
+    "summary": "Bitcoin surged back to $65,000 amid volatility, driven by US-Iran tensions over the Strait of Hormuz being declared 'open and operating.' The S&P 500 also rebounded from a two-week low, reflecting broader market reactions to geopolitical developments.",
+    "importance": 5,
+    "classified": true
+  },
+  {
     "title": "Cathie Wood’s Ark Invest scoops up $15 million in Block Inc shares as stock dips 3%",
     "link": "https://www.theblock.co/news/markets/2026-08-18-cathie-wood-ark-invest-15-million-block-inc-412060",
     "pubDate": "Tue, 18 Aug 2026 07:37:40 +0000",
@@ -1560,18 +1560,6 @@
     "classified": true
   },
   {
-    "title": "Strategy Goes Another Week Without Buying — Or Selling — Bitcoin, Builds Up Cash Reserve ",
-    "link": "https://bitcoinmagazine.com/news/strategy-goes-another-week-without-buying",
-    "pubDate": "Mon, 17 Aug 2026 14:23:17 +0000",
-    "source": "Bitcoin Magazine",
-    "category": "crypto",
-    "content": "Bitcoin Magazine\n\nStrategy Goes Another Week Without Buying — Or Selling — Bitcoin, Builds Up Cash Reserve \nStrategy last week sold MSTR shares for approximately $333.7 million and did not buy or sell any Bitcoin.\nThis post Strategy Goes Another Week Without Buying — Or Selling — Bitcoin, Builds Up Cash Reserve  first appeared on Bitcoin Magazine and is written by Mathew Di Salvo.",
-    "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/06/Strategy-MSTR-Sells-Bitcoin-for-First-Time-in-Years-as-Bitcoin-Price-Tumbles.jpg",
-    "summary": "The article reports that a particular investment strategy refrained from buying or selling Bitcoin for another week, focusing instead on increasing its cash reserves after selling approximately $333.7 million worth of MicroStrategy (MSTR) shares. No new Bitcoin transactions were made during this period.",
-    "importance": 5,
-    "classified": true
-  },
-  {
     "title": "Bitcoin production slips again in July for CleanSpark, BitFuFu and Canaan",
     "link": "https://www.theblock.co/news/business/2026-08-17-bitcoin-production-slips-again-july-cleanspark-bitfufu-canaan-411985",
     "pubDate": "Mon, 17 Aug 2026 17:13:59 +0000",
@@ -1580,6 +1568,18 @@
     "content": "CleanSpark is up 6.4% year to date, while BitFuFu and Canaan have fallen more than 50% and 70%, respectively.",
     "image": "https://www.tbstat.com/wp/uploads/2023/12/20231204_BitcoinMining_News-1200x675.jpg",
     "summary": "Bitcoin production decreased in July for CleanSpark, BitFuFu, and Canaan, with CleanSpark seeing a 6.4% year-to-date gain while BitFuFu and Canaan experienced declines of over 50% and 70%, respectively.",
+    "importance": 4,
+    "classified": true
+  },
+  {
+    "title": "Bitcoin as Digital Real Estate: An Excerpt from Leon Wankum’s Digital Real Estate",
+    "link": "https://bitcoinmagazine.com/bitcoin-books/bitcoin-as-digital-real-estate-an-excerpt-from-leon-wankums-digital-real-estate",
+    "pubDate": "Tue, 18 Aug 2026 17:55:43 +0000",
+    "source": "Bitcoin Magazine",
+    "category": "crypto",
+    "content": "Bitcoin Magazine\n\nBitcoin as Digital Real Estate: An Excerpt from Leon Wankum’s Digital Real Estate\nExplore how Bitcoin can be understood as digital real estate, combining absolute scarcity, global portability, and a growing economic network to create a new framework for storing and transferring value.\nThis post Bitcoin as Digital Real Estate: An Excerpt from Leon Wankum’s Digital Real Estate first appeared on Bitcoin Magazine and is written by Leon Wankum.",
+    "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/08/ChatGPT-Image-Aug-18-2026-12_52_29-PM.png",
+    "summary": "The article discusses Bitcoin as a form of digital real estate, highlighting its scarcity, portability, and growing economic network as key attributes for storing and transferring value. It is an excerpt from Leon Wankum’s book 'Digital Real Estate.'",
     "importance": 4,
     "classified": true
   },
@@ -1596,7 +1596,7 @@
     "classified": true
   },
   {
-    "title": "Elon Musk made flying even worse so Palantir could profit",
+    "title": "Elon Musk broke the FAA — Palantir is picking up the pieces",
     "link": "https://www.theverge.com/transportation/981194/faa-air-traffic-elon-musk-peter-thiel-palantir",
     "pubDate": "2026-08-18T11:00:00.000Z",
     "source": "The Verge AI",
