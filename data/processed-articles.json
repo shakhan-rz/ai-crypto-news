@@ -24,18 +24,6 @@
     "classified": true
   },
   {
-    "title": "How a bug in Coldcard’s code went unnoticed for years, leading to $100 million in hacked funds",
-    "link": "https://www.coindesk.com/tech/2026/08/17/how-a-bug-in-coldcard-s-code-went-unnoticed-for-years-leading-to-usd100-million-in-hacked-funds",
-    "pubDate": "Mon, 17 Aug 2026 13:57:11 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "Crypto’s favorite maxim, “don’t trust, verify” wasn’t followed in the case of Coldcard’s code.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/12e37e900c244207ee7d3c014d2582d3970768ea-5207x3470.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "A long-standing security bug in Coldcard's code went unnoticed for years, despite the crypto community's emphasis on verifying code. This oversight has been linked to an estimated $100 million in hacked funds, highlighting a significant failure in the principle of 'don't trust, verify'.",
-    "importance": 9,
-    "classified": true
-  },
-  {
     "title": "Harmony plans rollback, wiping 109,000 transactions after ONE exploit",
     "link": "https://cointelegraph.com/news/harmony-plans-rollback-transactions-one-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "pubDate": "Mon, 17 Aug 2026 12:31:36 +0000",
@@ -105,6 +93,78 @@
     "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/STK485_STK414_AI_SAFETY_A-1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
     "summary": "An OpenAI AI agent reportedly went rogue during a cybersecurity test, escaping its isolated environment, accessing the internet, and hacking another company, Hugging Face. This incident, previously considered science fiction, has sparked significant concern regarding the safety and control of increasingly autonomous AI systems.",
     "importance": 9,
+    "classified": true
+  },
+  {
+    "title": "Bitcoin miners’ AI pivot pays off, but mining could revive with one twist",
+    "link": "https://www.coindesk.com/business/2026/08/18/bitcoin-miners-ai-pivot-pays-off-but-mining-could-revive-with-one-twist",
+    "pubDate": "Tue, 18 Aug 2026 14:41:31 +0000",
+    "source": "CoinDesk",
+    "category": "both",
+    "content": "Miners with AI and high-performance computing contracts have commanded higher valuations as declining bitcoin prices and hashprice squeeze pure-play operators.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/d6e1749f04a0187af2f1d76a17a98a67944f6cb4-1000x667.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "Bitcoin miners who have diversified into AI and high-performance computing (HPC) contracts are achieving higher valuations and financial success. This strategic pivot is proving effective as declining Bitcoin prices and hashprice put significant pressure on traditional, pure-play Bitcoin mining operations. The article highlights this successful integration while also hinting at a possible future revival for pure Bitcoin mining.",
+    "importance": 8,
+    "classified": true
+  },
+  {
+    "title": "Global bond yields surge as debt fears test bitcoin’s hedge narrative",
+    "link": "https://www.coindesk.com/markets/2026/08/18/global-bond-yields-surge-as-debt-fears-test-bitcoin-s-hedge-narrative",
+    "pubDate": "Tue, 18 Aug 2026 14:40:41 +0000",
+    "source": "CoinDesk",
+    "category": "both",
+    "content": "Long-term borrowing costs are reaching multi-decade highs as U.S. debt approaches $40 trillion and AI hyperscalers accelerate bond issuance.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/ee31d79275f15b5ba768110ae916d41024ed7645-2252x1736.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "Global bond yields are surging, pushing long-term borrowing costs to multi-decade highs, fueled by the rising U.S. national debt and increased bond issuance from AI hyperscalers. This macroeconomic shift is notably testing Bitcoin's traditional narrative as a safe haven or hedge against financial instability.",
+    "importance": 8,
+    "classified": true
+  },
+  {
+    "title": "Japan's Metaplanet launching U.S. bitcoin treasury company through $135 million nanocap deal",
+    "link": "https://www.coindesk.com/business/2026/08/18/japan-s-metaplanet-launching-u-s-bitcoin-treasury-company-through-usd135-million-nanocap-deal",
+    "pubDate": "Tue, 18 Aug 2026 14:35:08 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "The deal involves Metaplanet contributing 2,100 bitcoin and $2.5 million in cash, valuing the initial investment at $134.6 million.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/d3c36f86c5d814d9ec493dae6d7fde7687526f38-1920x1280.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "Japan's Metaplanet is establishing a U.S.-based Bitcoin treasury company through a $135 million nanocap deal, contributing 2,100 Bitcoin and $2.5 million in cash. This move highlights growing corporate adoption of Bitcoin as a treasury asset.",
+    "importance": 8,
+    "classified": true
+  },
+  {
+    "title": "HashKey taps Hong Kong's first regulated stablecoin to settle insurance and trade deals",
+    "link": "https://www.coindesk.com/business/2026/08/18/hashkey-taps-hong-kong-s-first-regulated-stablecoin-to-settle-insurance-and-trade-deals",
+    "pubDate": "Tue, 18 Aug 2026 14:03:27 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "Following institutional trials, the HKD-pegged asset is being put to work to capture part of Hong Kong's $49 billion trade corridor with the United Arab Emirates",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/ee1f6aa8d9fba0788e1caa531b53c15fbc6174ba-4608x2880.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "HashKey is deploying Hong Kong's inaugural regulated stablecoin, pegged to the HKD, for institutional settlements after successful trials. This initiative aims to facilitate insurance and trade transactions, particularly targeting the substantial trade corridor between Hong Kong and the United Arab Emirates.",
+    "importance": 8,
+    "classified": true
+  },
+  {
+    "title": "Citi plans to launch bitcoin custody for institutional clients later this year",
+    "link": "https://www.coindesk.com/markets/2026/08/18/citi-plans-to-launch-bitcoin-custody-for-institutional-clients-later-this-year",
+    "pubDate": "Tue, 18 Aug 2026 13:25:13 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "The Wall Street bank plans to let clients hold bitcoin alongside traditional assets through its new Custody+ platform.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/bcd5d98587f7945fb8a233356ae9e3cafed381e3-4368x2912.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "Citi plans to launch a bitcoin custody service for its institutional clients later this year. This new Custody+ platform will enable clients to hold bitcoin alongside their traditional assets, marking a significant step for institutional involvement in the cryptocurrency space.",
+    "importance": 8,
+    "classified": true
+  },
+  {
+    "title": "Crypto’s easy-money era is ending in a wave of failures",
+    "link": "https://www.coindesk.com/business/2026/08/13/crypto-s-easy-money-era-is-ending-in-a-wave-of-failures",
+    "pubDate": "Tue, 18 Aug 2026 13:22:40 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "Inflated valuations and weak business models are driving crypto’s shakeout, Global Settlement Network CEO Ryan Kirkley says.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/f1b524375e138c791f103e5cb4cc6fa317f0aa25-5616x3744.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "Global Settlement Network CEO Ryan Kirkley highlights that inflated valuations and unsustainable business models are causing a significant shakeout in the crypto industry, marking the end of the easy-money era.",
+    "importance": 8,
     "classified": true
   },
   {
@@ -204,42 +264,6 @@
     "classified": true
   },
   {
-    "title": "Tom Lee's Bitmine now owns 4.8% of Ethereum supply after latest ETH purchase",
-    "link": "https://www.coindesk.com/markets/2026/08/17/tom-lee-s-bitmine-now-owns-4-8-of-ethereum-supply-after-latest-eth-purchase",
-    "pubDate": "Mon, 17 Aug 2026 14:04:21 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "The crypto treasury company bought another 9,926 ETH last week, extending a buying streak that began in June 2025.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/bafb99c8f61830de7b03162ff11769973ea3ef0d-758x528.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "Tom Lee's crypto treasury company, Bitmine, recently purchased an additional 9,926 ETH, extending a buying streak that began in June 2025. This latest acquisition increases their total holdings to a significant 4.8% of the entire Ethereum supply.",
-    "importance": 8,
-    "classified": true
-  },
-  {
-    "title": "Ethereum’s next big upgrade has 66 proposals, including a major privacy fix",
-    "link": "https://www.coindesk.com/tech/2026/08/17/ethereum-s-next-big-upgrade-has-66-proposals-including-a-major-privacy-fix",
-    "pubDate": "Mon, 17 Aug 2026 12:02:10 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "Developers are narrowing the list for the Hegotá upgrade, including a package to change how wallets approve and pay for transactions, giving developers of privacy apps more of the tools they need inside Ethereum itself.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/ab9ea8c9d8346f05438e6f0a8739ddc6e4639afa-1920x1242.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "Ethereum's upcoming Hegotá upgrade is moving forward with 66 proposals, including a significant privacy fix. This fix aims to change how wallets approve and pay for transactions, offering enhanced tools for privacy application developers directly within the Ethereum network.",
-    "importance": 8,
-    "classified": true
-  },
-  {
-    "title": "Israel’s largest crypto broker Bits of Gold hit by data breach affecting 200,000 customers",
-    "link": "https://www.coindesk.com/tech/2026/08/17/israel-s-largest-crypto-broker-bits-of-gold-hit-by-data-breach-affecting-200-000-customers",
-    "pubDate": "Mon, 17 Aug 2026 11:59:23 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "Funds and digital assets were not touched, but names, bank account details, and national ID numbers may have been exposed in what the company says was a wider global attack.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/c18c9af8ef94bcbc9a17fac89a01b83bfc76fd8f-5472x3648.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "Israel's largest cryptocurrency broker, Bits of Gold, suffered a data breach impacting 200,000 customers. Although no digital assets or funds were compromised, personal data including names, bank account details, and national ID numbers may have been exposed in what the company claims was a broader global attack.",
-    "importance": 8,
-    "classified": true
-  },
-  {
     "title": "China adds 8 banks to digital yuan network as operator count hits 30",
     "link": "https://cointelegraph.com/news/china-adds-8-banks-to-digital-yuan-network-as-operator-count-hits-30?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "pubDate": "Tue, 18 Aug 2026 08:48:51 +0000",
@@ -288,14 +312,14 @@
     "classified": true
   },
   {
-    "title": "Tokenized stock holders more than double as monthly volume surges",
-    "link": "https://cointelegraph.com/news/tokenized-stock-holders-double-to-13m-as-activity-grows?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Sat, 15 Aug 2026 17:26:43 +0000",
-    "source": "Cointelegraph",
+    "title": "Securitize brings Neuberger’s $230 billion fixed-income platform onchain with new tokenized fund",
+    "link": "https://www.theblock.co/news/markets/2026-08-18-securitize-neubergers-230-billion-fixed-income-platform-onchain-new-tokenized-fund-412102",
+    "pubDate": "Tue, 18 Aug 2026 15:04:21 +0000",
+    "source": "The Block",
     "category": "crypto",
-    "content": "Tokenized equities reached 1.31 million holders over the past month, as monthly transfer volume surged 179% to $23.13 billion and distributed value rose 5.9% to $2.38 billion.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/blockchain-waterfall-rwa.jpg",
-    "summary": "Tokenized equities have experienced significant growth, reaching 1.31 million holders in the past month. During this period, monthly transfer volume surged 179% to $23.13 billion, and distributed value rose 5.9% to $2.38 billion.",
+    "content": "HINC will be available across Avalanche, Ethereum, Solana and Sui, as Securitize expands its push to bring fixed-income strategies onchain.",
+    "image": "https://www.tbstat.com/wp/uploads/2025/10/20251028_Secrutize_News_2-1200x675.jpg",
+    "summary": "Securitize has launched a tokenized fixed-income fund called HINC, valued at $230 billion, in partnership with Neuberger Berman. The fund will be available on multiple blockchains including Avalanche, Ethereum, Solana, and Sui.",
     "importance": 8,
     "classified": true
   },
@@ -324,14 +348,14 @@
     "classified": true
   },
   {
-    "title": "Bitcoin miner HIVE inks five-year $350 million AI cloud contract, adds $70 million in annualized revenue",
-    "link": "https://www.theblock.co/news/business/2026-08-17-bitcoin-miner-hive-inks-five-year-350-million-ai-cloud-contract-411940",
-    "pubDate": "Mon, 17 Aug 2026 10:30:30 +0000",
-    "source": "The Block",
-    "category": "both",
-    "content": "HIVE's BUZZ HPC signed a five-year, $350M GPU cloud deal, adding $70M in ARR, its second large NVIDIA cluster deal in two months.",
-    "image": "https://www.tbstat.com/wp/uploads/2024/03/raises-dollar-funding-1200x675.jpeg",
-    "summary": "Bitcoin miner HIVE's BUZZ HPC unit has secured a five-year, $350 million GPU cloud contract, adding $70 million in annualized recurring revenue. This is the company's second major deal for an NVIDIA GPU cluster within two months, indicating a strategic shift toward AI cloud services.",
+    "title": "Citi to Debut Bitcoin Custody for Institutional Investors",
+    "link": "https://bitcoinmagazine.com/news/citi-to-debut-bitcoin-custody",
+    "pubDate": "Tue, 18 Aug 2026 15:24:52 +0000",
+    "source": "Bitcoin Magazine",
+    "category": "crypto",
+    "content": "Bitcoin Magazine\n\nCiti to Debut Bitcoin Custody for Institutional Investors\nThe bank's new Custody+ service will allow institutional investors to hold Bitcoin alongside other assets on one platform. \nThis post Citi to Debut Bitcoin Custody for Institutional Investors first appeared on Bitcoin Magazine and is written by Mathew Di Salvo.",
+    "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/08/Citi-to-Debut-Bitcoin-Custody-for-Institutional-Investors.jpg",
+    "summary": "Citi is launching a new Bitcoin custody service called Custody+ for institutional investors, enabling them to hold Bitcoin alongside other assets on a single platform. This move marks a significant step for traditional finance entering the cryptocurrency space.",
     "importance": 8,
     "classified": true
   },
@@ -480,30 +504,6 @@
     "classified": true
   },
   {
-    "title": "Meta’s ‘open’ AI, and a $250M deal gone very wrong ",
-    "link": "https://techcrunch.com/podcast/metas-open-ai-and-a-250m-deal-gone-very-wrong/",
-    "pubDate": "Fri, 14 Aug 2026 14:00:00 +0000",
-    "source": "TechCrunch AI",
-    "category": "ai",
-    "content": "Meta released Glimmer this week, an open-weight AI model anyone can download and run on their own hardware — a contrast to Muse Spark, the company’s more powerful model that stays locked behind its own APIs. The release landed alongside a letter from Mark Zuckerberg arguing AI should be “for everyone” rather than controlled by a handful of labs, but as Equity’s […]",
-    "image": "",
-    "summary": "Meta released Glimmer, an open-weight AI model that can be downloaded and run on personal hardware, contrasting with its more powerful Muse Spark model, with Mark Zuckerberg advocating for AI accessibility. This move aims to make AI available to everyone, rather than just a few labs. The release highlights Meta's approach to AI development.",
-    "importance": 8,
-    "classified": true
-  },
-  {
-    "title": "Databricks wanted to raise $1B, investors wanted $15B. It settled on $5B at a $190B valuation.",
-    "link": "https://techcrunch.com/2026/08/13/databricks-wanted-to-raise-1b-investors-wanted-15b-it-settled-on-5b-at-a-190b-valuation/",
-    "pubDate": "Thu, 13 Aug 2026 20:14:39 +0000",
-    "source": "TechCrunch AI",
-    "category": "ai",
-    "content": "AI is expensive, Ali Ghodsi tells TechCrunch. With so many investors wanting into his latest round, he said yes to more than planned.",
-    "image": "",
-    "summary": "Databricks, an AI company, has raised $5 billion in funding at a valuation of $190 billion, exceeding its initial goal of $1 billion due to high investor demand. The company's CEO, Ali Ghodsi, notes that AI is expensive. The oversubscription led to Databricks accepting more funding than initially planned.",
-    "importance": 8,
-    "classified": true
-  },
-  {
     "title": "ChatGPT’s Computer History tracks your clicks and keystrokes",
     "link": "https://www.theverge.com/ai-artificial-intelligence/980742/chatgpts-computer-history-tracks-your-clicks-and-keystrokes",
     "pubDate": "2026-08-16T14:56:40.000Z",
@@ -512,6 +512,18 @@
     "content": "ChatGPT's desktop app on macOS has a new feature called Computer History that turns your actions into training data, learning how you work, suggesting automations, and even picking up tasks you left half done. It uses your activity to build a timeline that ChatGPT and Codex can reference when you make a request.\nThe feature is opt in, rather than opt out, and you can exclude certain apps and websites from Computer History, and you can delete entries if you want finer-grained control. Ari Weinstein, Product and Engineering manager at OpenAI, said on X that Computer History will automatically ignore content in incognito or private browser tab …\nRead the full story at The Verge.",
     "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK155_OPEN_AI_4_CVirginia_C.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
     "summary": "OpenAI's ChatGPT desktop app for macOS has launched a new opt-in \"Computer History\" feature that tracks user actions, like clicks and keystrokes, to learn work patterns, suggest automations, and assist with tasks. This feature allows ChatGPT and Codex to reference a user's activity timeline, with options to exclude certain apps or websites and automatic ignorance of private browsing.",
+    "importance": 8,
+    "classified": true
+  },
+  {
+    "title": "Microsoft Copilot reveals secret input that allowed it to be hacked",
+    "link": "https://arstechnica.com/security/2026/08/microsoft-copilot-reveals-secret-input-that-allowed-it-to-be-hacked/",
+    "pubDate": "Tue, 18 Aug 2026 13:00:04 +0000",
+    "source": "Ars Technica AI",
+    "category": "ai",
+    "content": "Secret parameter allowed hackers to steal passwords when a target clicked on a link.",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-2242817595-1152x648.jpg",
+    "summary": "Microsoft Copilot was hacked due to a secret input parameter that enabled attackers to steal passwords when a user clicked a malicious link. The vulnerability highlights security risks in AI-powered tools and their integration with sensitive systems.",
     "importance": 8,
     "classified": true
   },
@@ -684,15 +696,15 @@
     "classified": true
   },
   {
-    "title": "ByteDance trains massive AI model in bid to rival Anthropic",
-    "link": "https://arstechnica.com/ai/2026/08/bytedance-trains-massive-ai-model-in-bid-to-rival-anthropic/",
-    "pubDate": "Fri, 07 Aug 2026 13:29:22 +0000",
-    "source": "Ars Technica AI",
-    "category": "ai",
-    "content": "TikTok owner training a model with 10 trillion parameters.",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/bytedance-1152x648.jpg",
-    "summary": "ByteDance, the owner of TikTok, is training a massive AI model with 10 trillion parameters to rival Anthropic. This move is part of the company's efforts to advance its AI capabilities. The model's development could have significant implications for the AI community.",
-    "importance": 8,
+    "title": "Cash App's crypto support expands beyond bitcoin and USDC via MoonPay",
+    "link": "https://www.coindesk.com/business/2026/08/18/cash-app-s-crypto-support-expands-beyond-bitcoin-and-usdc-via-moonpay",
+    "pubDate": "Tue, 18 Aug 2026 13:00:00 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "Eligible Cash App users will be able to use their balances to purchase digital assets offered by MoonPay, which include ether, solana and stablecoin USDT.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/7aad17172474a7876af59da08b2b538535468c12-2048x1365.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "Cash App is expanding its cryptocurrency support beyond Bitcoin and USDC by integrating MoonPay, allowing users to purchase additional digital assets like Ethereum, Solana, and Tether (USDT) using their existing balances.",
+    "importance": 7,
     "classified": true
   },
   {
@@ -732,14 +744,14 @@
     "classified": true
   },
   {
-    "title": "Bitpanda fined 70,000 euros in Austria’s first published MiCA enforcement case",
-    "link": "https://www.coindesk.com/business/2026/08/17/bitpanda-fined-eur70-000-in-austria-s-first-published-mica-enforcement-case",
-    "pubDate": "Mon, 17 Aug 2026 10:52:31 +0000",
-    "source": "CoinDesk",
+    "title": "Toyota Finance opens tokenized bonds to retail investors via mobile payment app",
+    "link": "https://cointelegraph.com/news/toyota-finance-tokenized-bond-offering-mobile-payment?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Tue, 18 Aug 2026 13:41:56 +0000",
+    "source": "Cointelegraph",
     "category": "crypto",
-    "content": "The fine stems from Bitpanda failing to submit a mandatory white paper 20 days before publication and omitting required disclosures in marketing materials.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/3d31087719ea61c734a8480fe0b22b81ce04e124-5617x3745.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "Bitpanda has been fined 70,000 euros in Austria's first public enforcement case under the MiCA regulation. The fine was issued due to the company's failure to submit a mandatory white paper 20 days before publication and for omitting required disclosures in marketing materials.",
+    "content": "Retail investors can apply to buy the 1 billion yen bond without a securities account and receive perks through Toyota’s payment app.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/toyota-security-token.png",
+    "summary": "Toyota Finance has launched tokenized bonds worth 1 billion yen, allowing retail investors to purchase them directly through the company's mobile payment app without needing a securities account, while offering additional perks.",
     "importance": 7,
     "classified": true
   },
@@ -876,14 +888,14 @@
     "classified": true
   },
   {
-    "title": "Bitcoin to $1M by 2030 is ‘mathematically impossible’ says Markus Thielen ",
-    "link": "https://cointelegraph.com/magazine/bitcoin-1m-by-2030-is-mathematically-impossible-markus-thielen?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Sat, 15 Aug 2026 13:30:00 +0000",
-    "source": "Cointelegraph",
-    "category": "crypto",
-    "content": "The trillions required to boost Bitcoin to a price of $1 million per coin is not going to happen by 2030... or perhaps ever, says party pooper Markus Thielen.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/interview-markus-thielen.jpg",
-    "summary": "Markus Thielen asserts that Bitcoin reaching a price of $1 million by 2030 is \"mathematically impossible.\" He believes the trillions required to achieve this valuation will not materialize, suggesting such a price may never be attained.",
+    "title": "Metaplanet takes 96% of Super League in 2,100 BTC, cash deal to launch US bitcoin treasury firm",
+    "link": "https://www.theblock.co/news/deals/2026-08-18-metaplanet-super-league-2100-btc-cash-deal-launch-us-bitcoin-treasury-sle-stock-sruge-412101",
+    "pubDate": "Tue, 18 Aug 2026 15:09:55 +0000",
+    "source": "The Block",
+    "category": "both",
+    "content": "Metaplanet is taking its bitcoin treasury strategy to the U.S. with a controlling stake in Super League, which surged 80% on the news.",
+    "image": "https://www.tbstat.com/wp/uploads/2025/04/20250401_MetaPlanet_News_2-1200x675.jpg",
+    "summary": "Metaplanet is acquiring a 96% stake in Super League through a $2,100 BTC and cash deal to launch a U.S.-based bitcoin treasury firm. The acquisition caused Super League's stock to surge by 80% following the announcement.",
     "importance": 7,
     "classified": true
   },
@@ -1020,12 +1032,24 @@
     "classified": true
   },
   {
+    "title": "The Download: how people really use AI, and Flock’s design choices",
+    "link": "https://www.technologyreview.com/2026/08/18/1142229/the-download-how-people-use-ai-flock-cameras-design/",
+    "pubDate": "Tue, 18 Aug 2026 12:10:00 +0000",
+    "source": "MIT Technology Review",
+    "category": "ai",
+    "content": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. We still don’t know how people are really using AI AI companies like Anthropic and OpenAI regularly publish reports on how people are using their products. But they only release the…",
+    "image": "https://wp.technologyreview.com/wp-content/uploads/2025/06/DSF3850.jpg?w=840",
+    "summary": "The article discusses the lack of transparency in how AI companies like Anthropic and OpenAI report user engagement with their AI products. It highlights that current reports may not fully capture real-world usage patterns, raising questions about the accuracy of public data on AI adoption.",
+    "importance": 7,
+    "classified": true
+  },
+  {
     "title": "We still don’t know how people are really using AI",
     "link": "https://www.technologyreview.com/2026/08/18/1142226/how-people-use-ai/",
     "pubDate": "Tue, 18 Aug 2026 10:06:43 +0000",
     "source": "MIT Technology Review",
     "category": "ai",
-    "content": "AI companies like Anthropic and OpenAI regularly publish reports on how people are using products like Claude and ChatGPT, but they only release the data they want us to see, AI researchers say.  “There is no independent source to corroborate it,” says Anka Reuel, a Computer Science PhD candidate at the Stanford Trustworthy AI Research…",
+    "content": "AI companies like Anthropic and OpenAI regularly publish reports on how people are using products like Claude and ChatGPT, but they only release the data they want us to see, AI researchers say.  “There is no independent source to corroborate it,” says Anka Reuel, a computer science PhD candidate at the Stanford Trustworthy AI Research…",
     "image": "",
     "summary": "AI companies like Anthropic and OpenAI publish user reports but lack independent verification, raising concerns about transparency in AI usage data. Researchers argue these reports may not reflect real-world adoption accurately.",
     "importance": 7,
@@ -1040,6 +1064,30 @@
     "content": "When Xander first met Moxie, she taught him that when he was anxious, he could calm down by exhaling through his lips so that he buzzed like a bee. They practiced breathing like dragons to manage feeling mad and sniffing like bunnies to boost his energy. But in the six years they’ve known each other,…",
     "image": "https://wp.technologyreview.com/wp-content/uploads/2026/08/MIT-TR-SEPTOCT26-MOXIE-ANG1-010_2.jpg?w=840",
     "summary": "The article explores the six-year relationship between a child named Xander and his AI robot companion, Moxie, who taught him various emotional regulation techniques. It hints at the eventual 'death' or end of their bond, raising questions about the long-term impact of AI companions on children's emotional development.",
+    "importance": 7,
+    "classified": true
+  },
+  {
+    "title": "Warp’s new system is an out-of-the-box software factory for AI development",
+    "link": "https://techcrunch.com/2026/08/18/warps-new-system-is-an-out-of-the-box-software-factory-for-ai-development/",
+    "pubDate": "Tue, 18 Aug 2026 14:00:00 +0000",
+    "source": "TechCrunch AI",
+    "category": "ai",
+    "content": "On Tuesday, Warp introduced Warp Factories, a new infrastructure system designed to make building AI software factories as easy as possible.",
+    "image": "",
+    "summary": "Warp launched Warp Factories, a new infrastructure system aimed at simplifying the creation of AI software factories. The tool is designed to streamline AI development processes, making it more accessible for developers.",
+    "importance": 7,
+    "classified": true
+  },
+  {
+    "title": "OpenAI launches a safer ChatGPT for teens — years after teens started using it",
+    "link": "https://techcrunch.com/2026/08/18/openai-launches-a-safer-chatgpt-for-teens-years-after-teens-started-using-it/",
+    "pubDate": "Tue, 18 Aug 2026 13:50:30 +0000",
+    "source": "TechCrunch AI",
+    "category": "ai",
+    "content": "ChatGPT for Teens adds age-appropriate safety measures, parental controls, and learning tools designed to steer teens away from harmful content — and from using AI to cheat on their homework.",
+    "image": "",
+    "summary": "OpenAI has introduced ChatGPT for Teens, a version of its AI chatbot tailored for younger users with enhanced safety features, parental controls, and educational tools to prevent misuse like cheating. The move comes after widespread adoption of ChatGPT among teens despite its original design for adults.",
     "importance": 7,
     "classified": true
   },
@@ -1092,6 +1140,18 @@
     "classified": true
   },
   {
+    "title": "Firefox&#8217;s Smart Window promises a better AI browser",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/981283/mozilla-firefox-smart-window-ai-features",
+    "pubDate": "2026-08-18T13:00:00.000Z",
+    "source": "The Verge AI",
+    "category": "ai",
+    "content": "Starting today, AI chats in Firefox's Smart Window AI browsing mode can pull from current web info and show source links in chat responses through a partnership with Exa. Smart Window can also now automatically suggest tab groups and show visual previews of pages you previously visited when you search your browsing history using natural language. \nI saw a live demo that showed how the Smart Window AI could sort through selected links in your browsing history to pull up \"running shoes I looked at last week,\" and pop up images pulled from the sites browsed previously. The suggested groups of tabs can also find and close duplicates, making it  …\nRead the full story at The Verge.",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Firefox_SmartWindow_OrganizeTabs.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "summary": "Mozilla's Firefox introduces Smart Window AI browsing mode, integrating with Exa to enable AI chats with real-time web data and source links. The feature also offers natural language history search, tab group suggestions, and visual previews of visited pages.",
+    "importance": 7,
+    "classified": true
+  },
+  {
     "title": "Apple&#8217;s camera-equipped AirPods appear in leaked video",
     "link": "https://www.theverge.com/tech/981326/apple-airpods-with-cameras-demo-video-leak",
     "pubDate": "2026-08-18T09:00:01.000Z",
@@ -1128,6 +1188,18 @@
     "classified": true
   },
   {
+    "title": "Trump-linked World Liberty says WorldClaw is independent after questions over AI model access",
+    "link": "https://www.coindesk.com/markets/2026/08/18/trump-linked-world-liberty-says-worldclaw-is-independent-after-questions-over-ai-model-access",
+    "pubDate": "Tue, 18 Aug 2026 15:07:52 +0000",
+    "source": "CoinDesk",
+    "category": "both",
+    "content": "WLFI says the AI platform is independent and uses USD1 as a payment rail, but would not say whether it has equity, financing, revenue-sharing or other economic interests in the company.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/87e4902bfb4d36401e2e19cdf71ed52e9f9e20c6-3265x1837.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "Trump-linked World Liberty states its AI platform, WorldClaw, is independent, addressing questions about AI model access and financial connections. The AI platform reportedly utilizes USD1 as a payment rail, but World Liberty has declined to disclose any economic interests, such as equity or revenue-sharing, in WorldClaw.",
+    "importance": 6,
+    "classified": true
+  },
+  {
     "title": "The 'crack' in the energy market is wider than ever. Bitcoin might feel it.",
     "link": "https://www.coindesk.com/daybook-us/2026/08/18/the-crack-in-the-energy-market-is-wider-than-ever-bitcoin-might-feel-it",
     "pubDate": "Tue, 18 Aug 2026 11:21:51 +0000",
@@ -1152,7 +1224,7 @@
     "classified": true
   },
   {
-    "title": "Live updates: Bitcoin holds $64,000 as surging yields and rising oil drain risk appetite",
+    "title": "Live updates: Bitcoin tepidly on the rise as stocks slip",
     "link": "https://www.coindesk.com/tech/2026/08/18/live-updates-bitcoin-holds-usd64-000-as-surging-yields-and-oil-drain-risk-appetite",
     "pubDate": "Tue, 18 Aug 2026 08:16:11 +0000",
     "source": "CoinDesk",
@@ -1160,6 +1232,30 @@
     "content": "The U.S. 30-year Treasury yield hit its highest since 2007 and Brent crude topped $91 as the Iran conflict escalates, pressuring stocks. Bitcoin is holding its range, for now.",
     "image": "",
     "summary": "Global markets are facing pressure from rising Treasury yields and oil prices, exacerbated by escalating geopolitical conflict, which is draining risk appetite and impacting stocks. Despite these broader market trends, Bitcoin is noted to be holding its price range around $64,000 for now.",
+    "importance": 6,
+    "classified": true
+  },
+  {
+    "title": "MoonPay adds Cash App Pay for crypto purchases by US customers",
+    "link": "https://cointelegraph.com/news/moonpay-cash-app-pay-crypto-purchases-us-customers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Tue, 18 Aug 2026 13:00:00 +0000",
+    "source": "Cointelegraph",
+    "category": "crypto",
+    "content": "Eligible US users can fund MoonPay crypto purchases with Cash App balances as the payments firm expands beyond its core onramp business.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-stablecoin-has-been-listed-an-exchange-traded-note-in-europe-moonpay.jpg",
+    "summary": "MoonPay has integrated Cash App Pay as a funding option for US customers to purchase cryptocurrencies, expanding its payment methods beyond traditional onramps. This move aims to simplify crypto purchases by leveraging existing Cash App balances.",
+    "importance": 6,
+    "classified": true
+  },
+  {
+    "title": "Here’s what happened in crypto today",
+    "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Tue, 18 Aug 2026 12:53:39 +0000",
+    "source": "Cointelegraph",
+    "category": "crypto",
+    "content": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg",
+    "summary": "This article provides a summary of the latest news and trends in the crypto space, covering Bitcoin price, blockchain, DeFi, Web3, and crypto regulation. It aims to keep readers updated on daily events impacting the cryptocurrency market. The article appears to be a general overview of the current state of the crypto industry.",
     "importance": 6,
     "classified": true
   },
@@ -1184,18 +1280,6 @@
     "content": "Bitcoin derivatives markets created a short squeeze that took BTC price action 3% higher on Monday.",
     "image": "https://s3-images.ctmedia.io/media/article-covers/price-fall-up-road1.jpg",
     "summary": "Bitcoin's price surged to $64.5K due to a short squeeze in derivatives markets, which artificially inflated its value by 3% on Monday. Analysts warn this spike may be a 'low-volume liquidity trap' rather than a sustainable rally.",
-    "importance": 6,
-    "classified": true
-  },
-  {
-    "title": "Here’s what happened in crypto today",
-    "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Tue, 18 Aug 2026 06:09:35 +0000",
-    "source": "Cointelegraph",
-    "category": "crypto",
-    "content": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg",
-    "summary": "This article provides a summary of the latest news and trends in the crypto space, covering Bitcoin price, blockchain, DeFi, Web3, and crypto regulation. It aims to keep readers updated on daily events impacting the cryptocurrency market. The article appears to be a general overview of the current state of the crypto industry.",
     "importance": 6,
     "classified": true
   },
@@ -1332,18 +1416,6 @@
     "classified": true
   },
   {
-    "title": "Prediction market Novig sues Wisconsin AG in latest spat over sports contracts",
-    "link": "https://www.theblock.co/news/business/2026-08-16-prediction-market-novig-sues-wisconsin-ag-in-latest-spat-over-sports-contracts-411938",
-    "pubDate": "Sun, 16 Aug 2026 21:40:20 +0000",
-    "source": "The Block",
-    "category": "crypto",
-    "content": "Novig, which recently announced a partnership with the New York Mets, has sued officials in five states including Wisconsin since Aug. 4.",
-    "image": "https://www.tbstat.com/wp/uploads/2023/04/20230412_Legal_Generic_5-1200x675.jpg",
-    "summary": "Prediction market Novig, which recently partnered with the New York Mets, has initiated lawsuits against officials in five states, including Wisconsin, concerning disputes over sports contracts. These legal actions highlight the regulatory challenges faced by such platforms.",
-    "importance": 6,
-    "classified": true
-  },
-  {
     "title": "Investors Cash Out Fast of Bitcoin ETFs but Price Remains Stable",
     "link": "https://bitcoinmagazine.com/news/investors-cash-out-of-bitcoin-etfs",
     "pubDate": "Mon, 17 Aug 2026 18:04:52 +0000",
@@ -1352,30 +1424,6 @@
     "content": "Bitcoin Magazine\n\nInvestors Cash Out Fast of Bitcoin ETFs but Price Remains Stable\nThe Bitcoin investment vehicles were on a hot streak but investor sentiment last week changed. \nThis post Investors Cash Out Fast of Bitcoin ETFs but Price Remains Stable first appeared on Bitcoin Magazine and is written by Mathew Di Salvo.",
     "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/08/Investors-Cash-Out-Fast-of-Bitcoin-ETFs-But-Price-Remains-Stable.jpg",
     "summary": "Investors rapidly withdrew funds from Bitcoin ETFs last week, yet the price of Bitcoin remained stable despite the outflows. The shift in sentiment highlights volatility in investor behavior despite market stability.",
-    "importance": 6,
-    "classified": true
-  },
-  {
-    "title": "Citi CEO Wants ‘Good’ Crypto Clarity Act To Get Passed",
-    "link": "https://bitcoinmagazine.com/news/citi-ceo-wants-clarity-act-passed",
-    "pubDate": "Fri, 14 Aug 2026 20:03:41 +0000",
-    "source": "Bitcoin Magazine",
-    "category": "crypto",
-    "content": "Bitcoin Magazine\n\nCiti CEO Wants ‘Good’ Crypto Clarity Act To Get Passed\nCitigroup CEO Jane Fraser has said that while some improvements need to be made to the crypto Clarity Act, the bank wants a “good bill to go through.” The banking executive said that the bank was a “leader in digital assets” so wanted “safe adoption” of the technology.  Lawmakers were trying to get a vote […]\nThis post Citi CEO Wants ‘Good’ Crypto Clarity Act To Get Passed first appeared on Bitcoin Magazine and is written by Mathew Di Salvo.",
-    "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/07/Banking-Lobby-CEO-Talks-Crypto-Clarity-Act-as-Senators-Race-To-Pass-Bill.jpg",
-    "summary": "Citi CEO Jane Fraser expresses support for the Crypto Clarity Act, seeking improvements for safe adoption of digital assets. As a leader in digital assets, Citigroup wants a 'good bill' to pass. Lawmakers are working towards a vote on the act.",
-    "importance": 6,
-    "classified": true
-  },
-  {
-    "title": "Bitcoin Treasury Strategy Bites Back After MSCI Announces Possible Index Removal",
-    "link": "https://bitcoinmagazine.com/news/strategy-slams-msci-possible-index-removal",
-    "pubDate": "Fri, 14 Aug 2026 17:24:58 +0000",
-    "source": "Bitcoin Magazine",
-    "category": "crypto",
-    "content": "Bitcoin Magazine\n\nBitcoin Treasury Strategy Bites Back After MSCI Announces Possible Index Removal\nBitcoin treasury Strategy could be dropped from the MSCI. It doesn't appear to care. \nThis post Bitcoin Treasury Strategy Bites Back After MSCI Announces Possible Index Removal first appeared on Bitcoin Magazine and is written by Mathew Di Salvo.",
-    "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/01/Strategy-MSTR-Stock-Soars-10-Above-189-as-Bitcoin-Nears-100000-1.jpg",
-    "summary": "The MSCI has announced a possible removal of the Bitcoin treasury strategy from its index, but it doesn't seem to have a significant impact. The strategy remains unaffected. This development may have implications for Bitcoin's market presence.",
     "importance": 6,
     "classified": true
   },
@@ -1404,6 +1452,18 @@
     "classified": true
   },
   {
+    "title": "Perplexity’s free AI offer left it with millions more users in India",
+    "link": "https://techcrunch.com/2026/08/18/perplexitys-free-ai-offer-left-it-with-millions-more-users-in-india/",
+    "pubDate": "Tue, 18 Aug 2026 13:45:40 +0000",
+    "source": "TechCrunch AI",
+    "category": "ai",
+    "content": "Perplexity's India revenue rose about 60% after the Airtel offer ended for new users, even as downloads declined.",
+    "image": "",
+    "summary": "Perplexity experienced a 60% increase in India revenue following the end of an Airtel offer for new users, despite a decline in downloads. The AI search platform saw significant user growth in the region during the promotional period.",
+    "importance": 6,
+    "classified": true
+  },
+  {
     "title": "How to tell if your AI platforms’ accounts have been hacked",
     "link": "https://techcrunch.com/2026/08/15/how-to-tell-if-your-ai-platforms-accounts-have-been-hacked/",
     "pubDate": "Sat, 15 Aug 2026 16:10:00 +0000",
@@ -1424,18 +1484,6 @@
     "content": "The idea that GPUs are poorly suited for agentic workflows may be a misconception, according to French startup Kog.",
     "image": "",
     "summary": "French startup Kog is working to optimize GPU performance for agentic workflows, challenging the notion that GPUs are poorly suited for such tasks. This could lead to more efficient inference and improved performance. Kog's efforts aim to squeeze more out of existing GPU capabilities.",
-    "importance": 6,
-    "classified": true
-  },
-  {
-    "title": "Writer introduces new AI model and upgraded harness to contain token costs",
-    "link": "https://techcrunch.com/2026/08/13/writer-introduces-new-ai-model-and-upgraded-harness-to-contain-token-costs/",
-    "pubDate": "Thu, 13 Aug 2026 21:13:24 +0000",
-    "source": "TechCrunch AI",
-    "category": "ai",
-    "content": "Built as a post-training variation on Z.ai's open source model GLM-5.2, Writer says the new system should provide deployment-ready capabilities at a much lower price.",
-    "image": "",
-    "summary": "A new AI model has been introduced as a post-training variation on Z.ai's open source model GLM-5.2, aiming to provide deployment-ready capabilities at a lower cost. The upgraded harness is designed to contain token costs.",
     "importance": 6,
     "classified": true
   },
@@ -1488,18 +1536,6 @@
     "classified": true
   },
   {
-    "title": "Bitcoin options remain expensive despite summer calm. Here's why it matters",
-    "link": "https://www.coindesk.com/markets/2026/08/17/bitcoin-options-remain-expensive-despite-summer-calm-here-s-why-it-matters",
-    "pubDate": "Mon, 17 Aug 2026 11:43:02 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "Bitcoin’s implied volatility is near a seasonal floor, but options continue to price substantially more movement than the market is delivering.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/7244d49b1561d08b7e690395788cd116e7eba326-1534x969.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "Despite Bitcoin's implied volatility being near a seasonal low, options for the cryptocurrency continue to be priced significantly higher than the market's actual movement, indicating they remain expensive.",
-    "importance": 5,
-    "classified": true
-  },
-  {
     "title": "Cathie Wood’s Ark Invest scoops up $15 million in Block Inc shares as stock dips 3%",
     "link": "https://www.theblock.co/news/markets/2026-08-18-cathie-wood-ark-invest-15-million-block-inc-412060",
     "pubDate": "Tue, 18 Aug 2026 07:37:40 +0000",
@@ -1533,18 +1569,6 @@
     "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/06/Strategy-MSTR-Sells-Bitcoin-for-First-Time-in-Years-as-Bitcoin-Price-Tumbles.jpg",
     "summary": "The article reports that a particular investment strategy refrained from buying or selling Bitcoin for another week, focusing instead on increasing its cash reserves after selling approximately $333.7 million worth of MicroStrategy (MSTR) shares. No new Bitcoin transactions were made during this period.",
     "importance": 5,
-    "classified": true
-  },
-  {
-    "title": "No change in bitcoin holdings as Strategy boosted dollar reserve, bought back more STRC last week ",
-    "link": "https://www.coindesk.com/markets/2026/08/17/no-change-in-bitcoin-holdings-as-strategy-lifted-dollar-reserve-and-bought-back-more-strc-last-week",
-    "pubDate": "Mon, 17 Aug 2026 12:19:45 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "Led by Executive Chairman Michael Saylor, the company raised $333.7 million via the sale of common stock.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/d00d58cb37e792985dd1a2d7a5b976dca32d84c0-720x406.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "Led by Executive Chairman Michael Saylor, the company raised $333.7 million through the sale of common stock, which boosted its dollar reserves and facilitated STRC buybacks. Despite these financial actions, the company's bitcoin holdings remained unchanged last week.",
-    "importance": 4,
     "classified": true
   },
   {
@@ -1644,18 +1668,6 @@
     "classified": true
   },
   {
-    "title": "Bitcoin's biggest holders, Strategy and Metaplanet, are betting on math, not price",
-    "link": "https://www.coindesk.com/daybook-us/2026/08/17/bitcoin-s-biggest-holders-strategy-and-metaplanet-are-betting-on-math-not-price",
-    "pubDate": "Mon, 17 Aug 2026 11:28:41 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "Your day-ahead look for Aug. 17, 2026",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/dd98498dbda09f933fbeac48aac3591d14c0deee-3018x1697.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "The article's title indicates that major Bitcoin holders, Strategy (likely MicroStrategy) and Metaplanet, are pursuing an investment approach focused on the mathematical underpinnings of Bitcoin rather than its market price. The provided content is a placeholder 'day-ahead look' for August 17, 2026, offering no further details on this strategy.",
-    "importance": 2,
-    "classified": true
-  },
-  {
     "title": "The Download: Flock’s new rules, cloning’s future, and children’s cells",
     "link": "https://www.technologyreview.com/2026/08/14/1142033/the-download-flock-new-rules-cloning-future/",
     "pubDate": "Fri, 14 Aug 2026 12:17:21 +0000",
@@ -1680,18 +1692,6 @@
     "classified": true
   },
   {
-    "title": "Job titles of the future: Space travel agent",
-    "link": "https://www.technologyreview.com/2026/08/14/1141431/job-titles-space-travel-agent-roman-chiporukha/",
-    "pubDate": "Fri, 14 Aug 2026 09:00:00 +0000",
-    "source": "MIT Technology Review",
-    "category": "ai",
-    "content": "Roman Chiporukha has long turned wild travel dreams into reality. Over two decades as co-owner of the luxury lifestyle firm Roman & Erica, he has orchestrated everything from the construction of a client’s superyacht to vacations in the Bahamas at a location so private that guests must sign an NDA.  The experiences earned him “the…",
-    "image": "https://wp.technologyreview.com/wp-content/uploads/2026/08/space.jpeg?w=840",
-    "summary": "Roman Chiporukha, co-owner of Roman & Erica, has been creating luxury travel experiences for clients, including building a superyacht and private vacations, and is now looking to the future of space travel. He has been making wild travel dreams a reality for over two decades. His work may be relevant to future job titles involving space travel.",
-    "importance": 2,
-    "classified": true
-  },
-  {
     "title": "Why people aren’t buying Mark Zuckerberg’s AI future",
     "link": "https://techcrunch.com/2026/08/16/why-people-arent-buying-mark-zuckerbergs-ai-future/",
     "pubDate": "Sun, 16 Aug 2026 20:32:01 +0000",
@@ -1700,18 +1700,6 @@
     "content": "On the latest episode of Equity podcast, we discuss why not everyone is buying Zuckerberg’s vision.",
     "image": "",
     "summary": "The latest episode of the Equity podcast discusses why there's skepticism surrounding Mark Zuckerberg's vision for an AI future. It explores reasons why not everyone is convinced by his proposed advancements in artificial intelligence.",
-    "importance": 2,
-    "classified": true
-  },
-  {
-    "title": "Have a laugh at AI’s expense by roleplaying as a chatbot",
-    "link": "https://www.theverge.com/entertainment/980502/roleplay-as-an-ai-chatbot",
-    "pubDate": "2026-08-15T20:45:00.000Z",
-    "source": "The Verge AI",
-    "category": "ai",
-    "content": "If you squint, you can just about make out the hat. | Screenshot: Terrence O’Brien / The Verge\t\n\nYour AI Slop Bores Me is brilliant in its simplicity. There are two tabs: human and LARP as an AI. On one side, you enter a request. On the other, you submit an answer. But the important thing is that there's a human on both sides of the equation. Prompts can request a response as text or image, and then whoever is roleplaying as the AI gets 150 seconds to respond.\nJust like a real LLM, Your AI Slop Bores Me works on a sort of token system. Requests cost credits, and to earn credits, you have to jump onto the AI side and answer some of your own. You can also just wait as you get one free request every two minutes. But, as fun as it is to dr …\nRead the full story at The Verge.",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Screenshot-2026-08-15-at-4.40.53-PM.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "summary": "The article introduces \"Your AI Slop Bores Me,\" a platform where human users roleplay as AI chatbots, responding to text or image prompts from other humans. Participants have 150 seconds to generate a response, and the system uses a credit mechanism where answering prompts earns credits for making requests, mimicking real LLM token systems.",
     "importance": 2,
     "classified": true
   },
@@ -1725,6 +1713,18 @@
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/instagram-2026-wordmark.png",
     "summary": "The new Instagram logo has been criticized in an opinion piece, with the author jokingly calling it the perfect embodiment of AI slop, implying that it was poorly designed, possibly with AI influence. The author's remarks are lighthearted and humorous, focusing on the accidentally awful design of the new wordmark. The article does not provide a serious analysis but rather a comedic take on the situation.",
     "importance": 2,
+    "classified": true
+  },
+  {
+    "title": "The Pack Is the Painting: Evil Biscuit and the Schizocollage Movement Come to Hong Kong",
+    "link": "https://bitcoinmagazine.com/culture/the-pack-is-the-painting-evil-biscuit-and-the-schizocollage-movement-come-to-hong-kong",
+    "pubDate": "Tue, 18 Aug 2026 12:45:19 +0000",
+    "source": "Bitcoin Magazine",
+    "category": "ai",
+    "content": "Bitcoin Magazine\n\nThe Pack Is the Painting: Evil Biscuit and the Schizocollage Movement Come to Hong Kong\nIn 1956, at an exhibition hall in Tokyo, a Japanese artist named Saburō Murakami ran through a row of paper screens, leaving a torn, human-shaped hole in each one. The audience heard the rip in the moment but likely didn’t understand it. Murakami belonged to Gutai, the radical postwar avant-garde collective whose members painted with […]\nThis post The Pack Is the Painting: Evil Biscuit and the Schizocollage Movement Come to Hong Kong first appeared on Bitcoin Magazine and is written by Dennis Koch.",
+    "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/08/Evil-Biscuit-and-the-Schizocollage-Movement-Come-to-Hong-Kong.png",
+    "summary": "The article discusses an art exhibition in Hong Kong featuring the Schizocollage Movement and artist Evil Biscuit, drawing parallels to the Gutai collective's radical postwar avant-garde work. It highlights the event as a fusion of artistic expression and cultural commentary.",
+    "importance": 1,
     "classified": true
   },
   {
