@@ -120,6 +120,42 @@
     "classified": true
   },
   {
+    "title": "The bitcoin price level where leveraged bulls could get whacked",
+    "link": "https://www.coindesk.com/markets/2026/08/18/the-bitcoin-price-level-where-leveraged-bulls-could-get-whacked",
+    "pubDate": "Tue, 18 Aug 2026 05:55:43 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "Bulls are stacking longs, liquidity is thinning and one key level could trigger large liquidations.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/04f05b5cd4023bff86ebd19b9d5981356f50f8eb-8640x5760.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "The article warns of potential large liquidations in the Bitcoin market. Leveraged bulls are stacking long positions, while market liquidity is thinning, making a key price level susceptible to triggering significant sell-offs.",
+    "importance": 8,
+    "classified": true
+  },
+  {
+    "title": "XRP sinks below $1 for first time since 2024 even as Korean bank adopts Ripple Payments",
+    "link": "https://www.coindesk.com/markets/2026/08/18/xrp-slips-below-usd1-even-as-korean-regional-bank-adopts-ripple-payments",
+    "pubDate": "Tue, 18 Aug 2026 05:34:32 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "Jeonbuk Bank will use Ripple’s 24/7 cross-border payment service for business remittances, but it is unknown whether the flows will use XRP or Ripple’s RLUSD stablecoin.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/b7d512ba660aea0dd60d8f3f58b1ae6ddd1786d8-1920x1282.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "XRP's price has fallen below $1 for the first time in 2024, despite news that Jeonbuk Bank in Korea has adopted Ripple's 24/7 cross-border payment service. It remains uncertain whether these business remittances will utilize the XRP cryptocurrency or Ripple's RLUSD stablecoin.",
+    "importance": 8,
+    "classified": true
+  },
+  {
+    "title": "Bitcoin climbs above $64,000 while most majors slip",
+    "link": "https://www.coindesk.com/markets/2026/08/18/bitcoin-climbs-above-usd64-000-while-most-majors-slip",
+    "pubDate": "Tue, 18 Aug 2026 04:32:38 +0000",
+    "source": "CoinDesk",
+    "category": "both",
+    "content": "Miners have cut their computing power by a fifth over three quarters to make room for AI, and Venice's token jumped 10% after the company said it crossed $100 million in annualised revenue.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/d1da7dc81bdeb62967c50f138ab1a3e5b4aea59f-4032x3024.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "Bitcoin climbed above $64,000, while most other major cryptocurrencies slipped. A notable development highlighted is that Bitcoin miners have reduced their computing power by a fifth over the last nine months to allocate resources for AI operations. Separately, Venice's token experienced a 10% jump after the company announced achieving over $100 million in annualized revenue.",
+    "importance": 8,
+    "classified": true
+  },
+  {
     "title": "Kraken parent Payward joins Anthropic’s Project Glasswing for AI security push",
     "link": "https://www.coindesk.com/tech/2026/08/17/kraken-parent-payward-joins-anthropic-s-project-glasswing-for-ai-security-push",
     "pubDate": "Mon, 17 Aug 2026 22:12:00 +0000",
@@ -228,6 +264,30 @@
     "classified": true
   },
   {
+    "title": "China adds 8 banks to digital yuan network as operator count hits 30",
+    "link": "https://cointelegraph.com/news/china-adds-8-banks-to-digital-yuan-network-as-operator-count-hits-30?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Tue, 18 Aug 2026 08:48:51 +0000",
+    "source": "Cointelegraph",
+    "category": "crypto",
+    "content": "The newly authorized lenders will begin offering e-CNY services after completing operational and technical preparations.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-an-overview-of-chinas-e-cny.jpg",
+    "summary": "China has expanded its digital yuan (e-CNY) network by adding 8 new banks, bringing the total number of operators to 30. These newly authorized financial institutions will begin offering e-CNY services upon completion of their operational and technical preparations, signaling a significant expansion of the country's central bank digital currency infrastructure.",
+    "importance": 8,
+    "classified": true
+  },
+  {
+    "title": "Alleged $165M crypto Ponzi mastermind faces US charges after Fiji deportation",
+    "link": "https://cointelegraph.com/news/edward-zimbardi-165m-crypto-ponzi-fiji-deportation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Tue, 18 Aug 2026 03:21:26 +0000",
+    "source": "Cointelegraph",
+    "category": "crypto",
+    "content": "Prosecutors allege Edward Zimbardi collected crypto from thousands of investors, lost over $34 million on currency trades and spent at least $10 million personally.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/judge-hammer-regulation-breaking-news.jpg",
+    "summary": "Edward Zimbardi, accused of running a $165 million crypto Ponzi scheme, has been charged by US prosecutors after being deported from Fiji. The scheme allegedly involved collecting crypto from thousands of investors, losing over $34 million in trades, and misusing at least $10 million for personal expenses.",
+    "importance": 8,
+    "classified": true
+  },
+  {
     "title": "CFTC seeks public input on AI compute futures contracts as CME eyes October launch",
     "link": "https://cointelegraph.com/news/cftc-ai-compute-futures-cme-october-launch?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "pubDate": "Mon, 17 Aug 2026 17:11:39 +0000",
@@ -264,30 +324,6 @@
     "classified": true
   },
   {
-    "title": "Ireland plans industry standards for illicit crypto use",
-    "link": "https://cointelegraph.com/news/ireland-industry-standards-crypto-gambling-aml?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Fri, 14 Aug 2026 21:08:52 +0000",
-    "source": "Cointelegraph",
-    "category": "crypto",
-    "content": "The proposed policies under Ireland’s AML framework included stricter measures on transfers from private crypto wallets and overseas digital asset companies.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/irish-dance-crypto.jpg",
-    "summary": "Ireland is proposing stricter measures under its Anti-Money Laundering framework to prevent illicit crypto use, including tighter regulations on transfers from private crypto wallets and overseas digital asset companies. The policies aim to combat illicit activities. This move is part of Ireland's efforts to regulate the crypto industry.",
-    "importance": 8,
-    "classified": true
-  },
-  {
-    "title": "Israel’s largest bank taps Galaxy to offer Bitcoin, Ether, Solana trading",
-    "link": "https://cointelegraph.com/news/israels-largest-bank-taps-galaxy-to-offer-bitcoin-ether-and-solana-trading?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Fri, 14 Aug 2026 15:41:49 +0000",
-    "source": "Cointelegraph",
-    "category": "crypto",
-    "content": "Bank Leumi customers will be able to buy, hold and sell three major cryptocurrencies directly through the bank’s investment app beginning in early 2027.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-why-21-is-betting-on-10-cryptos-not-just-bitcoin-and-ethereum-zz.png",
-    "summary": "Bank Leumi, Israel's largest bank, has partnered with Galaxy to offer Bitcoin, Ether, and Solana trading to its customers through its investment app starting in 2027. This move allows customers to buy, hold, and sell these cryptocurrencies directly. The service is expected to launch in early 2027.",
-    "importance": 8,
-    "classified": true
-  },
-  {
     "title": "IREN delivers first of four AI cloud deployments to Microsoft under $9.7 billion deal",
     "link": "https://www.theblock.co/news/business/2026-08-17-iren-delivers-first-four-ai-cloud-deployments-microsoft-under-9-7-billion-deal-412016",
     "pubDate": "Mon, 17 Aug 2026 19:54:52 +0000",
@@ -320,30 +356,6 @@
     "content": "SafePal said it found the root cause of the breach recently, though customers had posted online about being targeted by phishing attempts as early as July.",
     "image": "https://www.tbstat.com/wp/uploads/2025/09/extra2-1200x675.jpg",
     "summary": "SafePal, a wallet provider, has reported a data breach that exposed the personal information of nearly 40,000 customers. The company recently identified the root cause, following customer reports of phishing attempts that began as early as July.",
-    "importance": 8,
-    "classified": true
-  },
-  {
-    "title": "‘Honestly, I don’t care’: Tether CEO dismisses critics following first KPMG audit",
-    "link": "https://www.theblock.co/news/business/2026-08-14-honestly-i-dont-care-tether-ceo-dismisses-critics-first-kpmg-audit-411886",
-    "pubDate": "Fri, 14 Aug 2026 19:25:43 +0000",
-    "source": "The Block",
-    "category": "crypto",
-    "content": "A source with direct knowledge told The Block that Tether does not publicly share its audited statements because it is a private company.",
-    "image": "https://www.tbstat.com/wp/uploads/2025/10/tether-1200x675.jpg",
-    "summary": "Tether CEO dismisses critics after the company's first KPMG audit, with the company choosing not to publicly share its audited statements due to its private status. The move has sparked interest in the crypto community. Tether's decision may impact transparency and trust in the company.",
-    "importance": 8,
-    "classified": true
-  },
-  {
-    "title": "French tax breach exposes nearly 678,000 people as crypto wrench attacks pile up",
-    "link": "https://www.theblock.co/news/ecosystems/2026-08-14-french-tax-breach-exposes-nearly-678000-people-crypto-wrench-attacks-pile-up-411876",
-    "pubDate": "Fri, 14 Aug 2026 19:07:47 +0000",
-    "source": "The Block",
-    "category": "crypto",
-    "content": "Crypto wrench attacks in France are on pace to make 2026 the worst year ever for violent crimes targeting crypto holders in the country.",
-    "image": "https://www.tbstat.com/wp/uploads/2024/07/20240710_Cypherpunks_News_1-1200x675.jpg",
-    "summary": "A tax breach in France has exposed nearly 678,000 people, amidst a rise in crypto wrench attacks, which are violent crimes targeting crypto holders. This surge is on track to make 2026 the worst year for such attacks in the country. The breach and attacks highlight growing security concerns for crypto users.",
     "importance": 8,
     "classified": true
   },
@@ -416,18 +428,6 @@
     "content": "This week I spoke to scientists who have found a way to turn male mouse embryos female. They’ve developed a CRISPR-based approach to essentially cut out the Y chromosome. It allowed them to create female clones of male mice. That’s right: female animals that are genetically identical to males, except for the missing Y chromosome.…",
     "image": "",
     "summary": "Scientists have developed a CRISPR-based approach to create female clones of male mice by essentially removing the Y chromosome, which could potentially be used to save species or create human organ sacks. This breakthrough has significant implications for genetic engineering and could lead to new possibilities in biotechnology. The technology is still in its early stages, but it has sparked interesting discussions about its potential applications.",
-    "importance": 8,
-    "classified": true
-  },
-  {
-    "title": "Building a practical path to post-quantum cryptography",
-    "link": "https://www.technologyreview.com/2026/08/13/1141041/building-a-practical-path-to-post-quantum-cryptography/",
-    "pubDate": "Thu, 13 Aug 2026 18:11:42 +0000",
-    "source": "MIT Technology Review",
-    "category": "crypto",
-    "content": "Quantum computing has alternated between breakthrough darling and overhyped promise in technology circles. Its powerful new capabilities come with a threat to break current cryptography, but for business leaders navigating the noise, the signal should be clear: post-quantum cryptography (PQC) is a manageable evolution, not a crisis. The mathematics behind today’s encrypted digital transactions may…",
-    "image": "https://wp.technologyreview.com/wp-content/uploads/2026/08/Intel-contributed-iStock-2259858626.jpg",
-    "summary": "Quantum computing poses a threat to current cryptography, but post-quantum cryptography is a manageable evolution, not a crisis. Business leaders can navigate this change with a clear understanding of the mathematics behind encrypted digital transactions. The goal is to build a practical path to post-quantum cryptography.",
     "importance": 8,
     "classified": true
   },
@@ -560,18 +560,6 @@
     "content": "Apple has reportedly trained a custom AI model for the China market alongside domestic tech giant Alibaba, a rare cross-border partnership that cuts across growing tensions between Beijing and Washington.\nThe China-focused large language model was developed in partnership with Alibaba and trained with the company's support, Reuters reports, citing three unnamed people familiar with the matter. \nDeveloping a custom model of its own marks a departure from Apple's previous strategy in the country and would give the company more control over its products in the competitive Chinese smartphone market. Historically, Apple has used domestic Chines …\nRead the full story at The Verge.",
     "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/STK071_APPLE_A-1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
     "summary": "Apple has partnered with Alibaba to train a custom AI model for the China market, marking a rare cross-border collaboration amidst growing tensions between Beijing and Washington. The model was developed with Alibaba's support, giving Apple more control over its products. This move is a departure from Apple's previous strategy in the country.",
-    "importance": 8,
-    "classified": true
-  },
-  {
-    "title": "OpenAI is losing its second executive this week",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/979815/openai-denise-dresser-leaving-executive-departure",
-    "pubDate": "2026-08-13T19:28:39.000Z",
-    "source": "The Verge AI",
-    "category": "ai",
-    "content": "Another OpenAI executive is departing. Denise Dresser, who joined OpenAI as its chief revenue officer in December after serving as CEO of Slack, will be leaving in the \"coming weeks\" to \"pursue other opportunities,\" she said in a team note posted to LinkedIn. Dali Rajic, president and COO of Wiz, will be taking over the CRO role, OpenAI says.\nDresser's departure is just the latest in a string of major exits. Earlier this week, special projects lead and former COO Brad Lightcap announced he would be leaving. (Dresser had taken over some of Lightcap's work when he moved to the special projects role.) Former AGI chief Fidji Simo and former CMO …\nRead the full story at The Verge.",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/gettyimages-2275749204.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "summary": "OpenAI is experiencing a series of executive departures, with chief revenue officer Denise Dresser leaving to pursue other opportunities and former COO Brad Lightcap also announcing his exit. Dresser will be replaced by Dali Rajic, president and COO of Wiz. This is the second major exit for OpenAI this week.",
     "importance": 8,
     "classified": true
   },
@@ -756,6 +744,18 @@
     "classified": true
   },
   {
+    "title": "Monad, an Ethereum rival, offered early investors up to $60 million to cash out. Almost all said no",
+    "link": "https://www.coindesk.com/markets/2026/08/18/monad-an-ethereum-rival-offered-early-investors-up-to-usd60-million-to-cash-out-almost-all-said-no",
+    "pubDate": "Tue, 18 Aug 2026 05:18:18 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "The program came three months before investor unlocks begin, with MON trading below its public-sale price and most of the token supply still outside circulation.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/d6da4b040c7d5a2d1670209f241d8b091e0b80a3-1500x1004.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "Monad, an Ethereum competitor, offered early investors a $60 million opportunity to cash out ahead of upcoming token unlocks. Despite the MON token trading below its public-sale price and a significant portion of its supply not yet in circulation, nearly all early investors declined the offer, signaling strong confidence in the project's long-term potential.",
+    "importance": 7,
+    "classified": true
+  },
+  {
     "title": "BitMart founder dismisses calls for audit as users report blocked funds, unpaid employees",
     "link": "https://www.coindesk.com/business/2026/08/17/bitmart-founder-dismisses-calls-for-audit-as-users-report-blocked-funds-unpaid-employees",
     "pubDate": "Mon, 17 Aug 2026 16:40:08 +0000",
@@ -816,26 +816,62 @@
     "classified": true
   },
   {
-    "title": "Crypto investors are looking past market-cap rankings and back to fundamentals",
-    "link": "https://www.coindesk.com/business/2026/08/16/crypto-investors-are-looking-past-market-cap-rankings-and-back-to-fundamentals",
-    "pubDate": "Sun, 16 Aug 2026 16:00:00 +0000",
-    "source": "CoinDesk",
+    "title": "South Korea moves to block Polymarket over gambling concerns",
+    "link": "https://cointelegraph.com/news/south-korea-block-polymarket-gambling-concerns?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Tue, 18 Aug 2026 08:39:57 +0000",
+    "source": "Cointelegraph",
     "category": "crypto",
-    "content": "Investors are starting to judge crypto tokens on usage, economics and value capture rather than market-cap rank, industry executives said.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/e32c73c877e257ea0e665dae0d3fa751d19cf3cc-1920x1231.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "Crypto investors are reportedly shifting their focus from market-cap rankings to fundamental metrics such as usage, economics, and value capture when evaluating tokens. This indicates a maturing investment approach within the digital asset space, according to industry executives.",
+    "content": "The Korea Media and Communications Commission said Polymarket’s structure and operations amount to illegal gambling despite its noncustodial design and smart contracts.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-you-are-once-again-banning-crypto-content-polymarket.jpg",
+    "summary": "South Korea's media regulator has announced plans to block Polymarket, a prediction market platform, citing illegal gambling concerns despite its use of noncustodial design and smart contracts. The decision highlights regulatory scrutiny over decentralized prediction markets.",
     "importance": 7,
     "classified": true
   },
   {
-    "title": "Crypto wallet SafePal reveals a data breach exposing nearly 40,000 customers' order info",
-    "link": "https://www.coindesk.com/tech/2026/08/16/crypto-wallet-safepal-reveals-a-data-breach-exposing-nearly-40-000-customers-order-info",
-    "pubDate": "Sun, 16 Aug 2026 14:02:32 +0000",
-    "source": "CoinDesk",
+    "title": "BitBox patches ‘severe’ wallet flaws that could put funds at risk ",
+    "link": "https://cointelegraph.com/news/bitbox-patches-severe-wallet-firmware-flaws?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Tue, 18 Aug 2026 08:07:04 +0000",
+    "source": "Cointelegraph",
     "category": "crypto",
-    "content": "While the data breach exposed the personal order details of thousands of customers, all private keys, seed phrases, and crypto assets remain completely safe.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/af945cfdd3152f9ebc96d44f89ccafea550ccb57-5760x3840.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "Crypto wallet SafePal has disclosed a data breach that exposed the personal order details of nearly 40,000 customers. The company assured users that private keys, seed phrases, and all crypto assets remain completely safe and were not compromised in the incident.",
+    "content": "BitBox recommended all users update to firmware version 9.26.5 and said it had received no reports of exploitation or fund losses.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/purse-key-keyboard-sponsor3.jpg",
+    "summary": "BitBox has released firmware version 9.26.5 to patch severe vulnerabilities in its hardware wallets that could have put user funds at risk. The company urged all users to update immediately and reported no known cases of exploitation or fund losses.",
+    "importance": 7,
+    "classified": true
+  },
+  {
+    "title": "Ethereum Foundation warns some tools may break with Glamsterdam upgrade",
+    "link": "https://cointelegraph.com/news/ethereum-foundation-warns-some-tools-may-break-with-glamsterdam-upgrade?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Tue, 18 Aug 2026 05:12:18 +0000",
+    "source": "Cointelegraph",
+    "category": "crypto",
+    "content": "Developers have been urged to test on Plataberget before Glamsterdam’s new gas model reaches Ethereum’s other testnets and mainnet.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/super-ethereum.jpg",
+    "summary": "The Ethereum Foundation has issued a warning that some tools may malfunction due to the upcoming Glamsterdam upgrade, which introduces a new gas model. Developers are advised to test on the Plataberget testnet before the changes roll out to other testnets and the mainnet.",
+    "importance": 7,
+    "classified": true
+  },
+  {
+    "title": "South Korea’s Jeonbuk Bank taps Ripple for cross-border payments",
+    "link": "https://cointelegraph.com/news/jeonbuk-bank-ripple-cross-border-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Tue, 18 Aug 2026 04:11:02 +0000",
+    "source": "Cointelegraph",
+    "category": "crypto",
+    "content": "Ripple is bringing its cross-border payments platform to Jeonbuk Bank, but key details including its launch status and settlement asset remain undisclosed.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-crypto-negotiation-south-korea-1.jpg",
+    "summary": "Jeonbuk Bank in South Korea has partnered with Ripple to implement its cross-border payments platform, though specific details about the launch timeline and the settlement asset used remain unclear.",
+    "importance": 7,
+    "classified": true
+  },
+  {
+    "title": "‘Fabricated rumors’ about BitMart founder, Binance bStocks dominate: Asia Express",
+    "link": "https://cointelegraph.com/magazine/fabricated-rumors-about-bitmart-founder-binance-bstocks-dominate-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Tue, 18 Aug 2026 01:28:37 +0000",
+    "source": "Cointelegraph",
+    "category": "crypto",
+    "content": "Binance’s bStocks are the second largest tokenized stock issuer just two months after launch, and BitMart’s internal feud erupts into the spotlight ahead of its closure",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/asia-express-9.jpg",
+    "summary": "Binance's bStocks has rapidly become the second-largest tokenized stock issuer just two months after its launch. Meanwhile, BitMart faces internal turmoil as its closure approaches, with rumors about its founder circulating.",
     "importance": 7,
     "classified": true
   },
@@ -924,14 +960,38 @@
     "classified": true
   },
   {
-    "title": "Galaxy lowers CLARITY Act odds to 10%",
-    "link": "https://cointelegraph.com/news/galaxy-lowers-clarity-act-odds-10?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Sat, 15 Aug 2026 08:40:59 +0000",
-    "source": "Cointelegraph",
+    "title": "Kraken brings US stock trading to European Economic Area customers",
+    "link": "https://www.theblock.co/news/business/2026-08-18-kraken-us-stock-trading-europe-economic-area-412027",
+    "pubDate": "Tue, 18 Aug 2026 08:00:02 +0000",
+    "source": "The Block",
     "category": "crypto",
-    "content": "Galaxy cited unresolved ethics, stablecoin yield and developer protection issues, along with a narrow Senate window when lawmakers return in September.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-us-senate-infrastructure-bill-doom-and-gloom-for-memecoin-trump.jpg",
-    "summary": "Galaxy Digital has lowered its estimated odds for the CLARITY Act passing to just 10%. This reduction is attributed to persistent issues concerning ethics, stablecoin yield, and developer protection, alongside a limited legislative window in the Senate when lawmakers reconvene in September.",
+    "content": "Kraken has launched US stock trading for eligible customers across all European Economic Area member countries.",
+    "image": "https://www.tbstat.com/wp/uploads/2023/03/20230317_Kraken_Color-1200x675.jpg",
+    "summary": "Kraken has expanded its services to allow eligible customers in the European Economic Area to trade US stocks, marking a significant step in the exchange's diversification beyond cryptocurrency offerings.",
+    "importance": 7,
+    "classified": true
+  },
+  {
+    "title": "Ripple partners with South Korea’s Jeonbuk Bank for cross-border payments",
+    "link": "https://www.theblock.co/news/business/2026-08-18-ripple-south-korea-jeonbuk-bank-412049",
+    "pubDate": "Tue, 18 Aug 2026 06:17:53 +0000",
+    "source": "The Block",
+    "category": "crypto",
+    "content": "The Jeonbuk Bank collaboration marked Ripple's third Korean partnership this year, following those with Kyobo Life Insurance and Kbank.",
+    "image": "https://www.tbstat.com/wp/uploads/2026/01/20260108_Ripple_News_3-1200x675.jpg",
+    "summary": "Ripple has partnered with South Korea’s Jeonbuk Bank to facilitate cross-border payments, marking the company’s third collaboration in Korea this year. The partnership follows similar agreements with Kyobo Life Insurance and Kbank, expanding Ripple’s presence in the region.",
+    "importance": 7,
+    "classified": true
+  },
+  {
+    "title": "Upbit and Bithumb report 50% declines in H1 revenue, reflecting market contraction",
+    "link": "https://www.theblock.co/news/markets/2026-08-18-upbit-bithumb-h1-decline-412034",
+    "pubDate": "Tue, 18 Aug 2026 05:30:25 +0000",
+    "source": "The Block",
+    "category": "crypto",
+    "content": "Investor capital in South Korea largely shifted toward domestic equities, with the benchmark KOSPI more than doubling in H1 2026.",
+    "image": "https://www.tbstat.com/wp/uploads/2024/02/20240220_SouthKorea_News2-1200x675.jpg",
+    "summary": "Upbit and Bithumb, major South Korean cryptocurrency exchanges, reported a 50% decline in revenue for the first half of 2026, attributed to investor capital shifting toward domestic equities like the KOSPI, which more than doubled in value during the same period.",
     "importance": 7,
     "classified": true
   },
@@ -1080,6 +1140,18 @@
     "classified": true
   },
   {
+    "title": "Apple&#8217;s camera-equipped AirPods appear in leaked video",
+    "link": "https://www.theverge.com/tech/981326/apple-airpods-with-cameras-demo-video-leak",
+    "pubDate": "2026-08-18T09:00:01.000Z",
+    "source": "The Verge AI",
+    "category": "ai",
+    "content": "The AirPods in the video look like a chunkier version of Apple’s AirPods Pro 3. | Image: Apple / MacRumors\t\n\nWe may have our first glimpse of Apple's rumored camera-equipped AirPods, thanks to a video that MacRumors found in the macOS Tahoe 26.7 Release Candidate. The short video clip features a man - who is wearing the new AirPods - holding up a book with the cover displayed, so that Visual Intelligence can see the book title. \nA Siri voice-over plays over the clip, saying \"with Visual Intelligence, your world becomes savable. See something you like? Just ask me to save it for later.\" Bloomberg's Mark Gurman has previously reported that the rumored AirPods with cameras are designed to take in \"visual information in low resolution\" and act as eyes …\nRead the full story at The Verge.",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Apple-AirPods-with-cameras-demo-video-leak.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "summary": "A leaked video from macOS Tahoe 26.7 Release Candidate reveals Apple's upcoming camera-equipped AirPods, showcasing their Visual Intelligence feature that can identify and save book titles via Siri. The device appears to be a bulkier version of the AirPods Pro 3.",
+    "importance": 7,
+    "classified": true
+  },
+  {
     "title": "Anthropic explains how Claude&#8217;s invisible text watermarks will work",
     "link": "https://www.theverge.com/ai-artificial-intelligence/980869/anthropic-claude-watermarks-synthid-text-system",
     "pubDate": "2026-08-17T10:57:13.000Z",
@@ -1104,6 +1176,18 @@
     "classified": true
   },
   {
+    "title": "Live updates: Bitcoin holds $64,000 as surging yields and oil drain risk appetite",
+    "link": "https://www.coindesk.com/tech/2026/08/18/live-updates-bitcoin-holds-usd64-000-as-surging-yields-and-oil-drain-risk-appetite",
+    "pubDate": "Tue, 18 Aug 2026 08:16:11 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "The 30-year Treasury yield hit its highest since 2007 and Brent topped $91 as the US-Iran conflict escalates, pressuring stocks. Bitcoin is holding its range, for now.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/4c0689c2d5fe97c36365f4d88811b0aa0648c90f-2800x1470.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "Global markets are facing pressure from rising Treasury yields and oil prices, exacerbated by escalating geopolitical conflict, which is draining risk appetite and impacting stocks. Despite these broader market trends, Bitcoin is noted to be holding its price range around $64,000 for now.",
+    "importance": 6,
+    "classified": true
+  },
+  {
     "title": "Bitcoin tracks equity bounce, but $390 million ETF outflow week keeps bulls on back foot",
     "link": "https://www.coindesk.com/markets/2026/08/17/bitcoin-tracks-equity-bounce-but-usd390-million-etf-outflow-week-keeps-bulls-on-back-foot",
     "pubDate": "Mon, 17 Aug 2026 09:59:55 +0000",
@@ -1116,26 +1200,14 @@
     "classified": true
   },
   {
-    "title": "XRP traders bet on a rebound as price slips to $1 and bearish chatter surges",
-    "link": "https://www.coindesk.com/markets/2026/08/17/xrp-traders-bet-on-a-rebound-as-price-slips-to-usd1-and-bearish-chatter-surges",
-    "pubDate": "Mon, 17 Aug 2026 04:43:03 +0000",
-    "source": "CoinDesk",
+    "title": "Here’s what happened in crypto today",
+    "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Tue, 18 Aug 2026 06:09:35 +0000",
+    "source": "Cointelegraph",
     "category": "crypto",
-    "content": "Futures open interest climbed to $2.78 billion and traders on Binance and OKX leaned heavily long, even as social sentiment hit a three-month low.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/2180f062d339af02b2052281b305e8f75b13fdef-1920x1281.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "XRP traders are betting on a rebound despite the price slipping to $1 and bearish sentiment surging, with futures open interest reaching $2.78 billion and traders on Binance and OKX leaning heavily long. This suggests a high level of confidence in the cryptocurrency's potential for a rebound. The surge in open interest indicates a significant amount of investment in XRP futures.",
-    "importance": 6,
-    "classified": true
-  },
-  {
-    "title": "Bitcoin nears $64,000 in Asia morning hours as HYPE jumps 8% on the week",
-    "link": "https://www.coindesk.com/markets/2026/08/17/bitcoin-tops-usd64-000-in-asia-morning-hours-as-hype-jumps-8-on-the-week",
-    "pubDate": "Mon, 17 Aug 2026 04:14:00 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "Every major gained on Sunday, though bitcoin, ether, XRP and solana are all lower over seven days.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/f35aa3de8f990330a9d9779b5208eb6125d0a020-2838x1552.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "Bitcoin's price surged to over $64,000 in Asian morning hours, while most major cryptocurrencies saw gains on Sunday. However, their weekly performance was mixed, with some like bitcoin, ether, and solana experiencing losses. The overall crypto market saw an increase in hype, with an 8% jump over the week.",
+    "content": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg",
+    "summary": "This article provides a summary of the latest news and trends in the crypto space, covering Bitcoin price, blockchain, DeFi, Web3, and crypto regulation. It aims to keep readers updated on daily events impacting the cryptocurrency market. The article appears to be a general overview of the current state of the crypto industry.",
     "importance": 6,
     "classified": true
   },
@@ -1148,18 +1220,6 @@
     "content": "Bitcoin price strength saw BTC/USD pass $64,000 on 2% daily gains as gold pushed higher while US stocks wobbled on fresh US-Iran rhetoric.",
     "image": "https://s3-images.ctmedia.io/media/article-covers/hi-us-bitcoin-reserve-vs-gold-and-oil-reserves-how-do-they-compare.jpg",
     "summary": "Bitcoin surged past $64,000, gaining 2% in a day, while gold prices also rose. Meanwhile, US stocks fluctuated amid renewed US-Iran rhetoric, and oil prices were influenced by geopolitical remarks involving Trump and Oman.",
-    "importance": 6,
-    "classified": true
-  },
-  {
-    "title": "Here’s what happened in crypto today",
-    "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Mon, 17 Aug 2026 13:20:20 +0000",
-    "source": "Cointelegraph",
-    "category": "crypto",
-    "content": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg",
-    "summary": "This article provides a summary of the latest news and trends in the crypto space, covering Bitcoin price, blockchain, DeFi, Web3, and crypto regulation. It aims to keep readers updated on daily events impacting the cryptocurrency market. The article appears to be a general overview of the current state of the crypto industry.",
     "importance": 6,
     "classified": true
   },
@@ -1260,54 +1320,6 @@
     "classified": true
   },
   {
-    "title": "Gen Z favors ETFs and trades less than older cohorts: Binance",
-    "link": "https://cointelegraph.com/news/gen-z-favors-etfs-and-trades-less-than-older-cohorts-binance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Fri, 14 Aug 2026 21:22:23 +0000",
-    "source": "Cointelegraph",
-    "category": "crypto",
-    "content": "Binance data showed Gen Z allocating a growing share of equity activity to ETFs while trading less frequently and using less leverage than older working-age cohorts.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-cryptocurrency-can-actually-make-a-difference-by-helping-people-binance.png",
-    "summary": "Binance data reveals that Gen Z is allocating a larger share of equity activity to ETFs and trading less frequently than older age groups, also using less leverage. This trend suggests a more cautious approach to investing among younger generations. The data provides insight into the investment habits of Gen Z.",
-    "importance": 6,
-    "classified": true
-  },
-  {
-    "title": "Dartmouth endowment’s crypto exposure drops by $2M amid falling prices",
-    "link": "https://cointelegraph.com/news/dartmouth-endowment-crypto-investments-btc-eth-sol-dropped?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Fri, 14 Aug 2026 18:57:04 +0000",
-    "source": "Cointelegraph",
-    "category": "crypto",
-    "content": "The value of the university endowment’s holdings in the Bitwise Solana staking ETF, Grayscale Ethereum staking ETF and BlackRock’s iShares Bitcoin ETF dropped to about $12 million.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/studentcoinman.jpg",
-    "summary": "The Dartmouth university endowment's crypto holdings have decreased in value by $2M, now totaling $12M. This decrease is attributed to falling cryptocurrency prices. The endowment holds investments in Solana, Ethereum, and Bitcoin ETFs.",
-    "importance": 6,
-    "classified": true
-  },
-  {
-    "title": "Kraken parent Payward revenue rises 17% as trading volume falls in Q2",
-    "link": "https://cointelegraph.com/news/kraken-parent-payward-revenue-rises-as-trading-volume-falls-q2?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Fri, 14 Aug 2026 18:44:21 +0000",
-    "source": "Cointelegraph",
-    "category": "crypto",
-    "content": "Payward grew revenue despite weaker crypto spot activity, as funded accounts jumped 42% and a growing share of revenue came from outside transaction-based activity.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-5-ways-to-make-money-with-cryptocurrency-ai.png",
-    "summary": "Payward, the parent company of Kraken, saw a 17% increase in revenue despite a decline in crypto spot trading volume, with a 42% increase in funded accounts and growing revenue from non-transaction-based activities. This growth is notable in a period of weaker crypto market activity. The company's diversification efforts appear to be paying off.",
-    "importance": 6,
-    "classified": true
-  },
-  {
-    "title": "UK authorities continue probe into Nigel Farage’s crypto ‘gifts’ after by-election win",
-    "link": "https://cointelegraph.com/news/uk-investigation-nigel-farage-crypto-donations-by-election?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Fri, 14 Aug 2026 17:03:38 +0000",
-    "source": "Cointelegraph",
-    "category": "crypto",
-    "content": "The UK lawmaker declared victory following a by-election, triggering a resumption of an investigation from the parliamentary commissioner for standards into his crypto donations.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-j-crypto-donations-in-politics-uk.jpg",
-    "summary": "UK authorities are investigating Nigel Farage's crypto donations after his by-election win, with the parliamentary commissioner for standards resuming a probe into the gifts. Farage had declared victory in the by-election, prompting the investigation to continue. The inquiry is focused on his crypto donations.",
-    "importance": 6,
-    "classified": true
-  },
-  {
     "title": "Robinhood Chain TVL surges 45% in August as tokenized RWAs lose ground",
     "link": "https://www.theblock.co/news/ecosystems/2026-08-17-robinhood-chain-tvl-surges-45-august-tokenized-rwas-lose-ground-411998",
     "pubDate": "Mon, 17 Aug 2026 22:26:02 +0000",
@@ -1352,18 +1364,6 @@
     "content": "Novig, which recently announced a partnership with the New York Mets, has sued officials in five states including Wisconsin since Aug. 4.",
     "image": "https://www.tbstat.com/wp/uploads/2023/04/20230412_Legal_Generic_5-1200x675.jpg",
     "summary": "Prediction market Novig, which recently partnered with the New York Mets, has initiated lawsuits against officials in five states, including Wisconsin, concerning disputes over sports contracts. These legal actions highlight the regulatory challenges faced by such platforms.",
-    "importance": 6,
-    "classified": true
-  },
-  {
-    "title": "Mizuho cuts BitGo price target to $11, but says Clarity Act delays could prove advantageous",
-    "link": "https://www.theblock.co/news/markets/2026-08-14-mizuho-cuts-bitgo-price-target-to-11-but-says-clarity-act-delays-could-prove-advantageous-411878",
-    "pubDate": "Fri, 14 Aug 2026 19:34:37 +0000",
-    "source": "The Block",
-    "category": "crypto",
-    "content": "Mizuho views the company as a \"high-growth/recurring revenue business,\" citing a 27% year-over-year increase in the customer base.",
-    "image": "https://www.tbstat.com/wp/uploads/2024/12/bitgo-1200x675.jpg",
-    "summary": "Mizuho has cut its price target for BitGo to $11, but remains positive on the company's growth prospects, citing a 27% year-over-year increase in its customer base. The firm views BitGo as a high-growth business with recurring revenue. Delays in the Clarity Act could potentially benefit the company.",
     "importance": 6,
     "classified": true
   },
@@ -1488,18 +1488,6 @@
     "classified": true
   },
   {
-    "title": "Microsoft’s Clippy-like Mico character is no longer the face of Copilot",
-    "link": "https://www.theverge.com/tech/979871/microsoft-copilot-mico-retired",
-    "pubDate": "2026-08-13T21:42:38.000Z",
-    "source": "The Verge AI",
-    "category": "ai",
-    "content": "Mico is headed to Learn Live. | Image: Microsoft\t\n\nMicrosoft Copilot will no longer show its emotive yellow blob, Mico, when you use the chatbot's voice mode. In a support page, Microsoft says it's going to move Mico to its Learn Live platform, where the avatar will have \"more to react to,\" as reported earlier by GeekWire.\nMico launched in Copilot's voice mode last October, with Microsoft AI CEO Mustafa Suleyman pitching the avatar as a way to give the chatbot an \"identity.\" The blob would react to what you say in real-time, complete with facial expressions and animations.\n\nMico joins the long list of virtual helpers that Microsoft has retired over the years, like Clippy, Cortana, and Rover …\nRead the full story at The Verge.",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/mico-copilot.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "summary": "Microsoft's virtual assistant Mico is being moved from Copilot to Learn Live, marking the end of its role as the face of the chatbot's voice mode. Mico was introduced last October as a way to give Copilot an identity. The avatar will now have more interactions on the Learn Live platform.",
-    "importance": 6,
-    "classified": true
-  },
-  {
     "title": "Booksellers suspect AI firms are buying and then destroying rare books",
     "link": "https://arstechnica.com/tech-policy/2026/08/heres-a-balm-if-the-idea-of-destroying-books-to-train-ai-breaks-your-heart/",
     "pubDate": "Wed, 12 Aug 2026 15:19:17 +0000",
@@ -1532,6 +1520,18 @@
     "content": "Bitcoin’s implied volatility is near a seasonal floor, but options continue to price substantially more movement than the market is delivering.",
     "image": "https://cdn.sanity.io/images/s3y3vcno/production/7244d49b1561d08b7e690395788cd116e7eba326-1534x969.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
     "summary": "Despite Bitcoin's implied volatility being near a seasonal low, options for the cryptocurrency continue to be priced significantly higher than the market's actual movement, indicating they remain expensive.",
+    "importance": 5,
+    "classified": true
+  },
+  {
+    "title": "Cathie Wood’s Ark Invest scoops up $15 million in Block Inc shares as stock dips 3%",
+    "link": "https://www.theblock.co/news/markets/2026-08-18-cathie-wood-ark-invest-15-million-block-inc-412060",
+    "pubDate": "Tue, 18 Aug 2026 07:37:40 +0000",
+    "source": "The Block",
+    "category": "both",
+    "content": "The firm also bought $1 million worth of Securitize shares, which fell over 20% last week following disappointing Q2 results.",
+    "image": "https://www.tbstat.com/wp/uploads/2022/11/20221114_ArkInvest4-1200x675.jpg",
+    "summary": "Ark Invest, led by Cathie Wood, purchased $15 million in Block Inc shares amid a 3% stock dip, while also acquiring $1 million in Securitize shares, which dropped over 20% after weak Q2 results.",
     "importance": 5,
     "classified": true
   },
@@ -1608,14 +1608,26 @@
     "classified": true
   },
   {
-    "title": "The SEC meeting that wasn't: State of Crypto ",
-    "link": "https://www.coindesk.com/policy/2026/08/16/the-sec-meeting-that-wasn-t-state-of-crypto",
-    "pubDate": "Sun, 16 Aug 2026 18:30:00 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "There were hopes that regulators could move if the Clarity Act didn't advance, but those, too, may be paused.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/fbc7e541d283d1ca139795169dd388c0890fdf2e-2854x1606.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "A brief report suggests that anticipated regulatory movement for crypto, specifically concerning the Clarity Act, may be paused. Hopes for regulators to advance in this area appear to be on hold.",
+    "title": "The role of the astronaut is in flux",
+    "link": "https://www.technologyreview.com/2026/08/18/1141614/book-review-astronaut-role-in-flux/",
+    "pubDate": "Tue, 18 Aug 2026 09:00:00 +0000",
+    "source": "MIT Technology Review",
+    "category": "ai",
+    "content": "When the four astronauts on board NASA’s Artemis II swung around the moon earlier this year, they set a new record for the farthest humans have ever ventured from Earth, surpassing the distance set by Apollo 13 in 1972 by some 4,000 miles.  While no space mission can live up to the historic touchdown of…",
+    "image": "https://wp.technologyreview.com/wp-content/uploads/2026/08/books.weibel-edited.jpg",
+    "summary": "NASA's Artemis II mission set a new record for the farthest human journey from Earth, surpassing Apollo 13's 1972 distance by 4,000 miles. The article discusses the evolving role of astronauts in modern space missions.",
+    "importance": 3,
+    "classified": true
+  },
+  {
+    "title": "Whisker’s AI-powered litter robot thinks my cats swapped bodies",
+    "link": "https://www.theverge.com/tech/978323/whisker-litter-robot-5-pro-review",
+    "pubDate": "2026-08-17T11:00:00.000Z",
+    "source": "The Verge AI",
+    "category": "ai",
+    "content": "The greatest invention in pet tech in recent years is the litter robot. A machine that scoops your kitties' poop so you don't have to - what else could a cat owner possibly want? How about insights into your kitty's litter box usage that could flag health issues? Sign me up. But I have two feline friends… No worries, kitty facial recognition can handle that. \nAt least, that is the idea behind the Litter-Robot 5 Pro, the highest-end model from the OG robotic pooper scooper company Whisker. Boasting a dual camera system and an array of sensors to literally sniff out your cat's deposits, all wrapped up with AI algorithms and machine learning,  …\nRead the full story at The Verge.",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/268628_Pet_week_CVirginia_LITTER_ROBOT.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "summary": "Whisker's new Litter-Robot 5 Pro uses AI-powered facial recognition and sensors to monitor individual cats' litter box habits and health, claiming to detect issues and even identify which cat made a deposit. The device aims to provide pet owners with deeper insights into their cats' well-being.",
     "importance": 3,
     "classified": true
   },
@@ -1628,18 +1640,6 @@
     "content": "Your day-ahead look for Aug. 17, 2026",
     "image": "https://cdn.sanity.io/images/s3y3vcno/production/dd98498dbda09f933fbeac48aac3591d14c0deee-3018x1697.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
     "summary": "The article's title indicates that major Bitcoin holders, Strategy (likely MicroStrategy) and Metaplanet, are pursuing an investment approach focused on the mathematical underpinnings of Bitcoin rather than its market price. The provided content is a placeholder 'day-ahead look' for August 17, 2026, offering no further details on this strategy.",
-    "importance": 2,
-    "classified": true
-  },
-  {
-    "title": "OCC grants conditional approval for Trump-backed World Liberty National Trust bank",
-    "link": "https://www.theblock.co/news/regulation/2026-08-14-occ-grants-conditional-approval-trump-world-liberty-national-trust-bank-411906",
-    "pubDate": "Fri, 14 Aug 2026 21:19:39 +0000",
-    "source": "The Block",
-    "category": "crypto",
-    "content": "President Donald Trump-backed World Liberty Financial secured preliminary approval to become a national trust bank on Friday.",
-    "image": "https://www.tbstat.com/wp/uploads/2021/01/occ-scaled-e1772072708836-1198x675.jpg",
-    "summary": "World Liberty Financial, backed by President Donald Trump, has received conditional approval to become a national trust bank. This preliminary approval was granted by the OCC on Friday. The bank's formation and operations are still subject to certain conditions.",
     "importance": 2,
     "classified": true
   },
