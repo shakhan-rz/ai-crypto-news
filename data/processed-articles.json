@@ -1,5 +1,17 @@
 [
   {
+    "title": "Bitcoin surges above $68,000, liquidating $1.4 billion shorts as Treasury buybacks boost risk appetite",
+    "link": "https://www.coindesk.com/markets/2026/08/19/bitcoin-surges-above-usd68-000-liquidating-usd1-4-billion-shorts-as-treasury-buybacks-boost-risk-appetite",
+    "pubDate": "Wed, 19 Aug 2026 16:18:04 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "BTC rose about 6% while ether, solana and crypto stocks climbed after the Treasury doubled the size of its bond buybacks.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/6eb2747023363cfbe065c8a674c044f684490782-1520x856.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "Bitcoin surged above $68,000, causing $1.4 billion in short liquidations. This rally, which also saw Ether, Solana, and other crypto assets climb, was attributed to the Treasury doubling its bond buybacks, thereby boosting risk appetite.",
+    "importance": 9,
+    "classified": true
+  },
+  {
     "title": "Ripple raises $275 million in senior notes for prime brokerage push",
     "link": "https://www.coindesk.com/business/2026/08/19/ripple-raises-usd275-million-in-debut-debt-offering-for-its-prime-brokerage-arm",
     "pubDate": "Wed, 19 Aug 2026 09:55:50 +0000",
@@ -32,18 +44,6 @@
     "content": "A chain of six flaws caused the cross-chain trading network to credit a pool with nearly 50 million tokens that were never properly funded, letting an attacker drain real assets.",
     "image": "https://cdn.sanity.io/images/s3y3vcno/production/5844591d4fc53908b4ecc1fda0511af88a269620-6024x4024.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
     "summary": "The Maya Protocol, a cross-chain trading network, suffered an exploit due to a series of six flaws, leading to an $11 million loss in pool value. An attacker was able to drain Bitcoin and other real assets after the network improperly credited a pool with nearly 50 million unfunded tokens.",
-    "importance": 9,
-    "classified": true
-  },
-  {
-    "title": "U.S. SEC proposes first major crypto rule in surprise announcement",
-    "link": "https://www.coindesk.com/policy/2026/08/18/r",
-    "pubDate": "Tue, 18 Aug 2026 19:09:33 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "The Securities and Exchange Commission issued the \"Regulation Crypto\" proposal after having cancelled a meeting days before meant to vote on it.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/f5e51d142f4aa8a9a66d07435fa821e33f12872b-4858x2733.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "The U.S. Securities and Exchange Commission has proposed its first major crypto rule, dubbed \"Regulation Crypto.\" This surprise announcement follows the recent cancellation of a meeting where the commission was expected to vote on the proposal.",
     "importance": 9,
     "classified": true
   },
@@ -180,14 +180,26 @@
     "classified": true
   },
   {
-    "title": "Wyoming joins $15 billion LayerZero exodus with state stablecoin move",
-    "link": "https://www.coindesk.com/business/2026/08/18/wyoming-joins-usd15-billion-layerzero-exodus-with-state-stablecoin-move",
-    "pubDate": "Tue, 18 Aug 2026 18:57:00 +0000",
-    "source": "CoinDesk",
+    "title": "StanChart, HSBC execute first live transaction on Swift blockchain ledger",
+    "link": "https://cointelegraph.com/news/standard-chartered-hsbc-execute-first-live-transaction-on-swift-blockchain-ledger?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Wed, 19 Aug 2026 16:30:12 +0000",
+    "source": "Cointelegraph",
     "category": "both",
-    "content": "This is the first time a U.S. government entity has publicly replaced its blockchain infrastructure specifically on security grounds.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/1932072d58873b310db7b6f8591fcacdca08ee50-1920x1303.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "Wyoming has become the first U.S. government entity to publicly replace its blockchain infrastructure, citing security concerns, in a move involving the LayerZero protocol and a state stablecoin initiative worth $15 billion.",
+    "content": "The transaction connected the banks’ separate tokenized deposit systems through Swift’s ledger, marking a step toward interoperable, 24/7 cross-border payments.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/cross-border-transaction-stablecoin-swift.jpg",
+    "summary": "Standard Chartered and HSBC completed the first live transaction using Swift's blockchain ledger, linking their tokenized deposit systems to enable interoperable, 24/7 cross-border payments.",
+    "importance": 8,
+    "classified": true
+  },
+  {
+    "title": "Standard Chartered analyst eyes $100K BTC as US Treasury doubles long-end buybacks",
+    "link": "https://cointelegraph.com/markets/bitcoin-price-100k-standard-chartered-treasury-buybacks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Wed, 19 Aug 2026 16:00:03 +0000",
+    "source": "Cointelegraph",
+    "category": "crypto",
+    "content": "Bitcoin’s rebound toward $69,000 is gaining momentum as Geoff Kendrick points to improving liquidity conditions and a potential cycle bottom.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/bull-shadow-bitcoin.jpg",
+    "summary": "Standard Chartered analyst Geoff Kendrick predicts Bitcoin could reach $100,000, citing improved liquidity and a potential market cycle bottom. The US Treasury's decision to double long-end bond buybacks is also noted as a contributing factor.",
     "importance": 8,
     "classified": true
   },
@@ -260,18 +272,6 @@
     "content": "The $613 billion asset manager will subadvise a high-yield fund tokenized across Ethereum, Solana, Avalanche and Sui.",
     "image": "https://s3-images.ctmedia.io/media/article-covers/hi-sbuidl-blackrocks-tokenized-treasury-fund.png",
     "summary": "Neuberger, a $613 billion asset manager, is collaborating with Securitize to launch a multi-chain tokenized fixed-income fund across Ethereum, Solana, Avalanche, and Sui. This initiative marks a significant step in integrating traditional finance with blockchain technology.",
-    "importance": 8,
-    "classified": true
-  },
-  {
-    "title": "China adds 8 banks to digital yuan network as operator count hits 30",
-    "link": "https://cointelegraph.com/news/china-adds-8-banks-to-digital-yuan-network-as-operator-count-hits-30?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Tue, 18 Aug 2026 08:48:51 +0000",
-    "source": "Cointelegraph",
-    "category": "crypto",
-    "content": "The newly authorized lenders will begin offering e-CNY services after completing operational and technical preparations.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-an-overview-of-chinas-e-cny.jpg",
-    "summary": "China has expanded its digital yuan (e-CNY) network by adding 8 new banks, bringing the total number of operators to 30. These newly authorized financial institutions will begin offering e-CNY services upon completion of their operational and technical preparations, signaling a significant expansion of the country's central bank digital currency infrastructure.",
     "importance": 8,
     "classified": true
   },
@@ -360,18 +360,6 @@
     "classified": true
   },
   {
-    "title": "Citi to Debut Bitcoin Custody for Institutional Investors",
-    "link": "https://bitcoinmagazine.com/news/citi-to-debut-bitcoin-custody",
-    "pubDate": "Tue, 18 Aug 2026 15:24:52 +0000",
-    "source": "Bitcoin Magazine",
-    "category": "crypto",
-    "content": "Bitcoin Magazine\n\nCiti to Debut Bitcoin Custody for Institutional Investors\nThe bank's new Custody+ service will allow institutional investors to hold Bitcoin alongside other assets on one platform. \nThis post Citi to Debut Bitcoin Custody for Institutional Investors first appeared on Bitcoin Magazine and is written by Mathew Di Salvo.",
-    "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/08/Citi-to-Debut-Bitcoin-Custody-for-Institutional-Investors.jpg",
-    "summary": "Citi is launching a new Bitcoin custody service called Custody+ for institutional investors, enabling them to hold Bitcoin alongside other assets on a single platform. This move marks a significant step for traditional finance entering the cryptocurrency space.",
-    "importance": 8,
-    "classified": true
-  },
-  {
     "title": "AI’s recursive self-improvement might not come so quickly after all",
     "link": "https://www.technologyreview.com/2026/08/18/1142188/ai-recursive-self-improvement/",
     "pubDate": "Tue, 18 Aug 2026 09:00:00 +0000",
@@ -380,6 +368,30 @@
     "content": "The AI industry’s boldest promise right now is that AI will soon improve itself, with almost no need for human oversight. LLMs can already write code, generate synthetic data for training, and optimize the computer chips they run on. Forecasts of explosive AI progress predict that what researchers call recursive self-improvement is on the horizon. …",
     "image": "",
     "summary": "Recent analysis suggests that AI's recursive self-improvement, where AI systems autonomously enhance themselves with minimal human input, may not occur as rapidly as predicted. While current AI models can perform tasks like code generation and chip optimization, the timeline for significant autonomous progress remains uncertain.",
+    "importance": 8,
+    "classified": true
+  },
+  {
+    "title": "Meet the startup helping Wall Street put a price on AI compute",
+    "link": "https://techcrunch.com/video/meet-the-startup-helping-wall-street-put-a-price-on-ai-compute/",
+    "pubDate": "Wed, 19 Aug 2026 17:26:48 +0000",
+    "source": "TechCrunch AI",
+    "category": "ai",
+    "content": "The AI buildout shows no signs of slowing. And with hundreds of billions of dollars a year going into data centers and GPUs, compute has become the single biggest cost for anyone building AI products. But for all that spending, there still isn’t a straightforward way to put a price on compute — or for firms to hedge their exposure when the price changes.  Silicon Data […]",
+    "image": "",
+    "summary": "Silicon Data is addressing the lack of a straightforward pricing mechanism for AI compute, which has become the largest cost for AI product development. The startup aims to help Wall Street firms hedge their exposure to fluctuating compute costs amid the rapid expansion of AI infrastructure.",
+    "importance": 8,
+    "classified": true
+  },
+  {
+    "title": "TerraPower’s nuclear reactor has a secret weapon for powering AI data centers",
+    "link": "https://techcrunch.com/2026/08/19/terrapowers-nuclear-reactor-has-a-secret-weapon-for-powering-ai-data-centers/",
+    "pubDate": "Wed, 19 Aug 2026 15:44:53 +0000",
+    "source": "TechCrunch AI",
+    "category": "ai",
+    "content": "TerraPower's nuclear power plant possesses a strategic advantage over competitors, especially when chasing after data center deals.",
+    "image": "",
+    "summary": "TerraPower's advanced nuclear reactor is positioned as a key advantage in securing power supply deals for AI data centers, offering a strategic edge over competitors in meeting the high energy demands of AI infrastructure.",
     "importance": 8,
     "classified": true
   },
@@ -432,14 +444,14 @@
     "classified": true
   },
   {
-    "title": "Anthropic CEO says AI backlash is ‘fundamentally a crisis of trust’",
-    "link": "https://techcrunch.com/2026/08/16/anthropic-ceo-says-ai-backlash-is-fundamentally-a-crisis-of-trust/",
-    "pubDate": "Sun, 16 Aug 2026 16:53:51 +0000",
-    "source": "TechCrunch AI",
+    "title": "OpenAI hit the brakes. Now what?",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/982323/openai-hit-brakes-voluntary-pacing-ai",
+    "pubDate": "2026-08-19T17:10:09.000Z",
+    "source": "The Verge AI",
     "category": "ai",
-    "content": "Dario Amodei is pushing back against the idea that he's been painting an overly pessimistic picture of AI.",
-    "image": "",
-    "summary": "Anthropic CEO Dario Amodei frames the current \"AI backlash\" not as an inherent problem with AI, but as a \"crisis of trust.\" He is defending his stance against criticisms that he has been overly pessimistic about the technology's future.",
+    "content": "With a looming IPO, intense competition from Anthropic, and Chinese and open-weight rivals nipping at its heels, OpenAI has plenty of reasons to move fast. Instead, it hit the brakes.\nOn Tuesday, the company said it had slowed the pace of some AI development while it tightened security and safeguards. That included a two-week pause in reinforcement learning training on its \"latest models intended for deployment,\" and an ongoing delay to its \"largest planned frontier RL run.\"\nThe decision is a very public test of an idea AI safety advocates have pushed for for years: that companies should be willing to bow out of the AI race and slow things …\nRead the full story at The Verge.",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/STK201_SAM_ALTMAN_CVIRGINIA2C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "summary": "OpenAI has temporarily paused some AI development, including a two-week halt in reinforcement learning training for upcoming models and delays to a major frontier reinforcement learning run, to prioritize security and safety measures. The move reflects growing pressure from safety advocates and intensifying competition in the AI space.",
     "importance": 8,
     "classified": true
   },
@@ -452,6 +464,18 @@
     "content": "“Compute is an asset class! Compute is an asset class!” I continue to insist as I slowly shrink down and turn into a corncob | Image: Cath Virginia / The Verge, Getty Images\t\n\nApril - 1805\nNapoleon is master of Europe\nOnly the British fleet stands before him\nCompute is now an asset class\nI see it is once again time to talk financial innovation. Apollo, BlackRock, Blackstone, Brookfield, Goldman Sachs, and KKR are all working with Nvidia to put together $500 billion in financing to turn compute into an asset class.\n\"This is really the first time that technology chips have become an investable asset class,\" Nvidia CEO Jensen Huang said to CNBC. \"These are revenue-generating assets now. They're productive, they're long-lived, they're fungible, they're flexible.\"\n\n\"This is the very beginning, like what it was whe …\n\nRead the full story at The Verge.",
     "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25835739/STKP210_JENSEN_HUANG_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
     "summary": "Nvidia is collaborating with major financial firms like Apollo, BlackRock, and Goldman Sachs to create a $500 billion financing initiative to turn compute (AI chips) into an investable asset class, positioning them as revenue-generating, long-lived, and fungible assets.",
+    "importance": 8,
+    "classified": true
+  },
+  {
+    "title": "Meta ran ads for an app promising to nudify female politicians",
+    "link": "https://arstechnica.com/ai/2026/08/meta-ran-ads-for-an-app-promising-to-nudify-female-politicians/",
+    "pubDate": "Wed, 19 Aug 2026 15:45:29 +0000",
+    "source": "Ars Technica AI",
+    "category": "ai",
+    "content": "One ad featured a pornographic video with deepfake closely resembling a US politician.",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2250404047-1152x648.jpg",
+    "summary": "Meta allowed advertisements promoting an app that used deepfake technology to create pornographic content featuring female politicians, including a video resembling a U.S. politician. The ads were later removed after public backlash.",
     "importance": 8,
     "classified": true
   },
@@ -624,15 +648,15 @@
     "classified": true
   },
   {
-    "title": "AI chatbots have failed people in crisis. Can that be fixed?",
-    "link": "https://arstechnica.com/ai/2026/08/ai-chatbots-have-failed-people-in-crisis-can-that-be-fixed/",
-    "pubDate": "Fri, 07 Aug 2026 13:49:37 +0000",
-    "source": "Ars Technica AI",
-    "category": "ai",
-    "content": "Clinicians and researchers say AI companies need to open up their safety data.",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/mentalhealthaichat-1152x648.jpg",
-    "summary": "AI chatbots have failed to support people in crisis, prompting clinicians and researchers to call for AI companies to share their safety data. This could help improve the chatbots' ability to handle sensitive situations. By opening up their safety data, AI companies can work towards creating more effective and supportive chatbots.",
-    "importance": 8,
+    "title": "Crypto campaign fund Fairshake faces $2 million setback in Florida primaries",
+    "link": "https://www.coindesk.com/policy/2026/08/19/crypto-campaign-fund-fairshake-faces-usd2-million-setback-in-florida-primaries",
+    "pubDate": "Wed, 19 Aug 2026 18:10:10 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "In a race that drew criticism to crypto's leading political action committee for featuring fake headlines in ads, Fairshake's expensive effort fell short.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/373914597fe9e651f11877c6224a99eba2c5fb52-4209x2492.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "Crypto PAC Fairshake experienced a $2 million loss in the Florida primaries, with its campaign efforts ultimately falling short. The PAC also faced criticism for using fake headlines in its advertisements.",
+    "importance": 7,
     "classified": true
   },
   {
@@ -696,14 +720,26 @@
     "classified": true
   },
   {
-    "title": "Bitcoin has gone quiet as traders chase ‘5x or 10x’ payoffs elsewhere",
-    "link": "https://www.coindesk.com/markets/2026/08/18/bitcoin-has-gone-quiet-as-traders-chase-5x-or-10x-payoffs-elsewhere",
-    "pubDate": "Tue, 18 Aug 2026 17:00:00 +0000",
-    "source": "CoinDesk",
+    "title": "FalconX, Ethena bring USDe backing assets into $1B institutional credit facility",
+    "link": "https://cointelegraph.com/news/falconx-ethena-launch-1b-usde-backed-institutional-lending-facility?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Wed, 19 Aug 2026 17:34:10 +0000",
+    "source": "Cointelegraph",
     "category": "crypto",
-    "content": "Bitcoin's price swings have hit a cycle low, squeezed by a market tug-of-war with no clear winner. The traders who once lived off its chaos have taken their risk appetite elsewhere.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/6672a5d2a8a0b0c765a25b027489beb81e47b436-7875x5250.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "Bitcoin's price volatility has reached a cycle low, caught in an unresolved market struggle. Consequently, traders who previously profited from its chaotic swings are now seeking higher returns and greater risk elsewhere in the market.",
+    "content": "The $1 billion facility will deploy assets backing USDe into overcollateralized institutional loans, expanding Ethena’s sources of returns beyond crypto basis strategies.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/dollar-fiat-money-bitcoin.png",
+    "summary": "FalconX and Ethena have established a $1 billion institutional credit facility that will use assets backing the USDe stablecoin for overcollateralized loans, diversifying Ethena’s revenue streams beyond crypto basis strategies.",
+    "importance": 7,
+    "classified": true
+  },
+  {
+    "title": "US commodities regulator imposes 5-year trading ban on ex-Alameda, FTX execs",
+    "link": "https://cointelegraph.com/news/us-cftc-trading-ban-alameda-ftx-executives?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Wed, 19 Aug 2026 15:50:58 +0000",
+    "source": "Cointelegraph",
+    "category": "crypto",
+    "content": "The consent orders ended the CFTC’s case against two former crypto executives after FTX and Alameda agreed to $12.7 billion in disgorgement and restitution payments in August 2024.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-the-cftc-action-against-ftx.jpg",
+    "summary": "The U.S. Commodity Futures Trading Commission (CFTC) has imposed a five-year trading ban on two former executives of Alameda Research and FTX following a settlement that included $12.7 billion in disgorgement and restitution payments. The ban concludes the CFTC's case against the executives after FTX and Alameda's financial penalties.",
     "importance": 7,
     "classified": true
   },
@@ -864,38 +900,50 @@
     "classified": true
   },
   {
-    "title": "South Korea moves to block Polymarket over gambling concerns",
-    "link": "https://cointelegraph.com/news/south-korea-block-polymarket-gambling-concerns?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Tue, 18 Aug 2026 08:39:57 +0000",
-    "source": "Cointelegraph",
+    "title": "OCC races to finalize GENIUS Act stablecoin rules by November",
+    "link": "https://www.theblock.co/news/regulation/2026-08-19-occ-races-to-finalize-genius-act-stablecoin-rules-by-november-412240",
+    "pubDate": "Wed, 19 Aug 2026 17:03:52 +0000",
+    "source": "The Block",
     "category": "crypto",
-    "content": "The Korea Media and Communications Commission said Polymarket’s structure and operations amount to illegal gambling despite its noncustodial design and smart contracts.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-you-are-once-again-banning-crypto-content-polymarket.jpg",
-    "summary": "South Korea's media regulator has announced plans to block Polymarket, a prediction market platform, citing illegal gambling concerns despite its use of noncustodial design and smart contracts. The decision highlights regulatory scrutiny over decentralized prediction markets.",
+    "content": "The OCC is stepping on the gas to finalize rules by November to implement a stablecoin law signed by President Trump.",
+    "image": "https://www.tbstat.com/wp/uploads/2021/01/occ-scaled-e1772072708836-1198x675.jpg",
+    "summary": "The U.S. Office of the Comptroller of the Currency (OCC) is accelerating efforts to finalize regulations by November for the GENIUS Act, a stablecoin law enacted by President Trump. The move aims to establish clear guidelines for stablecoin operations in the financial sector.",
     "importance": 7,
     "classified": true
   },
   {
-    "title": "BitBox patches ‘severe’ wallet flaws that could put funds at risk ",
-    "link": "https://cointelegraph.com/news/bitbox-patches-severe-wallet-firmware-flaws?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Tue, 18 Aug 2026 08:07:04 +0000",
-    "source": "Cointelegraph",
+    "title": "Grayscale’s latest Zcash ETF amendment shows DCG in talks to contribute 200,000 ZEC to fund",
+    "link": "https://www.theblock.co/news/markets/2026-08-19-grayscale-zcash-etf-amendment-dcg-discussions-contribute-200000-zec-fund-412232",
+    "pubDate": "Wed, 19 Aug 2026 16:57:52 +0000",
+    "source": "The Block",
     "category": "crypto",
-    "content": "BitBox recommended all users update to firmware version 9.26.5 and said it had received no reports of exploitation or fund losses.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/purse-key-keyboard-sponsor3.jpg",
-    "summary": "BitBox has released firmware version 9.26.5 to patch severe vulnerabilities in its hardware wallets that could have put user funds at risk. The company urged all users to update immediately and reported no known cases of exploitation or fund losses.",
+    "content": "While DCG is in discussions to contribute ~200,000 ZEC to the Grayscale fund, the potential transaction is nonbinding.",
+    "image": "https://www.tbstat.com/wp/uploads/2023/03/20230317_Grayscale_Color-1200x675.jpg",
+    "summary": "Grayscale has amended its Zcash ETF filing, with Digital Currency Group (DCG) reportedly in talks to contribute approximately 200,000 ZEC to the fund. The potential contribution remains nonbinding at this stage.",
     "importance": 7,
     "classified": true
   },
   {
-    "title": "Ethereum Foundation warns some tools may break with Glamsterdam upgrade",
-    "link": "https://cointelegraph.com/news/ethereum-foundation-warns-some-tools-may-break-with-glamsterdam-upgrade?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Tue, 18 Aug 2026 05:12:18 +0000",
-    "source": "Cointelegraph",
+    "title": "Injective becomes SEC-registered transfer agent as it expands tokenization push",
+    "link": "https://www.theblock.co/news/regulation/2026-08-19-injective-becomes-sec-registered-transfer-agent-expands-tokenization-push-412225",
+    "pubDate": "Wed, 19 Aug 2026 16:24:24 +0000",
+    "source": "The Block",
+    "category": "both",
+    "content": "Injective says the registration gives it a regulated way to keep track of who owns tokenized securities and how those assets change hands.",
+    "image": "https://www.tbstat.com/wp/uploads/2025/04/20250414_SEC_News_2-1200x675.jpg",
+    "summary": "Injective has become a SEC-registered transfer agent, enabling it to track ownership and transactions of tokenized securities in a regulated manner. This move supports its broader push into asset tokenization.",
+    "importance": 7,
+    "classified": true
+  },
+  {
+    "title": "Ethereum engineering firm Nethermind leaves LayerZero verifier role for Chainlink",
+    "link": "https://www.theblock.co/news/ecosystems/2026-08-19-nethermind-layerzero-chainlink-412226",
+    "pubDate": "Wed, 19 Aug 2026 16:01:13 +0000",
+    "source": "The Block",
     "category": "crypto",
-    "content": "Developers have been urged to test on Plataberget before Glamsterdam’s new gas model reaches Ethereum’s other testnets and mainnet.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/super-ethereum.jpg",
-    "summary": "The Ethereum Foundation has issued a warning that some tools may malfunction due to the upcoming Glamsterdam upgrade, which introduces a new gas model. Developers are advised to test on the Plataberget testnet before the changes roll out to other testnets and the mainnet.",
+    "content": "Nethermind said it is joining Chainlink as a node operator, where it will help secure CCIP and Data Feeds.",
+    "image": "https://www.tbstat.com/wp/uploads/2022/10/20221005_Chainlink2-1200x675.jpg",
+    "summary": "Ethereum engineering firm Nethermind is transitioning from its role as a LayerZero verifier to become a node operator for Chainlink, focusing on securing CCIP and Data Feeds. This move highlights Chainlink's expanding role in blockchain infrastructure.",
     "importance": 7,
     "classified": true
   },
@@ -1032,38 +1080,26 @@
     "classified": true
   },
   {
-    "title": "Blockchain Association backs SEC’s proposal to scrap outdated NMS rules, citing tokenization benefits",
-    "link": "https://www.theblock.co/news/regulation/2026-08-18-blockchain-association-backs-secs-proposal-to-scrap-outdated-nms-rules-citing-tokenization-benefits-412069",
-    "pubDate": "Tue, 18 Aug 2026 09:35:26 +0000",
-    "source": "The Block",
-    "category": "both",
-    "content": "The rules, established in 2005, have \"failed to achieve their stated purposes,\" the Blockchain Association said.",
-    "image": "https://www.tbstat.com/wp/uploads/2023/09/20230814_TheSEC_News2-1200x675.jpg",
-    "summary": "The Blockchain Association has endorsed the SEC's proposal to eliminate outdated NMS rules from 2005, arguing they no longer serve their original purposes and highlighting the advantages of tokenization in modern financial systems.",
+    "title": "President Trump To Host Crypto Execs at White House ",
+    "link": "https://bitcoinmagazine.com/news/trump-to-host-crypto-execs",
+    "pubDate": "Wed, 19 Aug 2026 16:58:03 +0000",
+    "source": "Bitcoin Magazine",
+    "category": "crypto",
+    "content": "Bitcoin Magazine\n\nPresident Trump To Host Crypto Execs at White House \nThe meeting with crypto execs comes after a vote on the Clarity Act was stalled.  \nThis post President Trump To Host Crypto Execs at White House  first appeared on Bitcoin Magazine and is written by Mathew Di Salvo.",
+    "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/08/Trump-White-House.jpg",
+    "summary": "President Trump is set to host executives from the cryptocurrency industry at the White House, following the stalling of a vote on the Clarity Act. The meeting highlights growing political engagement with the crypto sector.",
     "importance": 7,
     "classified": true
   },
   {
-    "title": "Kraken brings US stock trading to European Economic Area customers",
-    "link": "https://www.theblock.co/news/business/2026-08-18-kraken-us-stock-trading-europe-economic-area-412027",
-    "pubDate": "Tue, 18 Aug 2026 08:00:02 +0000",
-    "source": "The Block",
+    "title": "Bitcoin Blasts Past $68,000 After US Treasury Doubles Debt Buybacks",
+    "link": "https://bitcoinmagazine.com/news/bitcoin-blasts-past-68000",
+    "pubDate": "Wed, 19 Aug 2026 15:53:42 +0000",
+    "source": "Bitcoin Magazine",
     "category": "crypto",
-    "content": "Kraken has launched US stock trading for eligible customers across all European Economic Area member countries.",
-    "image": "https://www.tbstat.com/wp/uploads/2023/03/20230317_Kraken_Color-1200x675.jpg",
-    "summary": "Kraken has expanded its services to allow eligible customers in the European Economic Area to trade US stocks, marking a significant step in the exchange's diversification beyond cryptocurrency offerings.",
-    "importance": 7,
-    "classified": true
-  },
-  {
-    "title": "Ripple partners with South Korea’s Jeonbuk Bank for cross-border payments",
-    "link": "https://www.theblock.co/news/business/2026-08-18-ripple-south-korea-jeonbuk-bank-412049",
-    "pubDate": "Tue, 18 Aug 2026 06:17:53 +0000",
-    "source": "The Block",
-    "category": "crypto",
-    "content": "The Jeonbuk Bank collaboration marked Ripple's third Korean partnership this year, following those with Kyobo Life Insurance and Kbank.",
-    "image": "https://www.tbstat.com/wp/uploads/2026/01/20260108_Ripple_News_3-1200x675.jpg",
-    "summary": "Ripple has partnered with South Korea’s Jeonbuk Bank to facilitate cross-border payments, marking the company’s third collaboration in Korea this year. The partnership follows similar agreements with Kyobo Life Insurance and Kbank, expanding Ripple’s presence in the region.",
+    "content": "Bitcoin Magazine\n\nBitcoin Blasts Past $68,000 After US Treasury Doubles Debt Buybacks\nBitcoin blew past $68,000 on Wednesday, jumping nearly 3% over a 24-hour period after news dropped that the U.S. Treasury planned to more than double the size of its government debt repurchases.  The price of Bitcoin was recently at $68,473 at 10.30am in New York after briefly touching $68,982. The sharp jump came as yields […]\nThis post Bitcoin Blasts Past $68,000 After US Treasury Doubles Debt Buybacks first appeared on Bitcoin Magazine and is written by Mathew Di Salvo.",
+    "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/08/Bitcoin-Blasts-Past-68000-After-US-Treasury-Doubles-Debt-Buybacks.jpg",
+    "summary": "Bitcoin surged past $68,000, a 3% increase in 24 hours, following the U.S. Treasury's announcement to more than double its debt buybacks, which boosted investor confidence in the cryptocurrency market.",
     "importance": 7,
     "classified": true
   },
@@ -1236,6 +1272,18 @@
     "classified": true
   },
   {
+    "title": "Meta AI is getting a Mac app",
+    "link": "https://www.theverge.com/tech/982270/meta-ai-mac-app",
+    "pubDate": "2026-08-19T17:00:00.000Z",
+    "source": "The Verge AI",
+    "category": "ai",
+    "content": "Meta AI can create content and make suggestions based on what it “sees” on your screen. | Image: Meta\t\n\nMeta is launching a new Mac app dedicated to its AI chatbot. In an announcement on Wednesday, Meta says you can share your window with its AI chatbot, which can provide suggestions, answer questions, or create content based on what's on your screen. Meta AI on the Mac also supports dictation across all apps.\nThe launch comes as Meta makes its AI chatbot more like a productivity-focused assistant to better compete with its AI rivals - many of which already have desktop apps. You can share your window with Google's Gemini AI app, while OpenAI's ChatGPT and Anthropic's Claude apps take things a step further by allowing the chatbots to take con …\nRead the full story at The Verge.",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/MacApp_ScreenShare_0818.2.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "summary": "Meta is launching a dedicated Mac app for its AI chatbot, enabling users to share their screen with the AI for suggestions, content creation, and dictation across applications. This move aims to enhance productivity and compete with rivals like Google, OpenAI, and Anthropic, which already offer similar desktop integrations.",
+    "importance": 7,
+    "classified": true
+  },
+  {
     "title": "Robin Williams’ Instagram account brought back to fight ‘AI abuse’",
     "link": "https://www.theverge.com/entertainment/981644/robin-williams-instagram-account-ai",
     "pubDate": "2026-08-18T19:48:26.000Z",
@@ -1272,18 +1320,6 @@
     "classified": true
   },
   {
-    "title": "Anthropic explains how Claude&#8217;s invisible text watermarks will work",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/980869/anthropic-claude-watermarks-synthid-text-system",
-    "pubDate": "2026-08-17T10:57:13.000Z",
-    "source": "The Verge AI",
-    "category": "ai",
-    "content": "Anthropic has clarified how it's planning to apply invisible watermarks to Claude-generated text in order to comply with Europe's AI transparency rules. On Friday, Anthropic announced that Claude's text marking system is \"a version of the SynthID-Text approach\" - an open-source watermarking technology developed by Google DeepMind that creates detectable patterns using wording probabilities.\nThis watermarking feature, alongside C2PA support for Claude-processed images, is being introduced to meet Anthropic's obligations under the European Union's AI Act, which requires synthetic audio, image, video, and text to include machine-readable marks …\nRead the full story at The Verge.",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STKB364_CLAUDE_2_C_96d15c.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "summary": "Anthropic announced that Claude's generated text will include invisible watermarks based on Google's SynthID-Text method, embedding detectable probability patterns. This watermarking, together with C2PA support for images, is intended to satisfy the EU AI Act's transparency requirements for synthetic content.",
-    "importance": 7,
-    "classified": true
-  },
-  {
     "title": "Hidden Airtag reveals Amazon is trashing rare books to train AI",
     "link": "https://arstechnica.com/tech-policy/2026/08/hidden-airtag-reveals-amazon-is-trashing-rare-books-to-train-ai/",
     "pubDate": "Mon, 17 Aug 2026 18:13:47 +0000",
@@ -1296,6 +1332,18 @@
     "classified": true
   },
   {
+    "title": "Coinbase, Circle and Bullish jump as Clarity Act proponents express optimism about bill",
+    "link": "https://www.coindesk.com/markets/2026/08/19/coinbase-circle-and-bullish-jump-as-clarity-act-proponents-express-optimism-about-bill",
+    "pubDate": "Wed, 19 Aug 2026 15:22:29 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "COIN and BLSH rose about 8% and CRCL gained nearly 10% ahead of a key procedural vote scheduled for Sept. 15.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/4c34fd37d41afa72d01b5b6c7f4a22a2ed4a9aa0-5151x2897.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "Coinbase, Circle, and Bullish experienced significant stock price increases, with COIN and BLSH rising about 8% and CRCL gaining nearly 10%. This surge occurred ahead of a key procedural vote for the Clarity Act, scheduled for September 15th, as proponents express optimism about the bill's prospects.",
+    "importance": 6,
+    "classified": true
+  },
+  {
     "title": "Bitcoin holds $64,000 and solana leads gains amid 7% Korean chip stock slide",
     "link": "https://www.coindesk.com/markets/2026/08/19/solana-leads-bitcoin-and-ether-higher-while-korean-chip-stocks-slide-7",
     "pubDate": "Wed, 19 Aug 2026 04:25:42 +0000",
@@ -1304,6 +1352,30 @@
     "content": "Bitcoin held near $64,000 and every major except BNB gained, while Korean semiconductor stocks fell more than 7% and Fed minutes are due at 2 p.m. ET.",
     "image": "https://cdn.sanity.io/images/s3y3vcno/production/04f05b5cd4023bff86ebd19b9d5981356f50f8eb-8640x5760.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
     "summary": "Solana led gains among major cryptocurrencies, with Bitcoin holding near $64,000 and most other tokens (except BNB) also rising. This occurred while Korean semiconductor stocks experienced a significant decline of over 7%, ahead of the release of Fed minutes.",
+    "importance": 6,
+    "classified": true
+  },
+  {
+    "title": "OCC head promises final GENIUS rules by November",
+    "link": "https://cointelegraph.com/news/occ-head-jonathan-gould-genius-rules-november?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Wed, 19 Aug 2026 17:00:01 +0000",
+    "source": "Cointelegraph",
+    "category": "crypto",
+    "content": "The US banking regulator released a 376‑page proposal in February, calling for public comment on rules to implement the stablecoin bill ahead of its January 2027 effective date.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/policymaker-bill-us-genius-act.jpg",
+    "summary": "The US Office of the Comptroller of the Currency (OCC) has announced it will finalize the GENIUS rules by November, following a 376-page proposal released in February to implement the stablecoin bill ahead of its January 2027 deadline.",
+    "importance": 6,
+    "classified": true
+  },
+  {
+    "title": "Bitcoin price hits 11-week high as US Treasury doubles debt buyback size",
+    "link": "https://cointelegraph.com/markets/bitcoin-price-hits-11-week-high-as-us-treasury-doubles-debt-buyback-size?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Wed, 19 Aug 2026 15:44:09 +0000",
+    "source": "Cointelegraph",
+    "category": "crypto",
+    "content": "Bitcoin joined US stocks in a broad rally after the US Treasury announced that it was at least doubling the amount of its debt buyback operations from September.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-how-you-could-save-money-us-treasury-1.jpg",
+    "summary": "Bitcoin surged to an 11-week high following the US Treasury's announcement to at least double its debt buyback operations starting in September. The rally coincided with a broader market upswing, including US stocks.",
     "importance": 6,
     "classified": true
   },
@@ -1328,30 +1400,6 @@
     "content": "Eligible US users can fund MoonPay crypto purchases with Cash App balances as the payments firm expands beyond its core onramp business.",
     "image": "https://s3-images.ctmedia.io/media/article-covers/hi-stablecoin-has-been-listed-an-exchange-traded-note-in-europe-moonpay.jpg",
     "summary": "MoonPay has integrated Cash App Pay as a funding option for US customers to purchase cryptocurrencies, expanding its payment methods beyond traditional onramps. This move aims to simplify crypto purchases by leveraging existing Cash App balances.",
-    "importance": 6,
-    "classified": true
-  },
-  {
-    "title": "Kraken launches US-listed stock trading for EEA customers",
-    "link": "https://cointelegraph.com/news/kraken-us-stock-trading-eea-customers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Tue, 18 Aug 2026 10:53:21 +0000",
-    "source": "Cointelegraph",
-    "category": "both",
-    "content": "Eligible EEA users can trade conventional US shares alongside more than 700 tokenized xStocks through Kraken’s European entity.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-european-blockchain-partnership-24-countries-kraken.jpg",
-    "summary": "Kraken has expanded its services for European Economic Area (EEA) customers by allowing them to trade traditional US-listed stocks alongside over 700 tokenized xStocks through its European entity.",
-    "importance": 6,
-    "classified": true
-  },
-  {
-    "title": "Bitcoin price spike to $64.5K was ‘low-volume liquidity trap’: Analysis",
-    "link": "https://cointelegraph.com/markets/bitcoin-price-spike-to-645k-was-low-volume-liquidity-trap-analysis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Tue, 18 Aug 2026 09:31:15 +0000",
-    "source": "Cointelegraph",
-    "category": "crypto",
-    "content": "Bitcoin derivatives markets created a short squeeze that took BTC price action 3% higher on Monday.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/price-fall-up-road1.jpg",
-    "summary": "Bitcoin's price surged to $64.5K due to a short squeeze in derivatives markets, which artificially inflated its value by 3% on Monday. Analysts warn this spike may be a 'low-volume liquidity trap' rather than a sustainable rally.",
     "importance": 6,
     "classified": true
   },
@@ -1500,18 +1548,6 @@
     "classified": true
   },
   {
-    "title": "Cathie Wood’s Ark Invest scoops up $15 million in Block Inc shares as stock dips 3%",
-    "link": "https://www.theblock.co/news/markets/2026-08-18-cathie-wood-ark-invest-15-million-block-inc-412060",
-    "pubDate": "Tue, 18 Aug 2026 07:37:40 +0000",
-    "source": "The Block",
-    "category": "both",
-    "content": "The firm also bought $1 million worth of Securitize shares, which fell over 20% last week following disappointing Q2 results.",
-    "image": "https://www.tbstat.com/wp/uploads/2022/11/20221114_ArkInvest4-1200x675.jpg",
-    "summary": "Ark Invest, led by Cathie Wood, purchased $15 million in Block Inc shares amid a 3% stock dip, while also acquiring $1 million in Securitize shares, which dropped over 20% after weak Q2 results.",
-    "importance": 5,
-    "classified": true
-  },
-  {
     "title": "Amazon makes its AI-powered Alexa+ free on Fire TV, no Prime required",
     "link": "https://techcrunch.com/2026/08/19/amazon-makes-its-ai-powered-alexa-free-on-fire-tv-no-prime-required/",
     "pubDate": "Wed, 19 Aug 2026 15:00:00 +0000",
@@ -1548,7 +1584,7 @@
     "classified": true
   },
   {
-    "title": "Live updates: Bitcoin above $67,000 as Treasury move sends yields lower",
+    "title": "Live updates: Bitcoin and gold jump but rejected at key level as Treasury move pushes yields lower",
     "link": "https://www.coindesk.com/markets/2026/08/19/live-updates-bitcoin-holds-firm-above-usd64-000-as-south-korea-s-kospi-sinks-5-8",
     "pubDate": "Wed, 19 Aug 2026 09:05:45 +0000",
     "source": "CoinDesk",
@@ -1644,18 +1680,6 @@
     "classified": true
   },
   {
-    "title": "Whisker’s AI-powered litter robot thinks my cats swapped bodies",
-    "link": "https://www.theverge.com/tech/978323/whisker-litter-robot-5-pro-review",
-    "pubDate": "2026-08-17T11:00:00.000Z",
-    "source": "The Verge AI",
-    "category": "ai",
-    "content": "The greatest invention in pet tech in recent years is the litter robot. A machine that scoops your kitties' poop so you don't have to - what else could a cat owner possibly want? How about insights into your kitty's litter box usage that could flag health issues? Sign me up. But I have two feline friends… No worries, kitty facial recognition can handle that. \nAt least, that is the idea behind the Litter-Robot 5 Pro, the highest-end model from the OG robotic pooper scooper company Whisker. Boasting a dual camera system and an array of sensors to literally sniff out your cat's deposits, all wrapped up with AI algorithms and machine learning,  …\nRead the full story at The Verge.",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/268628_Pet_week_CVirginia_LITTER_ROBOT.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "summary": "Whisker's new Litter-Robot 5 Pro uses AI-powered facial recognition and sensors to monitor individual cats' litter box habits and health, claiming to detect issues and even identify which cat made a deposit. The device aims to provide pet owners with deeper insights into their cats' well-being.",
-    "importance": 3,
-    "classified": true
-  },
-  {
     "title": "TikTok code includes peer-to-peer payments over messaging: Bloomberg",
     "link": "https://www.coindesk.com/business/2026/08/19/tiktok-code-includes-peer-to-peer-payments-over-messaging-bloomberg",
     "pubDate": "Wed, 19 Aug 2026 10:04:30 +0000",
@@ -1664,18 +1688,6 @@
     "content": "The feature, which follows earlier moves into financial transactions, is not yet being tested anywhere, a spokesperson said.",
     "image": "https://cdn.sanity.io/images/s3y3vcno/production/398afcdc8a0cd0dbf3d4e696f733104db385aac0-6240x4160.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
     "summary": "TikTok's code reportedly includes a peer-to-peer payment feature integrated into its messaging system, according to Bloomberg. While this indicates a potential expansion into financial transactions, a spokesperson clarified that the feature is not currently being tested anywhere.",
-    "importance": 2,
-    "classified": true
-  },
-  {
-    "title": "Why people aren’t buying Mark Zuckerberg’s AI future",
-    "link": "https://techcrunch.com/2026/08/16/why-people-arent-buying-mark-zuckerbergs-ai-future/",
-    "pubDate": "Sun, 16 Aug 2026 20:32:01 +0000",
-    "source": "TechCrunch AI",
-    "category": "ai",
-    "content": "On the latest episode of Equity podcast, we discuss why not everyone is buying Zuckerberg’s vision.",
-    "image": "",
-    "summary": "The latest episode of the Equity podcast discusses why there's skepticism surrounding Mark Zuckerberg's vision for an AI future. It explores reasons why not everyone is convinced by his proposed advancements in artificial intelligence.",
     "importance": 2,
     "classified": true
   },
@@ -1700,18 +1712,6 @@
     "content": "The investment bank will help its roughly 3,000 institutional clients execute large block trades in event contracts.",
     "image": "https://cdn.sanity.io/images/s3y3vcno/production/ffc82dd8bfa03928e3e6ac8533001f583261ede8-6000x4000.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
     "summary": "Investment bank Cantor Fitzgerald is expanding its offerings by allowing its approximately 3,000 institutional clients to engage in large block trades on Kalshi's prediction markets. This move enables institutional investors to participate in event contracts through the regulated prediction exchange.",
-    "importance": 1,
-    "classified": true
-  },
-  {
-    "title": "The Pack Is the Painting: Evil Biscuit and the Schizocollage Movement Come to Hong Kong",
-    "link": "https://bitcoinmagazine.com/culture/the-pack-is-the-painting-evil-biscuit-and-the-schizocollage-movement-come-to-hong-kong",
-    "pubDate": "Tue, 18 Aug 2026 12:45:19 +0000",
-    "source": "Bitcoin Magazine",
-    "category": "ai",
-    "content": "Bitcoin Magazine\n\nThe Pack Is the Painting: Evil Biscuit and the Schizocollage Movement Come to Hong Kong\nIn 1956, at an exhibition hall in Tokyo, a Japanese artist named Saburō Murakami ran through a row of paper screens, leaving a torn, human-shaped hole in each one. The audience heard the rip in the moment but likely didn’t understand it. Murakami belonged to Gutai, the radical postwar avant-garde collective whose members painted with […]\nThis post The Pack Is the Painting: Evil Biscuit and the Schizocollage Movement Come to Hong Kong first appeared on Bitcoin Magazine and is written by Dennis Koch.",
-    "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/08/Evil-Biscuit-and-the-Schizocollage-Movement-Come-to-Hong-Kong.png",
-    "summary": "The article discusses an art exhibition in Hong Kong featuring the Schizocollage Movement and artist Evil Biscuit, drawing parallels to the Gutai collective's radical postwar avant-garde work. It highlights the event as a fusion of artistic expression and cultural commentary.",
     "importance": 1,
     "classified": true
   },
