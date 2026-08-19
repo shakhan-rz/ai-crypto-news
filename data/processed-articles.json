@@ -24,18 +24,6 @@
     "classified": true
   },
   {
-    "title": "Harmony plans rollback, wiping 109,000 transactions after ONE exploit",
-    "link": "https://cointelegraph.com/news/harmony-plans-rollback-transactions-one-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Mon, 17 Aug 2026 12:31:36 +0000",
-    "source": "Cointelegraph",
-    "category": "crypto",
-    "content": "Harmony said selectively restoring transactions could create inconsistent chain state, as Ravencoin faces a separate rollback dispute after an exploit.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/piece-unite-blockchain-cube-1.jpg",
-    "summary": "Harmony is planning a controversial rollback that would wipe 109,000 transactions following the ONE exploit, stating that selective restoration could create an inconsistent chain state. This decision mirrors a separate rollback dispute faced by Ravencoin after its own exploit, highlighting ongoing challenges in blockchain recovery.",
-    "importance": 9,
-    "classified": true
-  },
-  {
     "title": "Nvidia investing $1.5B in SoftBank data center developer behind OpenAI project",
     "link": "https://techcrunch.com/2026/08/17/nvidia-investing-1-5b-in-softbank-data-center-developer-behind-openai-project/",
     "pubDate": "Mon, 17 Aug 2026 15:16:24 +0000",
@@ -228,14 +216,14 @@
     "classified": true
   },
   {
-    "title": "XRP sinks below $1 for first time since 2024 even as Korean bank adopts Ripple Payments",
-    "link": "https://www.coindesk.com/markets/2026/08/18/xrp-slips-below-usd1-even-as-korean-regional-bank-adopts-ripple-payments",
-    "pubDate": "Tue, 18 Aug 2026 05:34:32 +0000",
-    "source": "CoinDesk",
+    "title": "MAYAChain halts network after estimated $1.7M exploit",
+    "link": "https://cointelegraph.com/news/maya-protocol-1-7m-exploit-network-halt?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Wed, 19 Aug 2026 05:13:54 +0000",
+    "source": "Cointelegraph",
     "category": "crypto",
-    "content": "Jeonbuk Bank will use Ripple’s 24/7 cross-border payment service for business remittances, but it is unknown whether the flows will use XRP or Ripple’s RLUSD stablecoin.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/b7d512ba660aea0dd60d8f3f58b1ae6ddd1786d8-1920x1282.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "XRP's price has fallen below $1 for the first time in 2024, despite news that Jeonbuk Bank in Korea has adopted Ripple's 24/7 cross-border payment service. It remains uncertain whether these business remittances will utilize the XRP cryptocurrency or Ripple's RLUSD stablecoin.",
+    "content": "A preliminary analysis says six chained bugs let a 23-message transaction drain 48.87 million CACAO, sending the token down nearly 89%.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-company-hits-vulnerability.jpg",
+    "summary": "MAYAChain suspended its network operations following a security breach where a malicious transaction exploited six chained vulnerabilities, resulting in a loss of approximately $1.7 million worth of CACAO tokens and causing the token's value to plummet by nearly 89%.",
     "importance": 8,
     "classified": true
   },
@@ -684,6 +672,18 @@
     "classified": true
   },
   {
+    "title": "Robot maker Unitree’s IPO surges 600%, outpacing crypto traders’ premarket bets",
+    "link": "https://www.coindesk.com/markets/2026/08/19/robot-maker-unitree-s-ipo-surges-600-outpacing-crypto-traders-premarket-bets",
+    "pubDate": "Wed, 19 Aug 2026 05:45:27 +0000",
+    "source": "CoinDesk",
+    "category": "both",
+    "content": "A Hyperliquid perp priced Unitree far above its IPO valuation before Shanghai trading began, but the robot maker’s first public trade still opened roughly 75% above crypto traders’ implied price.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/3e83c36265299fba3f2f0b391d99713fbc72eefb-6322x4215.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "Robot maker Unitree's IPO saw an astonishing 600% surge, far exceeding premarket bets made by crypto traders. Despite a Hyperliquid perpetual contract valuing Unitree significantly above its IPO price, the company's first public trade still opened approximately 75% higher than the implied price from crypto traders.",
+    "importance": 7,
+    "classified": true
+  },
+  {
     "title": "U.S. accounting-standards group proposes way to see stablecoins as 'cash equivalent'",
     "link": "https://www.coindesk.com/policy/2026/08/18/u-s-accounting-standards-group-proposes-way-to-see-stablecoins-as-cash-equivalent",
     "pubDate": "Tue, 18 Aug 2026 21:25:42 +0000",
@@ -732,14 +732,14 @@
     "classified": true
   },
   {
-    "title": "Monad, an Ethereum rival, offered early investors up to $60 million to cash out. Almost all said no",
-    "link": "https://www.coindesk.com/markets/2026/08/18/monad-an-ethereum-rival-offered-early-investors-up-to-usd60-million-to-cash-out-almost-all-said-no",
-    "pubDate": "Tue, 18 Aug 2026 05:18:18 +0000",
-    "source": "CoinDesk",
+    "title": "US accounting board FASB proposes conditions for stablecoins as cash equivalents",
+    "link": "https://cointelegraph.com/news/us-accounting-board-fasb-proposes-conditions-for-stablecoins-as-cash-equivalents?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Wed, 19 Aug 2026 03:58:13 +0000",
+    "source": "Cointelegraph",
     "category": "crypto",
-    "content": "The program came three months before investor unlocks begin, with MON trading below its public-sale price and most of the token supply still outside circulation.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/d6da4b040c7d5a2d1670209f241d8b091e0b80a3-1500x1004.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "Monad, an Ethereum competitor, offered early investors a $60 million opportunity to cash out ahead of upcoming token unlocks. Despite the MON token trading below its public-sale price and a significant portion of its supply not yet in circulation, nearly all early investors declined the offer, signaling strong confidence in the project's long-term potential.",
+    "content": "The FASB said secondary-market liquidity alone would not be enough, with holders needing direct issuer redemption rights and one-to-one liquid reserves.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-monitoring-payers-cryptocurrency-compliance.jpg",
+    "summary": "The US Financial Accounting Standards Board (FASB) has proposed conditions for stablecoins to be classified as cash equivalents, requiring direct issuer redemption rights and one-to-one liquid reserves, beyond just secondary-market liquidity.",
     "importance": 7,
     "classified": true
   },
@@ -1248,6 +1248,18 @@
     "classified": true
   },
   {
+    "title": "Solana leads bitcoin and ether higher while Korean chip stocks slide 7%",
+    "link": "https://www.coindesk.com/markets/2026/08/19/solana-leads-bitcoin-and-ether-higher-while-korean-chip-stocks-slide-7",
+    "pubDate": "Wed, 19 Aug 2026 04:25:42 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "Bitcoin held near $64,000 and every major except BNB gained, while Korean semiconductor stocks fell more than 7% and Fed minutes are due at 2 p.m. ET.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/04f05b5cd4023bff86ebd19b9d5981356f50f8eb-8640x5760.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "Solana led gains among major cryptocurrencies, with Bitcoin holding near $64,000 and most other tokens (except BNB) also rising. This occurred while Korean semiconductor stocks experienced a significant decline of over 7%, ahead of the release of Fed minutes.",
+    "importance": 6,
+    "classified": true
+  },
+  {
     "title": "Why the Trump-backed crypto venture is distancing itself from Hong Kong AI aggregator WorldClaw",
     "link": "https://www.coindesk.com/markets/2026/08/18/trump-linked-world-liberty-says-worldclaw-is-independent-after-questions-over-ai-model-access",
     "pubDate": "Tue, 18 Aug 2026 15:07:52 +0000",
@@ -1298,7 +1310,7 @@
   {
     "title": "Here’s what happened in crypto today",
     "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Tue, 18 Aug 2026 20:21:26 +0000",
+    "pubDate": "Wed, 19 Aug 2026 05:53:49 +0000",
     "source": "Cointelegraph",
     "category": "crypto",
     "content": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
@@ -1364,18 +1376,6 @@
     "content": "Proceeds funded STRC dividends and repurchases, while $149.1 million was added to Strategy’s US dollar reserve, which reached $4.8 billion.",
     "image": "https://s3-images.ctmedia.io/media/article-covers/hi-how-michael-saylors-strategy-became-the-largest-bitcoin-holder-1.jpg",
     "summary": "Strategy, likely MicroStrategy, raised $334 million through stock sales but did not use the proceeds to purchase Bitcoin. Instead, the funds were allocated to pay dividends, repurchase stock, and add $149.1 million to the company's US dollar reserve, which now stands at $4.8 billion. This marks a departure from its usual Bitcoin acquisition strategy for these specific funds.",
-    "importance": 6,
-    "classified": true
-  },
-  {
-    "title": "BTC price loses 200-week trend line as 2022 repeats: Five things to know in Bitcoin this week",
-    "link": "https://cointelegraph.com/markets/btc-price-loses-200-week-trend-line-as-2022-repeats?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Mon, 17 Aug 2026 11:38:52 +0000",
-    "source": "Cointelegraph",
-    "category": "crypto",
-    "content": "Bitcoin confirmed a weekly candle close below its 200-week moving average, copying the 2022 bear-market as traders warn of further BTC price downside next.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/walk-b-man-balance-rope-ropewalker-bitcoin-crypto-market-price.jpg",
-    "summary": "Bitcoin closed its weekly candle below the 200‑week moving average, mirroring the 2022 bear market pattern. Analysts warn that this break could lead to further downside pressure on BTC prices in the coming weeks.",
     "importance": 6,
     "classified": true
   },
