@@ -84,6 +84,18 @@
     "classified": true
   },
   {
+    "title": "‘It has to pass’: Andrew Cuomo warns U.S. is falling behind on crypto rules",
+    "link": "https://www.coindesk.com/policy/2026/08/18/it-has-to-pass-andrew-cuomo-warns-u-s-is-falling-behind-on-crypto-rules",
+    "pubDate": "Wed, 19 Aug 2026 01:35:36 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "Former New York Gov. Andrew Cuomo says the CLARITY Act is key to linking crypto and traditional markets.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/54d1b7ab2cd7cbb2defef225c701163a7d5b8554-4300x2867.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "Former New York Governor Andrew Cuomo has stressed the urgent need for the U.S. to pass the CLARITY Act to establish robust cryptocurrency regulations. He warns that the lack of clear rules is causing the U.S. to fall behind, hindering the crucial integration of crypto with traditional financial markets.",
+    "importance": 8,
+    "classified": true
+  },
+  {
     "title": "Robinhood CEO urges U.S. to clear path for tokenized stocks as overseas markets advance",
     "link": "https://www.coindesk.com/markets/2026/08/18/robinhood-ceo-urges-u-s-to-clear-path-for-tokenized-stocks-as-overseas-markets-advance",
     "pubDate": "Tue, 18 Aug 2026 23:11:12 +0000",
@@ -224,18 +236,6 @@
     "content": "Jeonbuk Bank will use Ripple’s 24/7 cross-border payment service for business remittances, but it is unknown whether the flows will use XRP or Ripple’s RLUSD stablecoin.",
     "image": "https://cdn.sanity.io/images/s3y3vcno/production/b7d512ba660aea0dd60d8f3f58b1ae6ddd1786d8-1920x1282.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
     "summary": "XRP's price has fallen below $1 for the first time in 2024, despite news that Jeonbuk Bank in Korea has adopted Ripple's 24/7 cross-border payment service. It remains uncertain whether these business remittances will utilize the XRP cryptocurrency or Ripple's RLUSD stablecoin.",
-    "importance": 8,
-    "classified": true
-  },
-  {
-    "title": "Bitcoin climbs above $64,000 while most majors slip",
-    "link": "https://www.coindesk.com/markets/2026/08/18/bitcoin-climbs-above-usd64-000-while-most-majors-slip",
-    "pubDate": "Tue, 18 Aug 2026 04:32:38 +0000",
-    "source": "CoinDesk",
-    "category": "both",
-    "content": "Miners have cut their computing power by a fifth over three quarters to make room for AI, and Venice's token jumped 10% after the company said it crossed $100 million in annualised revenue.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/d1da7dc81bdeb62967c50f138ab1a3e5b4aea59f-4032x3024.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "Bitcoin climbed above $64,000, while most other major cryptocurrencies slipped. A notable development highlighted is that Bitcoin miners have reduced their computing power by a fifth over the last nine months to allocate resources for AI operations. Separately, Venice's token experienced a 10% jump after the company announced achieving over $100 million in annualized revenue.",
     "importance": 8,
     "classified": true
   },
@@ -1380,6 +1380,18 @@
     "classified": true
   },
   {
+    "title": "Kalshi files to launch perpetual futures tied to US stock index, copper",
+    "link": "https://www.theblock.co/news/business/2026-08-18-kalshi-files-perps-equity-index-copper-412176",
+    "pubDate": "Wed, 19 Aug 2026 03:22:58 +0000",
+    "source": "The Block",
+    "category": "crypto",
+    "content": "Kalshi has filed with the Commodity Futures Trading Commission to offer perps tied to the MerQube US Large Cap Index and copper.",
+    "image": "https://www.tbstat.com/wp/uploads/2025/09/20250917_Kalshi_News-1200x675.jpg",
+    "summary": "Kalshi has submitted a filing with the CFTC to launch perpetual futures contracts tied to the MerQube US Large Cap Index and copper, expanding its offerings into new asset classes beyond its traditional event-based markets.",
+    "importance": 6,
+    "classified": true
+  },
+  {
     "title": "Robinhood Chain TVL surges 45% in August as tokenized RWAs lose ground",
     "link": "https://www.theblock.co/news/ecosystems/2026-08-17-robinhood-chain-tvl-surges-45-august-tokenized-rwas-lose-ground-411998",
     "pubDate": "Mon, 17 Aug 2026 22:26:02 +0000",
@@ -1556,18 +1568,6 @@
     "content": "A Florida representative not running for reelection who voted against the GENIUS and CLARITY Acts has endorsed a Democratic candidate, possibly leading to PAC-funded negative ads.",
     "image": "https://s3-images.ctmedia.io/media/article-covers/hi-crypto-industry-votes-us-1.png",
     "summary": "A political action committee (PAC) funded by Ripple and Coinbase spent $2 million in a Florida race, with minimal focus on cryptocurrency despite the sponsors' involvement. The PAC targeted a Democratic candidate in a race where a Florida representative endorsed their opponent after opposing crypto-related legislation.",
-    "importance": 4,
-    "classified": true
-  },
-  {
-    "title": "Bitcoin production slips again in July for CleanSpark, BitFuFu and Canaan",
-    "link": "https://www.theblock.co/news/business/2026-08-17-bitcoin-production-slips-again-july-cleanspark-bitfufu-canaan-411985",
-    "pubDate": "Mon, 17 Aug 2026 17:13:59 +0000",
-    "source": "The Block",
-    "category": "crypto",
-    "content": "CleanSpark is up 6.4% year to date, while BitFuFu and Canaan have fallen more than 50% and 70%, respectively.",
-    "image": "https://www.tbstat.com/wp/uploads/2023/12/20231204_BitcoinMining_News-1200x675.jpg",
-    "summary": "Bitcoin production decreased in July for CleanSpark, BitFuFu, and Canaan, with CleanSpark seeing a 6.4% year-to-date gain while BitFuFu and Canaan experienced declines of over 50% and 70%, respectively.",
     "importance": 4,
     "classified": true
   },
