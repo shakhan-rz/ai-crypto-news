@@ -12,6 +12,30 @@
     "classified": true
   },
   {
+    "title": "OpenAI trails Anthropic as losses deepen and Altman pauses frontier AI training",
+    "link": "https://www.coindesk.com/markets/2026/08/19/openai-trails-anthropic-as-losses-deepen-and-altman-pauses-frontier-ai-training",
+    "pubDate": "Wed, 19 Aug 2026 09:10:22 +0000",
+    "source": "CoinDesk",
+    "category": "ai",
+    "content": "Widening losses and intensifying competition coincide with a pause in frontier reinforcement-learning training as openai strengthens its safety controls.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/2fcf1aecd60b99a72f50543931ecd3025187c591-3000x2000.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "OpenAI is facing widening losses and intensifying competition, reportedly trailing Anthropic. In response, the company has paused its frontier reinforcement-learning training and is strengthening its safety controls.",
+    "importance": 9,
+    "classified": true
+  },
+  {
+    "title": "Maya Protocol exploit drains bitcoin and other assets as pool value drops $11 million",
+    "link": "https://www.coindesk.com/markets/2026/08/19/maya-protocol-exploit-drains-bitcoin-and-other-assets-as-pool-value-drops-usd11-million",
+    "pubDate": "Wed, 19 Aug 2026 06:36:11 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "A chain of six flaws caused the cross-chain trading network to credit a pool with nearly 50 million tokens that were never properly funded, letting an attacker drain real assets.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/5844591d4fc53908b4ecc1fda0511af88a269620-6024x4024.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "The Maya Protocol, a cross-chain trading network, suffered an exploit due to a series of six flaws, leading to an $11 million loss in pool value. An attacker was able to drain Bitcoin and other real assets after the network improperly credited a pool with nearly 50 million unfunded tokens.",
+    "importance": 9,
+    "classified": true
+  },
+  {
     "title": "U.S. SEC proposes first major crypto rule in surprise announcement",
     "link": "https://www.coindesk.com/policy/2026/08/18/r",
     "pubDate": "Tue, 18 Aug 2026 19:09:33 +0000",
@@ -204,14 +228,14 @@
     "classified": true
   },
   {
-    "title": "The bitcoin price level where leveraged bulls could get whacked",
-    "link": "https://www.coindesk.com/markets/2026/08/18/the-bitcoin-price-level-where-leveraged-bulls-could-get-whacked",
-    "pubDate": "Tue, 18 Aug 2026 05:55:43 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "Bulls are stacking longs, liquidity is thinning and one key level could trigger large liquidations.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/04f05b5cd4023bff86ebd19b9d5981356f50f8eb-8640x5760.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "The article warns of potential large liquidations in the Bitcoin market. Leveraged bulls are stacking long positions, while market liquidity is thinning, making a key price level susceptible to triggering significant sell-offs.",
+    "title": "Arthur Hayes takes CEO role at Flop Labs ahead of Q4 airdrop",
+    "link": "https://cointelegraph.com/news/arthur-hayes-ceo-role-flop-labs-q4-airdrop?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Wed, 19 Aug 2026 08:34:51 +0000",
+    "source": "Cointelegraph",
+    "category": "both",
+    "content": "Hayes revealed his new role as Flop Labs CEO and teased a “massive airdrop” from the AI inference protocol in the fourth quarter of 2026.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/arthur-hayes3.jpg",
+    "summary": "Arthur Hayes has been appointed CEO of Flop Labs, an AI inference protocol. He announced a \"massive airdrop\" from the project, which is anticipated in the fourth quarter of 2026.",
     "importance": 8,
     "classified": true
   },
@@ -672,7 +696,7 @@
     "classified": true
   },
   {
-    "title": "Robot maker Unitree’s IPO surges 600%, outpacing crypto traders’ premarket bets",
+    "title": "Robot maker Unitree’s IPO surges 600% , outpacing crypto traders’ premarket bets",
     "link": "https://www.coindesk.com/markets/2026/08/19/robot-maker-unitree-s-ipo-surges-600-outpacing-crypto-traders-premarket-bets",
     "pubDate": "Wed, 19 Aug 2026 05:45:27 +0000",
     "source": "CoinDesk",
@@ -728,6 +752,18 @@
     "content": "Sending ETH to a brand-new address will cost more than sending to an existing one, and software built around a flat fee will get the sum wrong.",
     "image": "https://cdn.sanity.io/images/s3y3vcno/production/ab4b4ef3ea79c164c0b08b3c99452c33eac9a552-1500x1042.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
     "summary": "An upcoming Ethereum upgrade will modify gas fee calculations, breaking the '21,000 gas' rule that many wallets currently rely on. Sending ETH to a new address will now cost more than sending to an existing one, necessitating updates to wallet software to correctly estimate transaction fees.",
+    "importance": 7,
+    "classified": true
+  },
+  {
+    "title": "Bitcoin ETFs add $189M as August net inflows approach $1B",
+    "link": "https://cointelegraph.com/markets/bitcoin-etf-august-net-inflows-approach-1b?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Wed, 19 Aug 2026 07:59:16 +0000",
+    "source": "Cointelegraph",
+    "category": "crypto",
+    "content": "US spot Bitcoin ETFs took in $189 million on Tuesday, lifting August net inflows to $951 million, while Ether ETFs added $71.5 million.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/bitcoin-investment-pump.jpg",
+    "summary": "US spot Bitcoin ETFs recorded $189 million in inflows on Tuesday, pushing their total net inflows for August to $951 million. Concurrently, Ether ETFs also attracted $71.5 million in new investments, indicating strong institutional interest in cryptocurrency investment products.",
     "importance": 7,
     "classified": true
   },
@@ -884,18 +920,6 @@
     "content": "The stablecoin bill signed into law last year is scheduled to go into effect in January 2027, potentially without finalized regulations from US government agencies.",
     "image": "https://s3-images.ctmedia.io/media/article-covers/hi-how-you-could-save-money-us-treasury.jpg",
     "summary": "The U.S. Treasury is advancing rules under the GENIUS Act after the July deadline, as the stablecoin legislation signed into law last year is set to take effect in January 2027. However, final regulations from federal agencies may still be pending at that time.",
-    "importance": 7,
-    "classified": true
-  },
-  {
-    "title": "Bitmine nears 5% of Ethereum supply despite $8.4B in unrealized losses",
-    "link": "https://cointelegraph.com/news/bitmine-ethereum-supply-5-82-million-eth-staking?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Mon, 17 Aug 2026 16:04:32 +0000",
-    "source": "Cointelegraph",
-    "category": "crypto",
-    "content": "Tom Lee’s Ethereum treasury company keeps buying the second-biggest crypto through the downturn, while more than 5 million staked ETH is projected to generate $287 million in annual rewards.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/eth-bitmine-1.jpg",
-    "summary": "Bitmine, Tom Lee’s Ethereum treasury company, has accumulated nearly 5% of the Ethereum supply despite holding $8.4B in unrealized losses. The firm's staked ETH holdings are expected to generate $287 million in annual rewards.",
     "importance": 7,
     "classified": true
   },
@@ -1248,7 +1272,7 @@
     "classified": true
   },
   {
-    "title": "Solana leads bitcoin and ether higher while Korean chip stocks slide 7%",
+    "title": "Bitcoin holds $64,000 and solana leads gains amid 7% Korean chip stock slide",
     "link": "https://www.coindesk.com/markets/2026/08/19/solana-leads-bitcoin-and-ether-higher-while-korean-chip-stocks-slide-7",
     "pubDate": "Wed, 19 Aug 2026 04:25:42 +0000",
     "source": "CoinDesk",
@@ -1292,18 +1316,6 @@
     "content": "BTC has dropped 0.6% since midnight UTC as Nasdaq 100 futures slip 1.1%, with the FOMC's July meeting minutes and a White House crypto summit both due Wednesday.",
     "image": "https://cdn.sanity.io/images/s3y3vcno/production/634eb6a3a714cb9a6e21fb25881f970f578e82b1-1932x1087.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
     "summary": "Bitcoin's price has slightly declined to $64,000, mirroring a dip in Nasdaq 100 futures. This comes ahead of the Federal Open Market Committee's July meeting minutes and a significant White House crypto summit, both scheduled for Wednesday.",
-    "importance": 6,
-    "classified": true
-  },
-  {
-    "title": "Live updates: Bitcoin tepidly on the rise as stocks slip",
-    "link": "https://www.coindesk.com/tech/2026/08/18/live-updates-bitcoin-holds-usd64-000-as-surging-yields-and-oil-drain-risk-appetite",
-    "pubDate": "Tue, 18 Aug 2026 08:16:11 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "The U.S. 30-year Treasury yield hit its highest since 2007 and Brent crude topped $91 as the Iran conflict escalates, pressuring stocks. Bitcoin is holding its range, for now.",
-    "image": "",
-    "summary": "Global markets are facing pressure from rising Treasury yields and oil prices, exacerbated by escalating geopolitical conflict, which is draining risk appetite and impacting stocks. Despite these broader market trends, Bitcoin is noted to be holding its price range around $64,000 for now.",
     "importance": 6,
     "classified": true
   },
@@ -1364,18 +1376,6 @@
     "content": "Bitcoin price strength saw BTC/USD pass $64,000 on 2% daily gains as gold pushed higher while US stocks wobbled on fresh US-Iran rhetoric.",
     "image": "https://s3-images.ctmedia.io/media/article-covers/hi-us-bitcoin-reserve-vs-gold-and-oil-reserves-how-do-they-compare.jpg",
     "summary": "Bitcoin surged past $64,000, gaining 2% in a day, while gold prices also rose. Meanwhile, US stocks fluctuated amid renewed US-Iran rhetoric, and oil prices were influenced by geopolitical remarks involving Trump and Oman.",
-    "importance": 6,
-    "classified": true
-  },
-  {
-    "title": "Strategy raises $334M through stock sales but buys no Bitcoin",
-    "link": "https://cointelegraph.com/news/strategy-stock-sales-buys-no-bitcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Mon, 17 Aug 2026 12:51:03 +0000",
-    "source": "Cointelegraph",
-    "category": "crypto",
-    "content": "Proceeds funded STRC dividends and repurchases, while $149.1 million was added to Strategy’s US dollar reserve, which reached $4.8 billion.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-how-michael-saylors-strategy-became-the-largest-bitcoin-holder-1.jpg",
-    "summary": "Strategy, likely MicroStrategy, raised $334 million through stock sales but did not use the proceeds to purchase Bitcoin. Instead, the funds were allocated to pay dividends, repurchase stock, and add $149.1 million to the company's US dollar reserve, which now stands at $4.8 billion. This marks a departure from its usual Bitcoin acquisition strategy for these specific funds.",
     "importance": 6,
     "classified": true
   },
@@ -1560,6 +1560,18 @@
     "classified": true
   },
   {
+    "title": "Live updates: Bitcoin remains above $64,000 as oil rises and the Kospi tumbles 6%",
+    "link": "https://www.coindesk.com/markets/2026/08/19/live-updates-bitcoin-holds-firm-above-usd64-000-as-south-korea-s-kospi-sinks-5-8",
+    "pubDate": "Wed, 19 Aug 2026 09:05:45 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "U.S. Treasury yields retreat from the highest levels in decades, while bitcoin holds above $64,000.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/7e419388b6426c6ba82d7484f7cca17b98b220bf-1280x853.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "U.S. Treasury yields are retreating from their highest levels in decades. Meanwhile, Bitcoin has managed to maintain its price above the $64,000 mark.",
+    "importance": 4,
+    "classified": true
+  },
+  {
     "title": "Ripple- and Coinbase-funded PAC spends $2M in Florida race with little mention of crypto",
     "link": "https://cointelegraph.com/news/crypto-pac-ads-florida-congress-spending?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "pubDate": "Tue, 18 Aug 2026 19:54:16 +0000",
@@ -1620,18 +1632,6 @@
     "classified": true
   },
   {
-    "title": "Bitcoin scores a rare win over S&P 500 with 2.6% rise versus 0.5% fall ",
-    "link": "https://www.coindesk.com/markets/2026/08/18/bitcoin-scored-a-rare-win-over-s-and-p-500-on-monday",
-    "pubDate": "Tue, 18 Aug 2026 10:01:23 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "BTC outperformed Wall Street on Monday, breaking its recent pattern of lagging behind U.S. stocks.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/536d7d5e6cfaca6de1f092a21de7b4cf4d742687-1500x750.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "Bitcoin outperformed Wall Street on Monday, rising 2.6% while the S&P 500 fell 0.5%. This performance broke its recent pattern of lagging behind U.S. stocks.",
-    "importance": 3,
-    "classified": true
-  },
-  {
     "title": "The role of the astronaut is in flux",
     "link": "https://www.technologyreview.com/2026/08/18/1141614/book-review-astronaut-role-in-flux/",
     "pubDate": "Tue, 18 Aug 2026 09:00:00 +0000",
@@ -1680,18 +1680,6 @@
     "classified": true
   },
   {
-    "title": "This scientist is helping build a missing map of childhood",
-    "link": "https://www.technologyreview.com/2026/08/14/1141354/deanne-taylor-gene-expression-children/",
-    "pubDate": "Fri, 14 Aug 2026 09:00:00 +0000",
-    "source": "MIT Technology Review",
-    "category": "ai",
-    "content": "In 2017, Deanne Taylor attended a presentation at the University of Pennsylvania, just a short walk from her office. A researcher was there to unveil the Human Cell Atlas, an ambitious project that aimed to map every cell in the human body. Taylor was floored, and then concerned. As details emerged, she discovered that the…",
-    "image": "",
-    "summary": "A scientist named Deanne Taylor was inspired by the Human Cell Atlas project, which aims to map every cell in the human body, and is now working on a similar project to map childhood development. The project's goal is to create a comprehensive map of childhood. Taylor's work is focused on understanding human development, particularly in early childhood.",
-    "importance": 2,
-    "classified": true
-  },
-  {
     "title": "Why people aren’t buying Mark Zuckerberg’s AI future",
     "link": "https://techcrunch.com/2026/08/16/why-people-arent-buying-mark-zuckerbergs-ai-future/",
     "pubDate": "Sun, 16 Aug 2026 20:32:01 +0000",
@@ -1724,6 +1712,18 @@
     "content": "Bitcoin Magazine\n\nThe Pack Is the Painting: Evil Biscuit and the Schizocollage Movement Come to Hong Kong\nIn 1956, at an exhibition hall in Tokyo, a Japanese artist named Saburō Murakami ran through a row of paper screens, leaving a torn, human-shaped hole in each one. The audience heard the rip in the moment but likely didn’t understand it. Murakami belonged to Gutai, the radical postwar avant-garde collective whose members painted with […]\nThis post The Pack Is the Painting: Evil Biscuit and the Schizocollage Movement Come to Hong Kong first appeared on Bitcoin Magazine and is written by Dennis Koch.",
     "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/08/Evil-Biscuit-and-the-Schizocollage-Movement-Come-to-Hong-Kong.png",
     "summary": "The article discusses an art exhibition in Hong Kong featuring the Schizocollage Movement and artist Evil Biscuit, drawing parallels to the Gutai collective's radical postwar avant-garde work. It highlights the event as a fusion of artistic expression and cultural commentary.",
+    "importance": 1,
+    "classified": true
+  },
+  {
+    "title": "Child-monitoring apps might need a reboot",
+    "link": "https://www.technologyreview.com/2026/08/19/1141623/child-monitoring-apps-need-reboot/",
+    "pubDate": "Wed, 19 Aug 2026 09:00:00 +0000",
+    "source": "MIT Technology Review",
+    "category": "ai",
+    "content": "Pam Wisniewski’s digital adolescence showed her the best and the worst of the internet. At 14, she left an abusive home, where she’d been isolated in a fifth-wheel trailer at the end of a seven-­mile dirt road. She moved in with her older sister and taught herself to type on AOL Instant Messenger. Online, she…",
+    "image": "https://wp.technologyreview.com/wp-content/uploads/2026/08/MIT-Teh-Review-Illu1-FINAL-send.jpg?w=840",
+    "summary": "The article recounts Pam Wisniewski's challenging digital adolescence, illustrating both the positive and negative impacts of the internet on vulnerable youth. It suggests a critical need to re-evaluate and \"reboot\" child-monitoring applications to better address complex user experiences and safety concerns.",
     "importance": 1,
     "classified": true
   },
