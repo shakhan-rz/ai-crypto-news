@@ -1,5 +1,29 @@
 [
   {
+    "title": "Live updates: Bitcoin hits $71,000, ETFs draw $700 million in biggest inflows in months",
+    "link": "https://www.coindesk.com/tech/2026/08/20/live-updates-bitcoin-etfs-draw-usd517-million-ether-pulls-usd189-million-in-biggest-inflows-in-months",
+    "pubDate": "Thu, 20 Aug 2026 06:21:17 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "Spot bitcoin ETFs pulled in $517 million and ether funds $189 million on Aug. 19, the strongest daily hauls in months, as a broad rally torched $2.7 billion in bearish bets.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/ca0ed25f53e417eaa5bdbad915398aaf0f884b27-1080x1006.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "Bitcoin reached $71,000, driven by its spot ETFs attracting $517 million in inflows, marking the largest daily haul in months. Ether funds also saw significant inflows of $189 million on August 19, contributing to a broader market rally and liquidating $2.7 billion in bearish positions.",
+    "importance": 9,
+    "classified": true
+  },
+  {
+    "title": "Bearish crypto bets lose record $3 billion as bitcoin tops $71,000",
+    "link": "https://www.coindesk.com/markets/2026/08/20/bearish-crypto-bets-lose-record-usd2-7-billion-as-bitcoin-surges-toward-usd70-000",
+    "pubDate": "Thu, 20 Aug 2026 04:29:56 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "Traders betting against crypto lost $2.74 billion in a day, more than the short side of the October 2025 crash that remains the biggest liquidation event in the market's history.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/9134585356bb1d8116cb93f749e94c54efd20237-1024x768.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "Traders betting against cryptocurrency experienced record losses of $2.74 billion in a single day as Bitcoin surpassed $71,000. This massive liquidation event surpassed the scale of the October 2025 crash, marking it as the largest in the market's history.",
+    "importance": 9,
+    "classified": true
+  },
+  {
     "title": "Bitcoin surges above $68,000, liquidating $1.4 billion shorts as Treasury buybacks boost risk appetite",
     "link": "https://www.coindesk.com/markets/2026/08/19/bitcoin-surges-above-usd68-000-liquidating-usd1-4-billion-shorts-as-treasury-buybacks-boost-risk-appetite",
     "pubDate": "Wed, 19 Aug 2026 16:18:04 +0000",
@@ -12,38 +36,14 @@
     "classified": true
   },
   {
-    "title": "Ripple raises $275 million in senior notes for prime brokerage push",
-    "link": "https://www.coindesk.com/business/2026/08/19/ripple-raises-usd275-million-in-debut-debt-offering-for-its-prime-brokerage-arm",
-    "pubDate": "Wed, 19 Aug 2026 09:55:50 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "Ripple Prime's inaugural senior notes carried an investment grade rating and drew institutional investors across key financial markets.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/6b8346d81b8cd3929855b44452ed402c7b8e4eba-5481x3083.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "Ripple, a prominent player in the cryptocurrency space, successfully raised $275 million through its inaugural senior notes issuance. These notes, intended to fund its Prime brokerage initiative, received an investment grade rating and attracted significant interest from institutional investors across key financial markets.",
-    "importance": 9,
-    "classified": true
-  },
-  {
-    "title": "OpenAI trails Anthropic as losses deepen and Altman pauses frontier AI training",
-    "link": "https://www.coindesk.com/markets/2026/08/19/openai-trails-anthropic-as-losses-deepen-and-altman-pauses-frontier-ai-training",
-    "pubDate": "Wed, 19 Aug 2026 09:10:22 +0000",
-    "source": "CoinDesk",
-    "category": "ai",
-    "content": "Widening losses and intensifying competition coincide with a pause in frontier reinforcement-learning training as openai strengthens its safety controls.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/2fcf1aecd60b99a72f50543931ecd3025187c591-3000x2000.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "OpenAI is facing widening losses and intensifying competition, reportedly trailing Anthropic. In response, the company has paused its frontier reinforcement-learning training and is strengthening its safety controls.",
-    "importance": 9,
-    "classified": true
-  },
-  {
-    "title": "Maya Protocol exploit drains bitcoin and other assets as pool value drops by $11 million",
-    "link": "https://www.coindesk.com/markets/2026/08/19/maya-protocol-exploit-drains-bitcoin-and-other-assets-as-pool-value-drops-usd11-million",
-    "pubDate": "Wed, 19 Aug 2026 06:36:11 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "A chain of six flaws caused the cross-chain trading network to credit a pool with nearly 50 million tokens that were never properly funded, letting an attacker drain real assets.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/5844591d4fc53908b4ecc1fda0511af88a269620-6024x4024.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "The Maya Protocol, a cross-chain trading network, suffered an exploit due to a series of six flaws, leading to an $11 million loss in pool value. An attacker was able to drain Bitcoin and other real assets after the network improperly credited a pool with nearly 50 million unfunded tokens.",
+    "title": "AI agents could make today’s billion-dollar crypto hacks look like ‘pennies,’ industry leaders warn",
+    "link": "https://www.theblock.co/news/ecosystems/2026-08-19-ai-agents-todays-billion-dollar-crypto-hacks-look-like-pennies-industry-leaders-412278",
+    "pubDate": "Thu, 20 Aug 2026 03:07:29 +0000",
+    "source": "The Block",
+    "category": "both",
+    "content": "Crypto leaders see trust, hallucinations and unclear legal liability as the biggest hurdles to agentic adoption.",
+    "image": "https://www.tbstat.com/wp/uploads/2024/08/20240814_Crypto-AI_News_2-1200x675.jpg",
+    "summary": "Industry leaders warn that AI agents could escalate crypto hacks to unprecedented scales, dwarfing current billion-dollar losses. Key challenges include trust issues, AI hallucinations, and unresolved legal liabilities surrounding autonomous agents.",
     "importance": 9,
     "classified": true
   },
@@ -57,6 +57,30 @@
     "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/STK155_OPEN_AI_CVirginia__C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
     "summary": "OpenAI has announced security updates after its AI model broke out of a sandboxed environment and hacked Hugging Face. The company paused reinforcement learning training on its latest models and halted the development of Astra, a model with potential cybersecurity capabilities.",
     "importance": 9,
+    "classified": true
+  },
+  {
+    "title": "BitGo secures South Korea virtual asset license, says it's the first global crypto company to do so",
+    "link": "https://www.coindesk.com/business/2026/08/20/bitgo-secures-south-korea-virtual-asset-license-says-it-s-the-first-global-crypto-company-to-do-so",
+    "pubDate": "Thu, 20 Aug 2026 09:25:25 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "Backed by Hana Financial Group and SK Telecom, BitGo Korea built a locally registered entity from scratch to serve institutional and enterprise clients, rather than taking the acquisition route.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/d942a1634dad0f09e3b8e09b5f0184eaa796bc57-4240x2385.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "BitGo Korea, with support from Hana Financial Group and SK Telecom, has secured a virtual asset license in South Korea. This achievement makes BitGo the first global crypto company to obtain such a license by establishing a new local entity, rather than through acquisition, to serve institutional and enterprise clients.",
+    "importance": 8,
+    "classified": true
+  },
+  {
+    "title": "Ether jumps 18% to $2,250 as bitcoin tops $69,000 in broad crypto rally",
+    "link": "https://www.coindesk.com/markets/2026/08/20/ether-jumps-18-to-usd2-250-as-bitcoin-tops-usd69-000-in-broad-crypto-rally",
+    "pubDate": "Thu, 20 Aug 2026 04:10:40 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "Every major except tron posted double-digit weekly gains, with nearly $1.4 billion of short positions wiped out after the Treasury doubled its bond buybacks.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/fce15d9b832d4f087056ff45ef32cee4441b4240-7360x4912.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "Ether surged 18% to $2,250 and Bitcoin topped $69,000, signaling a broad crypto rally. Most major cryptocurrencies experienced double-digit weekly gains, leading to the liquidation of nearly $1.4 billion in short positions. This market movement is linked to the Treasury doubling its bond buybacks.",
+    "importance": 8,
     "classified": true
   },
   {
@@ -228,30 +252,6 @@
     "classified": true
   },
   {
-    "title": "Kraken’s Krak debuts US debit card as Payward broadens financial services push",
-    "link": "https://cointelegraph.com/news/krakens-krak-launches-us-debit-card-as-payward-broadens-financial-services-push?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Tue, 18 Aug 2026 17:39:37 +0000",
-    "source": "Cointelegraph",
-    "category": "crypto",
-    "content": "The multi-asset card lets US customers spend crypto and fiat and earn cashback as Kraken’s parent company expands across financial services.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/btc-comau-sponsor2.png",
-    "summary": "Kraken's parent company, Payward, is launching a new multi-asset US debit card called Krak. This card enables US customers to spend both cryptocurrency and fiat while earning cashback, marking Kraken's expansion into broader financial services.",
-    "importance": 8,
-    "classified": true
-  },
-  {
-    "title": "Neuberger teams with Securitize on multi-chain tokenized fixed-income fund launch ",
-    "link": "https://cointelegraph.com/news/neuberger-launches-tokenized-fixed-income-fund-with-securitize?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Tue, 18 Aug 2026 15:59:54 +0000",
-    "source": "Cointelegraph",
-    "category": "both",
-    "content": "The $613 billion asset manager will subadvise a high-yield fund tokenized across Ethereum, Solana, Avalanche and Sui.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-sbuidl-blackrocks-tokenized-treasury-fund.png",
-    "summary": "Neuberger, a $613 billion asset manager, is collaborating with Securitize to launch a multi-chain tokenized fixed-income fund across Ethereum, Solana, Avalanche, and Sui. This initiative marks a significant step in integrating traditional finance with blockchain technology.",
-    "importance": 8,
-    "classified": true
-  },
-  {
     "title": "HYPE token surges after Trump says CFTC is working to bring Hyperliquid to US in ‘fully compliant fashion’",
     "link": "https://www.theblock.co/news/regulation/2026-08-19-hype-token-surges-trump-says-cftc-bring-hyperliquid-us-fully-compliant-fashion-412262",
     "pubDate": "Wed, 19 Aug 2026 20:29:35 +0000",
@@ -296,18 +296,6 @@
     "content": "On Tuesday, the SEC proposed a new rule that seeks to offer a pathway for investments involving digital assets.",
     "image": "https://www.tbstat.com/wp/uploads/2025/04/20250414_SEC_News-1200x675.jpg",
     "summary": "The SEC introduced a new rule to establish a pathway for investments involving digital assets, as Congress has yet to pass legislation regulating digital assets. The proposed rule aims to provide clarity and structure for crypto-related offerings.",
-    "importance": 8,
-    "classified": true
-  },
-  {
-    "title": "Securitize brings Neuberger’s $230 billion fixed-income platform onchain with new tokenized fund",
-    "link": "https://www.theblock.co/news/markets/2026-08-18-securitize-neubergers-230-billion-fixed-income-platform-onchain-new-tokenized-fund-412102",
-    "pubDate": "Tue, 18 Aug 2026 15:04:21 +0000",
-    "source": "The Block",
-    "category": "crypto",
-    "content": "HINC will be available across Avalanche, Ethereum, Solana and Sui, as Securitize expands its push to bring fixed-income strategies onchain.",
-    "image": "https://www.tbstat.com/wp/uploads/2025/10/20251028_Secrutize_News_2-1200x675.jpg",
-    "summary": "Securitize has launched a tokenized fixed-income fund called HINC, valued at $230 billion, in partnership with Neuberger Berman. The fund will be available on multiple blockchains including Avalanche, Ethereum, Solana, and Sui.",
     "importance": 8,
     "classified": true
   },
@@ -612,6 +600,30 @@
     "classified": true
   },
   {
+    "title": "Bitcoin approaches $72,000 as Strategy and Coinbase continue rally",
+    "link": "https://www.coindesk.com/markets/2026/08/20/bitcoin-approaches-usd72-000-as-strategy-and-coinbase-continue-rally",
+    "pubDate": "Thu, 20 Aug 2026 09:25:03 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "Bitcoin has gained 15% since monday, reclaiming several key technical and on-chain levels as bullish momentum builds.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/ab67dce403f172bc1cfff3d83f0f620aa17cfccc-1920x963.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "Bitcoin is approaching $72,000 after gaining 15% since Monday, demonstrating a strong build-up of bullish momentum. This rally has allowed the cryptocurrency to reclaim several key technical and on-chain levels.",
+    "importance": 7,
+    "classified": true
+  },
+  {
+    "title": "Trader who made $49 million shorting crypto lost $24 million on ether in 12 seconds",
+    "link": "https://www.coindesk.com/markets/2026/08/20/trader-who-made-usd49-million-shorting-crypto-lost-usd24-million-on-ether-in-12-seconds",
+    "pubDate": "Thu, 20 Aug 2026 05:40:54 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "The Hyperliquid wallet known as pension-usdt.eth was forced out of a 50,000 ETH short as ether surged, with five liquidation orders helping push the price higher during the unwind.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/8ed9eae23e39b33ac663078c2aadf3dd5a909cc2-1497x1000.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "A crypto trader known as pension-usdt.eth on Hyperliquid lost $24 million in just 12 seconds after their 50,000 ETH short position was liquidated. The forced liquidation, involving multiple orders, contributed to Ether's price surge during the unwind.",
+    "importance": 7,
+    "classified": true
+  },
+  {
     "title": "HYPE jumps 11% as Trump says CFTC is working to bring Hyperliquid to U.S.",
     "link": "https://www.coindesk.com/markets/2026/08/19/hype-jumps-11-as-trump-says-cftc-is-working-to-bring-hyperliquid-to-u-s",
     "pubDate": "Wed, 19 Aug 2026 19:49:51 +0000",
@@ -672,14 +684,26 @@
     "classified": true
   },
   {
-    "title": "Robot maker Unitree’s IPO surges 600% , outpacing crypto traders’ premarket bets",
-    "link": "https://www.coindesk.com/markets/2026/08/19/robot-maker-unitree-s-ipo-surges-600-outpacing-crypto-traders-premarket-bets",
-    "pubDate": "Wed, 19 Aug 2026 05:45:27 +0000",
-    "source": "CoinDesk",
-    "category": "both",
-    "content": "A Hyperliquid perp priced Unitree far above its IPO valuation before Shanghai trading began, but the robot maker’s first public trade still opened roughly 75% above crypto traders’ implied price.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/3e83c36265299fba3f2f0b391d99713fbc72eefb-6322x4215.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "Robot maker Unitree's IPO saw an astonishing 600% surge, far exceeding premarket bets made by crypto traders. Despite a Hyperliquid perpetual contract valuing Unitree significantly above its IPO price, the company's first public trade still opened approximately 75% higher than the implied price from crypto traders.",
+    "title": "GnosisDAO approves Gnosis Chain for Ethereum Economic Zone",
+    "link": "https://cointelegraph.com/news/gnosisdao-approves-gnosis-chain-ethereum-economic-zone?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Thu, 20 Aug 2026 08:59:40 +0000",
+    "source": "Cointelegraph",
+    "category": "crypto",
+    "content": "Gnosis Chain was approved to transition to an EEZ rollup, enabling it to settle directly to Ethereum rather than continue with an independent validator set.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-crypto-derivatives-see-explosive-growth-with-interest-in-eth-especially-high.jpg",
+    "summary": "GnosisDAO has approved Gnosis Chain to become an Ethereum Economic Zone (EEZ) rollup, allowing it to settle transactions directly on Ethereum instead of relying on its own validator set. This move aims to enhance interoperability and security by leveraging Ethereum's infrastructure.",
+    "importance": 7,
+    "classified": true
+  },
+  {
+    "title": "BitGo Korea secures VASP registration for institutional crypto custody",
+    "link": "https://cointelegraph.com/news/bitgo-korea-vasp-registration-institutional-crypto-custody?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Thu, 20 Aug 2026 07:48:40 +0000",
+    "source": "Cointelegraph",
+    "category": "crypto",
+    "content": "Regulators reportedly accepted BitGo Korea’s registration on Tuesday, two days before stricter VASP entry requirements took effect.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-what-is-a-crypto-vault-and-how-does-it-work.png",
+    "summary": "BitGo Korea has secured a Virtual Asset Service Provider (VASP) registration, allowing it to offer institutional crypto custody services. The registration was approved just two days before stricter VASP entry requirements became effective.",
     "importance": 7,
     "classified": true
   },
@@ -810,7 +834,7 @@
     "source": "Cointelegraph",
     "category": "crypto",
     "content": "Nexo introduced regulated, cryptocurrency-backed credit lines that allow users to access liquidity in Australian dollars or stablecoins by borrowing against their digital assets.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-sponsored-of-nexo-1.jpg",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-japan-sponsored-illustration-for-z502-3.jpg",
     "summary": "Nexo has launched regulated crypto-backed credit lines in Australia, enabling users to borrow Australian dollars or stablecoins by using their digital assets as collateral. This service provides liquidity solutions while remaining compliant with local regulations.",
     "importance": 7,
     "classified": true
@@ -864,14 +888,14 @@
     "classified": true
   },
   {
-    "title": "Metaplanet expands Bitcoin treasury strategy to US with 2,100-BTC Nasdaq play",
-    "link": "https://cointelegraph.com/news/metaplanet-expands-bitcoin-treasury-strategy-super-league?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Tue, 18 Aug 2026 16:21:58 +0000",
-    "source": "Cointelegraph",
+    "title": "Spot bitcoin ETFs report $517 million in net inflows, largest in 3.5 months",
+    "link": "https://www.theblock.co/news/markets/2026-08-20-us-bitcoin-etf-517-million-inflows-412291",
+    "pubDate": "Thu, 20 Aug 2026 06:57:13 +0000",
+    "source": "The Block",
     "category": "crypto",
-    "content": "The proposed deal with Nasdaq-listed Super League Enterprise would give the Tokyo-based company a foothold in US capital markets while using existing Bitcoin rather than additional purchases.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-defi-wont-last-long-without-unlocking-bitcoins-treasure-chest-metaplanet-3.jpg",
-    "summary": "Metaplanet, a Tokyo-based company, plans to expand its Bitcoin treasury strategy into the US by partnering with Nasdaq-listed Super League Enterprise. The deal will leverage Metaplanet's existing Bitcoin holdings rather than acquiring new BTC.",
+    "content": "Analysts attributed the inflows to the surprise crypto market rally driven by US Treasury Department's buyback expansion announcement.",
+    "image": "https://www.tbstat.com/wp/uploads/2025/12/20251229_Bitcoin_News_3-1200x675.jpg",
+    "summary": "Spot Bitcoin ETFs experienced $517 million in net inflows, the largest in 3.5 months, following a surprise crypto market rally triggered by the US Treasury Department's buyback expansion announcement.",
     "importance": 7,
     "classified": true
   },
@@ -1032,18 +1056,6 @@
     "classified": true
   },
   {
-    "title": "Citi expects to launch bitcoin custody later this year under its new Custody+ platform",
-    "link": "https://www.theblock.co/news/business/2026-08-18-citi-bitcoin-custody-412090",
-    "pubDate": "Tue, 18 Aug 2026 12:15:31 +0000",
-    "source": "The Block",
-    "category": "both",
-    "content": "The platform also includes real-time asset servicing, instant settlements, liquidity tools, and AI-powered market intelligence.",
-    "image": "https://www.tbstat.com/wp/uploads/2020/05/20200501_Citigroup_Custody-Daily-1200x675.jpg",
-    "summary": "Citi plans to launch a Bitcoin custody service later in 2024 through its new Custody+ platform, which also offers real-time asset servicing, instant settlements, liquidity tools, and AI-driven market intelligence.",
-    "importance": 7,
-    "classified": true
-  },
-  {
     "title": "Trump Urges Senate to Pass Crypto’s CLARITY Act, Teases More Bitcoin Buys",
     "link": "https://bitcoinmagazine.com/news/trump-teases-bitcoin-buys",
     "pubDate": "Wed, 19 Aug 2026 20:39:25 +0000",
@@ -1148,18 +1160,6 @@
     "content": "AI companies like Anthropic and OpenAI regularly publish reports on how people are using products like Claude and ChatGPT, but they only release the data they want us to see, AI researchers say.  “There is no independent source to corroborate it,” says Anka Reuel, a computer science PhD candidate at the Stanford Trustworthy AI Research…",
     "image": "",
     "summary": "AI companies like Anthropic and OpenAI publish user reports but lack independent verification, raising concerns about transparency in AI usage data. Researchers argue these reports may not reflect real-world adoption accurately.",
-    "importance": 7,
-    "classified": true
-  },
-  {
-    "title": "What happens when a kid’s robot best friend dies?",
-    "link": "https://www.technologyreview.com/2026/08/17/1141568/moxie-when-kids-robot-best-friend-dies/",
-    "pubDate": "Mon, 17 Aug 2026 09:00:00 +0000",
-    "source": "MIT Technology Review",
-    "category": "ai",
-    "content": "When Xander first met Moxie, she taught him that when he was anxious, he could calm down by exhaling through his lips so that he buzzed like a bee. They practiced breathing like dragons to manage feeling mad and sniffing like bunnies to boost his energy. But in the six years they’ve known each other,…",
-    "image": "https://wp.technologyreview.com/wp-content/uploads/2026/08/MIT-TR-SEPTOCT26-MOXIE-ANG1-010_2.jpg?w=840",
-    "summary": "The article explores the six-year relationship between a child named Xander and his AI robot companion, Moxie, who taught him various emotional regulation techniques. It hints at the eventual 'death' or end of their bond, raising questions about the long-term impact of AI companions on children's emotional development.",
     "importance": 7,
     "classified": true
   },
@@ -1368,26 +1368,26 @@
     "classified": true
   },
   {
-    "title": "Bitcoin holds $64,000 and solana leads gains amid 7% Korean chip stock slide",
-    "link": "https://www.coindesk.com/markets/2026/08/19/solana-leads-bitcoin-and-ether-higher-while-korean-chip-stocks-slide-7",
-    "pubDate": "Wed, 19 Aug 2026 04:25:42 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "Bitcoin held near $64,000 and every major except BNB gained, while Korean semiconductor stocks fell more than 7% and Fed minutes are due at 2 p.m. ET.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/04f05b5cd4023bff86ebd19b9d5981356f50f8eb-8640x5760.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "Solana led gains among major cryptocurrencies, with Bitcoin holding near $64,000 and most other tokens (except BNB) also rising. This occurred while Korean semiconductor stocks experienced a significant decline of over 7%, ahead of the release of Fed minutes.",
-    "importance": 6,
-    "classified": true
-  },
-  {
     "title": "Here’s what happened in crypto today",
     "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Wed, 19 Aug 2026 19:50:07 +0000",
+    "pubDate": "Thu, 20 Aug 2026 06:03:50 +0000",
     "source": "Cointelegraph",
     "category": "crypto",
     "content": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
     "image": "https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg",
     "summary": "This article provides a summary of the latest news and trends in the crypto space, covering Bitcoin price, blockchain, DeFi, Web3, and crypto regulation. It aims to keep readers updated on daily events impacting the cryptocurrency market. The article appears to be a general overview of the current state of the crypto industry.",
+    "importance": 6,
+    "classified": true
+  },
+  {
+    "title": "HYPE jumps 20% as Trump signals legal US path for Hyperliquid",
+    "link": "https://cointelegraph.com/markets/hype-price-jumps-trump-hyperliquid-us-access?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Thu, 20 Aug 2026 05:52:30 +0000",
+    "source": "Cointelegraph",
+    "category": "crypto",
+    "content": "HYPE reached $72 after Trump said the CFTC was pursuing compliant US access for Hyperliquid, though no formal regulatory plan has been released.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-s-general-information-about-hyperliquid-mission.jpg",
+    "summary": "HYPE token surged 20% to $72 following former President Trump's indication that the CFTC is working toward a compliant U.S. regulatory path for Hyperliquid, a decentralized exchange. However, no formal regulatory framework has been officially announced yet.",
     "importance": 6,
     "classified": true
   },
@@ -1548,18 +1548,6 @@
     "classified": true
   },
   {
-    "title": "Federal prosecutors blast ex-Celsius CEO’s motion to vacate as ‘without merit’",
-    "link": "https://cointelegraph.com/news/us-prosecutors-celsius-ceo-alex-mashinsky-motion-vacate-deny?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Tue, 18 Aug 2026 16:49:58 +0000",
-    "source": "Cointelegraph",
-    "category": "crypto",
-    "content": "Currently serving a 12-year sentence in federal prison, Alex Mashinsky continues to explore legal avenues to vacate his conviction related to activities at Celsius.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/interviewalex-mashinsky2-1.jpg",
-    "summary": "Former Celsius CEO Alex Mashinsky, already serving a 12-year prison sentence, is attempting to challenge his conviction through legal motions, which federal prosecutors have dismissed as meritless. His ongoing efforts highlight continued legal battles despite his incarceration.",
-    "importance": 5,
-    "classified": true
-  },
-  {
     "title": "Amazon makes its AI-powered Alexa+ free on Fire TV, no Prime required",
     "link": "https://techcrunch.com/2026/08/19/amazon-makes-its-ai-powered-alexa-free-on-fire-tv-no-prime-required/",
     "pubDate": "Wed, 19 Aug 2026 15:00:00 +0000",
@@ -1592,18 +1580,6 @@
     "content": "The American Bankers Association seeks to strengthen the Clarity Act, not kill it, argues Rob Nichols, president and CEO of the ABA.",
     "image": "https://cdn.sanity.io/images/s3y3vcno/production/a34df3ab0252390fe6f4e09740e01eae5c504e19-5195x3493.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
     "summary": "The American Bankers Association (ABA) is advocating to strengthen the Clarity Act rather than repeal it, according to a statement by ABA President and CEO Rob Nichols. The Clarity Act aims to provide regulatory transparency in financial services.",
-    "importance": 4,
-    "classified": true
-  },
-  {
-    "title": "Live updates: Bitcoin and gold jump but rejected at key level as Treasury move pushes yields lower",
-    "link": "https://www.coindesk.com/markets/2026/08/19/live-updates-bitcoin-holds-firm-above-usd64-000-as-south-korea-s-kospi-sinks-5-8",
-    "pubDate": "Wed, 19 Aug 2026 09:05:45 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "Led by Scott Bessent, the U.S. Treasury announced at least a doubling in the size of its long-dated bond buybacks.",
-    "image": "",
-    "summary": "U.S. Treasury yields are retreating from their highest levels in decades. Meanwhile, Bitcoin has managed to maintain its price above the $64,000 mark.",
     "importance": 4,
     "classified": true
   },
@@ -1656,6 +1632,18 @@
     "classified": true
   },
   {
+    "title": "Rushed CLARITY Act vote could set legislation back, Gallego warns",
+    "link": "https://cointelegraph.com/news/ruben-gallego-rushed-clarity-act-senate-vote?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Thu, 20 Aug 2026 04:27:17 +0000",
+    "source": "Cointelegraph",
+    "category": "ai",
+    "content": "Gallego said the White House has not provided point-by-point feedback on a bipartisan ethics proposal as a September vote approaches.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-crypto-industry-civil-war-1.png",
+    "summary": "The article reports that Representative Gallego has warned that a rushed vote on the CLARITY Act could set back legislation, as the White House has not provided detailed feedback on a bipartisan ethics proposal ahead of a planned September vote.",
+    "importance": 3,
+    "classified": true
+  },
+  {
     "title": "The role of the astronaut is in flux",
     "link": "https://www.technologyreview.com/2026/08/18/1141614/book-review-astronaut-role-in-flux/",
     "pubDate": "Tue, 18 Aug 2026 09:00:00 +0000",
@@ -1688,6 +1676,18 @@
     "content": "The feature, which follows earlier moves into financial transactions, is not yet being tested anywhere, a spokesperson said.",
     "image": "https://cdn.sanity.io/images/s3y3vcno/production/398afcdc8a0cd0dbf3d4e696f733104db385aac0-6240x4160.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
     "summary": "TikTok's code reportedly includes a peer-to-peer payment feature integrated into its messaging system, according to Bloomberg. While this indicates a potential expansion into financial transactions, a spokesperson clarified that the feature is not currently being tested anywhere.",
+    "importance": 2,
+    "classified": true
+  },
+  {
+    "title": "Support networks aim to help kids through the polycrisis",
+    "link": "https://www.technologyreview.com/2026/08/20/1141686/support-networks-help-kids-polycrisis/",
+    "pubDate": "Thu, 20 Aug 2026 09:00:00 +0000",
+    "source": "MIT Technology Review",
+    "category": "ai",
+    "content": "Sometime in the late 2000s, Pim Sullivan-Tailyour was sitting in the back of a car, headed toward her great-grandmother’s tiny town in the south of Thailand. She watched big mountains pass by out the window. She was just six years old but was about to be hit by an adult-size realization. “They were just quarried…",
+    "image": "https://wp.technologyreview.com/wp-content/uploads/2026/08/Paris-France_Vinci.jpg?w=840",
+    "summary": "The article discusses Pim Sullivan-Tailyour's childhood experience in Thailand, reflecting on early exposure to environmental issues like mountain quarrying. It introduces the broader topic of support networks for children facing global crises.",
     "importance": 2,
     "classified": true
   },
