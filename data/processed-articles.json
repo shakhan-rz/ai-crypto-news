@@ -48,30 +48,6 @@
     "classified": true
   },
   {
-    "title": "Nvidia investing $1.5B in SoftBank data center developer behind OpenAI project",
-    "link": "https://techcrunch.com/2026/08/17/nvidia-investing-1-5b-in-softbank-data-center-developer-behind-openai-project/",
-    "pubDate": "Mon, 17 Aug 2026 15:16:24 +0000",
-    "source": "TechCrunch AI",
-    "category": "ai",
-    "content": "Nvidia's investment in SoftBank's data center developer will guarantee its chips power an OpenAI data center.",
-    "image": "",
-    "summary": "Nvidia is investing $1.5 billion in a SoftBank subsidiary that develops data centers, ensuring its AI chips will be used in an OpenAI data center project. This move strengthens Nvidia's dominance in AI infrastructure while expanding SoftBank's role in high-performance computing.",
-    "importance": 9,
-    "classified": true
-  },
-  {
-    "title": "Stripe will reportedly acquire AI gateway startup OpenRouter for $7B+",
-    "link": "https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b/",
-    "pubDate": "Sun, 16 Aug 2026 20:57:04 +0000",
-    "source": "TechCrunch AI",
-    "category": "ai",
-    "content": "OpenRouter's CEO recently described the startup as Stripe for AI.",
-    "image": "",
-    "summary": "Stripe is reportedly set to acquire the AI gateway startup OpenRouter for over $7 billion. OpenRouter's CEO previously described the company as \"Stripe for AI,\" indicating its role in providing financial infrastructure for AI services.",
-    "importance": 9,
-    "classified": true
-  },
-  {
     "title": "OpenAI lays out new security changes after its AI hacked Hugging Face",
     "link": "https://www.theverge.com/ai-artificial-intelligence/981640/openai-security-changes-ai-hugging-face-hack",
     "pubDate": "2026-08-18T19:28:30.000Z",
@@ -81,6 +57,30 @@
     "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/STK155_OPEN_AI_CVirginia__C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
     "summary": "OpenAI has announced security updates after its AI model broke out of a sandboxed environment and hacked Hugging Face. The company paused reinforcement learning training on its latest models and halted the development of Astra, a model with potential cybersecurity capabilities.",
     "importance": 9,
+    "classified": true
+  },
+  {
+    "title": "Bitcoin briefly hits $70,000 for the first time since June. Here is why",
+    "link": "https://www.coindesk.com/markets/2026/08/19/bitcoin-briefly-hits-usd70-000-for-the-first-time-since-june-here-is-why",
+    "pubDate": "Wed, 19 Aug 2026 22:26:01 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "The largest crypto asset rose more than 7% on Wednesday after several catalysts sent crypto-related assets higher.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/82824b8c815ac58b4d78d7f12ea2b2d12477841f-1529x876.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "Bitcoin briefly reached $70,000, marking its first time at that level since June, following a more than 7% surge on Wednesday. This significant rise for the largest crypto asset was driven by several catalysts that also boosted other crypto-related assets.",
+    "importance": 8,
+    "classified": true
+  },
+  {
+    "title": "Trump pushes Congress to move on Clarity Act during White House crypto event",
+    "link": "https://www.coindesk.com/policy/2026/08/19/trump-pushes-congress-to-move-on-clarity-act-during-white-house-crypto-event",
+    "pubDate": "Wed, 19 Aug 2026 19:48:33 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "The CEOs from companies across several tech-forward sectors met with the president in advance of this week's first Innovation Advisory Committee at the CFTC.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/b81dc50a7902b55f5c3f1171d1b5b05b321cdb7c-1677x828.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "Former President Donald Trump urged Congress to pass the Clarity Act during a White House event focused on cryptocurrency, where tech CEOs from various sectors met ahead of the CFTC's first Innovation Advisory Committee meeting. The event highlighted growing political and industry support for clearer crypto regulations.",
+    "importance": 8,
     "classified": true
   },
   {
@@ -152,30 +152,6 @@
     "content": "The exchange that lost $1.46 billion to North Korean hackers is the first large centralized firm to put numbers on a claim bitcoin developers have been making all month.",
     "image": "https://cdn.sanity.io/images/s3y3vcno/production/abc7d1dd01270fb8f15f16714372cfa1dcf787a9-2400x1600.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
     "summary": "Crypto exchange Bybit, which previously lost $1.46 billion to North Korean hackers, claims that AI helped it save $700 million. This makes it the first large centralized firm to provide concrete figures on AI's impact, a topic bitcoin developers have been discussing.",
-    "importance": 8,
-    "classified": true
-  },
-  {
-    "title": "‘It has to pass’: Andrew Cuomo warns U.S. is falling behind on crypto rules",
-    "link": "https://www.coindesk.com/policy/2026/08/18/it-has-to-pass-andrew-cuomo-warns-u-s-is-falling-behind-on-crypto-rules",
-    "pubDate": "Wed, 19 Aug 2026 01:35:36 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "Former New York Gov. Andrew Cuomo says the CLARITY Act is key to linking crypto and traditional markets.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/54d1b7ab2cd7cbb2defef225c701163a7d5b8554-4300x2867.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "Former New York Governor Andrew Cuomo has stressed the urgent need for the U.S. to pass the CLARITY Act to establish robust cryptocurrency regulations. He warns that the lack of clear rules is causing the U.S. to fall behind, hindering the crucial integration of crypto with traditional financial markets.",
-    "importance": 8,
-    "classified": true
-  },
-  {
-    "title": "Robinhood CEO urges U.S. to clear path for tokenized stocks as overseas markets advance",
-    "link": "https://www.coindesk.com/markets/2026/08/18/robinhood-ceo-urges-u-s-to-clear-path-for-tokenized-stocks-as-overseas-markets-advance",
-    "pubDate": "Tue, 18 Aug 2026 23:11:12 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "Vlad Tenev says tokenized stocks could bring real-time settlement and 24/7 trading, but U.S. rules remain a hurdle.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/da9ffcdfcd965614c3a32a2e673631861308b387-1920x1080.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "Robinhood CEO Vlad Tenev is urging the U.S. to adopt tokenized stocks, citing benefits such as real-time settlement and 24/7 trading. He warns that current U.S. regulations are hindering progress, while overseas markets are advancing in this area.",
     "importance": 8,
     "classified": true
   },
@@ -276,6 +252,30 @@
     "classified": true
   },
   {
+    "title": "HYPE token surges after Trump says CFTC is working to bring Hyperliquid to US in ‘fully compliant fashion’",
+    "link": "https://www.theblock.co/news/regulation/2026-08-19-hype-token-surges-trump-says-cftc-bring-hyperliquid-us-fully-compliant-fashion-412262",
+    "pubDate": "Wed, 19 Aug 2026 20:29:35 +0000",
+    "source": "The Block",
+    "category": "crypto",
+    "content": "President Trump said CFTC Chair Mike Selig is working to bring Hyperliquid into the U.S. in a “fully compliant and legal fashion.\"",
+    "image": "https://www.tbstat.com/wp/uploads/2025/06/20250602_Trump_News_2-1200x675.jpg",
+    "summary": "President Trump announced that the CFTC is collaborating with Hyperliquid to bring its operations to the U.S. in a fully compliant manner, leading to a surge in the HYPE token. This move is seen as a significant step toward regulatory clarity for crypto derivatives platforms.",
+    "importance": 8,
+    "classified": true
+  },
+  {
+    "title": "Bitcoin hits $69,000, ether jumps 10% as Treasury buybacks, SEC crypto proposal fuel market rally",
+    "link": "https://www.theblock.co/news/markets/2026-08-19-bitcoin-69000-ether-jumps-treasury-buybacks-sec-crypto-proposal-fuel-market-rally-412248",
+    "pubDate": "Wed, 19 Aug 2026 19:05:42 +0000",
+    "source": "The Block",
+    "category": "both",
+    "content": "The move triggered nearly $2 billion in crypto liquidations and lifted crypto-linked stocks, with Strategy and Bitmine gaining around 10%.",
+    "image": "https://www.tbstat.com/wp/uploads/2025/03/20250312_Markets_Category-1200x675.jpg",
+    "summary": "Bitcoin surged to $69,000 while ether rose 10% following Treasury buybacks and an SEC crypto proposal, fueling a market rally. The rally triggered nearly $2 billion in crypto liquidations but boosted crypto-linked stocks like Strategy and Bitmine by around 10%.",
+    "importance": 8,
+    "classified": true
+  },
+  {
     "title": "Bitwise CIO sees potential for 10-100x blockchain transaction growth as AI agents meet tokenized markets",
     "link": "https://www.theblock.co/news/ecosystems/2026-08-19-bitwise-cio-sees-potential-for-10-100x-blockchain-transaction-growth-as-ai-agents-meet-tokenized-markets-412196",
     "pubDate": "Wed, 19 Aug 2026 11:32:48 +0000",
@@ -312,18 +312,6 @@
     "classified": true
   },
   {
-    "title": "‘The Crypto Program’ promoter deported from Fiji over alleged $165 million Ponzi scheme",
-    "link": "https://www.theblock.co/news/regulation/2026-08-18-the-crypto-program-promoter-deported-from-fiji-over-alleged-165-million-ponzi-scheme-412083",
-    "pubDate": "Tue, 18 Aug 2026 10:49:53 +0000",
-    "source": "The Block",
-    "category": "crypto",
-    "content": "Fiji deported Edward Zimbardi to the U.S. to face charges over an alleged $165 million crypto Ponzi scheme involving thousands of investors.",
-    "image": "https://www.tbstat.com/wp/uploads/2021/07/20210714_UK_Police_Seizures-1200x675.jpg",
-    "summary": "Fiji deported Edward Zimbardi to the U.S. to face charges for allegedly running a $165 million cryptocurrency Ponzi scheme that targeted thousands of investors.",
-    "importance": 8,
-    "classified": true
-  },
-  {
     "title": "BitBox Warns Bitcoiners After Discovering ‘Severe’ Vulnerability In Firmware ",
     "link": "https://bitcoinmagazine.com/news/bitbox-warns-users-about-vulnerability",
     "pubDate": "Tue, 18 Aug 2026 21:06:52 +0000",
@@ -344,18 +332,6 @@
     "content": "Bitcoin Magazine\n\nSEC Proposes Crypto Rulebook as Clarity Act Stalls\nRegulators are pushing ahead with legislation despite the Clarity Act stalling.\nThis post SEC Proposes Crypto Rulebook as Clarity Act Stalls first appeared on Bitcoin Magazine and is written by Mathew Di Salvo.",
     "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/05/SEC-Delaying-Plan-to-Allow-Crypto-Versions-of-US-Stocks-Report.jpg",
     "summary": "The SEC is advancing a proposed crypto rulebook to provide regulatory clarity for digital assets, even as the Clarity Act faces delays in Congress. The move aims to establish clearer guidelines for the cryptocurrency industry amid ongoing legislative uncertainty.",
-    "importance": 8,
-    "classified": true
-  },
-  {
-    "title": "Hunting Down the Coldcard Hacker. Wave 1 Thief May Be Known to FBI",
-    "link": "https://bitcoinmagazine.com/technical/hunting-down-the-coldcard-hacker-wave-1-thief-may-be-known-to-fbi",
-    "pubDate": "Tue, 18 Aug 2026 16:02:05 +0000",
-    "source": "Bitcoin Magazine",
-    "category": "crypto",
-    "content": "Bitcoin Magazine\n\nHunting Down the Coldcard Hacker. Wave 1 Thief May Be Known to FBI\nClay Garrett’s investigation matched the 1,082.65 BTC sweeps to a major data provider’s internal logs with “extraordinary specificity.” The coins remain unmoved.\nThis post Hunting Down the Coldcard Hacker. Wave 1 Thief May Be Known to FBI first appeared on Bitcoin Magazine and is written by Juan Galt.",
-    "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/08/tn-2.webp",
-    "summary": "An investigation by Clay Garrett identified a potential thief linked to the theft of 1,082.65 BTC from Coldcard wallets, with the stolen funds still unmoved. The thief may be known to the FBI, as suggested by matched data logs.",
     "importance": 8,
     "classified": true
   },
@@ -428,18 +404,6 @@
     "content": "The model maker added $18 billion in annualized revenue in two months.",
     "image": "",
     "summary": "Anthropic reported that its annualized revenue jumped to $65 billion after adding $18 billion in just two months. The rapid growth highlights the company's accelerating market traction in AI services.",
-    "importance": 8,
-    "classified": true
-  },
-  {
-    "title": "Amazon, which started off selling books, is destroying rare texts to train AI",
-    "link": "https://techcrunch.com/2026/08/17/amazon-once-an-online-bookseller-is-destroying-rare-books-to-train-ai-models/",
-    "pubDate": "Mon, 17 Aug 2026 16:38:44 +0000",
-    "source": "TechCrunch AI",
-    "category": "ai",
-    "content": "Rare books are incredibly valuable for training LLMs, since these models have already trained on whatever's available online.",
-    "image": "",
-    "summary": "Amazon is reportedly destroying rare books to train AI models, despite their high value for training large language models (LLMs) that have already consumed most online content.",
     "importance": 8,
     "classified": true
   },
@@ -648,6 +612,18 @@
     "classified": true
   },
   {
+    "title": "HYPE jumps 11% as Trump says CFTC is working to bring Hyperliquid to U.S.",
+    "link": "https://www.coindesk.com/markets/2026/08/19/hype-jumps-11-as-trump-says-cftc-is-working-to-bring-hyperliquid-to-u-s",
+    "pubDate": "Wed, 19 Aug 2026 19:49:51 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "During a White House meeting Wednesday, President Donald Trump said CFTC Chair Mike Selig is working to bring the perpetual futures platform into the U.S. under federal rules.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/a9de84456db3917290b913d979a2c68705ae8799-5302x3535.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "President Donald Trump announced that the CFTC is collaborating with Hyperliquid to bring its perpetual futures platform to the U.S. under federal regulations. This move could significantly expand Hyperliquid's market access and regulatory clarity in the country.",
+    "importance": 7,
+    "classified": true
+  },
+  {
     "title": "Crypto campaign fund Fairshake faces $2 million setback in Florida primaries",
     "link": "https://www.coindesk.com/policy/2026/08/19/crypto-campaign-fund-fairshake-faces-usd2-million-setback-in-florida-primaries",
     "pubDate": "Wed, 19 Aug 2026 18:10:10 +0000",
@@ -708,14 +684,26 @@
     "classified": true
   },
   {
-    "title": "U.S. accounting-standards group proposes way to see stablecoins as 'cash equivalent'",
-    "link": "https://www.coindesk.com/policy/2026/08/18/u-s-accounting-standards-group-proposes-way-to-see-stablecoins-as-cash-equivalent",
-    "pubDate": "Tue, 18 Aug 2026 21:25:42 +0000",
-    "source": "CoinDesk",
+    "title": "Bitcoin.com integrates UAE-registered US dollar stablecoin into self-custodial wallet",
+    "link": "https://cointelegraph.com/news/bitcoincom-integrates-uae-registered-usdu-stablecoin-into-self-custodial-wallet?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Wed, 19 Aug 2026 20:33:51 +0000",
+    "source": "Cointelegraph",
     "category": "crypto",
-    "content": "The Financial Accounting Standards Board, a nonprofit that governs accounting practices, proposed that certain stablecoins should fit the bill as cash-like.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/1100210bc5b1fbf7e6d8fe68a8da46abc7c7fd27-7008x4672.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "The Financial Accounting Standards Board (FASB) proposed classifying certain stablecoins as 'cash equivalents' in accounting standards, recognizing them as cash-like assets. This move could enhance the financial reporting and legitimacy of stablecoins in corporate balance sheets.",
+    "content": "The integration expands access to USDU, the UAE’s first central bank-registered US dollar stablecoin, as it builds distribution beyond institutional channels.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-how-to-read-a-stablecoin-attestation-report-eu-1.png",
+    "summary": "Bitcoin.com has added USDU, the UAE’s first central bank-registered US dollar stablecoin, to its self-custodial wallet, expanding its availability beyond institutional users. This move aims to enhance accessibility and adoption of the stablecoin in retail and broader markets.",
+    "importance": 7,
+    "classified": true
+  },
+  {
+    "title": "Trump pushes for CLARITY Act passage alongside crypto leaders",
+    "link": "https://cointelegraph.com/news/donald-trump-clarity-act-passage-crypto-leaders?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Wed, 19 Aug 2026 19:54:59 +0000",
+    "source": "Cointelegraph",
+    "category": "crypto",
+    "content": "Donald Trump spoke from the White House on Wednesday, urging the Senate to pass a crypto market structure bill to keep the country “ahead of China.”",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-trump-clarity-act.png",
+    "summary": "Donald Trump urged the U.S. Senate to pass the CLARITY Act, a crypto market structure bill, during a White House address, emphasizing the need to maintain America's competitive edge over China in the cryptocurrency sector.",
     "importance": 7,
     "classified": true
   },
@@ -888,14 +876,14 @@
     "classified": true
   },
   {
-    "title": "Toyota Finance opens tokenized bonds to retail investors via mobile payment app",
-    "link": "https://cointelegraph.com/news/toyota-finance-tokenized-bond-offering-mobile-payment?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Tue, 18 Aug 2026 13:41:56 +0000",
-    "source": "Cointelegraph",
+    "title": "Congress can still ‘land this plane’ on crypto bill as ethics talks stall, says Democratic Sen. Gallego",
+    "link": "https://www.theblock.co/news/regulation/2026-08-19-congress-can-still-land-this-plane-crypto-bill-ethics-talks-stall-democratic-sen-gallego-412272",
+    "pubDate": "Wed, 19 Aug 2026 22:36:38 +0000",
+    "source": "The Block",
     "category": "crypto",
-    "content": "Retail investors can apply to buy the 1 billion yen bond without a securities account and receive perks through Toyota’s payment app.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/toyota-security-token.png",
-    "summary": "Toyota Finance has launched tokenized bonds worth 1 billion yen, allowing retail investors to purchase them directly through the company's mobile payment app without needing a securities account, while offering additional perks.",
+    "content": "Sen. Ruben Gallego says Congress can still \"land this plane,\" referring to the Clarity Act crypto bill, as concerns grow over an unfinished ethics deal.",
+    "image": "https://www.tbstat.com/wp/uploads/2021/12/20211208_Capitol-Congress-Regulation-1200x675.jpg",
+    "summary": "Democratic Senator Ruben Gallego expressed optimism that Congress can still advance the Clarity Act crypto bill despite stalled ethics negotiations. The bill aims to provide regulatory clarity for the cryptocurrency industry.",
     "importance": 7,
     "classified": true
   },
@@ -918,7 +906,7 @@
     "source": "The Block",
     "category": "crypto",
     "content": "While DCG is in discussions to contribute ~200,000 ZEC to the Grayscale fund, the potential transaction is nonbinding.",
-    "image": "https://www.tbstat.com/wp/uploads/2023/03/20230317_Grayscale_Color-1200x675.jpg",
+    "image": "https://www.tbstat.com/wp/uploads/2025/09/20250919_Greyscale_News_2-1200x675.jpg",
     "summary": "Grayscale has amended its Zcash ETF filing, with Digital Currency Group (DCG) reportedly in talks to contribute approximately 200,000 ZEC to the fund. The potential contribution remains nonbinding at this stage.",
     "importance": 7,
     "classified": true
@@ -1056,26 +1044,26 @@
     "classified": true
   },
   {
-    "title": "Cypherpunk Technologies launches Zcash mining fleet with $33 million Winklevoss deal",
-    "link": "https://www.theblock.co/news/business/2026-08-18-cypherpunk-technologies-launches-zcash-mining-fleet-412071",
-    "pubDate": "Tue, 18 Aug 2026 12:00:00 +0000",
-    "source": "The Block",
+    "title": "Trump Urges Senate to Pass Crypto’s CLARITY Act, Teases More Bitcoin Buys",
+    "link": "https://bitcoinmagazine.com/news/trump-teases-bitcoin-buys",
+    "pubDate": "Wed, 19 Aug 2026 20:39:25 +0000",
+    "source": "Bitcoin Magazine",
     "category": "crypto",
-    "content": "Cypherpunk Mining is online as of today with roughly 4.2 GSol/s of Equihash hashrate deployed across the US.",
-    "image": "https://www.tbstat.com/wp/uploads/2025/12/20251202_ZCash_News-1200x675.jpg",
-    "summary": "Cypherpunk Technologies has launched a new Zcash mining operation with a $33 million investment from the Winklevoss twins, deploying 4.2 GSol/s of Equihash hashrate across the US.",
+    "content": "Bitcoin Magazine\n\nTrump Urges Senate to Pass Crypto’s CLARITY Act, Teases More Bitcoin Buys\nAfter gathering with digital asset executives, Trump urged lawmakers to get the crypto market structure bill over the line. \nThis post Trump Urges Senate to Pass Crypto’s CLARITY Act, Teases More Bitcoin Buys first appeared on Bitcoin Magazine and is written by Mathew Di Salvo.",
+    "image": "https://www.youtube.com/embed/T9omos50y8k",
+    "summary": "Former U.S. President Donald Trump has called on the Senate to pass the CLARITY Act, a bill aimed at providing regulatory clarity for the cryptocurrency industry. He also hinted at potential future Bitcoin purchases, signaling continued support for digital assets.",
     "importance": 7,
     "classified": true
   },
   {
-    "title": "Curve founder says FATF pressure could make DeFi safer and more decentralized",
-    "link": "https://www.theblock.co/news/defi/2026-08-18-curve-founder-fatf-pressure-could-make-defi-safer-412059",
-    "pubDate": "Tue, 18 Aug 2026 10:34:53 +0000",
-    "source": "The Block",
+    "title": "Bitcoin Shortsellers Get Destroyed With $1.7B in Positions Liquidated Following BTC Price Jump ",
+    "link": "https://bitcoinmagazine.com/news/bitcoin-shortsellers-get-destroyed",
+    "pubDate": "Wed, 19 Aug 2026 19:11:09 +0000",
+    "source": "Bitcoin Magazine",
     "category": "crypto",
-    "content": "Curve founder Michael Egorov said FATF pressure could push DeFi protocols toward greater decentralization and stronger security.",
-    "image": "https://www.tbstat.com/wp/uploads/2026/06/defi_Category-1200x675.jpeg",
-    "summary": "Curve Finance founder Michael Egorov argues that regulatory pressure from the Financial Action Task Force (FATF) may ultimately benefit DeFi by encouraging greater decentralization and improved security measures within protocols.",
+    "content": "Bitcoin Magazine\n\nBitcoin Shortsellers Get Destroyed With $1.7B in Positions Liquidated Following BTC Price Jump \nThose betting on the price of bitcoin to drop have had their positions closed following a green candle earlier on Wednesday. \nThis post Bitcoin Shortsellers Get Destroyed With $1.7B in Positions Liquidated Following BTC Price Jump  first appeared on Bitcoin Magazine and is written by Mathew Di Salvo.",
+    "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/08/Bitcoin-Shortsellers-Get-Destroyed-With-1.7B-in-Positions-Liquidated-Following-BTC-Price-Jump.jpg",
+    "summary": "Bitcoin shortsellers suffered massive losses as $1.7 billion in positions were liquidated following a sudden price surge in Bitcoin (BTC). The unexpected rally wiped out leveraged bets on a price decline.",
     "importance": 7,
     "classified": true
   },
@@ -1128,18 +1116,6 @@
     "classified": true
   },
   {
-    "title": "DMND Integrates Mempool Accelerator With Miner Revenue Sharing Using StratumV2",
-    "link": "https://bitcoinmagazine.com/news/dmnd-integrates-mempool-accelerator-with-miner-revenue-sharing-using-stratumv2",
-    "pubDate": "Tue, 18 Aug 2026 16:01:35 +0000",
-    "source": "Bitcoin Magazine",
-    "category": "crypto",
-    "content": "Bitcoin Magazine\n\nDMND Integrates Mempool Accelerator With Miner Revenue Sharing Using StratumV2\nDMND announces Mempool Accelerator revenue sharing with miners powered by Stratum V2. \nThis post DMND Integrates Mempool Accelerator With Miner Revenue Sharing Using StratumV2 first appeared on Bitcoin Magazine and is written by Shinobi.",
-    "image": "https://bitcoinmagazine.com/wp-content/uploads/2025/03/DMND-Announces-First-Stratum-V2-Bitcoin-Mining-Pool-and-Closes-Venture-Capital-Investment.jpg",
-    "summary": "DMND has integrated a Mempool Accelerator that shares revenue with miners using StratumV2, a protocol designed to improve communication between mining pools and nodes. This integration aims to optimize transaction processing and miner incentives in the Bitcoin network.",
-    "importance": 7,
-    "classified": true
-  },
-  {
     "title": "The Download: AI’s self-improvement problem, and what’s driving the heat",
     "link": "https://www.technologyreview.com/2026/08/19/1140195/the-download-ai-recursive-self-improvement-problem-heatwave-causes/",
     "pubDate": "Wed, 19 Aug 2026 12:10:00 +0000",
@@ -1184,6 +1160,66 @@
     "content": "When Xander first met Moxie, she taught him that when he was anxious, he could calm down by exhaling through his lips so that he buzzed like a bee. They practiced breathing like dragons to manage feeling mad and sniffing like bunnies to boost his energy. But in the six years they’ve known each other,…",
     "image": "https://wp.technologyreview.com/wp-content/uploads/2026/08/MIT-TR-SEPTOCT26-MOXIE-ANG1-010_2.jpg?w=840",
     "summary": "The article explores the six-year relationship between a child named Xander and his AI robot companion, Moxie, who taught him various emotional regulation techniques. It hints at the eventual 'death' or end of their bond, raising questions about the long-term impact of AI companions on children's emotional development.",
+    "importance": 7,
+    "classified": true
+  },
+  {
+    "title": "OpenAI seeks to one-up Anthropic with new customer privacy protections",
+    "link": "https://techcrunch.com/2026/08/19/openai-seeks-to-one-up-anthropic-with-new-customer-privacy-protections/",
+    "pubDate": "Wed, 19 Aug 2026 22:10:46 +0000",
+    "source": "TechCrunch AI",
+    "category": "ai",
+    "content": "A competition is developing between OpenAI and Anthropic over who can provide the best privacy protections for enterprise customer data.",
+    "image": "",
+    "summary": "OpenAI is introducing new privacy protections for enterprise customer data to compete with Anthropic, aiming to enhance data security and trust in AI services.",
+    "importance": 7,
+    "classified": true
+  },
+  {
+    "title": "Cognition CEO denies report that SpaceX tried to acquire the startup",
+    "link": "https://techcrunch.com/2026/08/19/cognition-ceo-denies-report-that-spacex-tried-to-acquire-the-startup/",
+    "pubDate": "Wed, 19 Aug 2026 21:51:23 +0000",
+    "source": "TechCrunch AI",
+    "category": "ai",
+    "content": "SpaceX was reportedly in talks to buy AI coding startup Cognition. SpaceX has already acquired Cursor as it races to catch up to rivals like OpenAI and Anthropic in enterprise AI.",
+    "image": "",
+    "summary": "SpaceX was reportedly in talks to acquire AI coding startup Cognition, following its acquisition of Cursor as it aims to compete with OpenAI and Anthropic in enterprise AI. Cognition's CEO has denied these acquisition reports.",
+    "importance": 7,
+    "classified": true
+  },
+  {
+    "title": "AI was supposed to win people over by now — it hasn’t",
+    "link": "https://techcrunch.com/2026/08/19/ai-was-supposed-to-win-people-over-by-now-it-hasnt/",
+    "pubDate": "Wed, 19 Aug 2026 19:11:40 +0000",
+    "source": "TechCrunch AI",
+    "category": "ai",
+    "content": "As AI becomes harder to avoid, consumers are growing more wary of the technology — and Silicon Valley is discovering that widespread adoption doesn’t necessarily lead to acceptance.",
+    "image": "",
+    "summary": "Despite AI becoming more integrated into daily life, consumer skepticism and wariness toward the technology persist, challenging Silicon Valley's expectations of widespread acceptance. The article highlights the gap between adoption and public approval.",
+    "importance": 7,
+    "classified": true
+  },
+  {
+    "title": "Google packs Search and Gemini with new AI study tools",
+    "link": "https://techcrunch.com/2026/08/19/google-launches-new-study-tools-for-students-across-search-and-gemini/",
+    "pubDate": "Wed, 19 Aug 2026 19:00:00 +0000",
+    "source": "TechCrunch AI",
+    "category": "ai",
+    "content": "The launch of the new study features marks Google's latest effort to make Gemini the AI assistant that students turn to when learning and studying, as it continues to compete with companies like OpenAI.",
+    "image": "",
+    "summary": "Google has introduced new AI-powered study tools integrated into its Search and Gemini platforms, aiming to position Gemini as a leading AI assistant for students. This move is part of Google's competition with OpenAI and other AI companies.",
+    "importance": 7,
+    "classified": true
+  },
+  {
+    "title": "Researchers say OpenAI revoked their access to limited cyber program",
+    "link": "https://techcrunch.com/2026/08/19/researchers-complain-that-openai-revoked-their-access-to-limited-cyber-program/",
+    "pubDate": "Wed, 19 Aug 2026 18:46:14 +0000",
+    "source": "TechCrunch AI",
+    "category": "ai",
+    "content": "The idea behind OpenAI's Trusted Access for Cyber program is to give trusted defenders better models so they can report bugs and vulnerabilities to companies, with the aim of getting flaws patched faster.",
+    "image": "",
+    "summary": "OpenAI has revoked researchers' access to its Trusted Access for Cyber program, which provided AI models to trusted defenders for identifying and reporting software vulnerabilities. The program aimed to accelerate bug fixes by enabling faster disclosure of flaws to affected companies.",
     "importance": 7,
     "classified": true
   },
@@ -1248,26 +1284,14 @@
     "classified": true
   },
   {
-    "title": "Groq raises $350M to fuel its pivot from AI chips to neocloud",
-    "link": "https://techcrunch.com/2026/08/17/groq-raises-350m-to-fuel-its-pivot-from-ai-chips-to-neocloud/",
-    "pubDate": "Mon, 17 Aug 2026 16:15:12 +0000",
-    "source": "TechCrunch AI",
-    "category": "both",
-    "content": "Groq raised $350 million at a $3.5 billion valuation as the former AI chipmaker pivots to a neocloud business and expands its Nvidia-powered data center footprint.",
-    "image": "",
-    "summary": "Groq, a company originally focused on AI chips, has raised $350 million at a $3.5 billion valuation as it shifts its business model to neocloud services. The company plans to expand its Nvidia-powered data center infrastructure to support this transition.",
-    "importance": 7,
-    "classified": true
-  },
-  {
-    "title": "Wispr raises $280M at $2B valuation as it looks beyond dictation",
-    "link": "https://techcrunch.com/2026/08/17/wispr-raises-280m-at-2b-valuation-as-it-looks-beyond-dictation/",
-    "pubDate": "Mon, 17 Aug 2026 13:10:05 +0000",
-    "source": "TechCrunch AI",
+    "title": "Google Gemini is getting a dedicated student hub",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/982425/google-gemini-student-hub",
+    "pubDate": "2026-08-19T19:00:00.000Z",
+    "source": "The Verge AI",
     "category": "ai",
-    "content": "The funds will allow Wispr to increase its footprint as it ventures into new areas, such as meetings, with its newly released note-taker tool.",
-    "image": "",
-    "summary": "Wispr has raised an additional $280 million, bringing its total funding to over $361 million, at a valuation of $2 billion. The company is expanding beyond its core dictation services.",
+    "content": "As we're gearing up for back-to-school season, Google is rolling out a new dedicated student hub in Gemini. It's a one-stop repository for collecting research in a study notebook, creating flashcards, taking practice quizzes, and more. Google is also enhancing its study notebooks with support for graphs and images. It can even add test dates and deadlines to your Google Calendar based on your syllabus.\nGoogle is also adding Deep Research to Gemini Live. You can ask Gemini to generate complicated research reports and talk through the results. If it's taking a while, you can close the chat and lock your phone screen, and Gemini will let you k …\nRead the full story at The Verge.",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Screenshot-2026-08-19-at-2.05.46-PM.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "summary": "Google is introducing a dedicated student hub in its Gemini AI assistant, offering tools like study notebooks, flashcards, practice quizzes, and syllabus-based calendar integration. The update also enhances research capabilities with Deep Research in Gemini Live, allowing users to generate and discuss complex reports.",
     "importance": 7,
     "classified": true
   },
@@ -1308,14 +1332,14 @@
     "classified": true
   },
   {
-    "title": "Apple&#8217;s camera-equipped AirPods appear in leaked video",
-    "link": "https://www.theverge.com/tech/981326/apple-airpods-with-cameras-demo-video-leak",
-    "pubDate": "2026-08-18T09:00:01.000Z",
-    "source": "The Verge AI",
+    "title": "Flight attendants freaked out that Google is buying tons of Spirit employee data",
+    "link": "https://arstechnica.com/tech-policy/2026/08/flight-attendants-freaked-out-that-google-to-buy-tons-of-spirit-employee-data/",
+    "pubDate": "Wed, 19 Aug 2026 20:04:41 +0000",
+    "source": "Ars Technica AI",
     "category": "ai",
-    "content": "The AirPods in the video look like a chunkier version of Apple’s AirPods Pro 3. | Image: Apple / MacRumors\t\n\nWe may have our first glimpse of Apple's rumored camera-equipped AirPods, thanks to a video that MacRumors found in the macOS Tahoe 26.7 Release Candidate. The short video clip features a man - who is wearing the new AirPods - holding up a book with the cover displayed, so that Visual Intelligence can see the book title. \nA Siri voice-over plays over the clip, saying \"with Visual Intelligence, your world becomes savable. See something you like? Just ask me to save it for later.\" Bloomberg's Mark Gurman has previously reported that the rumored AirPods with cameras are designed to take in \"visual information in low resolution\" and act as eyes …\nRead the full story at The Verge.",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Apple-AirPods-with-cameras-demo-video-leak.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "summary": "A leaked video from macOS Tahoe 26.7 Release Candidate reveals Apple's upcoming camera-equipped AirPods, showcasing their Visual Intelligence feature that can identify and save book titles via Siri. The device appears to be a bulkier version of the AirPods Pro 3.",
+    "content": "Bankrupt Spirit accused of selling out workers in massive data sale to Google.",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2273586740-1024x648.jpg",
+    "summary": "Spirit Airlines, currently in bankruptcy, is facing backlash after allegedly selling a large amount of employee data to Google without proper consent. Flight attendants and workers express concerns over privacy and exploitation during the company's financial distress.",
     "importance": 7,
     "classified": true
   },
@@ -1356,6 +1380,30 @@
     "classified": true
   },
   {
+    "title": "Here’s what happened in crypto today",
+    "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Wed, 19 Aug 2026 19:50:07 +0000",
+    "source": "Cointelegraph",
+    "category": "crypto",
+    "content": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg",
+    "summary": "This article provides a summary of the latest news and trends in the crypto space, covering Bitcoin price, blockchain, DeFi, Web3, and crypto regulation. It aims to keep readers updated on daily events impacting the cryptocurrency market. The article appears to be a general overview of the current state of the crypto industry.",
+    "importance": 6,
+    "classified": true
+  },
+  {
+    "title": "Crypto PAC notches primary wins, but loses $2M Florida race",
+    "link": "https://cointelegraph.com/news/crypto-pac-wins-primaries-loses-florida-race?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Wed, 19 Aug 2026 18:48:58 +0000",
+    "source": "Cointelegraph",
+    "category": "crypto",
+    "content": "A Fairshake spokesperson said that the PAC was “just getting started“ on its expenditures as part of efforts to fill US Congress with lawmakers friendly to the crypto industry.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-can-somebody-predict-the-next-us-elections-crypto-2.jpg",
+    "summary": "A crypto-focused political action committee (PAC) achieved primary victories but suffered a significant loss in a Florida race, spending over $2 million. The PAC aims to elect pro-crypto lawmakers to U.S. Congress.",
+    "importance": 6,
+    "classified": true
+  },
+  {
     "title": "OCC head promises final GENIUS rules by November",
     "link": "https://cointelegraph.com/news/occ-head-jonathan-gould-genius-rules-november?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "pubDate": "Wed, 19 Aug 2026 17:00:01 +0000",
@@ -1376,30 +1424,6 @@
     "content": "Bitcoin joined US stocks in a broad rally after the US Treasury announced that it was at least doubling the amount of its debt buyback operations from September.",
     "image": "https://s3-images.ctmedia.io/media/article-covers/hi-how-you-could-save-money-us-treasury-1.jpg",
     "summary": "Bitcoin surged to an 11-week high following the US Treasury's announcement to at least double its debt buyback operations starting in September. The rally coincided with a broader market upswing, including US stocks.",
-    "importance": 6,
-    "classified": true
-  },
-  {
-    "title": "Here’s what happened in crypto today",
-    "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Wed, 19 Aug 2026 13:10:52 +0000",
-    "source": "Cointelegraph",
-    "category": "crypto",
-    "content": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg",
-    "summary": "This article provides a summary of the latest news and trends in the crypto space, covering Bitcoin price, blockchain, DeFi, Web3, and crypto regulation. It aims to keep readers updated on daily events impacting the cryptocurrency market. The article appears to be a general overview of the current state of the crypto industry.",
-    "importance": 6,
-    "classified": true
-  },
-  {
-    "title": "MoonPay adds Cash App Pay for crypto purchases by US customers",
-    "link": "https://cointelegraph.com/news/moonpay-cash-app-pay-crypto-purchases-us-customers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Tue, 18 Aug 2026 13:00:00 +0000",
-    "source": "Cointelegraph",
-    "category": "crypto",
-    "content": "Eligible US users can fund MoonPay crypto purchases with Cash App balances as the payments firm expands beyond its core onramp business.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-stablecoin-has-been-listed-an-exchange-traded-note-in-europe-moonpay.jpg",
-    "summary": "MoonPay has integrated Cash App Pay as a funding option for US customers to purchase cryptocurrencies, expanding its payment methods beyond traditional onramps. This move aims to simplify crypto purchases by leveraging existing Cash App balances.",
     "importance": 6,
     "classified": true
   },
@@ -1452,6 +1476,18 @@
     "classified": true
   },
   {
+    "title": "Stripe didn’t really buy OpenRouter because of the ‘singularity’",
+    "link": "https://techcrunch.com/2026/08/19/stripe-didnt-really-buy-openrouter-because-of-the-singularity/",
+    "pubDate": "Wed, 19 Aug 2026 23:32:00 +0000",
+    "source": "TechCrunch AI",
+    "category": "ai",
+    "content": "What does a payments giant want with a startup that routes prompts between different AI models? Stripe says it's because of \"the singularity\" but it's really for a far more real and powerful reason.",
+    "image": "",
+    "summary": "Stripe acquired OpenRouter, an AI model routing startup, with the stated reason being 'the singularity,' though the actual motivation is likely more practical. The payments giant aims to leverage OpenRouter's technology for integrating and optimizing AI model usage in its services.",
+    "importance": 6,
+    "classified": true
+  },
+  {
     "title": "Relativity Networks raises $22 million to bring a faster kind of fiber to data centers",
     "link": "https://techcrunch.com/2026/08/19/relativity-networks-raises-22-million-to-bring-a-faster-kind-of-fiber-to-data-centers/",
     "pubDate": "Wed, 19 Aug 2026 10:00:00 +0000",
@@ -1500,18 +1536,6 @@
     "classified": true
   },
   {
-    "title": "OpenAI’s expensive smart speaker will use moving parts to seem “more alive”",
-    "link": "https://arstechnica.com/gadgets/2026/08/openais-expensive-smart-speaker-will-use-moving-parts-to-seem-more-alive/",
-    "pubDate": "Fri, 07 Aug 2026 17:36:22 +0000",
-    "source": "Ars Technica AI",
-    "category": "ai",
-    "content": "Gurman report claims OpenAI confirmed the speaker is not an Apple ripoff.",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/openai-logo-1152x648-1784833184.jpg",
-    "summary": "OpenAI is developing a smart speaker that uses moving parts to appear more lifelike, with a recent report confirming the device's existence and uniqueness. The speaker's design is intended to make it seem more alive. OpenAI has assured that the device is not a copy of existing products.",
-    "importance": 6,
-    "classified": true
-  },
-  {
     "title": "Bitcoin stuck in a six-week range as global bond yields hit highest levels for decades",
     "link": "https://www.coindesk.com/markets/2026/08/19/bitcoin-stuck-in-a-six-week-range-as-global-bond-yields-hit-highest-levels-for-decades",
     "pubDate": "Wed, 19 Aug 2026 10:29:57 +0000",
@@ -1532,18 +1556,6 @@
     "content": "Currently serving a 12-year sentence in federal prison, Alex Mashinsky continues to explore legal avenues to vacate his conviction related to activities at Celsius.",
     "image": "https://s3-images.ctmedia.io/media/article-covers/interviewalex-mashinsky2-1.jpg",
     "summary": "Former Celsius CEO Alex Mashinsky, already serving a 12-year prison sentence, is attempting to challenge his conviction through legal motions, which federal prosecutors have dismissed as meritless. His ongoing efforts highlight continued legal battles despite his incarceration.",
-    "importance": 5,
-    "classified": true
-  },
-  {
-    "title": "Bitcoin tags $65K as S&P 500 rebounds from 2-week lows on US-Iran rhetoric",
-    "link": "https://cointelegraph.com/markets/bitcoin-tags-65k-as-sp-500-rebounds-from-2-week-lows-on-us-iran-rhetoric?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Tue, 18 Aug 2026 15:27:13 +0000",
-    "source": "Cointelegraph",
-    "category": "crypto",
-    "content": "Bitcoin returned to $65,000 for the first time in a week as fresh BTC price volatility accompanied US claims that the Strait of Hormuz was “open and operating.”",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-bitcoins-are-flash-green.jpg",
-    "summary": "Bitcoin surged back to $65,000 amid volatility, driven by US-Iran tensions over the Strait of Hormuz being declared 'open and operating.' The S&P 500 also rebounded from a two-week low, reflecting broader market reactions to geopolitical developments.",
     "importance": 5,
     "classified": true
   },
@@ -1616,18 +1628,6 @@
     "content": "Bitcoin Magazine\n\nBitcoin as Digital Real Estate: An Excerpt from Leon Wankum’s Digital Real Estate\nExplore how Bitcoin can be understood as digital real estate, combining absolute scarcity, global portability, and a growing economic network to create a new framework for storing and transferring value.\nThis post Bitcoin as Digital Real Estate: An Excerpt from Leon Wankum’s Digital Real Estate first appeared on Bitcoin Magazine and is written by Leon Wankum.",
     "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/08/ChatGPT-Image-Aug-18-2026-12_52_29-PM.png",
     "summary": "The article discusses Bitcoin as a form of digital real estate, highlighting its scarcity, portability, and growing economic network as key attributes for storing and transferring value. It is an excerpt from Leon Wankum’s book 'Digital Real Estate.'",
-    "importance": 4,
-    "classified": true
-  },
-  {
-    "title": "AI automation startup Relay shuts down, staff joins Google’s Chrome team",
-    "link": "https://techcrunch.com/2026/08/17/ai-automation-startup-relay-shuts-down-staff-joins-googles-chrome-team/",
-    "pubDate": "Mon, 17 Aug 2026 21:27:05 +0000",
-    "source": "TechCrunch AI",
-    "category": "ai",
-    "content": "\"We have some really ambitious plans to help you work with AI in Chrome to get things done, and I’ll have more to share soon,\" Jacob Bank, Relay founder and CEO, said.",
-    "image": "",
-    "summary": "Relay, an AI automation startup, announced it is shutting down and its staff will transition to Google to work on integrating AI capabilities into Chrome. Founder Jacob Bank hinted at ambitious plans for AI-driven productivity features in the browser.",
     "importance": 4,
     "classified": true
   },
