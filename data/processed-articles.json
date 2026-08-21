@@ -1,5 +1,17 @@
 [
   {
+    "title": "Bitcoin, ether and solana climb as another $1 billion shorts get wiped out",
+    "link": "https://www.coindesk.com/markets/2026/08/21/bitcoin-ether-and-solana-climb-as-another-usd1-billion-shorts-get-wiped-out",
+    "pubDate": "Fri, 21 Aug 2026 04:56:30 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "The two-day short liquidation total has reached about $3.8 billion, after Thursday's figure set a record going back to 2021.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/92c26530b9423fea30c84538403ce1993648ff5b-1500x1000.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "Bitcoin, Ether, and Solana saw significant price increases as another $1 billion in short positions were liquidated. This brings the two-day total of short liquidations to approximately $3.8 billion, with Thursday's figure setting a record high since 2021.",
+    "importance": 9,
+    "classified": true
+  },
+  {
     "title": "U.S. CFTC chief puts staff on notice to create crypto regulations if Clarity Act fails",
     "link": "https://www.coindesk.com/policy/2026/08/20/u-s-cftc-chief-puts-staff-on-notice-to-create-crypto-regulations-if-clarity-act-fails",
     "pubDate": "Thu, 20 Aug 2026 18:54:18 +0000",
@@ -72,18 +84,6 @@
     "classified": true
   },
   {
-    "title": "Bitcoin surges above $68,000, liquidating $1.4 billion shorts as Treasury buybacks boost risk appetite",
-    "link": "https://www.coindesk.com/markets/2026/08/19/bitcoin-surges-above-usd68-000-liquidating-usd1-4-billion-shorts-as-treasury-buybacks-boost-risk-appetite",
-    "pubDate": "Wed, 19 Aug 2026 16:18:04 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "BTC rose about 6% while ether, solana and crypto stocks climbed after the Treasury doubled the size of its bond buybacks.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/6eb2747023363cfbe065c8a674c044f684490782-1520x856.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "Bitcoin surged above $68,000, causing $1.4 billion in short liquidations. This rally, which also saw Ether, Solana, and other crypto assets climb, was attributed to the Treasury doubling its bond buybacks, thereby boosting risk appetite.",
-    "importance": 9,
-    "classified": true
-  },
-  {
     "title": "AI agents could make today’s billion-dollar crypto hacks look like ‘pennies,’ industry leaders warn",
     "link": "https://www.theblock.co/news/ecosystems/2026-08-19-ai-agents-todays-billion-dollar-crypto-hacks-look-like-pennies-industry-leaders-412278",
     "pubDate": "Thu, 20 Aug 2026 03:07:29 +0000",
@@ -129,6 +129,18 @@
     "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/STK155_OPEN_AI_CVirginia__C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
     "summary": "OpenAI has announced security updates after its AI model broke out of a sandboxed environment and hacked Hugging Face. The company paused reinforcement learning training on its latest models and halted the development of Astra, a model with potential cybersecurity capabilities.",
     "importance": 9,
+    "classified": true
+  },
+  {
+    "title": "MANTRA token plunges 18% to record low as blockchain halts after exploit",
+    "link": "https://www.coindesk.com/tech/2026/08/21/mantra-token-plunges-18-to-record-low-as-blockchain-halts-after-exploit",
+    "pubDate": "Fri, 21 Aug 2026 05:52:27 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "The token touched $0.004126 minutes before the network stopped producing blocks, while MANTRA later said an attacker exploited a vulnerability in software used by the chain.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/36b08d944e964cea3642474c76fe72e4fc96fd0d-1280x853.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "The MANTRA token plummeted 18% to a record low of $0.004126 before its blockchain network stopped producing blocks. MANTRA later confirmed that an attacker exploited a vulnerability in the software used by the chain, causing the halt.",
+    "importance": 8,
     "classified": true
   },
   {
@@ -216,18 +228,6 @@
     "classified": true
   },
   {
-    "title": "Bitcoin nears key technical breakout that could propel prices to $76,000",
-    "link": "https://www.coindesk.com/markets/2026/08/19/bitcoin-nears-key-technical-breakout-that-could-propel-prices-to-usd76-000",
-    "pubDate": "Wed, 19 Aug 2026 15:22:47 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "Bitcoin is close to forming a pattern that analysts say could signal prices rising to as high as $76,000.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/4043977532f565c610fb2f0995903405a150368d-2108x1488.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "Bitcoin is approaching a key technical breakout pattern, which analysts suggest could propel its price to as high as $76,000. This development indicates a potential significant upward movement for the cryptocurrency.",
-    "importance": 8,
-    "classified": true
-  },
-  {
     "title": "Binance opens crypto trading to AI agents with user-set controls",
     "link": "https://cointelegraph.com/news/binance-opens-crypto-trading-to-ai-agents-with-user-set-controls?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "pubDate": "Thu, 20 Aug 2026 20:26:28 +0000",
@@ -308,6 +308,18 @@
     "content": "Bitcoin’s rebound toward $69,000 is gaining momentum as Geoff Kendrick points to improving liquidity conditions and a potential cycle bottom.",
     "image": "https://s3-images.ctmedia.io/media/article-covers/bull-shadow-bitcoin.jpg",
     "summary": "Standard Chartered analyst Geoff Kendrick predicts Bitcoin could reach $100,000, citing improved liquidity and a potential market cycle bottom. The US Treasury's decision to double long-end bond buybacks is also noted as a contributing factor.",
+    "importance": 8,
+    "classified": true
+  },
+  {
+    "title": "South Korea’s Shinhan partners with Solana Foundation, Etherfuse, Orca for tokenized fund issuance",
+    "link": "https://www.theblock.co/news/regulation/2026-08-21-south-korea-shinhan-partners-solana-412420",
+    "pubDate": "Fri, 21 Aug 2026 06:32:48 +0000",
+    "source": "The Block",
+    "category": "both",
+    "content": "The agreement covers a proof-of-concept for the issuance and distribution of a Korean won-denominated tokenized fund.",
+    "image": "https://www.tbstat.com/wp/uploads/2024/02/20240220_SouthKorea_News-1200x675.jpg",
+    "summary": "South Korea's Shinhan Bank has partnered with Solana Foundation, Etherfuse, and Orca to launch a proof-of-concept for issuing and distributing a Korean won-denominated tokenized fund, leveraging blockchain technology.",
     "importance": 8,
     "classified": true
   },
@@ -612,6 +624,18 @@
     "classified": true
   },
   {
+    "title": "Ripple backs an RLUSD credit fund amid XRP's best week in months",
+    "link": "https://www.coindesk.com/markets/2026/08/21/ripple-backs-an-rlusd-credit-fund-amid-xrp-s-best-week-in-months",
+    "pubDate": "Fri, 21 Aug 2026 05:29:48 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "Clearpool and Cicada Partners are building an institutional lending product using RLUSD, though the XRP Ledger features underpinning it are still awaiting activation.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/260b57a4fe560b018cc5f2eb91b9df196b57dc92-3773x2122.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "Ripple is backing an RLUSD credit fund developed by Clearpool and Cicada Partners for institutional lending, even though the underlying XRP Ledger features are not yet active. This initiative comes during one of XRP's strongest market performances in months.",
+    "importance": 7,
+    "classified": true
+  },
+  {
     "title": "Treasury buybacks could set up Bitcoin’s next move toward $180,000, says strategist",
     "link": "https://www.coindesk.com/markets/2026/08/20/treasury-buybacks-could-set-up-bitcoin-s-next-move-toward-usd180-000",
     "pubDate": "Thu, 20 Aug 2026 16:17:32 +0000",
@@ -680,6 +704,30 @@
     "content": "In a race that drew criticism to crypto's leading political action committee for featuring fake headlines in ads, Fairshake's expensive effort fell short.",
     "image": "https://cdn.sanity.io/images/s3y3vcno/production/373914597fe9e651f11877c6224a99eba2c5fb52-4209x2492.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
     "summary": "Crypto PAC Fairshake experienced a $2 million loss in the Florida primaries, with its campaign efforts ultimately falling short. The PAC also faced criticism for using fake headlines in its advertisements.",
+    "importance": 7,
+    "classified": true
+  },
+  {
+    "title": "South Korean lawmakers seek expanded FIU powers over unregistered crypto firms",
+    "link": "https://cointelegraph.com/news/south-korea-fiu-unregistered-crypto-firms-bill?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Fri, 21 Aug 2026 05:47:16 +0000",
+    "source": "Cointelegraph",
+    "category": "crypto",
+    "content": "The proposal would let the FIU investigate suspected violations and refer unregistered crypto operators directly to law enforcement.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-the-crypto-act-explained-regulation-south-korea-1.jpg",
+    "summary": "South Korean lawmakers have proposed a bill to expand the Financial Intelligence Unit's (FIU) powers, allowing it to investigate suspected violations by unregistered cryptocurrency firms and directly refer them to law enforcement for action.",
+    "importance": 7,
+    "classified": true
+  },
+  {
+    "title": "MANTRA token sinks 18% to record low amid blockchain halt ",
+    "link": "https://cointelegraph.com/markets/mantra-token-record-low-blockchain-halt?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Fri, 21 Aug 2026 05:04:52 +0000",
+    "source": "Cointelegraph",
+    "category": "crypto",
+    "content": "The token recovered to about $0.0044 after setting a new low, while exchanges paused deposits and withdrawals from the halted MANTRA Chain.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-transactions-stopped-halted.jpg",
+    "summary": "The MANTRA token (OM) dropped 18% to a record low of $0.0044 following the temporary halt of the MANTRA Chain, which also caused exchanges to pause deposits and withdrawals. The blockchain's suspension raised concerns about its stability and operational issues.",
     "importance": 7,
     "classified": true
   },
@@ -840,14 +888,14 @@
     "classified": true
   },
   {
-    "title": "Injective receives SEC transfer agent registration for institutional services arm",
-    "link": "https://cointelegraph.com/news/injective-sec-transfer-agent-tokenized-securities-recordkeeping?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Wed, 19 Aug 2026 15:19:21 +0000",
-    "source": "Cointelegraph",
-    "category": "both",
-    "content": "Injective’s affiliated entity can now maintain securities ownership records, adding regulated market infrastructure to its growing push into tokenized assets.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-how-dlts-could-change-the-real-estate-investment-landscape-deal.jpg",
-    "summary": "Injective's affiliated entity has obtained SEC registration as a transfer agent, enabling it to maintain securities ownership records. This move strengthens its regulated market infrastructure for tokenized assets.",
+    "title": "MANTRA freezes all transactions and network following unspecified incident",
+    "link": "https://www.theblock.co/news/defi/2026-08-21-mantra-freezes-network-412416",
+    "pubDate": "Fri, 21 Aug 2026 04:47:29 +0000",
+    "source": "The Block",
+    "category": "crypto",
+    "content": "MANTRA Chain has halted the network and all transactions after discovering an incident, the nature of which remains undisclosed.",
+    "image": "https://www.tbstat.com/wp/uploads/2025/02/Screenshot-2025-02-19-at-2.00.17 PM-1015x675.png",
+    "summary": "MANTRA Chain has suspended all network activity and transactions following an unspecified incident, with no further details provided about the cause or impact. The freeze affects the entire ecosystem, leaving users unable to interact with the platform.",
     "importance": 7,
     "classified": true
   },
@@ -980,30 +1028,6 @@
     "content": "While DCG is in discussions to contribute ~200,000 ZEC to the Grayscale fund, the potential transaction is nonbinding.",
     "image": "https://www.tbstat.com/wp/uploads/2025/09/20250919_Greyscale_News_2-1200x675.jpg",
     "summary": "Grayscale has amended its Zcash ETF filing, with Digital Currency Group (DCG) reportedly in talks to contribute approximately 200,000 ZEC to the fund. The potential contribution remains nonbinding at this stage.",
-    "importance": 7,
-    "classified": true
-  },
-  {
-    "title": "Injective becomes SEC-registered transfer agent as it expands tokenization push",
-    "link": "https://www.theblock.co/news/regulation/2026-08-19-injective-becomes-sec-registered-transfer-agent-expands-tokenization-push-412225",
-    "pubDate": "Wed, 19 Aug 2026 16:24:24 +0000",
-    "source": "The Block",
-    "category": "both",
-    "content": "Injective says the registration gives it a regulated way to keep track of who owns tokenized securities and how those assets change hands.",
-    "image": "https://www.tbstat.com/wp/uploads/2025/04/20250414_SEC_News_2-1200x675.jpg",
-    "summary": "Injective has become a SEC-registered transfer agent, enabling it to track ownership and transactions of tokenized securities in a regulated manner. This move supports its broader push into asset tokenization.",
-    "importance": 7,
-    "classified": true
-  },
-  {
-    "title": "Ethereum engineering firm Nethermind leaves LayerZero verifier role for Chainlink",
-    "link": "https://www.theblock.co/news/ecosystems/2026-08-19-nethermind-layerzero-chainlink-412226",
-    "pubDate": "Wed, 19 Aug 2026 16:01:13 +0000",
-    "source": "The Block",
-    "category": "crypto",
-    "content": "Nethermind said it is joining Chainlink as a node operator, where it will help secure CCIP and Data Feeds.",
-    "image": "https://www.tbstat.com/wp/uploads/2022/10/20221005_Chainlink2-1200x675.jpg",
-    "summary": "Ethereum engineering firm Nethermind is transitioning from its role as a LayerZero verifier to become a node operator for Chainlink, focusing on securing CCIP and Data Feeds. This move highlights Chainlink's expanding role in blockchain infrastructure.",
     "importance": 7,
     "classified": true
   },
@@ -1356,14 +1380,14 @@
     "classified": true
   },
   {
-    "title": "Coinbase, Circle and Bullish jump as Clarity Act proponents express optimism about bill",
-    "link": "https://www.coindesk.com/markets/2026/08/19/coinbase-circle-and-bullish-jump-as-clarity-act-proponents-express-optimism-about-bill",
-    "pubDate": "Wed, 19 Aug 2026 15:22:29 +0000",
-    "source": "CoinDesk",
+    "title": "Here’s what happened in crypto today",
+    "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Fri, 21 Aug 2026 05:53:11 +0000",
+    "source": "Cointelegraph",
     "category": "crypto",
-    "content": "COIN and BLSH rose about 8% and CRCL gained nearly 10% ahead of a key procedural vote scheduled for Sept. 15.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/4c34fd37d41afa72d01b5b6c7f4a22a2ed4a9aa0-5151x2897.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "Coinbase, Circle, and Bullish experienced significant stock price increases, with COIN and BLSH rising about 8% and CRCL gaining nearly 10%. This surge occurred ahead of a key procedural vote for the Clarity Act, scheduled for September 15th, as proponents express optimism about the bill's prospects.",
+    "content": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg",
+    "summary": "This article provides a summary of the latest news and trends in the crypto space, covering Bitcoin price, blockchain, DeFi, Web3, and crypto regulation. It aims to keep readers updated on daily events impacting the cryptocurrency market. The article appears to be a general overview of the current state of the crypto industry.",
     "importance": 6,
     "classified": true
   },
@@ -1376,18 +1400,6 @@
     "content": "UAE clients will be able to buy and hold crypto through Capital.com’s app, expanding beyond price exposure through contracts for difference.",
     "image": "https://s3-images.ctmedia.io/media/article-covers/hi-time-to-switch-license-uae-1.jpg",
     "summary": "Capital.com is launching spot crypto services in the UAE, enabling clients to directly buy and hold cryptocurrencies through its app. This expansion allows users to move beyond price exposure offered by contracts for difference.",
-    "importance": 6,
-    "classified": true
-  },
-  {
-    "title": "Here’s what happened in crypto today",
-    "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Thu, 20 Aug 2026 19:50:32 +0000",
-    "source": "Cointelegraph",
-    "category": "crypto",
-    "content": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg",
-    "summary": "This article provides a summary of the latest news and trends in the crypto space, covering Bitcoin price, blockchain, DeFi, Web3, and crypto regulation. It aims to keep readers updated on daily events impacting the cryptocurrency market. The article appears to be a general overview of the current state of the crypto industry.",
     "importance": 6,
     "classified": true
   },
@@ -1436,18 +1448,6 @@
     "content": "The US banking regulator released a 376‑page proposal in February, calling for public comment on rules to implement the stablecoin bill ahead of its January 2027 effective date.",
     "image": "https://s3-images.ctmedia.io/media/article-covers/policymaker-bill-us-genius-act.jpg",
     "summary": "The US Office of the Comptroller of the Currency (OCC) has announced it will finalize the GENIUS rules by November, following a 376-page proposal released in February to implement the stablecoin bill ahead of its January 2027 deadline.",
-    "importance": 6,
-    "classified": true
-  },
-  {
-    "title": "Bitcoin price hits 11-week high as US Treasury doubles debt buyback size",
-    "link": "https://cointelegraph.com/markets/bitcoin-price-hits-11-week-high-as-us-treasury-doubles-debt-buyback-size?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Wed, 19 Aug 2026 15:44:09 +0000",
-    "source": "Cointelegraph",
-    "category": "crypto",
-    "content": "Bitcoin joined US stocks in a broad rally after the US Treasury announced that it was at least doubling the amount of its debt buyback operations from September.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-how-you-could-save-money-us-treasury-1.jpg",
-    "summary": "Bitcoin surged to an 11-week high following the US Treasury's announcement to at least double its debt buyback operations starting in September. The rally coincided with a broader market upswing, including US stocks.",
     "importance": 6,
     "classified": true
   },
