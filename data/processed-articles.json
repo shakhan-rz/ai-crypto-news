@@ -372,18 +372,6 @@
     "classified": true
   },
   {
-    "title": "Bitwise CIO sees potential for 10-100x blockchain transaction growth as AI agents meet tokenized markets",
-    "link": "https://www.theblock.co/news/ecosystems/2026-08-19-bitwise-cio-sees-potential-for-10-100x-blockchain-transaction-growth-as-ai-agents-meet-tokenized-markets-412196",
-    "pubDate": "Wed, 19 Aug 2026 11:32:48 +0000",
-    "source": "The Block",
-    "category": "both",
-    "content": "Bitwise CIO Matt Hougan said investors may be underestimating blockchain transaction activity by 10 to 100 times as tokenized markets expand.",
-    "image": "https://www.tbstat.com/wp/uploads/2024/06/20240624_Tokenization_News_2-1200x675.jpg",
-    "summary": "Bitwise Chief Investment Officer Matt Hougan suggests that blockchain transaction volumes could grow 10-100 times as AI agents interact with tokenized markets, indicating a massive potential increase in activity. This highlights the convergence of AI and blockchain technology as a transformative trend.",
-    "importance": 8,
-    "classified": true
-  },
-  {
     "title": "Bitcoin Rockets Past $72,000 After Trump Pushes For Clarity Act ",
     "link": "https://bitcoinmagazine.com/news/bitcoin-price-rockets-past-72000",
     "pubDate": "Thu, 20 Aug 2026 13:40:27 +0000",
@@ -392,6 +380,18 @@
     "content": "Bitcoin Magazine\n\nBitcoin Rockets Past $72,000 After Trump Pushes For Clarity Act \nBitcoin’s price surged further on Thursday, blowing past $72,000 the day after President Trump held a meeting with crypto executives and urged lawmakers to get the long-awaited Clarity Act over the line.  The leading cryptocurrency was trading for $71,758 at 8am in New York, after jumping nearly 12% over a 24-hour period. It touched as […]\nThis post Bitcoin Rockets Past $72,000 After Trump Pushes For Clarity Act  first appeared on Bitcoin Magazine and is written by Mathew Di Salvo.",
     "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/08/Bitcoin-Rockets-Past-72000-After-Trump-Pushes-For-Clarity-Act.jpg",
     "summary": "Bitcoin's price surged past $72,000 following a meeting where President Trump encouraged lawmakers to pass the Clarity Act, which aims to provide regulatory clarity for the cryptocurrency industry. The cryptocurrency saw a nearly 12% increase within 24 hours.",
+    "importance": 8,
+    "classified": true
+  },
+  {
+    "title": "AI data startup Micro1 reaches $500M gross run rate amid AI training boom",
+    "link": "https://techcrunch.com/2026/08/20/ai-data-startup-micro1-reaches-500m-gross-run-rate-amid-ai-training-boom/",
+    "pubDate": "Fri, 21 Aug 2026 00:13:44 +0000",
+    "source": "TechCrunch AI",
+    "category": "ai",
+    "content": "Surging demand for AI training data is driving rapid growth for the startup and its rivals.",
+    "image": "",
+    "summary": "Micro1, an AI data startup, has achieved a $500 million annual gross run rate due to the booming demand for AI training data. This growth reflects the increasing need for high-quality datasets to fuel AI model development.",
     "importance": 8,
     "classified": true
   },
@@ -416,30 +416,6 @@
     "content": "Binance's Agent OS works with tools such as ChatGPT, Claude Code, and Cursor.",
     "image": "",
     "summary": "Binance has introduced Agent OS, allowing AI agents like ChatGPT and Claude Code to execute trades on its platform, but user oversight remains critical for risk management. The system integrates with multiple AI tools to automate trading decisions.",
-    "importance": 8,
-    "classified": true
-  },
-  {
-    "title": "Meet the startup helping Wall Street put a price on AI compute",
-    "link": "https://techcrunch.com/video/meet-the-startup-helping-wall-street-put-a-price-on-ai-compute/",
-    "pubDate": "Wed, 19 Aug 2026 17:26:48 +0000",
-    "source": "TechCrunch AI",
-    "category": "ai",
-    "content": "The AI buildout shows no signs of slowing. And with hundreds of billions of dollars a year going into data centers and GPUs, compute has become the single biggest cost for anyone building AI products. But for all that spending, there still isn’t a straightforward way to put a price on compute — or for firms to hedge their exposure when the price changes.  Silicon Data […]",
-    "image": "",
-    "summary": "Silicon Data is addressing the lack of a straightforward pricing mechanism for AI compute, which has become the largest cost for AI product development. The startup aims to help Wall Street firms hedge their exposure to fluctuating compute costs amid the rapid expansion of AI infrastructure.",
-    "importance": 8,
-    "classified": true
-  },
-  {
-    "title": "TerraPower’s nuclear reactor has a secret weapon for powering AI data centers",
-    "link": "https://techcrunch.com/2026/08/19/terrapowers-nuclear-reactor-has-a-secret-weapon-for-powering-ai-data-centers/",
-    "pubDate": "Wed, 19 Aug 2026 15:44:53 +0000",
-    "source": "TechCrunch AI",
-    "category": "ai",
-    "content": "TerraPower's nuclear power plant possesses a strategic advantage over competitors, especially when chasing after data center deals.",
-    "image": "",
-    "summary": "TerraPower's advanced nuclear reactor is positioned as a key advantage in securing power supply deals for AI data centers, offering a strategic edge over competitors in meeting the high energy demands of AI infrastructure.",
     "importance": 8,
     "classified": true
   },
@@ -1200,6 +1176,18 @@
     "classified": true
   },
   {
+    "title": "OpenAI is gaining on Anthropic with business users, new data indicates",
+    "link": "https://techcrunch.com/2026/08/20/openai-is-gaining-on-anthropic-with-business-users-new-data-indicates/",
+    "pubDate": "Thu, 20 Aug 2026 22:36:37 +0000",
+    "source": "TechCrunch AI",
+    "category": "ai",
+    "content": "Businesses are willing to flop back and forth as each lab releases new models, volatility that should give both companies' investors pause about how \"sticky\" enterprise AI spending really is.",
+    "image": "",
+    "summary": "New data suggests businesses are frequently switching between OpenAI and Anthropic's AI models, indicating potential instability in enterprise AI spending. This volatility may raise concerns for investors about the long-term reliability of AI adoption in business.",
+    "importance": 7,
+    "classified": true
+  },
+  {
     "title": "Google gives publishers a new way to fight AI-driven traffic losses",
     "link": "https://techcrunch.com/2026/08/20/google-gives-publishers-a-new-way-to-fight-ai-driven-traffic-losses/",
     "pubDate": "Thu, 20 Aug 2026 19:18:21 +0000",
@@ -1308,6 +1296,18 @@
     "classified": true
   },
   {
+    "title": "Google Discover is getting an AI chatbot-tuned feed",
+    "link": "https://www.theverge.com/tech/983088/google-discover-ai-chatbot-feed",
+    "pubDate": "2026-08-20T21:50:22.000Z",
+    "source": "The Verge AI",
+    "category": "ai",
+    "content": "Google will soon allow you to customize your Discover feed by describing what you want to see. The new feature, rolling out to the Google app in the \"coming days,\" will use AI to automatically tweak your feed and \"remember\" your preferences for future visits.\nYou'll find the option within the three-dot menu on your Discover feed. As shown in a video shared by Google, tapping the feature will open a chatbot-style interface, where you'll be able to describe your preferences. The chatbot will confirm your choices and lay out the types of content it will prioritize, but you'll also have the option to add more information if it doesn't get it qu …\nRead the full story at The Verge.",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Screenshot-2026-08-20-at-5.37.35-PM.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "summary": "Google is introducing a new AI-powered feature for its Discover feed, allowing users to customize content preferences through a chatbot-style interface. The update, rolling out in the coming days, will use AI to refine and remember user preferences for future feed adjustments.",
+    "importance": 7,
+    "classified": true
+  },
+  {
     "title": "It’s Greg Brockman’s OpenAI now",
     "link": "https://www.theverge.com/ai-artificial-intelligence/982774/greg-brockman-openai-role-expansion",
     "pubDate": "2026-08-20T15:45:55.000Z",
@@ -1364,18 +1364,6 @@
     "content": "Robin Williams' children are taking over their father's Instagram account after his daughter spoke out against the use of his AI likeness, as reported earlier by The Wrap. In a post on Tuesday, Zak, Zelda, and Cody Williams write that they want the late actor's Instagram profile to be a \"safe, trusted place where the stories, photos, videos, and memories shared reflect his legacy with authenticity, warmth, and care.\"\nA story posted to Zelda Williams' own Instagram account expands on the decision to bring back her father's profile, saying that it's meant to help combat \"rampant AI abuse,\" according to The Wrap:\nI'm sorry if anyone found Da …\n\nRead the full story at The Verge.",
     "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/gettyimages-175034585.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,78.26399746371",
     "summary": "Robin Williams' children have taken over his Instagram account to share authentic memories and combat AI abuse of his likeness. They aim to create a safe space that reflects his legacy with warmth and care.",
-    "importance": 7,
-    "classified": true
-  },
-  {
-    "title": "Firefox&#8217;s Smart Window promises a better AI browser",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/981283/mozilla-firefox-smart-window-ai-features",
-    "pubDate": "2026-08-18T13:00:00.000Z",
-    "source": "The Verge AI",
-    "category": "ai",
-    "content": "Starting today, AI chats in Firefox's Smart Window AI browsing mode can pull from current web info and show source links in chat responses through a partnership with Exa. Smart Window can also now automatically suggest tab groups and show visual previews of pages you previously visited when you search your browsing history using natural language. \nI saw a live demo that showed how the Smart Window AI could sort through selected links in your browsing history to pull up \"running shoes I looked at last week,\" and pop up images pulled from the sites browsed previously. The suggested groups of tabs can also find and close duplicates, making it  …\nRead the full story at The Verge.",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Firefox_SmartWindow_OrganizeTabs.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "summary": "Mozilla's Firefox introduces Smart Window AI browsing mode, integrating with Exa to enable AI chats with real-time web data and source links. The feature also offers natural language history search, tab group suggestions, and visual previews of visited pages.",
     "importance": 7,
     "classified": true
   },
@@ -1488,6 +1476,18 @@
     "classified": true
   },
   {
+    "title": "CME CEO Terrence Duffy trades barbs with CFTC’s Selig and Kalshi’s COO over prediction market oversight",
+    "link": "https://www.theblock.co/news/regulation/2026-08-20-cme-ceo-terrence-duffy-trades-barbs-with-cftcs-selig-and-kalshis-coo-over-prediction-market-oversight-412397",
+    "pubDate": "Thu, 20 Aug 2026 23:39:38 +0000",
+    "source": "The Block",
+    "category": "crypto",
+    "content": "A CFTC ommittee meeting exposed a sharp divide between the worlds of traditional finance and prediction market platforms.",
+    "image": "https://www.tbstat.com/wp/uploads/2020/04/CFTC-1013x675.jpg",
+    "summary": "A recent CFTC committee meeting exposed a significant division between traditional finance, represented by CME CEO Terrence Duffy, and prediction market platforms, exemplified by Kalshi's COO, regarding the oversight of prediction markets. The discussion highlighted a sharp disagreement over regulatory approaches in this evolving financial sector.",
+    "importance": 6,
+    "classified": true
+  },
+  {
     "title": "Bitcoin Could Attract More Buyers As Fast Money Is Washed Out, Says Lyn Alden",
     "link": "https://bitcoinmagazine.com/news/bitcoin-price-to-rise-says-lyn-alden",
     "pubDate": "Thu, 20 Aug 2026 21:16:08 +0000",
@@ -1508,6 +1508,18 @@
     "content": "Bitcoin Magazine\n\nOpen Source vs. Source-Available: What the Coldcard Failure Teaches About Bitcoin Software Incentives\nFOSS rests on four essential freedoms defined by the Free Software Foundation and the Open Source Initiative’s ten criteria. Licenses that withhold commercial rights, such as MIT plus Commons Clause, shrink the reviewer pool and shift the burden back onto the vendor.\nThis post Open Source vs. Source-Available: What the Coldcard Failure Teaches About Bitcoin Software Incentives first appeared on Bitcoin Magazine and is written by Juan Galt.",
     "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/08/tn-3.webp",
     "summary": "The article discusses the implications of Coldcard's software failure in the context of Bitcoin, highlighting the differences between open-source and source-available models. It argues that restrictive licenses like MIT plus Commons Clause limit community review and shift responsibility to vendors, raising concerns about software incentives in Bitcoin ecosystems.",
+    "importance": 6,
+    "classified": true
+  },
+  {
+    "title": "ChatGPT can now send texts for you with new Apple Messages plug-in",
+    "link": "https://techcrunch.com/2026/08/20/chatgpt-can-now-send-texts-for-you-with-new-apple-messages-plugin/",
+    "pubDate": "Thu, 20 Aug 2026 22:09:51 +0000",
+    "source": "TechCrunch AI",
+    "category": "ai",
+    "content": "Ever wanted someone else to do your texting for you? ChatGPT is being offered up as an automated text scribe via a new Apple Messages integration.",
+    "image": "",
+    "summary": "ChatGPT now offers an Apple Messages integration that can automatically send texts on behalf of users. This feature aims to streamline communication by acting as a text scribe.",
     "importance": 6,
     "classified": true
   },
@@ -1572,18 +1584,6 @@
     "classified": true
   },
   {
-    "title": "Amazon makes its AI-powered Alexa+ free on Fire TV, no Prime required",
-    "link": "https://techcrunch.com/2026/08/19/amazon-makes-its-ai-powered-alexa-free-on-fire-tv-no-prime-required/",
-    "pubDate": "Wed, 19 Aug 2026 15:00:00 +0000",
-    "source": "TechCrunch AI",
-    "category": "ai",
-    "content": "Amazon is making its AI-powered Alexa+ assistant free on all compatible Fire TV devices in the U.S., automatically upgrading users whether or not they subscribe to Prime.",
-    "image": "",
-    "summary": "Amazon is offering its AI-powered Alexa+ assistant for free on all compatible Fire TV devices in the U.S., regardless of Prime membership. The upgrade is automatic for existing users.",
-    "importance": 5,
-    "classified": true
-  },
-  {
     "title": "Ripple-linked XRP jumps 15% as data shows 'banker hours' onchain pattern",
     "link": "https://www.coindesk.com/markets/2026/08/20/ripple-linked-xrp-jumps-15-as-data-shows-banker-hours-onchain-pattern",
     "pubDate": "Thu, 20 Aug 2026 11:35:47 +0000",
@@ -1596,12 +1596,12 @@
     "classified": true
   },
   {
-    "title": "Ok, can we actually cool data centers with our pee?",
+    "title": "OK, can we actually cool data centers with our pee?",
     "link": "https://techcrunch.com/2026/08/20/ok-can-we-actually-cool-data-centers-with-our-pee/",
     "pubDate": "Thu, 20 Aug 2026 20:53:13 +0000",
     "source": "TechCrunch AI",
     "category": "ai",
-    "content": "Jason Kelce joked that people should cool data centers with their pee, rather than potable water -- his suggestion is not completely ludicrous.",
+    "content": "Jason Kelce joked that people should cool data centers with their pee, rather than potable water -- but his suggestion is not completely ludicrous.",
     "image": "",
     "summary": "Former NFL player Jason Kelce humorously suggested using urine to cool data centers instead of potable water, sparking discussion about sustainable cooling solutions. The idea, while unconventional, highlights growing concerns over water usage in AI infrastructure.",
     "importance": 4,
