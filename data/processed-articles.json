@@ -96,18 +96,6 @@
     "classified": true
   },
   {
-    "title": "Elon Musk's X is exploring stablecoins to pay influencers and content providers",
-    "link": "https://www.coindesk.com/business/2026/08/20/elon-musk-s-x-is-exploring-stablecoins-to-pay-influencers-and-content-providers",
-    "pubDate": "Thu, 20 Aug 2026 09:40:25 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "Conversations with X are ongoing, according to a person who also works with other social media platforms testing stablecoins to pay influencers.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/acee6ae1d9fb1fcc92ccab7e5384aa3bce474936-1209x680.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "Elon Musk's X platform is reportedly exploring the use of stablecoins as a payment method for its influencers and content providers. This initiative is currently in ongoing discussions, according to a source familiar with similar payment trials on other social media platforms.",
-    "importance": 9,
-    "classified": true
-  },
-  {
     "title": "BounceBit to sunset blockchain, migrate to BNB Chain after $3 million exploit",
     "link": "https://www.theblock.co/news/ecosystems/2026-08-21-bouncebit-sunset-blockchain-migrate-bnb-chain-after-3-million-exploit-412485",
     "pubDate": "Fri, 21 Aug 2026 17:28:34 +0000",
@@ -236,6 +224,30 @@
     "content": "Erald Ghoos, OKX Europe CEO, says U.S. crypto rules could blow new life into the market amid a rotation of capital from AI back to bitcoin.",
     "image": "https://cdn.sanity.io/images/s3y3vcno/production/b1c014a2d37a67798524621c1d3d9c1251ff9030-1500x935.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
     "summary": "OKX Europe CEO Erald Ghoos suggests that new U.S. crypto regulations could significantly boost the market. He believes this might lead to a capital rotation, drawing investments away from AI and back towards Bitcoin, adding to the ongoing debate about whether the Clarity Act's impact is already reflected in Bitcoin's price.",
+    "importance": 8,
+    "classified": true
+  },
+  {
+    "title": "Ray Dalio says to buy ‘a bit’ of Bitcoin amid potential debt crisis",
+    "link": "https://cointelegraph.com/news/ray-dalio-buy-bitcoin-debt-crisis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Fri, 21 Aug 2026 20:00:47 +0000",
+    "source": "Cointelegraph",
+    "category": "crypto",
+    "content": "The hedge fund founder with an estimated net worth of $15 billion recommended that investors overweight Bitcoin and gold rather than bonds.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/interviewray-dalio.jpg",
+    "summary": "Billionaire hedge fund founder Ray Dalio advises investors to buy \"a bit\" of Bitcoin and gold. He recommends overweighting these assets over bonds amidst concerns of a potential debt crisis.",
+    "importance": 8,
+    "classified": true
+  },
+  {
+    "title": "Onchain, in court: What happened in crypto legal news this week",
+    "link": "https://cointelegraph.com/news/on-chain-in-court-crypto-legal-news5?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Fri, 21 Aug 2026 19:19:27 +0000",
+    "source": "Cointelegraph",
+    "category": "crypto",
+    "content": "The CFTC ordered a trading ban for former Alameda and FTX executives, and US prosecutors opposed a motion from a US soldier accused of profiting from the removal of Nicolas Maduro.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-5-key-highlights-of-the-secs-lawsuit-against-binance-1280x853.webp",
+    "summary": "The CFTC imposed a trading ban on former Alameda and FTX executives, while US prosecutors opposed a motion from a US soldier accused of exploiting Nicolás Maduro’s removal for profit. These developments highlight ongoing regulatory and legal scrutiny in the crypto space.",
     "importance": 8,
     "classified": true
   },
@@ -384,6 +396,18 @@
     "classified": true
   },
   {
+    "title": "Legendary Investor Ray Dalio Touts Bitcoin — With Gold — To Hedge Against Incoming Debt Crisis",
+    "link": "https://bitcoinmagazine.com/news/ray-dalio-touts-bitcoin",
+    "pubDate": "Fri, 21 Aug 2026 20:14:52 +0000",
+    "source": "Bitcoin Magazine",
+    "category": "both",
+    "content": "Bitcoin Magazine\n\nLegendary Investor Ray Dalio Touts Bitcoin — With Gold — To Hedge Against Incoming Debt Crisis\nBridgewater Associates founder Ray Dalio has said Bitcoin will do well with government money printing. \nThis post Legendary Investor Ray Dalio Touts Bitcoin — With Gold — To Hedge Against Incoming Debt Crisis first appeared on Bitcoin Magazine and is written by Mathew Di Salvo.",
+    "image": "https://bitcoinmagazine.com/wp-content/uploads/2025/11/Ray-Dalio-Reaffirms-Bitcoin-Skepticism-Says-He-Still-Holds-Just-1-Allocation.jpg",
+    "summary": "Legendary investor Ray Dalio suggests Bitcoin and gold as hedges against an impending debt crisis, highlighting Bitcoin's potential to thrive amid government money printing. The Bridgewater Associates founder emphasizes the need for alternative assets to counter economic instability.",
+    "importance": 8,
+    "classified": true
+  },
+  {
     "title": "Bitcoin Rockets Past $72,000 After Trump Pushes For Clarity Act ",
     "link": "https://bitcoinmagazine.com/news/bitcoin-price-rockets-past-72000",
     "pubDate": "Thu, 20 Aug 2026 13:40:27 +0000",
@@ -396,14 +420,14 @@
     "classified": true
   },
   {
-    "title": "The DOJ is investigating a16z. What does this mean for venture capital?",
-    "link": "https://techcrunch.com/podcast/the-doj-is-investigating-a16z-what-does-this-mean-for-venture-capital/",
-    "pubDate": "Fri, 21 Aug 2026 14:00:00 +0000",
+    "title": "Nvidia just showed that the harness, not the AI model, is now the real hero",
+    "link": "https://techcrunch.com/2026/08/21/nvidia-just-showed-that-the-harness-not-the-ai-model-is-now-the-real-hero/",
+    "pubDate": "Fri, 21 Aug 2026 19:43:39 +0000",
     "source": "TechCrunch AI",
-    "category": "both",
-    "content": "Andreessen Horowitz has two partners sitting on the boards of companies that now compete with each other: Ben Horowitz at Databricks and Martin Casado at Fivetran. Nothing too scandalous on the surface, except the Department of Justice has reportedly been investigating the arrangement for almost a year, dusting off a 112-year-old antitrust law that’s rarely used against VCs.  Board conflicts aren’t exactly new, and these companies weren’t necessarily direct competitors when a16z first invested […]",
+    "category": "ai",
+    "content": "Nvidia research shows that AI agents can perform well, and not go off the deep end, through fine-tuning, even if the AI model isn't that great at the task.",
     "image": "",
-    "summary": "The Department of Justice is investigating venture capital firm Andreessen Horowitz (a16z) over potential antitrust violations due to two of its partners sitting on the boards of competing companies, Databricks and Fivetran. This marks a rare use of a 112-year-old antitrust law against VCs, raising concerns about board conflicts and market competition.",
+    "summary": "Nvidia's research demonstrates that AI agents can achieve reliable performance through fine-tuning, even when the underlying AI model lacks strong capabilities. The study highlights the importance of the 'harness'—the system managing the AI—as a critical factor in ensuring safe and effective AI behavior.",
     "importance": 8,
     "classified": true
   },
@@ -416,6 +440,18 @@
     "content": "There's about to be a big fight to secure access to space.",
     "image": "",
     "summary": "Starcloud has raised $250 million to develop orbital data centers, aiming to capitalize on the growing demand for space-based computing as terrestrial launch options become scarce. The initiative highlights the increasing competition and strategic importance of space infrastructure.",
+    "importance": 8,
+    "classified": true
+  },
+  {
+    "title": "The DOJ is investigating a16z. What does this mean for venture capital?",
+    "link": "https://techcrunch.com/podcast/the-doj-is-investigating-a16z-what-does-this-mean-for-venture-capital/",
+    "pubDate": "Fri, 21 Aug 2026 14:00:00 +0000",
+    "source": "TechCrunch AI",
+    "category": "both",
+    "content": "Andreessen Horowitz has two partners sitting on the boards of companies that now compete with each other: Ben Horowitz at Databricks and Martin Casado at Fivetran. Nothing too scandalous on the surface, except the Department of Justice has reportedly been investigating the arrangement for almost a year, dusting off a 112-year-old antitrust law that’s rarely used against VCs.  Board conflicts aren’t exactly new, and these companies weren’t necessarily direct competitors when a16z first invested […]",
+    "image": "",
+    "summary": "The Department of Justice is investigating venture capital firm Andreessen Horowitz (a16z) over potential antitrust violations due to two of its partners sitting on the boards of competing companies, Databricks and Fivetran. This marks a rare use of a 112-year-old antitrust law against VCs, raising concerns about board conflicts and market competition.",
     "importance": 8,
     "classified": true
   },
@@ -648,6 +684,18 @@
     "classified": true
   },
   {
+    "title": "Pass the Clarity Act",
+    "link": "https://www.coindesk.com/opinion/2026/08/21/pass-the-clarity-act",
+    "pubDate": "Fri, 21 Aug 2026 19:00:00 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "Reopening a settled provision four weeks before a vote would sink the bill, argues Summer Mersinger, CEO of the Blockchain Association.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/58712d20eab11dfa564aadb29ca1d33c9bfd3029-5365x3579.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "Summer Mersinger, CEO of the Blockchain Association, warns that reopening a settled provision four weeks before a vote would jeopardize the Clarity Act. She argues that such a move would effectively \"sink the bill.\"",
+    "importance": 7,
+    "classified": true
+  },
+  {
     "title": "Ethena's ENA token surges 48%, but altcoin season will have to wait",
     "link": "https://www.coindesk.com/markets/2026/08/21/ethena-surges-48-as-altcoins-pull-away-from-bitcoin",
     "pubDate": "Fri, 21 Aug 2026 16:10:37 +0000",
@@ -864,42 +912,6 @@
     "classified": true
   },
   {
-    "title": "Crypto short liquidations pass $3B mark as Bitcoin price nears $72K",
-    "link": "https://cointelegraph.com/markets/crypto-short-liquidations-pass-3b-mark-as-bitcoin-price-nears-72k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Thu, 20 Aug 2026 10:03:04 +0000",
-    "source": "Cointelegraph",
-    "category": "crypto",
-    "content": "Bitcoin approached $72,000 in a second day of upside as crypto short liquidations passed $3.1 billion.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-why-i-am-cynically-bullish-about-the-bitcoin-3.jpg",
-    "summary": "Bitcoin's price neared $72,000 as crypto short liquidations exceeded $3.1 billion, marking a significant surge in market activity. The event highlights increased volatility and liquidation pressure in the cryptocurrency market.",
-    "importance": 7,
-    "classified": true
-  },
-  {
-    "title": "GnosisDAO approves Gnosis Chain for Ethereum Economic Zone",
-    "link": "https://cointelegraph.com/news/gnosisdao-approves-gnosis-chain-ethereum-economic-zone?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Thu, 20 Aug 2026 08:59:40 +0000",
-    "source": "Cointelegraph",
-    "category": "crypto",
-    "content": "Gnosis Chain was approved to transition to an EEZ rollup, enabling it to settle directly to Ethereum rather than continue with an independent validator set.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-crypto-derivatives-see-explosive-growth-with-interest-in-eth-especially-high.jpg",
-    "summary": "GnosisDAO has approved Gnosis Chain to become an Ethereum Economic Zone (EEZ) rollup, allowing it to settle transactions directly on Ethereum instead of relying on its own validator set. This move aims to enhance interoperability and security by leveraging Ethereum's infrastructure.",
-    "importance": 7,
-    "classified": true
-  },
-  {
-    "title": "BitGo Korea secures VASP registration for institutional crypto custody",
-    "link": "https://cointelegraph.com/news/bitgo-korea-vasp-registration-institutional-crypto-custody?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Thu, 20 Aug 2026 07:48:40 +0000",
-    "source": "Cointelegraph",
-    "category": "crypto",
-    "content": "Regulators reportedly accepted BitGo Korea’s registration on Tuesday, two days before stricter VASP entry requirements took effect.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-what-is-a-crypto-vault-and-how-does-it-work.png",
-    "summary": "BitGo Korea has secured a Virtual Asset Service Provider (VASP) registration, allowing it to offer institutional crypto custody services. The registration was approved just two days before stricter VASP entry requirements became effective.",
-    "importance": 7,
-    "classified": true
-  },
-  {
     "title": "XRP leads broad altcoin rally as bitcoin’s biggest weekly gain in two years lifts crypto",
     "link": "https://www.theblock.co/news/markets/2026-08-21-xrp-leads-altcoin-rally-bitcoin-biggest-weekly-gain-in-two-years-lifts-crypto-412483",
     "pubDate": "Fri, 21 Aug 2026 17:24:02 +0000",
@@ -1104,18 +1116,6 @@
     "classified": true
   },
   {
-    "title": "Trump Urges Senate to Pass Crypto’s CLARITY Act, Teases More Bitcoin Buys",
-    "link": "https://bitcoinmagazine.com/news/trump-teases-bitcoin-buys",
-    "pubDate": "Wed, 19 Aug 2026 20:39:25 +0000",
-    "source": "Bitcoin Magazine",
-    "category": "crypto",
-    "content": "Bitcoin Magazine\n\nTrump Urges Senate to Pass Crypto’s CLARITY Act, Teases More Bitcoin Buys\nAfter gathering with digital asset executives, Trump urged lawmakers to get the crypto market structure bill over the line. \nThis post Trump Urges Senate to Pass Crypto’s CLARITY Act, Teases More Bitcoin Buys first appeared on Bitcoin Magazine and is written by Mathew Di Salvo.",
-    "image": "https://www.youtube.com/embed/T9omos50y8k",
-    "summary": "Former U.S. President Donald Trump has called on the Senate to pass the CLARITY Act, a bill aimed at providing regulatory clarity for the cryptocurrency industry. He also hinted at potential future Bitcoin purchases, signaling continued support for digital assets.",
-    "importance": 7,
-    "classified": true
-  },
-  {
     "title": "The Download: threats from space mirrors and credit for AI drugs",
     "link": "https://www.technologyreview.com/2026/08/21/1142762/the-download-space-mirrors-threats-ai-designed-drugs-credit/",
     "pubDate": "Fri, 21 Aug 2026 12:10:00 +0000",
@@ -1260,24 +1260,12 @@
     "classified": true
   },
   {
-    "title": "AI was supposed to win people over by now — it hasn’t",
-    "link": "https://techcrunch.com/2026/08/19/ai-was-supposed-to-win-people-over-by-now-it-hasnt/",
-    "pubDate": "Wed, 19 Aug 2026 19:11:40 +0000",
-    "source": "TechCrunch AI",
-    "category": "ai",
-    "content": "As AI becomes harder to avoid, consumers are growing more wary of the technology — and Silicon Valley is discovering that widespread adoption doesn’t necessarily lead to acceptance.",
-    "image": "",
-    "summary": "Despite AI becoming more integrated into daily life, consumer skepticism and wariness toward the technology persist, challenging Silicon Valley's expectations of widespread acceptance. The article highlights the gap between adoption and public approval.",
-    "importance": 7,
-    "classified": true
-  },
-  {
     "title": "Major YouTube creators are facing backlash for accepting AI money",
     "link": "https://www.theverge.com/ai-artificial-intelligence/983181/matti-haapoja-sam-kold-kolder-higgsfield-seedance-backlash",
     "pubDate": "2026-08-21T13:37:52.000Z",
     "source": "The Verge AI",
     "category": "ai",
-    "content": "Over the past few days, a number of prominent filmmaking content creators including Matti Haapoja and Sam \"Kold\" Kolder have posted videos of themselves demonstrating what's possible with AI platform Higgsfield. The videos highlight Higgsfield's recently added Seedance 2.5 functionality and pitch these technologies as the future of video production.\nIn response to these videos, other creators started sharing what appear to be screenshots of partnership offers they'd received from PR firms working on Higgsfield's behalf. All of this led fans to the conclusion that Higgsfield has been trying to use creators to boost its profile and garner goo …\nRead the full story at The Verge.",
+    "content": "A still from Sam Kolder’s video “AI is replacing me.” | Screenshot: The Verge, YouTube\t\n\nOver the past few days, a number of prominent filmmaking content creators including Matti Haapoja and Sam \"Kold\" Kolder have posted videos of themselves demonstrating what's possible with AI platform Higgsfield. The videos highlight Higgsfield's recently added Seedance 2.5 functionality and pitch these technologies as the future of video production.\nIn response to these videos, other creators started sharing what appear to be screenshots of partnership offers they'd received from PR firms working on Higgsfield's behalf. All of this led fans to the conclusion that Higgsfield has been trying to use creators to boost its profile and garner goo …\nRead the full story at The Verge.",
     "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/ai-label_eb9dbb.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
     "summary": "Major YouTube creators like Matti Haapoja and Sam 'Kold' Kolder are promoting Higgsfield's AI-powered video tools, leading to backlash over undisclosed partnerships. Fans criticized the creators for not being transparent about receiving AI platform sponsorships.",
     "importance": 7,
@@ -1394,12 +1382,24 @@
   {
     "title": "Here’s what happened in crypto today",
     "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Fri, 21 Aug 2026 05:53:11 +0000",
+    "pubDate": "Fri, 21 Aug 2026 20:48:48 +0000",
     "source": "Cointelegraph",
     "category": "crypto",
     "content": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
     "image": "https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg",
     "summary": "This article provides a summary of the latest news and trends in the crypto space, covering Bitcoin price, blockchain, DeFi, Web3, and crypto regulation. It aims to keep readers updated on daily events impacting the cryptocurrency market. The article appears to be a general overview of the current state of the crypto industry.",
+    "importance": 6,
+    "classified": true
+  },
+  {
+    "title": "Bitget CEO sees Bitcoin near current levels at year-end, doubts US will buy BTC",
+    "link": "https://cointelegraph.com/markets/bitget-ceo-sees-bitcoin-near-current-levels-at-year-end-doubts-us-will-buy-btc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Fri, 21 Aug 2026 20:26:16 +0000",
+    "source": "Cointelegraph",
+    "category": "crypto",
+    "content": "Gracy Chen says macroeconomic uncertainty could keep Bitcoin within $10,000 to $20,000 of current levels, while US government purchases remain unlikely within the next two years.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-true-or-false-about-bitcoin-and-crypto-are-totally-wrong-1.jpg",
+    "summary": "Bitget CEO Gracy Chen predicts Bitcoin will remain within $10,000 to $20,000 of its current price by year-end due to macroeconomic uncertainty. She also believes it's unlikely the US government will purchase BTC within the next two years.",
     "importance": 6,
     "classified": true
   },
@@ -1548,6 +1548,18 @@
     "classified": true
   },
   {
+    "title": "Bitcoin seeks support near $77K as BTC, gold near 100-day highs",
+    "link": "https://cointelegraph.com/markets/bitcoin-seeks-support-near-77k-btc-gold-100-day-highs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Fri, 21 Aug 2026 19:10:47 +0000",
+    "source": "Cointelegraph",
+    "category": "crypto",
+    "content": "Bitcoin volatility eased after BTC hit its highest level since mid-May, while gold joined the cryptocurrency in approaching three-month highs.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/boxes-with-bitcoins.jpg",
+    "summary": "Bitcoin's volatility decreased after reaching its highest level since mid-May, with BTC and gold both nearing three-month highs. The cryptocurrency market showed signs of stabilization amid these gains.",
+    "importance": 5,
+    "classified": true
+  },
+  {
     "title": "Binance says employees questioned in UAE cleared and released",
     "link": "https://cointelegraph.com/news/binance-employees-questioned-uae-released?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "pubDate": "Fri, 21 Aug 2026 12:48:04 +0000",
@@ -1652,18 +1664,6 @@
     "content": "Your day-ahead look for Aug. 20, 2026",
     "image": "https://cdn.sanity.io/images/s3y3vcno/production/1c794d18340cef8a5bd824622f0fd36727d4a514-2263x1273.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
     "summary": "This article's title suggests an upcoming analysis of how Federal Reserve liquidity promises and potential dollar weakness might influence Bitcoin's next price moves. It is presented as a day-ahead outlook for August 20, 2026, though no actual content is provided beyond the title.",
-    "importance": 3,
-    "classified": true
-  },
-  {
-    "title": "Crypto generated about 1% of Webull’s record $198M Q2 revenue",
-    "link": "https://cointelegraph.com/news/crypto-generated-1-webulls-record-q2-revenue?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Thu, 20 Aug 2026 11:05:00 +0000",
-    "source": "Cointelegraph",
-    "category": "crypto",
-    "content": "While Webull reported a record $198 million in second-quarter revenue, cryptocurrency trading only generated about $2.25 million of the quarter’s revenue stream.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-evergreen-guide-about-wall-street-pepe-1.jpg",
-    "summary": "Webull reported a record $198 million in Q2 revenue, with cryptocurrency trading contributing approximately $2.25 million (1%) to the total. The majority of revenue came from other sources.",
     "importance": 3,
     "classified": true
   },
