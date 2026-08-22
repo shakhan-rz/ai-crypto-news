@@ -108,6 +108,30 @@
     "classified": true
   },
   {
+    "title": "OpenAI says California should strengthen its AI safety bill",
+    "link": "https://techcrunch.com/2026/08/22/openai-says-california-should-strengthen-its-ai-safety-bill/",
+    "pubDate": "Sat, 22 Aug 2026 16:30:34 +0000",
+    "source": "TechCrunch AI",
+    "category": "ai",
+    "content": "OpenAI is calling for California to strengthen SB 53, an AI safety bill that the company previously opposed.",
+    "image": "",
+    "summary": "OpenAI, a leading AI company, has changed its position on California's AI safety bill, SB 53, and is now advocating for it to be strengthened. This represents a reversal from their prior opposition to the legislation.",
+    "importance": 9,
+    "classified": true
+  },
+  {
+    "title": "Frontier AI labs still won’t say how they’d contain a rogue model",
+    "link": "https://techcrunch.com/2026/08/22/frontier-ai-labs-still-wont-say-how-theyd-contain-a-rogue-model/",
+    "pubDate": "Sat, 22 Aug 2026 16:00:00 +0000",
+    "source": "TechCrunch AI",
+    "category": "ai",
+    "content": "A new study finds leading AI labs have few publicly documented plans for containing rogue models, raising questions about preparedness as AI systems increasingly demonstrate unexpected and potentially dangerous behavior.",
+    "image": "",
+    "summary": "A recent study reveals that leading AI laboratories lack sufficient publicly documented strategies for containing potentially rogue artificial intelligence models. This raises significant concerns regarding preparedness, especially as advanced AI systems increasingly exhibit unpredictable and hazardous behaviors. The findings highlight a critical gap in safety protocols for frontier AI development.",
+    "importance": 9,
+    "classified": true
+  },
+  {
     "title": "Welcome to the AI crisis in math",
     "link": "https://www.theverge.com/podcast/982434/ai-math-openai-astra-existential-crisis",
     "pubDate": "2026-08-20T14:00:00.000Z",
@@ -348,6 +372,18 @@
     "classified": true
   },
   {
+    "title": "Zcash hits eight-year high near $850 with futures volume near $10 billion amid Grayscale ETF push",
+    "link": "https://www.theblock.co/news/ecosystems/2026-08-22-zcash-hits-eight-year-high-near-850-with-futures-volume-near-10-billion-amid-grayscale-etf-push-412528",
+    "pubDate": "Sat, 22 Aug 2026 17:35:27 +0000",
+    "source": "The Block",
+    "category": "crypto",
+    "content": "CoinGlass recorded nearly $10 billion in 24-hour futures volume and $1.76 billion in open interest, indicating that derivatives made up much of the trading.",
+    "image": "https://www.tbstat.com/wp/uploads/2025/12/20251202_ZCash_News-1200x675.jpg",
+    "summary": "Zcash recently reached an eight-year high, trading near $850, driven by significant derivatives activity, including nearly $10 billion in 24-hour futures volume and $1.76 billion in open interest. This surge in market activity is also connected to a Grayscale ETF push.",
+    "importance": 8,
+    "classified": true
+  },
+  {
     "title": "BounceBit to sunset blockchain, migrate to BNB Chain after $3 million exploit",
     "link": "https://www.theblock.co/news/ecosystems/2026-08-21-bouncebit-sunset-blockchain-migrate-bnb-chain-after-3-million-exploit-412485",
     "pubDate": "Fri, 21 Aug 2026 17:28:34 +0000",
@@ -368,18 +404,6 @@
     "content": "Crypto hackers are quickly picking up on AI developments to discover overlooked vulnerabilities and infiltrate IT firms, the report said.",
     "image": "https://www.tbstat.com/wp/uploads/2021/12/20211102_Hacker_General1-1200x675.jpg",
     "summary": "Crypto criminals are increasingly using AI tools to identify vulnerabilities and breach IT systems, with adoption rising by 40% over the past year, according to TRM Labs. The report highlights how AI is being weaponized to enhance cybercrime in the cryptocurrency space.",
-    "importance": 8,
-    "classified": true
-  },
-  {
-    "title": "Bitcoin’s rally pushes past $72,000 as analysts see demand beyond historic short squeeze",
-    "link": "https://www.theblock.co/news/markets/2026-08-20-bitcoins-rally-pushes-past-72000-analysts-see-demand-beyond-historic-short-squeeze-412337",
-    "pubDate": "Thu, 20 Aug 2026 17:06:01 +0000",
-    "source": "The Block",
-    "category": "crypto",
-    "content": "Analysts say the move is supported by spot and ETF demand, though BTC will need to hold above $70k to show the rally can outlast the squeeze.",
-    "image": "https://www.tbstat.com/wp/uploads/2024/05/20240509_Bitcoin_News_7-1200x675.jpg",
-    "summary": "Bitcoin's price surged past $72,000, driven by strong demand from spot and ETF investments. Analysts caution that Bitcoin must sustain above $70,000 to confirm the rally's longevity beyond a short squeeze.",
     "importance": 8,
     "classified": true
   },
@@ -440,18 +464,6 @@
     "content": "ChatGPT and other AI models are now authoring and editing much of the new web.",
     "image": "",
     "summary": "A study reveals that one-third of web pages published since ChatGPT's launch were generated or edited by AI tools like ChatGPT. This highlights the growing influence of AI in content creation and the evolving landscape of the web.",
-    "importance": 8,
-    "classified": true
-  },
-  {
-    "title": "Binance now lets AI agents trade, but keeping them in check is largely up to users",
-    "link": "https://techcrunch.com/2026/08/20/binance-now-lets-ai-agents-trade-but-keeping-them-in-check-is-largely-up-to-users/",
-    "pubDate": "Thu, 20 Aug 2026 09:30:00 +0000",
-    "source": "TechCrunch AI",
-    "category": "both",
-    "content": "Binance's Agent OS works with tools such as ChatGPT, Claude Code, and Cursor.",
-    "image": "",
-    "summary": "Binance has introduced Agent OS, a platform enabling AI agents like ChatGPT, Claude Code, and Cursor to execute trades on its exchange. However, the responsibility for monitoring and controlling these AI-driven transactions primarily falls on the users themselves.",
     "importance": 8,
     "classified": true
   },
@@ -648,6 +660,18 @@
     "classified": true
   },
   {
+    "title": "Crypto exchange BitMart weighs partial restart and creditor payouts weeks after announcing shutdown",
+    "link": "https://www.coindesk.com/business/2026/08/22/crypto-exchange-bitmart-weighs-partial-restart-and-creditor-payouts-weeks-after-announcing-shutdown",
+    "pubDate": "Sat, 22 Aug 2026 15:16:41 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "The exchange has hired White & Case as restructuring counsel, with a detailed roadmap expected by Sept. 9.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/420f2af41b8e84b394d9798060c7ccfa92703ed7-2280x1284.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "Crypto exchange BitMart is considering a partial restart of its operations and a plan for creditor payouts, weeks after initially announcing its shutdown. The exchange has hired White & Case as restructuring counsel, with a detailed roadmap expected to be released by September 9.",
+    "importance": 7,
+    "classified": true
+  },
+  {
     "title": "Tokenized stocks risk repeating Wall Street’s 1960s ‘paper crisis,’ Fairmint CEO says",
     "link": "https://www.coindesk.com/tech/2026/08/22/tokenized-stocks-risk-repeating-wall-street-s-1960s-paper-crisis-fairmint-ceo-says",
     "pubDate": "Sat, 22 Aug 2026 14:00:00 +0000",
@@ -692,18 +716,6 @@
     "content": "Clearpool and Cicada Partners are building an institutional lending product using RLUSD, though the XRP Ledger features underpinning it are still awaiting activation.",
     "image": "https://cdn.sanity.io/images/s3y3vcno/production/260b57a4fe560b018cc5f2eb91b9df196b57dc92-3773x2122.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
     "summary": "Ripple is backing an RLUSD credit fund developed by Clearpool and Cicada Partners for institutional lending, even though the underlying XRP Ledger features are not yet active. This initiative comes during one of XRP's strongest market performances in months.",
-    "importance": 7,
-    "classified": true
-  },
-  {
-    "title": "Treasury buybacks could set up bitcoin’s next move toward $180,000, says strategist",
-    "link": "https://www.coindesk.com/markets/2026/08/20/treasury-buybacks-could-set-up-bitcoin-s-next-move-toward-usd180-000",
-    "pubDate": "Thu, 20 Aug 2026 16:17:32 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "Longtime bond market investor Mark Connors sees routine government bond buybacks improving liquidity and bringing bitcoin’s next rally closer.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/bea6e36a9c3235f583f5960c57adaaa640180fd5-4858x3239.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "Bond market investor Mark Connors predicts that routine government bond buybacks will enhance market liquidity. He believes this increased liquidity is a precursor to Bitcoin's next rally, potentially driving its price towards $180,000.",
     "importance": 7,
     "classified": true
   },
@@ -864,6 +876,18 @@
     "classified": true
   },
   {
+    "title": "Solana cuts mainnet slot time to 350 milliseconds in first step toward 200ms goal",
+    "link": "https://www.theblock.co/news/ecosystems/2026-08-22-solana-cuts-mainnet-slot-time-to-350-milliseconds-in-first-step-toward-200ms-goal-412521",
+    "pubDate": "Sat, 22 Aug 2026 15:54:13 +0000",
+    "source": "The Block",
+    "category": "crypto",
+    "content": "The change should lead to faster transaction confirmations but is not designed to increase the overall throughput of the network.",
+    "image": "https://www.tbstat.com/wp/uploads/2024/05/20240502_Solana_News_1-1200x675.jpg",
+    "summary": "Solana has reduced its mainnet slot time to 350 milliseconds, moving closer to its 200ms target. This adjustment is aimed at achieving faster transaction confirmations, though it will not enhance the network's overall throughput.",
+    "importance": 7,
+    "classified": true
+  },
+  {
     "title": "Grayscale moves closer to launching first Zcash ETF in US with fresh amended SEC filing",
     "link": "https://www.theblock.co/news/regulation/2026-08-21-grayscale-moves-closer-launching-first-zcash-etf-in-us-sec-amended-filing-412517",
     "pubDate": "Fri, 21 Aug 2026 21:34:53 +0000",
@@ -1016,18 +1040,6 @@
     "content": "During a private Oval Office meeting, President Trump appeared “bullish” on passing the Clarity Act, one source said.",
     "image": "https://www.tbstat.com/wp/uploads/2026/02/image-d3d3f946-f84d-4ec0-af8e-b8e8f8da2cab-1195x675.jpg",
     "summary": "President Trump expressed strong support for the Clarity Act during a private Oval Office meeting with crypto and finance CEOs, seeking their feedback on the legislation. The act aims to provide regulatory clarity for the cryptocurrency industry.",
-    "importance": 7,
-    "classified": true
-  },
-  {
-    "title": "‘Star Wars vibes:’ Chainlink’s McCormick sees AI agents, robots driving blockchain transactions",
-    "link": "https://www.theblock.co/news/web3/2026-08-20-star-wars-vibes-chainlink-mccormick-ai-agents-robots-blockchain-transactions-412327",
-    "pubDate": "Thu, 20 Aug 2026 13:58:22 +0000",
-    "source": "The Block",
-    "category": "both",
-    "content": "McCormick expects a multi-chain future as AI lowers the cost of creating new blockchain networks, increasing the need for interoperability.",
-    "image": "https://www.tbstat.com/wp/uploads/2020/09/20200904_Chainlink-Exploit-1200x675.jpg",
-    "summary": "Chainlink's McCormick predicts AI agents and robots will drive blockchain transactions, reducing costs and enabling a multi-chain future. This shift will heighten the demand for interoperability solutions across blockchain networks.",
     "importance": 7,
     "classified": true
   },
@@ -1496,18 +1508,6 @@
     "content": "Fusion power startup Inertia Enterprises reduced the fuel filling process from a week to just a few hours. It's one of 10 hurdles the company must overcome to make a profitable power plant.",
     "image": "",
     "summary": "Fusion power startup Inertia Enterprises has significantly reduced the fuel filling process for its fusion reactors from a week to just a few hours, marking a major step toward overcoming one of the 10 key challenges to achieving a profitable power plant.",
-    "importance": 6,
-    "classified": true
-  },
-  {
-    "title": "Stripe didn’t really buy OpenRouter because of the ‘singularity’",
-    "link": "https://techcrunch.com/2026/08/19/stripe-didnt-really-buy-openrouter-because-of-the-singularity/",
-    "pubDate": "Wed, 19 Aug 2026 23:32:00 +0000",
-    "source": "TechCrunch AI",
-    "category": "ai",
-    "content": "What does a payments giant want with a startup that routes prompts between different AI models? Stripe says it's because of \"the singularity\" but it's really for a far more real and powerful reason.",
-    "image": "",
-    "summary": "Stripe acquired OpenRouter, an AI model routing startup, citing interest in 'the singularity,' though the real motivation appears to be leveraging AI infrastructure for practical business applications. The deal highlights growing corporate investment in AI capabilities beyond traditional fintech.",
     "importance": 6,
     "classified": true
   },
