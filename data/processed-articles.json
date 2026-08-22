@@ -1,6 +1,6 @@
 [
   {
-    "title": "Bitcoin and Ether bears get decimated amid 'squeeze-led' rally and Musk's X wants to pay creators in stablecoins: Crypto week in 5 stories",
+    "title": "Bitcoin and Ether bears get decimated amid 'squeeze-led' rally and Musk's X wants to pay creators in stablecoins: Crypto's week in 5 stories",
     "link": "https://www.coindesk.com/business/2026/08/22/bitcoin-and-ether-bears-get-decimated-amid-squeeze-led-rally-and-musk-s-x-wants-to-pay-creators-in-stablecoins-crypto-week-in-5-stories",
     "pubDate": "Sat, 22 Aug 2026 12:00:00 +0000",
     "source": "CoinDesk",
@@ -92,18 +92,6 @@
     "content": "Commodity Futures Trading Commission Chairman Mike Selig told the inaugural gathering of the Innovation Advisory Committee that his agency won't sit idle.",
     "image": "https://cdn.sanity.io/images/s3y3vcno/production/3211fa7939c28f624c2b9b14fdc888817b3e9cbe-2048x1152.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
     "summary": "U.S. CFTC Chairman Mike Selig has directed his staff to prepare cryptocurrency regulations, indicating the agency's commitment to proactive oversight of digital assets. This move will proceed even if the Clarity Act, which presumably relates to crypto, fails to pass.",
-    "importance": 9,
-    "classified": true
-  },
-  {
-    "title": "Optimism-funded team's deciding vote shifts $49 million in OP tokens away from users",
-    "link": "https://www.coindesk.com/web3/2026/08/20/optimism-funded-team-s-deciding-vote-shifts-usd49-million-in-op-tokens-away-from-users",
-    "pubDate": "Thu, 20 Aug 2026 12:00:25 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "The approved plan reallocates 546.9 million OP from user airdrops to a Foundation-controlled Strategic Ecosystem Fund.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/060af3ed3f5d2b59c0f5e667dc87bfe6c68907fc-1920x1280.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "A deciding vote by an Optimism-funded team has reallocated a significant amount of OP tokens. The approved plan moves 546.9 million OP, valued at $49 million, from planned user airdrops to a Foundation-controlled Strategic Ecosystem Fund.",
     "importance": 9,
     "classified": true
   },
@@ -228,14 +216,14 @@
     "classified": true
   },
   {
-    "title": "Crypto for Advisors: What are tokenized deposits?",
-    "link": "https://www.coindesk.com/coindesk-indices/2026/08/20/crypto-for-advisors-what-are-tokenized-deposits",
-    "pubDate": "Thu, 20 Aug 2026 15:01:40 +0000",
-    "source": "CoinDesk",
+    "title": "MiCA is coming for DeFi vaults, but regulation will be difficult",
+    "link": "https://cointelegraph.com/magazine/mica-is-coming-for-defi-vaults-but-regulation-will-be-difficult?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Sat, 22 Aug 2026 13:30:00 +0000",
+    "source": "Cointelegraph",
     "category": "crypto",
-    "content": "Banks are moving deposits on-chain using permissioned systems, not open ones. See why privacy and compliance dictate this path in this week's newsletter.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/6110a57bc1a40169f4bf82185c3be28bc20151d3-3504x2568.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "Banks are beginning to tokenize deposits by moving them onto permissioned blockchain systems. This approach prioritizes privacy and compliance, diverging from open blockchain networks.",
+    "content": "Brussels is reviewing whether crypto lending should fall under MiCA, but DeFi lending vaults are making it harder to determine who, exactly, should be regulated.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/defi-lending-vaults-live-in-micas-blind-spot-but-brussels-may-be-about-to-close-it.jpg",
+    "summary": "Brussels is currently assessing whether crypto lending, particularly decentralized finance (DeFi) lending vaults, should be brought under the MiCA regulatory framework. A significant challenge in this process is determining precisely who should be held accountable and regulated within the decentralized nature of DeFi.",
     "importance": 8,
     "classified": true
   },
@@ -660,6 +648,18 @@
     "classified": true
   },
   {
+    "title": "Tokenized stocks risk repeating Wall Street’s 1960s ‘paper crisis,’ Fairmint CEO says",
+    "link": "https://www.coindesk.com/tech/2026/08/22/tokenized-stocks-risk-repeating-wall-street-s-1960s-paper-crisis-fairmint-ceo-says",
+    "pubDate": "Sat, 22 Aug 2026 14:00:00 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "Fairmint CEO Joris Delanoue warns tokenized stocks risk recreating Wall Street’s 1960s paper crisis through fragmented systems and standards.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/155e3ead47a755d673f9182dd4ef2a4d2eaecf98-1500x1001.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "Fairmint CEO Joris Delanoue warns that tokenized stocks risk replicating Wall Street's 1960s 'paper crisis'. This danger stems from the fragmented systems and standards currently present in the tokenized stock market.",
+    "importance": 7,
+    "classified": true
+  },
+  {
     "title": "Pass the Clarity Act",
     "link": "https://www.coindesk.com/opinion/2026/08/21/pass-the-clarity-act",
     "pubDate": "Fri, 21 Aug 2026 19:00:00 +0000",
@@ -704,18 +704,6 @@
     "content": "Longtime bond market investor Mark Connors sees routine government bond buybacks improving liquidity and bringing bitcoin’s next rally closer.",
     "image": "https://cdn.sanity.io/images/s3y3vcno/production/bea6e36a9c3235f583f5960c57adaaa640180fd5-4858x3239.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
     "summary": "Bond market investor Mark Connors predicts that routine government bond buybacks will enhance market liquidity. He believes this increased liquidity is a precursor to Bitcoin's next rally, potentially driving its price towards $180,000.",
-    "importance": 7,
-    "classified": true
-  },
-  {
-    "title": "Bitcoin's jump above $71,000 sets up bullish golden cross pattern",
-    "link": "https://www.coindesk.com/markets/2026/08/20/bitcoin-s-jump-above-usd71-000-sets-up-bullish-golden-cross-pattern",
-    "pubDate": "Thu, 20 Aug 2026 15:16:12 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "Bitcoin’s improving momentum could produce a golden cross, but the rally still faces an important test.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/aa3ab28c452ec5d1a80a7332ca263add18813d60-3200x1800.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "Bitcoin's recent surge above $71,000 is signaling a potential bullish 'golden cross' pattern, indicating improved momentum for the cryptocurrency. However, the article cautions that this rally still needs to pass a crucial test to confirm its sustained upward trend.",
     "importance": 7,
     "classified": true
   },
@@ -872,18 +860,6 @@
     "content": "Bitcoin saw new multimonth highs above $72,500 even as US stocks cooled amid US threats of “economic warfare” with Iran.",
     "image": "https://s3-images.ctmedia.io/media/article-covers/hi-trump-speak-iran-2.jpg",
     "summary": "Bitcoin's price surged to a new multi-month high of $72,500 despite US stocks cooling, amid escalating US threats of 'economic warfare' with Iran.",
-    "importance": 7,
-    "classified": true
-  },
-  {
-    "title": "Bitcoin ETFs draw $517M in largest one-day inflow since early May",
-    "link": "https://cointelegraph.com/markets/bitcoin-etfs-largest-daily-inflow-since-early-may?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Thu, 20 Aug 2026 11:16:41 +0000",
-    "source": "Cointelegraph",
-    "category": "crypto",
-    "content": "Investors have poured more than $1 billion into US spot Bitcoin ETFs this week as BTC neared $72,000 and Ether climbed 19% to about $2,286 on Thursday.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-can-bitcoins-hard-cap-be-changed-1.jpg",
-    "summary": "US spot Bitcoin ETFs saw their largest one-day inflow since early May, with $517 million invested as Bitcoin approached $72,000 and Ethereum surged 19% to around $2,286. The total weekly inflow into these ETFs exceeded $1 billion.",
     "importance": 7,
     "classified": true
   },
@@ -1608,6 +1584,18 @@
     "classified": true
   },
   {
+    "title": "Web3 gaming network Sandbox stops Base and BNB chain bridging after exploit",
+    "link": "https://www.coindesk.com/web3/2026/08/22/web3-gaming-network-sandbox-stops-base-and-bnb-chain-bridging-after-exploit",
+    "pubDate": "Sat, 22 Aug 2026 14:10:17 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "The Sandbox disabled bridging on affected networks to isolate tokens and warned users not to trade SAND on Base and BNB, citing an impact of under 0.01% of supply.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/c910fc1d77a080b35fa9ee1b719813158511ee07-1600x900.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "The Web3 gaming network, The Sandbox, has disabled bridging on its Base and BNB Chain networks following an exploit. Users are advised to avoid trading SAND tokens on these affected chains, though the company stated the impact was minor, affecting less than 0.01% of its token supply.",
+    "importance": 4,
+    "classified": true
+  },
+  {
     "title": "A $2 million bet on XRP volatility crosses the tape as prices surge",
     "link": "https://www.coindesk.com/markets/2026/08/21/a-usd2-million-bet-on-xrp-volatility-crosses-the-tape-as-prices-surge",
     "pubDate": "Fri, 21 Aug 2026 01:51:56 +0000",
@@ -1653,6 +1641,18 @@
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/1872-Factory-One-opening-1152x648.jpeg",
     "summary": "Former SpaceX engineers are developing an automated robotic factory to produce steel parts, focusing on modular design and gradual automation rather than full autonomy. The initiative aims to lower labor costs and increase precision in manufacturing.",
     "importance": 4,
+    "classified": true
+  },
+  {
+    "title": "Kalshi off-limits in multiple states as prediction markets, CFTC team up for battle",
+    "link": "https://www.coindesk.com/news-analysis/2026/08/21/kalshi-off-limits-in-multiple-states-as-prediction-markets-cftc-team-up-for-battle",
+    "pubDate": "Sat, 22 Aug 2026 13:30:00 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "Washington state is cut off for Kalshi customers while the company combats the development in court and its federal regulator keeps pursuing new rules.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/6d84d85eddfea0214122fb8436cd96c91a7a922e-2880x1620.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "Kalshi, a prediction market platform, is facing service restrictions in states like Washington, leading to customer cut-offs. The company is actively combating these developments in court while its federal regulator pursues new rules for the sector, highlighting ongoing regulatory challenges for prediction markets.",
+    "importance": 3,
     "classified": true
   },
   {
