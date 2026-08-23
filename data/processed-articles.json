@@ -1,5 +1,29 @@
 [
   {
+    "title": "Crypto card spending tops $1 billion as stablecoins move into everyday purchases",
+    "link": "https://www.coindesk.com/business/2026/08/23/crypto-card-spending-tops-usd1-billion-as-stablecoins-move-into-everyday-purchases",
+    "pubDate": "Sun, 23 Aug 2026 15:00:00 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "Tracked card volume more than tripled in a year, with USDC and USDT funding over 70% of spending as users increasingly paid for groceries, rides and subscriptions.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/da5caf65adc295012880cf200ddf9e937f2db11c-1920x1282.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "Crypto card spending has surpassed $1 billion, more than tripling in the past year. Stablecoins like USDC and USDT funded over 70% of these transactions, indicating a significant shift towards using crypto for everyday purchases such as groceries and subscriptions.",
+    "importance": 9,
+    "classified": true
+  },
+  {
+    "title": "Crypto’s next billion users might be AI agents, and they’re paying with stablecoins",
+    "link": "https://www.coindesk.com/business/2026/08/23/crypto-s-next-billion-users-might-be-ai-agents-and-they-re-paying-with-stablecoins",
+    "pubDate": "Sun, 23 Aug 2026 13:00:00 +0000",
+    "source": "CoinDesk",
+    "category": "both",
+    "content": "According to Coinbase’s head of AI product, we’re currently in the “Napster/LimeWire era” of agentic payments.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/b2b3f7b7e0e6d86e4e32cb82bf213fc59e1ca5d7-8660x5773.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "Coinbase's head of AI product suggests that the next billion users for cryptocurrency will be AI agents, utilizing stablecoins for payments. This development is likened to the early \"Napster/LimeWire era\" for agentic payments, indicating an emerging phase of AI-driven crypto adoption.",
+    "importance": 9,
+    "classified": true
+  },
+  {
     "title": "Bitcoin and Ether bears get decimated amid 'squeeze-led' rally and Musk's X wants to pay creators in stablecoins: Crypto's week in 5 stories",
     "link": "https://www.coindesk.com/business/2026/08/22/bitcoin-and-ether-bears-get-decimated-amid-squeeze-led-rally-and-musk-s-x-wants-to-pay-creators-in-stablecoins-crypto-week-in-5-stories",
     "pubDate": "Sat, 22 Aug 2026 12:00:00 +0000",
@@ -80,18 +104,6 @@
     "content": "The two-day short liquidation total has surpassed $4 billion, with Thursday's figure setting a record dating back to 2021.",
     "image": "https://cdn.sanity.io/images/s3y3vcno/production/f94e2ddbb86c1864461923ebf84d25d794f44d91-1920x1080.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
     "summary": "Bitcoin, Ether, and Solana saw significant price increases as another $1 billion in short positions were liquidated. This brings the two-day total of short liquidations to approximately $3.8 billion, with Thursday's figure setting a record high since 2021.",
-    "importance": 9,
-    "classified": true
-  },
-  {
-    "title": "U.S. CFTC chief puts staff on notice to create crypto regulations if Clarity Act fails",
-    "link": "https://www.coindesk.com/policy/2026/08/20/u-s-cftc-chief-puts-staff-on-notice-to-create-crypto-regulations-if-clarity-act-fails",
-    "pubDate": "Thu, 20 Aug 2026 18:54:18 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "Commodity Futures Trading Commission Chairman Mike Selig told the inaugural gathering of the Innovation Advisory Committee that his agency won't sit idle.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/3211fa7939c28f624c2b9b14fdc888817b3e9cbe-2048x1152.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "U.S. CFTC Chairman Mike Selig has directed his staff to prepare cryptocurrency regulations, indicating the agency's commitment to proactive oversight of digital assets. This move will proceed even if the Clarity Act, which presumably relates to crypto, fails to pass.",
     "importance": 9,
     "classified": true
   },
@@ -228,18 +240,6 @@
     "classified": true
   },
   {
-    "title": "Bitcoin pushes past $75,000 as rally continues.",
-    "link": "https://www.coindesk.com/markets/2026/08/20/bitcoin-pushes-past-usd75-000-as-rally-continues",
-    "pubDate": "Fri, 21 Aug 2026 01:55:50 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "\"Bears in pain, right now,\" wrote bitcoin analyst James Check.",
-    "image": "",
-    "summary": "Bitcoin has surged past the $75,000 milestone, continuing its upward rally. Analyst James Check commented on the market movement, noting that \"bears in pain\" are feeling the impact of this significant price increase.",
-    "importance": 8,
-    "classified": true
-  },
-  {
     "title": "MiCA is coming for DeFi vaults, but regulation will be difficult",
     "link": "https://cointelegraph.com/magazine/mica-is-coming-for-defi-vaults-but-regulation-will-be-difficult?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "pubDate": "Sat, 22 Aug 2026 13:30:00 +0000",
@@ -360,14 +360,14 @@
     "classified": true
   },
   {
-    "title": "Cybersecurity firm unveils crypto phishing campaign targeting 885,000 phone numbers",
-    "link": "https://cointelegraph.com/news/cybersecurity-unveils-crypto-phishing-885000-phone-numbers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Thu, 20 Aug 2026 12:35:32 +0000",
-    "source": "Cointelegraph",
+    "title": "Tether’s $120 million Uruguay bitcoin mining project collapsed over a power contract dispute: Reuters",
+    "link": "https://www.theblock.co/news/business/2026-08-23-tethers-120-million-uruguay-bitcoin-mining-project-collapsed-over-a-power-contract-dispute-reuters-412536",
+    "pubDate": "Sun, 23 Aug 2026 17:02:20 +0000",
+    "source": "The Block",
     "category": "crypto",
-    "content": "Rapid7 unveiled a new cryptocurrency phishing campaign targeting 885,000 phone numbers, aiming to steal investors’ holdings by redirecting them to fake wallet provider websites.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-what-is-a-crypto-money-mule-scam-and-how-to-avoid-it.jpg",
-    "summary": "Cybersecurity firm Rapid7 has uncovered a new cryptocurrency phishing campaign that targets 885,000 phone numbers. The attackers aim to steal investors' holdings by redirecting them to fraudulent wallet provider websites.",
+    "content": "UTE cut power to Tether's mining sites in July 2025 after Tether representatives did not attend the signing of a revised contract, per the report.",
+    "image": "https://www.tbstat.com/wp/uploads/2026/06/20260612_Tether_News_2-1200x675.jpg",
+    "summary": "Tether's $120 million bitcoin mining project in Uruguay has reportedly collapsed due to a power contract dispute. State power company UTE cut power to Tether's mining sites in July 2025 after the company's representatives failed to attend the signing of a revised agreement.",
     "importance": 8,
     "classified": true
   },
@@ -428,6 +428,18 @@
     "content": "Bitcoin Magazine\n\nLegendary Investor Ray Dalio Touts Bitcoin — With Gold — To Hedge Against Incoming Debt Crisis\nBridgewater Associates founder Ray Dalio has said Bitcoin will do well with government money printing. \nThis post Legendary Investor Ray Dalio Touts Bitcoin — With Gold — To Hedge Against Incoming Debt Crisis first appeared on Bitcoin Magazine and is written by Mathew Di Salvo.",
     "image": "https://bitcoinmagazine.com/wp-content/uploads/2025/11/Ray-Dalio-Reaffirms-Bitcoin-Skepticism-Says-He-Still-Holds-Just-1-Allocation.jpg",
     "summary": "Legendary investor Ray Dalio suggests Bitcoin and gold as hedges against an impending debt crisis, highlighting Bitcoin's potential to thrive amid government money printing. The Bridgewater Associates founder emphasizes the need for alternative assets to counter economic instability.",
+    "importance": 8,
+    "classified": true
+  },
+  {
+    "title": "Is it legal to train AI models on copyrighted books? It’s complicated",
+    "link": "https://techcrunch.com/2026/08/23/is-it-legal-to-train-ai-models-on-copyrighted-books-its-complicated/",
+    "pubDate": "Sun, 23 Aug 2026 15:00:00 +0000",
+    "source": "TechCrunch AI",
+    "category": "ai",
+    "content": "Most published authors have, without their knowledge or consent, contributed to the development of the same AI tools that threaten to undermine their livelihoods. That seems illegal, right?",
+    "image": "",
+    "summary": "The article discusses the legal complexities surrounding the use of copyrighted books to train AI models without the authors' knowledge or consent, highlighting ethical and legal concerns for content creators.",
     "importance": 8,
     "classified": true
   },
@@ -684,6 +696,18 @@
     "classified": true
   },
   {
+    "title": "XRP on track for biggest weekly gain in 21 months as Treasury buyback spurs 'curve control' hopes",
+    "link": "https://www.coindesk.com/markets/2026/08/23/xrp-on-track-for-biggest-weekly-gain-in-21-months-as-treasury-buyback-spurs-curve-control-hopes",
+    "pubDate": "Sun, 23 Aug 2026 15:52:21 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "XRP’s price has surged by 50% this week, the best performance since November 2024. Here's what's driving the rally.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/5f60efd49e0a819f81091f39acbb1766f5bf3819-2961x995.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "XRP's price has surged by 50% this week, marking its strongest performance since November 2024. This significant rally is reportedly driven by a Treasury buyback, which has led to speculation about 'curve control'.",
+    "importance": 7,
+    "classified": true
+  },
+  {
     "title": "Crypto exchange BitMart weighs partial restart and creditor payouts weeks after announcing shutdown",
     "link": "https://www.coindesk.com/business/2026/08/22/crypto-exchange-bitmart-weighs-partial-restart-and-creditor-payouts-weeks-after-announcing-shutdown",
     "pubDate": "Sat, 22 Aug 2026 15:16:41 +0000",
@@ -740,6 +764,18 @@
     "content": "Clearpool and Cicada Partners are building an institutional lending product using RLUSD, though the XRP Ledger features underpinning it are still awaiting activation.",
     "image": "https://cdn.sanity.io/images/s3y3vcno/production/260b57a4fe560b018cc5f2eb91b9df196b57dc92-3773x2122.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
     "summary": "Ripple is backing an RLUSD credit fund developed by Clearpool and Cicada Partners for institutional lending, even though the underlying XRP Ledger features are not yet active. This initiative comes during one of XRP's strongest market performances in months.",
+    "importance": 7,
+    "classified": true
+  },
+  {
+    "title": "Fed study finds crypto investors driven by beliefs, easily swayed by returns",
+    "link": "https://cointelegraph.com/news/fed-study-finds-crypto-investors-driven-by-beliefs-easily-swayed-by-returns?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Sun, 23 Aug 2026 15:30:53 +0000",
+    "source": "Cointelegraph",
+    "category": "crypto",
+    "content": "A Federal Reserve Bank of Cleveland study finds crypto investors hold sharply different views on returns and risk, while information about Bitcoin’s past gains can increase both desired allocations and actual crypto purchases.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-the-future-of-public-finance-will-be-crypto-assets-for-liquid-democracy.jpg",
+    "summary": "A Federal Reserve Bank of Cleveland study found that crypto investors hold diverse views on returns and risk. The research also indicated that providing information about Bitcoin's historical gains can significantly increase both desired investment allocations and actual crypto purchases among investors.",
     "importance": 7,
     "classified": true
   },
@@ -1044,18 +1080,6 @@
     "classified": true
   },
   {
-    "title": "Ondo executive says tokenization is following the same path as early ETFs",
-    "link": "https://www.theblock.co/news/business/2026-08-20-ondo-executive-says-tokenization-following-same-path-as-early-etfs-412346",
-    "pubDate": "Thu, 20 Aug 2026 17:53:38 +0000",
-    "source": "The Block",
-    "category": "both",
-    "content": "The firm hopes that passage of the Clarity Act will help open the door for it to offer tokenized products in the U.S.",
-    "image": "https://www.tbstat.com/wp/uploads/2025/09/20230216_Ondo-1200x675.jpg",
-    "summary": "Ondo Finance's executive compares the growth of tokenization to early ETFs, suggesting regulatory progress like the Clarity Act could unlock U.S. tokenized product offerings. The firm aims to expand its tokenized asset services amid evolving financial regulations.",
-    "importance": 7,
-    "classified": true
-  },
-  {
     "title": "Smart Money Helping Support Bitcoin Rebound, Says Pantera Capital",
     "link": "https://bitcoinmagazine.com/news/pantera-capital-says-bitcoin-to-go-higher",
     "pubDate": "Fri, 21 Aug 2026 21:52:26 +0000",
@@ -1256,30 +1280,6 @@
     "content": "Affected users told TechCrunch they were using Grok Lite, and noticed the issues as early as Wednesday morning.",
     "image": "",
     "summary": "Users of Grok Lite, an AI chatbot developed by xAI, reported receiving nonsensical or gibberish responses starting Wednesday morning. The issue has impacted multiple users, raising concerns about the reliability of the AI service.",
-    "importance": 7,
-    "classified": true
-  },
-  {
-    "title": "Ramp launches its own AI model router, called Router",
-    "link": "https://techcrunch.com/2026/08/20/ramp-launches-its-own-ai-model-router-called-router/",
-    "pubDate": "Thu, 20 Aug 2026 16:46:00 +0000",
-    "source": "TechCrunch AI",
-    "category": "ai",
-    "content": "Ramp has launched its own AI model routing service, dubbed Router, that lets users and companies use and switch between various large language models via an API.",
-    "image": "",
-    "summary": "Ramp has introduced Router, an AI model routing service that allows users and companies to access and switch between multiple large language models through a single API. This tool aims to simplify the integration and management of different AI models for developers and businesses.",
-    "importance": 7,
-    "classified": true
-  },
-  {
-    "title": "Meta brings Pocket, an app that lets you vibe-code and share games, to US users",
-    "link": "https://techcrunch.com/2026/08/20/meta-brings-pocket-an-app-that-lets-you-vibe-code-and-share-games-to-us-users/",
-    "pubDate": "Thu, 20 Aug 2026 16:07:26 +0000",
-    "source": "TechCrunch AI",
-    "category": "ai",
-    "content": "Meta is bringing Pocket, its experimental AI-powered app for creating and sharing interactive games, to users across the U.S. after quietly testing it in Brazil.",
-    "image": "",
-    "summary": "Meta has expanded access to Pocket, an AI-powered app for creating and sharing interactive games, to users in the U.S., following a limited test in Brazil. The app allows users to 'vibe-code' games using natural language prompts.",
     "importance": 7,
     "classified": true
   },
@@ -1596,18 +1596,6 @@
     "classified": true
   },
   {
-    "title": "A $2 million bet on XRP volatility crosses the tape as prices surge",
-    "link": "https://www.coindesk.com/markets/2026/08/21/a-usd2-million-bet-on-xrp-volatility-crosses-the-tape-as-prices-surge",
-    "pubDate": "Fri, 21 Aug 2026 01:51:56 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "An options trader opened a large straddle on XRP, betting on wild price swings by Aug. 28.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/b5c30adde39d74c27e831f8400fa198ddb0528d0-5164x2904.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "An options trader has placed a significant $2 million straddle bet on XRP, anticipating wild price swings for the cryptocurrency by August 28th. This large wager indicates a strong expectation of future volatility in XRP's market value.",
-    "importance": 4,
-    "classified": true
-  },
-  {
     "title": "This company’s plans to deploy space mirrors could jeopardize the night sky for many",
     "link": "https://www.technologyreview.com/2026/08/21/1142755/space-mirrors-night-sky/",
     "pubDate": "Fri, 21 Aug 2026 09:00:00 +0000",
@@ -1724,6 +1712,18 @@
     "content": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Support networks aim to help kids through the polycrisis Sometime in the late 2000s, six-year-old Pim Sullivan-Tailyour was sitting in the back of a car in Thailand when she saw a…",
     "image": "https://wp.technologyreview.com/wp-content/uploads/2025/10/MIT_Opener_final2.jpg?fit=2128,1196",
     "summary": "The article discusses 'The Download,' a technology newsletter covering various tech topics, including support networks for children amid global crises and a surge in hydrogen-related investments. The content does not focus on AI or cryptocurrency.",
+    "importance": 1,
+    "classified": true
+  },
+  {
+    "title": "Flock CEO calls for ‘compromise’ as surveillance company faces growing backlash",
+    "link": "https://techcrunch.com/2026/08/23/flock-ceo-calls-for-compromise-as-surveillance-company-faces-growing-backlash/",
+    "pubDate": "Sun, 23 Aug 2026 15:30:00 +0000",
+    "source": "TechCrunch AI",
+    "category": "ai",
+    "content": "Flock Safety faces a growing public outcry over concerns that its surveillance technology could be misused.",
+    "image": "",
+    "summary": "Flock Safety is facing significant public backlash over concerns that its surveillance technology could be misused. In response to the growing public outcry, the CEO of Flock Safety has called for \"compromise.\"",
     "importance": 1,
     "classified": true
   }
