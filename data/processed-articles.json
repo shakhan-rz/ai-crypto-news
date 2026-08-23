@@ -1,5 +1,17 @@
 [
   {
+    "title": "Regulation Crypto is here: State of Crypto ",
+    "link": "https://www.coindesk.com/policy/2026/08/23/regulation-crypto-is-here-state-of-crypto",
+    "pubDate": "Sun, 23 Aug 2026 18:30:00 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "The SEC published its Reg Crypto proposal last week, giving the public 60 days to comment.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/eb8dcd6a8ff7a00d092a7e659c13193ec9cd42ea-1920x1080.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "The SEC has recently published its \"Reg Crypto\" proposal, initiating a 60-day public comment period. This move signals a significant step towards formal regulation in the cryptocurrency space, directly impacting the industry.",
+    "importance": 9,
+    "classified": true
+  },
+  {
     "title": "Crypto card spending tops $1 billion as stablecoins move into everyday purchases",
     "link": "https://www.coindesk.com/business/2026/08/23/crypto-card-spending-tops-usd1-billion-as-stablecoins-move-into-everyday-purchases",
     "pubDate": "Sun, 23 Aug 2026 15:00:00 +0000",
@@ -92,18 +104,6 @@
     "content": "Spot bitcoin ETFs pulled in $606 million on Aug. 20 and ether funds $221 million, both bigger than the prior day, confirming the institutional bid behind bitcoin's run.",
     "image": "",
     "summary": "Bitcoin surpassed $79,500, with BTC and ETH funds collectively recording $800 million in inflows on August 20. This substantial institutional interest was driven by spot bitcoin ETFs pulling in $606 million and ether funds $221 million, confirming a strong institutional bid behind bitcoin's rally.",
-    "importance": 9,
-    "classified": true
-  },
-  {
-    "title": "Bitcoin, ether and solana climb as another $1 billion shorts get wiped out",
-    "link": "https://www.coindesk.com/markets/2026/08/21/bitcoin-ether-and-solana-climb-as-another-usd1-billion-shorts-get-wiped-out",
-    "pubDate": "Fri, 21 Aug 2026 04:56:30 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "The two-day short liquidation total has surpassed $4 billion, with Thursday's figure setting a record dating back to 2021.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/f94e2ddbb86c1864461923ebf84d25d794f44d91-1920x1080.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "Bitcoin, Ether, and Solana saw significant price increases as another $1 billion in short positions were liquidated. This brings the two-day total of short liquidations to approximately $3.8 billion, with Thursday's figure setting a record high since 2021.",
     "importance": 9,
     "classified": true
   },
@@ -432,6 +432,18 @@
     "classified": true
   },
   {
+    "title": "Who’s behind the new ‘stealth model’ Ox Alpha?",
+    "link": "https://techcrunch.com/2026/08/23/whos-behind-the-new-stealth-model-ox-alpha/",
+    "pubDate": "Sun, 23 Aug 2026 20:01:36 +0000",
+    "source": "TechCrunch AI",
+    "category": "ai",
+    "content": "A mysterious new AI model called Ox Alpha has driven certain corners of the internet into a frenzy of speculation.",
+    "image": "",
+    "summary": "A new and mysterious AI model named Ox Alpha has emerged, generating significant speculation across various online communities. The identity of its creators and the model's capabilities remain unknown, sparking a frenzy of discussion.",
+    "importance": 8,
+    "classified": true
+  },
+  {
     "title": "Is it legal to train AI models on copyrighted books? It’s complicated",
     "link": "https://techcrunch.com/2026/08/23/is-it-legal-to-train-ai-models-on-copyrighted-books-its-complicated/",
     "pubDate": "Sun, 23 Aug 2026 15:00:00 +0000",
@@ -488,18 +500,6 @@
     "content": "Surging demand for AI training data is driving rapid growth for the startup and its rivals.",
     "image": "",
     "summary": "AI data startup Micro1 has achieved a $500 million gross run rate, driven by surging demand for AI training data amid the AI training boom. The company's rapid growth highlights the critical role of high-quality data in advancing artificial intelligence technologies.",
-    "importance": 8,
-    "classified": true
-  },
-  {
-    "title": "A third of web pages published since ChatGPT launched were written by AI, study finds",
-    "link": "https://techcrunch.com/2026/08/20/a-third-of-webpages-published-since-chatgpts-launch-show-signs-of-ai-authorship-study-finds/",
-    "pubDate": "Thu, 20 Aug 2026 17:18:58 +0000",
-    "source": "TechCrunch AI",
-    "category": "ai",
-    "content": "ChatGPT and other AI models are now authoring and editing much of the new web.",
-    "image": "",
-    "summary": "A study reveals that one-third of web pages published since ChatGPT's launch were generated or edited by AI tools like ChatGPT. This highlights the growing influence of AI in content creation and the evolving landscape of the web.",
     "importance": 8,
     "classified": true
   },
@@ -1572,18 +1572,6 @@
     "classified": true
   },
   {
-    "title": "Linkdaze’s smart calendar is built to run a household, not just track a schedule",
-    "link": "https://techcrunch.com/2026/08/20/linkdazes-smart-calendar-is-built-to-run-a-household-not-just-track-a-schedule/",
-    "pubDate": "Thu, 20 Aug 2026 18:20:35 +0000",
-    "source": "TechCrunch AI",
-    "category": "ai",
-    "content": "Linkdaze's smart digital calendar stands out for not putting its features behind a paywall, including an AI meal planner tool.",
-    "image": "",
-    "summary": "Linkdaze has launched a smart digital calendar that includes an AI-powered meal planner, differentiating itself by offering these features for free without a paywall. The tool is designed to manage household tasks rather than just tracking schedules.",
-    "importance": 5,
-    "classified": true
-  },
-  {
     "title": "Web3 gaming network Sandbox stops Base and BNB chain bridging after exploit",
     "link": "https://www.coindesk.com/web3/2026/08/22/web3-gaming-network-sandbox-stops-base-and-bnb-chain-bridging-after-exploit",
     "pubDate": "Sat, 22 Aug 2026 14:10:17 +0000",
@@ -1652,6 +1640,18 @@
     "content": "Each day, an airline transports tens of thousands of passengers on hundreds of flights. Often these are not straightforward point-to-point routes, with passengers requiring multiple connections. The airline can consider potentially hundreds of variables to price each of these journeys: demand, season, time of day, current events, global markets, and competitor airline activity to name…",
     "image": "https://wp.technologyreview.com/wp-content/uploads/2026/08/MIT_Fetcherr-COVERV9_81426.png?w=840",
     "summary": "The article discusses how airlines use complex market models with numerous variables like demand, seasonality, and competitor activity to optimize pricing for multi-leg passenger journeys. These models aim to unlock hidden revenue streams by dynamically adjusting ticket prices.",
+    "importance": 3,
+    "classified": true
+  },
+  {
+    "title": "Linkdaze’s smart calendar is built to run a household, not just track a schedule",
+    "link": "https://techcrunch.com/2026/08/23/linkdazes-smart-calendar-is-built-to-run-a-household-not-just-track-a-schedule/",
+    "pubDate": "Sun, 23 Aug 2026 19:14:08 +0000",
+    "source": "TechCrunch AI",
+    "category": "ai",
+    "content": "Linkdaze's smart digital calendar stands out for not putting its features behind a paywall, including an AI meal planner tool.",
+    "image": "",
+    "summary": "Linkdaze has launched a smart digital calendar designed for household management, featuring an AI meal planner tool. All of the calendar's features are notable for being available without a paywall.",
     "importance": 3,
     "classified": true
   },
