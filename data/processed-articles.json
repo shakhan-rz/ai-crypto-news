@@ -1512,18 +1512,6 @@
     "classified": true
   },
   {
-    "title": "Inertia Enterprises finds a way to make its fusion fuel fast",
-    "link": "https://techcrunch.com/2026/08/20/inertia-enterprises-finds-a-way-to-make-its-fusion-fuel-fast/",
-    "pubDate": "Thu, 20 Aug 2026 16:00:00 +0000",
-    "source": "TechCrunch AI",
-    "category": "ai",
-    "content": "Fusion power startup Inertia Enterprises reduced the fuel filling process from a week to just a few hours. It's one of 10 hurdles the company must overcome to make a profitable power plant.",
-    "image": "",
-    "summary": "Fusion power startup Inertia Enterprises has significantly reduced the fuel filling process for its fusion reactors from a week to just a few hours, marking a major step toward overcoming one of the 10 key challenges to achieving a profitable power plant.",
-    "importance": 6,
-    "classified": true
-  },
-  {
     "title": "Booksellers suspect AI firms are buying and then destroying rare books",
     "link": "https://arstechnica.com/tech-policy/2026/08/heres-a-balm-if-the-idea-of-destroying-books-to-train-ai-breaks-your-heart/",
     "pubDate": "Wed, 12 Aug 2026 15:19:17 +0000",
@@ -1568,6 +1556,18 @@
     "content": "Binance’s employees were cleared and released after providing statements to UAE authorities about third-party fund flows through a company client account, a spokesperson told Cointelegraph.",
     "image": "https://s3-images.ctmedia.io/media/article-covers/hi-binance-spotlight.jpg",
     "summary": "Binance employees in the UAE were questioned by authorities regarding third-party fund flows through a client account but were later cleared and released after providing statements. The investigation did not lead to any charges against the employees.",
+    "importance": 5,
+    "classified": true
+  },
+  {
+    "title": "Harvard’s $699 startup bootcamp offers AI avatars of its instructors",
+    "link": "https://techcrunch.com/2026/08/22/harvards-699-startup-bootcamp-offers-ai-avatars-of-its-instructors/",
+    "pubDate": "Sat, 22 Aug 2026 21:46:56 +0000",
+    "source": "TechCrunch AI",
+    "category": "ai",
+    "content": "In the HBS Foundry program, AI avatars provide feedback during practice pitches and board meetings.",
+    "image": "",
+    "summary": "Harvard Business School's HBS Foundry startup bootcamp is now incorporating AI avatars of its instructors. These AI avatars are designed to provide feedback to participants during practice pitches and board meetings, enhancing the learning experience.",
     "importance": 5,
     "classified": true
   },
