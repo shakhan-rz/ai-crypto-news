@@ -36,18 +36,6 @@
     "classified": true
   },
   {
-    "title": "Bitcoin and Ether bears get decimated amid 'squeeze-led' rally and Musk's X wants to pay creators in stablecoins: Crypto's week in 5 stories",
-    "link": "https://www.coindesk.com/business/2026/08/22/bitcoin-and-ether-bears-get-decimated-amid-squeeze-led-rally-and-musk-s-x-wants-to-pay-creators-in-stablecoins-crypto-week-in-5-stories",
-    "pubDate": "Sat, 22 Aug 2026 12:00:00 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "Bitcoin and crypto staged their strongest rally in months as Treasury intervention, regulatory moves and a historic short squeeze collided, while banks and technology companies pushed deeper into stablecoins.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/e5935e0dfa2e7f85bd8761d8a1d6e4e8f1cce2c3-8192x5464.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "The crypto market, led by Bitcoin, experienced its strongest rally in months, fueled by Treasury intervention, regulatory developments, and a historic short squeeze. This surge occurred as banks and technology companies deepen their involvement with stablecoins, notably with Elon Musk's X platform reportedly planning to use stablecoins to pay creators.",
-    "importance": 9,
-    "classified": true
-  },
-  {
     "title": "Term Finance loses estimated $8.5M in vault governance exploit",
     "link": "https://cointelegraph.com/news/term-finance-8-5m-vault-governance-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "pubDate": "Mon, 24 Aug 2026 03:59:29 +0000",
@@ -105,6 +93,30 @@
     "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/DCD_082026_Site.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
     "summary": "AI models, particularly OpenAI's Astra, have recently demonstrated advanced mathematical problem-solving abilities, solving longstanding unsolved problems and sparking an existential crisis in the mathematics community. Leading mathematicians express concerns over AI's rapid progress, potential impact on academic careers, and the future of mathematical research, while also acknowledging the technology's potential to democratize access and accelerate discovery.",
     "importance": 9,
+    "classified": true
+  },
+  {
+    "title": "Tom Lee's Bitmine buys $81 million of ETH in largest weekly haul since early July",
+    "link": "https://www.coindesk.com/business/2026/08/24/tom-lee-s-bitmine-buys-usd81-million-of-eth-in-largest-weekly-haul-since-early-july",
+    "pubDate": "Mon, 24 Aug 2026 12:59:55 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "The treasury firm stepped up its ETH buying as Tom Lee said the crypto’s 30% weekly rally could signal a larger move ahead.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/9d7bd39b2982649e7e43cc0537c507eb62abc21c-2048x1152.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "Tom Lee's treasury firm, Bitmine, acquired $81 million worth of Ethereum (ETH), marking its largest weekly purchase since early July. This significant investment aligns with Lee's prediction that the cryptocurrency's recent 30% weekly rally could indicate a larger market movement ahead.",
+    "importance": 8,
+    "classified": true
+  },
+  {
+    "title": "New Solana vote could ramp daily SOL burns to $800,000 and slow new token creation",
+    "link": "https://www.coindesk.com/tech/2026/08/24/new-solana-vote-could-ramp-daily-sol-burns-to-usd800-000-and-slow-new-token-creation",
+    "pubDate": "Mon, 24 Aug 2026 12:52:30 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "Two of the three proposals would reduce SOL supply growth by speeding up Solana’s inflation decline and raising daily fee burns from about 650 SOL to as much as 9,000 SOL.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/9a77266875bd5ba03807c057c4d6412491668d63-3622x2717.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "New proposals for the Solana blockchain aim to significantly increase the daily SOL burn rate from approximately 650 to as much as 9,000 SOL. These changes would also accelerate the decline in Solana's inflation, thereby reducing the growth of the SOL supply and potentially slowing new token creation.",
+    "importance": 8,
     "classified": true
   },
   {
@@ -188,6 +200,18 @@
     "content": "Bitcoin holds above $77,000 after a 21% week, with XRP up 46% over the same stretch. Asian stocks fell as Samsung and Alibaba slid.",
     "image": "https://cdn.sanity.io/images/s3y3vcno/production/e5f2293daa4cfa05aaf86ac4348f5596cdb79730-1516x852.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
     "summary": "Bitcoin has maintained its position above $77,000 following a substantial 21% weekly rally, while XRP saw an even greater surge of 46% over the same period. This crypto market strength contrasts with declines in Asian stock markets, where Samsung and Alibaba shares fell.",
+    "importance": 8,
+    "classified": true
+  },
+  {
+    "title": "Zondacrypto boss seeks leniency for testimony on political ties: Report",
+    "link": "https://cointelegraph.com/news/zondacrypto-ceo-seeks-leniency-testimony-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Mon, 24 Aug 2026 14:00:51 +0000",
+    "source": "Cointelegraph",
+    "category": "crypto",
+    "content": "Przemysław Kral reportedly faces a fraud charge and is cooperating with Polish prosecutors as estimated customer losses reach $650 million.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/policymaker-bill-poland-1.jpg",
+    "summary": "Przemysław Kral, the boss of Zondacrypto, is reportedly cooperating with Polish prosecutors and seeking leniency while facing a fraud charge. The estimated customer losses associated with the case have reached $650 million.",
     "importance": 8,
     "classified": true
   },
@@ -288,6 +312,18 @@
     "classified": true
   },
   {
+    "title": "‘Upside move in ETH was overdue,’ Tom Lee says as Bitmine buys another 32,447 ether",
+    "link": "https://www.theblock.co/news/business/2026-08-24-upside-move-eth-was-overdue-tom-lee-says-bitmine-buys-more-ether-412589",
+    "pubDate": "Mon, 24 Aug 2026 13:36:31 +0000",
+    "source": "The Block",
+    "category": "crypto",
+    "content": "Bitmine's total crypto, cash, and other investments currently stand at $14.9 billion, and it owns over 4.8% of Ethereum's circulating supply.",
+    "image": "https://www.tbstat.com/wp/uploads/2025/09/cropped-11-1200x658.jpg",
+    "summary": "Tom Lee suggests an \"upside move in ETH was overdue\" as Bitmine purchased an additional 32,447 Ether. This acquisition increases Bitmine's substantial crypto holdings, which now represent over 4.8% of Ethereum's circulating supply and contribute to its $14.9 billion in total investments.",
+    "importance": 8,
+    "classified": true
+  },
+  {
     "title": "Bitcoin records largest weekly dollar gain in history; Strive CEO predicts ‘strongest’ cycle ever",
     "link": "https://www.theblock.co/news/markets/2026-08-23-bitcoin-record-weekly-dollar-gain-412547",
     "pubDate": "Mon, 24 Aug 2026 03:52:31 +0000",
@@ -380,6 +416,42 @@
     "content": "Bitcoin Magazine\n\nLegendary Investor Ray Dalio Touts Bitcoin — With Gold — To Hedge Against Incoming Debt Crisis\nBridgewater Associates founder Ray Dalio has said Bitcoin will do well with government money printing. \nThis post Legendary Investor Ray Dalio Touts Bitcoin — With Gold — To Hedge Against Incoming Debt Crisis first appeared on Bitcoin Magazine and is written by Mathew Di Salvo.",
     "image": "https://bitcoinmagazine.com/wp-content/uploads/2025/11/Ray-Dalio-Reaffirms-Bitcoin-Skepticism-Says-He-Still-Holds-Just-1-Allocation.jpg",
     "summary": "Legendary investor Ray Dalio suggests Bitcoin and gold as hedges against an impending debt crisis, highlighting Bitcoin's potential to thrive amid government money printing. The Bridgewater Associates founder emphasizes the need for alternative assets to counter economic instability.",
+    "importance": 8,
+    "classified": true
+  },
+  {
+    "title": "Valor, Point72 back General Intuition at $6B valuation as AI startup pushes into robotics",
+    "link": "https://techcrunch.com/2026/08/24/valor-point72-back-general-intuition-at-6b-valuation-as-ai-startup-pushes-into-robotics/",
+    "pubDate": "Mon, 24 Aug 2026 15:24:18 +0000",
+    "source": "TechCrunch AI",
+    "category": "ai",
+    "content": "General Intuition, the startup building a foundation model that trains generalized AI agents how to move through space and time, is in talks to raise at a $6 billion pre-money valuation from new investors including Valor Ventures, Point72 Ventures, Seven Seven Six.",
+    "image": "",
+    "summary": "General Intuition, an AI startup developing a foundation model for training generalized AI agents in movement and spatial navigation, is in talks to raise funding at a $6 billion valuation. Investors including Valor Ventures, Point72 Ventures, and Seven Seven Six are participating in the round.",
+    "importance": 8,
+    "classified": true
+  },
+  {
+    "title": "OpenAI is building AI agents for everything. Will everyone use them?",
+    "link": "https://techcrunch.com/2026/08/24/openai-is-building-an-ai-agent-for-everything-will-everyone-use-them/",
+    "pubDate": "Mon, 24 Aug 2026 15:00:00 +0000",
+    "source": "TechCrunch AI",
+    "category": "ai",
+    "content": "Inside the frontier lab’s push to bring AI agents from software engineers to the masses.",
+    "image": "",
+    "summary": "OpenAI is developing AI agents capable of performing a wide range of tasks, aiming to make them accessible to the general public. The initiative seeks to expand AI's utility beyond current applications, potentially transforming how people interact with technology.",
+    "importance": 8,
+    "classified": true
+  },
+  {
+    "title": "Hugging Face reportedly in talks to be acquired for $13B",
+    "link": "https://techcrunch.com/2026/08/24/hugging-face-reportedly-in-talks-to-be-acquired-for-13b/",
+    "pubDate": "Mon, 24 Aug 2026 13:47:26 +0000",
+    "source": "TechCrunch AI",
+    "category": "ai",
+    "content": "Hugging Face has reportedly been fielding acquisition offers that would value the company at around $13B. But with the founders' feeling of responsibility to community, doubts arise as to whether a sale will happen.",
+    "image": "",
+    "summary": "Hugging Face, a leading AI startup known for its open-source machine learning platform, is reportedly in acquisition talks valued at around $13 billion. However, the company's founders are hesitant due to their commitment to the community, raising doubts about a potential sale.",
     "importance": 8,
     "classified": true
   },
@@ -768,6 +840,18 @@
     "classified": true
   },
   {
+    "title": "Strategy launches $1.6B cash pool after $2B common shares raise, maintains hold on BTC buys ",
+    "link": "https://cointelegraph.com/news/strategy-2-billion-raise-strc-136-million-bitcoin-pause?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Mon, 24 Aug 2026 12:45:00 +0000",
+    "source": "Cointelegraph",
+    "category": "crypto",
+    "content": "Strategy held off on new Bitcoin buying, maintaining holdings at 840,447 BTC as it launched a $1.59 billion cash pool after raising $2 billion from MSTR stock sales.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-how-michael-saylors-strategy-became-the-largest-bitcoin-holder-2.jpg",
+    "summary": "MicroStrategy created a $1.59 billion cash pool after successfully raising $2 billion through the sale of its MSTR common stock. The company simultaneously paused new Bitcoin acquisitions, maintaining its substantial holdings at 840,447 BTC.",
+    "importance": 7,
+    "classified": true
+  },
+  {
     "title": "Japan’s SBI leads $68M Fasset round at $1B valuation",
     "link": "https://cointelegraph.com/news/sbi-fasset-round-1b-valuation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "pubDate": "Mon, 24 Aug 2026 11:25:26 +0000",
@@ -936,26 +1020,14 @@
     "classified": true
   },
   {
-    "title": "MANTRA token sinks 18% to record low amid blockchain halt ",
-    "link": "https://cointelegraph.com/markets/mantra-token-record-low-blockchain-halt?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Fri, 21 Aug 2026 05:04:52 +0000",
-    "source": "Cointelegraph",
-    "category": "crypto",
-    "content": "The token recovered to about $0.0044 after setting a new low, while exchanges paused deposits and withdrawals from the halted MANTRA Chain.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-transactions-stopped-halted.jpg",
-    "summary": "The MANTRA token (OM) dropped 18% to a record low of $0.0044 following the temporary halt of the MANTRA Chain, which also caused exchanges to pause deposits and withdrawals. The blockchain's suspension raised concerns about its stability and operational issues.",
-    "importance": 7,
-    "classified": true
-  },
-  {
-    "title": "Bitcoin breaks above 200-day moving average for first time since November",
-    "link": "https://cointelegraph.com/markets/bitcoin-breaks-200-day-moving-average?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Thu, 20 Aug 2026 21:03:21 +0000",
-    "source": "Cointelegraph",
-    "category": "crypto",
-    "content": "The BTC price reclaimed its 200-day moving average for the first time in nine months as its rally gained momentum after the US Treasury expanded its bond buybacks.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/shooting-graph-bitcoin-2.jpg",
-    "summary": "Bitcoin's price has broken above its 200-day moving average, marking the first time in nine months this technical indicator has been surpassed. This rally gained momentum following the US Treasury's expanded bond buybacks.",
+    "title": "Strategy sells $2 billion in MSTR shares, makes no bitcoin purchases, establishes $1.6 billion ‘USD Cash’ pool",
+    "link": "https://www.theblock.co/news/business/2026-08-24-strategy-mstr-strc-bitcoin-usd-reserve-412570",
+    "pubDate": "Mon, 24 Aug 2026 12:12:01 +0000",
+    "source": "The Block",
+    "category": "both",
+    "content": "Strategy's total holdings account for roughly 4% of the 21 million bitcoin supply cap — worth around $66 billion.",
+    "image": "https://www.tbstat.com/wp/uploads/2025/06/20250603_MichaelSaylor_News_2-1200x675.jpg",
+    "summary": "Strategy sells $2 billion worth of MicroStrategy (MSTR) shares without acquiring additional bitcoin, while establishing a $1.6 billion 'USD Cash' pool. The company's bitcoin holdings remain significant, accounting for about 4% of the total bitcoin supply, valued at $66 billion.",
     "importance": 7,
     "classified": true
   },
@@ -1056,30 +1128,6 @@
     "classified": true
   },
   {
-    "title": "Avalanche’s Nahas: Token prices are down, but ‘I’ve never seen more opportunities’ in crypto",
-    "link": "https://www.theblock.co/news/ecosystems/2026-08-21-avalanches-nahas-token-prices-are-down-but-ive-never-seen-more-opportunities-in-crypto-412431",
-    "pubDate": "Fri, 21 Aug 2026 09:00:26 +0000",
-    "source": "The Block",
-    "category": "crypto",
-    "content": "Ava Labs CBO John Nahas says crypto prices are down, but real-world adoption is creating more opportunities across the sector.",
-    "image": "https://www.tbstat.com/wp/uploads/2022/06/22020627_Avalanche2-1200x675.jpg",
-    "summary": "Ava Labs CBO John Nahas states that despite declining cryptocurrency prices, real-world adoption is driving new opportunities in the crypto sector, emphasizing optimism amid market downturns.",
-    "importance": 7,
-    "classified": true
-  },
-  {
-    "title": "Anchorage CEO says AI agents need bank accounts for ‘The Jetsons’-like future",
-    "link": "https://www.theblock.co/news/business/2026-08-21-anchorage-ceo-ai-the-jetsons-412427",
-    "pubDate": "Fri, 21 Aug 2026 07:11:13 +0000",
-    "source": "The Block",
-    "category": "both",
-    "content": "The firm has built an agentic banking platform with a 'know-your-agent' setup to facilitate AI-driven transactions.",
-    "image": "https://www.tbstat.com/wp/uploads/2024/08/20240814_Crypto-AI_News_3-1200x675.jpg",
-    "summary": "Anchorage Digital's CEO advocates for AI agents to have bank accounts to enable seamless, autonomous transactions in a future where AI-driven systems handle financial operations. The company has developed an agentic banking platform with 'know-your-agent' protocols to support these AI transactions.",
-    "importance": 7,
-    "classified": true
-  },
-  {
     "title": "Smart Money Helping Support Bitcoin Rebound, Says Pantera Capital",
     "link": "https://bitcoinmagazine.com/news/pantera-capital-says-bitcoin-to-go-higher",
     "pubDate": "Fri, 21 Aug 2026 21:52:26 +0000",
@@ -1136,18 +1184,6 @@
     "content": "Bitcoin Magazine\n\nBitcoin ETFs Add Over $1B as Investor Sentiment Turns Bullish\nInvestors have been buying shares in the American funds this week. \nThis post Bitcoin ETFs Add Over $1B as Investor Sentiment Turns Bullish first appeared on Bitcoin Magazine and is written by Mathew Di Salvo.",
     "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/08/Bitcoin-ETFs-Add-Over-1B-as-Investor-Sentiment-Turns-Bullish.jpg",
     "summary": "Bitcoin ETFs have seen inflows exceeding $1 billion this week, driven by a shift in investor sentiment toward a bullish outlook on Bitcoin. The surge reflects growing confidence in the cryptocurrency market.",
-    "importance": 7,
-    "classified": true
-  },
-  {
-    "title": "Coinbase CEO Brian Armstrong Says Bitcoin Will Likely Hit $400,000 By 2030 ",
-    "link": "https://bitcoinmagazine.com/news/coinbase-ceo-says-bitcoin-will-hit-300000",
-    "pubDate": "Thu, 20 Aug 2026 15:39:56 +0000",
-    "source": "Bitcoin Magazine",
-    "category": "crypto",
-    "content": "Bitcoin Magazine\n\nCoinbase CEO Brian Armstrong Says Bitcoin Will Likely Hit $400,000 By 2030 \nCoinbase CEO Brian Armstrong has said that it’s “very likely” Bitcoin will hit between $300,000 to $400,000 by 2030.  Speaking on Fox Business Network’s Varney & Co. show Thursday, the crypto entrepreneur also said that the U.S. was moving in the right direction with crypto legislation following a meeting at the White House.  President Donald […]\nThis post Coinbase CEO Brian Armstrong Says Bitcoin Will Likely Hit $400,000 By 2030  first appeared on Bitcoin Magazine and is written by Mathew Di Salvo.",
-    "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/08/Bitcoin-Price-Generic-Pic.jpg",
-    "summary": "Coinbase CEO Brian Armstrong predicts Bitcoin could reach between $300,000 and $400,000 by 2030, citing positive U.S. regulatory progress following a White House meeting. He also expressed optimism about the direction of crypto legislation in the U.S.",
     "importance": 7,
     "classified": true
   },
@@ -1256,30 +1292,6 @@
     "content": "Businesses are willing to flop back and forth as each lab releases new models, volatility that should give both companies' investors pause about how \"sticky\" enterprise AI spending really is.",
     "image": "",
     "summary": "New data suggests OpenAI is rapidly gaining ground on Anthropic among business users, highlighting volatility in enterprise AI spending as companies frequently switch between models from different AI labs.",
-    "importance": 7,
-    "classified": true
-  },
-  {
-    "title": "Google gives publishers a new way to fight AI-driven traffic losses",
-    "link": "https://techcrunch.com/2026/08/20/google-gives-publishers-a-new-way-to-fight-ai-driven-traffic-losses/",
-    "pubDate": "Thu, 20 Aug 2026 19:18:21 +0000",
-    "source": "TechCrunch AI",
-    "category": "ai",
-    "content": "Google is giving publishers a new button that lets readers make them a preferred source across Search, Discover, and Google News, potentially boosting their traffic as AI search sends fewer clicks to the web.",
-    "image": "",
-    "summary": "Google introduced a new feature allowing readers to designate publishers as preferred sources across Search, Discover, and Google News, aiming to counter traffic losses caused by AI-driven search results. This move could help publishers regain visibility and clicks as AI-generated summaries reduce direct web referrals.",
-    "importance": 7,
-    "classified": true
-  },
-  {
-    "title": "Grok keeps sending gibberish responses to users",
-    "link": "https://techcrunch.com/2026/08/20/grok-keeps-sending-gibberish-responses-to-users/",
-    "pubDate": "Thu, 20 Aug 2026 17:32:16 +0000",
-    "source": "TechCrunch AI",
-    "category": "ai",
-    "content": "Affected users told TechCrunch they were using Grok Lite, and noticed the issues as early as Wednesday morning.",
-    "image": "",
-    "summary": "Users of Grok Lite, an AI chatbot developed by xAI, reported receiving nonsensical or gibberish responses starting Wednesday morning. The issue has impacted multiple users, raising concerns about the reliability of the AI service.",
     "importance": 7,
     "classified": true
   },
@@ -1404,7 +1416,7 @@
     "classified": true
   },
   {
-    "title": "Live updates: Bitcoin climbs past $78,000 early Monday, with gold topping $4,700",
+    "title": "Live updates: Bitcoin moves closer to $80,000, but rally could need a breather",
     "link": "https://www.coindesk.com/business/2026/08/24/live-updates-bitcoin-holds-usd77-000-as-xrp-zcash-pull-back-after-a-big-weekly-rally",
     "pubDate": "Mon, 24 Aug 2026 08:05:57 +0000",
     "source": "CoinDesk",
@@ -1418,7 +1430,7 @@
   {
     "title": "Here’s what happened in crypto today",
     "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Mon, 24 Aug 2026 05:55:54 +0000",
+    "pubDate": "Mon, 24 Aug 2026 12:55:25 +0000",
     "source": "Cointelegraph",
     "category": "crypto",
     "content": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
@@ -1436,18 +1448,6 @@
     "content": "Gracy Chen says macroeconomic uncertainty could keep Bitcoin within $10,000 to $20,000 of current levels, while US government purchases remain unlikely within the next two years.",
     "image": "https://s3-images.ctmedia.io/media/article-covers/hi-true-or-false-about-bitcoin-and-crypto-are-totally-wrong-1.jpg",
     "summary": "Bitget CEO Gracy Chen predicts Bitcoin will remain within $10,000 to $20,000 of its current price by year-end due to macroeconomic uncertainty. She also believes it's unlikely the US government will purchase BTC within the next two years.",
-    "importance": 6,
-    "classified": true
-  },
-  {
-    "title": "Capital.com plans UAE spot crypto services after affiliate wins licence ",
-    "link": "https://cointelegraph.com/news/capital-com-uae-spot-crypto-license?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Fri, 21 Aug 2026 03:33:11 +0000",
-    "source": "Cointelegraph",
-    "category": "crypto",
-    "content": "UAE clients will be able to buy and hold crypto through Capital.com’s app, expanding beyond price exposure through contracts for difference.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-time-to-switch-license-uae-1.jpg",
-    "summary": "Capital.com is launching spot crypto services in the UAE, enabling clients to directly buy and hold cryptocurrencies through its app. This expansion allows users to move beyond price exposure offered by contracts for difference.",
     "importance": 6,
     "classified": true
   },
@@ -1500,6 +1500,18 @@
     "classified": true
   },
   {
+    "title": "How to encourage smarter AI use in the classroom",
+    "link": "https://www.technologyreview.com/2026/08/24/1142630/ai-school-classroom-policies/",
+    "pubDate": "Mon, 24 Aug 2026 14:20:19 +0000",
+    "source": "MIT Technology Review",
+    "category": "ai",
+    "content": "This article is from Making AI Work, MIT Technology Review’s limited-run newsletter examining how to apply LLMs across industries. To receive it in your inbox, sign up here. Chatbots took many schools by surprise upon their release a few years ago. Suddenly, students carried an app in their phones that could magically answer almost any…",
+    "image": "",
+    "summary": "The article discusses strategies to promote responsible and effective use of AI tools, like chatbots, in educational settings. It highlights the challenges schools face in integrating AI into classrooms after its rapid adoption by students.",
+    "importance": 6,
+    "classified": true
+  },
+  {
     "title": "ChatGPT can now send texts for you with new Apple Messages plug-in",
     "link": "https://techcrunch.com/2026/08/20/chatgpt-can-now-send-texts-for-you-with-new-apple-messages-plugin/",
     "pubDate": "Thu, 20 Aug 2026 22:09:51 +0000",
@@ -1521,6 +1533,18 @@
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-162426304-1152x648.jpg",
     "summary": "Booksellers are opposing AI firms that are secretly buying rare books in bulk, suspecting they are being destroyed afterwards. This has led to resistance from the bookselling community. The reason behind the destruction is not explicitly stated.",
     "importance": 6,
+    "classified": true
+  },
+  {
+    "title": "Bitget CEO isn’t buying the Bitcoin rally — She’s waiting for $50K ",
+    "link": "https://cointelegraph.com/magazine/bitget-ceo-isnt-buying-the-bitcoin-rally-waiting-for-50k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Mon, 24 Aug 2026 13:30:00 +0000",
+    "source": "Cointelegraph",
+    "category": "crypto",
+    "content": "Bitget CEO Gracy Chen doesn’t believe the current Bitcoin rally is sustainable, and she aims to buy more BTC around the $50K mark later in 2026 or early next year.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/gracy-chen.jpg",
+    "summary": "Bitget CEO Gracy Chen believes the current Bitcoin rally is not sustainable and plans to buy more BTC when it reaches the $50,000 level. She anticipates this price point will be reached in late 2026 or early 2027.",
+    "importance": 5,
     "classified": true
   },
   {
@@ -1584,6 +1608,18 @@
     "classified": true
   },
   {
+    "title": "Strategy Again Skips Bitcoin Buy And Establishes USD Cash Dollar Reserve ",
+    "link": "https://bitcoinmagazine.com/news/strategy-establishes-new-usd-cash-reserve",
+    "pubDate": "Mon, 24 Aug 2026 14:48:17 +0000",
+    "source": "Bitcoin Magazine",
+    "category": "crypto",
+    "content": "Bitcoin Magazine\n\nStrategy Again Skips Bitcoin Buy And Establishes USD Cash Dollar Reserve \nStrategy went another week without buying or selling bitcoin but has a new pool of cash. \nThis post Strategy Again Skips Bitcoin Buy And Establishes USD Cash Dollar Reserve  first appeared on Bitcoin Magazine and is written by Mathew Di Salvo.",
+    "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/06/Strategy-MSTR-Sells-Bitcoin-for-First-Time-in-Years-as-Bitcoin-Price-Tumbles.jpg",
+    "summary": "Strategy, a Bitcoin-focused investment vehicle, did not purchase or sell any Bitcoin this week but instead established a new cash reserve denominated in USD. This marks a shift in its allocation strategy, prioritizing liquidity over immediate Bitcoin exposure.",
+    "importance": 4,
+    "classified": true
+  },
+  {
     "title": "This company’s plans to deploy space mirrors could jeopardize the night sky for many",
     "link": "https://www.technologyreview.com/2026/08/21/1142755/space-mirrors-night-sky/",
     "pubDate": "Fri, 21 Aug 2026 09:00:00 +0000",
@@ -1592,18 +1628,6 @@
     "content": "A company that plans to beam sunlight from space to Earth on demand might unintentionally brighten the night sky for many more people than intended, according to a new study. Later this year, the US company Reflect Orbital plans to launch a test satellite called Eärendil-1 that will extend an 18-by-18-meter mirror in orbit. The…",
     "image": "",
     "summary": "A company called Reflect Orbital plans to launch a test satellite with a large mirror to beam sunlight to Earth, which could unintentionally brighten the night sky for many regions. The test satellite, Eärendil-1, is scheduled for launch later this year.",
-    "importance": 4,
-    "classified": true
-  },
-  {
-    "title": "Runlayer, Rippling drop lawsuits — but the brouhaha is still a cautionary tale for founders",
-    "link": "https://techcrunch.com/2026/08/20/runlayer-rippling-drop-lawsuits-but-the-brouhaha-is-still-a-cautionary-tale-for-founders/",
-    "pubDate": "Thu, 20 Aug 2026 19:15:05 +0000",
-    "source": "TechCrunch AI",
-    "category": "both",
-    "content": "Runlayer and Rippling have dropped their lawsuits. No money was paid. Rippling celebrated by releasing a competing product.",
-    "image": "",
-    "summary": "Runlayer and Rippling have mutually dropped their lawsuits without financial settlements. Rippling responded by launching a competing product, highlighting ongoing competitive tensions in the tech industry.",
     "importance": 4,
     "classified": true
   },
@@ -1617,30 +1641,6 @@
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/1872-Factory-One-opening-1152x648.jpeg",
     "summary": "Former SpaceX engineers are developing an automated robotic factory to produce steel parts, focusing on modular design and gradual automation rather than full autonomy. The initiative aims to lower labor costs and increase precision in manufacturing.",
     "importance": 4,
-    "classified": true
-  },
-  {
-    "title": "Kalshi off-limits in multiple states as prediction markets, CFTC team up for battle",
-    "link": "https://www.coindesk.com/news-analysis/2026/08/21/kalshi-off-limits-in-multiple-states-as-prediction-markets-cftc-team-up-for-battle",
-    "pubDate": "Sat, 22 Aug 2026 13:30:00 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "Washington state is cut off for Kalshi customers while the company combats the development in court and its federal regulator keeps pursuing new rules.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/6d84d85eddfea0214122fb8436cd96c91a7a922e-2880x1620.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "Kalshi, a prediction market platform, is facing service restrictions in states like Washington, leading to customer cut-offs. The company is actively combating these developments in court while its federal regulator pursues new rules for the sector, highlighting ongoing regulatory challenges for prediction markets.",
-    "importance": 3,
-    "classified": true
-  },
-  {
-    "title": "Unlocking hidden revenue streams with market models",
-    "link": "https://www.technologyreview.com/2026/08/20/1142070/unlocking-hidden-revenue-streams-with-market-models/",
-    "pubDate": "Thu, 20 Aug 2026 09:47:22 +0000",
-    "source": "MIT Technology Review",
-    "category": "ai",
-    "content": "Each day, an airline transports tens of thousands of passengers on hundreds of flights. Often these are not straightforward point-to-point routes, with passengers requiring multiple connections. The airline can consider potentially hundreds of variables to price each of these journeys: demand, season, time of day, current events, global markets, and competitor airline activity to name…",
-    "image": "https://wp.technologyreview.com/wp-content/uploads/2026/08/MIT_Fetcherr-COVERV9_81426.png?w=840",
-    "summary": "The article discusses how airlines use complex market models with numerous variables like demand, seasonality, and competitor activity to optimize pricing for multi-leg passenger journeys. These models aim to unlock hidden revenue streams by dynamically adjusting ticket prices.",
-    "importance": 3,
     "classified": true
   },
   {
