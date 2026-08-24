@@ -240,6 +240,18 @@
     "classified": true
   },
   {
+    "title": "We are so back! Bitcoin’s 23% rally on US debt policy: Hodler’s Digest",
+    "link": "https://cointelegraph.com/magazine/we-are-back-bitcoins-23-rally-on-us-debt-policy-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Sun, 23 Aug 2026 23:56:00 +0000",
+    "source": "Cointelegraph",
+    "category": "crypto",
+    "content": "The US may face a debt crisis within three years according to Ray Dalio, and debt-related issues helped fuel a rally in Bitcoin that could mark the beginning of a new cycle.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/ray-dalio-replacement.png",
+    "summary": "Bitcoin experienced a significant 23% rally, driven by concerns over a potential US debt crisis projected by Ray Dalio. This surge is being interpreted by some as a potential indicator for the start of a new market cycle for the cryptocurrency.",
+    "importance": 8,
+    "classified": true
+  },
+  {
     "title": "MiCA is coming for DeFi vaults, but regulation will be difficult",
     "link": "https://cointelegraph.com/magazine/mica-is-coming-for-defi-vaults-but-regulation-will-be-difficult?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "pubDate": "Sat, 22 Aug 2026 13:30:00 +0000",
@@ -348,14 +360,14 @@
     "classified": true
   },
   {
-    "title": "Bitdeer signs $400M AI cloud computing deal for Malaysia facility",
-    "link": "https://cointelegraph.com/news/bitdeer-signs-400m-ai-computing-deal-malaysia-facility?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Thu, 20 Aug 2026 13:18:02 +0000",
-    "source": "Cointelegraph",
-    "category": "both",
-    "content": "Bitdeer expects revenue from the five-year agreement to begin in early 2027 as it builds toward 350 megawatts of AI cloud capacity by 2028.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-how-to-mine-bitcoin-1.jpg",
-    "summary": "Bitdeer, a cryptocurrency mining company, has secured a five-year, $400 million deal to provide AI cloud computing services from its new facility in Malaysia. The company anticipates revenue from this agreement to commence in early 2027, with plans to build towards 350 megawatts of AI cloud capacity by 2028.",
+    "title": "DeFi lending protocol Term Finance loses an estimated $8.5 million to governance exploit",
+    "link": "https://www.theblock.co/news/defi/2026-08-23-defi-lending-protocol-term-finance-loses-an-estimated-8-5-million-to-governance-exploit-412543",
+    "pubDate": "Sun, 23 Aug 2026 20:50:45 +0000",
+    "source": "The Block",
+    "category": "crypto",
+    "content": "Term vault proposals face a seven-day delay and can be vetoed by liquidity providers, yet those controls apparently did not stop the exploit.",
+    "image": "https://www.tbstat.com/wp/uploads/2024/07/20240710_Cypherpunks_News_1-1200x675.jpg",
+    "summary": "DeFi lending protocol Term Finance has reportedly lost an estimated $8.5 million due to a governance exploit. This security breach occurred despite the protocol's built-in controls, which included a seven-day delay for vault proposals and veto power for liquidity providers.",
     "importance": 8,
     "classified": true
   },
@@ -1064,18 +1076,6 @@
     "content": "A CFTC ommittee meeting exposed a sharp divide between the worlds of traditional finance and prediction market platforms.",
     "image": "https://www.tbstat.com/wp/uploads/2020/04/CFTC-1013x675.jpg",
     "summary": "The article discusses a heated debate between CME Group CEO Terrence Duffy, CFTC officials, and Kalshi’s COO over regulatory oversight of prediction markets, highlighting tensions between traditional finance and decentralized prediction platforms.",
-    "importance": 7,
-    "classified": true
-  },
-  {
-    "title": "Kraken parent Payward explores becoming a ‘full bank’ outside the US",
-    "link": "https://www.theblock.co/news/business/2026-08-20-kraken-parent-payward-explores-becoming-a-full-bank-outside-us-412390",
-    "pubDate": "Thu, 20 Aug 2026 20:41:44 +0000",
-    "source": "The Block",
-    "category": "both",
-    "content": "Payward is expanding across banking, lending and asset management, with mortgages a future possibility.",
-    "image": "https://www.tbstat.com/wp/uploads/2026/06/20260612_Kraken_News-1200x675.jpg",
-    "summary": "Payward, the parent company of cryptocurrency exchange Kraken, is exploring becoming a 'full bank' outside the U.S., expanding into banking, lending, asset management, and potentially mortgages. This move aims to diversify its financial services beyond crypto trading.",
     "importance": 7,
     "classified": true
   },
