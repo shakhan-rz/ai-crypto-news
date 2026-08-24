@@ -96,14 +96,14 @@
     "classified": true
   },
   {
-    "title": "Live updates: Bitcoin slips back to $77,000 after challenging $80,000 overnight",
-    "link": "https://www.coindesk.com/tech/2026/08/21/live-updates-bitcoin-ether-etfs-pull-in-usd800-million-as-inflows-surge-for-a-second-day",
-    "pubDate": "Fri, 21 Aug 2026 06:43:24 +0000",
-    "source": "CoinDesk",
+    "title": "Term Finance loses estimated $8.5M in vault governance exploit",
+    "link": "https://cointelegraph.com/news/term-finance-8-5m-vault-governance-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Mon, 24 Aug 2026 03:59:29 +0000",
+    "source": "Cointelegraph",
     "category": "crypto",
-    "content": "Spot bitcoin ETFs pulled in $606 million on Aug. 20 and ether funds $221 million, both bigger than the prior day, confirming the institutional bid behind bitcoin's run.",
-    "image": "",
-    "summary": "Bitcoin surpassed $79,500, with BTC and ETH funds collectively recording $800 million in inflows on August 20. This substantial institutional interest was driven by spot bitcoin ETFs pulling in $606 million and ether funds $221 million, confirming a strong institutional bid behind bitcoin's rally.",
+    "content": "Term permanently closed its Meta Vaults after an attack reportedly removed nearly all of their Ethereum deposits.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-how-scammers-exploit-trusted-platforms-for-crypto-fraud-3.jpg",
+    "summary": "Term Finance suffered an $8.5M governance exploit targeting its Meta Vaults, leading to the permanent closure of the affected vaults after nearly all Ethereum deposits were drained.",
     "importance": 9,
     "classified": true
   },
@@ -156,6 +156,54 @@
     "classified": true
   },
   {
+    "title": "Ethereum lending app Term Finance loses $8.5 million after attacker buys voting power",
+    "link": "https://www.coindesk.com/markets/2026/08/24/ethereum-lending-app-term-finance-loses-usd8-5-million-after-attacker-buys-voting-power",
+    "pubDate": "Mon, 24 Aug 2026 06:27:33 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "The  exploit shows how lightly held voting tokens can become a means of attack when control of a protocol is cheaper than the assets it governs.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/0075d19bd82cb7278ff5f876932e712bf6d2e204-1920x1280.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "An Ethereum lending application, Term Finance, lost $8.5 million due to an attacker acquiring voting power to manipulate the protocol. This incident highlights a critical vulnerability where control gained through lightly held voting tokens can be cheaper than the assets managed by the protocol itself.",
+    "importance": 8,
+    "classified": true
+  },
+  {
+    "title": "Ray Dalio says investors should own ‘a bit of Bitcoin’ as U.S. debt risks rise",
+    "link": "https://www.coindesk.com/markets/2026/08/24/ray-dalio-says-investors-should-own-a-bit-of-bitcoin-as-u-s-debt-risks-rise",
+    "pubDate": "Mon, 24 Aug 2026 05:13:19 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "The Bridgewater founder says recent Treasury-market stress fits his long-running debt-crisis framework, though he still prefers gold as the bigger hedge.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/66cd2470ebcf7907d01390a0237f00f003942dbb-4000x2667.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "Ray Dalio, founder of Bridgewater, recommends investors own \"a bit of Bitcoin\" due to rising U.S. debt risks and stress in the Treasury market. He sees this fitting into his long-running debt-crisis framework, though he still prefers gold as the bigger hedge.",
+    "importance": 8,
+    "classified": true
+  },
+  {
+    "title": "Stablecoin neobank Fasset lands $1 billion valuation as SBI backs its payments push",
+    "link": "https://www.coindesk.com/business/2026/08/22/stablecoin-neobank-fasset-lands-usd1-billion-valuation-as-sbi-backs-its-payments-push",
+    "pubDate": "Mon, 24 Aug 2026 04:45:00 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "The firm raised $68 million as its revenue has grown six-fold as stablecoin payments and settlement expand, CEO Mohammad Raafi Hossain told CoinDesk.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/d0866c2b1722cdffa55844039e5a8465e8132d2e-3000x1688.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "Stablecoin neobank Fasset has achieved a $1 billion valuation after securing $68 million in funding. This funding comes as the firm's revenue has grown six-fold, driven by the expanding use of stablecoin payments and settlement.",
+    "importance": 8,
+    "classified": true
+  },
+  {
+    "title": "Crypto holds big weekly rally as Warsh’s Jackson Hole debut comes into focus",
+    "link": "https://www.coindesk.com/markets/2026/08/24/crypto-holds-big-weekly-rally-as-warsh-s-jackson-hole-debut-comes-into-focus",
+    "pubDate": "Mon, 24 Aug 2026 04:41:28 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "Bitcoin holds above $77,000 after a 21% week, with XRP up 46% over the same stretch. Asian stocks fell as Samsung and Alibaba slid.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/e5f2293daa4cfa05aaf86ac4348f5596cdb79730-1516x852.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "Bitcoin has maintained its position above $77,000 following a substantial 21% weekly rally, while XRP saw an even greater surge of 46% over the same period. This crypto market strength contrasts with declines in Asian stock markets, where Samsung and Alibaba shares fell.",
+    "importance": 8,
+    "classified": true
+  },
+  {
     "title": "Zcash jumps 48% to over $800 as Grayscale spot ETF push adds to ‘next bitcoin’ buzz",
     "link": "https://www.coindesk.com/markets/2026/08/22/zcash-tops-usd800-for-first-time-since-2016",
     "pubDate": "Sat, 22 Aug 2026 05:37:43 +0000",
@@ -204,38 +252,14 @@
     "classified": true
   },
   {
-    "title": "Treasury's latest measure isn't QE or YCC. Still, bitcoin is skyrocketing. Here's why.",
-    "link": "https://www.coindesk.com/markets/2026/08/21/treasury-s-latest-measure-isn-t-qe-or-ycc-still-bitcoin-is-skyrocketing-here-s-why",
-    "pubDate": "Fri, 21 Aug 2026 09:17:15 +0000",
-    "source": "CoinDesk",
+    "title": "Banks, regulators join quantum-resistant crypto transfer pilot",
+    "link": "https://cointelegraph.com/news/banks-regulators-quantum-resistant-crypto-pilot?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Mon, 24 Aug 2026 05:51:29 +0000",
+    "source": "Cointelegraph",
     "category": "crypto",
-    "content": "The rally in hard assets isn’t necessarily about what the Treasury is doing, but what its move signals to the market.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/41b87a383d7c62a63685770542bb14af5e62cfa2-1500x1000.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "Bitcoin's price is sharply increasing, a rally that the article suggests is not due to direct Treasury policies like quantitative easing or yield curve control. Instead, the surge in bitcoin and other hard assets is driven by what the Treasury's actions signal to the broader market.",
-    "importance": 8,
-    "classified": true
-  },
-  {
-    "title": "Strategy sits on $1.4 billion profit on bitcoin holdings as price surges",
-    "link": "https://www.coindesk.com/markets/2026/08/21/strategy-sits-on-usd1-4-billion-profit-on-bitcoin-holdings-as-price-surges",
-    "pubDate": "Fri, 21 Aug 2026 08:24:52 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "Strategy’s common stock rose 10% in Friday pre-market trading to $120, the highest level in two months.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/dd98498dbda09f933fbeac48aac3591d14c0deee-3018x1697.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "Strategy, likely MicroStrategy, has accumulated a $1.4 billion profit on its Bitcoin holdings following a recent price surge. This positive development led to a 10% rise in the company's common stock during Friday's pre-market trading, reaching $120 and marking a two-month high.",
-    "importance": 8,
-    "classified": true
-  },
-  {
-    "title": "MANTRA token plunges 18% to record low as blockchain halts after exploit",
-    "link": "https://www.coindesk.com/tech/2026/08/21/mantra-token-plunges-18-to-record-low-as-blockchain-halts-after-exploit",
-    "pubDate": "Fri, 21 Aug 2026 05:52:27 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "The token touched $0.004126 minutes before the network stopped producing blocks, while MANTRA later said an attacker exploited a vulnerability in software used by the chain.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/36b08d944e964cea3642474c76fe72e4fc96fd0d-1280x853.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "The MANTRA token plummeted 18% to a record low of $0.004126 before its blockchain network stopped producing blocks. MANTRA later confirmed that an attacker exploited a vulnerability in the software used by the chain, causing the halt.",
+    "content": "Participating banks will test post-quantum wallets and onchain transfers while regulators from Abu Dhabi, Bhutan and Malta initially observe.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-why-quantum-security-is-rising-on-layer-1-roadmaps-and-which-networks-are-preparing-first.jpg",
+    "summary": "Banks and regulators are joining a pilot program to test quantum-resistant crypto transfers. Participating banks will test post-quantum wallets and onchain transfers, while regulators from Abu Dhabi, Bhutan, and Malta will observe the process.",
     "importance": 8,
     "classified": true
   },
@@ -348,14 +372,14 @@
     "classified": true
   },
   {
-    "title": "MiCA cracks down on USDT in Europe... but no one else cares",
-    "link": "https://cointelegraph.com/magazine/mica-cracks-down-on-usdt-in-europe-but-global-demand-remains-high?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Thu, 20 Aug 2026 13:30:00 +0000",
-    "source": "Cointelegraph",
+    "title": "Bitcoin records largest weekly dollar gain in history; Strive CEO predicts ‘strongest’ cycle ever",
+    "link": "https://www.theblock.co/news/markets/2026-08-23-bitcoin-record-weekly-dollar-gain-412547",
+    "pubDate": "Mon, 24 Aug 2026 03:52:31 +0000",
+    "source": "The Block",
     "category": "crypto",
-    "content": "USDT is disappearing from regulated European platforms, but there is little sign that it has resulted in weakening global demand for Tether.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-mag-the-usdt-question-after-mica-has-regulation-reshaped-stablecoin-liquidity.jpg",
-    "summary": "USDT is being removed from regulated European crypto platforms due to the MiCA regulations. Despite this regulatory crackdown in Europe, there is no indication of weakening global demand for Tether.",
+    "content": "Strive CEO said the next bitcoin cycle will be the strongest ever, citing its strong performance against both the dollar and gold.",
+    "image": "https://www.tbstat.com/wp/uploads/2021/10/210930_Bitcoin_Funding_General-1200x675.jpg",
+    "summary": "Strive CEO predicts Bitcoin's next cycle will be the strongest in history, citing its exceptional performance against the dollar and gold. Bitcoin has recorded its largest weekly dollar gain ever.",
     "importance": 8,
     "classified": true
   },
@@ -708,6 +732,18 @@
     "classified": true
   },
   {
+    "title": "Bessent's $4 billion bond buyback wanted lower yields. It got a bitcoin surge instead.",
+    "link": "https://www.coindesk.com/markets/2026/08/24/bessent-s-usd4-billion-bond-buyback-wanted-lower-yields-it-got-a-bitcoin-surge-instead",
+    "pubDate": "Mon, 24 Aug 2026 05:12:56 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "Bessent’s bond-buyback plan fails to curb Treasury yields. Here's what it means for bitcoin and gold",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/fb81811e682f5993a7a991941d69995febee3723-5411x3529.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "Bessent's $4 billion bond-buyback plan, intended to lower Treasury yields, failed to achieve its objective. This unexpected outcome coincided with a surge in bitcoin. The article will explore the implications of this failure for the markets of both bitcoin and gold.",
+    "importance": 7,
+    "classified": true
+  },
+  {
     "title": "XRP on track for biggest weekly gain in 21 months as Treasury buyback spurs 'curve control' hopes",
     "link": "https://www.coindesk.com/markets/2026/08/23/xrp-on-track-for-biggest-weekly-gain-in-21-months-as-treasury-buyback-spurs-curve-control-hopes",
     "pubDate": "Sun, 23 Aug 2026 15:52:21 +0000",
@@ -768,14 +804,14 @@
     "classified": true
   },
   {
-    "title": "Ripple backs an RLUSD credit fund amid XRP's best week in months",
-    "link": "https://www.coindesk.com/markets/2026/08/21/ripple-backs-an-rlusd-credit-fund-amid-xrp-s-best-week-in-months",
-    "pubDate": "Fri, 21 Aug 2026 05:29:48 +0000",
-    "source": "CoinDesk",
+    "title": "Pakistan opens crypto licensing portal, sets Sept. 5 deadline for existing firms",
+    "link": "https://cointelegraph.com/news/pakistan-crypto-licensing-portal-september-5-deadline?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Mon, 24 Aug 2026 05:17:57 +0000",
+    "source": "Cointelegraph",
     "category": "crypto",
-    "content": "Clearpool and Cicada Partners are building an institutional lending product using RLUSD, though the XRP Ledger features underpinning it are still awaiting activation.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/260b57a4fe560b018cc5f2eb91b9df196b57dc92-3773x2122.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "Ripple is backing an RLUSD credit fund developed by Clearpool and Cicada Partners for institutional lending, even though the underlying XRP Ledger features are not yet active. This initiative comes during one of XRP's strongest market performances in months.",
+    "content": "Existing virtual asset providers must apply for an NOC by Sept. 5 or cease operations under Pakistan’s new regulatory framework.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/booksouth-africa-1.png",
+    "summary": "Pakistan has launched a crypto licensing portal with a September 5 deadline for existing virtual asset providers to apply for a No Objection Certificate (NOC) or shut down operations under new regulations.",
     "importance": 7,
     "classified": true
   },
@@ -924,30 +960,6 @@
     "classified": true
   },
   {
-    "title": "Optimism moves 546.9M OP from future airdrops to ecosystem growth fund",
-    "link": "https://cointelegraph.com/news/optimism-moves-5469m-op-from-future-airdrops-to-ecosystem-growth-fund?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Thu, 20 Aug 2026 15:43:00 +0000",
-    "source": "Cointelegraph",
-    "category": "crypto",
-    "content": "The governance vote redirects tokens previously reserved for user airdrops toward partnerships, incentives and Optimism’s growing institutional push.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-defi-market-desperately-needs-to-connect-with-real-world-assets2.png",
-    "summary": "Optimism has moved 546.9 million OP tokens from future airdrops to its ecosystem growth fund via a governance vote. The funds will now be used for partnerships, incentives, and institutional growth initiatives.",
-    "importance": 7,
-    "classified": true
-  },
-  {
-    "title": "Bitcoin price reaches $72.5K as US issues ‘Economic D-Day’ threat to Iran",
-    "link": "https://cointelegraph.com/markets/bitcoin-price-reaches-725k-as-us-issues-economic-d-day-threat-to-iran?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Thu, 20 Aug 2026 15:40:54 +0000",
-    "source": "Cointelegraph",
-    "category": "crypto",
-    "content": "Bitcoin saw new multimonth highs above $72,500 even as US stocks cooled amid US threats of “economic warfare” with Iran.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-trump-speak-iran-2.jpg",
-    "summary": "Bitcoin's price surged to a new multi-month high of $72,500 despite US stocks cooling, amid escalating US threats of 'economic warfare' with Iran.",
-    "importance": 7,
-    "classified": true
-  },
-  {
     "title": "Solana cuts mainnet slot time to 350 milliseconds in first step toward 200ms goal",
     "link": "https://www.theblock.co/news/ecosystems/2026-08-22-solana-cuts-mainnet-slot-time-to-350-milliseconds-in-first-step-toward-200ms-goal-412521",
     "pubDate": "Sat, 22 Aug 2026 15:54:13 +0000",
@@ -1064,18 +1076,6 @@
     "content": "MANTRA Chain halted the network and all transactions after discovering an incident related to its Cosmos EVM module.",
     "image": "https://www.tbstat.com/wp/uploads/2025/02/Screenshot-2025-02-19-at-2.00.17 PM-1015x675.png",
     "summary": "MANTRA Chain has paused all network activity and transactions following an incident involving its Cosmos EVM module, though details of the issue remain undisclosed.",
-    "importance": 7,
-    "classified": true
-  },
-  {
-    "title": "CME CEO Terrence Duffy trades barbs with CFTC’s Selig and Kalshi’s COO over prediction market oversight",
-    "link": "https://www.theblock.co/news/regulation/2026-08-20-cme-ceo-terrence-duffy-trades-barbs-with-cftcs-selig-and-kalshis-coo-over-prediction-market-oversight-412397",
-    "pubDate": "Thu, 20 Aug 2026 23:39:38 +0000",
-    "source": "The Block",
-    "category": "crypto",
-    "content": "A CFTC ommittee meeting exposed a sharp divide between the worlds of traditional finance and prediction market platforms.",
-    "image": "https://www.tbstat.com/wp/uploads/2020/04/CFTC-1013x675.jpg",
-    "summary": "The article discusses a heated debate between CME Group CEO Terrence Duffy, CFTC officials, and Kalshi’s COO over regulatory oversight of prediction markets, highlighting tensions between traditional finance and decentralized prediction platforms.",
     "importance": 7,
     "classified": true
   },
@@ -1406,7 +1406,7 @@
   {
     "title": "Here’s what happened in crypto today",
     "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Fri, 21 Aug 2026 20:48:48 +0000",
+    "pubDate": "Mon, 24 Aug 2026 05:55:54 +0000",
     "source": "Cointelegraph",
     "category": "crypto",
     "content": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
