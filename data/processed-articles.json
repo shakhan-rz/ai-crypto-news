@@ -48,54 +48,6 @@
     "classified": true
   },
   {
-    "title": "How a Treasury buyback tweak helped bitcoin surge 25% to nearly $80,000 in days",
-    "link": "https://www.coindesk.com/markets/2026/08/22/how-a-treasury-buyback-tweak-helped-bitcoin-surge-nearly-25-in-days",
-    "pubDate": "Sat, 22 Aug 2026 05:05:13 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "Treasury buybacks are not QE, analysts said, but the move helped pull long-term yields off 19-year highs and triggered a record short squeeze in a market already leaning too bearish.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/67b45979a1b02d081d74dd1cb768215b598664d5-4858x3239.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "A tweak in Treasury buybacks, distinct from quantitative easing, is credited with helping Bitcoin surge 25% to nearly $80,000 in just days. This market movement resulted from the buybacks pulling long-term yields off 19-year highs and triggering a record short squeeze in a market already leaning bearish.",
-    "importance": 9,
-    "classified": true
-  },
-  {
-    "title": "Coldcard ships firmware after $114 million bitcoin theft; says AI helped catch more bugs",
-    "link": "https://www.coindesk.com/tech/2026/08/21/coldcard-ships-firmware-after-usd114-million-bitcoin-theft-says-ai-helped-catch-more-bugs",
-    "pubDate": "Fri, 21 Aug 2026 12:10:55 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "Three weeks of review turned up problems unrelated to the flaw that cost users $114 million, but updating still does not make a compromised wallet safe.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/17e2199d1d92db776ca604acd66f78a2a5052896-1754x804.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "Coldcard has released new firmware for its hardware wallets following a $114 million Bitcoin theft, after a three-week review process where AI reportedly helped identify additional bugs. While the update addresses newly discovered issues, it does not secure wallets that were already compromised by the original exploit.",
-    "importance": 9,
-    "classified": true
-  },
-  {
-    "title": "The hard truth is that the Clarity Act is an anti-crypto bill",
-    "link": "https://www.coindesk.com/opinion/2026/08/21/the-hard-truth-is-that-the-clarity-act-is-an-anti-crypto-bill",
-    "pubDate": "Fri, 21 Aug 2026 11:30:00 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "After years of stalled bills, misguided enforcement, and catastrophic collapses, almost any comprehensive crypto legislation began to look like progress. But Clarity is turning that hunger for progress into a political trap, argues Berkeley Law lecturer Hermine Wong.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/66abae4ea7817e1052c710afba1f9fa54651f319-5434x3622.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "Berkeley Law lecturer Hermine Wong argues that the Clarity Act, despite being perceived as a step toward comprehensive crypto legislation, is actually an anti-crypto bill and a political trap for the industry. Wong suggests that what seems like progress after years of stalled bills and collapses is instead detrimental.",
-    "importance": 9,
-    "classified": true
-  },
-  {
-    "title": "Bitcoin tops $77,000 as best week since 2023 pulls altcoins along for the ride",
-    "link": "https://www.coindesk.com/markets/2026/08/21/bitcoin-tops-usd77-000-as-best-week-since-2023-pulls-altcoins-along-for-the-ride",
-    "pubDate": "Fri, 21 Aug 2026 10:15:36 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "BTC has gained 24% since Monday and reached the level implied by its inverse head-and-shoulders break, with shorts still taking a contrarian position.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/74e60c18babe89474bec272f69e064623c0b184f-1520x856.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "Bitcoin surpassed $77,000, achieving its best weekly performance since 2023 with a 24% gain since Monday. This significant rally also propelled altcoins upwards, even as some investors maintained contrarian short positions.",
-    "importance": 9,
-    "classified": true
-  },
-  {
     "title": "Term Finance loses estimated $8.5M in vault governance exploit",
     "link": "https://cointelegraph.com/news/term-finance-8-5m-vault-governance-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "pubDate": "Mon, 24 Aug 2026 03:59:29 +0000",
@@ -156,6 +108,42 @@
     "classified": true
   },
   {
+    "title": "Strategy raises $2 billion through MSTR sales and creates new USD Cash pool",
+    "link": "https://www.coindesk.com/markets/2026/08/24/strategy-raises-usd2-billion-through-mstr-sales-and-creates-new-usd-cash-pool",
+    "pubDate": "Mon, 24 Aug 2026 12:24:58 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "The company sold 18.26 million MSTR shares, increased its USD Reserve to $5.1 billion and repurchased another $136.4 million of STRC.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/dd98498dbda09f933fbeac48aac3591d14c0deee-3018x1697.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "The company raised $2 billion by selling 18.26 million MSTR shares, which significantly increased its USD Reserve to $5.1 billion. This financial maneuver also included the repurchase of $136.4 million of STRC.",
+    "importance": 8,
+    "classified": true
+  },
+  {
+    "title": "Standard Chartered becomes first bank to distribute Hong Kong dollar stablecoin",
+    "link": "https://www.coindesk.com/business/2026/08/24/standard-chartered-first-bank-to-distribute-anchorpoint-s-hong-kong-dollar-stablecoin",
+    "pubDate": "Mon, 24 Aug 2026 11:36:55 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "The London-based multinational bank with $850 billion in assets announced it will distribute Anchorpoint's HKDAP to eligible clients and partners.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/635098a63fd9f1666a72fdfb7fee8ca9adedf6a2-4032x2268.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "Standard Chartered, a multinational bank with significant assets, announced it will distribute Anchorpoint's HKDAP stablecoin to its eligible clients and partners. This move makes Standard Chartered the first bank to distribute a Hong Kong dollar stablecoin, marking an important step in institutional adoption of digital currencies.",
+    "importance": 8,
+    "classified": true
+  },
+  {
+    "title": "Bitcoin steadies near $78,000 as gold rallies, altcoins consolidate after best week in 3 years",
+    "link": "https://www.coindesk.com/markets/2026/08/24/bitcoin-steadies-near-usd78-000-as-gold-rallies-altcoins-consolidate-after-best-week-in-3-years",
+    "pubDate": "Mon, 24 Aug 2026 10:41:46 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "BTC was little changed Monday after last week's 24% surge triggered by a Treasury buyback announcement that squeezed over $3 billion in shorts.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/2007719f343c4c70ab8c730d923ead497b09bc70-1520x855.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "Bitcoin remained stable near $78,000 on Monday, following a substantial 24% surge last week. This surge was driven by a Treasury buyback announcement, which caused over $3 billion in short positions to be squeezed. Meanwhile, altcoins are consolidating after experiencing their most successful week in three years.",
+    "importance": 8,
+    "classified": true
+  },
+  {
     "title": "Ethereum lending app Term Finance loses $8.5 million after attacker buys voting power",
     "link": "https://www.coindesk.com/markets/2026/08/24/ethereum-lending-app-term-finance-loses-usd8-5-million-after-attacker-buys-voting-power",
     "pubDate": "Mon, 24 Aug 2026 06:27:33 +0000",
@@ -200,54 +188,6 @@
     "content": "Bitcoin holds above $77,000 after a 21% week, with XRP up 46% over the same stretch. Asian stocks fell as Samsung and Alibaba slid.",
     "image": "https://cdn.sanity.io/images/s3y3vcno/production/e5f2293daa4cfa05aaf86ac4348f5596cdb79730-1516x852.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
     "summary": "Bitcoin has maintained its position above $77,000 following a substantial 21% weekly rally, while XRP saw an even greater surge of 46% over the same period. This crypto market strength contrasts with declines in Asian stock markets, where Samsung and Alibaba shares fell.",
-    "importance": 8,
-    "classified": true
-  },
-  {
-    "title": "Zcash jumps 48% to over $800 as Grayscale spot ETF push adds to ‘next bitcoin’ buzz",
-    "link": "https://www.coindesk.com/markets/2026/08/22/zcash-tops-usd800-for-first-time-since-2016",
-    "pubDate": "Sat, 22 Aug 2026 05:37:43 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "ZEC traded above its January 2018 peak as futures volume hit billions of dollars and a Grayscale filing showed fresh progress toward converting its Zcash Trust into a spot ETF.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/d29e6d7594033495762bede569ca03135e9b62c4-1514x840.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "Zcash (ZEC) experienced a significant price surge, jumping 48% to over $800 and surpassing its 2018 peak, driven by billions in futures volume. This increase is largely attributed to Grayscale's progress in converting its Zcash Trust into a spot ETF.",
-    "importance": 8,
-    "classified": true
-  },
-  {
-    "title": "Crypto advocates join in suing Illinois over digital asset tax",
-    "link": "https://www.coindesk.com/policy/2026/08/21/crypto-advocates-join-in-suing-illinois-over-digital-asset-tax",
-    "pubDate": "Fri, 21 Aug 2026 22:10:28 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "The Crypto Council for Innovation and the Blockchain Association added another lawsuit against the state for its recently approved 0.2% crypto tax.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/4d5877d4c51309d60a12f6597ba4a1e031d8da77-1500x1000.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "The Crypto Council for Innovation and the Blockchain Association have filed another lawsuit against the state of Illinois. They are challenging a recently approved 0.2% tax on digital assets and cryptocurrencies.",
-    "importance": 8,
-    "classified": true
-  },
-  {
-    "title": "Analysts split on whether Bitcoin's surge past key levels signals a new bull run",
-    "link": "https://www.coindesk.com/markets/2026/08/21/analysts-split-on-whether-bitcoin-s-surge-past-key-levels-signals-a-new-bull-run",
-    "pubDate": "Fri, 21 Aug 2026 11:31:30 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "Market watchers say sudden sharp price spikes and forced short liquidations are the classic signs of a bottom, though macro risks still remain.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/b72b4dd95175914ab42f1abbcbe7a1c1085f565e-4000x2250.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "Analysts are divided on whether Bitcoin's recent surge past key price levels, marked by sharp spikes and forced short liquidations, signals the beginning of a new bull run, even as macro risks persist.",
-    "importance": 8,
-    "classified": true
-  },
-  {
-    "title": "Nomura-backed Laser Digital wins Japan's first crypto approval in four years",
-    "link": "https://www.coindesk.com/policy/2026/08/21/nomura-backed-laser-digital-wins-japan-s-first-crypto-approval-in-four-years",
-    "pubDate": "Fri, 21 Aug 2026 10:38:47 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "Laser Digital Japan will offer liquidity to domestic crypto providers, with institutional trading services planned to follow as the appetite for crypto in Japan grows.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/0df79e728912cba7bff1db008fd87efc51a77c34-2708x1316.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "Nomura-backed Laser Digital Japan has secured the first crypto approval in Japan in four years, enabling it to provide liquidity to domestic crypto providers. The firm plans to expand into institutional trading services, reflecting a growing appetite for crypto in the country.",
     "importance": 8,
     "classified": true
   },
@@ -344,30 +284,6 @@
     "content": "Bitcoin ETF inflows pushed August’s total to a 2026 high of $2.07 billion as Bitcoin traded above $75,000 and Ether climbed to $2,357.",
     "image": "https://s3-images.ctmedia.io/media/article-covers/futures-bitcoin-options-top-3.jpg",
     "summary": "Bitcoin ETFs attracted $608 million in inflows, boosting August's total to a 2026 high of $2.07 billion, as Bitcoin surpassed $75,000. Additionally, Ether ETFs recorded their largest inflow since October, with Ether trading around $2,357.",
-    "importance": 8,
-    "classified": true
-  },
-  {
-    "title": "Binance opens crypto trading to AI agents with user-set controls",
-    "link": "https://cointelegraph.com/news/binance-opens-crypto-trading-to-ai-agents-with-user-set-controls?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Thu, 20 Aug 2026 20:26:28 +0000",
-    "source": "Cointelegraph",
-    "category": "both",
-    "content": "Binance’s Agent OS lets AI agents access market data, execute trades and make payments while giving users control over permissions and account access.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-trading-bots-vs-ai-agents-everything-you-need-to-know2-1.png",
-    "summary": "Binance has introduced Agent OS, allowing AI agents to access market data, execute trades, and make payments on its platform while giving users control over permissions and account access.",
-    "importance": 8,
-    "classified": true
-  },
-  {
-    "title": "Bitcoin miners pour billions into AI as capex outpaces revenue 15-to-1",
-    "link": "https://cointelegraph.com/news/bitcoin-miners-ai-hpc-capex-revenue-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Thu, 20 Aug 2026 16:12:00 +0000",
-    "source": "Cointelegraph",
-    "category": "both",
-    "content": "Nine public miners generated $341 million from AI and HPC operations in the first half of 2026 after spending more than $5 billion on capital assets.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-eu-vote-on-bitcoin-mining2.jpg",
-    "summary": "Public Bitcoin miners invested over $5 billion in AI and high-performance computing (HPC) infrastructure in early 2026, generating only $341 million in revenue from these operations, highlighting a significant disparity between capital expenditure and returns.",
     "importance": 8,
     "classified": true
   },
@@ -732,6 +648,78 @@
     "classified": true
   },
   {
+    "title": "Pakistan kicks off crypto licensing regime with Sept. 5 registration deadline",
+    "link": "https://www.coindesk.com/policy/2026/08/24/pakistan-kicks-off-crypto-licensing-regime-with-sept-5-registration-deadline",
+    "pubDate": "Mon, 24 Aug 2026 11:19:16 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "PVARA said companies have until the deadline to submit their application for a no-objection certificate or otherwise cease operating.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/8434d50f9ca90a1a8a1d364db7d5e8bfb35b1309-6554x3687.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "Pakistan has initiated a crypto licensing regime with a September 5 registration deadline for companies to apply for a no-objection certificate or face shutdown. The move aims to regulate cryptocurrency operations in the country.",
+    "importance": 7,
+    "classified": true
+  },
+  {
+    "title": "Gemini strikes Apex deal to widen prediction markets reach",
+    "link": "https://www.coindesk.com/business/2026/08/24/gemini-strikes-apex-deal-to-widen-prediction-markets-reach",
+    "pubDate": "Mon, 24 Aug 2026 10:55:00 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "The planned tie-up would make Gemini the exclusive CFTC-regulated venue for crypto event contracts offered through Apex’s futures commission merchant.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/8e7f143de173398091d41beb177dbda33ae0dcfa-4208x2367.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "Gemini has partnered with Apex to become the exclusive CFTC-regulated venue for crypto event contracts via Apex’s futures commission merchant, expanding prediction markets in the crypto space.",
+    "importance": 7,
+    "classified": true
+  },
+  {
+    "title": "Fed experiment shows how bitcoin rallies attract new crypto buyers",
+    "link": "https://www.coindesk.com/markets/2026/08/24/fed-experiment-shows-how-bitcoin-rallies-attract-new-crypto-buyers",
+    "pubDate": "Mon, 24 Aug 2026 09:56:17 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "Households shown bitcoin’s prior-year return were 23% more likely to report owning crypto in a follow-up survey.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/b3532a6f838a307328a125e0fb64689746707a41-1920x1280.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "A Federal Reserve experiment found that showcasing Bitcoin's past performance increased the likelihood of households reporting cryptocurrency ownership by 23%. The study highlights how past price rallies can attract new crypto investors.",
+    "importance": 7,
+    "classified": true
+  },
+  {
+    "title": "Crypto roars back as bitcoin posts its second-best week since early 2021",
+    "link": "https://www.coindesk.com/markets/2026/08/24/crypto-roars-back-as-bitcoin-posts-its-second-best-week-since-early-2021",
+    "pubDate": "Mon, 24 Aug 2026 08:28:14 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "Treasury buybacks, ETF inflows and a weaker dollar ignite crypto’s breakout.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/a2e4b01791ef0da39400c9497a72cb149dc00d0f-3200x1800.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "Bitcoin surged this week, posting its second-best performance since early 2021, driven by Treasury buybacks, ETF inflows, and a weaker dollar. The rally marked a notable rebound for the crypto market.",
+    "importance": 7,
+    "classified": true
+  },
+  {
+    "title": "Jackson  Hole Symposium, U.S. PCE prices, IREN earnings: Crypto Week Ahead",
+    "link": "https://www.coindesk.com/markets/2026/08/24/jackson-hole-symposium-u-s-pce-prices-iren-earnings-crypto-week-ahead",
+    "pubDate": "Mon, 24 Aug 2026 08:16:29 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "Your look at what's coming in the week starting Aug. 24",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/a103b6311bda34f3de954f20713a86edc0ea2dbe-5411x3044.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "The article previews key events for the week starting August 24, including the Jackson Hole Symposium, U.S. PCE price data, and IREN earnings, with a focus on their potential impact on the cryptocurrency market.",
+    "importance": 7,
+    "classified": true
+  },
+  {
+    "title": "Ether is crushing bitcoin and the 'golden cross' says it may not be done yet",
+    "link": "https://www.coindesk.com/markets/2026/08/24/ether-is-crushing-bitcoin-and-the-golden-cross-says-it-may-not-be-done-yet",
+    "pubDate": "Mon, 24 Aug 2026 06:50:58 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "The ETH/BTC ratio has recently formed a bullish golden cross, suggesting ether could extend its outperformance against bitcoin.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/9397622644d18dfc13339815e362fb5d33182da7-2108x1488.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "Ether (ETH) is outperforming Bitcoin (BTC) as indicated by a bullish 'golden cross' in the ETH/BTC ratio, signaling potential continued strength for ether. This technical pattern suggests ether may further extend its gains relative to bitcoin.",
+    "importance": 7,
+    "classified": true
+  },
+  {
     "title": "Bessent's $4 billion bond buyback wanted lower yields. It got a bitcoin surge instead.",
     "link": "https://www.coindesk.com/markets/2026/08/24/bessent-s-usd4-billion-bond-buyback-wanted-lower-yields-it-got-a-bitcoin-surge-instead",
     "pubDate": "Mon, 24 Aug 2026 05:12:56 +0000",
@@ -780,26 +768,62 @@
     "classified": true
   },
   {
-    "title": "Pass the Clarity Act",
-    "link": "https://www.coindesk.com/opinion/2026/08/21/pass-the-clarity-act",
-    "pubDate": "Fri, 21 Aug 2026 19:00:00 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "Reopening a settled provision four weeks before a vote would sink the bill, argues Summer Mersinger, CEO of the Blockchain Association.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/58712d20eab11dfa564aadb29ca1d33c9bfd3029-5365x3579.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "Summer Mersinger, CEO of the Blockchain Association, warns that reopening a settled provision four weeks before a vote would jeopardize the Clarity Act. She argues that such a move would effectively \"sink the bill.\"",
+    "title": "Japan’s SBI leads $68M Fasset round at $1B valuation",
+    "link": "https://cointelegraph.com/news/sbi-fasset-round-1b-valuation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Mon, 24 Aug 2026 11:25:26 +0000",
+    "source": "Cointelegraph",
+    "category": "both",
+    "content": "Fasset raised $68 million in a Series C led by SBI Group as the companies plan a digital bank in Malaysia and to expand stablecoin payments.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/crypto-futures-stablecoin-options.jpg",
+    "summary": "Japan’s SBI Group led a $68 million Series C funding round for Fasset, valuing the company at $1 billion. The investment aims to launch a digital bank in Malaysia and expand stablecoin payment solutions.",
     "importance": 7,
     "classified": true
   },
   {
-    "title": "Ethena's ENA token surges 48%, but altcoin season will have to wait",
-    "link": "https://www.coindesk.com/markets/2026/08/21/ethena-surges-48-as-altcoins-pull-away-from-bitcoin",
-    "pubDate": "Fri, 21 Aug 2026 16:10:37 +0000",
-    "source": "CoinDesk",
+    "title": "First bear-market trend line reclaim since 2025: Five things to know in Bitcoin this week",
+    "link": "https://cointelegraph.com/markets/first-bear-market-trend-line-reclaim-since-2025-five-things-to-know-in-bitcoin-this-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Mon, 24 Aug 2026 11:23:58 +0000",
+    "source": "Cointelegraph",
     "category": "crypto",
-    "content": "ENA is rallying on a $1 billion FalconX deal, while HYPE tests its record, though flat dominance shows this is no broad alt season.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/d6a1610dd52a4bfd9936b0c93a6a7e89a86c8ce3-1520x856.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "Ethena's ENA token surged 48% following a $1 billion deal with FalconX, while HYPE also approaches its record high. Despite these individual project gains, flat market dominance indicates that a broader altcoin season has not yet begun.",
+    "content": "Bitcoin closed a weekly candle above its 50-week EMA for the first time since late 2025 as markets prepared for the Jackson Hole symposium.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/kevin-warsh-2.jpg",
+    "summary": "Bitcoin has closed a weekly candle above its 50-week Exponential Moving Average (EMA) for the first time since late 2025, signaling a potential bullish trend. This development coincides with market anticipation ahead of the Jackson Hole economic symposium.",
+    "importance": 7,
+    "classified": true
+  },
+  {
+    "title": "ECB defends digital euro privacy as CBDCs face global scrutiny",
+    "link": "https://cointelegraph.com/news/ecb-digital-euro-privacy-cbdcs-global-scrutiny?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Mon, 24 Aug 2026 11:21:19 +0000",
+    "source": "Cointelegraph",
+    "category": "crypto",
+    "content": "Piero Cipollone said the Eurosystem would not identify digital euro users as central bank digital currencies face privacy concerns worldwide.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-the-digital-euro-project-how-it-will-impact-the-current-financial-system-ecb-2.jpg",
+    "summary": "The European Central Bank (ECB) has defended the privacy features of the digital euro, stating that it will not identify users, amid growing global scrutiny over privacy concerns in central bank digital currencies (CBDCs). Piero Cipollone emphasized the Eurosystem's commitment to maintaining user anonymity.",
+    "importance": 7,
+    "classified": true
+  },
+  {
+    "title": "Germany widens MiCA lead as latest EU register update adds 6 banks",
+    "link": "https://cointelegraph.com/news/germany-mica-lead-licensing-update-6-banks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Mon, 24 Aug 2026 10:41:34 +0000",
+    "source": "Cointelegraph",
+    "category": "crypto",
+    "content": "Germany expands its lead in EU MiCA authorizations with 79 crypto asset service providers, ahead of France and the Netherlands.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-what-crypto-industry-should-expect-from-regulators-in-france-1.png",
+    "summary": "Germany has further solidified its position as a leader in EU crypto regulation by adding six more banks to its MiCA (Markets in Crypto-Assets) register, bringing the total to 79 crypto asset service providers. This move highlights Germany's proactive stance in crypto compliance and sets a benchmark for other EU nations.",
+    "importance": 7,
+    "classified": true
+  },
+  {
+    "title": "Bitcoin ETF inflows hit $1.9B in strongest week since October 2025",
+    "link": "https://cointelegraph.com/markets/bitcoin-etf-inflows-billion-strongest-week-october?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Mon, 24 Aug 2026 08:56:52 +0000",
+    "source": "Cointelegraph",
+    "category": "crypto",
+    "content": "US spot Bitcoin ETFs attracted $1.92 billion last week, their strongest weekly inflow since October 2025, as Bitcoin briefly climbed above $78,000 on Friday.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/b-man-character-running.png",
+    "summary": "US spot Bitcoin ETFs saw $1.92 billion in inflows last week, marking the strongest weekly increase since October 2025, coinciding with Bitcoin’s brief surge above $78,000. The surge reflects renewed investor confidence in the cryptocurrency market.",
     "importance": 7,
     "classified": true
   },
@@ -936,26 +960,26 @@
     "classified": true
   },
   {
-    "title": "CFTC chair says agency will move forward on crypto regulation if CLARITY fails",
-    "link": "https://cointelegraph.com/news/cftc-chair-crypto-regulation-without-clarity-act-congress?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Thu, 20 Aug 2026 20:56:23 +0000",
-    "source": "Cointelegraph",
+    "title": "Gemini to provide crypto prediction markets venue for Apex’s brokerage clients",
+    "link": "https://www.theblock.co/news/web3/2026-08-24-gemini-crypto-prediction-market-apex-412557",
+    "pubDate": "Mon, 24 Aug 2026 11:01:02 +0000",
+    "source": "The Block",
     "category": "crypto",
-    "content": "Michael Selig said at a meeting of the Innovation Advisory Committee that he had directed CFTC staff to explore developer protections and other crypto-related policies.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/regulation-lot-of-papers-clarity-act-1.jpg",
-    "summary": "CFTC Chair Michael Selig announced that the agency will advance crypto regulation if the CLARITY Act fails to provide sufficient clarity. He directed staff to explore developer protections and other crypto-related policies.",
+    "content": "Under the alliance, brokerages that offer crypto event contracts through Apex will use Gemini for execution and clearing, the firms said.",
+    "image": "https://www.tbstat.com/wp/uploads/2023/03/20230317_Gemini_Color-1200x675.jpg",
+    "summary": "Gemini will serve as the execution and clearing platform for crypto event contracts offered by brokerages through Apex, expanding access to crypto prediction markets for Apex's clients.",
     "importance": 7,
     "classified": true
   },
   {
-    "title": "US debt tops $40T stoking debate on what it means for Bitcoin",
-    "link": "https://cointelegraph.com/markets/bitcoin-surges-after-us-debt-crosses-40t?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Thu, 20 Aug 2026 17:43:58 +0000",
-    "source": "Cointelegraph",
-    "category": "both",
-    "content": "Analysts say the $40 trillion debt milestone could bolster Bitcoin’s long-term case, even as Treasury yields, dollar strength and liquidity remain key near-term drivers.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-can-bitcoins-hard-cap-be-changed-2.jpg",
-    "summary": "The U.S. national debt surpasses $40 trillion, sparking discussions about its implications for Bitcoin. Analysts argue that this milestone could strengthen Bitcoin’s long-term value proposition, though short-term factors like Treasury yields and dollar strength may still influence its price.",
+    "title": "Fasset reaches unicorn status after $68 million raise led by SBI Group",
+    "link": "https://www.theblock.co/news/business/2026-08-24-fasset-68-million-raise-sbi-group-412563",
+    "pubDate": "Mon, 24 Aug 2026 07:56:44 +0000",
+    "source": "The Block",
+    "category": "crypto",
+    "content": "Fasset raised $68 million in Series C funding at a $1 billion valuation, expanding its cross-border stablecoin infrastructure.",
+    "image": "https://www.tbstat.com/wp/uploads/2025/04/20250411_Funding_News_3-1200x675.jpg",
+    "summary": "Fasset, a company focused on cross-border stablecoin infrastructure, achieved unicorn status after raising $68 million in a Series C funding round led by SBI Group, valuing the company at $1 billion.",
     "importance": 7,
     "classified": true
   },
@@ -1056,30 +1080,6 @@
     "classified": true
   },
   {
-    "title": "South Korea’s Shinhan partners with Solana Foundation, Etherfuse, Orca for tokenized fund issuance",
-    "link": "https://www.theblock.co/news/regulation/2026-08-21-south-korea-shinhan-partners-solana-412420",
-    "pubDate": "Fri, 21 Aug 2026 06:32:48 +0000",
-    "source": "The Block",
-    "category": "crypto",
-    "content": "The agreement covers a proof-of-concept for the issuance and distribution of a Korean won-denominated tokenized fund.",
-    "image": "https://www.tbstat.com/wp/uploads/2024/02/20240220_SouthKorea_News-1200x675.jpg",
-    "summary": "South Korea’s Shinhan Bank has partnered with Solana Foundation, Etherfuse, and Orca to launch a proof-of-concept for issuing and distributing a Korean won-denominated tokenized fund using blockchain technology.",
-    "importance": 7,
-    "classified": true
-  },
-  {
-    "title": "MANTRA freezes all transactions and network following incident",
-    "link": "https://www.theblock.co/news/defi/2026-08-21-mantra-freezes-network-412416",
-    "pubDate": "Fri, 21 Aug 2026 04:47:29 +0000",
-    "source": "The Block",
-    "category": "crypto",
-    "content": "MANTRA Chain halted the network and all transactions after discovering an incident related to its Cosmos EVM module.",
-    "image": "https://www.tbstat.com/wp/uploads/2025/02/Screenshot-2025-02-19-at-2.00.17 PM-1015x675.png",
-    "summary": "MANTRA Chain has paused all network activity and transactions following an incident involving its Cosmos EVM module, though details of the issue remain undisclosed.",
-    "importance": 7,
-    "classified": true
-  },
-  {
     "title": "Smart Money Helping Support Bitcoin Rebound, Says Pantera Capital",
     "link": "https://bitcoinmagazine.com/news/pantera-capital-says-bitcoin-to-go-higher",
     "pubDate": "Fri, 21 Aug 2026 21:52:26 +0000",
@@ -1152,6 +1152,18 @@
     "classified": true
   },
   {
+    "title": "Kids outlearn AI—and we still don’t know why",
+    "link": "https://www.technologyreview.com/2026/08/24/1141740/kids-machines-language-learning/",
+    "pubDate": "Mon, 24 Aug 2026 09:00:00 +0000",
+    "source": "MIT Technology Review",
+    "category": "ai",
+    "content": "People have been talking to each other for at least 100,000 years, as best we can tell. And in all that time, there has been only one thing in the world that could learn a human language to perfect fluency: a human child.  Now there are two.  Four short years after the release of ChatGPT,…",
+    "image": "https://wp.technologyreview.com/wp-content/uploads/2026/08/2_Mobile.jpg?w=840",
+    "summary": "A recent study suggests that children outperform AI models in learning human language, despite AI's rapid advancements. The article highlights the persistent gap between AI and human learning capabilities, particularly in language acquisition.",
+    "importance": 7,
+    "classified": true
+  },
+  {
     "title": "The Download: threats from space mirrors and credit for AI drugs",
     "link": "https://www.technologyreview.com/2026/08/21/1142762/the-download-space-mirrors-threats-ai-designed-drugs-credit/",
     "pubDate": "Fri, 21 Aug 2026 12:10:00 +0000",
@@ -1196,18 +1208,6 @@
     "content": "There’s a hunt for new sources of hydrogen, and the gas (or at least the right conditions to make it) could be hiding beneath our feet. Hydrogen can be used as a fuel in everything from large trucks to planes to steelmaking. It’s often hailed as a climate solution because when burned, it produces water…",
     "image": "",
     "summary": "Scientists are exploring underground hydrogen reserves as a potential new source of clean fuel, which could revolutionize industries like transportation and steelmaking. The discovery of natural hydrogen deposits could significantly impact the energy sector and climate solutions.",
-    "importance": 7,
-    "classified": true
-  },
-  {
-    "title": "The Download: AI’s self-improvement problem, and what’s driving the heat",
-    "link": "https://www.technologyreview.com/2026/08/19/1140195/the-download-ai-recursive-self-improvement-problem-heatwave-causes/",
-    "pubDate": "Wed, 19 Aug 2026 12:10:00 +0000",
-    "source": "MIT Technology Review",
-    "category": "ai",
-    "content": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. AI’s recursive self-improvement might not come so quickly after all The AI industry’s boldest promise right now is that AI will soon improve itself, with almost no need for human oversight.…",
-    "image": "https://wp.technologyreview.com/wp-content/uploads/2025/10/ND25-Hanna-01b.jpg?fit=1920,1280",
-    "summary": "The article discusses AI's recursive self-improvement, a key industry claim suggesting AI can enhance itself with minimal human input. However, it questions the speed and feasibility of this process, highlighting potential challenges in autonomous AI advancement.",
     "importance": 7,
     "classified": true
   },
@@ -1404,6 +1404,18 @@
     "classified": true
   },
   {
+    "title": "Live updates: Bitcoin climbs past $78,000 early Monday, with gold topping $4,700",
+    "link": "https://www.coindesk.com/business/2026/08/24/live-updates-bitcoin-holds-usd77-000-as-xrp-zcash-pull-back-after-a-big-weekly-rally",
+    "pubDate": "Mon, 24 Aug 2026 08:05:57 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "With bond yields still near multi-year highs, focus turns to Fed Chair Kevin Warsh's upcoming Jackson Hole address.",
+    "image": "",
+    "summary": "Bitcoin surged past $78,000 early Monday, while gold also reached a record high above $4,700. The market movement comes as bond yields remain elevated, with investors awaiting Fed Chair Kevin Warsh's speech at the Jackson Hole symposium for further economic signals.",
+    "importance": 6,
+    "classified": true
+  },
+  {
     "title": "Here’s what happened in crypto today",
     "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "pubDate": "Mon, 24 Aug 2026 05:55:54 +0000",
@@ -1440,14 +1452,14 @@
     "classified": true
   },
   {
-    "title": "Most Americans say the Trump family’s crypto investments are not ‘appropriate’: Poll",
-    "link": "https://cointelegraph.com/news/americans-donald-trump-crypto-investments-inappropriate-poll?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Thu, 20 Aug 2026 15:53:51 +0000",
-    "source": "Cointelegraph",
+    "title": "Bernstein says Circle’s growth cycle can continue without the Clarity Act, sees 59% upside",
+    "link": "https://www.theblock.co/news/business/2026-08-24-bernstein-says-circles-growth-cycle-can-continue-without-the-clarity-act-sees-59-upside-412573",
+    "pubDate": "Mon, 24 Aug 2026 10:08:38 +0000",
+    "source": "The Block",
     "category": "crypto",
-    "content": "A new poll showed 63% of 1,166 Americans varied sharply along partisan lines, with a majority of Republicans saying it was appropriate for Trump and his family to invest in crypto.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-what-crypto-industry-can-learn-from-polling.jpg",
-    "summary": "A recent poll reveals that 63% of Americans, particularly along partisan lines, believe it was inappropriate for former President Donald Trump and his family to invest in cryptocurrency. The sentiment was notably divided, with most Republicans considering the investments acceptable.",
+    "content": "Bernstein says Circle can sustain growth without the Clarity Act as USDC supply rebounds and stablecoin volumes continue expanding.",
+    "image": "https://www.tbstat.com/wp/uploads/2025/11/20230424_Circle_News-1200x675.jpg",
+    "summary": "Bernstein analysts believe Circle's growth trajectory can continue even without the Clarity Act, citing a rebound in USDC supply and expanding stablecoin volumes. They project a 59% upside potential for the company.",
     "importance": 6,
     "classified": true
   },
@@ -1460,18 +1472,6 @@
     "content": "Amid a two-month puase on BTC buys, Strategy shares (MSTR) rallied alongside bitcoin as STRC continued its recovery toward its $100 target.",
     "image": "https://www.tbstat.com/wp/uploads/2026/03/20260320_Strategy_Learn-1200x675.jpg",
     "summary": "MicroStrategy (MSTR) shares surged to a two-month high as the company's stock rebounded alongside bitcoin (BTC), nearing its $100 target price. The rally occurred despite a two-month pause in BTC purchases by the firm.",
-    "importance": 6,
-    "classified": true
-  },
-  {
-    "title": "Bitcoin breaks through $75,500 while analyst calls current rally ‘premature’",
-    "link": "https://www.theblock.co/news/markets/2026-08-20-bitcoin-breaks-through-75500-412404",
-    "pubDate": "Fri, 21 Aug 2026 02:22:44 +0000",
-    "source": "The Block",
-    "category": "crypto",
-    "content": "Shawn Young, chief analyst at MEXC Research, said that the crypto market is giving Treasury's intervention 'more credit than it deserves.'",
-    "image": "https://www.tbstat.com/wp/uploads/2023/10/20230815_Bitcoin_News4-1200x675.jpg",
-    "summary": "Bitcoin surpassed $75,500, but an analyst warns the rally may be premature, attributing the market's optimism to overstated confidence in Treasury's intervention rather than fundamental strength.",
     "importance": 6,
     "classified": true
   },
@@ -1524,18 +1524,6 @@
     "classified": true
   },
   {
-    "title": "Bitcoin faces $80,000 test as thinner weekend liquidity looms",
-    "link": "https://www.coindesk.com/daybook-us/2026/08/21/bitcoin-faces-usd80-000-test-as-thinner-weekend-liquidity-looms",
-    "pubDate": "Fri, 21 Aug 2026 11:26:27 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "Your day-ahead look for Aug. 21, 2026",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/d067b6a472aefcd5d9592815bfd5149bbe698626-1920x1080.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "Bitcoin is expected to face a significant test around the $80,000 level as weekend trading approaches, a period often characterized by thinner market liquidity. This report provides a day-ahead look for August 21, 2026, focusing on potential short-term price movements for the cryptocurrency.",
-    "importance": 5,
-    "classified": true
-  },
-  {
     "title": "Bitcoin seeks support near $77K as BTC, gold near 100-day highs",
     "link": "https://cointelegraph.com/markets/bitcoin-seeks-support-near-77k-btc-gold-100-day-highs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "pubDate": "Fri, 21 Aug 2026 19:10:47 +0000",
@@ -1556,6 +1544,18 @@
     "content": "Binance’s employees were cleared and released after providing statements to UAE authorities about third-party fund flows through a company client account, a spokesperson told Cointelegraph.",
     "image": "https://s3-images.ctmedia.io/media/article-covers/hi-binance-spotlight.jpg",
     "summary": "Binance employees in the UAE were questioned by authorities regarding third-party fund flows through a client account but were later cleared and released after providing statements. The investigation did not lead to any charges against the employees.",
+    "importance": 5,
+    "classified": true
+  },
+  {
+    "title": "The Download: kids outlearning AI, and space travel agents",
+    "link": "https://www.technologyreview.com/2026/08/24/1142863/the-download-kids-outlearning-ai-space-travel-agents/",
+    "pubDate": "Mon, 24 Aug 2026 12:10:00 +0000",
+    "source": "MIT Technology Review",
+    "category": "ai",
+    "content": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Kids outlearn AI—and we still don’t know why Teaching a computer to use human language requires an inhuman amount of data. An LLM can easily churn through a hundred thousand times…",
+    "image": "https://wp.technologyreview.com/wp-content/uploads/2026/01/Small-Reactor-Tablet-top.jpg?fit=2880,1920",
+    "summary": "Children are outperforming AI in learning tasks, with the reasons behind this phenomenon still unclear. The article also touches on advancements in space travel technology.",
     "importance": 5,
     "classified": true
   },
@@ -1668,18 +1668,6 @@
     "classified": true
   },
   {
-    "title": "Support networks aim to help kids through the polycrisis",
-    "link": "https://www.technologyreview.com/2026/08/20/1141686/support-networks-help-kids-polycrisis/",
-    "pubDate": "Thu, 20 Aug 2026 09:00:00 +0000",
-    "source": "MIT Technology Review",
-    "category": "ai",
-    "content": "Sometime in the late 2000s, Pim Sullivan-Tailyour was sitting in the back of a car, headed toward her great-grandmother’s tiny town in the south of Thailand. She watched big mountains pass by out the window. She was just six years old but was about to be hit by an adult-size realization. “They were just quarried…",
-    "image": "https://wp.technologyreview.com/wp-content/uploads/2026/08/Paris-France_Vinci.jpg?w=840",
-    "summary": "The article discusses Pim Sullivan-Tailyour's childhood experience in Thailand, reflecting on early exposure to environmental issues like mountain quarrying. It introduces the broader topic of support networks for children facing global crises.",
-    "importance": 2,
-    "classified": true
-  },
-  {
     "title": "The new Instagram logo is the perfect embodiment of AI slop",
     "link": "https://arstechnica.com/ai/2026/08/the-new-instagram-logo-is-the-perfect-embodiment-of-ai-slop/",
     "pubDate": "Thu, 13 Aug 2026 17:32:10 +0000",
@@ -1689,6 +1677,18 @@
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/instagram-2026-wordmark.png",
     "summary": "The new Instagram logo has been criticized in an opinion piece, with the author jokingly calling it the perfect embodiment of AI slop, implying that it was poorly designed, possibly with AI influence. The author's remarks are lighthearted and humorous, focusing on the accidentally awful design of the new wordmark. The article does not provide a serious analysis but rather a comedic take on the situation.",
     "importance": 2,
+    "classified": true
+  },
+  {
+    "title": "Financial repression: The new buzzword for bitcoin bulls",
+    "link": "https://www.coindesk.com/daybook-us/2026/08/24/financial-repression-the-new-buzzword-for-bitcoin-bulls",
+    "pubDate": "Mon, 24 Aug 2026 11:15:00 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "Your day-ahead look for Aug. 24, 2026",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/4997e8344864d8af680c8573fe456675d3db41fd-3965x2230.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "The article's title, \"Financial repression: The new buzzword for bitcoin bulls,\" suggests a discussion on how financial repression is viewed as a significant driver for Bitcoin's appeal. However, the actual content provided is only a generic \"day-ahead look\" for August 24, 2026, lacking any detailed news.",
+    "importance": 1,
     "classified": true
   },
   {
