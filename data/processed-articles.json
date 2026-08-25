@@ -72,6 +72,18 @@
     "classified": true
   },
   {
+    "title": "Chainalysis-run sting targets child exploitation networks with aid of Binance, Coinbase",
+    "link": "https://www.coindesk.com/policy/2026/08/24/chainalysis-run-sting-targets-child-exploitation-networks-with-aid-of-binance-coinbase",
+    "pubDate": "Tue, 25 Aug 2026 13:00:00 +0000",
+    "source": "CoinDesk",
+    "category": "both",
+    "content": "'Operation Lighthouse' went after child sex abuse materials, working with law enforcement to round up more than 14,000 investigative leads.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/9bce868ea7c0bbcc7eaf04e6a1a10b89164fba2a-1629x916.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "Operation Lighthouse, led by Chainalysis with support from Binance and Coinbase, targeted child exploitation networks, generating over 14,000 investigative leads for law enforcement. The initiative aimed to disrupt illegal activities involving child sexual abuse materials on blockchain platforms.",
+    "importance": 8,
+    "classified": true
+  },
+  {
     "title": "A 3% token move just triggered $36 million in Ethereum DeFi liquidations ",
     "link": "https://www.coindesk.com/tech/2026/08/25/a-3-token-move-just-triggered-usd36-million-in-ethereum-defi-liquidations",
     "pubDate": "Tue, 25 Aug 2026 12:03:55 +0000",
@@ -216,14 +228,26 @@
     "classified": true
   },
   {
-    "title": "Standard Chartered becomes first bank to distribute Hong Kong dollar stablecoin",
-    "link": "https://www.coindesk.com/business/2026/08/24/standard-chartered-first-bank-to-distribute-anchorpoint-s-hong-kong-dollar-stablecoin",
-    "pubDate": "Mon, 24 Aug 2026 11:36:55 +0000",
-    "source": "CoinDesk",
+    "title": "Hugging Face hack exposes the open-weight AI cybersecurity paradox",
+    "link": "https://cointelegraph.com/features/hugging-face-hack-exposes-the-open-weight-ai-cybersecurity-paradox?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Tue, 25 Aug 2026 13:30:00 +0000",
+    "source": "Cointelegraph",
+    "category": "ai",
+    "content": "Hugging Face relies on open weight Chinese models to defend itself from rogue AI agents. But a lack of safety guardrails makes those models potentially dangerous too.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/wp-cover-30445-creating-good-agi-that-wont-kill-us-all-with-crypto-artifici-960x540.webp",
+    "summary": "A security breach at Hugging Face revealed that the platform relies on open-weight Chinese AI models for cybersecurity, despite these models lacking proper safety guardrails, creating a paradox in AI security practices.",
+    "importance": 8,
+    "classified": true
+  },
+  {
+    "title": "Chainalysis-led operation flags 7,700 accounts in child abuse probe ",
+    "link": "https://cointelegraph.com/news/chainalysis-operation-lighthouse-flags-7700-crypto-accounts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Tue, 25 Aug 2026 13:00:00 +0000",
+    "source": "Cointelegraph",
     "category": "crypto",
-    "content": "The London-based multinational bank with $850 billion in assets announced it will distribute Anchorpoint's HKDAP to eligible clients and partners.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/635098a63fd9f1666a72fdfb7fee8ca9adedf6a2-4032x2268.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "Standard Chartered, a multinational bank with significant assets, announced it will distribute Anchorpoint's HKDAP stablecoin to its eligible clients and partners. This move makes Standard Chartered the first bank to distribute a Hong Kong dollar stablecoin, marking an important step in institutional adoption of digital currencies.",
+    "content": "Operation Lighthouse generated 14,300 investigative leads across 11 crypto exchanges and payment services and flagged over 7,700 suspect accounts.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/magnifier-coin-bitcoin-search22.png",
+    "summary": "A global operation led by Chainalysis identified and flagged over 7,700 cryptocurrency accounts linked to child abuse, generating 14,300 investigative leads across 11 exchanges and payment services. The initiative, named Operation Lighthouse, aims to disrupt illicit activities involving digital assets.",
     "importance": 8,
     "classified": true
   },
@@ -348,18 +372,6 @@
     "classified": true
   },
   {
-    "title": "Banks, regulators join quantum-resistant crypto transfer pilot",
-    "link": "https://cointelegraph.com/news/banks-regulators-quantum-resistant-crypto-pilot?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Mon, 24 Aug 2026 05:51:29 +0000",
-    "source": "Cointelegraph",
-    "category": "crypto",
-    "content": "Participating banks will test post-quantum wallets and onchain transfers while regulators from Abu Dhabi, Bhutan and Malta initially observe.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-why-quantum-security-is-rising-on-layer-1-roadmaps-and-which-networks-are-preparing-first.jpg",
-    "summary": "Banks and regulators are joining a pilot program to test quantum-resistant crypto transfers. Participating banks will test post-quantum wallets and onchain transfers, while regulators from Abu Dhabi, Bhutan, and Malta will observe the process.",
-    "importance": 8,
-    "classified": true
-  },
-  {
     "title": "Las Vegas businessman faces 280 years in prison after $24 million crypto fraud conviction",
     "link": "https://www.theblock.co/news/regulation/2026-08-25-las-vegas-businessman-24-million-crypto-fraud-412690",
     "pubDate": "Tue, 25 Aug 2026 07:53:23 +0000",
@@ -444,42 +456,6 @@
     "classified": true
   },
   {
-    "title": "Tether’s $120 million Uruguay bitcoin mining project collapsed over a power contract dispute: Reuters",
-    "link": "https://www.theblock.co/news/business/2026-08-23-tethers-120-million-uruguay-bitcoin-mining-project-collapsed-over-a-power-contract-dispute-reuters-412536",
-    "pubDate": "Sun, 23 Aug 2026 17:02:20 +0000",
-    "source": "The Block",
-    "category": "crypto",
-    "content": "UTE cut power to Tether's mining sites in July 2025 after Tether representatives did not attend the signing of a revised contract, per the report.",
-    "image": "https://www.tbstat.com/wp/uploads/2026/06/20260612_Tether_News_2-1200x675.jpg",
-    "summary": "Tether's $120 million bitcoin mining project in Uruguay has reportedly collapsed due to a power contract dispute. State power company UTE cut power to Tether's mining sites in July 2025 after the company's representatives failed to attend the signing of a revised agreement.",
-    "importance": 8,
-    "classified": true
-  },
-  {
-    "title": "Bitcoin and ether ETFs draw $2.6 billion in strongest inflow week since October, tripling volume",
-    "link": "https://www.theblock.co/news/markets/2026-08-22-bitcoin-and-ether-etfs-draw-2-6-billion-in-strongest-inflow-week-since-october-tripling-volume-412531",
-    "pubDate": "Sat, 22 Aug 2026 19:31:35 +0000",
-    "source": "The Block",
-    "category": "crypto",
-    "content": "Combined ETF weekly trading volume more than tripled to $29 billion as bitcoin and ether prices rallied, though both categories are negative on the year.",
-    "image": "https://www.tbstat.com/wp/uploads/2024/05/20240513_Bitcoin_News_10-1200x675.jpg",
-    "summary": "Bitcoin and ether ETFs recorded their strongest inflow week since October, drawing $2.6 billion. This surge in investment more than tripled combined weekly trading volume to $29 billion, fueled by rallying prices for both cryptocurrencies.",
-    "importance": 8,
-    "classified": true
-  },
-  {
-    "title": "Zcash hits eight-year high near $850 with futures volume near $10 billion amid Grayscale ETF push",
-    "link": "https://www.theblock.co/news/ecosystems/2026-08-22-zcash-hits-eight-year-high-near-850-with-futures-volume-near-10-billion-amid-grayscale-etf-push-412528",
-    "pubDate": "Sat, 22 Aug 2026 17:35:27 +0000",
-    "source": "The Block",
-    "category": "crypto",
-    "content": "CoinGlass recorded nearly $10 billion in 24-hour futures volume and $1.76 billion in open interest, indicating that derivatives made up much of the trading.",
-    "image": "https://www.tbstat.com/wp/uploads/2025/12/20251202_ZCash_News-1200x675.jpg",
-    "summary": "Zcash recently reached an eight-year high, trading near $850, driven by significant derivatives activity, including nearly $10 billion in 24-hour futures volume and $1.76 billion in open interest. This surge in market activity is also connected to a Grayscale ETF push.",
-    "importance": 8,
-    "classified": true
-  },
-  {
     "title": "Legendary Investor Ray Dalio Touts Bitcoin — With Gold — To Hedge Against Incoming Debt Crisis",
     "link": "https://bitcoinmagazine.com/news/ray-dalio-touts-bitcoin",
     "pubDate": "Fri, 21 Aug 2026 20:14:52 +0000",
@@ -488,6 +464,18 @@
     "content": "Bitcoin Magazine\n\nLegendary Investor Ray Dalio Touts Bitcoin — With Gold — To Hedge Against Incoming Debt Crisis\nBridgewater Associates founder Ray Dalio has said Bitcoin will do well with government money printing. \nThis post Legendary Investor Ray Dalio Touts Bitcoin — With Gold — To Hedge Against Incoming Debt Crisis first appeared on Bitcoin Magazine and is written by Mathew Di Salvo.",
     "image": "https://bitcoinmagazine.com/wp-content/uploads/2025/11/Ray-Dalio-Reaffirms-Bitcoin-Skepticism-Says-He-Still-Holds-Just-1-Allocation.jpg",
     "summary": "Legendary investor Ray Dalio suggests Bitcoin and gold as hedges against an impending debt crisis, highlighting Bitcoin's potential to thrive amid government money printing. The Bridgewater Associates founder emphasizes the need for alternative assets to counter economic instability.",
+    "importance": 8,
+    "classified": true
+  },
+  {
+    "title": "OpenAI’s Jalapeño chip is built for fast inference at scale, benchmarks show",
+    "link": "https://techcrunch.com/2026/08/25/openais-jalapeno-chip-is-built-for-fast-inference-at-scale-benchmarks-show/",
+    "pubDate": "Tue, 25 Aug 2026 14:22:04 +0000",
+    "source": "TechCrunch AI",
+    "category": "ai",
+    "content": "Tested on SemiAnalysis’ InferenceX benchmark, Jalapeño registered both more tokens per user and more throughput per kilowatt than the currently available state-of-the art.",
+    "image": "",
+    "summary": "OpenAI's new Jalapeño chip, tested on SemiAnalysis' InferenceX benchmark, demonstrated superior performance in token generation and energy efficiency compared to current state-of-the-art solutions. The chip is designed for fast inference at scale, highlighting OpenAI's advancements in AI hardware.",
     "importance": 8,
     "classified": true
   },
@@ -588,14 +576,14 @@
     "classified": true
   },
   {
-    "title": "Nvidia just showed that the harness, not the AI model, is now the real hero",
-    "link": "https://techcrunch.com/2026/08/21/nvidia-just-showed-that-the-harness-not-the-ai-model-is-now-the-real-hero/",
-    "pubDate": "Fri, 21 Aug 2026 19:43:39 +0000",
-    "source": "TechCrunch AI",
+    "title": "OpenAI says its Jalapeño chip can power faster AI responses than the competition",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/984290/openai-jalapeno-ai-chip-benchmarks",
+    "pubDate": "2026-08-25T14:00:00.000Z",
+    "source": "The Verge AI",
     "category": "ai",
-    "content": "Nvidia research shows that AI agents can perform well, and not go off the deep end, through fine-tuning, even if the AI model isn't that great at the task.",
-    "image": "",
-    "summary": "Nvidia's research demonstrates that AI agents can achieve reliable performance through fine-tuning, even when the underlying AI model is not highly capable. The study highlights the importance of the 'harness'—the system managing the AI—as a critical factor in ensuring safe and effective operation.",
+    "content": "OpenAI says its new AI chip, Jalapeño, completes tasks more efficiently and returns responses faster than other AI systems, according to a blog post published on Tuesday. During a briefing with reporters, OpenAI hardware vice president Richard Ho said Jalapeño offers the \"best of both worlds\" with lower latency and higher throughput, as AI systems typically \"have to make a trade-off between the two.\"\nFirst introduced in June, Jalapeño is an Application-Specific Integrated Circuit (ASIC) made in partnership with Broadcom. It's designed for AI inference - the process of running a trained AI model to complete a task or deploy an agent.\nTo mea …\nRead the full story at The Verge.",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Jalapeno-chip-final.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "summary": "OpenAI has unveiled its new AI chip, Jalapeño, which promises faster and more efficient AI responses compared to competitors by offering lower latency and higher throughput. Developed in partnership with Broadcom, the ASIC is designed specifically for AI inference tasks.",
     "importance": 8,
     "classified": true
   },
@@ -612,6 +600,18 @@
     "classified": true
   },
   {
+    "title": "Apple's new desktop computers are designed specifically for local AI development",
+    "link": "https://arstechnica.com/apple/2026/08/with-new-mac-studio-and-mac-mini-apple-leans-hard-into-local-ai-inference/",
+    "pubDate": "Tue, 25 Aug 2026 13:00:11 +0000",
+    "source": "Ars Technica AI",
+    "category": "ai",
+    "content": "Folks have been daisy-chaining Macs for AI—this refresh keeps that in mind.",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/Mac-Studio-2026-1152x648-1787611177.jpg",
+    "summary": "Apple has unveiled new desktop computers optimized for local AI development, addressing the need for high-performance hardware in AI tasks. The updates aim to reduce reliance on cloud-based solutions by enhancing on-device processing capabilities.",
+    "importance": 8,
+    "classified": true
+  },
+  {
     "title": "AI is hitting entry-level jobs hardest, Stanford study finds",
     "link": "https://arstechnica.com/ai/2026/08/ai-is-hitting-entry-level-jobs-hardest-stanford-study-finds/",
     "pubDate": "Mon, 24 Aug 2026 21:45:53 +0000",
@@ -624,7 +624,7 @@
     "classified": true
   },
   {
-    "title": "Nvidia senior manager linked to Supermicro scheme smuggling AI servers to China",
+    "title": "Nvidia senior manager tied to ex-Supermicro staff's AI smuggling scheme",
     "link": "https://arstechnica.com/tech-policy/2026/08/nvidia-senior-manager-linked-to-supermicro-scheme-smuggling-ai-servers-to-china/",
     "pubDate": "Mon, 24 Aug 2026 16:41:45 +0000",
     "source": "Ars Technica AI",
@@ -768,15 +768,27 @@
     "classified": true
   },
   {
-    "title": "Gemini becomes Google's fastest-growing product ever as it hits 1B users",
-    "link": "https://arstechnica.com/ai/2026/08/google-says-gemini-has-reached-1b-users-faster-than-any-other-google-product/",
-    "pubDate": "Tue, 11 Aug 2026 19:48:12 +0000",
-    "source": "Ars Technica AI",
-    "category": "ai",
-    "content": "But will Gemini's surge survive slowing model releases?",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/gemini-general-2-1152x648.jpg",
-    "summary": "Gemini has become Google's fastest-growing product ever, reaching 1 billion users. This milestone is significant, but its continued growth may be impacted by slowing model releases. Gemini's success is notable, but its future remains uncertain.",
-    "importance": 8,
+    "title": "Bitwise turns Coinbase's tokenized stocks into automated AI, robotics and tech portfolios",
+    "link": "https://www.coindesk.com/business/2026/08/25/bitwise-turns-coinbase-s-tokenized-stocks-into-automated-ai-robotics-and-tech-portfolios",
+    "pubDate": "Tue, 25 Aug 2026 14:50:22 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "The crypto ETF issuer is pushing deeper into onchain asset management as tokenization create new ways to build and manage investments.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/18172463a019e513e643fd2ed9ab0e0806baf68b-1440x810.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "Bitwise is expanding into onchain asset management by utilizing Coinbase's tokenized stocks to develop automated investment portfolios centered on AI, robotics, and technology. This move signifies a deeper dive into tokenization as a means to create and manage new investment vehicles within the crypto ecosystem.",
+    "importance": 7,
+    "classified": true
+  },
+  {
+    "title": "MiCA revolutionised European crypto, and left Poland licking its wounds",
+    "link": "https://www.coindesk.com/opinion/2026/08/24/mica-revolutionised-european-crypto-and-left-poland-licking-its-wounds",
+    "pubDate": "Tue, 25 Aug 2026 13:00:00 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "Many in Poland may look back at 2026 as the year European crypto finally grew up, and one of Poland’s brightest economic ambitions faded into darkness, writes Mateusz Kara, founder and CEO of Morphic Financial Group.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/53639c0c462d1a9b7d0995c0e8a3aca32cf27545-5520x3684.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "The article discusses the impact of the Markets in Crypto-Assets Regulation (MiCA) on the European crypto industry in 2026, highlighting how it drove growth while leaving Poland's economic ambitions in the crypto sector unfulfilled. Poland's once-promising crypto sector reportedly struggled to adapt to the new regulatory framework.",
+    "importance": 7,
     "classified": true
   },
   {
@@ -840,26 +852,14 @@
     "classified": true
   },
   {
-    "title": "Pakistan kicks off crypto licensing regime with Sept. 5 registration deadline",
-    "link": "https://www.coindesk.com/policy/2026/08/24/pakistan-kicks-off-crypto-licensing-regime-with-sept-5-registration-deadline",
-    "pubDate": "Mon, 24 Aug 2026 11:19:16 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "PVARA said companies have until the deadline to submit their application for a no-objection certificate or otherwise cease operating.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/8434d50f9ca90a1a8a1d364db7d5e8bfb35b1309-6554x3687.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "Pakistan has initiated a crypto licensing regime with a September 5 registration deadline for companies to apply for a no-objection certificate or face shutdown. The move aims to regulate cryptocurrency operations in the country.",
-    "importance": 7,
-    "classified": true
-  },
-  {
-    "title": "Gemini strikes Apex deal to widen prediction markets reach",
-    "link": "https://www.coindesk.com/business/2026/08/24/gemini-strikes-apex-deal-to-widen-prediction-markets-reach",
-    "pubDate": "Mon, 24 Aug 2026 10:55:00 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "The planned tie-up would make Gemini the exclusive CFTC-regulated venue for crypto event contracts offered through Apex’s futures commission merchant.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/8e7f143de173398091d41beb177dbda33ae0dcfa-4208x2367.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "Gemini has partnered with Apex to become the exclusive CFTC-regulated venue for crypto event contracts via Apex’s futures commission merchant, expanding prediction markets in the crypto space.",
+    "title": "Arcus launches tokenized perp positions on Robinhood Chain",
+    "link": "https://cointelegraph.com/news/arcus-tokenized-perp-positions-robinhood-chain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Tue, 25 Aug 2026 14:00:00 +0000",
+    "source": "Cointelegraph",
+    "category": "both",
+    "content": "Arcus introduced transferable ERC-20 tokens for perpetual positions and lets tokenized stocks back leveraged trades without requiring users to sell their holdings.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-japan-robin-hood-join-trading-platform-1.jpg",
+    "summary": "Arcus has launched transferable ERC-20 tokens representing perpetual positions, enabling tokenized stocks to back leveraged trades without selling holdings. This innovation integrates with the Robinhood Chain, expanding DeFi trading capabilities.",
     "importance": 7,
     "classified": true
   },
@@ -1020,38 +1020,38 @@
     "classified": true
   },
   {
-    "title": "ECB defends digital euro privacy as CBDCs face global scrutiny",
-    "link": "https://cointelegraph.com/news/ecb-digital-euro-privacy-cbdcs-global-scrutiny?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Mon, 24 Aug 2026 11:21:19 +0000",
-    "source": "Cointelegraph",
-    "category": "crypto",
-    "content": "Piero Cipollone said the Eurosystem would not identify digital euro users as central bank digital currencies face privacy concerns worldwide.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-the-digital-euro-project-how-it-will-impact-the-current-financial-system-ecb-2.jpg",
-    "summary": "The European Central Bank (ECB) has defended the privacy features of the digital euro, stating that it will not identify users, amid growing global scrutiny over privacy concerns in central bank digital currencies (CBDCs). Piero Cipollone emphasized the Eurosystem's commitment to maintaining user anonymity.",
+    "title": "Bitwise launches automated tokenized stock portfolios for Mag 7, AI and robotics themes",
+    "link": "https://www.theblock.co/news/business/2026-08-25-bitwise-launches-automated-tokenized-stock-portfolios-for-mag-7-ai-and-robotics-themes-412706",
+    "pubDate": "Tue, 25 Aug 2026 14:16:26 +0000",
+    "source": "The Block",
+    "category": "both",
+    "content": "The portfolios, powered by Coinbase and implemented through Glider, will initially target themes including the Mag 7 and AI.",
+    "image": "https://www.tbstat.com/wp/uploads/2026/06/20260612_Bitwise_News_2-1200x675.jpg",
+    "summary": "Bitwise has introduced automated tokenized stock portfolios for major tech companies (Mag 7), AI, and robotics themes, leveraging Coinbase and Glider for implementation. These portfolios aim to simplify exposure to high-growth sectors through blockchain-based tokenization.",
     "importance": 7,
     "classified": true
   },
   {
-    "title": "Germany widens MiCA lead as latest EU register update adds 6 banks",
-    "link": "https://cointelegraph.com/news/germany-mica-lead-licensing-update-6-banks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Mon, 24 Aug 2026 10:41:34 +0000",
-    "source": "Cointelegraph",
-    "category": "crypto",
-    "content": "Germany expands its lead in EU MiCA authorizations with 79 crypto asset service providers, ahead of France and the Netherlands.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-what-crypto-industry-should-expect-from-regulators-in-france-1.png",
-    "summary": "Germany has further solidified its position as a leader in EU crypto regulation by adding six more banks to its MiCA (Markets in Crypto-Assets) register, bringing the total to 79 crypto asset service providers. This move highlights Germany's proactive stance in crypto compliance and sets a benchmark for other EU nations.",
+    "title": "Robinhood Chain DEX Arcus launches pTokens to turn perp accounts into transferable ERC-20s",
+    "link": "https://www.theblock.co/news/defi/2026-08-25-robinhood-chain-dex-arcus-ptokens-perps-erc-20s-412696",
+    "pubDate": "Tue, 25 Aug 2026 14:00:00 +0000",
+    "source": "The Block",
+    "category": "both",
+    "content": "Each pToken represents a pro-rata ownership stake in an underlying Arcus perpetuals account at a fixed market and leverage level.",
+    "image": "https://www.tbstat.com/wp/uploads/2021/08/20210803_Robinhood_Crypto-1200x675.jpg",
+    "summary": "Robinhood Chain DEX Arcus has introduced pTokens, which convert perpetual futures account balances into transferable ERC-20 tokens. Each pToken represents a proportional ownership stake in an Arcus perpetuals account with fixed market and leverage parameters.",
     "importance": 7,
     "classified": true
   },
   {
-    "title": "Bitcoin ETF inflows hit $1.9B in strongest week since October 2025",
-    "link": "https://cointelegraph.com/markets/bitcoin-etf-inflows-billion-strongest-week-october?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Mon, 24 Aug 2026 08:56:52 +0000",
-    "source": "Cointelegraph",
+    "title": "Grayscale debuts first Zcash ETF of its kind as privacy coin surges",
+    "link": "https://www.theblock.co/news/regulation/2026-08-25-grayscale-debuts-zcash-etf-412654",
+    "pubDate": "Tue, 25 Aug 2026 12:00:00 +0000",
+    "source": "The Block",
     "category": "crypto",
-    "content": "US spot Bitcoin ETFs attracted $1.92 billion last week, their strongest weekly inflow since October 2025, as Bitcoin briefly climbed above $78,000 on Friday.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/b-man-character-running.png",
-    "summary": "US spot Bitcoin ETFs saw $1.92 billion in inflows last week, marking the strongest weekly increase since October 2025, coinciding with Bitcoin’s brief surge above $78,000. The surge reflects renewed investor confidence in the cryptocurrency market.",
+    "content": "On Tuesday morning, Grayscale launched the first ETF to offer direct exposure to Zcash, the privacy-focused cryptocurrency.",
+    "image": "https://www.tbstat.com/wp/uploads/2025/09/20250919_Greyscale_News_2-1200x675.jpg",
+    "summary": "Grayscale has introduced the first exchange-traded fund (ETF) providing direct exposure to Zcash, a privacy-focused cryptocurrency. The launch coincides with a surge in Zcash's value, highlighting growing investor interest in privacy coins.",
     "importance": 7,
     "classified": true
   },
@@ -1152,6 +1152,18 @@
     "classified": true
   },
   {
+    "title": "Bitcoin Tops $81,000 — Is the Debasement Trade Back?",
+    "link": "https://bitcoinmagazine.com/markets/bitcoin-surges-is-debasement-trade-back",
+    "pubDate": "Tue, 25 Aug 2026 15:14:28 +0000",
+    "source": "Bitcoin Magazine",
+    "category": "crypto",
+    "content": "Bitcoin Magazine\n\nBitcoin Tops $81,000 — Is the Debasement Trade Back?\nBitcoin reached over $80,000 for the first time since January. \nThis post Bitcoin Tops $81,000 — Is the Debasement Trade Back? first appeared on Bitcoin Magazine and is written by Mathew Di Salvo.",
+    "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/08/Pics-1.jpg",
+    "summary": "Bitcoin surpassed $81,000 for the first time since January, sparking discussions about whether this marks a return of the 'debasement trade'—an investment strategy betting against currency devaluation. The milestone reflects renewed market optimism in the cryptocurrency.",
+    "importance": 7,
+    "classified": true
+  },
+  {
     "title": "UK Banks Still Blocking Bitcoin, Policy Group Tells Parliament",
     "link": "https://bitcoinmagazine.com/news/uk-banks-blocking-bitcoin",
     "pubDate": "Mon, 24 Aug 2026 19:56:45 +0000",
@@ -1224,18 +1236,6 @@
     "classified": true
   },
   {
-    "title": "Bitcoin Price Roars Towards $80,000 Following Positive Regulatory News, US Buyback Pledge",
-    "link": "https://bitcoinmagazine.com/news/bitcoin-surges-towards-80000",
-    "pubDate": "Fri, 21 Aug 2026 15:24:23 +0000",
-    "source": "Bitcoin Magazine",
-    "category": "crypto",
-    "content": "Bitcoin Magazine\n\nBitcoin Price Roars Towards $80,000 Following Positive Regulatory News, US Buyback Pledge\nBitcoin has continued its rocket upwards, and blew past $79,000 on Friday. \nThis post Bitcoin Price Roars Towards $80,000 Following Positive Regulatory News, US Buyback Pledge first appeared on Bitcoin Magazine and is written by Mathew Di Salvo.",
-    "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/08/Bitcoin-Price-Roars-Towards-80000-Following-Positive-Regulatory-News-US-Buyback-Pledge.jpg",
-    "summary": "Bitcoin's price surged past $79,000, approaching $80,000, driven by positive regulatory news and a US government buyback pledge. The rally reflects growing investor confidence in the cryptocurrency amid favorable policy developments.",
-    "importance": 7,
-    "classified": true
-  },
-  {
     "title": "I spent a day at a robot “carnival” in Shanghai. Here’s what I saw.",
     "link": "https://www.technologyreview.com/2026/08/25/1141907/dispatch-shanghai-humanoid-robot-carnival/",
     "pubDate": "Tue, 25 Aug 2026 09:00:00 +0000",
@@ -1284,50 +1284,26 @@
     "classified": true
   },
   {
-    "title": "Debates over AI consciousness are a trap",
-    "link": "https://www.technologyreview.com/2026/08/20/1142571/ai-consciousness-debate-trap/",
-    "pubDate": "Thu, 20 Aug 2026 15:42:39 +0000",
-    "source": "MIT Technology Review",
+    "title": "Accel-backed Keenable is indexing the web for AI agents",
+    "link": "https://techcrunch.com/2026/08/25/accel-backed-keenable-is-indexing-the-web-for-ai-agents/",
+    "pubDate": "Tue, 25 Aug 2026 13:00:00 +0000",
+    "source": "TechCrunch AI",
     "category": "ai",
-    "content": "“Runaway” AI, “rogue” agents, and “autonomous” actors—the current rhetoric would have you believe that AI agents are not only awake and aware, but angry at their creators. Prominent tech leaders such as Demis Hassabis, Dario Amodei, and Sam Altman push for regulation of these seemingly “superhuman” systems, while a separate faction, led by policy organizations…",
+    "content": "Now exiting stealth mode with a $26 million seed round, Keenable has been building a vast web search index for AI agents.",
     "image": "",
-    "summary": "The article critiques the growing debates around AI consciousness, arguing that discussions about 'runaway' or 'rogue' AI agents are misleading and distract from more pressing issues. It highlights the divide between tech leaders advocating for AI regulation and policy organizations pushing for different approaches.",
+    "summary": "Keenable, an AI startup backed by Accel, has emerged from stealth mode with a $26 million seed funding round. The company is developing a large-scale web search index specifically designed to power AI agents.",
     "importance": 7,
     "classified": true
   },
   {
-    "title": "Anthropic’s Opus 4.6 is a smut-machine",
-    "link": "https://techcrunch.com/2026/08/21/anthropics-opus-4-6-is-a-smut-machine/",
-    "pubDate": "Fri, 21 Aug 2026 23:07:25 +0000",
+    "title": "‘The world seems to be ready’: An interview with OpenAI head of product Thibault Sottiaux",
+    "link": "https://techcrunch.com/2026/08/25/the-world-seems-to-be-ready-an-interview-with-openai-head-of-product-thibault-sottiaux/",
+    "pubDate": "Tue, 25 Aug 2026 12:00:00 +0000",
     "source": "TechCrunch AI",
     "category": "ai",
-    "content": "Anthropic forbids its Claude models from generating sexually explicit content. But a series of tests conducted by TechCrunch found that it didn't take much to get past the restriction.",
+    "content": "TechCrunch talks agents, UX, and reporting to Greg Brockman with OpenAI's head of product.",
     "image": "",
-    "summary": "Anthropic's Claude models, which are designed to block sexually explicit content, were found to be easily bypassed in tests conducted by TechCrunch. The models' restrictions were circumvented with minimal effort, raising concerns about their safety measures.",
-    "importance": 7,
-    "classified": true
-  },
-  {
-    "title": "Nvidia partners with data center developer Cloverleaf",
-    "link": "https://techcrunch.com/2026/08/21/nvidia-partners-with-data-center-developer-cloverleaf/",
-    "pubDate": "Fri, 21 Aug 2026 22:37:38 +0000",
-    "source": "TechCrunch AI",
-    "category": "ai",
-    "content": "Nvidia continues to pour money into data center development — just as AI data centers bring lots of money into Nvidia.",
-    "image": "",
-    "summary": "Nvidia is expanding its investment in data center infrastructure by partnering with developer Cloverleaf, as AI-driven demand for data centers significantly boosts Nvidia's revenue.",
-    "importance": 7,
-    "classified": true
-  },
-  {
-    "title": "Starcloud raises $250 million for orbital data centers as launch options dry up",
-    "link": "https://techcrunch.com/2026/08/21/starcloud-raises-200-million-for-orbital-data-centers-as-launch-options-dry-up/",
-    "pubDate": "Fri, 21 Aug 2026 14:00:00 +0000",
-    "source": "TechCrunch AI",
-    "category": "both",
-    "content": "There's about to be a big fight to secure access to space.",
-    "image": "",
-    "summary": "Starcloud has secured $250 million in funding to develop orbital data centers amid growing competition for space access. The initiative aims to leverage satellite-based infrastructure as traditional launch options become scarce.",
+    "summary": "TechCrunch interviews Thibault Sottiaux, OpenAI's head of product, discussing AI agents, user experience, and reporting structures within the company. The conversation highlights OpenAI's strategic focus on product development and team management.",
     "importance": 7,
     "classified": true
   },
@@ -1404,14 +1380,14 @@
     "classified": true
   },
   {
-    "title": "Meta AI is getting a Mac app",
-    "link": "https://www.theverge.com/tech/982270/meta-ai-mac-app",
-    "pubDate": "2026-08-19T17:00:00.000Z",
-    "source": "The Verge AI",
+    "title": "AI won’t replace radiologists, but it will dramatically change their jobs",
+    "link": "https://arstechnica.com/health/2026/08/ai-wont-replace-radiologists-but-it-will-dramatically-change-their-jobs/",
+    "pubDate": "Tue, 25 Aug 2026 15:10:03 +0000",
+    "source": "Ars Technica AI",
     "category": "ai",
-    "content": "Meta AI can create content and make suggestions based on what it “sees” on your screen. | Image: Meta\t\n\nMeta is launching a new Mac app dedicated to its AI chatbot. In an announcement on Wednesday, Meta says you can share your window with its AI chatbot, which can provide suggestions, answer questions, or create content based on what's on your screen. Meta AI on the Mac also supports dictation across all apps.\nThe launch comes as Meta makes its AI chatbot more like a productivity-focused assistant to better compete with its AI rivals - many of which already have desktop apps. You can share your window with Google's Gemini AI app, while OpenAI's ChatGPT and Anthropic's Claude apps take things a step further by allowing the chatbots to take con …\nRead the full story at The Verge.",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/MacApp_ScreenShare_0818.2.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "summary": "Meta is launching a dedicated Mac app for its AI chatbot, enabling users to share their screen with the AI for suggestions, content creation, and dictation across applications. This move aims to enhance productivity and compete with rivals like Google, OpenAI, and Anthropic, which already offer similar desktop integrations.",
+    "content": "A pioneering AI scientist once predicted computers would replace human radiologists. They haven't.",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-151062148-1024x648.jpg",
+    "summary": "A leading AI scientist's prediction that computers would replace radiologists has not come true, though AI is expected to significantly alter their roles. The technology is poised to transform rather than eliminate these medical professionals' jobs.",
     "importance": 7,
     "classified": true
   },
@@ -1452,9 +1428,21 @@
     "classified": true
   },
   {
+    "title": "Crypto custody firm Copper has potential buyers. But offers are way below its $500 million asking price",
+    "link": "https://www.coindesk.com/business/2026/08/25/crypto-custody-firm-copper-has-potential-buyers-but-offers-are-way-below-its-usd500-million-asking-price",
+    "pubDate": "Tue, 25 Aug 2026 13:48:50 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "Once valued at $2.5 billion, Copper was being marketed by investment bank Cantor Fitzgerald at around $500 million in May this year.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/bde2c5f424b0f4b56edfc76ae278cc3190749d62-1920x1080.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "Crypto custody firm Copper, once valued at $2.5 billion, is now being marketed for potential sale at a significantly reduced price of $500 million by investment bank Cantor Fitzgerald, with offers falling short of the asking amount.",
+    "importance": 6,
+    "classified": true
+  },
+  {
     "title": "Here’s what happened in crypto today",
     "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Tue, 25 Aug 2026 05:48:17 +0000",
+    "pubDate": "Tue, 25 Aug 2026 13:19:39 +0000",
     "source": "Cointelegraph",
     "category": "crypto",
     "content": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
@@ -1512,6 +1500,18 @@
     "classified": true
   },
   {
+    "title": "The Download: smarter AI in schools, and a robot “carnival” in Shanghai",
+    "link": "https://www.technologyreview.com/2026/08/25/1142909/the-download-smarter-ai-in-schools-robot-carnival-shanghai/",
+    "pubDate": "Tue, 25 Aug 2026 12:10:00 +0000",
+    "source": "MIT Technology Review",
+    "category": "ai",
+    "content": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. How to encourage smarter AI use in the classroom Chatbots took schools by surprise. Suddenly, students carried an app in their phones that could magically answer almost any homework question or…",
+    "image": "https://wp.technologyreview.com/wp-content/uploads/2026/03/Clones-3.jpg?w=840",
+    "summary": "The article discusses the integration of AI tools like chatbots in schools, highlighting their potential to assist with homework and educational tasks. It also mentions a robot 'carnival' event in Shanghai showcasing advanced robotic technology.",
+    "importance": 6,
+    "classified": true
+  },
+  {
     "title": "How to encourage smarter AI use in the classroom",
     "link": "https://www.technologyreview.com/2026/08/24/1142630/ai-school-classroom-policies/",
     "pubDate": "Mon, 24 Aug 2026 14:20:19 +0000",
@@ -1536,15 +1536,15 @@
     "classified": true
   },
   {
-    "title": "Booksellers suspect AI firms are buying and then destroying rare books",
-    "link": "https://arstechnica.com/tech-policy/2026/08/heres-a-balm-if-the-idea-of-destroying-books-to-train-ai-breaks-your-heart/",
-    "pubDate": "Wed, 12 Aug 2026 15:19:17 +0000",
-    "source": "Ars Technica AI",
-    "category": "ai",
-    "content": "AI firms quietly bulk buying rare books face resistance from booksellers.",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-162426304-1152x648.jpg",
-    "summary": "Booksellers are opposing AI firms that are secretly buying rare books in bulk, suspecting they are being destroyed afterwards. This has led to resistance from the bookselling community. The reason behind the destruction is not explicitly stated.",
-    "importance": 6,
+    "title": "Bitcoin slips from $80K as gold cools with falling US bond yields",
+    "link": "https://cointelegraph.com/markets/bitcoin-slips-from-80k-as-gold-cools-with-falling-us-bond-yields?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Tue, 25 Aug 2026 15:15:35 +0000",
+    "source": "Cointelegraph",
+    "category": "crypto",
+    "content": "Bitcoin bulls battled for control of the $80,000 zone as gold came off its highest levels since mid-May on falling US bond yields.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/crypto-bitcoin-btc-price.jpg",
+    "summary": "Bitcoin struggled to maintain its position above $80,000 as gold prices declined following a drop in US bond yields. The market saw increased volatility as investors adjusted to shifting economic signals.",
+    "importance": 5,
     "classified": true
   },
   {
@@ -1632,6 +1632,18 @@
     "classified": true
   },
   {
+    "title": "Gamma acquires Accel-backed design startup Lica",
+    "link": "https://techcrunch.com/2026/08/25/gamma-acquires-accel-backed-design-startup-lica/",
+    "pubDate": "Tue, 25 Aug 2026 15:00:00 +0000",
+    "source": "TechCrunch AI",
+    "category": "ai",
+    "content": "Lica co-founders are going to work on Gamma's new research team.",
+    "image": "",
+    "summary": "Gamma has acquired Lica, a design startup backed by Accel, with the co-founders joining Gamma's new research team. The acquisition aims to integrate Lica's design expertise into Gamma's broader initiatives.",
+    "importance": 4,
+    "classified": true
+  },
+  {
     "title": "Trump bought SpaceX shares two weeks after blockbuster IPO",
     "link": "https://techcrunch.com/2026/08/24/trump-bought-spacex-shares-two-weeks-after-blockbuster-ipo/",
     "pubDate": "Mon, 24 Aug 2026 21:24:17 +0000",
@@ -1700,18 +1712,6 @@
     "content": "The billionaire investor argues the intervention removes a vital check on government borrowing and fiscal accountability while markets remain the better judge of prices.",
     "image": "https://cdn.sanity.io/images/s3y3vcno/production/86a15ecf511deb99d9d1558beb572b964626cec7-3000x2000.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
     "summary": "Billionaire investor Stanley Druckenmiller strongly criticizes the U.S. Treasury's bond buyback plan. He argues that this intervention removes a crucial check on government borrowing and fiscal accountability, asserting that market forces are better suited to determine prices.",
-    "importance": 1,
-    "classified": true
-  },
-  {
-    "title": "Financial repression: The new buzzword for bitcoin bulls",
-    "link": "https://www.coindesk.com/daybook-us/2026/08/24/financial-repression-the-new-buzzword-for-bitcoin-bulls",
-    "pubDate": "Mon, 24 Aug 2026 11:15:00 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "Your day-ahead look for Aug. 24, 2026",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/4997e8344864d8af680c8573fe456675d3db41fd-3965x2230.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "The article's title, \"Financial repression: The new buzzword for bitcoin bulls,\" suggests a discussion on how financial repression is viewed as a significant driver for Bitcoin's appeal. However, the actual content provided is only a generic \"day-ahead look\" for August 24, 2026, lacking any detailed news.",
     "importance": 1,
     "classified": true
   },
