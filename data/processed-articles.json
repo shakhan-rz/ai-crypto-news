@@ -36,18 +36,6 @@
     "classified": true
   },
   {
-    "title": "Frontier AI labs still won’t say how they’d contain a rogue model",
-    "link": "https://techcrunch.com/2026/08/22/frontier-ai-labs-still-wont-say-how-theyd-contain-a-rogue-model/",
-    "pubDate": "Sat, 22 Aug 2026 16:00:00 +0000",
-    "source": "TechCrunch AI",
-    "category": "ai",
-    "content": "A new study finds leading AI labs have few publicly documented plans for containing rogue models, raising questions about preparedness as AI systems increasingly demonstrate unexpected and potentially dangerous behavior.",
-    "image": "",
-    "summary": "A recent study reveals that leading AI laboratories lack sufficient publicly documented strategies for containing potentially rogue artificial intelligence models. This raises significant concerns regarding preparedness, especially as advanced AI systems increasingly exhibit unpredictable and hazardous behaviors. The findings highlight a critical gap in safety protocols for frontier AI development.",
-    "importance": 9,
-    "classified": true
-  },
-  {
     "title": "OpenAI subpoenaed by Alabama AG over Hugging Face hack",
     "link": "https://www.theverge.com/ai-artificial-intelligence/984239/alabama-attorney-general-subpoena-openai-hugging-face-hack",
     "pubDate": "2026-08-25T09:15:03.000Z",
@@ -69,6 +57,18 @@
     "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/DCD_082026_Site.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
     "summary": "AI models, particularly OpenAI's Astra, have recently demonstrated advanced mathematical problem-solving abilities, solving longstanding unsolved problems and sparking an existential crisis in the mathematics community. Leading mathematicians express concerns over AI's rapid progress, potential impact on academic careers, and the future of mathematical research, while also acknowledging the technology's potential to democratize access and accelerate discovery.",
     "importance": 9,
+    "classified": true
+  },
+  {
+    "title": "South Korea trade giant POSCO brings trade receivables to Avalanche in latest tokenization move",
+    "link": "https://www.coindesk.com/business/2026/08/25/south-korea-trade-giant-posco-brings-trade-receivables-to-avalanche-in-latest-tokenization-move",
+    "pubDate": "Tue, 25 Aug 2026 19:40:00 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "The $22 billion trading company worked with Olea and Intain on the transaction, following an Injective pilot with LG CNS last month.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/f38eb04a3a04d4c96a01cc44a078bfe971d17b91-2048x1396.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "South Korean trade giant POSCO, a $22 billion company, has tokenized its trade receivables on the Avalanche blockchain in partnership with Olea and Intain. This latest move in asset tokenization follows a previous pilot conducted with LG CNS on the Injective blockchain last month.",
+    "importance": 8,
     "classified": true
   },
   {
@@ -212,18 +212,6 @@
     "content": "The treasury firm stepped up its ETH buying as Tom Lee said the crypto’s 30% weekly rally could signal a larger move ahead.",
     "image": "https://cdn.sanity.io/images/s3y3vcno/production/9d7bd39b2982649e7e43cc0537c507eb62abc21c-2048x1152.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
     "summary": "Tom Lee's treasury firm, Bitmine, acquired $81 million worth of Ethereum (ETH), marking its largest weekly purchase since early July. This significant investment aligns with Lee's prediction that the cryptocurrency's recent 30% weekly rally could indicate a larger market movement ahead.",
-    "importance": 8,
-    "classified": true
-  },
-  {
-    "title": "New Solana vote could ramp daily SOL burns to $800,000 and slow new token creation",
-    "link": "https://www.coindesk.com/tech/2026/08/24/new-solana-vote-could-ramp-daily-sol-burns-to-usd800-000-and-slow-new-token-creation",
-    "pubDate": "Mon, 24 Aug 2026 12:52:30 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "Two of the three proposals would reduce SOL supply growth by speeding up Solana’s inflation decline and raising daily fee burns from about 650 SOL to as much as 9,000 SOL.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/9a77266875bd5ba03807c057c4d6412491668d63-3622x2717.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "New proposals for the Solana blockchain aim to significantly increase the daily SOL burn rate from approximately 650 to as much as 9,000 SOL. These changes would also accelerate the decline in Solana's inflation, thereby reducing the growth of the SOL supply and potentially slowing new token creation.",
     "importance": 8,
     "classified": true
   },
@@ -452,18 +440,6 @@
     "content": "Bitcoin Magazine\n\nUS Opens a New Front Against Iran’s Crypto Economy\nIran has been using Bitcoin to dodge sanctions. The Department of the Treasury wants to shut it off from the crypto economy. \nThis post US Opens a New Front Against Iran’s Crypto Economy first appeared on Bitcoin Magazine and is written by Mathew Di Salvo.",
     "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/08/US-Opens-a-New-Front-Against-Irans-Crypto-Economy.jpg",
     "summary": "The U.S. Treasury Department is taking steps to block Iran from accessing the cryptocurrency economy as part of efforts to enforce sanctions. Iran has reportedly used Bitcoin to bypass economic restrictions, prompting new regulatory measures.",
-    "importance": 8,
-    "classified": true
-  },
-  {
-    "title": "Legendary Investor Ray Dalio Touts Bitcoin — With Gold — To Hedge Against Incoming Debt Crisis",
-    "link": "https://bitcoinmagazine.com/news/ray-dalio-touts-bitcoin",
-    "pubDate": "Fri, 21 Aug 2026 20:14:52 +0000",
-    "source": "Bitcoin Magazine",
-    "category": "both",
-    "content": "Bitcoin Magazine\n\nLegendary Investor Ray Dalio Touts Bitcoin — With Gold — To Hedge Against Incoming Debt Crisis\nBridgewater Associates founder Ray Dalio has said Bitcoin will do well with government money printing. \nThis post Legendary Investor Ray Dalio Touts Bitcoin — With Gold — To Hedge Against Incoming Debt Crisis first appeared on Bitcoin Magazine and is written by Mathew Di Salvo.",
-    "image": "https://bitcoinmagazine.com/wp-content/uploads/2025/11/Ray-Dalio-Reaffirms-Bitcoin-Skepticism-Says-He-Still-Holds-Just-1-Allocation.jpg",
-    "summary": "Legendary investor Ray Dalio suggests Bitcoin and gold as hedges against an impending debt crisis, highlighting Bitcoin's potential to thrive amid government money printing. The Bridgewater Associates founder emphasizes the need for alternative assets to counter economic instability.",
     "importance": 8,
     "classified": true
   },
@@ -756,18 +732,6 @@
     "classified": true
   },
   {
-    "title": "Twitch content has trained Amazon AI for years, but users can opt out now",
-    "link": "https://arstechnica.com/ai/2026/08/twitch-content-has-trained-amazon-ai-for-years-but-users-can-opt-out-now/",
-    "pubDate": "Wed, 12 Aug 2026 21:00:30 +0000",
-    "source": "Ars Technica AI",
-    "category": "ai",
-    "content": "Streaming platform says user-generated content \"may be used for future Gen AI model improvements.\"",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2286491305-1024x648.jpg",
-    "summary": "Twitch has been using user-generated content to train Amazon's AI models, but users can now opt out of this practice, with the platform noting that the content may be used for future general AI model improvements. This development highlights the connection between online platforms and AI development. The opt-out option gives users more control over their data.",
-    "importance": 8,
-    "classified": true
-  },
-  {
     "title": "Bitwise turns Coinbase's tokenized stocks into automated AI, robotics and tech portfolios",
     "link": "https://www.coindesk.com/business/2026/08/25/bitwise-turns-coinbase-s-tokenized-stocks-into-automated-ai-robotics-and-tech-portfolios",
     "pubDate": "Tue, 25 Aug 2026 14:50:22 +0000",
@@ -848,6 +812,18 @@
     "content": "Analysts say consolidation could strengthen bitcoin’s rally, while thin trading above $80,000 may set up sharper price moves.",
     "image": "https://cdn.sanity.io/images/s3y3vcno/production/161a271835d8a7768de21a1322b974c52bc6ec6a-6957x4558.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
     "summary": "Bitcoin is nearing the $80,000 mark, and analysts are emphasizing the significance of its upcoming pullback. They suggest that market consolidation could bolster Bitcoin's rally, whereas thin trading volumes above $80,000 might lead to more volatile price fluctuations.",
+    "importance": 7,
+    "classified": true
+  },
+  {
+    "title": "World Liberty Financial launches USD1 natively on Canton Network",
+    "link": "https://cointelegraph.com/news/world-liberty-financial-launches-usd1-natively-on-canton-network?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Tue, 25 Aug 2026 20:35:10 +0000",
+    "source": "Cointelegraph",
+    "category": "crypto",
+    "content": "USD1 is the sixth-largest stablecoin, with a market capitalization of more than $4 billion, according to industry data.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-company-wants-to-launch-digital-currency-bank-stablecoin-eu.png",
+    "summary": "World Liberty Financial has launched USD1, a stablecoin with over $4 billion in market capitalization, natively on the Canton Network, a blockchain-based platform. This move aims to enhance interoperability and scalability for the stablecoin within decentralized finance (DeFi) ecosystems.",
     "importance": 7,
     "classified": true
   },
@@ -1008,14 +984,14 @@
     "classified": true
   },
   {
-    "title": "Bitmine extends 14-month ETH buying pace as Ether breaks above $2.5K",
-    "link": "https://cointelegraph.com/news/bitmine-eth-holdings-5-percent-ether-price-breakout?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Mon, 24 Aug 2026 15:29:26 +0000",
-    "source": "Cointelegraph",
-    "category": "crypto",
-    "content": "Ether’s breakout above $2,500 has put the spotlight back on corporate ETH treasuries, with Bitmine now nearing its long-stated accumulation target.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-how-to-buy-ethereum-with-bitmine-3.jpg",
-    "summary": "Ether (ETH) has broken above $2,500, bringing corporate ETH treasuries back into focus. Bitmine is continuing its 14-month buying pace and is nearing its long-stated Ether accumulation target.",
+    "title": "ZRO token surges as LayerZero unveils ATLAS exchange infrastructure built on Zero blockchain",
+    "link": "https://www.theblock.co/news/ecosystems/2026-08-25-zro-token-layerzero-atlas-exchange-infrastructure-zero-blockchain-412736",
+    "pubDate": "Tue, 25 Aug 2026 18:41:50 +0000",
+    "source": "The Block",
+    "category": "both",
+    "content": "LayerZero has announced ATLAS, new exchange infrastructure built on its Zero blockchain for trading platforms and financial institutions.",
+    "image": "https://www.tbstat.com/wp/uploads/2024/05/layerzero-1200x675.jpeg",
+    "summary": "LayerZero introduced ATLAS, a new exchange infrastructure built on its Zero blockchain, enabling trading platforms and financial institutions to leverage its capabilities. The ZRO token experienced a significant surge following this announcement.",
     "importance": 7,
     "classified": true
   },
@@ -1152,14 +1128,14 @@
     "classified": true
   },
   {
-    "title": "Fasset reaches unicorn status after $68 million raise led by SBI Group",
-    "link": "https://www.theblock.co/news/business/2026-08-24-fasset-68-million-raise-sbi-group-412563",
-    "pubDate": "Mon, 24 Aug 2026 07:56:44 +0000",
-    "source": "The Block",
+    "title": "Kraken Says ‘Dust Attack’ From Sanctioned HTX Wallet Locked Out Customers",
+    "link": "https://bitcoinmagazine.com/news/kraken-says-users-were-dust-attacked",
+    "pubDate": "Tue, 25 Aug 2026 19:27:12 +0000",
+    "source": "Bitcoin Magazine",
     "category": "crypto",
-    "content": "Fasset raised $68 million in Series C funding at a $1 billion valuation, expanding its cross-border stablecoin infrastructure.",
-    "image": "https://www.tbstat.com/wp/uploads/2025/04/20250411_Funding_News_3-1200x675.jpg",
-    "summary": "Fasset, a company focused on cross-border stablecoin infrastructure, achieved unicorn status after raising $68 million in a Series C funding round led by SBI Group, valuing the company at $1 billion.",
+    "content": "Bitcoin Magazine\n\nKraken Says ‘Dust Attack’ From Sanctioned HTX Wallet Locked Out Customers\nSomeone has sent crypto dust from sanctioned HTX to Kraken users. \nThis post Kraken Says ‘Dust Attack’ From Sanctioned HTX Wallet Locked Out Customers first appeared on Bitcoin Magazine and is written by Mathew Di Salvo.",
+    "image": "https://bitcoinmagazine.com/wp-content/uploads/2025/06/Kraken-Launches-Krak-a-No-Fee-App-to-Use-and-Store-Bitcoin-and-Crypto.jpg",
+    "summary": "Kraken reported that a 'dust attack' involving crypto sent from a sanctioned HTX wallet locked out some of its customers. The attack involved small amounts of cryptocurrency sent to Kraken users, disrupting their access.",
     "importance": 7,
     "classified": true
   },
@@ -1224,62 +1200,38 @@
     "classified": true
   },
   {
-    "title": "Smart Money Helping Support Bitcoin Rebound, Says Pantera Capital",
-    "link": "https://bitcoinmagazine.com/news/pantera-capital-says-bitcoin-to-go-higher",
-    "pubDate": "Fri, 21 Aug 2026 21:52:26 +0000",
-    "source": "Bitcoin Magazine",
-    "category": "crypto",
-    "content": "Bitcoin Magazine\n\nSmart Money Helping Support Bitcoin Rebound, Says Pantera Capital\nPantera Capital's portfolio manager has said it's hard not to be bullish with bitcoin's recent price surges. \nThis post Smart Money Helping Support Bitcoin Rebound, Says Pantera Capital first appeared on Bitcoin Magazine and is written by Mathew Di Salvo.",
-    "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/08/Smart-Money-Helping-Support-Bitcoin-Rebound-Says-Pantera-Capital.jpg",
-    "summary": "Pantera Capital's portfolio manager expresses optimism about Bitcoin's recent price recovery, attributing the rebound to support from 'smart money' investors. The article highlights growing confidence in Bitcoin's market momentum despite recent volatility.",
-    "importance": 7,
-    "classified": true
-  },
-  {
-    "title": "I spent a day at a robot “carnival” in Shanghai. Here’s what I saw.",
-    "link": "https://www.technologyreview.com/2026/08/25/1141907/dispatch-shanghai-humanoid-robot-carnival/",
-    "pubDate": "Tue, 25 Aug 2026 09:00:00 +0000",
+    "title": "Taking your temperature from the inside",
+    "link": "https://www.technologyreview.com/2026/08/25/1140952/taking-your-temperature-from-the-inside/",
+    "pubDate": "Tue, 25 Aug 2026 21:00:00 +0000",
     "source": "MIT Technology Review",
     "category": "ai",
-    "content": "Humanoid robots are having a moment in China. The popular machines are part of the country’s strategy to bring artificial intelligence into daily life. Embedding the technology into physical systems—an idea called embodied AI—was a key facet of China’s latest five-year plan, and companies here are already world leaders in humanoids. Nearly 90% of the…",
-    "image": "https://wp.technologyreview.com/wp-content/uploads/2026/08/map.jpg?w=840",
-    "summary": "The article details a robot carnival in Shanghai, showcasing China's strong emphasis on humanoid robots and embodied AI as a national strategy to integrate artificial intelligence into daily life. Chinese companies are highlighted as world leaders in this field.",
-    "importance": 7,
-    "classified": true
-  },
-  {
-    "title": "Kids outlearn AI—and we still don’t know why",
-    "link": "https://www.technologyreview.com/2026/08/24/1141740/kids-machines-language-learning/",
-    "pubDate": "Mon, 24 Aug 2026 09:00:00 +0000",
-    "source": "MIT Technology Review",
-    "category": "ai",
-    "content": "People have been talking to each other for at least 100,000 years, as best we can tell. And in all that time, there has been only one thing in the world that could learn a human language to perfect fluency: a human child.  Now there are two.  Four short years after the release of ChatGPT,…",
-    "image": "https://wp.technologyreview.com/wp-content/uploads/2026/08/2_Mobile.jpg?w=840",
-    "summary": "A recent study suggests that children outperform AI models in learning human language, despite AI's rapid advancements. The article highlights the persistent gap between AI and human learning capabilities, particularly in language acquisition.",
-    "importance": 7,
-    "classified": true
-  },
-  {
-    "title": "The Download: threats from space mirrors and credit for AI drugs",
-    "link": "https://www.technologyreview.com/2026/08/21/1142762/the-download-space-mirrors-threats-ai-designed-drugs-credit/",
-    "pubDate": "Fri, 21 Aug 2026 12:10:00 +0000",
-    "source": "MIT Technology Review",
-    "category": "both",
-    "content": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. This company’s plans to deploy space mirrors could jeopardize the night sky for many A company that plans to beam sunlight from space to Earth on demand might unintentionally brighten the…",
-    "image": "https://wp.technologyreview.com/wp-content/uploads/2025/12/SB1-top_3.jpg?fit=3840,2560",
-    "summary": "A company's plan to deploy space mirrors to beam sunlight to Earth on demand could unintentionally brighten the night sky, posing threats to astronomy and ecosystems. Additionally, the article mentions advancements in AI-driven drug discovery.",
-    "importance": 7,
-    "classified": true
-  },
-  {
-    "title": "When AI designs a drug, who gets the credit?",
-    "link": "https://www.technologyreview.com/2026/08/21/1142627/when-ai-designs-a-drug-who-gets-the-credit/",
-    "pubDate": "Fri, 21 Aug 2026 09:00:00 +0000",
-    "source": "MIT Technology Review",
-    "category": "ai",
-    "content": "When the biotech company Insilico Medicine used its computer models to propose a promising drug for pulmonary fibrosis, it enthusiastically claimed in a press release that the molecule had been “discovered by” its generative AI platform. Insilico leads a pack of companies using AI to rapidly come up with drug ideas humans might never think…",
+    "content": "Oral and forehead thermometers may not accurately capture a person’s core body temperature, and the few ingestible temperature sensors on the market are so big they are hard to swallow and risk obstructing the GI tract. But MIT engineers created one that can send continuous temperature updates at a size of just six by four…",
     "image": "",
-    "summary": "Insilico Medicine claims its generative AI platform discovered a promising drug for pulmonary fibrosis, highlighting AI's role in drug discovery. The company argues that AI can propose molecules humans might overlook, raising questions about credit and innovation in biotechnology.",
+    "summary": "MIT engineers developed a small ingestible temperature sensor that can send continuous core body temperature updates, addressing issues with traditional oral/forehead thermometers and larger existing ingestible sensors that pose GI tract obstruction risks.",
+    "importance": 7,
+    "classified": true
+  },
+  {
+    "title": "Your brain on AI",
+    "link": "https://www.technologyreview.com/2026/08/25/1140958/your-brain-on-ai/",
+    "pubDate": "Tue, 25 Aug 2026 21:00:00 +0000",
+    "source": "MIT Technology Review",
+    "category": "ai",
+    "content": "Many people find AI-based chatbots helpful in keeping up with news, but a study by Pattie Maes and her colleagues at the MIT Media Lab points to a big problem with this strategy.  Participants who evaluated paired news headlines and images over the course of four weeks were initially 21% percent more accurate at telling…",
+    "image": "",
+    "summary": "A study by MIT Media Lab researchers found that people using AI chatbots to stay informed on news were initially 21% more accurate in evaluating headlines and images, but the research also highlights a significant drawback to relying on AI for news consumption.",
+    "importance": 7,
+    "classified": true
+  },
+  {
+    "title": "Stability AI, maker of image generator Stable Diffusion, raises $76 million in fresh funding",
+    "link": "https://techcrunch.com/2026/08/25/stability-ai-maker-of-image-generator-stable-diffusion-raises-76-million-in-fresh-funding/",
+    "pubDate": "Tue, 25 Aug 2026 19:03:47 +0000",
+    "source": "TechCrunch AI",
+    "category": "ai",
+    "content": "The company's new fundraising total now stands at $232 million.",
+    "image": "",
+    "summary": "Stability AI, the developer behind the popular AI image generator Stable Diffusion, has secured an additional $76 million in funding, bringing its total to $232 million. This investment underscores growing investor confidence in AI-driven creative tools.",
     "importance": 7,
     "classified": true
   },
@@ -1454,7 +1406,7 @@
   {
     "title": "Here’s what happened in crypto today",
     "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Tue, 25 Aug 2026 13:19:39 +0000",
+    "pubDate": "Tue, 25 Aug 2026 18:34:20 +0000",
     "source": "Cointelegraph",
     "category": "crypto",
     "content": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
@@ -1500,6 +1452,30 @@
     "classified": true
   },
   {
+    "title": "Is Bitcoin Out of Its Bear Market? These Analysts Think So",
+    "link": "https://bitcoinmagazine.com/news/is-bitcoin-out-of-bear-market",
+    "pubDate": "Tue, 25 Aug 2026 20:51:18 +0000",
+    "source": "Bitcoin Magazine",
+    "category": "crypto",
+    "content": "Bitcoin Magazine\n\nIs Bitcoin Out of Its Bear Market? These Analysts Think So\nBitcoin is doing what it has done in previous cycles when it has entered a bull market. \nThis post Is Bitcoin Out of Its Bear Market? These Analysts Think So first appeared on Bitcoin Magazine and is written by Mathew Di Salvo.",
+    "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/08/is-bitcoin-out-of-bear-market-cryptoquant.jpg",
+    "summary": "Analysts suggest Bitcoin may have exited its bear market phase, pointing to historical patterns that typically precede a bull market. The article from Bitcoin Magazine highlights Bitcoin's current behavior as similar to past cycles.",
+    "importance": 6,
+    "classified": true
+  },
+  {
+    "title": "Bitcoin Breakout Could Be Around the Corner as Asset Is No Longer Oversold: Fairlead Strategies’ Katie Stockton",
+    "link": "https://bitcoinmagazine.com/news/bitcoin-no-longer-oversold",
+    "pubDate": "Tue, 25 Aug 2026 20:21:05 +0000",
+    "source": "Bitcoin Magazine",
+    "category": "crypto",
+    "content": "Bitcoin Magazine\n\nBitcoin Breakout Could Be Around the Corner as Asset Is No Longer Oversold: Fairlead Strategies’ Katie Stockton\nBitcoin is no longer oversold but there’s still time to buy, according to Fairlead Strategies’ Katie Stockton.  Speaking on Tuesday to CNBC, the financial research firm’s managing partner said that Bitcoin cleared its 200-day moving average back in May, meaning that a potential breakout could be coming.  Bitcoin started rallying last week on news that […]\nThis post Bitcoin Breakout Could Be Around the Corner as Asset Is No Longer Oversold: Fairlead Strategies’ Katie Stockton first appeared on Bitcoin Magazine and is written by Mathew Di Salvo.",
+    "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/08/Bitcoin-Breakout-Could-Be-Around-the-Corner-as-Asset.jpg",
+    "summary": "Bitcoin is no longer oversold and may experience a breakout soon, according to Fairlead Strategies’ Katie Stockton, who noted it cleared its 200-day moving average in May. The asset’s recent rally follows positive news, signaling potential upward momentum.",
+    "importance": 6,
+    "classified": true
+  },
+  {
     "title": "Cypher Tank Returns to Lugano, Expanding Its Bet on Bitcoin Founders",
     "link": "https://bitcoinmagazine.com/news/cypher-tank-bitcoin-event-returns",
     "pubDate": "Tue, 25 Aug 2026 02:00:32 +0000",
@@ -1512,26 +1488,38 @@
     "classified": true
   },
   {
-    "title": "The Download: smarter AI in schools, and a robot “carnival” in Shanghai",
-    "link": "https://www.technologyreview.com/2026/08/25/1142909/the-download-smarter-ai-in-schools-robot-carnival-shanghai/",
-    "pubDate": "Tue, 25 Aug 2026 12:10:00 +0000",
+    "title": "AgeLab research inspires an A I startup",
+    "link": "https://www.technologyreview.com/2026/08/25/1140917/agelab-research-inspires-an-a-i-startup/",
+    "pubDate": "Tue, 25 Aug 2026 21:00:00 +0000",
     "source": "MIT Technology Review",
     "category": "ai",
-    "content": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. How to encourage smarter AI use in the classroom Chatbots took schools by surprise. Suddenly, students carried an app in their phones that could magically answer almost any homework question or…",
-    "image": "https://wp.technologyreview.com/wp-content/uploads/2026/03/Clones-3.jpg?w=840",
-    "summary": "The article discusses the integration of AI tools like chatbots in schools, highlighting their potential to assist with homework and educational tasks. It also mentions a robot 'carnival' event in Shanghai showcasing advanced robotic technology.",
+    "content": "When Don Yansen ’63 arrived at the MIT AgeLab for a study on technology in care­giving for older adults, he didn’t plan to launch another company. But when he heard participants talk about how hard modern devices can be to use, he decided to develop an alternative. Yansen, a serial entrepreneur who retired to care for…",
+    "image": "",
+    "summary": "MIT AgeLab research inspired serial entrepreneur Don Yansen to launch an AI startup focused on simplifying technology for older adults after observing their struggles with modern devices during a caregiving study.",
     "importance": 6,
     "classified": true
   },
   {
-    "title": "How to encourage smarter AI use in the classroom",
-    "link": "https://www.technologyreview.com/2026/08/24/1142630/ai-school-classroom-policies/",
-    "pubDate": "Mon, 24 Aug 2026 14:20:19 +0000",
+    "title": "Amping up T cells to target cancer",
+    "link": "https://www.technologyreview.com/2026/08/25/1140949/amping-up-t-cells-to-target-cancer/",
+    "pubDate": "Tue, 25 Aug 2026 21:00:00 +0000",
     "source": "MIT Technology Review",
     "category": "ai",
-    "content": "This article is from Making AI Work, MIT Technology Review’s limited-run newsletter examining how to apply LLMs across industries. To receive it in your inbox, sign up here. Chatbots took many schools by surprise upon their release a few years ago. Suddenly, students carried an app in their phones that could magically answer almost any…",
+    "content": "Vaccines that turn the body’s immune system against tumors have shown promise in clinical trials, and a handful have been FDA approved for certain cancers. In many patients, however, these vaccines don’t stimulate enough of a response, and the approach some researchers have taken to strengthening it—delivering the vaccine along with immune-stimulating molecules called cytokines—can…",
     "image": "",
-    "summary": "The article discusses strategies to promote responsible and effective use of AI tools, like chatbots, in educational settings. It highlights the challenges schools face in integrating AI into classrooms after its rapid adoption by students.",
+    "summary": "Researchers are enhancing cancer vaccines by combining them with immune-stimulating cytokines to boost T cell responses against tumors. While some cancer vaccines have received FDA approval, many patients still see limited effectiveness due to insufficient immune activation.",
+    "importance": 6,
+    "classified": true
+  },
+  {
+    "title": "Seeing through murky waters",
+    "link": "https://www.technologyreview.com/2026/08/25/1140955/seeing-through-murky-waters/",
+    "pubDate": "Tue, 25 Aug 2026 21:00:00 +0000",
+    "source": "MIT Technology Review",
+    "category": "ai",
+    "content": "When remotely operated vehicles settle on the seafloor or dig through a sand bed, they can kick up clouds of sediment that onboard cameras struggle to see through. Often, the only thing to do is wait until the dust settles. But a new system developed by Amy Phung, SM ’23, PhD ’26, and her advisor…",
+    "image": "",
+    "summary": "Researchers have developed a new system using AI to improve visibility for underwater cameras in murky conditions by reducing sediment interference. This innovation could enhance the effectiveness of remotely operated vehicles in underwater exploration and research.",
     "importance": 6,
     "classified": true
   },
@@ -1544,42 +1532,6 @@
     "content": "Bitcoin bulls battled for control of the $80,000 zone as gold came off its highest levels since mid-May on falling US bond yields.",
     "image": "https://s3-images.ctmedia.io/media/article-covers/crypto-bitcoin-btc-price.jpg",
     "summary": "Bitcoin struggled to maintain its position above $80,000 as gold prices declined following a drop in US bond yields. The market saw increased volatility as investors adjusted to shifting economic signals.",
-    "importance": 5,
-    "classified": true
-  },
-  {
-    "title": "Art and algorithms at Sotheby’s",
-    "link": "https://www.technologyreview.com/2026/08/25/1140908/art-and-algorithms-at-sothebys/",
-    "pubDate": "Tue, 25 Aug 2026 18:00:00 +0000",
-    "source": "MIT Technology Review",
-    "category": "ai",
-    "content": "Do fine art and high tech ever converge? At Sotheby’s they do, thanks to Kelly Shen ’17. Shen works in the growing field of art intelligence for the New York auction house. Shen builds algorithms to predict prices, using factors like buying trends and artists’ popularity. She has also worked on such efforts as cataloguing…",
-    "image": "",
-    "summary": "Sotheby's employs Kelly Shen '17 to develop AI algorithms for predicting fine art prices by analyzing trends and artist popularity. The role highlights the convergence of art and technology in the auction house's operations.",
-    "importance": 5,
-    "classified": true
-  },
-  {
-    "title": "Welcome to the spiderverse, a world measured through webs",
-    "link": "https://www.technologyreview.com/2026/08/25/1141750/welcome-to-spiderverse-arachnid-webs/",
-    "pubDate": "Tue, 25 Aug 2026 09:00:00 +0000",
-    "source": "MIT Technology Review",
-    "category": "ai",
-    "content": "Counting the creatures in the world around us is critical for a raft of conservation efforts. It helps scientists gauge biodiversity, track migration, and spot invasive species. That census-taking, though, often requires humans to tabulate what they see, trap, or otherwise sense—a potentially laborious, costly process that can still leave gaps. But developments over the…",
-    "image": "",
-    "summary": "The article emphasizes the critical role of counting creatures for conservation efforts, such as gauging biodiversity and tracking species. It highlights the challenges of traditional, human-centric census methods, which are often laborious, costly, and prone to gaps, hinting at new developments designed to improve these processes.",
-    "importance": 5,
-    "classified": true
-  },
-  {
-    "title": "The Download: kids outlearning AI, and space travel agents",
-    "link": "https://www.technologyreview.com/2026/08/24/1142863/the-download-kids-outlearning-ai-space-travel-agents/",
-    "pubDate": "Mon, 24 Aug 2026 12:10:00 +0000",
-    "source": "MIT Technology Review",
-    "category": "ai",
-    "content": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Kids outlearn AI—and we still don’t know why Teaching a computer to use human language requires an inhuman amount of data. An LLM can easily churn through a hundred thousand times…",
-    "image": "https://wp.technologyreview.com/wp-content/uploads/2026/01/Small-Reactor-Tablet-top.jpg?fit=2880,1920",
-    "summary": "Children are outperforming AI in learning tasks, with the reasons behind this phenomenon still unclear. The article also touches on advancements in space travel technology.",
     "importance": 5,
     "classified": true
   },
@@ -1608,14 +1560,26 @@
     "classified": true
   },
   {
-    "title": "Strategy Again Skips Bitcoin Buy And Establishes USD Cash Dollar Reserve ",
-    "link": "https://bitcoinmagazine.com/news/strategy-establishes-new-usd-cash-reserve",
-    "pubDate": "Mon, 24 Aug 2026 14:48:17 +0000",
-    "source": "Bitcoin Magazine",
-    "category": "crypto",
-    "content": "Bitcoin Magazine\n\nStrategy Again Skips Bitcoin Buy And Establishes USD Cash Dollar Reserve \nStrategy went another week without buying or selling bitcoin but has a new pool of cash. \nThis post Strategy Again Skips Bitcoin Buy And Establishes USD Cash Dollar Reserve  first appeared on Bitcoin Magazine and is written by Mathew Di Salvo.",
-    "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/06/Strategy-MSTR-Sells-Bitcoin-for-First-Time-in-Years-as-Bitcoin-Price-Tumbles.jpg",
-    "summary": "Strategy, a Bitcoin-focused investment vehicle, did not purchase or sell any Bitcoin this week but instead established a new cash reserve denominated in USD. This marks a shift in its allocation strategy, prioritizing liquidity over immediate Bitcoin exposure.",
+    "title": "Addressing a sticking point in sustainable adhesives",
+    "link": "https://www.technologyreview.com/2026/08/25/1140902/addressing-a-sticking-point-in-sustainable-adhesives/",
+    "pubDate": "Tue, 25 Aug 2026 21:00:00 +0000",
+    "source": "MIT Technology Review",
+    "category": "ai",
+    "content": "Petroleum-based adhesives are everywhere: bonding the wood and drywall in a construction project, holding together the joints of furniture, and even sticking labels to otherwise recyclable containers.  “The labels on a container are held up with petroleum-based glue. And because of that, even though you’re putting the container in the recycle bin, it will not…",
+    "image": "",
+    "summary": "The article discusses the environmental issues caused by petroleum-based adhesives, which are widely used in construction, furniture, and packaging. These adhesives prevent recyclable materials from being properly recycled due to contamination.",
+    "importance": 4,
+    "classified": true
+  },
+  {
+    "title": "MIT tech powered the Artemis II livestreams",
+    "link": "https://www.technologyreview.com/2026/08/25/1140961/mit-tech-powered-the-artemis-ii-livestreams/",
+    "pubDate": "Tue, 25 Aug 2026 21:00:00 +0000",
+    "source": "MIT Technology Review",
+    "category": "ai",
+    "content": "During the original US missions to the moon in the 1960s and ’70s, astronauts relied on radio-­frequency systems to communicate, sending grainy, low-quality images and videos to Earth. But on the Artemis II Orion mission in April, spacecraft transmitted crystal-clear footage at speeds on par with those of home internet connections.  The livestreams so many…",
+    "image": "",
+    "summary": "The Artemis II Orion mission in April showcased high-quality livestreams with internet-like speeds, a stark contrast to the grainy transmissions of the 1960s Apollo missions. This advancement was powered by technology developed at MIT.",
     "importance": 4,
     "classified": true
   },
@@ -1656,6 +1620,18 @@
     "classified": true
   },
   {
+    "title": "World humanoid robot games show runners breaking records, bursting into flames",
+    "link": "https://arstechnica.com/ai/2026/08/world-humanoid-robot-games-show-runners-breaking-records-bursting-into-flames/",
+    "pubDate": "Tue, 25 Aug 2026 20:59:03 +0000",
+    "source": "Ars Technica AI",
+    "category": "ai",
+    "content": "Record-breaking robot races are less substantial than household chore challenges.",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/World-Humanoid-Robot-Games-2026-1152x648.jpg",
+    "summary": "A news article highlights record-breaking humanoid robot races, which are compared to household chore challenges. The event also mentions robots bursting into flames during the competition.",
+    "importance": 4,
+    "classified": true
+  },
+  {
     "title": "Former SpaceX engineers are building a robotic factory for making steel parts",
     "link": "https://arstechnica.com/ai/2026/08/former-spacex-engineers-are-building-a-robotic-factory-for-making-steel-parts/",
     "pubDate": "Mon, 17 Aug 2026 21:18:49 +0000",
@@ -1677,6 +1653,30 @@
     "image": "",
     "summary": "Linkdaze has launched a smart digital calendar designed for household management, featuring an AI meal planner tool. All of the calendar's features are notable for being available without a paywall.",
     "importance": 3,
+    "classified": true
+  },
+  {
+    "title": "Launching youth entrepreneurship",
+    "link": "https://www.technologyreview.com/2026/08/25/1140911/launching-youth-entrepreneurship/",
+    "pubDate": "Tue, 25 Aug 2026 21:00:00 +0000",
+    "source": "MIT Technology Review",
+    "category": "ai",
+    "content": "Even as a teenager, Laurie Stach ’06 says, she had a “crazy ambition to take on the world and solve problems.” At MIT, she realized she wasn’t the only one. “Adults always see these youth who are good at math and science and say, ‘You’re going to do great things—someday,’” says Stach. “Meanwhile, traditional education…",
+    "image": "",
+    "summary": "Laurie Stach, a 2006 MIT graduate, shares her early ambition to solve global problems and highlights the untapped potential of youth in entrepreneurship. She critiques traditional education for underestimating young innovators.",
+    "importance": 2,
+    "classified": true
+  },
+  {
+    "title": "A new stamp on cyberfraud prevention",
+    "link": "https://www.technologyreview.com/2026/08/25/1140914/a-new-stamp-on-cyberfraud-prevention/",
+    "pubDate": "Tue, 25 Aug 2026 21:00:00 +0000",
+    "source": "MIT Technology Review",
+    "category": "ai",
+    "content": "For Rupert Young ’95, SM ’95, his career in data science and cybersecurity began when his grandfather gifted him thousands of stamps: He built intricate databases to catalogue them, displaying the “precise eye” for detail and nuance that his MIT application essay said would make him a good engineer. Young is now chief product officer…",
+    "image": "",
+    "summary": "Rupert Young '95, a data science and cybersecurity expert, reflects on how his early passion for stamp collecting led to his career in cyberfraud prevention. Now serving as chief product officer, he emphasizes the importance of precision and attention to detail in his work.",
+    "importance": 2,
     "classified": true
   },
   {
@@ -1704,14 +1704,14 @@
     "classified": true
   },
   {
-    "title": "Mother tongue",
-    "link": "https://www.technologyreview.com/2026/08/21/1141726/mother-tongue-fiction/",
-    "pubDate": "Fri, 21 Aug 2026 09:00:00 +0000",
+    "title": "YouTuber finds niche as college admissions mentor",
+    "link": "https://www.technologyreview.com/2026/08/25/1140905/youtuber-finds-niche-as-college-admissions-mentor/",
+    "pubDate": "Tue, 25 Aug 2026 21:00:00 +0000",
     "source": "MIT Technology Review",
     "category": "ai",
-    "content": "“Daddy?” Theo curled against my side in bed. “Where do words go when they die?” I’d orchestrated the bedtime routine flawlessly: bath (taken), teeth (brushed), potty (tinkled), books (two), song (one, poorly sung), and snuggle (his chin on my second rib). Now was the moment when our son’s eyelids were supposed to flutter gently closed,…",
+    "content": "As a first-generation student from a small town, Gohar Khan ’21 had to navigate the college admissions process largely on his own. He founded his YouTube channel, Gohar’s Guide, to make things easier for other young people. Today, more than 10 million people follow Khan on social media for college application advice, study tips, and…",
     "image": "",
-    "summary": "The article is a personal narrative about a child asking a profound question about the nature of words and their existence after being used. It reflects on the emotional and cognitive development of a young child during bedtime.",
+    "summary": "A first-generation college student turned YouTuber into a successful college admissions mentor, amassing over 10 million followers by sharing study tips and application advice. His channel, Gohar’s Guide, aims to simplify the admissions process for others.",
     "importance": 1,
     "classified": true
   },
