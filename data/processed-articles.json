@@ -12,30 +12,6 @@
     "classified": true
   },
   {
-    "title": "Regulation Crypto is here: State of Crypto ",
-    "link": "https://www.coindesk.com/policy/2026/08/23/regulation-crypto-is-here-state-of-crypto",
-    "pubDate": "Sun, 23 Aug 2026 18:30:00 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "The SEC published its Reg Crypto proposal last week, giving the public 60 days to comment.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/eb8dcd6a8ff7a00d092a7e659c13193ec9cd42ea-1920x1080.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "The SEC has recently published its \"Reg Crypto\" proposal, initiating a 60-day public comment period. This move signals a significant step towards formal regulation in the cryptocurrency space, directly impacting the industry.",
-    "importance": 9,
-    "classified": true
-  },
-  {
-    "title": "Crypto card spending tops $1 billion as stablecoins move into everyday purchases",
-    "link": "https://www.coindesk.com/business/2026/08/23/crypto-card-spending-tops-usd1-billion-as-stablecoins-move-into-everyday-purchases",
-    "pubDate": "Sun, 23 Aug 2026 15:00:00 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "Tracked card volume more than tripled in a year, with USDC and USDT funding over 70% of spending as users increasingly paid for groceries, rides and subscriptions.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/da5caf65adc295012880cf200ddf9e937f2db11c-1920x1282.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "Crypto card spending has surpassed $1 billion, more than tripling in the past year. Stablecoins like USDC and USDT funded over 70% of these transactions, indicating a significant shift towards using crypto for everyday purchases such as groceries and subscriptions.",
-    "importance": 9,
-    "classified": true
-  },
-  {
     "title": "Term Finance loses estimated $8.5M in vault governance exploit",
     "link": "https://cointelegraph.com/news/term-finance-8-5m-vault-governance-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "pubDate": "Mon, 24 Aug 2026 03:59:29 +0000",
@@ -212,6 +188,18 @@
     "content": "Bitcoin holds above $77,000 after a 21% week, with XRP up 46% over the same stretch. Asian stocks fell as Samsung and Alibaba slid.",
     "image": "https://cdn.sanity.io/images/s3y3vcno/production/e5f2293daa4cfa05aaf86ac4348f5596cdb79730-1516x852.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
     "summary": "Bitcoin has maintained its position above $77,000 following a substantial 21% weekly rally, while XRP saw an even greater surge of 46% over the same period. This crypto market strength contrasts with declines in Asian stock markets, where Samsung and Alibaba shares fell.",
+    "importance": 8,
+    "classified": true
+  },
+  {
+    "title": "US targets Iran’s crypto sector, cites over $100M in oil-linked payments ",
+    "link": "https://cointelegraph.com/news/us-targets-iran-crypto-sector-100m-oil-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Tue, 25 Aug 2026 05:29:29 +0000",
+    "source": "Cointelegraph",
+    "category": "crypto",
+    "content": "The US Treasury expanded sanctions to Iran’s digital asset sector, alleging a UAE-based broker processed over $100 million in crypto for oil sales.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-crypto-users-in-iran-sanctions.png",
+    "summary": "The US Treasury imposed sanctions on Iran’s cryptocurrency sector, accusing a UAE-based broker of facilitating over $100 million in crypto transactions linked to oil sales. The move targets Iran’s efforts to bypass sanctions using digital assets.",
     "importance": 8,
     "classified": true
   },
@@ -744,6 +732,30 @@
     "classified": true
   },
   {
+    "title": "Bitcoin traders place $2.9 million bet on a rapid price jump above $82,000",
+    "link": "https://www.coindesk.com/markets/2026/08/25/bitcoin-traders-place-usd2-9-million-bet-on-a-rapid-price-jump-above-usd82-000",
+    "pubDate": "Tue, 25 Aug 2026 05:51:52 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "Traders are spending millions to position for further Bitcoin upside after its staggering rally to $80,000, though demand for downside protection remains firm, according to Laevitas.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/182de5fa38718c7d7513c132ebd58b4ad7663cc9-6016x4000.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "Bitcoin traders have placed $2.9 million in bets on a rapid price surge above $82,000, following Bitcoin's rally to $80,000. Despite this optimism, demand for downside protection remains strong, indicating mixed market sentiment.",
+    "importance": 7,
+    "classified": true
+  },
+  {
+    "title": "Bitcoin tops $80,000, solana jumps 8% but rally now runs into overbought warning",
+    "link": "https://www.coindesk.com/markets/2026/08/25/bitcoin-tops-usd80-000-solana-jumps-8-but-rally-now-runs-into-overbought-warning",
+    "pubDate": "Tue, 25 Aug 2026 05:25:11 +0000",
+    "source": "CoinDesk",
+    "category": "both",
+    "content": "BTC is up more than 25% on the week after Treasury’s bond-buyback expansion sparked a rally, while Solana led majors Tuesday as validators vote on proposals to slow new SOL creation and raise daily burns.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/f35517a96d3c83a07730a9031574776f5d6b9a69-1512x858.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "Bitcoin surged past $80,000 following a Treasury bond-buyback expansion, while Solana rose 8% as validators proposed slowing new SOL creation and increasing daily burns. Analysts warn the rally may be overbought.",
+    "importance": 7,
+    "classified": true
+  },
+  {
     "title": "Bitcoin nears $80,000, but analysts say the next pullback will be key",
     "link": "https://www.coindesk.com/markets/2026/08/24/bitcoin-nears-usd80-000-but-analysts-say-the-next-pullback-will-be-key",
     "pubDate": "Mon, 24 Aug 2026 19:36:36 +0000",
@@ -840,14 +852,14 @@
     "classified": true
   },
   {
-    "title": "XRP on track for biggest weekly gain in 21 months as Treasury buyback spurs 'curve control' hopes",
-    "link": "https://www.coindesk.com/markets/2026/08/23/xrp-on-track-for-biggest-weekly-gain-in-21-months-as-treasury-buyback-spurs-curve-control-hopes",
-    "pubDate": "Sun, 23 Aug 2026 15:52:21 +0000",
-    "source": "CoinDesk",
+    "title": "BNB Chain activates Pasteur hard fork to strengthen bridge security",
+    "link": "https://cointelegraph.com/news/bnb-chain-pasteur-hard-fork-bridge-security?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Tue, 25 Aug 2026 03:56:29 +0000",
+    "source": "Cointelegraph",
     "category": "crypto",
-    "content": "XRP’s price has surged by 50% this week, the best performance since November 2024. Here's what's driving the rally.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/5f60efd49e0a819f81091f39acbb1766f5bf3819-2961x995.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "XRP's price has surged by 50% this week, marking its strongest performance since November 2024. This significant rally is reportedly driven by a Treasury buyback, which has led to speculation about 'curve control'.",
+    "content": "BNB Chain activates the Pasteur hard fork on BSC, closing bridge and validator security gaps while targeting greater transaction capacity.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/fork-blockchain-technology-bnb-chain.jpg",
+    "summary": "BNB Chain has activated the Pasteur hard fork on its Binance Smart Chain (BSC) to address security vulnerabilities in bridges and validators, while also aiming to improve transaction capacity. The upgrade is part of ongoing efforts to enhance the network's robustness and scalability.",
     "importance": 7,
     "classified": true
   },
@@ -1008,14 +1020,14 @@
     "classified": true
   },
   {
-    "title": "Digital Asset, Paul Ryan foundation target US state benefits with Canton pilot",
-    "link": "https://cointelegraph.com/news/paul-ryan-foundation-digital-asset-plan-blockchain-based-benefits-pilot-on-canton?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Fri, 21 Aug 2026 16:25:29 +0000",
-    "source": "Cointelegraph",
+    "title": "Blockchain Association backs Treasury’s proposed GENIUS Act rules for stablecoin issuers",
+    "link": "https://www.theblock.co/news/regulation/2026-08-25-blockchain-association-backs-genius-act-412668",
+    "pubDate": "Tue, 25 Aug 2026 05:24:15 +0000",
+    "source": "The Block",
     "category": "crypto",
-    "content": "The RISE program would use the Canton Network to combine and distribute state-administered benefits across three US states beginning in 2027.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/regulations-eu-europe-crypto.png",
-    "summary": "Digital Asset, in collaboration with the Paul Ryan foundation, is launching the RISE program, a pilot project utilizing the Canton Network. Starting in 2027, this initiative will combine and distribute state-administered benefits across three US states.",
+    "content": "It backs limiting client ID requirements to direct issuer-customer transactions in the primary market, while calling for clearer definitions.",
+    "image": "https://www.tbstat.com/wp/uploads/2025/06/20250602_Stablecoins_News-1200x675.jpg",
+    "summary": "The Blockchain Association has endorsed the U.S. Treasury's proposed GENIUS Act rules for stablecoin issuers, supporting limited client ID requirements for direct transactions and requesting clearer definitions. The group emphasizes a balanced approach to compliance while maintaining market efficiency.",
     "importance": 7,
     "classified": true
   },
@@ -1124,18 +1136,6 @@
     "content": "Grayscale is inching closer to launching its Zcash ETF, filing another amendment with the Securities and Exchange Commission on Friday.",
     "image": "https://www.tbstat.com/wp/uploads/2025/09/20250919_Greyscale_News-1200x675.jpg",
     "summary": "Grayscale has taken another step toward launching the first Zcash ETF in the US by submitting a new amendment to the SEC. This filing brings the firm closer to offering a regulated investment product tied to Zcash, a privacy-focused cryptocurrency.",
-    "importance": 7,
-    "classified": true
-  },
-  {
-    "title": "XRP leads broad altcoin rally as bitcoin’s biggest weekly gain in two years lifts crypto",
-    "link": "https://www.theblock.co/news/markets/2026-08-21-xrp-leads-altcoin-rally-bitcoin-biggest-weekly-gain-in-two-years-lifts-crypto-412483",
-    "pubDate": "Fri, 21 Aug 2026 17:24:02 +0000",
-    "source": "The Block",
-    "category": "crypto",
-    "content": "Amid this week's crypto rally, HYPE is up nearly 40%, while other altcoins such as XRP, ZEC and LINK have risen over 30%.",
-    "image": "https://www.tbstat.com/wp/uploads/2026/01/20260108_XRP_News-1200x675.jpg",
-    "summary": "XRP leads a significant altcoin rally as Bitcoin experiences its largest weekly gain in two years, driving broader cryptocurrency market growth. Altcoins like HYPE, ZEC, and LINK also surge by over 30%, reflecting heightened market optimism.",
     "importance": 7,
     "classified": true
   },
@@ -1452,6 +1452,18 @@
     "classified": true
   },
   {
+    "title": "Here’s what happened in crypto today",
+    "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Tue, 25 Aug 2026 05:48:17 +0000",
+    "source": "Cointelegraph",
+    "category": "crypto",
+    "content": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg",
+    "summary": "This article provides a summary of the latest news and trends in the crypto space, covering Bitcoin price, blockchain, DeFi, Web3, and crypto regulation. It aims to keep readers updated on daily events impacting the cryptocurrency market. The article appears to be a general overview of the current state of the crypto industry.",
+    "importance": 6,
+    "classified": true
+  },
+  {
     "title": "Bernstein sees new USDC growth cycle, sets $140 Circle price target",
     "link": "https://cointelegraph.com/news/bernstein-circle-usdc-growth-140-price-target?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "pubDate": "Mon, 24 Aug 2026 20:00:39 +0000",
@@ -1460,18 +1472,6 @@
     "content": "USDC supply increased by roughly $2 billion in seven days, with Bernstein citing higher transaction activity and several factors that could support further growth.",
     "image": "https://s3-images.ctmedia.io/media/article-covers/hi-how-to-buy-usd-coin-usdc-in-united-states-1.jpg",
     "summary": "Bernstein has identified a new growth cycle for USDC, predicting a price target of $140 for Circle. The stablecoin's supply surged by $2 billion in just seven days, driven by increased transaction activity and other supportive factors.",
-    "importance": 6,
-    "classified": true
-  },
-  {
-    "title": "Here’s what happened in crypto today",
-    "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Mon, 24 Aug 2026 19:58:34 +0000",
-    "source": "Cointelegraph",
-    "category": "crypto",
-    "content": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg",
-    "summary": "This article provides a summary of the latest news and trends in the crypto space, covering Bitcoin price, blockchain, DeFi, Web3, and crypto regulation. It aims to keep readers updated on daily events impacting the cryptocurrency market. The article appears to be a general overview of the current state of the crypto industry.",
     "importance": 6,
     "classified": true
   },
@@ -1572,18 +1572,6 @@
     "classified": true
   },
   {
-    "title": "Bitcoin seeks support near $77K as BTC, gold near 100-day highs",
-    "link": "https://cointelegraph.com/markets/bitcoin-seeks-support-near-77k-btc-gold-100-day-highs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Fri, 21 Aug 2026 19:10:47 +0000",
-    "source": "Cointelegraph",
-    "category": "crypto",
-    "content": "Bitcoin volatility eased after BTC hit its highest level since mid-May, while gold joined the cryptocurrency in approaching three-month highs.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/boxes-with-bitcoins.jpg",
-    "summary": "Bitcoin's volatility decreased after reaching its highest level since mid-May, with BTC and gold both nearing three-month highs. The cryptocurrency market showed signs of stabilization amid these gains.",
-    "importance": 5,
-    "classified": true
-  },
-  {
     "title": "The Download: kids outlearning AI, and space travel agents",
     "link": "https://www.technologyreview.com/2026/08/24/1142863/the-download-kids-outlearning-ai-space-travel-agents/",
     "pubDate": "Mon, 24 Aug 2026 12:10:00 +0000",
@@ -1605,6 +1593,18 @@
     "image": "",
     "summary": "Harvard Business School's HBS Foundry startup bootcamp is now incorporating AI avatars of its instructors. These AI avatars are designed to provide feedback to participants during practice pitches and board meetings, enhancing the learning experience.",
     "importance": 5,
+    "classified": true
+  },
+  {
+    "title": "Crypto rally spills into dog and cat memecoins as smaller tokens double in a week",
+    "link": "https://www.coindesk.com/markets/2026/08/25/crypto-rally-spills-into-dog-and-cat-memecoins-as-smaller-tokens-double-in-a-week",
+    "pubDate": "Tue, 25 Aug 2026 06:26:29 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "Robinhood Chain-based Cash Cat jumped more than 50% in a day, while several smaller animal-themed tokens have gained between 50% and 130% over the past week.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/496fc55921eceecdf3347c78eae40635ca90c1cc-1378x756.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "A recent crypto market rally has extended to smaller animal-themed memecoins, with several tokens experiencing significant gains. Robinhood Chain-based Cash Cat jumped over 50% in a day, while other smaller memecoins have seen increases between 50% and 130% over the past week.",
+    "importance": 4,
     "classified": true
   },
   {
