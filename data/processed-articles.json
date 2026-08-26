@@ -1,17 +1,5 @@
 [
   {
-    "title": "Bitcoin hits $80,000 for the first time since May as crypto recovery accelerates",
-    "link": "https://www.coindesk.com/markets/2026/08/24/bitcoin-hits-usd80-000-for-the-first-time-since-may-as-crypto-recovery-accelerates",
-    "pubDate": "Tue, 25 Aug 2026 00:55:32 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "BTC has now surged 38% following its June plunge as shifting U.S. Treasury policy helped bring buyers back to crypto, rejuvenating ETF demand.",
-    "image": "",
-    "summary": "Bitcoin has reached $80,000 for the first time since May, marking a 38% surge after its June decline. This accelerated crypto recovery is attributed to shifting U.S. Treasury policy, which has brought back buyers and renewed ETF demand.",
-    "importance": 10,
-    "classified": true
-  },
-  {
     "title": "Solana ETFs extend growth streak to 5 days after year's biggest inflows",
     "link": "https://www.coindesk.com/markets/2026/08/25/solana-etfs-extend-growth-streak-to-5-days-after-year-s-biggest-inflows",
     "pubDate": "Tue, 25 Aug 2026 10:25:32 +0000",
@@ -45,6 +33,18 @@
     "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/DCD_082026_Site.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
     "summary": "AI models, particularly OpenAI's Astra, have recently demonstrated advanced mathematical problem-solving abilities, solving longstanding unsolved problems and sparking an existential crisis in the mathematics community. Leading mathematicians express concerns over AI's rapid progress, potential impact on academic careers, and the future of mathematical research, while also acknowledging the technology's potential to democratize access and accelerate discovery.",
     "importance": 9,
+    "classified": true
+  },
+  {
+    "title": "BlackRock cuts bitcoin ETF swap minimum to $1 million: Report",
+    "link": "https://www.coindesk.com/markets/2026/08/26/E",
+    "pubDate": "Wed, 26 Aug 2026 05:52:53 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "ETF issuers are lowering the barrier for bitcoin whales to trade self-custody for ETF shares.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/b53d077c4e5949d0efd6629978ef575ece087f83-2400x1350.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "BlackRock has reportedly reduced the minimum swap amount for its spot bitcoin ETF to $1 million, making it more accessible for large holders. This move by ETF issuers aims to lower the barrier for bitcoin 'whales' to exchange their self-custodied assets for ETF shares.",
+    "importance": 8,
     "classified": true
   },
   {
@@ -180,14 +180,14 @@
     "classified": true
   },
   {
-    "title": "Crypto political group details list of U.S. congressional allies its backing this year",
-    "link": "https://www.coindesk.com/policy/2026/08/24/crypto-political-group-details-list-of-u-s-congressional-allies-its-backing-this-year",
-    "pubDate": "Mon, 24 Aug 2026 17:30:10 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "Stand With Crypto, a member group that rates the crypto friendliness of politicians, is supporting 32 U.S. House incumbents, with more endorsements coming.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/6e8fdcc1bed7c2905fc568606a4db2d48360c7d0-2048x1152.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "Stand With Crypto, a political group that rates politicians' crypto-friendliness, is endorsing 32 U.S. House incumbents. This move signals their commitment to supporting congressional allies in the crypto space, with further endorsements anticipated.",
+    "title": "US banking groups plan nationwide blockchain network for 2027 ",
+    "link": "https://cointelegraph.com/news/us-banking-groups-nationwide-blockchain-network-2027?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Wed, 26 Aug 2026 04:17:39 +0000",
+    "source": "Cointelegraph",
+    "category": "both",
+    "content": "BankChain joins a growing field of bank-led networks building shared infrastructure for tokenized deposits and onchain payments.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-us-banks-have-deeper-interest-in-digital-than-previously-thought.png",
+    "summary": "US banking groups are collaborating to launch BankChain, a nationwide blockchain network by 2027 to facilitate tokenized deposits and onchain payments. This initiative aims to modernize banking infrastructure by leveraging shared blockchain technology.",
     "importance": 8,
     "classified": true
   },
@@ -708,6 +708,30 @@
     "classified": true
   },
   {
+    "title": "XRP’s 44% rally brings leverage back, raising risk of sharper pullback",
+    "link": "https://www.coindesk.com/markets/2026/08/26/xrp-s-44-rally-brings-leverage-back-raising-risk-of-sharper-pullback",
+    "pubDate": "Wed, 26 Aug 2026 05:16:32 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "CryptoQuant data show XRP’s estimated leverage ratio on Binance at its highest since January, with long accounts outnumbering shorts as futures volume runs more than five times spot trading.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/31336f2e8794d1c707dcb8b48564b3ac7404304d-1384x768.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "XRP's price surged by 44%, driving its estimated leverage ratio on Binance to the highest level since January. Futures trading volume exceeded spot trading by over five times, with long positions dominating short ones.",
+    "importance": 7,
+    "classified": true
+  },
+  {
+    "title": "Crypto greed gauge hits highest since just before October’s $19 billion wipeout",
+    "link": "https://www.coindesk.com/markets/2026/08/26/crypto-greed-gauge-hits-highest-since-just-before-october-s-usd19-billion-wipeout",
+    "pubDate": "Wed, 26 Aug 2026 04:51:49 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "The Fear & Greed Index reached 74 on Tuesday after sitting at 27 less than two weeks ago, showing how quickly traders have gone from caution to chasing risk.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/43a91e097cc094b0938c8438ecfacd702ae87e6a-1382x754.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "The Fear & Greed Index, a market sentiment indicator for crypto traders, surged to 74—its highest level since before the October $19 billion market crash. The sharp rise from 27 in under two weeks highlights a rapid shift from extreme caution to risk appetite.",
+    "importance": 7,
+    "classified": true
+  },
+  {
     "title": "Bitwise turns Coinbase's tokenized stocks into automated AI, robotics and tech portfolios",
     "link": "https://www.coindesk.com/business/2026/08/25/bitwise-turns-coinbase-s-tokenized-stocks-into-automated-ai-robotics-and-tech-portfolios",
     "pubDate": "Tue, 25 Aug 2026 14:50:22 +0000",
@@ -764,30 +788,6 @@
     "content": "Traders are spending millions to position for further Bitcoin upside after its staggering rally to $80,000, though demand for downside protection remains firm, according to Laevitas.",
     "image": "https://cdn.sanity.io/images/s3y3vcno/production/182de5fa38718c7d7513c132ebd58b4ad7663cc9-6016x4000.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
     "summary": "Bitcoin traders have placed $2.9 million in bets on a rapid price surge above $82,000, following Bitcoin's rally to $80,000. Despite this optimism, demand for downside protection remains strong, indicating mixed market sentiment.",
-    "importance": 7,
-    "classified": true
-  },
-  {
-    "title": "Bitcoin tops $80,000, solana jumps 8% but rally now runs into overbought warning",
-    "link": "https://www.coindesk.com/markets/2026/08/25/bitcoin-tops-usd80-000-solana-jumps-8-but-rally-now-runs-into-overbought-warning",
-    "pubDate": "Tue, 25 Aug 2026 05:25:11 +0000",
-    "source": "CoinDesk",
-    "category": "both",
-    "content": "BTC is up more than 25% on the week after Treasury’s bond-buyback expansion sparked a rally, while Solana led majors Tuesday as validators vote on proposals to slow new SOL creation and raise daily burns.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/f35517a96d3c83a07730a9031574776f5d6b9a69-1512x858.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "Bitcoin surged past $80,000 following a Treasury bond-buyback expansion, while Solana rose 8% as validators proposed slowing new SOL creation and increasing daily burns. Analysts warn the rally may be overbought.",
-    "importance": 7,
-    "classified": true
-  },
-  {
-    "title": "Bitcoin nears $80,000, but analysts say the next pullback will be key",
-    "link": "https://www.coindesk.com/markets/2026/08/24/bitcoin-nears-usd80-000-but-analysts-say-the-next-pullback-will-be-key",
-    "pubDate": "Mon, 24 Aug 2026 19:36:36 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "Analysts say consolidation could strengthen bitcoin’s rally, while thin trading above $80,000 may set up sharper price moves.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/161a271835d8a7768de21a1322b974c52bc6ec6a-6957x4558.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "Bitcoin is nearing the $80,000 mark, and analysts are emphasizing the significance of its upcoming pullback. They suggest that market consolidation could bolster Bitcoin's rally, whereas thin trading volumes above $80,000 might lead to more volatile price fluctuations.",
     "importance": 7,
     "classified": true
   },
@@ -948,18 +948,6 @@
     "classified": true
   },
   {
-    "title": "Crypto advocacy groups oppose Illinois digital asset tax in court",
-    "link": "https://cointelegraph.com/news/cryptocurrency-organizations-oppose-illinois-digital-asset-tax-court?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Mon, 24 Aug 2026 16:05:48 +0000",
-    "source": "Cointelegraph",
-    "category": "crypto",
-    "content": "Following a similar lawsuit filed by the Digital Chamber in July, two digital asset advocacy groups challenged Illinois’ 0.2% crypto tax on constitutional and due process grounds.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/year-of-crypto-tax-legislation.jpg",
-    "summary": "Two digital asset advocacy groups have filed a lawsuit challenging Illinois' 0.2% crypto tax, arguing it is unconstitutional and violates due process. This legal action follows a similar suit initiated by the Digital Chamber in July.",
-    "importance": 7,
-    "classified": true
-  },
-  {
     "title": "RockawayX acquires Relayer Capital to expand crypto offerings in US",
     "link": "https://www.theblock.co/news/business/2026-08-25-rockawayx-relayer-capital-412743",
     "pubDate": "Wed, 26 Aug 2026 03:35:32 +0000",
@@ -1104,18 +1092,6 @@
     "classified": true
   },
   {
-    "title": "Gemini to provide crypto prediction markets venue for Apex’s brokerage clients",
-    "link": "https://www.theblock.co/news/web3/2026-08-24-gemini-crypto-prediction-market-apex-412557",
-    "pubDate": "Mon, 24 Aug 2026 11:01:02 +0000",
-    "source": "The Block",
-    "category": "crypto",
-    "content": "Under the alliance, brokerages that offer crypto event contracts through Apex will use Gemini for execution and clearing, the firms said.",
-    "image": "https://www.tbstat.com/wp/uploads/2023/03/20230317_Gemini_Color-1200x675.jpg",
-    "summary": "Gemini will serve as the execution and clearing platform for crypto event contracts offered by brokerages through Apex, expanding access to crypto prediction markets for Apex's clients.",
-    "importance": 7,
-    "classified": true
-  },
-  {
     "title": "Kraken Says ‘Dust Attack’ From Sanctioned HTX Wallet Locked Out Customers",
     "link": "https://bitcoinmagazine.com/news/kraken-says-users-were-dust-attacked",
     "pubDate": "Tue, 25 Aug 2026 19:27:12 +0000",
@@ -1212,7 +1188,7 @@
     "classified": true
   },
   {
-    "title": "OpenAI loses a top data center exec, as stream of high-profile departures continues",
+    "title": "OpenAI loses a top data center exec as stream of high-profile departures continues",
     "link": "https://techcrunch.com/2026/08/25/openai-loses-a-top-data-center-exec-as-stream-of-high-profile-departures-continues/",
     "pubDate": "Wed, 26 Aug 2026 00:06:20 +0000",
     "source": "TechCrunch AI",
@@ -1392,6 +1368,18 @@
     "classified": true
   },
   {
+    "title": "Bitcoin holds $79,000, ether, solana slip as traders bank a week of gains",
+    "link": "https://www.coindesk.com/markets/2026/08/26/bitcoin-holds-usd79-000-ether-solana-slip-4-as-traders-bank-a-week-of-gains",
+    "pubDate": "Wed, 26 Aug 2026 04:13:10 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "Every major token fell over 24 hours except HYPE, though bitcoin holds a 23% weekly gain and XRP almost 45%.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/36ba29ecad53db4ffa1e0c5b2dfe5b2bf0de96a2-1508x844.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "Bitcoin remains steady near $79,000 while major altcoins like ether and solana decline, despite a strong week of gains for the overall crypto market. XRP leads weekly performance with nearly 45% growth, while an outlier token called HYPE defies the trend.",
+    "importance": 6,
+    "classified": true
+  },
+  {
     "title": "Zerohash back for second effort at OCC trust bank charter",
     "link": "https://www.coindesk.com/policy/2026/08/25/zerohash-back-for-second-effort-at-occ-trust-bank-charter",
     "pubDate": "Tue, 25 Aug 2026 21:38:28 +0000",
@@ -1418,7 +1406,7 @@
   {
     "title": "Here’s what happened in crypto today",
     "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Tue, 25 Aug 2026 18:34:20 +0000",
+    "pubDate": "Wed, 26 Aug 2026 06:04:55 +0000",
     "source": "Cointelegraph",
     "category": "crypto",
     "content": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
@@ -1556,6 +1544,18 @@
     "content": "Robinhood Chain-based Cash Cat jumped more than 50% in a day, while several smaller animal-themed tokens have gained between 50% and 130% over the past week.",
     "image": "https://cdn.sanity.io/images/s3y3vcno/production/496fc55921eceecdf3347c78eae40635ca90c1cc-1378x756.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
     "summary": "A recent crypto market rally has extended to smaller animal-themed memecoins, with several tokens experiencing significant gains. Robinhood Chain-based Cash Cat jumped over 50% in a day, while other smaller memecoins have seen increases between 50% and 130% over the past week.",
+    "importance": 4,
+    "classified": true
+  },
+  {
+    "title": "Kalshi raised $1.12 billion via private equity offering since April, latest SEC filing shows",
+    "link": "https://www.theblock.co/news/web3/2026-08-26-kalshi-latest-form-d-412749",
+    "pubDate": "Wed, 26 Aug 2026 04:51:58 +0000",
+    "source": "The Block",
+    "category": "crypto",
+    "content": "It was reported earlier this month that Kalshi is looking to raise $750 million in fresh capital at a $40 billion valuation.",
+    "image": "https://www.tbstat.com/wp/uploads/2025/09/20250917_Kalshi_News-1200x675.jpg",
+    "summary": "Kalshi has raised $1.12 billion through private equity offerings since April, as shown in a recent SEC filing. The company previously announced plans to raise an additional $750 million at a $40 billion valuation.",
     "importance": 4,
     "classified": true
   },
