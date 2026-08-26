@@ -1,5 +1,29 @@
 [
   {
+    "title": "Japan targets early 2030s launch for blockchain-based stock and bond settlement system",
+    "link": "https://www.coindesk.com/business/2026/08/26/japan-plans-blockchain-settlement-network-for-stocks-and-government-bonds",
+    "pubDate": "Wed, 26 Aug 2026 09:06:00 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "Japan's regulators are racing to modernize national settlement systems to prevent institutional investors and foreign capital from fleeing to overseas markets.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/585051b2af5a7a46c3272ab90b4c07f7a2f67acc-4926x3080.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "Japan's regulators are aiming to launch a blockchain-based settlement system for stocks and bonds by the early 2030s. This initiative is designed to modernize national settlement systems and prevent institutional investors and foreign capital from moving to overseas markets.",
+    "importance": 9,
+    "classified": true
+  },
+  {
+    "title": "A massive $6.4 billion bitcoin options expiry on Friday could amplify volatility",
+    "link": "https://www.coindesk.com/markets/2026/08/25/a-massive-usd6-4-billion-bitcoin-options-expiry-on-friday-could-amplify-volatility",
+    "pubDate": "Wed, 26 Aug 2026 08:01:09 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "Friday’s expiry follows bitcoin’s surge from $62,000 to $80,000, leaving market makers with increased exposure to manage around several key strike prices.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/433dc66ccff9e405374f8e47dd644523e988eda5-2400x1200.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "A massive $6.4 billion bitcoin options expiry is scheduled for Friday, which is expected to amplify volatility in the market. This event follows a significant surge in bitcoin's price from $62,000 to $80,000, leaving market makers with substantial exposure to manage around various strike prices.",
+    "importance": 9,
+    "classified": true
+  },
+  {
     "title": "Solana ETFs extend growth streak to 5 days after year's biggest inflows",
     "link": "https://www.coindesk.com/markets/2026/08/25/solana-etfs-extend-growth-streak-to-5-days-after-year-s-biggest-inflows",
     "pubDate": "Tue, 25 Aug 2026 10:25:32 +0000",
@@ -168,14 +192,26 @@
     "classified": true
   },
   {
-    "title": "Monad proposes wallet upgrade that could survive lost keys and quantum attacks",
-    "link": "https://www.coindesk.com/tech/2026/08/25/monad-proposes-wallet-upgrade-that-could-survive-lost-keys-and-quantum-attacks",
-    "pubDate": "Tue, 25 Aug 2026 07:01:49 +0000",
-    "source": "CoinDesk",
+    "title": "Tornado Cash developer Roman Storm’s retrial delayed to April 2027",
+    "link": "https://cointelegraph.com/news/roman-storm-retrial-delayed-april-2027?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Wed, 26 Aug 2026 07:44:04 +0000",
+    "source": "Cointelegraph",
     "category": "crypto",
-    "content": "The Ethereum-compatible blockchain wants users to be able to replace the keys controlling an account without changing its address, opening the door to passkeys, recovery tools and post-quantum security.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/422bf0c58d3c5d984b8ee7f8a379b85250db7bc2-6016x4016.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "Monad, an Ethereum-compatible blockchain, is proposing a significant wallet upgrade. This new feature would allow users to replace the keys controlling their accounts without altering the address, enabling improved recovery tools, passkey support, and crucial post-quantum security measures.",
+    "content": "Judge Katherine Polk Failla adjourned the retrial in light of Storm’s pending motion for acquittal and related request for a continuance.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/courtroom-court-lawsuit-justice-jurisdiction-tornado-cash.jpg",
+    "summary": "The retrial for Tornado Cash developer Roman Storm has been significantly delayed until April 2027. This adjournment was granted by Judge Katherine Polk Failla due to Storm's pending motion for acquittal and a related request for a continuance.",
+    "importance": 8,
+    "classified": true
+  },
+  {
+    "title": "Bitcoin ETFs tear through 2026 outflows in 7-day hot streak",
+    "link": "https://cointelegraph.com/news/bitcoin-etf-august-inflows-surge-past-3-billion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Wed, 26 Aug 2026 07:30:31 +0000",
+    "source": "Cointelegraph",
+    "category": "crypto",
+    "content": "The funds are $390 million short of October 2025’s inflow total after cutting their year-to-date net outflow deficit by more than half.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-a-stronger-foundation-for-bitcoin-etf-applications1-2.jpg",
+    "summary": "Bitcoin ETFs have experienced a strong 7-day performance, significantly reducing their year-to-date net outflow deficit by more than half. The funds are now only $390 million shy of October 2025's total inflows, marking a substantial recovery.",
     "importance": 8,
     "classified": true
   },
@@ -312,38 +348,26 @@
     "classified": true
   },
   {
-    "title": "Coinbase tokenized stocks go live on Base with Chainlink price feeds",
-    "link": "https://cointelegraph.com/news/coinbase-taps-chainlink-for-tokenized-stock-data-on-base?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Mon, 24 Aug 2026 19:11:48 +0000",
-    "source": "Cointelegraph",
+    "title": "Tornado Cash developer Roman Storm’s retrial pushed back to April 2027",
+    "link": "https://www.theblock.co/news/regulation/2026-08-26-tornado-cash-roman-storm-retrial-april-2027-412761",
+    "pubDate": "Wed, 26 Aug 2026 08:00:17 +0000",
+    "source": "The Block",
+    "category": "crypto",
+    "content": "A jury convicted Storm on a count of money transmitting last year, but did not reach a verdict on other charges.",
+    "image": "https://www.tbstat.com/wp/uploads/2025/07/tornado-cash-roman-storm-1200x675.jpg",
+    "summary": "Roman Storm, a developer associated with the privacy-focused cryptocurrency mixer Tornado Cash, has had his retrial delayed until April 2027. The case stems from a 2023 conviction on money transmission charges, while other allegations remain unresolved.",
+    "importance": 8,
+    "classified": true
+  },
+  {
+    "title": "Japan to work on blockchain-based stock settlement system, details expected early 2027: Nikkei",
+    "link": "https://www.theblock.co/news/regulation/2026-08-26-japan-blockchain-stock-settlement-system-412755",
+    "pubDate": "Wed, 26 Aug 2026 06:40:31 +0000",
+    "source": "The Block",
     "category": "both",
-    "content": "Coinbase’s B20 equities bring stocks including Apple and Nvidia onchain, allowing eligible non-US users to trade them 24/7 and use them across DeFi.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-how-ondo-finance-plans-to-bring-tokenized-us-stocks-to-solana-1.png",
-    "summary": "Coinbase has launched tokenized stocks (B20) on its Base blockchain, enabling 24/7 trading of assets like Apple and Nvidia for eligible non-US users. The integration includes Chainlink price feeds for real-time valuation.",
-    "importance": 8,
-    "classified": true
-  },
-  {
-    "title": "Bitcoin price hits $80K as 24-hour crypto short liquidations pass $220M",
-    "link": "https://cointelegraph.com/markets/bitcoin-price-hits-80k-as-24-hour-crypto-short-liquidations-pass-m?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Mon, 24 Aug 2026 17:48:44 +0000",
-    "source": "Cointelegraph",
-    "category": "crypto",
-    "content": "As BTC tops $80,000 for the first time since May, price analysis warns that the market still needs to sustain higher levels to challenge the bear-market thesis.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/bitcoin-price-growing-kitchen-pastry.png",
-    "summary": "Bitcoin's price has reached $80,000 for the first time since May, triggering over $220 million in crypto short liquidations within 24 hours. Despite this surge, price analysis cautions that sustained higher levels are necessary to truly challenge the existing bear-market thesis.",
-    "importance": 8,
-    "classified": true
-  },
-  {
-    "title": "Strive buys 1,110 Bitcoin for $81.5M, holdings top 21K BTC; ASST shares surge 11%",
-    "link": "https://cointelegraph.com/news/strive-buys-1110-bitcoin-for-815m-holdings-top-21k-btc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Mon, 24 Aug 2026 16:44:55 +0000",
-    "source": "Cointelegraph",
-    "category": "crypto",
-    "content": "Strive’s Nasdaq-traded shares surged more than 11% as the Bitcoin treasury company said it paid an average of $73,409 per BTC, pushing its holdings to 21,356 Bitcoin.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-a-state-backed-crypto-fund-just-made-its-first-buy-and-it-wasnt-bitcoin.png",
-    "summary": "Strive, a Bitcoin treasury company, announced the acquisition of 1,110 Bitcoin for $81.5 million, raising its total holdings to 21,356 BTC. Following this news, Strive's Nasdaq-traded shares experienced an 11% surge.",
+    "content": "If the plan is approved, the agencies could launch the system within a few years, and fully operational in the early 2030s.",
+    "image": "https://www.tbstat.com/wp/uploads/2024/09/20240917_Japan_News_2-1200x675.jpg",
+    "summary": "Japan plans to develop a blockchain-based stock settlement system, with details expected by early 2027 and full implementation targeted for the early 2030s if approved. The system aims to modernize financial infrastructure using distributed ledger technology.",
     "importance": 8,
     "classified": true
   },
@@ -396,18 +420,6 @@
     "classified": true
   },
   {
-    "title": "‘Upside move in ETH was overdue,’ Tom Lee says as Bitmine buys another 32,447 ether",
-    "link": "https://www.theblock.co/news/business/2026-08-24-upside-move-eth-was-overdue-tom-lee-says-bitmine-buys-more-ether-412589",
-    "pubDate": "Mon, 24 Aug 2026 13:36:31 +0000",
-    "source": "The Block",
-    "category": "crypto",
-    "content": "Bitmine's total crypto, cash, and other investments currently stand at $14.9 billion, and it owns over 4.8% of Ethereum's circulating supply.",
-    "image": "https://www.tbstat.com/wp/uploads/2025/09/cropped-11-1200x658.jpg",
-    "summary": "Tom Lee suggests an \"upside move in ETH was overdue\" as Bitmine purchased an additional 32,447 Ether. This acquisition increases Bitmine's substantial crypto holdings, which now represent over 4.8% of Ethereum's circulating supply and contribute to its $14.9 billion in total investments.",
-    "importance": 8,
-    "classified": true
-  },
-  {
     "title": "US Opens a New Front Against Iran’s Crypto Economy",
     "link": "https://bitcoinmagazine.com/news/us-sanctions-iran-crypto-economy",
     "pubDate": "Tue, 25 Aug 2026 17:23:01 +0000",
@@ -416,6 +428,18 @@
     "content": "Bitcoin Magazine\n\nUS Opens a New Front Against Iran’s Crypto Economy\nIran has been using Bitcoin to dodge sanctions. The Department of the Treasury wants to shut it off from the crypto economy. \nThis post US Opens a New Front Against Iran’s Crypto Economy first appeared on Bitcoin Magazine and is written by Mathew Di Salvo.",
     "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/08/US-Opens-a-New-Front-Against-Irans-Crypto-Economy.jpg",
     "summary": "The U.S. Treasury Department is taking steps to block Iran from accessing the cryptocurrency economy as part of efforts to enforce sanctions. Iran has reportedly used Bitcoin to bypass economic restrictions, prompting new regulatory measures.",
+    "importance": 8,
+    "classified": true
+  },
+  {
+    "title": "Bill Gates says we’ve passed AI’s danger thresholds. Now what?",
+    "link": "https://www.technologyreview.com/2026/08/26/1142946/bill-gates-ai-danger-threshold/",
+    "pubDate": "Wed, 26 Aug 2026 07:01:00 +0000",
+    "source": "MIT Technology Review",
+    "category": "ai",
+    "content": "It’s a glorious day in Kirkland, Washington, an affluent Seattle suburb on the eastern shore of Lake Washington. The temperature is in the mid-80s, and the sky is incapable of being any more blue. The view from the Gates Ventures conference room overlooks the Carillon Point Marina, where a flotilla of expensive boats bob in…",
+    "image": "",
+    "summary": "Bill Gates discusses the significant progress and potential dangers of AI, stating that critical thresholds in AI development have been surpassed. He emphasizes the need for careful consideration of AI's future implications and responsible development.",
     "importance": 8,
     "classified": true
   },
@@ -708,6 +732,18 @@
     "classified": true
   },
   {
+    "title": "Live updates: Zcash pulls back 8% as its Grayscale ETF goes live, capping a 60% rally",
+    "link": "https://www.coindesk.com/business/2026/08/26/live-updates-zcash-pulls-back-8-as-its-grayscale-etf-goes-live-capping-a-60-rally",
+    "pubDate": "Wed, 26 Aug 2026 08:51:18 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "The privacy coin's spot ETF began NYSE trading Tuesday, which was one of the catalysts behind its surge to an eight-year high. Now traders are selling the news, with leverage stacked into the move.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/01a18fc46c4e26a250bc9e85e92b715fe4a43c69-1510x848.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "Zcash experienced an 8% pullback following the launch of its spot ETF on the NYSE on Tuesday, capping a 60% rally that saw the privacy coin reach an eight-year high. Traders appear to be \"selling the news\" after the ETF went live, with leverage contributing to the price movement.",
+    "importance": 7,
+    "classified": true
+  },
+  {
     "title": "XRP’s 44% rally brings leverage back, raising risk of sharper pullback",
     "link": "https://www.coindesk.com/markets/2026/08/26/xrp-s-44-rally-brings-leverage-back-raising-risk-of-sharper-pullback",
     "pubDate": "Wed, 26 Aug 2026 05:16:32 +0000",
@@ -780,14 +816,14 @@
     "classified": true
   },
   {
-    "title": "Bitcoin traders place $2.9 million bet on a rapid price jump above $82,000",
-    "link": "https://www.coindesk.com/markets/2026/08/25/bitcoin-traders-place-usd2-9-million-bet-on-a-rapid-price-jump-above-usd82-000",
-    "pubDate": "Tue, 25 Aug 2026 05:51:52 +0000",
-    "source": "CoinDesk",
+    "title": "Revolut rolls out euro stablecoin in three European markets",
+    "link": "https://cointelegraph.com/news/revolut-eurr-euro-stablecoin-europe-rollout?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Wed, 26 Aug 2026 08:45:41 +0000",
+    "source": "Cointelegraph",
     "category": "crypto",
-    "content": "Traders are spending millions to position for further Bitcoin upside after its staggering rally to $80,000, though demand for downside protection remains firm, according to Laevitas.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/182de5fa38718c7d7513c132ebd58b4ad7663cc9-6016x4000.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "Bitcoin traders have placed $2.9 million in bets on a rapid price surge above $82,000, following Bitcoin's rally to $80,000. Despite this optimism, demand for downside protection remains strong, indicating mixed market sentiment.",
+    "content": "The Bridge-issued EURR token will support multiple blockchains and external wallets, with wider EEA availability expected this year.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-the-digital-token-how-it-will-impact-the-current-financial-system-ecb-1.jpg",
+    "summary": "Revolut has launched the EURR stablecoin in three European markets, backed by the Bridge protocol and designed to operate across multiple blockchains and external wallets. The stablecoin is expected to expand its availability across the European Economic Area later this year.",
     "importance": 7,
     "classified": true
   },
@@ -948,6 +984,30 @@
     "classified": true
   },
   {
+    "title": "Revolut begins phased EURR stablecoin rollout in Denmark, Poland and Portugal",
+    "link": "https://www.theblock.co/news/business/2026-08-26-revolut-begins-phased-eurr-stablecoin-rollout-in-denmark-poland-and-portugal-412772",
+    "pubDate": "Wed, 26 Aug 2026 09:12:54 +0000",
+    "source": "The Block",
+    "category": "crypto",
+    "content": "Revolut began rolling out EURR, its first euro-pegged stablecoin, to customers in Denmark, Poland, and Portugal.",
+    "image": "https://www.tbstat.com/wp/uploads/2022/11/20221118_Revolut-1200x675.jpg",
+    "summary": "Revolut has started a phased rollout of EURR, its euro-pegged stablecoin, to customers in Denmark, Poland, and Portugal. This marks the first expansion of the stablecoin beyond Revolut's initial markets.",
+    "importance": 7,
+    "classified": true
+  },
+  {
+    "title": "South Korea’s Shinhan to use Visa’s stablecoin platform for ‘future finance’ initiatives",
+    "link": "https://www.theblock.co/news/web3/2026-08-26-south-koreas-shinhan-visa-stablecoin-412765",
+    "pubDate": "Wed, 26 Aug 2026 08:43:43 +0000",
+    "source": "The Block",
+    "category": "both",
+    "content": "The two will also test the application of stablecoins in card payments, AI-based future payment models, and B2B and B2C payment businesses.",
+    "image": "https://www.tbstat.com/wp/uploads/2024/02/20240220_SouthKorea_News3-1200x675.jpg",
+    "summary": "South Korea's Shinhan Bank will collaborate with Visa to pilot Visa's stablecoin platform for future finance initiatives, including AI-driven payment models and stablecoin applications in card payments and B2B/B2C transactions.",
+    "importance": 7,
+    "classified": true
+  },
+  {
     "title": "RockawayX acquires Relayer Capital to expand crypto offerings in US",
     "link": "https://www.theblock.co/news/business/2026-08-25-rockawayx-relayer-capital-412743",
     "pubDate": "Wed, 26 Aug 2026 03:35:32 +0000",
@@ -1068,30 +1128,6 @@
     "classified": true
   },
   {
-    "title": "Strive acquires 1,110 bitcoin for $81.5 million as total holdings reach 21,356 BTC",
-    "link": "https://www.theblock.co/news/business/2026-08-24-strive-acquires-1110-bitcoin-for-81-5-million-as-total-holdings-reach-21356-btc-412604",
-    "pubDate": "Mon, 24 Aug 2026 15:39:14 +0000",
-    "source": "The Block",
-    "category": "crypto",
-    "content": "Strive purchased 1,110 bitcoin for $81.5 million, raising its total holdings to 21,356 BTC as the seventh-largest public company holder.",
-    "image": "https://www.tbstat.com/wp/uploads/2026/04/20260410_Bitcoin_News-1200x675.jpg",
-    "summary": "Strive has acquired an additional 1,110 bitcoin for $81.5 million, increasing its total holdings to 21,356 BTC, making it the seventh-largest public company holder of bitcoin.",
-    "importance": 7,
-    "classified": true
-  },
-  {
-    "title": "Strategy sells $2 billion in MSTR shares, makes no bitcoin purchases, establishes $1.6 billion ‘USD Cash’ pool",
-    "link": "https://www.theblock.co/news/business/2026-08-24-strategy-mstr-strc-bitcoin-usd-reserve-412570",
-    "pubDate": "Mon, 24 Aug 2026 12:12:01 +0000",
-    "source": "The Block",
-    "category": "both",
-    "content": "Strategy's total holdings account for roughly 4% of the 21 million bitcoin supply cap — worth around $66 billion.",
-    "image": "https://www.tbstat.com/wp/uploads/2025/06/20250603_MichaelSaylor_News_2-1200x675.jpg",
-    "summary": "Strategy sells $2 billion worth of MicroStrategy (MSTR) shares without acquiring additional bitcoin, while establishing a $1.6 billion 'USD Cash' pool. The company's bitcoin holdings remain significant, accounting for about 4% of the total bitcoin supply, valued at $66 billion.",
-    "importance": 7,
-    "classified": true
-  },
-  {
     "title": "Kraken Says ‘Dust Attack’ From Sanctioned HTX Wallet Locked Out Customers",
     "link": "https://bitcoinmagazine.com/news/kraken-says-users-were-dust-attacked",
     "pubDate": "Tue, 25 Aug 2026 19:27:12 +0000",
@@ -1176,24 +1212,12 @@
     "classified": true
   },
   {
-    "title": "Your brain on AI",
-    "link": "https://www.technologyreview.com/2026/08/25/1140958/your-brain-on-ai/",
-    "pubDate": "Tue, 25 Aug 2026 21:00:00 +0000",
-    "source": "MIT Technology Review",
-    "category": "ai",
-    "content": "Many people find AI-based chatbots helpful in keeping up with news, but a study by Pattie Maes and her colleagues at the MIT Media Lab points to a big problem with this strategy.  Participants who evaluated paired news headlines and images over the course of four weeks were initially 21% percent more accurate at telling…",
-    "image": "",
-    "summary": "A study by MIT Media Lab researchers found that people using AI chatbots to stay informed on news were initially 21% more accurate in evaluating headlines and images, but the research also highlights a significant drawback to relying on AI for news consumption.",
-    "importance": 7,
-    "classified": true
-  },
-  {
     "title": "OpenAI loses a top data center exec as stream of high-profile departures continues",
     "link": "https://techcrunch.com/2026/08/25/openai-loses-a-top-data-center-exec-as-stream-of-high-profile-departures-continues/",
     "pubDate": "Wed, 26 Aug 2026 00:06:20 +0000",
     "source": "TechCrunch AI",
     "category": "ai",
-    "content": "Before Malone left, OpenAI had already reshuffled its infrastructure org, shifting his reporting line away from President Greg Brockman and putting Vice President Sachin Katti in charge of the group.",
+    "content": "In a statement to TechCrunch about Malone's departure, OpenAI said it had \"recently reorganized\" its \"infrastructure organization to support the scale and pace of our work.\"",
     "image": "",
     "summary": "OpenAI has experienced another high-profile executive departure with a top data center executive leaving the company. This follows recent organizational changes in its infrastructure team, including a shift in reporting lines under Vice President Sachin Katti.",
     "importance": 7,
@@ -1428,18 +1452,6 @@
     "classified": true
   },
   {
-    "title": "Stand With Crypto ramps up midterm push with 32 House endorsements",
-    "link": "https://www.theblock.co/news/regulation/2026-08-24-stand-with-crypto-ramps-up-midterm-push-with-32-house-endorsements-412616",
-    "pubDate": "Mon, 24 Aug 2026 15:57:45 +0000",
-    "source": "The Block",
-    "category": "crypto",
-    "content": "Stand With Crypto is backing more than 30 House candidates as it looks to flex its political influence once more in the upcoming elections.",
-    "image": "https://www.tbstat.com/wp/uploads/2022/12/20221220_DAO-Voting-1-1200x675.jpg",
-    "summary": "Stand With Crypto, a political advocacy group, has endorsed over 30 candidates for the U.S. House of Representatives ahead of the midterm elections, aiming to amplify its influence on crypto-related policies.",
-    "importance": 6,
-    "classified": true
-  },
-  {
     "title": "Is Bitcoin Out of Its Bear Market? These Analysts Think So",
     "link": "https://bitcoinmagazine.com/news/is-bitcoin-out-of-bear-market",
     "pubDate": "Tue, 25 Aug 2026 20:51:18 +0000",
@@ -1500,18 +1512,6 @@
     "classified": true
   },
   {
-    "title": "Seeing through murky waters",
-    "link": "https://www.technologyreview.com/2026/08/25/1140955/seeing-through-murky-waters/",
-    "pubDate": "Tue, 25 Aug 2026 21:00:00 +0000",
-    "source": "MIT Technology Review",
-    "category": "ai",
-    "content": "When remotely operated vehicles settle on the seafloor or dig through a sand bed, they can kick up clouds of sediment that onboard cameras struggle to see through. Often, the only thing to do is wait until the dust settles. But a new system developed by Amy Phung, SM ’23, PhD ’26, and her advisor…",
-    "image": "",
-    "summary": "Researchers have developed a new system using AI to improve visibility for underwater cameras in murky conditions by reducing sediment interference. This innovation could enhance the effectiveness of remotely operated vehicles in underwater exploration and research.",
-    "importance": 6,
-    "classified": true
-  },
-  {
     "title": "Bitcoin slips from $80K as gold cools with falling US bond yields",
     "link": "https://cointelegraph.com/markets/bitcoin-slips-from-80k-as-gold-cools-with-falling-us-bond-yields?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "pubDate": "Tue, 25 Aug 2026 15:15:35 +0000",
@@ -1520,6 +1520,18 @@
     "content": "Bitcoin bulls battled for control of the $80,000 zone as gold came off its highest levels since mid-May on falling US bond yields.",
     "image": "https://s3-images.ctmedia.io/media/article-covers/crypto-bitcoin-btc-price.jpg",
     "summary": "Bitcoin struggled to maintain its position above $80,000 as gold prices declined following a drop in US bond yields. The market saw increased volatility as investors adjusted to shifting economic signals.",
+    "importance": 5,
+    "classified": true
+  },
+  {
+    "title": "AI models flub these intelligence tests. Can you fare any better?",
+    "link": "https://www.technologyreview.com/2026/08/26/1141952/puzzles-ai-models-flub-these-tests/",
+    "pubDate": "Wed, 26 Aug 2026 09:00:00 +0000",
+    "source": "MIT Technology Review",
+    "category": "ai",
+    "content": "Puzzles and games have been central to AI development since the very beginning. Just as we humans like to test our smarts with crosswords or logic puzzles, developers can test how far models have advanced with a gaming gauntlet. The term “machine learning” was popularized in a 1959 article by the IBM computer scientist Arthur…",
+    "image": "",
+    "summary": "The article discusses how AI models struggle with traditional intelligence tests like puzzles and logic games, which have long been used to gauge human and machine intelligence. It highlights the ongoing challenge of measuring AI capabilities through such tests, despite advancements in the field.",
     "importance": 5,
     "classified": true
   },
@@ -1533,18 +1545,6 @@
     "image": "",
     "summary": "Ringg, an Indian company, has successfully raised $10 million in a Series A extension round from Peak XV. This funding is intended to further its advancements in voice AI technology, aiming to innovate beyond conventional phone call applications.",
     "importance": 5,
-    "classified": true
-  },
-  {
-    "title": "Crypto rally spills into dog and cat memecoins as smaller tokens double in a week",
-    "link": "https://www.coindesk.com/markets/2026/08/25/crypto-rally-spills-into-dog-and-cat-memecoins-as-smaller-tokens-double-in-a-week",
-    "pubDate": "Tue, 25 Aug 2026 06:26:29 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "Robinhood Chain-based Cash Cat jumped more than 50% in a day, while several smaller animal-themed tokens have gained between 50% and 130% over the past week.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/496fc55921eceecdf3347c78eae40635ca90c1cc-1378x756.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "A recent crypto market rally has extended to smaller animal-themed memecoins, with several tokens experiencing significant gains. Robinhood Chain-based Cash Cat jumped over 50% in a day, while other smaller memecoins have seen increases between 50% and 130% over the past week.",
-    "importance": 4,
     "classified": true
   },
   {
@@ -1568,18 +1568,6 @@
     "content": "Petroleum-based adhesives are everywhere: bonding the wood and drywall in a construction project, holding together the joints of furniture, and even sticking labels to otherwise recyclable containers.  “The labels on a container are held up with petroleum-based glue. And because of that, even though you’re putting the container in the recycle bin, it will not…",
     "image": "",
     "summary": "The article discusses the environmental issues caused by petroleum-based adhesives, which are widely used in construction, furniture, and packaging. These adhesives prevent recyclable materials from being properly recycled due to contamination.",
-    "importance": 4,
-    "classified": true
-  },
-  {
-    "title": "MIT tech powered the Artemis II livestreams",
-    "link": "https://www.technologyreview.com/2026/08/25/1140961/mit-tech-powered-the-artemis-ii-livestreams/",
-    "pubDate": "Tue, 25 Aug 2026 21:00:00 +0000",
-    "source": "MIT Technology Review",
-    "category": "ai",
-    "content": "During the original US missions to the moon in the 1960s and ’70s, astronauts relied on radio-­frequency systems to communicate, sending grainy, low-quality images and videos to Earth. But on the Artemis II Orion mission in April, spacecraft transmitted crystal-clear footage at speeds on par with those of home internet connections.  The livestreams so many…",
-    "image": "",
-    "summary": "The Artemis II Orion mission in April showcased high-quality livestreams with internet-like speeds, a stark contrast to the grainy transmissions of the 1960s Apollo missions. This advancement was powered by technology developed at MIT.",
     "importance": 4,
     "classified": true
   },
@@ -1641,6 +1629,18 @@
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/1872-Factory-One-opening-1152x648.jpeg",
     "summary": "Former SpaceX engineers are developing an automated robotic factory to produce steel parts, focusing on modular design and gradual automation rather than full autonomy. The initiative aims to lower labor costs and increase precision in manufacturing.",
     "importance": 4,
+    "classified": true
+  },
+  {
+    "title": "Raised on AI",
+    "link": "https://www.technologyreview.com/2026/08/26/1141949/editors-letter-september-2026/",
+    "pubDate": "Wed, 26 Aug 2026 09:00:00 +0000",
+    "source": "MIT Technology Review",
+    "category": "ai",
+    "content": "When my oldest child was born, I immediately set up Gmail and Twitter accounts in her name. I broadly announced her birth online and proceeded to plaster her photo across all sorts of platforms. In short, I began creating her digital footprint long before she could stand on her own two feet.  Fast-forward a couple…",
+    "image": "https://wp.technologyreview.com/wp-content/uploads/2025/06/mat_debrief.png?w=840",
+    "summary": "The article discusses a parent's decision to create a digital footprint for their newborn child by setting up online accounts and sharing photos, highlighting concerns about privacy and AI in the modern age.",
+    "importance": 3,
     "classified": true
   },
   {
