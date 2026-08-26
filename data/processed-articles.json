@@ -1,6 +1,18 @@
 [
   {
-    "title": "Japan targets early 2030s launch for blockchain-based stock and bond settlement system",
+    "title": "Dallas Fed warns tokenized deposits could strip $700 billion from U.S. banks' lending capacity",
+    "link": "https://www.coindesk.com/business/2026/08/26/dallas-fed-warns-tokenized-deposits-could-strip-usd700-billion-from-u-s-banks-lending-capacity",
+    "pubDate": "Wed, 26 Aug 2026 11:46:19 +0000",
+    "source": "CoinDesk",
+    "category": "both",
+    "content": "Programmable deposits and AI agents may enable instantaneous, automated bank switching for higher yields, driving up bank funding costs.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/1f36f4b6075554c7a225b5bdef6b7d0bb9142a62-1920x1280.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "The Dallas Fed warns that programmable deposits and AI agents could enable instantaneous, automated bank switching for higher yields. This trend may drive up bank funding costs and potentially strip $700 billion from U.S. banks' lending capacity.",
+    "importance": 9,
+    "classified": true
+  },
+  {
+    "title": "Japan to start stocks and bonds tokenization development plans this year",
     "link": "https://www.coindesk.com/business/2026/08/26/japan-plans-blockchain-settlement-network-for-stocks-and-government-bonds",
     "pubDate": "Wed, 26 Aug 2026 09:06:00 +0000",
     "source": "CoinDesk",
@@ -20,18 +32,6 @@
     "content": "Friday’s expiry follows bitcoin’s surge from $62,000 to $80,000, leaving market makers with increased exposure to manage around several key strike prices.",
     "image": "https://cdn.sanity.io/images/s3y3vcno/production/433dc66ccff9e405374f8e47dd644523e988eda5-2400x1200.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
     "summary": "A massive $6.4 billion bitcoin options expiry is scheduled for Friday, which is expected to amplify volatility in the market. This event follows a significant surge in bitcoin's price from $62,000 to $80,000, leaving market makers with substantial exposure to manage around various strike prices.",
-    "importance": 9,
-    "classified": true
-  },
-  {
-    "title": "Solana ETFs extend growth streak to 5 days after year's biggest inflows",
-    "link": "https://www.coindesk.com/markets/2026/08/25/solana-etfs-extend-growth-streak-to-5-days-after-year-s-biggest-inflows",
-    "pubDate": "Tue, 25 Aug 2026 10:25:32 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "Monday's $33.5 million was the largest single-day inflow since December, pushing cumulative net inflows to a record $1.22 billion and trading volume to $166.8 million.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/ebb5a0f62882b8a5af36fcacd210933b3a4950a7-3770x2122.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "Solana Exchange Traded Funds (ETFs) recorded their largest single-day inflow since December on Monday, with $33.5 million. This pushed cumulative net inflows to a record $1.22 billion and trading volume to $166.8 million, extending a five-day growth streak.",
     "importance": 9,
     "classified": true
   },
@@ -57,6 +57,42 @@
     "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/DCD_082026_Site.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
     "summary": "AI models, particularly OpenAI's Astra, have recently demonstrated advanced mathematical problem-solving abilities, solving longstanding unsolved problems and sparking an existential crisis in the mathematics community. Leading mathematicians express concerns over AI's rapid progress, potential impact on academic careers, and the future of mathematical research, while also acknowledging the technology's potential to democratize access and accelerate discovery.",
     "importance": 9,
+    "classified": true
+  },
+  {
+    "title": "The 3 catalysts that could define bitcoin's next move",
+    "link": "https://www.coindesk.com/daybook-us/2026/08/26/the-3-catalysts-that-could-define-bitcoin-s-next-move",
+    "pubDate": "Wed, 26 Aug 2026 11:02:33 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "Your day-ahead look for Aug. 26, 2026",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/693575c5c547ec149e1c707e4ac159476905398f-600x338.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "This article provides a day-ahead market outlook for August 26, 2026, detailing three potential catalysts that could define Bitcoin's next price movements. It focuses on factors expected to influence the cryptocurrency's short-term trajectory.",
+    "importance": 8,
+    "classified": true
+  },
+  {
+    "title": "Bitcoin takes a breather after adding 23% in 7 days as ETF demand holds steady",
+    "link": "https://www.coindesk.com/markets/2026/08/26/bitcoin-takes-a-breather-after-adding-23-in-7-days-as-etf-demand-holds-steady",
+    "pubDate": "Wed, 26 Aug 2026 10:45:29 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "The price of bitcoin fell to $79,000 on Wednesday after gaining 23% in seven days as August ETF inflows climbed above $3 billion.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/71f884c9ed5ca051ca0b72a7daa966a90cfd37b2-1520x856.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "Bitcoin's price dipped to $79,000 on Wednesday, taking a breather after a substantial 23% gain over the past seven days. This minor correction occurred amid continued strong demand, with August ETF inflows for the cryptocurrency already exceeding $3 billion.",
+    "importance": 8,
+    "classified": true
+  },
+  {
+    "title": "Euro stablecoins get a mainstream push as Revolut begins rolling out EURR in Europe",
+    "link": "https://www.coindesk.com/business/2026/08/26/euro-stablecoins-get-a-mainstream-push-as-revolut-begins-rolling-out-eurr-in-europe",
+    "pubDate": "Wed, 26 Aug 2026 10:03:43 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "Revolut said the stablecoin’s rollout will start with a select group of customers within Denmark, Poland, and Portugal.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/3cd4d678c4ba0e042e13fafc6c1f01fa2cef3847-1420x916.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "Revolut is initiating the rollout of its euro-pegged stablecoin, EURR, to a select group of customers in Denmark, Poland, and Portugal. This strategic move represents a significant push for mainstream adoption of euro stablecoins within Europe.",
+    "importance": 8,
     "classified": true
   },
   {
@@ -156,38 +192,14 @@
     "classified": true
   },
   {
-    "title": "Bitcoin extends 7-day advance to roughly 25% ",
-    "link": "https://www.coindesk.com/markets/2026/08/25/bitcoin-extends-7-day-advance-to-roughly-25",
-    "pubDate": "Tue, 25 Aug 2026 10:52:03 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "Bitcoin crossed $80,000 for the first time since May, extending its seven-day advance to roughly 25%.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/da9df256ec221c9e88238b69eb757d3b56013646-1520x855.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "Bitcoin has surged past $80,000, marking its first time at this level since May. This milestone extends its impressive seven-day advance to approximately 25%.",
-    "importance": 8,
-    "classified": true
-  },
-  {
-    "title": "U.S. widens Iran crackdown to encompass crypto, gold, shipping and technology",
-    "link": "https://www.coindesk.com/policy/2026/08/25/u-s-widens-iran-crackdown-to-encompass-crypto-gold-shipping-and-technology",
-    "pubDate": "Tue, 25 Aug 2026 08:47:18 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "Treasury says Ivan Obukhov processed over $100 million in crypto for IRGC-QF oil sales since 2023.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/36e62aa5a6df25b3cf06c337c082dfa82c1f0a05-1920x1252.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "The U.S. Treasury has expanded its crackdown on Iran, targeting crypto, gold, shipping, and technology sectors. This move follows the revelation that Ivan Obukhov processed over $100 million in cryptocurrency for Iran's IRGC-QF oil sales since 2023.",
-    "importance": 8,
-    "classified": true
-  },
-  {
-    "title": "Live updates: Bitcoin settles in under $80,000, with interest rates headed lower on Tuesday",
-    "link": "https://www.coindesk.com/business/2026/08/25/live-updates-bitcoin-etfs-draw-a-seventh-straight-day-of-inflows-as-the-rally-holds-above-usd80-000",
-    "pubDate": "Tue, 25 Aug 2026 07:40:11 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "Spot bitcoin funds took in $337.56 million on Aug. 24, extending an unbroken run of inflows that has now put real money behind a rally that started with a short squeeze.",
-    "image": "",
-    "summary": "Spot Bitcoin ETFs have experienced a sixth consecutive day of inflows, collecting $337.56 million on August 24th. This sustained investment is providing real financial backing for the ongoing Bitcoin rally, pushing its price above $80,000.",
+    "title": "Taurus links digital asset platforms to Swift’s blockchain ledger",
+    "link": "https://cointelegraph.com/news/taurus-digital-asset-platforms-swift-blockchain-ledger?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Wed, 26 Aug 2026 12:00:00 +0000",
+    "source": "Cointelegraph",
+    "category": "both",
+    "content": "Taurus expects first institutional clients to connect in days, with initial DLT transactions through its platforms expected within weeks.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/blockchain-technology-takes-hold-swift.jpg",
+    "summary": "Taurus is integrating its digital asset platforms with Swift's blockchain ledger, enabling institutional clients to connect within days and execute DLT transactions in the coming weeks. This collaboration aims to bridge traditional finance with blockchain-based asset management.",
     "importance": 8,
     "classified": true
   },
@@ -216,9 +228,9 @@
     "classified": true
   },
   {
-    "title": "US banking groups plan nationwide blockchain network for 2027 ",
+    "title": "US state banking groups plan nationwide blockchain network for 2027 ",
     "link": "https://cointelegraph.com/news/us-banking-groups-nationwide-blockchain-network-2027?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Wed, 26 Aug 2026 04:17:39 +0000",
+    "pubDate": "Wed, 26 Aug 2026 04:19:00 +0000",
     "source": "Cointelegraph",
     "category": "both",
     "content": "BankChain joins a growing field of bank-led networks building shared infrastructure for tokenized deposits and onchain payments.",
@@ -336,14 +348,14 @@
     "classified": true
   },
   {
-    "title": "Korean bank taps Ripple for payments, Pakistan opens crypto licensing: Asia Express",
-    "link": "https://cointelegraph.com/magazine/korean-bank-to-use-ripple-payments-japans-first-exchange-in-4-years-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Tue, 25 Aug 2026 02:03:55 +0000",
-    "source": "Cointelegraph",
+    "title": "‘Altitude sickness can wait’: Bitcoin’s historic short squeeze, Bessent catalyst may signal bull-market reset, analysts say",
+    "link": "https://www.theblock.co/news/markets/2026-08-26-altitude-sickness-can-wait-bitcoins-historic-short-squeeze-bessent-catalyst-may-signal-bull-market-reset-analysts-say-412785",
+    "pubDate": "Wed, 26 Aug 2026 11:47:25 +0000",
+    "source": "The Block",
     "category": "crypto",
-    "content": "Asia’s biggest crypto hubs are locked in a tax-cut arms race, while Ripple will help Korea’s Jeonbuk Bank move money across borders.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/asia-express-10.jpg",
-    "summary": "Asian crypto hubs are engaging in a tax-cut competition, while Korea's Jeonbuk Bank is partnering with Ripple to facilitate cross-border payments. These developments highlight ongoing regulatory and technological advancements within the cryptocurrency sector in Asia.",
+    "content": "Bitwise CIO Matt Hougan said Treasury Secretary Scott Bessent's recent actions provide an additional macro catalyst.",
+    "image": "https://www.tbstat.com/wp/uploads/2025/06/cropped-6-1200x675.jpg",
+    "summary": "Bitcoin experienced a historic short squeeze, and analysts suggest Treasury Secretary Scott Bessent's recent actions could signal a bull-market reset. Bitwise CIO Matt Hougan highlighted Bessent's actions as a significant macro catalyst for the cryptocurrency market.",
     "importance": 8,
     "classified": true
   },
@@ -540,14 +552,14 @@
     "classified": true
   },
   {
-    "title": "Is it legal to train AI models on copyrighted books? It’s complicated",
-    "link": "https://techcrunch.com/2026/08/23/is-it-legal-to-train-ai-models-on-copyrighted-books-its-complicated/",
-    "pubDate": "Sun, 23 Aug 2026 15:00:00 +0000",
-    "source": "TechCrunch AI",
+    "title": "Bill Gates is deeply worried about AI, and he’s no longer staying quiet",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/984923/bill-gates-is-deeply-worried-about-ai-and-hes-no-longer-staying-quiet",
+    "pubDate": "2026-08-26T11:07:40.000Z",
+    "source": "The Verge AI",
     "category": "ai",
-    "content": "Most published authors have, without their knowledge or consent, contributed to the development of the same AI tools that threaten to undermine their livelihoods. That seems illegal, right?",
-    "image": "",
-    "summary": "The article discusses the legal complexities surrounding the use of copyrighted books to train AI models without the authors' knowledge or consent, highlighting ethical and legal concerns for content creators.",
+    "content": "Bill Gates, chair of the Gates Foundation, speaks during a 2024 conference. | Bloomberg via Getty Images\t\n\nBill Gates has been reflecting a lot on AI lately, and the process has triggered a stark awakening. Once a staunch AI optimist, the Microsoft cofounder is now deeply pessimistic about what AI means for our collective future. \nHaving been conspicuously quiet on AI issues recently, Gates is back with a nearly 6,000-word essay seeking to reclaim a central role in shaping the technology globally. Titled \"The turbulent AI era is here. The choices we make now are critical,\" Gates warns the world is not remotely ready for what is coming. Worse still, he notes, \"we are not preparing for it.\" \nGates attempts to chart a path forward, but the essay l …\nRead the full story at The Verge.",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/gettyimages-2095072875.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "summary": "Bill Gates, previously an AI optimist, has shifted to deep pessimism in a 6,000-word essay warning that the world is unprepared for AI's societal impact. He calls for urgent global action to address the challenges posed by AI advancements.",
     "importance": 8,
     "classified": true
   },
@@ -560,18 +572,6 @@
     "content": "OpenAI says its new AI chip, Jalapeño, completes tasks more efficiently and returns responses faster than other AI systems, according to a blog post published on Tuesday. During a briefing with reporters, OpenAI hardware vice president Richard Ho said Jalapeño offers the \"best of both worlds\" with lower latency and higher throughput, as AI systems typically \"have to make a trade-off between the two.\"\nFirst introduced in June, Jalapeño is an Application-Specific Integrated Circuit (ASIC) made in partnership with Broadcom. It's designed for AI inference - the process of running a trained AI model to complete a task or deploy an agent.\nTo mea …\nRead the full story at The Verge.",
     "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Jalapeno-chip-final.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
     "summary": "OpenAI has unveiled its new AI chip, Jalapeño, which promises faster and more efficient AI responses compared to competitors by offering lower latency and higher throughput. Developed in partnership with Broadcom, the ASIC is designed specifically for AI inference tasks.",
-    "importance": 8,
-    "classified": true
-  },
-  {
-    "title": "OpenAI hit the brakes. Now what?",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/982323/openai-hit-brakes-voluntary-pacing-ai",
-    "pubDate": "2026-08-19T17:10:09.000Z",
-    "source": "The Verge AI",
-    "category": "ai",
-    "content": "With a looming IPO, intense competition from Anthropic, and Chinese and open-weight rivals nipping at its heels, OpenAI has plenty of reasons to move fast. Instead, it hit the brakes.\nOn Tuesday, the company said it had slowed the pace of some AI development while it tightened security and safeguards. That included a two-week pause in reinforcement learning training on its \"latest models intended for deployment,\" and an ongoing delay to its \"largest planned frontier RL run.\"\nThe decision is a very public test of an idea AI safety advocates have pushed for for years: that companies should be willing to bow out of the AI race and slow things …\nRead the full story at The Verge.",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/STK201_SAM_ALTMAN_CVIRGINIA2C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "summary": "OpenAI has temporarily paused some AI development, including a two-week halt in reinforcement learning training for upcoming models and delays to a major frontier reinforcement learning run, to prioritize security and safety measures. The move reflects growing pressure from safety advocates and intensifying competition in the AI space.",
     "importance": 8,
     "classified": true
   },
@@ -720,25 +720,25 @@
     "classified": true
   },
   {
-    "title": "Terabytes of credentials leaked in massive supply-chain attack",
-    "link": "https://arstechnica.com/security/2026/08/terabytes-of-credentials-leaked-in-massive-supply-chain-attack/",
-    "pubDate": "Wed, 12 Aug 2026 21:43:21 +0000",
-    "source": "Ars Technica AI",
-    "category": "ai",
-    "content": "The data was scraped and exfiltrated from 2,500 users of a compromised AI package.",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2021/07/data-breach.jpeg",
-    "summary": "A massive supply-chain attack has resulted in the leak of terabytes of credentials from 2,500 users of a compromised AI package, with the data being scraped and exfiltrated. The attack highlights the vulnerability of AI systems to cyber threats. This incident has significant implications for the security of AI-powered applications.",
-    "importance": 8,
+    "title": "ECB claims digital euro will offer 'maximum level of privacy' amid surveillance fears",
+    "link": "https://www.coindesk.com/policy/2026/08/26/the-digital-euro-will-offer-more-privacy-than-regular-bank-transfers-ecb-says",
+    "pubDate": "Wed, 26 Aug 2026 11:14:16 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "Central bank officials say the Eurosystem will be structurally unable to link users to purchases, but civil society groups remain skeptical.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/d0db21d928477a86ae47705620f76771436eb0c7-2650x1512.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "The European Central Bank claims its proposed digital euro will offer the highest level of privacy, assuring that the system cannot link users to their purchases. This assertion aims to address surveillance fears, though civil society groups remain skeptical about the central bank's privacy guarantees.",
+    "importance": 7,
     "classified": true
   },
   {
-    "title": "Live updates: Zcash pulls back 8% as its Grayscale ETF goes live, capping a 60% rally",
+    "title": "Live updates: Bitcoin flat near $78,500 ahead Nvidia earnings",
     "link": "https://www.coindesk.com/business/2026/08/26/live-updates-zcash-pulls-back-8-as-its-grayscale-etf-goes-live-capping-a-60-rally",
     "pubDate": "Wed, 26 Aug 2026 08:51:18 +0000",
     "source": "CoinDesk",
     "category": "crypto",
-    "content": "The privacy coin's spot ETF began NYSE trading Tuesday, which was one of the catalysts behind its surge to an eight-year high. Now traders are selling the news, with leverage stacked into the move.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/01a18fc46c4e26a250bc9e85e92b715fe4a43c69-1510x848.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "content": "Markets are also looking ahead to Fed Chair Kevin Warsh's keynote speech at the Jackson Hole conference on Friday.",
+    "image": "",
     "summary": "Zcash experienced an 8% pullback following the launch of its spot ETF on the NYSE on Tuesday, capping a 60% rally that saw the privacy coin reach an eight-year high. Traders appear to be \"selling the news\" after the ETF went live, with leverage contributing to the price movement.",
     "importance": 7,
     "classified": true
@@ -804,19 +804,43 @@
     "classified": true
   },
   {
-    "title": "Franklin Templeton and Hashkey roll out U.S. tokenized money fund in Asia",
-    "link": "https://www.coindesk.com/business/2026/08/25/franklin-templeton-and-hashkey-roll-out-u-s-tokenized-money-fund-in-asia",
-    "pubDate": "Tue, 25 Aug 2026 07:55:18 +0000",
-    "source": "CoinDesk",
-    "category": "both",
-    "content": "Tokenized U.S. treasury and money market funds are one of the fastest-growing segments in the digital asset markets, growing fifteenfold in two years.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/09b91de6de40cce9a15d10990697d9b05efe241f-1920x1078.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "Franklin Templeton and Hashkey have launched a tokenized U.S. money market fund in Asia, leveraging blockchain technology to offer digital asset exposure. This follows a surge in tokenized treasury and money market funds, which have grown fifteenfold in two years.",
+    "title": "Bernstein forecasts Bitcoin to reclaim $125K by late 2026 ahead of cycle peak",
+    "link": "https://cointelegraph.com/news/bernstein-predicts-bitcoin-reclaim-125000-year-end?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Wed, 26 Aug 2026 12:32:36 +0000",
+    "source": "Cointelegraph",
+    "category": "crypto",
+    "content": "Bernstein expects Bitcoin to reclaim $125,000 by late 2026 before reaching $300,000 in 2029 under its base case, with a bull case of $500,000.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-blockchain-powered-prediction-markets-governance-and-uses-beyond-death-pools-bitcoin-2.jpg",
+    "summary": "Bernstein predicts Bitcoin will reach $125,000 by late 2026 and potentially $300,000 by 2029, with a bullish scenario of $500,000. The forecast highlights a long-term upward trend for Bitcoin's price.",
     "importance": 7,
     "classified": true
   },
   {
-    "title": "Revolut rolls out euro stablecoin in three European markets",
+    "title": "Supply absorption ‘key question’ as Bitcoin fails to reclaim $80K: Analysis",
+    "link": "https://cointelegraph.com/markets/supply-absorption-key-question-as-bitcoin-fails-to-reclaim-80k-analysis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Wed, 26 Aug 2026 10:49:26 +0000",
+    "source": "Cointelegraph",
+    "category": "crypto",
+    "content": "Bitcoin struggled to establish support at $80,000 as investor cohorts all returned to net profitability.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-bitcoin-network-death-spiral-still-likely.jpg",
+    "summary": "Bitcoin failed to reclaim the $80,000 level as investor groups returned to net profitability, raising concerns about supply absorption. Analysts highlight this as a critical factor in Bitcoin's price stability.",
+    "importance": 7,
+    "classified": true
+  },
+  {
+    "title": "Japan weighs blockchain fast lane for securities cash settlement",
+    "link": "https://cointelegraph.com/news/japan-weighs-blockchain-fast-lane-for-securities-cash-settlement?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Wed, 26 Aug 2026 10:46:47 +0000",
+    "source": "Cointelegraph",
+    "category": "both",
+    "content": "The FSA, Finance Ministry, BOJ and financial institutions plan to study the infrastructure and produce a development plan by early 2027.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/c-man-lamba-2-web3.png",
+    "summary": "Japan is exploring a blockchain-based fast-track system for securities cash settlement, with financial regulators and institutions collaborating to develop infrastructure and a plan by early 2027.",
+    "importance": 7,
+    "classified": true
+  },
+  {
+    "title": "Revolut rolls out euro stablecoin in 3 European markets",
     "link": "https://cointelegraph.com/news/revolut-eurr-euro-stablecoin-europe-rollout?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "pubDate": "Wed, 26 Aug 2026 08:45:41 +0000",
     "source": "Cointelegraph",
@@ -854,7 +878,7 @@
   {
     "title": "Strategy’s $66B Bitcoin machine hinges on capital markets, not BTC price: Report",
     "link": "https://cointelegraph.com/news/strategy-financing-risk-not-bitcoin-sales?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Tue, 25 Aug 2026 16:47:40 +0000",
+    "pubDate": "Tue, 25 Aug 2026 16:49:00 +0000",
     "source": "Cointelegraph",
     "category": "both",
     "content": "Strategy’s biggest risk may not be a Bitcoin crash, but losing access to the capital markets that help it service $1.76 billion in annual obligations.",
@@ -948,38 +972,14 @@
     "classified": true
   },
   {
-    "title": "CFTC, US soldier accused of illegal Polymarket bet spar over interpretation of prediction markets",
-    "link": "https://cointelegraph.com/news/cftc-us-soldier-polymarket-bet-prediction-market-regulations?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Mon, 24 Aug 2026 21:33:13 +0000",
-    "source": "Cointelegraph",
-    "category": "both",
-    "content": "A judge stayed the CFTC’s civil case against a soldier who allegedly used nonpublic information for a Polymarket bet, but the regulator is trying to weigh in on the criminal case.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-prediction-market-cftc-rule-1.jpg",
-    "summary": "A judge paused the CFTC’s civil case against a U.S. soldier accused of using nonpublic information for a Polymarket bet, while the regulator seeks to influence the criminal case. The dispute centers on the regulation and interpretation of prediction markets like Polymarket.",
-    "importance": 7,
-    "classified": true
-  },
-  {
-    "title": "Gemini plans to distribute crypto prediction markets through Apex brokerages",
-    "link": "https://cointelegraph.com/news/gemini-plans-to-distribute-crypto-prediction-markets-through-apex-brokerages?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Mon, 24 Aug 2026 20:46:16 +0000",
-    "source": "Cointelegraph",
-    "category": "both",
-    "content": "The proposed deal would make Gemini the exclusive venue for crypto event contracts offered through Apex’s FCM, expanding its prediction-market reach to brokerage clients.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-polymarkets-lawsuit-could-decide-who-regulates-us-prediction-markets.png",
-    "summary": "Gemini is set to become the exclusive venue for crypto event contracts distributed through Apex’s Futures Commission Merchant (FCM), allowing brokerage clients to access crypto prediction markets. This partnership expands Gemini’s reach in the prediction market space by leveraging Apex’s brokerage network.",
-    "importance": 7,
-    "classified": true
-  },
-  {
-    "title": "Coinbase-affiliated advocacy group endorses candidates for US midterms",
-    "link": "https://cointelegraph.com/news/coinbase-stand-crypto-advocacy-group-endorses-midterm-candidates?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Mon, 24 Aug 2026 19:18:06 +0000",
-    "source": "Cointelegraph",
+    "title": "Bernstein sees bitcoin reaching $150,000 by mid-2027 amid ‘debasement trade,’ but cuts Strategy target to $350",
+    "link": "https://www.theblock.co/news/markets/2026-08-26-bernstein-sees-bitcoin-reaching-150000-by-mid-2027-amid-debasement-trade-but-cuts-strategy-target-to-350-412778",
+    "pubDate": "Wed, 26 Aug 2026 10:21:18 +0000",
+    "source": "The Block",
     "category": "crypto",
-    "content": "With just over two months until the US general election, Stand With Crypto announced its pick for politicians in its efforts to “elect the most pro-crypto Congress in history.”",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-crypto-for-america-cryptocurrencies-in-campaign-finance-1.jpg",
-    "summary": "Stand With Crypto, an advocacy group affiliated with Coinbase, has endorsed candidates for the upcoming US midterm elections to promote a pro-crypto Congress. The group aims to influence the election outcome to advance cryptocurrency-friendly policies.",
+    "content": "Bernstein expects bitcoin to reach $150,000 by mid-2027 in its base case, before reaching a cycle peak of around $300,000 in 2029.",
+    "image": "https://www.tbstat.com/wp/uploads/2024/05/20240509_Bitcoin_News_6-1200x675.jpg",
+    "summary": "Bernstein predicts Bitcoin could reach $150,000 by mid-2027 due to a 'debasement trade,' though it has lowered its long-term Strategy target to $350. The firm also forecasts a potential cycle peak of $300,000 in 2029.",
     "importance": 7,
     "classified": true
   },
@@ -1104,30 +1104,6 @@
     "classified": true
   },
   {
-    "title": "Crypto exchange volumes double in five days as market activity rebounds",
-    "link": "https://www.theblock.co/news/markets/2026-08-24-crypto-exchange-volumes-double-in-five-days-as-market-activity-rebounds-412641",
-    "pubDate": "Mon, 24 Aug 2026 18:07:20 +0000",
-    "source": "The Block",
-    "category": "crypto",
-    "content": "Monthly volume tells a similar story, with $490 billion traded so far in August compared to $670 billion in July.",
-    "image": "https://www.tbstat.com/wp/uploads/2023/03/20230327_MarketsUp_Down_Generic_4-1200x675.jpg",
-    "summary": "Crypto exchange trading volumes surged, doubling within five days as market activity rebounded, with August's $490 billion in volume still trailing July's $670 billion.",
-    "importance": 7,
-    "classified": true
-  },
-  {
-    "title": "Hyperliquid Policy Center urges SEC, CFTC to harmonize rules for perpetual contracts",
-    "link": "https://www.theblock.co/news/regulation/2026-08-24-hyperliquid-policy-center-urges-sec-cftc-harmonize-rules-perpetual-contracts-412601",
-    "pubDate": "Mon, 24 Aug 2026 16:18:24 +0000",
-    "source": "The Block",
-    "category": "crypto",
-    "content": "The push comes as Hyperliquid's multi-asset perpetuals gain scale and draw scrutiny from traditional exchanges.",
-    "image": "https://www.tbstat.com/wp/uploads/2026/04/20260410_Hyperliquid_News-1200x675.jpg",
-    "summary": "The Hyperliquid Policy Center has called on U.S. regulators SEC and CFTC to align rules for perpetual contracts, citing growing adoption of Hyperliquid's multi-asset perpetuals and increased scrutiny from traditional exchanges. The move highlights regulatory challenges in decentralized derivatives trading.",
-    "importance": 7,
-    "classified": true
-  },
-  {
     "title": "Kraken Says ‘Dust Attack’ From Sanctioned HTX Wallet Locked Out Customers",
     "link": "https://bitcoinmagazine.com/news/kraken-says-users-were-dust-attacked",
     "pubDate": "Tue, 25 Aug 2026 19:27:12 +0000",
@@ -1200,14 +1176,26 @@
     "classified": true
   },
   {
-    "title": "Taking your temperature from the inside",
-    "link": "https://www.technologyreview.com/2026/08/25/1140952/taking-your-temperature-from-the-inside/",
-    "pubDate": "Tue, 25 Aug 2026 21:00:00 +0000",
+    "title": "The Download: the Kids issue arrives, and Bill Gates reveals his AI fears",
+    "link": "https://www.technologyreview.com/2026/08/26/1143000/the-download-kids-issue-launch-bill-gates-ai-fears/",
+    "pubDate": "Wed, 26 Aug 2026 12:10:00 +0000",
     "source": "MIT Technology Review",
     "category": "ai",
-    "content": "Oral and forehead thermometers may not accurately capture a person’s core body temperature, and the few ingestible temperature sensors on the market are so big they are hard to swallow and risk obstructing the GI tract. But MIT engineers created one that can send continuous temperature updates at a size of just six by four…",
+    "content": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Introducing: the Kids issue If the desire to limit kids’ use of technology was once a subcurrent, it has become a raging flood. Countries around the world are banning children from…",
+    "image": "https://wp.technologyreview.com/wp-content/uploads/2026/04/mirror-dna.webp?w=840",
+    "summary": "The article discusses a growing global trend of countries banning children's access to technology, with Bill Gates expressing concerns about AI. It highlights the increasing urgency to regulate kids' tech use amid advancing artificial intelligence.",
+    "importance": 7,
+    "classified": true
+  },
+  {
+    "title": "Runable hits $21M to bet AI agents can go from building businesses to growing them",
+    "link": "https://techcrunch.com/2026/08/26/runable-hits-21m-to-bet-ai-agents-can-go-from-building-businesses-to-growing-them/",
+    "pubDate": "Wed, 26 Aug 2026 11:00:00 +0000",
+    "source": "TechCrunch AI",
+    "category": "both",
+    "content": "Runable says 60%–70% of its 1 trillion-plus token usage in the last 90 days came from paying customers.",
     "image": "",
-    "summary": "MIT engineers developed a small ingestible temperature sensor that can send continuous core body temperature updates, addressing issues with traditional oral/forehead thermometers and larger existing ingestible sensors that pose GI tract obstruction risks.",
+    "summary": "Runable raised $21 million to develop AI agents capable of not just building businesses but also growing them. The company reported that 60-70% of its 1 trillion-plus token usage in the last 90 days came from paying customers.",
     "importance": 7,
     "classified": true
   },
@@ -1344,6 +1332,18 @@
     "classified": true
   },
   {
+    "title": "IBM's new Granite 4.2 models ride the wave of interest in local LLMs",
+    "link": "https://arstechnica.com/ai/2026/08/ibms-new-granite-4-2-models-ride-the-wave-of-interest-in-local-llms/",
+    "pubDate": "Wed, 26 Aug 2026 11:10:49 +0000",
+    "source": "Ars Technica AI",
+    "category": "ai",
+    "content": "The focus is on agentic capability and predictable enterprise deployment.",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/ollama-granite-1152x648-1787698912.jpg",
+    "summary": "IBM introduces Granite 4.2 models, emphasizing agentic capabilities and enterprise deployment for local large language models (LLMs). The update aims to enhance predictability and efficiency in AI-driven workflows.",
+    "importance": 7,
+    "classified": true
+  },
+  {
     "title": "AI won’t replace radiologists, but it will dramatically change their jobs",
     "link": "https://arstechnica.com/health/2026/08/ai-wont-replace-radiologists-but-it-will-dramatically-change-their-jobs/",
     "pubDate": "Tue, 25 Aug 2026 15:10:03 +0000",
@@ -1430,24 +1430,12 @@
   {
     "title": "Here’s what happened in crypto today",
     "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Wed, 26 Aug 2026 06:04:55 +0000",
+    "pubDate": "Wed, 26 Aug 2026 12:24:55 +0000",
     "source": "Cointelegraph",
     "category": "crypto",
     "content": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
     "image": "https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg",
     "summary": "This article provides a summary of the latest news and trends in the crypto space, covering Bitcoin price, blockchain, DeFi, Web3, and crypto regulation. It aims to keep readers updated on daily events impacting the cryptocurrency market. The article appears to be a general overview of the current state of the crypto industry.",
-    "importance": 6,
-    "classified": true
-  },
-  {
-    "title": "Bernstein sees new USDC growth cycle, sets $140 Circle price target",
-    "link": "https://cointelegraph.com/news/bernstein-circle-usdc-growth-140-price-target?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Mon, 24 Aug 2026 20:00:39 +0000",
-    "source": "Cointelegraph",
-    "category": "crypto",
-    "content": "USDC supply increased by roughly $2 billion in seven days, with Bernstein citing higher transaction activity and several factors that could support further growth.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-how-to-buy-usd-coin-usdc-in-united-states-1.jpg",
-    "summary": "Bernstein has identified a new growth cycle for USDC, predicting a price target of $140 for Circle. The stablecoin's supply surged by $2 billion in just seven days, driven by increased transaction activity and other supportive factors.",
     "importance": 6,
     "classified": true
   },
@@ -1536,6 +1524,18 @@
     "classified": true
   },
   {
+    "title": "Hearing tech startup Legato emerges from stealth with $12M and a peek at its AI hearing glasses",
+    "link": "https://techcrunch.com/2026/08/26/hearing-tech-startup-legato-emerges-from-stealth-with-12m-and-a-peek-at-its-ai-hearing-glasses/",
+    "pubDate": "Wed, 26 Aug 2026 12:00:00 +0000",
+    "source": "TechCrunch AI",
+    "category": "ai",
+    "content": "The glasses, called Legato Frames, integrate the company’s patented hearing-assistance technology into the arms of eyewear frames.",
+    "image": "",
+    "summary": "Legato, a hearing tech startup, has emerged from stealth mode with $12 million in funding and unveiled its AI-powered hearing glasses called Legato Frames, which integrate hearing-assistance technology into eyewear frames.",
+    "importance": 5,
+    "classified": true
+  },
+  {
     "title": "India’s Ringg gets backing from Peak XV as it pushes voice AI past the phone call",
     "link": "https://techcrunch.com/2026/08/25/indias-ringg-gets-backing-from-peak-xv-as-it-pushes-voice-ai-past-the-phone-call/",
     "pubDate": "Wed, 26 Aug 2026 03:30:00 +0000",
@@ -1545,6 +1545,18 @@
     "image": "",
     "summary": "Ringg, an Indian company, has successfully raised $10 million in a Series A extension round from Peak XV. This funding is intended to further its advancements in voice AI technology, aiming to innovate beyond conventional phone call applications.",
     "importance": 5,
+    "classified": true
+  },
+  {
+    "title": "Kalshi’s $1.5B equity offering is three-quarters sold at $1.12B",
+    "link": "https://cointelegraph.com/news/kalshi-1-5-billion-equity-offering-1-12-billion-sold?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Wed, 26 Aug 2026 10:15:44 +0000",
+    "source": "Cointelegraph",
+    "category": "crypto",
+    "content": "The Form D lists 71 investors and says Kalshi is relying on an exemption that allows certain private offerings without SEC registration.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-legal-implications-of-betting-markets-1.jpg",
+    "summary": "Kalshi has sold 75% of its $1.5 billion equity offering, raising $1.12 billion through a private placement exempt from SEC registration, with 71 investors participating.",
+    "importance": 4,
     "classified": true
   },
   {
@@ -1632,6 +1644,18 @@
     "classified": true
   },
   {
+    "title": "Strategy cuts net leverage to near zero as cash nearly matches convertible debt",
+    "link": "https://www.coindesk.com/markets/2026/08/26/strategy-cuts-net-leverage-to-near-zero-as-cash-nearly-matches-convertible-debt",
+    "pubDate": "Wed, 26 Aug 2026 10:42:52 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "The bitcoin treasury company has built nearly four years of preferred-dividend coverage while continuing to repurchase STRC below par.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/b7a99614202ed28b61d1994d9d008c5549d6458b-3552x1970.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "A bitcoin treasury company has significantly reduced its net leverage, with its cash position now nearly matching its convertible debt. The company has also achieved nearly four years of preferred-dividend coverage and is actively repurchasing its STRC shares below par.",
+    "importance": 3,
+    "classified": true
+  },
+  {
     "title": "Raised on AI",
     "link": "https://www.technologyreview.com/2026/08/26/1141949/editors-letter-september-2026/",
     "pubDate": "Wed, 26 Aug 2026 09:00:00 +0000",
@@ -1692,18 +1716,6 @@
     "classified": true
   },
   {
-    "title": "Treasury’s bond buyback plan fights the market and heightens the danger, billionaire Druckenmiller says",
-    "link": "https://www.coindesk.com/markets/2026/08/25/governments-defending-prices-against-fundamentals-always-lose-billionaire-investor-druckenmiller-says",
-    "pubDate": "Tue, 25 Aug 2026 07:32:32 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "The billionaire investor argues the intervention removes a vital check on government borrowing and fiscal accountability while markets remain the better judge of prices.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/86a15ecf511deb99d9d1558beb572b964626cec7-3000x2000.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "Billionaire investor Stanley Druckenmiller strongly criticizes the U.S. Treasury's bond buyback plan. He argues that this intervention removes a crucial check on government borrowing and fiscal accountability, asserting that market forces are better suited to determine prices.",
-    "importance": 1,
-    "classified": true
-  },
-  {
     "title": "YouTuber finds niche as college admissions mentor",
     "link": "https://www.technologyreview.com/2026/08/25/1140905/youtuber-finds-niche-as-college-admissions-mentor/",
     "pubDate": "Tue, 25 Aug 2026 21:00:00 +0000",
@@ -1712,18 +1724,6 @@
     "content": "As a first-generation student from a small town, Gohar Khan ’21 had to navigate the college admissions process largely on his own. He founded his YouTube channel, Gohar’s Guide, to make things easier for other young people. Today, more than 10 million people follow Khan on social media for college application advice, study tips, and…",
     "image": "",
     "summary": "A first-generation college student turned YouTuber into a successful college admissions mentor, amassing over 10 million followers by sharing study tips and application advice. His channel, Gohar’s Guide, aims to simplify the admissions process for others.",
-    "importance": 1,
-    "classified": true
-  },
-  {
-    "title": "Flock CEO calls for ‘compromise’ as surveillance company faces growing backlash",
-    "link": "https://techcrunch.com/2026/08/23/flock-ceo-calls-for-compromise-as-surveillance-company-faces-growing-backlash/",
-    "pubDate": "Sun, 23 Aug 2026 15:30:00 +0000",
-    "source": "TechCrunch AI",
-    "category": "ai",
-    "content": "Flock Safety faces a growing public outcry over concerns that its surveillance technology could be misused.",
-    "image": "",
-    "summary": "Flock Safety is facing significant public backlash over concerns that its surveillance technology could be misused. In response to the growing public outcry, the CEO of Flock Safety has called for \"compromise.\"",
     "importance": 1,
     "classified": true
   }
