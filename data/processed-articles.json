@@ -24,18 +24,6 @@
     "classified": true
   },
   {
-    "title": "OpenAI says California should strengthen its AI safety bill",
-    "link": "https://techcrunch.com/2026/08/22/openai-says-california-should-strengthen-its-ai-safety-bill/",
-    "pubDate": "Sat, 22 Aug 2026 16:30:34 +0000",
-    "source": "TechCrunch AI",
-    "category": "ai",
-    "content": "OpenAI's global affairs team post also referenced “recent incidents” that “underscore both the need for these protections and the importance of updating them” as new risks emerge.",
-    "image": "",
-    "summary": "OpenAI, a leading AI company, has changed its position on California's AI safety bill, SB 53, and is now advocating for it to be strengthened. This represents a reversal from their prior opposition to the legislation.",
-    "importance": 9,
-    "classified": true
-  },
-  {
     "title": "OpenAI subpoenaed by Alabama AG over Hugging Face hack",
     "link": "https://www.theverge.com/ai-artificial-intelligence/984239/alabama-attorney-general-subpoena-openai-hugging-face-hack",
     "pubDate": "2026-08-25T09:15:03.000Z",
@@ -57,6 +45,18 @@
     "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/DCD_082026_Site.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
     "summary": "AI models, particularly OpenAI's Astra, have recently demonstrated advanced mathematical problem-solving abilities, solving longstanding unsolved problems and sparking an existential crisis in the mathematics community. Leading mathematicians express concerns over AI's rapid progress, potential impact on academic careers, and the future of mathematical research, while also acknowledging the technology's potential to democratize access and accelerate discovery.",
     "importance": 9,
+    "classified": true
+  },
+  {
+    "title": "U.S. state banking associations plan to launch their own nationwide blockchain network",
+    "link": "https://www.coindesk.com/policy/2026/08/25/u-s-state-banking-associations-plan-to-launch-their-own-nationwide-blockchain-network",
+    "pubDate": "Tue, 25 Aug 2026 21:56:57 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "The \"BankChain Alliance\" is aiming for a 2027 launch, and would foster stablecoins, payments and tokenized deposits inside the banking system's regulatory sphere.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/21487bcf7e237d1edbf17de7972f9dc7fa1fa204-3000x1688.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "U.S. state banking associations are planning to launch their own nationwide blockchain network, the \"BankChain Alliance,\" by 2027. This network aims to foster stablecoins, payments, and tokenized deposits within the banking system's regulatory framework.",
+    "importance": 8,
     "classified": true
   },
   {
@@ -192,30 +192,6 @@
     "classified": true
   },
   {
-    "title": "Coinbase debuts tokenized stocks on Base network, joining race to bring equities on blockchain",
-    "link": "https://www.coindesk.com/business/2026/08/24/coinbase-debuts-tokenized-stocks-on-base-network-joining-race-to-bring-equities-on-blockchain",
-    "pubDate": "Mon, 24 Aug 2026 17:12:35 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "The crypto exchange is starting with tokenized versions of Apple, Nvidia, Meta and Alphabet, issued under its new Abu Dhabi framework.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/2ada5aa0d3416de51b4842b79a3c498a51d63c33-2526x1676.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "Coinbase has launched tokenized versions of major tech stocks, including Apple, Nvidia, Meta, and Alphabet, on its Base network. Operating under its new Abu Dhabi framework, this move represents a significant effort to bring traditional equities onto the blockchain, furthering the trend of real-world asset tokenization.",
-    "importance": 8,
-    "classified": true
-  },
-  {
-    "title": "Tom Lee's Bitmine buys $81 million of ETH in largest weekly haul since early July",
-    "link": "https://www.coindesk.com/business/2026/08/24/tom-lee-s-bitmine-buys-usd81-million-of-eth-in-largest-weekly-haul-since-early-july",
-    "pubDate": "Mon, 24 Aug 2026 12:59:55 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "The treasury firm stepped up its ETH buying as Tom Lee said the crypto’s 30% weekly rally could signal a larger move ahead.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/9d7bd39b2982649e7e43cc0537c507eb62abc21c-2048x1152.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "Tom Lee's treasury firm, Bitmine, acquired $81 million worth of Ethereum (ETH), marking its largest weekly purchase since early July. This significant investment aligns with Lee's prediction that the cryptocurrency's recent 30% weekly rally could indicate a larger market movement ahead.",
-    "importance": 8,
-    "classified": true
-  },
-  {
     "title": "Bitcoin enters ‘initial phase’ of new bull market, but $83K remains key: CryptoQuant",
     "link": "https://cointelegraph.com/markets/bitcoin-enters-initial-phase-of-new-bull-market-but-83k-remains-key-cryptoquant?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "pubDate": "Tue, 25 Aug 2026 18:13:11 +0000",
@@ -241,13 +217,13 @@
   },
   {
     "title": "Hugging Face hack exposes the open-weight AI cybersecurity paradox",
-    "link": "https://cointelegraph.com/features/hugging-face-hack-exposes-the-open-weight-ai-cybersecurity-paradox?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "link": "https://cointelegraph.com/magazine/hugging-face-hack-exposes-the-open-weight-ai-cybersecurity-paradox?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "pubDate": "Tue, 25 Aug 2026 13:30:00 +0000",
     "source": "Cointelegraph",
     "category": "ai",
     "content": "Hugging Face relies on open weight Chinese models to defend itself from rogue AI agents. But a lack of safety guardrails makes those models potentially dangerous too.",
     "image": "https://s3-images.ctmedia.io/media/article-covers/wp-cover-30445-creating-good-agi-that-wont-kill-us-all-with-crypto-artifici-960x540.webp",
-    "summary": "A security breach at Hugging Face revealed that the platform relies on open-weight Chinese AI models for cybersecurity, despite these models lacking proper safety guardrails, creating a paradox in AI security practices.",
+    "summary": "A hack at Hugging Face exposed the risks of using open-weight Chinese AI models for cybersecurity, as these models lack necessary safety guardrails despite being employed to defend against rogue AI agents.",
     "importance": 8,
     "classified": true
   },
@@ -444,6 +420,18 @@
     "classified": true
   },
   {
+    "title": "Robotics startup Generalist reaches $3B valuation, sources say",
+    "link": "https://techcrunch.com/2026/08/25/robotics-startup-generalist-reaches-3b-valuation-sources-say/",
+    "pubDate": "Wed, 26 Aug 2026 00:40:59 +0000",
+    "source": "TechCrunch AI",
+    "category": "ai",
+    "content": "The $200 million extension comes just months after the physical AI startup reached a $2 billion valuation.",
+    "image": "",
+    "summary": "Robotics startup Generalist has raised a $200 million funding round, increasing its valuation to $3 billion just months after reaching $2 billion. The company focuses on physical AI applications, bridging the gap between artificial intelligence and robotics.",
+    "importance": 8,
+    "classified": true
+  },
+  {
     "title": "OpenAI’s Jalapeño chip is built for fast inference at scale, benchmarks show",
     "link": "https://techcrunch.com/2026/08/25/openais-jalapeno-chip-is-built-for-fast-inference-at-scale-benchmarks-show/",
     "pubDate": "Tue, 25 Aug 2026 14:22:04 +0000",
@@ -536,18 +524,6 @@
     "content": "Most published authors have, without their knowledge or consent, contributed to the development of the same AI tools that threaten to undermine their livelihoods. That seems illegal, right?",
     "image": "",
     "summary": "The article discusses the legal complexities surrounding the use of copyrighted books to train AI models without the authors' knowledge or consent, highlighting ethical and legal concerns for content creators.",
-    "importance": 8,
-    "classified": true
-  },
-  {
-    "title": "Inherent, founded by DeepMind alumni, says its AI ‘teammate’ just outperformed Anthropic and OpenAI at replicating research",
-    "link": "https://techcrunch.com/2026/08/22/inherent-founded-by-deepmind-alumni-says-its-ai-teammate-just-outperformed-anthropic-and-openai-at-replicating-research/",
-    "pubDate": "Sat, 22 Aug 2026 19:00:00 +0000",
-    "source": "TechCrunch AI",
-    "category": "ai",
-    "content": "Built by DeepMind alumni, British AI lab Inherent released Faraday, an AI agent whose ability to replicate scientific papers could be a stepping stone for innovation.",
-    "image": "",
-    "summary": "Inherent, an AI lab founded by DeepMind alumni, has launched Faraday, an AI agent that reportedly surpassed models from Anthropic and OpenAI in replicating scientific papers. This advancement is seen as a significant step towards accelerating scientific innovation.",
     "importance": 8,
     "classified": true
   },
@@ -1224,6 +1200,18 @@
     "classified": true
   },
   {
+    "title": "OpenAI loses a top data center exec, as stream of high-profile departures continues",
+    "link": "https://techcrunch.com/2026/08/25/openai-loses-a-top-data-center-exec-as-stream-of-high-profile-departures-continues/",
+    "pubDate": "Wed, 26 Aug 2026 00:06:20 +0000",
+    "source": "TechCrunch AI",
+    "category": "ai",
+    "content": "Before Malone left, OpenAI had already reshuffled its infrastructure org, shifting his reporting line away from President Greg Brockman and putting Vice President Sachin Katti in charge of the group.",
+    "image": "",
+    "summary": "OpenAI has experienced another high-profile executive departure with a top data center executive leaving the company. This follows recent organizational changes in its infrastructure team, including a shift in reporting lines under Vice President Sachin Katti.",
+    "importance": 7,
+    "classified": true
+  },
+  {
     "title": "Stability AI, maker of image generator Stable Diffusion, raises $76 million in fresh funding",
     "link": "https://techcrunch.com/2026/08/25/stability-ai-maker-of-image-generator-stable-diffusion-raises-76-million-in-fresh-funding/",
     "pubDate": "Tue, 25 Aug 2026 19:03:47 +0000",
@@ -1389,6 +1377,18 @@
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-149405480-1152x648.jpg",
     "summary": "Amazon is reportedly discarding rare books to train its AI models, as revealed by an employee who found an AirTag hidden in a discarded book. The discovery raises concerns about the company's data collection practices and the ethical implications of using discarded materials for AI training.",
     "importance": 7,
+    "classified": true
+  },
+  {
+    "title": "Zerohash back for second effort at OCC trust bank charter",
+    "link": "https://www.coindesk.com/policy/2026/08/25/zerohash-back-for-second-effort-at-occ-trust-bank-charter",
+    "pubDate": "Tue, 25 Aug 2026 21:38:28 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "The crypto infrastructure firm failed to get approval when it first sought a U.S. charter, and the company is quickly back with what it said would be a narrower effort.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/26bc7ac9cd7444c2c14bec14b2e397a0fb35c8aa-6000x3376.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "Zerohash is attempting a second time to secure a U.S. OCC trust bank charter after its initial application was rejected, with the new effort described as a more narrowly focused approach.",
+    "importance": 6,
     "classified": true
   },
   {
