@@ -1,5 +1,17 @@
 [
   {
+    "title": "Crypto Biz: Bitcoin pumps, Wall Street does the paperwork",
+    "link": "https://cointelegraph.com/news/crypto-biz-bitcoin-rally-crypto-stocks-circle-strategy-solana?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Fri, 28 Aug 2026 14:53:40 +0000",
+    "source": "Cointelegraph",
+    "category": "crypto",
+    "content": "Bitcoin’s $80,000 rebound lifts crypto stocks as Circle, Strategy and Solana show how capital markets, stablecoins and onchain growth are driving crypto’s recovery.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/08/01M14DS05X6DTJB5K7J056DP3A/hi-how-bitcoins-legal-victory-turned-it-into-wall-streets-favorite-crypto.jpg",
+    "summary": "Bitcoin's rebound to $80,000 has boosted crypto stocks, signaling a recovery across the digital asset market. This growth is attributed to factors like capital markets, stablecoins, and onchain activity, with key players such as Circle, Strategy, and Solana contributing to the upward trend.",
+    "importance": 9,
+    "classified": true
+  },
+  {
     "title": "Nvidia closes in on Hugging Face acquisition",
     "link": "https://techcrunch.com/2026/08/26/nvidia-closes-in-on-hugging-face-acquisition/",
     "pubDate": "Thu, 27 Aug 2026 06:32:51 +0000",
@@ -69,6 +81,18 @@
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2024/09/hugging_face_3-1152x648.jpg",
     "summary": "Nvidia is reportedly acquiring Hugging Face, a major AI model repository, for $13 billion to bolster its open-source AI infrastructure. The deal highlights Nvidia's strategic push to dominate the AI ecosystem amid rising demand for accessible AI tools.",
     "importance": 9,
+    "classified": true
+  },
+  {
+    "title": "Solana vote to double disinflation passes by a hair in dramatic finish",
+    "link": "https://www.coindesk.com/tech/2026/08/28/solana-vote-to-double-disinflation-passes-by-a-hair-in-dramatic-finish",
+    "pubDate": "Fri, 28 Aug 2026 16:12:45 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "Solana's first network-wide vote went down to the wire, with Kraken and Galaxy-linked validators switching sides before the disinflation proposal narrowly passed.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/54c0f3b41e62df4cdf774aab4c7d68c64e5e976c-1920x1080.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "Solana's first network-wide vote on a disinflation proposal narrowly passed after a dramatic finish, marking a significant governance event for the blockchain. Validators linked to Kraken and Galaxy reportedly switched their votes at the last minute, securing the contentious approval.",
+    "importance": 8,
     "classified": true
   },
   {
@@ -144,6 +168,30 @@
     "classified": true
   },
   {
+    "title": "Solana validators approve proposal to accelerate SOL disinflation",
+    "link": "https://cointelegraph.com/news/solana-validators-approve-proposal-to-accelerate-sol-disinflation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Fri, 28 Aug 2026 19:53:12 +0000",
+    "source": "Cointelegraph",
+    "category": "crypto",
+    "content": "The approved proposal doubles Solana’s annual disinflation rate from 15% to 30%, reducing future SOL issuance while leaving its long-term inflation target unchanged.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/08/01M14TAFCZGB4VMQ151R2N0EKE/hi-bitcoin-vs-fiat-currencies-over-the-past-several-years-have-they-been-hampered-by-the-inflation2-2.png",
+    "summary": "Solana validators have approved a proposal to significantly accelerate the network's disinflation rate. The annual disinflation rate will double from 15% to 30%, which will reduce the future issuance of SOL tokens. This adjustment does not, however, alter Solana's long-term inflation target.",
+    "importance": 8,
+    "classified": true
+  },
+  {
+    "title": "Bullish provides USD.AI $100M stablecoin facility for GPU-backed lending",
+    "link": "https://cointelegraph.com/news/bullish-provides-usdai-100m-stablecoin-facility-gpu-backed-loans?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Fri, 28 Aug 2026 16:17:09 +0000",
+    "source": "Cointelegraph",
+    "category": "both",
+    "content": "The institutional crypto exchange is providing $100 million in stablecoin liquidity to support loans backed by AI computing infrastructure.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/08/01M14HGFTCPWKB8SGHW3HW7DZ6/hi-what-is-a-masternode-and-ai.png",
+    "summary": "Institutional crypto exchange Bullish has provided USD.AI with a $100 million stablecoin facility. This liquidity is intended to support loans that are backed by AI computing infrastructure, specifically GPUs.",
+    "importance": 8,
+    "classified": true
+  },
+  {
     "title": "Who is legally liable when an AI agent goes rogue? ",
     "link": "https://cointelegraph.com/magazine/who-is-legally-liable-when-an-ai-agent-goes-rogue?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "pubDate": "Fri, 28 Aug 2026 13:30:00 +0000",
@@ -192,18 +240,6 @@
     "classified": true
   },
   {
-    "title": "SHRINCS BIP published: Quantum-secure Bitcoin comes with a catch ",
-    "link": "https://cointelegraph.com/magazine/shrincs-bip-is-published-quantum-secure-bitcoin-comes-with-a-catch?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Thu, 27 Aug 2026 01:26:54 +0000",
-    "source": "Cointelegraph",
-    "category": "both",
-    "content": "A new Bitcoin Improvement Proposal for the SHRINCS signature scheme has just been published to upgrade Bitcoin to quantum secure. Here’s everything you need to know.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-bitcoins-quantum-problem.jpg",
-    "summary": "A new Bitcoin Improvement Proposal (BIP) introduces the SHRINCS signature scheme to make Bitcoin quantum-secure, but includes a trade-off or limitation that may impact its adoption. The proposal aims to address future quantum computing threats to Bitcoin's cryptographic security.",
-    "importance": 8,
-    "classified": true
-  },
-  {
     "title": "Chainalysis says global crypto taxable activity topped $457 billion in 2025",
     "link": "https://www.theblock.co/news/regulation/2026-08-27-chainalysis-says-global-crypto-taxable-activity-topped-457-billion-in-2025-412919",
     "pubDate": "Thu, 27 Aug 2026 13:54:19 +0000",
@@ -228,14 +264,14 @@
     "classified": true
   },
   {
-    "title": "BlackRock’s Mitchnick says bitcoin’s risk-off narrative is ‘the one to bet on’ long term as rally consolidates near $80,000",
-    "link": "https://www.theblock.co/news/markets/2026-08-27-blackrocks-mitchnick-says-bitcoins-risk-off-narrative-is-the-one-to-bet-on-long-term-as-rally-consolidates-near-80000-412897",
-    "pubDate": "Thu, 27 Aug 2026 12:00:09 +0000",
-    "source": "The Block",
-    "category": "crypto",
-    "content": "Renewed spot ETF inflows and bitcoin's declining correlation with equities are also constructive signs, according to analysts.",
-    "image": "https://www.tbstat.com/wp/uploads/2024/05/20240509_Bitcoin_News_2-1200x675.jpg",
-    "summary": "BlackRock's Larry Fink's lieutenant, Terry Mitchnick, suggests that Bitcoin's 'risk-off' narrative is a long-term bet as it consolidates near $80,000. Analysts highlight renewed spot ETF inflows and Bitcoin's declining correlation with equities as positive indicators.",
+    "title": "Debasement Trade Is Here Thanks to Government Debt — And Bitcoin Will Benefit: Grayscale",
+    "link": "https://bitcoinmagazine.com/news/debasement-trade-to-benefit-bitcoin",
+    "pubDate": "Fri, 28 Aug 2026 20:45:06 +0000",
+    "source": "Bitcoin Magazine",
+    "category": "both",
+    "content": "Bitcoin Magazine\n\nDebasement Trade Is Here Thanks to Government Debt — And Bitcoin Will Benefit: Grayscale\nThe so-called debasement trade is benefiting bitcoin, the asset manager's research team has said. \nThis post Debasement Trade Is Here Thanks to Government Debt — And Bitcoin Will Benefit: Grayscale first appeared on Bitcoin Magazine and is written by Mathew Di Salvo.",
+    "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/08/Debasement-Trade-Is-Here-Thanks-to-Government-Debt.jpg",
+    "summary": "Grayscale's research team claims the 'debasement trade'—driven by government debt—is benefiting Bitcoin, suggesting it will gain value as traditional currencies lose purchasing power. The article frames Bitcoin as a hedge against fiscal policies that erode currency value.",
     "importance": 8,
     "classified": true
   },
@@ -248,30 +284,6 @@
     "content": "Bitcoin Magazine\n\nNo Fork Required: Bitcoin’s First Quantum-Safe Transaction Just Happened\nThe first post-quantum Bitcoin transaction was broadcast this week. At Bitcoin Asia, the Sharknet Foundation explained how it was done. \nThis post No Fork Required: Bitcoin’s First Quantum-Safe Transaction Just Happened first appeared on Bitcoin Magazine and is written by Mathew Di Salvo.",
     "image": "https://www.youtube.com/embed/fBTjfHBAVBk",
     "summary": "The Sharknet Foundation demonstrated the first post-quantum Bitcoin transaction at Bitcoin Asia, enabling quantum-resistant transfers without requiring a blockchain fork. This marks a significant step toward securing Bitcoin against future quantum computing threats.",
-    "importance": 8,
-    "classified": true
-  },
-  {
-    "title": "Coinkite’s Coldcard Bug Exposed Single-Sig Risk. Multi-Vendor Multisig Is the New Bitcoin Custody Baseline",
-    "link": "https://bitcoinmagazine.com/business/coinkites-coldcard-bug-exposed-single-sig-risk-multi-vendor-multisig-is-the-new-bitcoin-custody-baseline",
-    "pubDate": "Wed, 26 Aug 2026 23:39:32 +0000",
-    "source": "Bitcoin Magazine",
-    "category": "crypto",
-    "content": "Bitcoin Magazine\n\nCoinkite’s Coldcard Bug Exposed Single-Sig Risk. Multi-Vendor Multisig Is the New Bitcoin Custody Baseline\nCoinkite now forces dice rolls and key-press entropy on new Coldcard seeds. The lasting lesson from the July–August 2026 thefts is not to abandon self-custody — it is to stop generating every key on one vendor.\nThis post Coinkite’s Coldcard Bug Exposed Single-Sig Risk. Multi-Vendor Multisig Is the New Bitcoin Custody Baseline first appeared on Bitcoin Magazine and is written by Juan Galt.",
-    "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/08/tn-4.webp",
-    "summary": "Coinkite's Coldcard wallet vulnerability highlighted risks of single-signature Bitcoin custody. The incident led to a recommendation for multi-vendor multisig setups to enhance security, emphasizing diversification in key generation to prevent thefts like those in mid-2026.",
-    "importance": 8,
-    "classified": true
-  },
-  {
-    "title": "Coinbase and Better Mortgage Announce General Availability of Bitcoin-Backed Mortgages ",
-    "link": "https://bitcoinmagazine.com/news/coinbase-better-announce-bitcoin-mortgages",
-    "pubDate": "Wed, 26 Aug 2026 17:24:53 +0000",
-    "source": "Bitcoin Magazine",
-    "category": "both",
-    "content": "Bitcoin Magazine\n\nCoinbase and Better Mortgage Announce General Availability of Bitcoin-Backed Mortgages \nThe announcement comes after Better and Coinbase debuted the first Bitcoin-backed loan in June. \nThis post Coinbase and Better Mortgage Announce General Availability of Bitcoin-Backed Mortgages  first appeared on Bitcoin Magazine and is written by Mathew Di Salvo.",
-    "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/08/Coinbase-Better.jpg",
-    "summary": "Coinbase and Better Mortgage have launched Bitcoin-backed mortgages, allowing borrowers to use Bitcoin as collateral for home loans. This follows their initial pilot program in June and expands access to crypto-backed financing.",
     "importance": 8,
     "classified": true
   },
@@ -296,6 +308,42 @@
     "content": "It’s a glorious day in Kirkland, Washington, an affluent Seattle suburb on the eastern shore of Lake Washington. The temperature is in the mid-80s, and the sky is incapable of being any more blue. The view from the Gates Ventures conference room overlooks the Carillon Point Marina, where a flotilla of expensive boats bob in…",
     "image": "",
     "summary": "Bill Gates discusses the significant progress and potential dangers of AI, stating that critical thresholds in AI development have been surpassed. He emphasizes the need for careful consideration of AI's future implications and responsible development.",
+    "importance": 8,
+    "classified": true
+  },
+  {
+    "title": "Neocloud Lambda secures $1B in debt to buy more chips",
+    "link": "https://techcrunch.com/2026/08/28/neocloud-lambda-secures-1b-in-debt-to-buy-more-chips/",
+    "pubDate": "Fri, 28 Aug 2026 20:24:11 +0000",
+    "source": "TechCrunch AI",
+    "category": "ai",
+    "content": "Neocloud Lambda has raised $1B in private debt to buy Nvidia AI chips and lease them to Microsoft. It's the latest in a string of loans, underscoring the high cost of the AI boom.",
+    "image": "",
+    "summary": "Neocloud Lambda secured $1 billion in private debt to purchase Nvidia AI chips, which will then be leased to Microsoft. This move highlights the escalating costs and demand driven by the AI industry's rapid expansion.",
+    "importance": 8,
+    "classified": true
+  },
+  {
+    "title": "An Anthropic researcher just gave us a peek at self-improving AI",
+    "link": "https://techcrunch.com/2026/08/28/an-anthropic-researcher-just-gave-us-a-peek-at-self-improving-ai/",
+    "pubDate": "Fri, 28 Aug 2026 19:30:38 +0000",
+    "source": "TechCrunch AI",
+    "category": "ai",
+    "content": "Given 10 benchmarks for specific misaligned behaviors, the automated systems were able to improve performance on every single one without degrading overall performance.",
+    "image": "",
+    "summary": "An Anthropic researcher demonstrated that automated AI systems can improve their performance on misaligned behavior benchmarks without degrading overall capabilities, suggesting progress in self-improving AI. The study tested 10 specific benchmarks and achieved enhancements across all while maintaining stability.",
+    "importance": 8,
+    "classified": true
+  },
+  {
+    "title": "Open-weight AI companies are the Valley’s hottest acquisition targets",
+    "link": "https://techcrunch.com/2026/08/28/open-weight-ai-companies-are-the-valleys-hottest-acquisition-targets/",
+    "pubDate": "Fri, 28 Aug 2026 18:19:40 +0000",
+    "source": "TechCrunch AI",
+    "category": "ai",
+    "content": "There's a lot of capital pouring into the business of giving models away.",
+    "image": "",
+    "summary": "The article highlights a trend where companies developing open-weight AI models are becoming highly sought-after acquisition targets in Silicon Valley due to the significant capital flowing into this space. These models, which are made publicly accessible, are attracting major investment and attention.",
     "importance": 8,
     "classified": true
   },
@@ -456,36 +504,12 @@
     "classified": true
   },
   {
-    "title": "Meta ran ads for an app promising to nudify female politicians",
-    "link": "https://arstechnica.com/ai/2026/08/meta-ran-ads-for-an-app-promising-to-nudify-female-politicians/",
-    "pubDate": "Wed, 19 Aug 2026 15:45:29 +0000",
-    "source": "Ars Technica AI",
-    "category": "ai",
-    "content": "One ad featured a pornographic video with deepfake closely resembling a US politician.",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2250404047-1152x648.jpg",
-    "summary": "Meta allowed advertisements promoting an app that used deepfake technology to create pornographic content featuring female politicians, including a video resembling a U.S. politician. The ads were later removed after public backlash.",
-    "importance": 8,
-    "classified": true
-  },
-  {
-    "title": "Microsoft Copilot reveals secret input that allowed it to be hacked",
-    "link": "https://arstechnica.com/security/2026/08/microsoft-copilot-reveals-secret-input-that-allowed-it-to-be-hacked/",
-    "pubDate": "Tue, 18 Aug 2026 13:00:04 +0000",
-    "source": "Ars Technica AI",
-    "category": "ai",
-    "content": "Secret parameter allowed hackers to steal passwords when a target clicked on a link.",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-2242817595-1152x648.jpg",
-    "summary": "Microsoft Copilot was hacked due to a secret input parameter that enabled attackers to steal passwords when a user clicked a malicious link. The vulnerability highlights security risks in AI-powered tools and their integration with sensitive systems.",
-    "importance": 8,
-    "classified": true
-  },
-  {
     "title": "BitGo to buy NYDIG trading arm for $42.5M in cash and stock plus $15M earnout",
     "link": "https://www.coindesk.com/business/2026/08/28/bitgo-to-buy-nydig-trading-arm-for-usd42-5m-in-cash-and-stock-plus-usd15m-earnout",
     "pubDate": "Fri, 28 Aug 2026 14:37:14 +0000",
     "source": "CoinDesk",
     "category": "crypto",
-    "content": "The deal to buy NYDIG IF Holdings comprises $7 million in cash and around $35.5 million, as well as the $15 earnout.",
+    "content": "The deal to buy NYDIG IF Holdings comprises $7 million in cash and around $35.5 million in stock, as well as the $15 earnout.",
     "image": "https://cdn.sanity.io/images/s3y3vcno/production/9b492aba5c4c42527c969f1362cd2bfddc02f6ee-1500x1000.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
     "summary": "BitGo is set to acquire NYDIG's institutional trading arm, NYDIG IF Holdings, for a total of $42.5 million in cash and stock. The deal also includes an additional $15 million earnout, with the cash component being $7 million and the stock portion approximately $35.5 million.",
     "importance": 7,
@@ -552,12 +576,12 @@
     "classified": true
   },
   {
-    "title": "Live updates: Bitcoin slips as Warsh talks tough on inflation at Jackson Hole",
+    "title": "Live updates: Bitcoin slides below $78,000 as markets digest Warsh's hawkish remarks",
     "link": "https://www.coindesk.com/business/2026/08/28/live-updates-bitcoin-options-worth-usd6-4-billion-just-expired-as-prices-hover-near-usd80-000",
     "pubDate": "Fri, 28 Aug 2026 09:09:07 +0000",
     "source": "CoinDesk",
     "category": "both",
-    "content": "\"We have work to do,\" on prices, said Warsh.",
+    "content": "\"We have work to do,\" on prices, said Warsh in his highly anticipated keynote address at the Kansas City Fed's annual symposium.",
     "image": "",
     "summary": "Federal Reserve Governor Christopher Warsh emphasized the need for continued efforts to control inflation during the Jackson Hole event, causing Bitcoin to slip in value. His hawkish stance on monetary policy raised concerns among crypto investors about potential regulatory pressures.",
     "importance": 7,
@@ -636,26 +660,14 @@
     "classified": true
   },
   {
-    "title": "240 UK taxpayers made more than $1.3 million each from crypto holdings in fiscal 2025",
-    "link": "https://www.coindesk.com/business/2026/08/27/240-uk-taxpayers-made-more-than-usd1-3-million-each-from-crypto-holdings-in-fiscal-2025",
-    "pubDate": "Thu, 27 Aug 2026 15:36:25 +0000",
-    "source": "CoinDesk",
+    "title": "Chelsea FC gets a stablecoin sponsor after UK FCA warning to clubs",
+    "link": "https://cointelegraph.com/news/chelsea-football-circle-sponsor-fca-warning-questionable-deals?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Fri, 28 Aug 2026 17:46:12 +0000",
+    "source": "Cointelegraph",
     "category": "crypto",
-    "content": "For the first time, the U.K.'s tax office broke out crypto capital gains figures, showing 17,600 people reported $1.87 billion in profits during the 2024-2025 tax year.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/3edd739e747a11a6e9241bcb375abe162bba29a9-2162x1216.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "The UK's tax office revealed that 17,600 taxpayers reported $1.87 billion in crypto capital gains for the 2024-2025 fiscal year, with 240 individuals earning over $1.3 million each from crypto holdings.",
-    "importance": 7,
-    "classified": true
-  },
-  {
-    "title": "Crypto for Advisors: How staking on Ethereum is changing in 2026",
-    "link": "https://www.coindesk.com/coindesk-indices/2026/08/27/crypto-for-advisors-how-staking-on-ethereum-is-changing-in-2026",
-    "pubDate": "Thu, 27 Aug 2026 15:10:56 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/f8117b775e2b0183a4d4d1f7adf07cfb5f4b5342-4872x2740.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "The article discusses upcoming changes to Ethereum staking in 2026, highlighting how these modifications will impact advisors and investors in the crypto space. It explores the evolving staking landscape and its implications for decentralized finance (DeFi) and institutional participation.",
+    "content": "According to Circle, the USDC stablecoin name will appear on the front of club jerseys for Chelsea’s upcoming football season.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/08/01M14JXJEKJGWZPA4CPWG622Q2/gamecredits-football4.jpg",
+    "summary": "Chelsea FC has secured a new sponsorship deal with Circle, meaning the USDC stablecoin name will appear on the front of the club's jerseys for the upcoming football season. This move comes after a general warning from the UK Financial Conduct Authority to clubs regarding crypto partnerships.",
     "importance": 7,
     "classified": true
   },
@@ -876,38 +888,14 @@
     "classified": true
   },
   {
-    "title": "Core Lightning confirms multiple vulnerabilities, prepares security update",
-    "link": "https://cointelegraph.com/news/core-lightning-vulnerabilities-node-security-update?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Thu, 27 Aug 2026 08:05:44 +0000",
-    "source": "Cointelegraph",
+    "title": "Bitwise fund is first Solana ETF to hit $1 billion AUM",
+    "link": "https://www.theblock.co/news/markets/2026-08-28-bitwise-fund-is-first-solana-etf-to-hit-1-billion-aum-413035",
+    "pubDate": "Fri, 28 Aug 2026 15:48:52 +0000",
+    "source": "The Block",
     "category": "crypto",
-    "content": "Core Lightning advised operators to use offline mode if they do not install the forthcoming update, keeping their nodes active but disconnected.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/bitcoi.png",
-    "summary": "Core Lightning has identified multiple vulnerabilities in its software and is preparing a security update. Node operators are advised to switch to offline mode if they cannot install the update immediately.",
-    "importance": 7,
-    "classified": true
-  },
-  {
-    "title": "Tokenized deposits could raise US credit costs: Dallas Fed economists",
-    "link": "https://cointelegraph.com/news/tokenized-deposits-us-credit-costs-dallas-fed-economists?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Thu, 27 Aug 2026 06:39:02 +0000",
-    "source": "Cointelegraph",
-    "category": "both",
-    "content": "Dallas Fed economists said faster, programmable deposits could make bank funding less stable, potentially pushing lenders toward more expensive funding.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/tokeniz.png",
-    "summary": "Dallas Fed economists warn that tokenized deposits, which enable faster and programmable transactions, could destabilize bank funding by making it less stable, potentially leading banks to rely on more expensive funding sources.",
-    "importance": 7,
-    "classified": true
-  },
-  {
-    "title": "StarkWare tests quantum-resistant Bitcoin transaction on mainnet",
-    "link": "https://cointelegraph.com/news/starkware-quantum-resistant-bitcoin-transaction-mainnet?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Thu, 27 Aug 2026 04:14:48 +0000",
-    "source": "Cointelegraph",
-    "category": "both",
-    "content": "StarkWare said the experimental transaction demonstrated quantum-resistant Bitcoin spending without a fork, but it cost up to $200 and required direct miner submission.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/quantum-transaction",
-    "summary": "StarkWare successfully tested a quantum-resistant Bitcoin transaction on the mainnet without requiring a fork, but the process incurred high costs up to $200 and needed direct miner submission.",
+    "content": "The Bitwise Solana Staking ETF (ticker BSOL) crossed $1 billion AUM on Friday, less than a year after its launch.",
+    "image": "https://www.tbstat.com/wp/uploads/2023/10/20230810_Solana_News2-1200x675.jpg",
+    "summary": "The Bitwise Solana Staking ETF (BSOL) has reached $1 billion in assets under management (AUM) less than a year after its launch, marking the first Solana-based ETF to achieve this milestone.",
     "importance": 7,
     "classified": true
   },
@@ -1068,26 +1056,50 @@
     "classified": true
   },
   {
-    "title": "Binance co-founder Changpeng ‘CZ’ Zhao says bitcoin could surpass gold in next bull market",
-    "link": "https://www.theblock.co/news/markets/2026-08-27-binance-co-founder-changpeng-cz-zhao-says-bitcoin-could-surpass-gold-in-next-bull-market-412904",
-    "pubDate": "Thu, 27 Aug 2026 11:54:48 +0000",
-    "source": "The Block",
-    "category": "both",
-    "content": "Zhao told Bitcoin Asia 2026 that bitcoin could surpass gold in the next bull market, with stablecoins leading AI integration.",
-    "image": "https://www.tbstat.com/wp/uploads/2026/04/20260410_Bitcoin_News_2-1200x675.jpg",
-    "summary": "Binance co-founder Changpeng Zhao (CZ) predicts Bitcoin could surpass gold in the next bull market, highlighting stablecoins as key to AI integration. He made these remarks at Bitcoin Asia 2026.",
+    "title": "Bitcoin Cools Off After $3 Billion ETF-Driven Surge ",
+    "link": "https://bitcoinmagazine.com/news/bitcoin-cools-following-etf-investment",
+    "pubDate": "Fri, 28 Aug 2026 22:06:02 +0000",
+    "source": "Bitcoin Magazine",
+    "category": "crypto",
+    "content": "Bitcoin Magazine\n\nBitcoin Cools Off After $3 Billion ETF-Driven Surge \nBitcoin's run slowed down Friday after the Federal Reserve chief said inflation was too hot. Its run was charged by speculators throwing billions at the popular investment vehicles. \nThis post Bitcoin Cools Off After $3 Billion ETF-Driven Surge  first appeared on Bitcoin Magazine and is written by Mathew Di Salvo.",
+    "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/08/Pics-6.jpg",
+    "summary": "Bitcoin's price surge driven by $3 billion in ETF investments slowed after Federal Reserve Chair Jerome Powell indicated inflation remained too high. The market cooled as speculative interest waned following the initial surge.",
     "importance": 7,
     "classified": true
   },
   {
-    "title": "Bithumb wins lawsuit over proceeds from 620,000 BTC fat-finger error: report",
-    "link": "https://www.theblock.co/news/regulation/2026-08-27-bithumb-wins-lawsuit-btc-412893",
-    "pubDate": "Thu, 27 Aug 2026 09:37:16 +0000",
-    "source": "The Block",
+    "title": "Bitcoin’s Moment Has Come for the Far East, Says Metaplanet CEO",
+    "link": "https://bitcoinmagazine.com/news/bitcoin-moment-here-for-asia",
+    "pubDate": "Fri, 28 Aug 2026 20:39:49 +0000",
+    "source": "Bitcoin Magazine",
     "category": "crypto",
-    "content": "In February, the South Korean exchange accidentally credited 620,000 BTC (then worth around $43 billion) internally to hundreds of users.",
-    "image": "https://www.tbstat.com/wp/uploads/2026/02/IMG_1434-e1770700184451.jpg",
-    "summary": "South Korean cryptocurrency exchange Bithumb won a lawsuit regarding proceeds from a major internal error in February, where 620,000 BTC (worth ~$43 billion at the time) was mistakenly credited to users. The court ruled in favor of the exchange, resolving the dispute over the erroneous transaction.",
+    "content": "Bitcoin Magazine\n\nBitcoin’s Moment Has Come for the Far East, Says Metaplanet CEO\nJust as the regulatory landscape changes, Asians are looking for places to park their cash. The opportunity is Bitcoin, Metaplanet CEO Simon Gerovich argued at Bitcoin Asia. \nThis post Bitcoin’s Moment Has Come for the Far East, Says Metaplanet CEO first appeared on Bitcoin Magazine and is written by Mathew Di Salvo.",
+    "image": "https://www.youtube.com/embed/yRzt65QxW0E",
+    "summary": "Metaplanet CEO Simon Gerovich highlighted Bitcoin as a key investment opportunity in the Far East amid shifting regulatory landscapes and a search for cash parking options. He made these remarks during the Bitcoin Asia event.",
+    "importance": 7,
+    "classified": true
+  },
+  {
+    "title": "Capital B Raises €21M From Adam Back and TOBAM To Buy More BTC",
+    "link": "https://bitcoinmagazine.com/news/capital-b-raises-money-for-bitcoin",
+    "pubDate": "Fri, 28 Aug 2026 18:10:42 +0000",
+    "source": "Bitcoin Magazine",
+    "category": "crypto",
+    "content": "Bitcoin Magazine\n\nCapital B Raises €21M From Adam Back and TOBAM To Buy More BTC\nThe French bitcoin treasury currently holds 3,145 bitcoins worth over $245 million at today's prices. \nThis post Capital B Raises €21M From Adam Back and TOBAM To Buy More BTC first appeared on Bitcoin Magazine and is written by Mathew Di Salvo.",
+    "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/08/Capital-B-Raises-E21M-From-Adam-Back-and-TOBAM-To-Buy-More-BTC.jpg",
+    "summary": "Capital B, a French bitcoin treasury, has raised €21 million from investors including Adam Back and TOBAM to purchase additional Bitcoin. The company currently holds 3,145 bitcoins valued at over $245 million.",
+    "importance": 7,
+    "classified": true
+  },
+  {
+    "title": "Bitcoin Drops Before Shrugging Off Fed Chair’s Inflation Comments ",
+    "link": "https://bitcoinmagazine.com/markets/bitcoin-shrugs-off-fed-chair-comments",
+    "pubDate": "Fri, 28 Aug 2026 15:49:18 +0000",
+    "source": "Bitcoin Magazine",
+    "category": "crypto",
+    "content": "Bitcoin Magazine\n\nBitcoin Drops Before Shrugging Off Fed Chair’s Inflation Comments \nBitcoin dropped, then popped after Federal Reserve Chair Kevin Warsh gave his first major speech as head of the U.S. central bank and said he had “more work to do” to fight inflation.  The leading cryptocurrency was recently trading for $79,474 after dropping as low as $78,630 before quickly rising again.  Bitcoin has typically done […]\nThis post Bitcoin Drops Before Shrugging Off Fed Chair’s Inflation Comments  first appeared on Bitcoin Magazine and is written by Mathew Di Salvo.",
+    "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/08/Pics-4.jpg",
+    "summary": "Bitcoin experienced a brief dip to $78,630 before recovering to $79,474 following Federal Reserve Chair Kevin Warsh's remarks on inflation, signaling ongoing economic uncertainty. The cryptocurrency's resilience suggests market confidence despite Fed policy concerns.",
     "importance": 7,
     "classified": true
   },
@@ -1140,30 +1152,6 @@
     "classified": true
   },
   {
-    "title": "Bitcoin Asia: Binance’s CZ Says $1M Bitcoin Is Coming — and Gold Won’t Keep Up",
-    "link": "https://bitcoinmagazine.com/news/binances-cz-says-1m-bitcoin-is-coming",
-    "pubDate": "Thu, 27 Aug 2026 16:14:11 +0000",
-    "source": "Bitcoin Magazine",
-    "category": "crypto",
-    "content": "Bitcoin Magazine\n\nBitcoin Asia: Binance’s CZ Says $1M Bitcoin Is Coming — and Gold Won’t Keep Up\nThe Binance founder spoke at Bitcoin Asia in Hong Kong and had some bold predictions for Bitcoin. \nThis post Bitcoin Asia: Binance’s CZ Says $1M Bitcoin Is Coming — and Gold Won’t Keep Up first appeared on Bitcoin Magazine and is written by Mathew Di Salvo.",
-    "image": "https://www.youtube.com/embed/fBTjfHBAVBk",
-    "summary": "Binance founder Changpeng Zhao (CZ) predicts Bitcoin could reach $1 million, asserting it will outperform gold as a store of value. He made these remarks during the Bitcoin Asia conference in Hong Kong.",
-    "importance": 7,
-    "classified": true
-  },
-  {
-    "title": "Billions Pour Into Bitcoin ETFs as Rally Rolls On",
-    "link": "https://bitcoinmagazine.com/news/bitcoin-etfs-receive-billions-in-new-cash",
-    "pubDate": "Wed, 26 Aug 2026 20:56:47 +0000",
-    "source": "Bitcoin Magazine",
-    "category": "crypto",
-    "content": "Bitcoin Magazine\n\nBillions Pour Into Bitcoin ETFs as Rally Rolls On\nThe popular investment vehicles have continued to receive new cash the past couple of days after last week's huge run. Will it last? \nThis post Billions Pour Into Bitcoin ETFs as Rally Rolls On first appeared on Bitcoin Magazine and is written by Mathew Di Salvo.",
-    "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/08/Pics-3.jpg",
-    "summary": "Billions of dollars are flowing into Bitcoin ETFs following a recent price surge, raising questions about the sustainability of the rally. The trend reflects growing institutional and retail interest in Bitcoin investment products.",
-    "importance": 7,
-    "classified": true
-  },
-  {
     "title": "The Download: inside OpenAI’s Hugging Face hack, and a new EV takes on the US",
     "link": "https://www.technologyreview.com/2026/08/27/1143033/the-download-openai-hugging-face-hack-slate-truck-ev/",
     "pubDate": "Thu, 27 Aug 2026 12:10:00 +0000",
@@ -1188,12 +1176,12 @@
     "classified": true
   },
   {
-    "title": "Anthropic gets its first court win over the Pentagon’s supply chain risk label",
+    "title": "Anthropic gets its first court win over the Pentagon’s supply-chain risk label",
     "link": "https://techcrunch.com/2026/08/28/anthropic-gets-its-first-court-win-over-the-pentagons-supply-chain-risk-label/",
     "pubDate": "Fri, 28 Aug 2026 12:46:12 +0000",
     "source": "TechCrunch AI",
     "category": "ai",
-    "content": "A federal judge ruled the Trump administration illegally labeled Anthropic a supply chain risk, handing the AI company a victory as its second Pentagon lawsuit continues in Washington.",
+    "content": "A federal judge ruled the Trump administration illegally labeled Anthropic a supply-chain risk, handing the AI company a victory as its second Pentagon lawsuit continues in Washington.",
     "image": "",
     "summary": "A federal judge ruled that the Trump administration illegally labeled AI company Anthropic as a supply chain risk, marking a legal victory for the firm amid ongoing Pentagon-related litigation. The decision comes as Anthropic faces a second lawsuit in Washington regarding its Pentagon contracts.",
     "importance": 7,
@@ -1260,54 +1248,6 @@
     "classified": true
   },
   {
-    "title": "How do we explain OpenAI’s executive exodus?",
-    "link": "https://techcrunch.com/2026/08/26/how-do-we-explain-openais-executive-exodus/",
-    "pubDate": "Wed, 26 Aug 2026 19:34:04 +0000",
-    "source": "TechCrunch AI",
-    "category": "ai",
-    "content": "Was Greg Brockman the right executive all along?",
-    "image": "",
-    "summary": "The article questions whether Greg Brockman was the right executive for OpenAI throughout his tenure, following a series of high-profile departures from the company. It reflects on the challenges and controversies surrounding OpenAI's leadership amid rapid advancements in AI.",
-    "importance": 7,
-    "classified": true
-  },
-  {
-    "title": "OpenAI releases its official report on the Hugging Face breach",
-    "link": "https://techcrunch.com/2026/08/26/openai-releases-its-official-report-on-the-hugging-face-breach/",
-    "pubDate": "Wed, 26 Aug 2026 19:05:22 +0000",
-    "source": "TechCrunch AI",
-    "category": "ai",
-    "content": "The report, which spans several discrete cybersecurity compromises, is the most complete accounting of the incident to date.",
-    "image": "",
-    "summary": "OpenAI has published an official report detailing the cybersecurity breaches involving Hugging Face, providing the most comprehensive account of the incident to date. The report outlines multiple discrete compromises, offering deeper insights into the attack vectors and impacts.",
-    "importance": 7,
-    "classified": true
-  },
-  {
-    "title": "Radar makes podcasts searchable — and usable by AI agents",
-    "link": "https://techcrunch.com/2026/08/26/radar-makes-podcasts-searchable-and-usable-by-ai-agents/",
-    "pubDate": "Wed, 26 Aug 2026 15:47:28 +0000",
-    "source": "TechCrunch AI",
-    "category": "ai",
-    "content": "Particle’s new podcast intelligence platform transcribes and analyzes more than 130,000 podcasts, making their conversations searchable on the web and accessible to AI agents through an API and MCP.",
-    "image": "",
-    "summary": "Particle has launched Radar, a podcast intelligence platform that transcribes and analyzes over 130,000 podcasts, making their content searchable online and accessible to AI agents via API and MCP. This tool aims to enhance podcast discoverability and enable AI-driven applications to leverage spoken content.",
-    "importance": 7,
-    "classified": true
-  },
-  {
-    "title": "Ex-Meta scientists want to bring visual AI to the factory floor",
-    "link": "https://techcrunch.com/2026/08/26/ex-meta-scientists-want-to-bring-visual-ai-to-the-factory-floor/",
-    "pubDate": "Wed, 26 Aug 2026 15:00:00 +0000",
-    "source": "TechCrunch AI",
-    "category": "ai",
-    "content": "Perceptron offers an AI model that it says can help machines navigate the world while also providing in-depth visual intelligence.",
-    "image": "",
-    "summary": "Ex-Meta scientists have launched Perceptron, a startup developing an AI model designed to enhance machine navigation and visual intelligence for factory automation. The technology aims to improve robots' ability to perceive and interact with their environment in industrial settings.",
-    "importance": 7,
-    "classified": true
-  },
-  {
     "title": "Google’s AI note-taking app now allows you to interact with books",
     "link": "https://www.theverge.com/tech/985567/google-gemini-notebook-expert-sources-books",
     "pubDate": "2026-08-27T19:30:00.000Z",
@@ -1344,14 +1284,14 @@
     "classified": true
   },
   {
-    "title": "Google’s new AI transcription edits out your &#8216;ums&#8217; and &#8216;ahs&#8217;",
-    "link": "https://www.theverge.com/tech/985186/google-gemini-3-5-transcribe-audio-ai",
-    "pubDate": "2026-08-26T17:00:00.000Z",
-    "source": "The Verge AI",
+    "title": "Trump blacklisting of \"woke\" Anthropic deemed illegal by federal judge",
+    "link": "https://arstechnica.com/tech-policy/2026/08/trump-blacklisting-of-woke-anthropic-deemed-illegal-by-federal-judge/",
+    "pubDate": "Fri, 28 Aug 2026 18:07:55 +0000",
+    "source": "Ars Technica AI",
     "category": "ai",
-    "content": "Google has updated Gemini Audio with new transcription capabilities that automatically detect specialized jargon and more than 85 languages. Gemini 3.5 Transcribe is a new addition to the Gemini family that follows the launch of 3.5 Live Translate, and comes as we're still waiting for Google to release the Gemini 3.5 Pro model that it promised to roll out in June. \nGoogle says that 3.5 Transcribe \"represents a major advancement from our previous transcription model, Chirp 3,\" especially regarding multilingual performance and wording error rates. The transcription model allows users to \"edit naturally with just your voice,\" according to Goog …\nRead the full story at The Verge.",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK255_Google_Gemini_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "summary": "Google has introduced Gemini 3.5 Transcribe, an AI-powered transcription tool that removes filler words like 'ums' and 'ahs' while supporting over 85 languages and specialized jargon. The update enhances multilingual performance and reduces wording errors compared to its predecessor, Chirp 3.",
+    "content": "Anthropic refused to support lethal autonomous warfare and mass surveillance.",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/claude-app-1152x648.jpg",
+    "summary": "A federal judge ruled that former President Trump's blacklisting of AI company Anthropic for refusing to support lethal autonomous warfare and mass surveillance was illegal. The decision highlights tensions between government demands and AI ethics.",
     "importance": 7,
     "classified": true
   },
@@ -1478,12 +1418,24 @@
   {
     "title": "Here’s what happened in crypto today",
     "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Fri, 28 Aug 2026 13:00:00 +0000",
+    "pubDate": "Fri, 28 Aug 2026 20:42:54 +0000",
     "source": "Cointelegraph",
     "category": "crypto",
     "content": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
     "image": "https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg",
     "summary": "This article provides a summary of the latest news and trends in the crypto space, covering Bitcoin price, blockchain, DeFi, Web3, and crypto regulation. It aims to keep readers updated on daily events impacting the cryptocurrency market. The article appears to be a general overview of the current state of the crypto industry.",
+    "importance": 6,
+    "classified": true
+  },
+  {
+    "title": "Bitcoin dips to $78.4K as Fed’s Warsh downplays softer inflation prints",
+    "link": "https://cointelegraph.com/markets/bitcoin-dips-fed-warsh-dismisses-recent-low-inflation-prints?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Fri, 28 Aug 2026 15:31:25 +0000",
+    "source": "Cointelegraph",
+    "category": "crypto",
+    "content": "Bitcoin failed to make a decisive break above $80,000 as traders digested Fed Chair Kevin Warsh’s Jackson Hole keynote speech, which remained wary of US inflation trends.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/08/01M14FYEG846MR0X3M7RG3N9AD/hi-us-bitcoin-reserve-asset-bill-explained.jpg",
+    "summary": "Bitcoin experienced a dip to $78.4K, failing to surpass the $80,000 mark, following Fed Chair Kevin Warsh's cautious remarks on US inflation at Jackson Hole. Traders reacted to the speech, which downplayed softer inflation prints.",
     "importance": 6,
     "classified": true
   },
@@ -1512,18 +1464,6 @@
     "classified": true
   },
   {
-    "title": "Bitcoin ETF inflows slow to $232M as BTC holds under $80K",
-    "link": "https://cointelegraph.com/markets/bitcoin-etf-inflows-slow-232-million-btc-under-80k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Thu, 27 Aug 2026 07:01:19 +0000",
-    "source": "Cointelegraph",
-    "category": "crypto",
-    "content": "US spot Bitcoin ETF inflows slowed to $232.1 million as an eight-day streak reached $2.8 billion, while XRP funds posted their biggest inflow since Jan. 5.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/futures-bitcoin-options-top-4.jpg",
-    "summary": "US spot Bitcoin ETF inflows slowed to $232.1 million after an eight-day streak totaling $2.8 billion, while XRP funds saw their largest inflow since January 5. Bitcoin's price remained below $80,000 during this period.",
-    "importance": 6,
-    "classified": true
-  },
-  {
     "title": "DeFi Development Corp resumes Solana purchases, acquiring nearly 20,000 SOL",
     "link": "https://www.theblock.co/news/business/2026-08-27-defi-development-resumes-solana-purchases-acquiring-nearly-20000-sol-412932",
     "pubDate": "Thu, 27 Aug 2026 15:32:13 +0000",
@@ -1544,18 +1484,6 @@
     "content": "Schwab Crypto began rolling out to clients in May with direct access to BTC and ETH trading and charges 75 basis points per transaction.",
     "image": "https://www.tbstat.com/wp/uploads/2021/03/20210303_Charles_Schwab_Bitcoin-1200x675.jpg",
     "summary": "Charles Schwab is expanding its crypto trading platform to include Solana, Avalanche, and Chainlink, following its initial launch with Bitcoin and Ethereum in May. The platform charges a 0.75% fee per transaction.",
-    "importance": 6,
-    "classified": true
-  },
-  {
-    "title": "Forget the Trump Bump — Bitcoin Would Be Fine Under Democrats, Says VanEck ",
-    "link": "https://bitcoinmagazine.com/news/bitcoin-would-be-fine-under-democrats",
-    "pubDate": "Wed, 26 Aug 2026 19:39:19 +0000",
-    "source": "Bitcoin Magazine",
-    "category": "crypto",
-    "content": "Bitcoin Magazine\n\nForget the Trump Bump — Bitcoin Would Be Fine Under Democrats, Says VanEck \nVanEck's Matthew Sigel has said that Bitcoin doesn't need a Republican president to do well. \nThis post Forget the Trump Bump — Bitcoin Would Be Fine Under Democrats, Says VanEck  first appeared on Bitcoin Magazine and is written by Mathew Di Salvo.",
-    "image": "https://www.youtube.com/embed/q4ukdmilXQU",
-    "summary": "VanEck's Matthew Sigel asserts that Bitcoin's performance does not depend on a Republican president, suggesting it would thrive even under Democratic leadership. The claim challenges the notion that Bitcoin's success is tied to political affiliations.",
     "importance": 6,
     "classified": true
   },
@@ -1608,6 +1536,18 @@
     "classified": true
   },
   {
+    "title": "Trump’s EPA wants to let data centers hide their air pollution",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/986176/data-center-pollution-epa-rule-change-air-permit",
+    "pubDate": "2026-08-28T16:28:40.000Z",
+    "source": "The Verge AI",
+    "category": "ai",
+    "content": "Just as new data centers face growing backlash from neighboring communities, the US Environmental Protection Agency (EPA) is about to make it harder for people to weigh in on any pollution those centers create.\nThe EPA plans to toss out a federal rule requiring public notice and an opportunity to comment when certain industrial sites apply for an air permit. Advocates warn that the move would allow data center developers and other industries to break ground without giving nearby residents a say, or even a warning that construction is planned. \n\"You can see why that would be so interesting to an administration that wants to rush through the …\nRead the full story at The Verge.",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKS528_DATA_CENTERS2_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "summary": "The US EPA is proposing to eliminate a rule requiring public notice and comment periods for air pollution permits, which could allow data centers and other industries to proceed with construction without community input or awareness of potential pollution risks.",
+    "importance": 6,
+    "classified": true
+  },
+  {
     "title": "Plaud is launching AI earbuds",
     "link": "https://www.theverge.com/ai-artificial-intelligence/985500/plaud-one-earbuds-ai-recorder-price-availability",
     "pubDate": "2026-08-27T13:11:23.000Z",
@@ -1616,6 +1556,18 @@
     "content": "Plaud has introduced a new AI wearable that's designed to record, transcribe, and summarize your conversations, only this time it looks like earbuds instead of a pin. The Plaud One Explorer Edition can be worn like traditional earbuds or used through its standalone charging case, and the case includes built-in 4G to upload and process conversations without relying on your phone or Wi-Fi to stay connected.\nEach earbud features 16MB of local storage (for a total of 32MB) and three microphones that can record at a distance of up to two meters. They can record for up to six hours according to Plaud, which is also the maximum estimated battery l …\nRead the full story at The Verge.",
     "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Plaud-One-earbuds-hero.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
     "summary": "Plaud has launched AI-powered earbuds called the Plaud One Explorer Edition that can record, transcribe, and summarize conversations. The device features local storage, 4G connectivity, and a battery life of up to six hours.",
+    "importance": 6,
+    "classified": true
+  },
+  {
+    "title": "Meta makes AI glasses slightly less creepy with limit on nonconsensual recording",
+    "link": "https://arstechnica.com/tech-policy/2026/08/meta-tweaks-ai-glasses-to-block-some-creepy-recordings-but-privacy-risks-remain/",
+    "pubDate": "Fri, 28 Aug 2026 15:42:24 +0000",
+    "source": "Ars Technica AI",
+    "category": "ai",
+    "content": "Meta fixes AI glasses to stop recording any time users cover up the safety light.",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2235448062-1024x648.jpg",
+    "summary": "Meta has updated its AI-powered smart glasses to prevent nonconsensual recording by disabling the device whenever the safety light is covered, addressing privacy concerns. The change aims to make the glasses less intrusive while maintaining their core functionality.",
     "importance": 6,
     "classified": true
   },
@@ -1629,6 +1581,30 @@
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/gemini-general-6-1152x648.jpg",
     "summary": "Google has announced the expansion of its AI-powered speech-to-text tool, Gemini 3.5 Transcribe, which currently powers Gboard's Rambler feature. The tool will now be integrated into additional Google products, including Chrome.",
     "importance": 6,
+    "classified": true
+  },
+  {
+    "title": "Kalshi takes legal blow in court ruling confirming state powers over prediction markets",
+    "link": "https://www.coindesk.com/policy/2026/08/28/kalshi-takes-legal-blow-in-court-ruling-confirming-state-powers-over-prediction-markets",
+    "pubDate": "Fri, 28 Aug 2026 21:28:12 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "This latest U.S. appeals court ruling sets up a rift between federal courts on event contracts, suggesting the U.S. Supreme Court may need to settle the matter.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/cd68dbf11ea2b03847eb5020d28aec70f8c83de4-2321x1306.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "A recent U.S. appeals court ruling has affirmed state authority over prediction markets, dealing a legal setback to Kalshi. This decision creates a split among federal courts regarding event contracts, suggesting the issue may ultimately need to be resolved by the U.S. Supreme Court.",
+    "importance": 5,
+    "classified": true
+  },
+  {
+    "title": "Ninth Circuit deals blow to Kalshi in Nevada sports betting fight, challenging CFTC’s exclusive jurisdiction claim",
+    "link": "https://www.theblock.co/news/regulation/2026-08-28-ninth-circuit-deals-blow-to-kalshi-in-nevada-sports-betting-fight-challenging-cftcs-exclusive-jurisdiction-claim-413046",
+    "pubDate": "Fri, 28 Aug 2026 19:50:48 +0000",
+    "source": "The Block",
+    "category": "crypto",
+    "content": "An appeals court sided with a lower court's ruling that  Kalshi failed to show that the federal government preempts Nevada’s authority.",
+    "image": "https://www.tbstat.com/wp/uploads/2025/09/20250917_Kalshi_News_2-1200x675.jpg",
+    "summary": "The Ninth Circuit Court of Appeals ruled against Kalshi in its legal battle with Nevada over sports betting jurisdiction, affirming that the state does not have to defer to the CFTC's exclusive authority. The decision challenges the federal government's claim of sole regulatory power in this area.",
+    "importance": 5,
     "classified": true
   },
   {
