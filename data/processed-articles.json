@@ -1,5 +1,17 @@
 [
   {
+    "title": "Ripple is preparing XRP Ledger for quantum computers before ‘Q-Day’ arrives",
+    "link": "https://www.coindesk.com/tech/2026/08/28/ripple-is-preparing-xrp-ledger-for-quantum-computers-before-q-day-arrives",
+    "pubDate": "Sat, 29 Aug 2026 02:30:00 +0000",
+    "source": "CoinDesk",
+    "category": "both",
+    "content": "An Anthropic model cut the work needed to break a leading post-quantum signature candidate by a factor of 67 million last month, while Bitcoin and Ethereum published their own migration plans this week.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/3fdb04bd3eb1c1413ad0d70e8d1e464ee4866ad9-1500x1000.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "Ripple is proactively preparing its XRP Ledger for quantum computing ahead of a potential 'Q-Day,' while Bitcoin and Ethereum have also published their own migration plans. This urgency is highlighted by an Anthropic AI model's recent demonstration of a 67 million-fold reduction in the work required to break a leading post-quantum signature candidate.",
+    "importance": 9,
+    "classified": true
+  },
+  {
     "title": "Crypto Biz: Bitcoin pumps, Wall Street does the paperwork",
     "link": "https://cointelegraph.com/news/crypto-biz-bitcoin-rally-crypto-stocks-circle-strategy-solana?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "pubDate": "Fri, 28 Aug 2026 14:53:40 +0000",
@@ -140,30 +152,6 @@
     "content": "Warsh’s Jackson Hole speech could shape expectations for Fed support of Treasury buybacks, with implications for bitcoin, gold and long-term yields.",
     "image": "https://cdn.sanity.io/images/s3y3vcno/production/17bee3af9fe1ac84bbe5e96e709475f22fb089ca-3542x2362.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
     "summary": "Warsh's upcoming Jackson Hole speech is expected to influence Federal Reserve decisions on Treasury buybacks, potentially affecting Bitcoin, gold, and long-term interest rates. The speech could signal shifts in monetary policy that impact both traditional and digital assets.",
-    "importance": 8,
-    "classified": true
-  },
-  {
-    "title": "Polish Olympic chief arrested as prosecutors probe suspected crypto-linked bribe",
-    "link": "https://www.coindesk.com/business/2026/08/27/polish-olympic-chief-arrested-as-prosecutors-probe-suspected-crypto-linked-bribe",
-    "pubDate": "Thu, 27 Aug 2026 16:12:10 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "Prosecutors are probing allegations that Zondacrypto's CEO gave Radosław Piesiewicz a 40,000 euro watch for help with regulatory hurdles.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/4ed493982c25f0c7c5b6d44b1e96e8041be44156-1920x1280.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "Polish Olympic Committee chief Radosław Piesiewicz was arrested amid allegations that he received a 40,000 euro watch from Zondacrypto's CEO in exchange for regulatory assistance. Prosecutors are investigating suspected bribery linked to cryptocurrency.",
-    "importance": 8,
-    "classified": true
-  },
-  {
-    "title": "MoonPay’s newest integration lets AI agents handle crypto lending on Solana",
-    "link": "https://www.coindesk.com/business/2026/08/27/moonpay-s-newest-integration-lets-ai-agents-handle-crypto-lending-on-solana",
-    "pubDate": "Thu, 27 Aug 2026 15:52:21 +0000",
-    "source": "CoinDesk",
-    "category": "both",
-    "content": "",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/bbf70cb1c1734c4293f3cde32f095ffb5a3c229f-1920x1281.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "MoonPay has integrated with Solana to enable AI agents to autonomously handle crypto lending transactions. This innovation bridges AI automation with decentralized finance (DeFi) on the Solana blockchain.",
     "importance": 8,
     "classified": true
   },
@@ -501,6 +489,18 @@
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/xai-grok-1152x648.jpg",
     "summary": "A new vulnerability called Cryptographic Context Injection has been discovered, allowing malicious instructions encrypted in a specific format to bypass safety guardrails in Grok, an AI model. This method enables data exfiltration from users when exploited.",
     "importance": 8,
+    "classified": true
+  },
+  {
+    "title": "Bitcoin wallets untouched for 10 years moved $40 million. Most avoided exchanges",
+    "link": "https://www.coindesk.com/markets/2026/08/28/bitcoin-wallets-untouched-for-10-years-moved-usd40-million-most-avoided-exchanges",
+    "pubDate": "Sat, 29 Aug 2026 04:30:00 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "Six decade-old wallets moved $40 million this month, but Galaxy's data shows dormant coin activity at its lowest since 2022 and 2026 on pace for under half of last year's total.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/70198f64252bcded39f90b505eb1a2f4f3b2fb92-1500x1000.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "Six Bitcoin wallets, dormant for a decade, recently moved $40 million, with most of the funds avoiding exchanges. This activity, however, runs counter to the broader trend, as overall dormant coin movement is currently at its lowest since 2022 and projected to remain low through 2026.",
+    "importance": 7,
     "classified": true
   },
   {
