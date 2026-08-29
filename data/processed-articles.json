@@ -96,6 +96,30 @@
     "classified": true
   },
   {
+    "title": "Swift’s $1.5 quadrillion network faces a blockchain test",
+    "link": "https://www.coindesk.com/business/2026/08/29/swift-s-usd1-5-quadrillion-network-faces-a-blockchain-test",
+    "pubDate": "Sat, 29 Aug 2026 15:00:00 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "Crypto executives say new blockchain payment infrastructure could make Swift obsolete. Bankers say its 11,500-institution network gives it the power to absorb the technology instead.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/508c78185616861e76dfe16cc9d55787a0ff9c41-1500x1000.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "Crypto executives suggest that new blockchain payment infrastructure could render Swift obsolete, while bankers contend that Swift's extensive network of 11,500 institutions positions it to absorb the technology instead.",
+    "importance": 8,
+    "classified": true
+  },
+  {
+    "title": "The next trillion-dollar currency may not be a stablecoin — it might not even have a name yet",
+    "link": "https://www.coindesk.com/business/2026/08/29/the-next-trillion-dollar-currency-may-not-be-a-stablecoin-it-might-not-even-have-a-name-yet",
+    "pubDate": "Sat, 29 Aug 2026 15:00:00 +0000",
+    "source": "CoinDesk",
+    "category": "both",
+    "content": "AI agents are coming. They will need to pay each other. Crypto executives agree on the problem but disagree sharply on the solution, and one thinks the answer has not been invented yet.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/486b2136ce091f05ce9e6f0e16a7660ee1fabe27-3840x2160.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "AI agents are emerging and will require a method for transactional payments among themselves. While crypto executives acknowledge this imminent need, they are divided on the specific solution, with one prominent figure believing the ideal currency for this purpose has not yet been invented.",
+    "importance": 8,
+    "classified": true
+  },
+  {
     "title": "Solana vote to double disinflation passes by a hair in dramatic finish",
     "link": "https://www.coindesk.com/tech/2026/08/28/solana-vote-to-double-disinflation-passes-by-a-hair-in-dramatic-finish",
     "pubDate": "Fri, 28 Aug 2026 16:12:45 +0000",
@@ -152,6 +176,18 @@
     "content": "Warsh’s Jackson Hole speech could shape expectations for Fed support of Treasury buybacks, with implications for bitcoin, gold and long-term yields.",
     "image": "https://cdn.sanity.io/images/s3y3vcno/production/17bee3af9fe1ac84bbe5e96e709475f22fb089ca-3542x2362.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
     "summary": "Warsh's upcoming Jackson Hole speech is expected to influence Federal Reserve decisions on Treasury buybacks, potentially affecting Bitcoin, gold, and long-term interest rates. The speech could signal shifts in monetary policy that impact both traditional and digital assets.",
+    "importance": 8,
+    "classified": true
+  },
+  {
+    "title": "Tokenized stock transfer volume jumps 415% in 30 days to $29.5B",
+    "link": "https://cointelegraph.com/markets/tokenized-stock-transfer-volume-jumps-416-in-30-days-to-295b?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Sat, 29 Aug 2026 16:27:28 +0000",
+    "source": "Cointelegraph",
+    "category": "crypto",
+    "content": "Tokenized equities saw a sharp rise in onchain activity as active addresses and holders more than doubled over the past month.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/08/01M174Y6XQHY999NVSQCZY6B3V/hi-cryptocurrency-vs-stocks-breaking-news-1.png",
+    "summary": "Tokenized stock transfer volume surged by 415% over the past 30 days, reaching $29.5 billion. This significant increase was mirrored by a more than doubling of active addresses and holders, indicating a sharp rise in onchain activity for tokenized equities.",
     "importance": 8,
     "classified": true
   },
@@ -264,18 +300,6 @@
     "classified": true
   },
   {
-    "title": "Moonwell investigates lending market issue on Base as security firms flag multimillion-dollar exploit",
-    "link": "https://www.theblock.co/news/defi/2026-08-27-moonwell-investigates-base-lending-market-issue-412913",
-    "pubDate": "Thu, 27 Aug 2026 12:59:46 +0000",
-    "source": "The Block",
-    "category": "crypto",
-    "content": "Security firms CertiK and PeckShield estimate losses of around $8.7 million after an attacker manipulated the collateral price of MAMO.",
-    "image": "https://www.tbstat.com/wp/uploads/2022/11/20221129_Hack-Exploit-3-1200x675.jpg",
-    "summary": "Moonwell, a lending protocol on Base, is investigating a potential exploit where attackers manipulated the collateral price of MAMO, resulting in estimated losses of $8.7 million. Security firms CertiK and PeckShield have flagged the issue as a multimillion-dollar exploit.",
-    "importance": 8,
-    "classified": true
-  },
-  {
     "title": "Debasement Trade Is Here Thanks to Government Debt — And Bitcoin Will Benefit: Grayscale",
     "link": "https://bitcoinmagazine.com/news/debasement-trade-to-benefit-bitcoin",
     "pubDate": "Fri, 28 Aug 2026 20:45:06 +0000",
@@ -320,6 +344,18 @@
     "content": "It’s a glorious day in Kirkland, Washington, an affluent Seattle suburb on the eastern shore of Lake Washington. The temperature is in the mid-80s, and the sky is incapable of being any more blue. The view from the Gates Ventures conference room overlooks the Carillon Point Marina, where a flotilla of expensive boats bob in…",
     "image": "",
     "summary": "Bill Gates discusses the significant progress and potential dangers of AI, stating that critical thresholds in AI development have been surpassed. He emphasizes the need for careful consideration of AI's future implications and responsible development.",
+    "importance": 8,
+    "classified": true
+  },
+  {
+    "title": "Nvidia’s AI advantage is moving beyond the GPU",
+    "link": "https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu/",
+    "pubDate": "Sat, 29 Aug 2026 13:00:00 +0000",
+    "source": "TechCrunch AI",
+    "category": "ai",
+    "content": "The new generation of data center systems is increasing efficiency with smarter traffic control instead of just more processor cycles.",
+    "image": "",
+    "summary": "Nvidia is expanding its AI dominance beyond GPUs by focusing on smarter data center traffic control for improved efficiency, rather than solely increasing processor power. This shift highlights a strategic move toward optimizing AI workloads through advanced system design.",
     "importance": 8,
     "classified": true
   },
@@ -404,18 +440,6 @@
     "content": "Amazon is adding another 2 million Nvidia GPU chips to its data centers over the next two years. But this extended partnerships stretches beyond buying more chips.",
     "image": "",
     "summary": "Amazon is significantly increasing its Nvidia GPU chip orders by 2 million units over the next two years to meet rising demand, expanding its data center capabilities. This move reflects broader industry trends and underscores the growing reliance on AI infrastructure.",
-    "importance": 8,
-    "classified": true
-  },
-  {
-    "title": "Anthropic continues compute-gobbling streak in $45B deal with Nscale",
-    "link": "https://techcrunch.com/2026/08/26/anthropic-continues-compute-gobbling-streak-in-45-billion-deal-with-nscale/",
-    "pubDate": "Wed, 26 Aug 2026 21:37:39 +0000",
-    "source": "TechCrunch AI",
-    "category": "ai",
-    "content": "The new deal with the infrastructure provider is the latest example of Anthropic's white-hot compute-gobbling streak.",
-    "image": "",
-    "summary": "Anthropic has signed a $45 billion deal with infrastructure provider Nscale, continuing its aggressive spending on compute resources to support its AI models. This massive investment underscores the company's rapid expansion and the high costs associated with training advanced AI systems.",
     "importance": 8,
     "classified": true
   },
@@ -525,6 +549,18 @@
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/xai-grok-1152x648.jpg",
     "summary": "A new vulnerability called Cryptographic Context Injection has been discovered, allowing malicious instructions encrypted in a specific format to bypass safety guardrails in Grok, an AI model. This method enables data exfiltration from users when exploited.",
     "importance": 8,
+    "classified": true
+  },
+  {
+    "title": "Ditching 'digital gold': BPI study suggests everyday Americans prefer control and micro-investing",
+    "link": "https://www.coindesk.com/business/2026/08/28/ditch-digital-gold-bpi-study-suggests-everyday-americans-prefer-control-and-micro-investing",
+    "pubDate": "Sat, 29 Aug 2026 15:00:00 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "A new survey suggests some of bitcoin's most familiar sales pitches of changing the world may be poorly suited to a majority of prospective buyers.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/a157306e943dd581a50f1881a075dc427bda6fad-1920x1080.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "A new BPI study indicates that many everyday Americans do not resonate with Bitcoin's 'world-changing' sales pitches. Instead, prospective buyers show a preference for control and micro-investing, suggesting a shift in preferred narratives for cryptocurrency adoption.",
+    "importance": 7,
     "classified": true
   },
   {
@@ -668,30 +704,6 @@
     "content": "Every major but HYPE gained over 24 hours, capping a week that added 9% to bitcoin and 20% to solana.",
     "image": "https://cdn.sanity.io/images/s3y3vcno/production/ab86a50845d3c0057248691a587f84732f2fc7b5-1498x840.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
     "summary": "Bitcoin's price dropped below $80,000 while Solana outperformed other major cryptocurrencies, rising over 24 hours. The week saw Bitcoin gain 9% and Solana surge 20% ahead of a key economic event featuring Federal Reserve Governor Christopher J. Waller.",
-    "importance": 7,
-    "classified": true
-  },
-  {
-    "title": "Connecticut's new lawsuit against Kalshi piles on to prediction market legal fight",
-    "link": "https://www.coindesk.com/news-analysis/2026/08/27/connecticut-s-new-lawsuit-against-kalshi-piles-on-to-prediction-market-legal-fight",
-    "pubDate": "Thu, 27 Aug 2026 18:28:53 +0000",
-    "source": "CoinDesk",
-    "category": "both",
-    "content": "The courtroom combat across state and federal courts is so far producing roughly split outcomes, suggesting a big job may be coming for the Supreme Court.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/bcad99c0ee451c62c60071a6af229113ede0fa77-1500x878.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "Connecticut has filed a lawsuit against Kalshi, a prediction market platform, escalating legal battles over the regulation of prediction markets in the U.S. The ongoing courtroom disputes, with mixed outcomes at state and federal levels, may ultimately require Supreme Court intervention to resolve key legal questions.",
-    "importance": 7,
-    "classified": true
-  },
-  {
-    "title": "Ethena surges as buyback vote, VC unlock overhaul boost token outlook",
-    "link": "https://www.coindesk.com/markets/2026/08/27/ethena-surges-as-buyback-vote-vc-unlock-overhaul-boost-token-outlook",
-    "pubDate": "Thu, 27 Aug 2026 17:32:20 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "The changes aim to cut investor selling pressure and channel protocol revenue to ENA as Ethena looks to revive USDe growth.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/4f2c96f3cc47bb440512f4f7a38cb2ed453a6fec-1920x1080.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "Ethena's token ENA surged following a buyback vote and a proposed overhaul of VC token unlocks to reduce selling pressure and redirect protocol revenue. The changes aim to revive growth for USDe, Ethena's dollar-pegged stablecoin.",
     "importance": 7,
     "classified": true
   },
@@ -884,18 +896,6 @@
     "content": "Institutional clients can access total return swaps across linked to US-listed equities, indexes and digital assets and cross-margin exposures.",
     "image": "https://s3-images.ctmedia.io/media/article-covers/hi-people-start-trust-crypto-in-period-of-crisis-stablecoin-ripple.jpg",
     "summary": "Ripple Prime has launched a Delta One business to offer institutional clients total return swaps linked to US-listed equities, indexes, and digital assets, including cross-margin exposures. This expansion aims to bridge traditional finance with digital assets.",
-    "importance": 7,
-    "classified": true
-  },
-  {
-    "title": "Bank of England set for new innovation mandate covering stablecoins",
-    "link": "https://cointelegraph.com/news/uk-boe-innovation-mandate-stablecoins?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Thu, 27 Aug 2026 12:51:59 +0000",
-    "source": "Cointelegraph",
-    "category": "both",
-    "content": "The UK plans to expand the Bank of England’s remit to support digital payments innovation, including stablecoins, while keeping financial stability first.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-uk-regulations2-1.jpg",
-    "summary": "The UK is set to expand the Bank of England’s mandate to include supporting innovation in digital payments, specifically stablecoins, while maintaining financial stability as the top priority. This move aims to foster advancements in digital currency while ensuring regulatory oversight.",
     "importance": 7,
     "classified": true
   },
@@ -1404,33 +1404,9 @@
     "classified": true
   },
   {
-    "title": "An XRP treasury company backed by Ripple is a shareholder vote away from Nasdaq",
-    "link": "https://www.coindesk.com/markets/2026/08/28/an-xrp-treasury-company-backed-by-ripple-is-a-shareholder-vote-away-from-nasdaq",
-    "pubDate": "Fri, 28 Aug 2026 04:21:22 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "The SEC cleared the paperwork for Evernorth's merger with a shell company, setting up a Sept. 30 vote and a listing under the ticker XRPN.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/b870a99b3666942b2ac0a5c20219248585e42b45-6016x4016.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "Evernorth's merger with a shell company, backed by Ripple, has received SEC approval, paving the way for a shareholder vote on September 30 and a potential Nasdaq listing under the ticker XRPN.",
-    "importance": 6,
-    "classified": true
-  },
-  {
-    "title": "GTA 6 leaker cashes out of his own memecoin hours before Rockstar's gameplay reveal",
-    "link": "https://www.coindesk.com/business/2026/08/27/gta-6-leaker-cashes-out-of-his-own-memecoin-hours-before-rockstar-s-gameplay-reveal",
-    "pubDate": "Thu, 27 Aug 2026 16:32:38 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "The token hit a $25 million market cap on the back of nine days of unreleased Grand Theft Auto VI footage. Its creator has now sold his stack — hours before Rockstar's first official gameplay reveal.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/62388bde80f8e4232ed973e0da85eeaedabd3d79-7959x5306.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "A GTA 6 leaker sold his entire stake in a memecoin tied to leaked GTA VI footage just hours before Rockstar's official gameplay reveal. The token reached a $25 million market cap during the hype surrounding the leaked videos.",
-    "importance": 6,
-    "classified": true
-  },
-  {
     "title": "Here’s what happened in crypto today",
     "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Fri, 28 Aug 2026 20:42:54 +0000",
+    "pubDate": "Sat, 29 Aug 2026 12:39:59 +0000",
     "source": "Cointelegraph",
     "category": "crypto",
     "content": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
@@ -1488,6 +1464,18 @@
     "classified": true
   },
   {
+    "title": "“We’re not doing 30 bets a year”: Vijay Pande on betting small after running $4 billion at a16z",
+    "link": "https://techcrunch.com/2026/08/29/were-not-doing-30-bets-a-year-vijay-pande-on-betting-small-after-running-4-billion-at-a16z/",
+    "pubDate": "Sat, 29 Aug 2026 17:36:47 +0000",
+    "source": "TechCrunch AI",
+    "category": "ai",
+    "content": "Vijay Pande — who left a16z's roughly $4 billion biotech practice last year to start the much smaller, AI-native VZVC — talks about why biology is finally shifting from a \"discovery\" science to an \"engineering\" one, why clinical trials are still brutally expensive, and why he thinks open, shared datasets (not walled-off ones) are what will actually let AI transform medicine.",
+    "image": "",
+    "summary": "Vijay Pande discusses his shift from leading a $4 billion biotech practice at a16z to founding VZVC, an AI-native company focused on transforming medicine through open datasets. He highlights the transition of biology from discovery to engineering and the high costs of clinical trials.",
+    "importance": 6,
+    "classified": true
+  },
+  {
     "title": "Google’s AI Mode can now track flight prices, help book hotels, and more",
     "link": "https://techcrunch.com/2026/08/27/googles-ai-mode-can-now-track-flight-prices-help-book-hotels-and-more/",
     "pubDate": "Thu, 27 Aug 2026 16:00:00 +0000",
@@ -1520,18 +1508,6 @@
     "content": "Called Plaud One, these adopt the simple bare-bones style of Apple's AirPods, and can record calls, while their case can be used to record in-person conversations or take notes.",
     "image": "",
     "summary": "Plaud has launched Plaud One earphones with an eSIM-enabled case, allowing users to interact with AI agents. The earphones can record calls and in-person conversations, while the case can also be used to take notes.",
-    "importance": 6,
-    "classified": true
-  },
-  {
-    "title": "Google’s Gemini has a branding problem, and so does the rest of AI",
-    "link": "https://techcrunch.com/2026/08/26/googles-gemini-has-a-branding-problem-and-so-does-the-rest-of-ai/",
-    "pubDate": "Wed, 26 Aug 2026 19:37:34 +0000",
-    "source": "TechCrunch AI",
-    "category": "ai",
-    "content": "Consumer AI apps need to stop making users learn their product architecture.",
-    "image": "",
-    "summary": "Google's Gemini faces branding challenges, reflecting broader issues in the AI industry where consumer apps often require users to understand complex product architectures. The article critiques the lack of intuitive design in AI applications.",
     "importance": 6,
     "classified": true
   },
@@ -1581,6 +1557,18 @@
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/gemini-general-6-1152x648.jpg",
     "summary": "Google has announced the expansion of its AI-powered speech-to-text tool, Gemini 3.5 Transcribe, which currently powers Gboard's Rambler feature. The tool will now be integrated into additional Google products, including Chrome.",
     "importance": 6,
+    "classified": true
+  },
+  {
+    "title": "Tokenized assets are busier than the data shows",
+    "link": "https://www.coindesk.com/opinion/2026/08/29/tokenized-assets-are-busier-than-the-data-shows",
+    "pubDate": "Sat, 29 Aug 2026 13:00:00 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "When you strip out what was never mobile, correct for who's holding what and why, add back what works off-contract, the utilization of tokenized assets looks close to 20%, argues Katana’s Matthew Fisher.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/8063c00aa61892be74b3d456dde16b88df485efc-8000x4099.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "Matthew Fisher of Katana argues that the actual utilization of tokenized assets is considerably higher than commonly believed, estimating it to be around 20%. This revised figure comes after accounting for factors such as non-mobile assets and off-contract work.",
+    "importance": 5,
     "classified": true
   },
   {
@@ -1701,6 +1689,18 @@
     "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/microduck-kickabout.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
     "summary": "Hugging Face's Pollen Robotics has unveiled the Microduck, a small AI-powered robot shaped like a duck that can rollerskate, pick up objects, and respond to its environment. Preorders are open for $399, with shipments expected before Christmas 2026.",
     "importance": 3,
+    "classified": true
+  },
+  {
+    "title": "Former White House teleprompter operator ordered to pay $172,000 for Kalshi trades on mention markets",
+    "link": "https://www.theblock.co/news/regulation/2026-08-29-former-white-house-teleprompter-operator-ordered-to-pay-172000-for-kalshi-trades-on-mention-markets-413058",
+    "pubDate": "Sat, 29 Aug 2026 13:58:02 +0000",
+    "source": "The Block",
+    "category": "crypto",
+    "content": "The fine marks the CFTC's second insider trading case against a federal employee trading event contracts and its second related settlement in four weeks.",
+    "image": "https://www.tbstat.com/wp/uploads/2025/04/20250424_Law_News_4-1200x675.jpg",
+    "summary": "A former White House teleprompter operator has been ordered to pay $172,000 for insider trading on Kalshi's \"mention markets.\" This fine represents the CFTC's second insider trading case against a federal employee involved in event contracts within a four-week period.",
+    "importance": 2,
     "classified": true
   },
   {
