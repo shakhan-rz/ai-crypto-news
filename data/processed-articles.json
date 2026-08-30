@@ -216,6 +216,18 @@
     "classified": true
   },
   {
+    "title": "Russia’s Sber eyes USDT loans, questions digital ruble demand",
+    "link": "https://cointelegraph.com/news/russia-sber-bank-bitcoin-ether-usdt-crypto-loans?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Sun, 30 Aug 2026 09:45:01 +0000",
+    "source": "Cointelegraph",
+    "category": "crypto",
+    "content": "Russia’s largest bank, Sber, plans to accept USDT and Ether alongside Bitcoin as loan collateral as the country introduces regulated crypto trading under a new law.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/08/01M190WE0Y455BRFFWWXC00QY4/1-44.png",
+    "summary": "Russia's largest bank, Sber, plans to accept USDT, Ether, and Bitcoin as collateral for loans under new national regulations for crypto trading. This move signifies a significant step towards institutional integration of digital assets within Russia's financial system.",
+    "importance": 8,
+    "classified": true
+  },
+  {
     "title": "Polygon discloses security flaws fixed in recent hard forks",
     "link": "https://cointelegraph.com/news/polygon-discloses-security-flaws-fixed-in-recent-hard-forks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "pubDate": "Sat, 29 Aug 2026 20:28:51 +0000",
@@ -888,30 +900,6 @@
     "classified": true
   },
   {
-    "title": "Charles Schwab adda Solana, Avalanche and Chainlink to nascent crypto platform",
-    "link": "https://cointelegraph.com/news/charles-schwab-to-add-solana-avalanche-and-chainlink-to-crypto-platform?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Thu, 27 Aug 2026 16:13:10 +0000",
-    "source": "Cointelegraph",
-    "category": "crypto",
-    "content": "The financial services giant plans to expand Schwab Crypto beyond Bitcoin and Ether just months after rolling out direct crypto trading to retail clients.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-bank-bitcoin-charles-schwab-corp.png",
-    "summary": "Charles Schwab is expanding its crypto trading platform, Schwab Crypto, to include Solana, Avalanche, and Chainlink, moving beyond Bitcoin and Ether. This expansion comes just months after the platform was launched for retail clients.",
-    "importance": 7,
-    "classified": true
-  },
-  {
-    "title": "Bitcoin’s 23% rally sends beaten-down miners soaring past AI stocks",
-    "link": "https://cointelegraph.com/markets/bitcoin-miner-stocks-rally-crypto-demand-ai-hpc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Thu, 27 Aug 2026 16:04:15 +0000",
-    "source": "Cointelegraph",
-    "category": "both",
-    "content": "Canaan, American Bitcoin and Cango jumped as much as 67% as renewed crypto demand showed BTC exposure can still drive mining equities despite the industry’s AI push.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-b-announces-mining-pool-and-chain-white-paper-slammed-for-centralization-in-both-cases.jpg",
-    "summary": "Bitcoin's 23% rally led to a surge in mining stocks like Canaan, American Bitcoin, and Cango, with gains up to 67%. This uptick highlights renewed crypto demand and the potential for mining equities to outperform AI stocks despite the industry's pivot toward artificial intelligence.",
-    "importance": 7,
-    "classified": true
-  },
-  {
     "title": "Bitwise fund is first Solana ETF to hit $1 billion AUM",
     "link": "https://www.theblock.co/news/markets/2026-08-28-bitwise-fund-is-first-solana-etf-to-hit-1-billion-aum-413035",
     "pubDate": "Fri, 28 Aug 2026 15:48:52 +0000",
@@ -1308,6 +1296,18 @@
     "classified": true
   },
   {
+    "title": "Inside Meta’s push to put robots to work in data centers",
+    "link": "https://arstechnica.com/ai/2026/08/inside-metas-push-to-put-robots-to-work-in-data-centers/",
+    "pubDate": "Sun, 30 Aug 2026 11:03:47 +0000",
+    "source": "Ars Technica AI",
+    "category": "ai",
+    "content": "The company is testing robots on tasks that can performed by technicians.",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/data-center-server-room-1152x648.jpg",
+    "summary": "Meta is reportedly testing the integration of robots into its data centers to automate various operational tasks. These robots are being deployed to perform duties typically handled by human technicians, marking a significant step in the company's push for automation within its infrastructure.",
+    "importance": 7,
+    "classified": true
+  },
+  {
     "title": "Trump blacklisting of \"woke\" Anthropic deemed illegal by federal judge",
     "link": "https://arstechnica.com/tech-policy/2026/08/trump-blacklisting-of-woke-anthropic-deemed-illegal-by-federal-judge/",
     "pubDate": "Fri, 28 Aug 2026 18:07:55 +0000",
@@ -1388,18 +1388,6 @@
     "content": "Ars looks at Zuckoff, the latest free app detecting Meta AI glasses amid privacy backlash.",
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/zuckoff-glasshole-1152x648.jpg",
     "summary": "The demand for Meta AI glasses has surged, raising privacy concerns due to potential unauthorized recordings. A new free app called Zuckoff has emerged to detect these glasses, highlighting the growing backlash over invasive technology.",
-    "importance": 7,
-    "classified": true
-  },
-  {
-    "title": "Flight attendants freaked out that Google is buying tons of Spirit employee data",
-    "link": "https://arstechnica.com/tech-policy/2026/08/flight-attendants-freaked-out-that-google-to-buy-tons-of-spirit-employee-data/",
-    "pubDate": "Wed, 19 Aug 2026 20:04:41 +0000",
-    "source": "Ars Technica AI",
-    "category": "ai",
-    "content": "Bankrupt Spirit accused of selling out workers in massive data sale to Google.",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2273586740-1024x648.jpg",
-    "summary": "Spirit Airlines, currently in bankruptcy, is facing backlash after allegedly selling a large amount of employee data to Google without proper consent. Flight attendants and workers express concerns over privacy and exploitation during the company's financial distress.",
     "importance": 7,
     "classified": true
   },
@@ -1665,6 +1653,18 @@
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/World-Humanoid-Robot-Games-2026-1152x648.jpg",
     "summary": "A news article highlights record-breaking humanoid robot races, which are compared to household chore challenges. The event also mentions robots bursting into flames during the competition.",
     "importance": 4,
+    "classified": true
+  },
+  {
+    "title": "Real Trump Coins denies launching GOLD token, blames ‘bad actors’",
+    "link": "https://cointelegraph.com/news/real-trump-coins-denies-gold-token-launch?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Sun, 30 Aug 2026 08:04:56 +0000",
+    "source": "Cointelegraph",
+    "category": "crypto",
+    "content": "Trump-linked Real Trump Coins said it never authorized GOLD or any digital token as questions persisted over its X account, associated domains and the concentrated token supply.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/08/01M18SAPB6CQTXR7T638XMWVRB/hi-top-crypto-cyber-threats.jpg",
+    "summary": "Real Trump Coins has denied authorizing the launch of a 'GOLD' digital token, attributing its emergence to 'bad actors.' This denial comes amidst ongoing questions concerning its X account, associated domains, and the token's concentrated supply.",
+    "importance": 3,
     "classified": true
   },
   {
