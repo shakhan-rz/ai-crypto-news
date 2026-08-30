@@ -72,12 +72,12 @@
     "classified": true
   },
   {
-    "title": "Sony Music and Warner Chappell are suing Anthropic",
+    "title": "Sony Music Publishing and Warner Chappell are suing Anthropic",
     "link": "https://www.theverge.com/ai-artificial-intelligence/986438/sony-music-warner-chappell-anthropic-lawsuit-copyright",
     "pubDate": "2026-08-29T18:19:53.000Z",
     "source": "The Verge AI",
     "category": "ai",
-    "content": "Sony Music and Warner Chappell have filed suit against Anthropic in the US District Court for the Northern District of California seeking damages for \"tens of thousands\" copyrighted works. The companies are asking for up to $150,000 per work, plus up to $25,000 for each instance when identifiable copyright data was stripped. In total, the damages could amount to several billion dollars if a court finds in Sony and Warner's favor and awards the maximum amount.  \nThis is just the latest high-profile suit against Anthropic, which recently settled a suit brought by the publishing industry for $1.5 billion. It's also faced multiple lawsuits from …\nRead the full story at The Verge.",
+    "content": "Sony Music Publishing and Warner Chappell have filed suit against Anthropic in the US District Court for the Northern District of California seeking damages for \"tens of thousands\" copyrighted works. The companies are asking for up to $150,000 per work, plus up to $25,000 for each instance when identifiable copyright data was stripped. In total, the damages could amount to several billion dollars if a court finds in Sony and Warner's favor and awards the maximum amount.  \nThis is just the latest high-profile suit against Anthropic, which recently settled a suit brought by the publishing industry for $1.5 billion. It's also faced multiple la …\nRead the full story at The Verge.",
     "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK269_ANTHROPIC_2_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
     "summary": "Sony Music and Warner Chappell have filed a lawsuit against AI company Anthropic in the US for copyright infringement, seeking billions in damages for the alleged use of tens of thousands of copyrighted works. This is the latest in a series of high-profile lawsuits against Anthropic, highlighting ongoing legal challenges for AI models regarding training data.",
     "importance": 9,
@@ -117,6 +117,18 @@
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2024/09/hugging_face_3-1152x648.jpg",
     "summary": "Nvidia is reportedly acquiring Hugging Face, a major AI model repository, for $13 billion to bolster its open-source AI infrastructure. The deal highlights Nvidia's strategic push to dominate the AI ecosystem amid rising demand for accessible AI tools.",
     "importance": 9,
+    "classified": true
+  },
+  {
+    "title": "Michael Saylor hints at first bitcoin purchase in two months as bitcoin nears $79,000",
+    "link": "https://www.coindesk.com/markets/2026/08/30/bitcoin-nears-usd79-000-as-michael-saylor-hints-at-first-bitcoin-purchase-in-two-months",
+    "pubDate": "Sun, 30 Aug 2026 15:39:55 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "Bitcoin rebounds from Friday’s low as Strategy’s valuation expands and bitcoin dominance climbs above 60%.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/dd98498dbda09f933fbeac48aac3591d14c0deee-3018x1697.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "Michael Saylor, MicroStrategy's CEO, suggests the company may make its first Bitcoin purchase in two months as the cryptocurrency approaches $79,000. Bitcoin's dominance in the market has risen above 60% amid a recent rebound.",
+    "importance": 8,
     "classified": true
   },
   {
@@ -204,21 +216,9 @@
     "classified": true
   },
   {
-    "title": "Here’s why Warsh’s Jackson Hole speech is a major event for bitcoin and gold",
-    "link": "https://www.coindesk.com/markets/2026/08/28/here-s-why-warsh-s-jackson-hole-speech-is-a-major-event-for-bitcoin-and-gold",
-    "pubDate": "Fri, 28 Aug 2026 06:30:10 +0000",
-    "source": "CoinDesk",
-    "category": "both",
-    "content": "Warsh’s Jackson Hole speech could shape expectations for Fed support of Treasury buybacks, with implications for bitcoin, gold and long-term yields.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/17bee3af9fe1ac84bbe5e96e709475f22fb089ca-3542x2362.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "Warsh's upcoming Jackson Hole speech is expected to influence Federal Reserve decisions on Treasury buybacks, potentially affecting Bitcoin, gold, and long-term interest rates. The speech could signal shifts in monetary policy that impact both traditional and digital assets.",
-    "importance": 8,
-    "classified": true
-  },
-  {
     "title": "Russia’s Sber eyes USDT loans, questions digital ruble demand",
     "link": "https://cointelegraph.com/news/russia-sber-bank-bitcoin-ether-usdt-crypto-loans?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Sun, 30 Aug 2026 09:45:01 +0000",
+    "pubDate": "Sun, 30 Aug 2026 09:55:00 +0000",
     "source": "Cointelegraph",
     "category": "crypto",
     "content": "Russia’s largest bank, Sber, plans to accept USDT and Ether alongside Bitcoin as loan collateral as the country introduces regulated crypto trading under a new law.",
@@ -492,18 +492,6 @@
     "classified": true
   },
   {
-    "title": "Viral AI startup Instinct has raised $350M at a $2.5B valuation",
-    "link": "https://techcrunch.com/2026/08/26/viral-ai-startup-instinct-has-raised-350-million-at-a-2-5-billion-valuation/",
-    "pubDate": "Thu, 27 Aug 2026 00:24:57 +0000",
-    "source": "TechCrunch AI",
-    "category": "ai",
-    "content": "The startup is only a year old but it has already generated a massive amount of hype (and money) while also spurring privacy concerns.",
-    "image": "",
-    "summary": "Instinct, an AI startup just one year old, has secured $350 million in funding at a $2.5 billion valuation, generating significant hype and investment interest despite raising privacy concerns.",
-    "importance": 8,
-    "classified": true
-  },
-  {
     "title": "Musicians-turned-detectives are hunting for AI grifters",
     "link": "https://www.theverge.com/entertainment/985866/h4rris-nihil-young-edm-suno-ai",
     "pubDate": "2026-08-29T12:00:00.000Z",
@@ -728,30 +716,6 @@
     "content": "Weakening profitability overshadowed a major milestone in IREN’s transformation into an AI cloud provider.",
     "image": "https://cdn.sanity.io/images/s3y3vcno/production/54bd04de039305784bf732dce245207bcc75ba21-7008x3942.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
     "summary": "IREN's shares dropped by 8% due to weakening profitability despite achieving a key milestone in its shift to becoming an AI cloud provider. The costly transition to AI infrastructure is impacting the company's earnings.",
-    "importance": 7,
-    "classified": true
-  },
-  {
-    "title": "Solana’s faster disinflation plan leads vote as $800K burn proposal trails",
-    "link": "https://www.coindesk.com/tech/2026/08/28/solana-s-faster-supply-cuts-lead-vote-while-usd800-000-daily-burn-plan-trails",
-    "pubDate": "Fri, 28 Aug 2026 06:22:10 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "All three proposals have cleared quorum, but a plan to slow new SOL creation is only narrowly passing while a separate vote to sharply increase token burns remains below the two-thirds support needed.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/2e14ef9e0ece47068da06c0d0405ba1e13c15bd8-3904x2196.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "Solana's proposal to slow the creation of new SOL tokens is leading in a community vote, while another proposal to significantly increase token burns is struggling to reach the required two-thirds support. All proposals have met the quorum but face varying levels of approval.",
-    "importance": 7,
-    "classified": true
-  },
-  {
-    "title": "Bitcoin is trading at a premium on Coinbase after a long time. Here's what it means",
-    "link": "https://www.coindesk.com/markets/2026/08/28/bitcoin-is-trading-at-a-premium-on-coinbase-after-a-long-time",
-    "pubDate": "Fri, 28 Aug 2026 05:02:22 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "The indictor has flipped positive for the first time since May as BTC looks to establish a foothold above $80,000.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/7f9a8bf8731625906738faac957eee0f6ad99369-2315x1277.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "Bitcoin is currently trading at a premium on Coinbase for the first time since May, indicating renewed market strength as it holds above $80,000. This shift suggests increasing institutional and retail interest in the cryptocurrency.",
     "importance": 7,
     "classified": true
   },
@@ -1188,6 +1152,18 @@
     "classified": true
   },
   {
+    "title": "Caterpillar is bringing to AI deployment what it learned from automating mining",
+    "link": "https://techcrunch.com/2026/08/30/caterpillar-is-bringing-to-ai-deployment-what-it-learned-from-automating-mining/",
+    "pubDate": "Sun, 30 Aug 2026 15:00:00 +0000",
+    "source": "TechCrunch AI",
+    "category": "ai",
+    "content": "Caterpillar has spent decades putting autonomous machines to work at remote mining sites. It's now bringing that experience to AI deployment.",
+    "image": "",
+    "summary": "Caterpillar, known for its autonomous mining machinery, is applying its expertise in automation to AI deployment. The company aims to leverage its experience from remote mining sites to enhance AI implementation.",
+    "importance": 7,
+    "classified": true
+  },
+  {
     "title": "Anthropic gets its first court win over the Pentagon’s supply-chain risk label",
     "link": "https://techcrunch.com/2026/08/28/anthropic-gets-its-first-court-win-over-the-pentagons-supply-chain-risk-label/",
     "pubDate": "Fri, 28 Aug 2026 12:46:12 +0000",
@@ -1260,6 +1236,18 @@
     "classified": true
   },
   {
+    "title": "Texas Governor Abbott blocks funding for more Flock cameras",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/986541/texas-governor-abbott-flock-cameras",
+    "pubDate": "2026-08-30T15:35:10.000Z",
+    "source": "The Verge AI",
+    "category": "ai",
+    "content": "As backlash grows over Flock's AI surveillance cameras, Texas Governor Greg Abbott has frozen state spending on them. The move came just ahead of the publication of a Texas Tribune investigation that revealed the state spent over $30 million on Flock cameras. That money was primarily raised by tacking a $1 fee onto insurance policies, allegedly to help fight catalytic converter theft.\nFlock cameras have increasingly drawn ire from across the political spectrum as they've become the subject of privacy concerns. There have been multiple incidents of officers being placed on leave or criminally charged for misusing Flock systems, including at  …\nRead the full story at The Verge.",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/268713_Americans_seem_to_agree_that_destroy_Flock_cameras_is_good_CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "summary": "Texas Governor Greg Abbott has blocked further state funding for Flock AI surveillance cameras following a Texas Tribune investigation revealing $30 million in spending, primarily through a $1 fee on insurance policies. The move comes amid growing privacy concerns and misuse allegations, including officers being placed on leave or criminally charged for abusing the system.",
+    "importance": 7,
+    "classified": true
+  },
+  {
     "title": "Google’s AI note-taking app now allows you to interact with books",
     "link": "https://www.theverge.com/tech/985567/google-gemini-notebook-expert-sources-books",
     "pubDate": "2026-08-27T19:30:00.000Z",
@@ -1280,18 +1268,6 @@
     "content": "On Nvidia's earnings call Wednesday, CEO Jensen Huang casually announced the company had \"achieved AGI,\" one of the tech industry's ultimate goals some of its biggest players have spent years chasing. Almost immediately, Huang dismissed the coveted milestone as \"senseless.\"   \nHe's right. For the supposed finish line of the AI race, there is no consensus on what artificial general intelligence means, let alone how we'll know when we've actually got there, which makes achieving it equally arbitrary. \nAsked about OpenAI's pursuit of AGI, Huang said that when it comes to Nvidia, \"for many tasks, we could say that we've already achieved AGI.\"  …\nRead the full story at The Verge.",
     "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/STKP210_JENSEN_HUANG_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
     "summary": "Nvidia CEO Jensen Huang claimed the company has 'achieved AGI' during an earnings call, but dismissed the milestone as meaningless due to the lack of a clear definition for artificial general intelligence. He suggested Nvidia's AI systems already meet AGI criteria for many tasks.",
-    "importance": 7,
-    "classified": true
-  },
-  {
-    "title": "Adobe is adding more AI to Photoshop",
-    "link": "https://www.theverge.com/tech/985491/adobe-photoshop-ai-assisted-editor-markup",
-    "pubDate": "2026-08-27T13:00:00.000Z",
-    "source": "The Verge AI",
-    "category": "ai",
-    "content": "Adobe is rolling out an AI-heavy update for Photoshop that includes a new \"optional\" interface dedicated to its AI tools. Launching in beta, the \"AI Assisted Editor\" view will show all of Photoshop's AI features in a single toolbar, including its prompt-based image editor, background remover, an AI image extender, and more.\nThere are also new ways to refine edits with AI, including a \"markup\" feature to draw directly on an image to show Photoshop's AI assistant what you'd like to change. That means you can \"select areas to recolor, sketch arrows to indicate position, or brush in rough shapes to suggest new elements\" without using a text pro …\nRead the full story at The Verge.",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/AI-Assisted-Editor_Static.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "summary": "Adobe is introducing a new AI-focused interface for Photoshop called 'AI Assisted Editor,' which consolidates AI tools like prompt-based editing and background removal into a single toolbar. The update also includes features like markup-based refinements, allowing users to draw directly on images to guide AI edits.",
     "importance": 7,
     "classified": true
   },
@@ -1392,6 +1368,30 @@
     "classified": true
   },
   {
+    "title": "From Hawala to Swift: Inside the 1,000-year battle to move money safely",
+    "link": "https://www.coindesk.com/business/2026/08/30/from-hawala-to-swift-inside-the-1-000-year-battle-to-move-money-safely",
+    "pubDate": "Sun, 30 Aug 2026 15:00:00 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "Finance has spent centuries decoupling wealth from physical transport, but constantly erasing friction creates vectors for increasingly high-tech exploits.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/9783d7b206819da6e468694efca72dd18e27ac27-1186x667.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "The article explores the historical evolution of financial systems from traditional methods like Hawala to modern systems like SWIFT, highlighting how the pursuit of frictionless transactions has introduced new vulnerabilities and high-tech exploits over centuries.",
+    "importance": 6,
+    "classified": true
+  },
+  {
+    "title": "Crypto market makers are cashing in on bitcoin's rally - without betting on direction",
+    "link": "https://www.coindesk.com/markets/2026/08/28/crypto-market-makers-are-cashing-in-on-bitcoin-s-rally-without-betting-on-direction",
+    "pubDate": "Sun, 30 Aug 2026 12:00:00 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "As bitcoin surges back above $80,000, sophisticated trading firms are quietly collecting yield rather than making directional bet.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/3ec0faabb4311a9cbb3b547c5d4d2d107b6d405e-1920x1080.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "Sophisticated trading firms, specifically market makers, are generating yield from Bitcoin's surge above $80,000. These firms are profiting from the rally without needing to place directional bets on the cryptocurrency's price movement.",
+    "importance": 6,
+    "classified": true
+  },
+  {
     "title": "Bitcoin hits highest level in 3 months before pulling back as altcoins consolidate",
     "link": "https://www.coindesk.com/markets/2026/08/28/bitcoin-hits-highest-level-in-3-months-before-pulling-back-as-altcoins-consolidate",
     "pubDate": "Fri, 28 Aug 2026 10:37:35 +0000",
@@ -1406,7 +1406,7 @@
   {
     "title": "Here’s what happened in crypto today",
     "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Sat, 29 Aug 2026 12:39:59 +0000",
+    "pubDate": "Sun, 30 Aug 2026 12:49:37 +0000",
     "source": "Cointelegraph",
     "category": "crypto",
     "content": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
