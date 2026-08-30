@@ -60,18 +60,6 @@
     "classified": true
   },
   {
-    "title": "Nvidia closes in on Hugging Face acquisition",
-    "link": "https://techcrunch.com/2026/08/26/nvidia-closes-in-on-hugging-face-acquisition/",
-    "pubDate": "Thu, 27 Aug 2026 06:32:51 +0000",
-    "source": "TechCrunch AI",
-    "category": "ai",
-    "content": "Nvidia has reportedly agreed to buy Hugging Face, the popular open source AI hub, for $12.9 billion in a move that would let Nvidia both protect its chip empire and jump back into the cloud business.",
-    "image": "",
-    "summary": "Nvidia is reportedly in advanced talks to acquire Hugging Face, a leading open-source AI platform, for $12.9 billion. The deal aims to strengthen Nvidia's AI ecosystem and re-enter the cloud computing market.",
-    "importance": 9,
-    "classified": true
-  },
-  {
     "title": "Sony Music Publishing and Warner Chappell are suing Anthropic",
     "link": "https://www.theverge.com/ai-artificial-intelligence/986438/sony-music-warner-chappell-anthropic-lawsuit-copyright",
     "pubDate": "2026-08-29T18:19:53.000Z",
@@ -356,6 +344,30 @@
     "content": "The South Korean financial group plans to build a $109 billion digital asset business spanning crypto, stablecoins and tokenized assets, according to The Korea Times.",
     "image": "https://s3-images.ctmedia.io/media/article-covers/hi-when-will-the-coinbase-ipo-take-place-and-what-effect-is-it-having-on-crypto.png",
     "summary": "South Korean financial group Mirae Asset plans to launch a $109 billion digital asset business, focusing on cryptocurrencies, stablecoins, and tokenized assets. The initiative, reported by The Korea Times, aims to expand its presence in the digital asset market.",
+    "importance": 8,
+    "classified": true
+  },
+  {
+    "title": "Crypto.com-linked Cronos network halts after Tectonic exploit estimated at $75 million",
+    "link": "https://www.theblock.co/news/defi/2026-08-30-crypto-com-linked-cronos-network-halts-after-tectonic-exploit-estimated-at-75-million-413069",
+    "pubDate": "Sun, 30 Aug 2026 18:40:08 +0000",
+    "source": "The Block",
+    "category": "crypto",
+    "content": "Li says the attacker manipulated the price of Tectonic's illiquid TONIC token before borrowing against the inflated collateral, a Mango Markets-style hack.",
+    "image": "https://www.tbstat.com/wp/uploads/2022/11/20221129_Hack-Exploit-2-1200x675.jpg",
+    "summary": "The Crypto.com-linked Cronos network has been halted following an estimated $75 million exploit on Tectonic. The attacker manipulated the price of Tectonic's illiquid TONIC token to borrow against inflated collateral, a method reminiscent of the Mango Markets hack.",
+    "importance": 8,
+    "classified": true
+  },
+  {
+    "title": "Chainalysis accuses ICE of unfairly steering $95 million blockchain contract to TRM Labs",
+    "link": "https://www.theblock.co/news/business/2026-08-30-chainalysis-accuses-ice-of-unfairly-steering-95-million-blockchain-contract-to-trm-labs-413066",
+    "pubDate": "Sun, 30 Aug 2026 17:51:54 +0000",
+    "source": "The Block",
+    "category": "crypto",
+    "content": "The lawsuit asks a federal court to block the $95 million TRM contract and require ICE to conduct a full and open competition.",
+    "image": "https://www.tbstat.com/wp/uploads/2025/04/20250424_Law_News-1200x675.jpg",
+    "summary": "Chainalysis has filed a lawsuit accusing ICE of unfairly awarding a $95 million blockchain contract to TRM Labs without a full and open competition. The company is seeking a federal court order to block the existing TRM contract and mandate a new, competitive bidding process for the deal.",
     "importance": 8,
     "classified": true
   },
@@ -720,6 +732,18 @@
     "classified": true
   },
   {
+    "title": "Saylor signals Strategy is ‘Back’ to Bitcoin buying",
+    "link": "https://cointelegraph.com/news/saylor-signals-strategy-is-back-to-bitcoin-buying?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Sun, 30 Aug 2026 17:59:00 +0000",
+    "source": "Cointelegraph",
+    "category": "crypto",
+    "content": "Michael Saylor’s “We’re Back” post hints Strategy may resume Bitcoin buying after a two-month pause to strengthen its balance sheet.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/08/01M19WS2MWX8WK42HTJNANTQJ5/hi-michael-saylor.png",
+    "summary": "Michael Saylor's recent \"We're Back\" post indicates that his company, Strategy, may be resuming its Bitcoin acquisition strategy. This move follows a two-month period where the company paused Bitcoin purchases to strengthen its balance sheet.",
+    "importance": 7,
+    "classified": true
+  },
+  {
     "title": "Chelsea FC gets a stablecoin sponsor after UK FCA warning to clubs",
     "link": "https://cointelegraph.com/news/chelsea-football-circle-sponsor-fca-warning-questionable-deals?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "pubDate": "Fri, 28 Aug 2026 17:46:12 +0000",
@@ -848,18 +872,6 @@
     "content": "While investors in World Liberty Financial‘s USD1 stablecoin “haven’t suffered major losses,” many lost billions of dollars in other Trump ventures, according to Public Citizen.",
     "image": "https://s3-images.ctmedia.io/media/article-covers/analytics-red-trump.jpg",
     "summary": "Public Citizen claims Donald Trump's crypto ventures have cost investors $4.7 billion, with losses concentrated in non-World Liberty Financial projects despite the USD1 stablecoin performing relatively well.",
-    "importance": 7,
-    "classified": true
-  },
-  {
-    "title": "Bitcoin eyes $81K as Nvidia earnings beat boosts risk assets",
-    "link": "https://cointelegraph.com/markets/bitcoin-eyes-81k-as-nvidia-earnings-beat-boosts-risk-assets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Thu, 27 Aug 2026 17:15:43 +0000",
-    "source": "Cointelegraph",
-    "category": "both",
-    "content": "Bitcoin and crypto joined US stock markets in fresh gains after Nvidia Q2 earnings beat expectations by around $4 billion.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/hi-how-to-use-nvidia-stock-for-broad-market-exposure.jpg",
-    "summary": "Bitcoin surged toward $81,000 as risk assets rallied following Nvidia's Q2 earnings, which exceeded expectations by approximately $4 billion. The crypto market mirrored gains in US stocks, driven by the tech giant's strong financial performance.",
     "importance": 7,
     "classified": true
   },
@@ -1016,18 +1028,6 @@
     "content": "Ethena Foundation announced four updates, including buying locked ENA tokens and ending future monthly investor unlocks.",
     "image": "https://www.tbstat.com/wp/uploads/2026/06/20260612_Ethena_News-1200x675.jpg",
     "summary": "The Ethena Foundation proposed a fee switch mechanism for ENA token buybacks and announced updates such as purchasing locked ENA tokens and discontinuing future monthly investor unlocks.",
-    "importance": 7,
-    "classified": true
-  },
-  {
-    "title": "PURR jumps 15% as Hyperliquid Strategies updates $1.9 billion HYPE treasury and ‘fortress balance sheet’",
-    "link": "https://www.theblock.co/news/business/2026-08-27-purr-jumps-hyperliquid-strategies-1-9-billion-hype-treasury-fortress-balance-sheet-412926",
-    "pubDate": "Thu, 27 Aug 2026 14:52:15 +0000",
-    "source": "The Block",
-    "category": "crypto",
-    "content": "The company said it has since deployed $773.4 million to acquire about 16.5 million additional HYPE at an average cost of $46.77.",
-    "image": "https://www.tbstat.com/wp/uploads/2026/04/20260410_Hyperliquid_News-1200x675.jpg",
-    "summary": "Hyperliquid Strategies has deployed $773.4 million to acquire 16.5 million additional HYPE tokens, averaging $46.77 per token, following a $1.9 billion treasury update. This move, which aims to strengthen its balance sheet, has led to a 15% surge in the price of PURR.",
     "importance": 7,
     "classified": true
   },
@@ -1440,18 +1440,6 @@
     "classified": true
   },
   {
-    "title": "DeFi Development Corp resumes Solana purchases, acquiring nearly 20,000 SOL",
-    "link": "https://www.theblock.co/news/business/2026-08-27-defi-development-resumes-solana-purchases-acquiring-nearly-20000-sol-412932",
-    "pubDate": "Thu, 27 Aug 2026 15:32:13 +0000",
-    "source": "The Block",
-    "category": "crypto",
-    "content": "DFDV's return has been more than twice that of SOL in the month of August, while quarter-to-date, shares have outperformed SOL by 1.8x.",
-    "image": "https://www.tbstat.com/wp/uploads/2024/05/20240502_Solana_News_1-1200x675.jpg",
-    "summary": "DeFi Development Corp (DFDV) has resumed purchasing Solana (SOL) tokens, acquiring nearly 20,000 SOL. The company's stock has significantly outperformed SOL in August and quarter-to-date, with a return more than twice that of SOL.",
-    "importance": 6,
-    "classified": true
-  },
-  {
     "title": "“We’re not doing 30 bets a year”: Vijay Pande on betting small after running $4 billion at a16z",
     "link": "https://techcrunch.com/2026/08/29/were-not-doing-30-bets-a-year-vijay-pande-on-betting-small-after-running-4-billion-at-a16z/",
     "pubDate": "Sat, 29 Aug 2026 17:36:47 +0000",
@@ -1712,6 +1700,18 @@
     "content": "Warsh's highly anticipated remarks at the Kansas City Fed's annual symposium Friday morning leaned hawkish, prompting traders to quickly raise bets on a September rate hike.",
     "image": "https://cdn.sanity.io/images/s3y3vcno/production/795c4da9d444b6e877bf0fe2553fc03d30ef461d-6981x4654.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
     "summary": "Fed Chair Kevin Warsh's hawkish remarks at the Kansas City Fed's annual symposium signaled concerns about inflation. These comments prompted traders to quickly increase their bets on a September rate hike.",
+    "importance": 1,
+    "classified": true
+  },
+  {
+    "title": "Musk’s faster path to more gas turbines comes with pollution problem",
+    "link": "https://techcrunch.com/2026/08/30/musks-faster-path-to-more-gas-turbines-comes-with-pollution-problem/",
+    "pubDate": "Sun, 30 Aug 2026 16:54:25 +0000",
+    "source": "TechCrunch AI",
+    "category": "ai",
+    "content": "Elon Musk says a secretive new SpaceX foundry will let him cast his own turbine blades and get gas power online 18 months faster than anyone else — but it's a bet on a fuel source that's already triggering lawsuits and health studies everywhere his (and others') turbines have gone in.",
+    "image": "",
+    "summary": "Elon Musk's SpaceX is establishing a new secretive foundry to cast its own turbine blades, aiming to accelerate gas power deployment by 18 months. This initiative, however, relies on a controversial fuel source already linked to significant pollution, lawsuits, and health concerns.",
     "importance": 1,
     "classified": true
   }
