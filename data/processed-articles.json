@@ -120,7 +120,19 @@
     "classified": true
   },
   {
-    "title": "Swift’s $1.5 quadrillion network faces a blockchain test",
+    "title": "A $1.1 million crypto card hack crashed a neobank's token 49%",
+    "link": "https://www.coindesk.com/web3/2026/08/29/a-usd1-1-million-crypto-card-hack-crashed-a-neobank-s-token-49",
+    "pubDate": "Sat, 29 Aug 2026 23:49:17 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "The exploit caused the neobank's AVICI token to drop 49% from a 24-hour high, hitting a record low before paring some of the losses.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/da5caf65adc295012880cf200ddf9e937f2db11c-1920x1282.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "A neobank's AVICI token dropped 49% after a $1.1 million crypto card hack. The exploit caused the token to reach a record low before recovering some losses.",
+    "importance": 8,
+    "classified": true
+  },
+  {
+    "title": "Inside the high-stakes battle between digital dollars and Swift's massive money engine",
     "link": "https://www.coindesk.com/business/2026/08/29/swift-s-usd1-5-quadrillion-network-faces-a-blockchain-test",
     "pubDate": "Sat, 29 Aug 2026 15:00:00 +0000",
     "source": "CoinDesk",
@@ -600,7 +612,7 @@
     "classified": true
   },
   {
-    "title": "Bitcoin wallets untouched for 10 years moved $40 million. Most avoided exchanges",
+    "title": "Bitcoin wallets untouched for 10 years moved $40 million worth of coins",
     "link": "https://www.coindesk.com/markets/2026/08/28/bitcoin-wallets-untouched-for-10-years-moved-usd40-million-most-avoided-exchanges",
     "pubDate": "Sat, 29 Aug 2026 04:30:00 +0000",
     "source": "CoinDesk",
@@ -728,18 +740,6 @@
     "content": "The indictor has flipped positive for the first time since May as BTC looks to establish a foothold above $80,000.",
     "image": "https://cdn.sanity.io/images/s3y3vcno/production/7f9a8bf8731625906738faac957eee0f6ad99369-2315x1277.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
     "summary": "Bitcoin is currently trading at a premium on Coinbase for the first time since May, indicating renewed market strength as it holds above $80,000. This shift suggests increasing institutional and retail interest in the cryptocurrency.",
-    "importance": 7,
-    "classified": true
-  },
-  {
-    "title": "Bitcoin under $80,000, solana leads majors higher before Warsh's Jackson Hole debut",
-    "link": "https://www.coindesk.com/markets/2026/08/28/bitcoin-holds-usd80-000-solana-leads-majors-higher-before-warsh-s-jackson-hole-debut",
-    "pubDate": "Fri, 28 Aug 2026 04:40:52 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "Every major but HYPE gained over 24 hours, capping a week that added 9% to bitcoin and 20% to solana.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/ab86a50845d3c0057248691a587f84732f2fc7b5-1498x840.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "Bitcoin's price dropped below $80,000 while Solana outperformed other major cryptocurrencies, rising over 24 hours. The week saw Bitcoin gain 9% and Solana surge 20% ahead of a key economic event featuring Federal Reserve Governor Christopher J. Waller.",
     "importance": 7,
     "classified": true
   },
