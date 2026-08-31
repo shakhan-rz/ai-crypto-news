@@ -108,7 +108,7 @@
     "classified": true
   },
   {
-    "title": "Michael Saylor hints at first bitcoin purchase in two months as bitcoin nears $79,000",
+    "title": "Michael Saylor hints at first bitcoin purchase in two months",
     "link": "https://www.coindesk.com/markets/2026/08/30/bitcoin-nears-usd79-000-as-michael-saylor-hints-at-first-bitcoin-purchase-in-two-months",
     "pubDate": "Sun, 30 Aug 2026 15:39:55 +0000",
     "source": "CoinDesk",
@@ -200,6 +200,18 @@
     "content": "Cryptocurrency platform Bullish is extending a $100 million debt facility to USD.AI to finance GPU-backed loans for artificial intelligence infrastructure.",
     "image": "https://cdn.sanity.io/images/s3y3vcno/production/f78b3c75bb85d1884d9426f1a0d1ed7fcdbc3c6b-2368x1332.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
     "summary": "Bullish, a cryptocurrency platform, is providing USD.AI with a $100 million debt facility to fund GPU-backed loans aimed at supporting artificial intelligence infrastructure development. This initiative bridges crypto and AI by leveraging blockchain for AI hardware financing.",
+    "importance": 8,
+    "classified": true
+  },
+  {
+    "title": "Bitcoin’s new quantum defenses, 18.9M SOL cancelled: Hodler’s Digest",
+    "link": "https://cointelegraph.com/magazine/bitcoins-new-quantum-defenses-189m-sol-cancelled-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Sun, 30 Aug 2026 23:36:16 +0000",
+    "source": "Cointelegraph",
+    "category": "crypto",
+    "content": "Bitcoin moves toward a post quantum future, Solana validators agree to curb rampant inflation and the bull case from Bernstein is for Bitcoin to peak at $500K this cycle.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/08/01M1ABTCJ2NCZ56B6Y07HVQZ2T/magazine-cover-collage.png",
+    "summary": "Bitcoin is advancing towards a post-quantum future, enhancing its long-term security. Meanwhile, Solana validators have agreed to significantly reduce inflation by cancelling 18.9 million SOL. This comes as Bernstein predicts Bitcoin could reach a peak of $500,000 this cycle.",
     "importance": 8,
     "classified": true
   },
@@ -1020,18 +1032,6 @@
     "classified": true
   },
   {
-    "title": "Ethena Foundation proposes fee switch for ENA token buybacks among other updates",
-    "link": "https://www.theblock.co/news/ecosystems/2026-08-27-ethena-foundation-proposes-fee-switch-ena-token-buybacks-other-updates-412951",
-    "pubDate": "Thu, 27 Aug 2026 17:35:33 +0000",
-    "source": "The Block",
-    "category": "crypto",
-    "content": "Ethena Foundation announced four updates, including buying locked ENA tokens and ending future monthly investor unlocks.",
-    "image": "https://www.tbstat.com/wp/uploads/2026/06/20260612_Ethena_News-1200x675.jpg",
-    "summary": "The Ethena Foundation proposed a fee switch mechanism for ENA token buybacks and announced updates such as purchasing locked ENA tokens and discontinuing future monthly investor unlocks.",
-    "importance": 7,
-    "classified": true
-  },
-  {
     "title": "Bitcoin Cools Off After $3 Billion ETF-Driven Surge ",
     "link": "https://bitcoinmagazine.com/news/bitcoin-cools-following-etf-investment",
     "pubDate": "Fri, 28 Aug 2026 22:06:02 +0000",
@@ -1220,18 +1220,6 @@
     "content": "Google is setting new memory-use limits for Android apps as AI data centers contribute to hardware shortages that could leave lower-cost phones with less memory.",
     "image": "",
     "summary": "Google is implementing stricter memory-use limits for Android apps due to AI data centers driving hardware shortages, potentially reducing available memory on lower-cost phones.",
-    "importance": 7,
-    "classified": true
-  },
-  {
-    "title": "OpenAI to start showing ads on ChatGPT’s free and Go tiers in India",
-    "link": "https://techcrunch.com/2026/08/27/openai-to-start-showing-ads-on-chatgpts-free-and-go-tiers-in-india/",
-    "pubDate": "Thu, 27 Aug 2026 11:35:59 +0000",
-    "source": "TechCrunch AI",
-    "category": "ai",
-    "content": "OpenAI has more than 100 million weekly active ChatGPT users in India, a huge chunk of whom are on the free or the lower-priced Go tiers.",
-    "image": "",
-    "summary": "OpenAI plans to introduce advertisements in ChatGPT's free and Go tiers in India, targeting its over 100 million weekly active users in the country. This move aims to monetize the large user base on lower-priced plans.",
     "importance": 7,
     "classified": true
   },
@@ -1428,18 +1416,6 @@
     "classified": true
   },
   {
-    "title": "Grayscale says Zcash can challenge Bitcoin’s network effects as privacy demand grows",
-    "link": "https://cointelegraph.com/markets/zcash-bitcoin-network-effects-grayscale-privacy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Thu, 27 Aug 2026 18:51:02 +0000",
-    "source": "Cointelegraph",
-    "category": "crypto",
-    "content": "ZEC has climbed roughly 19-fold in a year, yet Grayscale says its sub-1% share of Bitcoin’s market cap leaves room for further upside.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/bitcoin-vs-zcash.jpg",
-    "summary": "Grayscale highlights Zcash (ZEC) as a potential competitor to Bitcoin due to growing demand for privacy, noting its 19-fold price increase in a year and significant room for market cap growth compared to Bitcoin.",
-    "importance": 6,
-    "classified": true
-  },
-  {
     "title": "“We’re not doing 30 bets a year”: Vijay Pande on betting small after running $4 billion at a16z",
     "link": "https://techcrunch.com/2026/08/29/were-not-doing-30-bets-a-year-vijay-pande-on-betting-small-after-running-4-billion-at-a16z/",
     "pubDate": "Sat, 29 Aug 2026 17:36:47 +0000",
@@ -1584,6 +1560,18 @@
     "classified": true
   },
   {
+    "title": "The U.S. is building barriers around drones and robots, but China has scale to get around them",
+    "link": "https://techcrunch.com/2026/08/30/the-u-s-is-building-barriers-around-drones-and-robots-china-still-has-scale/",
+    "pubDate": "Mon, 31 Aug 2026 02:34:00 +0000",
+    "source": "TechCrunch AI",
+    "category": "ai",
+    "content": "The U.S. is shutting out more foreign-made drones and robots. China’s scale means the global competition may simply move elsewhere.",
+    "image": "",
+    "summary": "The U.S. is implementing stricter measures against foreign-made drones and robots, aiming to bolster domestic industries. However, China's massive production scale suggests that global competition in these sectors may simply relocate to other markets.",
+    "importance": 5,
+    "classified": true
+  },
+  {
     "title": "The Download: a secretive antiaging drug and joining virtual power plants",
     "link": "https://www.technologyreview.com/2026/08/28/1143113/the-download-antiaging-drug-joining-virtual-power-plants/",
     "pubDate": "Fri, 28 Aug 2026 12:35:27 +0000",
@@ -1700,6 +1688,18 @@
     "content": "Warsh's highly anticipated remarks at the Kansas City Fed's annual symposium Friday morning leaned hawkish, prompting traders to quickly raise bets on a September rate hike.",
     "image": "https://cdn.sanity.io/images/s3y3vcno/production/795c4da9d444b6e877bf0fe2553fc03d30ef461d-6981x4654.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
     "summary": "Fed Chair Kevin Warsh's hawkish remarks at the Kansas City Fed's annual symposium signaled concerns about inflation. These comments prompted traders to quickly increase their bets on a September rate hike.",
+    "importance": 1,
+    "classified": true
+  },
+  {
+    "title": "Kalshi becomes exclusive prediction market partner of US Open: report",
+    "link": "https://www.theblock.co/news/deals/2026-08-30-kalshi-becomes-exclusive-prediction-market-partner-of-us-open-report-413074",
+    "pubDate": "Sun, 30 Aug 2026 20:28:52 +0000",
+    "source": "The Block",
+    "category": "crypto",
+    "content": "As part of the agreement, rival prediction market platforms are reportedly barred from advertising at the tournament and on its ESPN broadcasts.",
+    "image": "https://www.tbstat.com/wp/uploads/2025/09/20250917_Kalshi_News-1200x675.jpg",
+    "summary": "Kalshi, a regulated prediction market platform, has reportedly secured an exclusive partnership with the US Open. This agreement grants Kalshi exclusive advertising rights, prohibiting rival prediction market platforms from promoting their services at the tournament and on its ESPN broadcasts.",
     "importance": 1,
     "classified": true
   },
