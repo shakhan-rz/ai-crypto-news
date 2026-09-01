@@ -1,5 +1,17 @@
 [
   {
+    "title": "Citi, Goldman, other global banks and asset managers team up on stablecoin venture",
+    "link": "https://www.coindesk.com/business/2026/09/01/citi-goldman-other-global-banks-and-asset-managers-team-up-on-stablecoin-venture",
+    "pubDate": "Tue, 01 Sep 2026 15:36:27 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "The group will focus first on a U.S. dollar stablecoin for payments and digital asset settlement, with a euro token a priority for expansion.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/b88cc3bb0be5078f6fee0948dd9408a814ffa0c2-1920x1280.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "Global banks like Citi and Goldman Sachs, alongside asset managers, have partnered to launch a stablecoin venture. Their initial efforts will concentrate on a U.S. dollar stablecoin aimed at facilitating payments and digital asset settlement, with plans to expand to a euro token.",
+    "importance": 9,
+    "classified": true
+  },
+  {
     "title": "Hut 8's Texas power site sits inside Anthropic’s $35 billion AI deal",
     "link": "https://www.coindesk.com/tech/2026/09/01/hut-8-s-texas-power-site-sits-inside-anthropic-s-usd35-billion-ai-deal",
     "pubDate": "Tue, 01 Sep 2026 12:11:44 +0000",
@@ -44,6 +56,18 @@
     "content": "The deal adds transfer-agent and settlement infrastructure to ICE's plans for an NYSE-affiliated market for tokenized stocks, tZERO said.",
     "image": "https://cdn.sanity.io/images/s3y3vcno/production/903e318acd6dff33bc9b0083d0f98e3ea9edf92b-1420x916.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
     "summary": "NYSE owner ICE has partnered with tZERO to develop an NYSE-affiliated market for tokenized stocks, with ICE also taking a stake in tZERO. This collaboration will utilize tZERO's transfer-agent and settlement infrastructure to facilitate blockchain-based securities trading.",
+    "importance": 9,
+    "classified": true
+  },
+  {
+    "title": "SEC proposes broad update to decades-old transfer agent rules with blockchain nod",
+    "link": "https://cointelegraph.com/news/sec-proposes-transfer-agent-overhaul-as-securities-move-onchain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Tue, 01 Sep 2026 17:52:51 +0000",
+    "source": "Cointelegraph",
+    "category": "crypto",
+    "content": "The proposal would modernize rules largely unchanged since the 1980s, addressing blockchain-based recordkeeping, tokenized securities and increasingly automated market infrastructure.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1EXXYQ2VJS2X4FWYBFN0RBX/sec-v-ripple.png",
+    "summary": "The SEC has proposed a major update to its transfer agent rules, which have largely remained unchanged since the 1980s. This modernization aims to address blockchain-based recordkeeping, tokenized securities, and increasingly automated market infrastructure, bringing traditional financial regulation up to date with emerging technologies.",
     "importance": 9,
     "classified": true
   },
@@ -93,6 +117,30 @@
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2024/09/hugging_face_3-1152x648.jpg",
     "summary": "Nvidia is reportedly acquiring Hugging Face, a major AI model repository, for $13 billion to bolster its open-source AI infrastructure. The deal highlights Nvidia's strategic push to dominate the AI ecosystem amid rising demand for accessible AI tools.",
     "importance": 9,
+    "classified": true
+  },
+  {
+    "title": "Robinhood's new crypto network is printing cash, and it's sending Arbitrum's token soaring",
+    "link": "https://www.coindesk.com/markets/2026/09/01/robinhood-s-new-crypto-network-is-printing-cash-and-it-s-sending-arbitrum-s-token-soaring",
+    "pubDate": "Tue, 01 Sep 2026 15:28:29 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "Revenue on Robinhood Chain hit a 24-hour record of $1.9 million, driving a 30% rally in ARB as traders chased downstream gains.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/638d03a6a077f489fda3be37b30b45b37f2273a3-1920x1050.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "Robinhood Chain recently achieved a 24-hour revenue record of $1.9 million. This significant financial success drove a 30% rally in Arbitrum's ARB token as traders sought gains.",
+    "importance": 8,
+    "classified": true
+  },
+  {
+    "title": "Firelight raises $8 million, expands beyond XRP as it aims to make DeFi less scary for fintechs",
+    "link": "https://www.coindesk.com/business/2026/08/31/firelight-raises-usd8-million-expands-beyond-xrp-as-it-aims-to-make-defi-less-scary-for-fintechs",
+    "pubDate": "Tue, 01 Sep 2026 13:56:44 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "The protocol aims to give fintechs and investors a faster way to recover losses from DeFi hacks, while letting XRP, bitcoin and XLM holders earn yield by backing that protection.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/88b0247a20e283b64794175f63ff7a428b202fc4-1674x974.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "Firelight has raised $8 million to expand its protocol, aiming to make decentralized finance (DeFi) less intimidating for fintechs. The platform offers fintechs and investors a quicker method to recover losses from DeFi hacks, while enabling XRP, Bitcoin, and XLM holders to earn yield by supporting this protection mechanism.",
+    "importance": 8,
     "classified": true
   },
   {
@@ -156,14 +204,26 @@
     "classified": true
   },
   {
-    "title": "U.S. jobs report, Russia’s digital ruble rollout: Crypto Week Ahead",
-    "link": "https://www.coindesk.com/markets/2026/08/31/u-s-jobs-report-russia-s-digital-ruble-rollout-crypto-week-ahead",
-    "pubDate": "Mon, 31 Aug 2026 08:22:28 +0000",
-    "source": "CoinDesk",
+    "title": "BofA, Citi, Goldman Sachs among 21 institutions planning stablecoin launch",
+    "link": "https://cointelegraph.com/news/21-financial-institutions-g7-stablecoin-venture?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Tue, 01 Sep 2026 16:39:12 +0000",
+    "source": "Cointelegraph",
     "category": "crypto",
-    "content": "Your look at what's coming in the week starting Aug. 31.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/177fe0d442a9bb8ec8bb8ee503d2332e2d65478d-1710x958.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "This article previews the \"Crypto Week Ahead\" starting August 31, drawing attention to upcoming events including the U.S. jobs report and the rollout of Russia's digital ruble. It serves as a brief overview of significant developments for the cryptocurrency community.",
+    "content": "The planned venture will initially focus on a US dollar stablecoin before expanding to other G7 currencies, with a euro-denominated offering next.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1ERC5JF5XKZ3F15CXNCAGXJ/hi-what-is-a-decentralized-money-market-and-how-does-it-work-stablecoin-1.jpg",
+    "summary": "Major financial institutions including BofA, Citi, and Goldman Sachs are collaborating on a stablecoin initiative, starting with a US dollar-backed stablecoin and later expanding to euro-denominated options. The project involves 21 institutions and aims to leverage blockchain technology for cross-border transactions.",
+    "importance": 8,
+    "classified": true
+  },
+  {
+    "title": "Fake Claude desktop app spreads crypto-stealing malware",
+    "link": "https://cointelegraph.com/news/fake-claude-desktop-app-spreads-crypto-stealing-malware?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Tue, 01 Sep 2026 14:00:00 +0000",
+    "source": "Cointelegraph",
+    "category": "both",
+    "content": "RevStealer targets more than 50 crypto wallets alongside browser passwords, cookies, messaging data and selected documents.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1EK7VS1ZRRC1VAJANKBB54F/bug-error-hack-red-mistake-malwire-1.jpg",
+    "summary": "A fake desktop application mimicking the legitimate Claude AI tool has been discovered spreading malware called RevStealer. The malware targets over 50 cryptocurrency wallets, along with browser data, messaging apps, and documents to steal sensitive information.",
     "importance": 8,
     "classified": true
   },
@@ -228,54 +288,6 @@
     "classified": true
   },
   {
-    "title": "Cronos halts network after Tectonic exploit involving estimated $75M",
-    "link": "https://cointelegraph.com/news/cronos-network-halt-tectonic-exploit-75-million?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Mon, 31 Aug 2026 03:25:48 +0000",
-    "source": "Cointelegraph",
-    "category": "crypto",
-    "content": "Crypto.com CEO Kris Marszalek said the company’s app and exchange were unaffected by the Tectonic breach and continued operating normally.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/08/01M1AX3ZN7EESDX1ZF7WKP963R/hi-transactions-stopped-1.jpg",
-    "summary": "Cronos network was temporarily halted following a Tectonic protocol exploit that resulted in an estimated $75 million loss. Crypto.com confirmed that its app and exchange remained operational despite the incident.",
-    "importance": 8,
-    "classified": true
-  },
-  {
-    "title": "Bitcoin’s new quantum defenses, 18.9M SOL cancelled: Hodler’s Digest",
-    "link": "https://cointelegraph.com/magazine/bitcoins-new-quantum-defenses-189m-sol-cancelled-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Sun, 30 Aug 2026 23:36:16 +0000",
-    "source": "Cointelegraph",
-    "category": "crypto",
-    "content": "Bitcoin moves toward a post quantum future, Solana validators agree to curb rampant inflation and the bull case from Bernstein is for Bitcoin to peak at $500K this cycle.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/08/01M1ABTCJ2NCZ56B6Y07HVQZ2T/magazine-cover-collage.png",
-    "summary": "Bitcoin is advancing towards a post-quantum future, enhancing its long-term security. Meanwhile, Solana validators have agreed to significantly reduce inflation by cancelling 18.9 million SOL. This comes as Bernstein predicts Bitcoin could reach a peak of $500,000 this cycle.",
-    "importance": 8,
-    "classified": true
-  },
-  {
-    "title": "Russia’s Sber eyes USDT loans, questions digital ruble demand",
-    "link": "https://cointelegraph.com/news/russia-sber-bank-bitcoin-ether-usdt-crypto-loans?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Sun, 30 Aug 2026 09:55:00 +0000",
-    "source": "Cointelegraph",
-    "category": "crypto",
-    "content": "Russia’s largest bank, Sber, plans to accept USDT and Ether alongside Bitcoin as loan collateral as the country introduces regulated crypto trading under a new law.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/08/01M190WE0Y455BRFFWWXC00QY4/1-44.png",
-    "summary": "Russia's largest bank, Sber, plans to accept USDT, Ether, and Bitcoin as collateral for loans under new national regulations for crypto trading. This move signifies a significant step towards institutional integration of digital assets within Russia's financial system.",
-    "importance": 8,
-    "classified": true
-  },
-  {
-    "title": "Polygon discloses security flaws fixed in recent hard forks",
-    "link": "https://cointelegraph.com/news/polygon-discloses-security-flaws-fixed-in-recent-hard-forks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Sat, 29 Aug 2026 20:28:51 +0000",
-    "source": "Cointelegraph",
-    "category": "crypto",
-    "content": "The vulnerabilities posed denial-of-service and validator resource risks but were patched before Polygon publicly disclosed them.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/08/01M17JHBKVPG032T0G1E4PGVX3/hi-quadrigacx-ceo-died-what-next.png",
-    "summary": "Polygon recently disclosed that it fixed critical security flaws, including denial-of-service and validator resource risks. These vulnerabilities were addressed through recent hard forks before the issues were made public, mitigating potential threats to the network.",
-    "importance": 8,
-    "classified": true
-  },
-  {
     "title": "Kraken parent Payward to tokenize 100 London-listed stocks, with LSE 24 trading planned",
     "link": "https://www.theblock.co/news/business/2026-09-01-kraken-parent-payward-to-tokenize-100-london-listed-stocks-with-lse-24-trading-planned-413208",
     "pubDate": "Tue, 01 Sep 2026 09:39:20 +0000",
@@ -300,14 +312,14 @@
     "classified": true
   },
   {
-    "title": "‘We’re back’: Strategy buys another 4,603 bitcoin for $369.7 million as holdings hit 845,050 BTC",
-    "link": "https://www.theblock.co/news/business/2026-08-31-were-back-strategy-buys-another-4603-btc-369-7-million-holdings-hit-845050-btc-413087",
-    "pubDate": "Mon, 31 Aug 2026 13:11:07 +0000",
-    "source": "The Block",
-    "category": "crypto",
-    "content": "Strategy bought 4,603 BTC for $369.7 million, raising total holdings to 845,050 BTC worth over $66 billion.",
-    "image": "https://www.tbstat.com/wp/uploads/2026/03/20260320_Strategy_Learn-1200x675.jpg",
-    "summary": "Strategy has acquired an additional 4,603 Bitcoin for $369.7 million, increasing its total holdings to 845,050 BTC valued at over $66 billion. This move signals continued institutional confidence in Bitcoin as a long-term asset.",
+    "title": "BlackRock’s iShares Bitcoin Trust Is Beating Top S&P 500 ETF ",
+    "link": "https://bitcoinmagazine.com/news/blackrock-bitcoin-etf-is-beating-vanguard",
+    "pubDate": "Tue, 01 Sep 2026 16:35:17 +0000",
+    "source": "Bitcoin Magazine",
+    "category": "both",
+    "content": "Bitcoin Magazine\n\nBlackRock’s iShares Bitcoin Trust Is Beating Top S&P 500 ETF \nThe asset manager's flagship bitcoin fund is delivering better returns than Vanguard's S&P 500 ETF. \nThis post BlackRock’s iShares Bitcoin Trust Is Beating Top S&P 500 ETF  first appeared on Bitcoin Magazine and is written by Mathew Di Salvo.",
+    "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/07/BlackRock-Says-Crypto-Can-Outrun-the-Quantum-Threat.jpg",
+    "summary": "BlackRock’s iShares Bitcoin Trust has outperformed Vanguard’s S&P 500 ETF, marking a significant milestone for the Bitcoin fund. The asset manager’s flagship Bitcoin product is now delivering better returns than one of the most popular traditional equity ETFs.",
     "importance": 8,
     "classified": true
   },
@@ -332,18 +344,6 @@
     "content": "Bitcoin Magazine\n\nStrive Becomes Fifth-Largest Bitcoin Treasury, Stock Jumps on Latest Buy\nThe company last week spent $143 million on bitcoin last week, bringing its holdings to 23,156. \nThis post Strive Becomes Fifth-Largest Bitcoin Treasury, Stock Jumps on Latest Buy first appeared on Bitcoin Magazine and is written by Mathew Di Salvo.",
     "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/07/Strive-ASST-Adds-17.76-Bitcoin-as-Falling-Prices-Boost-Its-Quarterly-Yield.jpg",
     "summary": "Strive, a company, has become the fifth-largest holder of Bitcoin after purchasing an additional $143 million worth of BTC, bringing its total holdings to 23,156 coins. The company's stock surged following the announcement.",
-    "importance": 8,
-    "classified": true
-  },
-  {
-    "title": "Debasement Trade Is Here Thanks to Government Debt — And Bitcoin Will Benefit: Grayscale",
-    "link": "https://bitcoinmagazine.com/news/debasement-trade-to-benefit-bitcoin",
-    "pubDate": "Fri, 28 Aug 2026 20:45:06 +0000",
-    "source": "Bitcoin Magazine",
-    "category": "both",
-    "content": "Bitcoin Magazine\n\nDebasement Trade Is Here Thanks to Government Debt — And Bitcoin Will Benefit: Grayscale\nThe so-called debasement trade is benefiting bitcoin, the asset manager's research team has said. \nThis post Debasement Trade Is Here Thanks to Government Debt — And Bitcoin Will Benefit: Grayscale first appeared on Bitcoin Magazine and is written by Mathew Di Salvo.",
-    "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/08/Debasement-Trade-Is-Here-Thanks-to-Government-Debt.jpg",
-    "summary": "Grayscale's research team claims the 'debasement trade'—driven by government debt—is benefiting Bitcoin, suggesting it will gain value as traditional currencies lose purchasing power. The article frames Bitcoin as a hedge against fiscal policies that erode currency value.",
     "importance": 8,
     "classified": true
   },
@@ -408,42 +408,6 @@
     "classified": true
   },
   {
-    "title": "Neocloud Lambda secures $1B in debt to buy more chips",
-    "link": "https://techcrunch.com/2026/08/28/neocloud-lambda-secures-1b-in-debt-to-buy-more-chips/",
-    "pubDate": "Fri, 28 Aug 2026 20:24:11 +0000",
-    "source": "TechCrunch AI",
-    "category": "ai",
-    "content": "Neocloud Lambda has raised $1B in private debt to buy Nvidia AI chips and lease them to Microsoft. It's the latest in a string of loans, underscoring the high cost of the AI boom.",
-    "image": "",
-    "summary": "Neocloud Lambda secured $1 billion in private debt to purchase Nvidia AI chips, which will then be leased to Microsoft. This move highlights the escalating costs and demand driven by the AI industry's rapid expansion.",
-    "importance": 8,
-    "classified": true
-  },
-  {
-    "title": "An Anthropic researcher just gave us a peek at self-improving AI",
-    "link": "https://techcrunch.com/2026/08/28/an-anthropic-researcher-just-gave-us-a-peek-at-self-improving-ai/",
-    "pubDate": "Fri, 28 Aug 2026 19:30:38 +0000",
-    "source": "TechCrunch AI",
-    "category": "ai",
-    "content": "Given 10 benchmarks for specific misaligned behaviors, the automated systems were able to improve performance on every single one without degrading overall performance.",
-    "image": "",
-    "summary": "An Anthropic researcher demonstrated that automated AI systems can improve their performance on misaligned behavior benchmarks without degrading overall capabilities, suggesting progress in self-improving AI. The study tested 10 specific benchmarks and achieved enhancements across all while maintaining stability.",
-    "importance": 8,
-    "classified": true
-  },
-  {
-    "title": "Open-weight AI companies are the Valley’s hottest acquisition targets",
-    "link": "https://techcrunch.com/2026/08/28/open-weight-ai-companies-are-the-valleys-hottest-acquisition-targets/",
-    "pubDate": "Fri, 28 Aug 2026 18:19:40 +0000",
-    "source": "TechCrunch AI",
-    "category": "ai",
-    "content": "There's a lot of capital pouring into the business of giving models away.",
-    "image": "",
-    "summary": "The article highlights a trend where companies developing open-weight AI models are becoming highly sought-after acquisition targets in Silicon Valley due to the significant capital flowing into this space. These models, which are made publicly accessible, are attracting major investment and attention.",
-    "importance": 8,
-    "classified": true
-  },
-  {
     "title": "New York Governor Kathy Hochul thinks AI should be ‘less evil’",
     "link": "https://www.theverge.com/podcast/986661/ny-gov-kathy-hochul-ai-data-centers-ban-3d-printed-guns-flock-cameras",
     "pubDate": "2026-08-31T14:00:00.000Z",
@@ -476,18 +440,6 @@
     "content": "As audio-focused generative tools and platforms have gotten more sophisticated, the internet has become increasingly filled with AI-generated music whose melodies and vocals are algorithmically derived from the work of human artists. While some of the people pumping out this kind of content immediately own up to using AI, others have denied using the technology until increasing public scrutiny forced them to tell the truth. \nFor musicians - especially those creating art in technologically-focused spaces like electronic dance music - the increasingly complicated question of what is \"real\" and what isn't feels particularly urgent and personal …\nRead the full story at The Verge.",
     "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/268714_finding_and_shaming_AI_grifters_CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,85.33125,89.314310632479",
     "summary": "Musicians are increasingly acting as \"detectives\" to identify \"AI grifters\" who use sophisticated generative AI tools to create music derived from human artists' work, often without disclosure. This rise in algorithmically derived music is causing an urgent and personal crisis for artists, particularly in electronic dance music, regarding the authenticity of content.",
-    "importance": 8,
-    "classified": true
-  },
-  {
-    "title": "Anthropic was illegally blacklisted by the Trump administration, court rules",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/985947/anthropic-supply-chain-risk-lawsuit-judge-ruling",
-    "pubDate": "2026-08-28T03:14:06.000Z",
-    "source": "The Verge AI",
-    "category": "ai",
-    "content": "On Thursday, a judge ruled that the Pentagon's blacklisting of Anthropic earlier this year was unconstitutional, delivering the AI lab a win in a monthslong rollercoaster of a battle with the Trump administration. \nThe lawsuit, filed in March in a California district court, accused the Trump administration of unlawfully retaliating against Anthropic for setting \"red lines,\" or unacceptable military use cases of its AI technology. \n\"The empty invocation of national security is not a blank check to punish and retaliate against government critics,\" Judge Rita F. Lin, a district judge in the northern district of California, wrote in the ruling …\nRead the full story at The Verge.",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/DCD_0617_Fable5.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "summary": "A California judge ruled that the Pentagon's blacklisting of AI lab Anthropic was unconstitutional, finding the Trump administration unlawfully retaliated against the company for setting ethical limits on military AI use. The ruling marks a significant legal victory for Anthropic in its ongoing dispute with the government.",
     "importance": 8,
     "classified": true
   },
@@ -600,7 +552,7 @@
     "classified": true
   },
   {
-    "title": "Live updates: Bitcoin trades around $78,000 as crude surges, global bond sell-off deepens",
+    "title": "Live updates: Bitcoin slumps as oil surges to three-month high on new Iran strikes",
     "link": "https://www.coindesk.com/business/2026/09/01/live-updates-bitcoin-etfs-resume-buying-as-ether-funds-stretch-streak-to-11-days",
     "pubDate": "Tue, 01 Sep 2026 08:35:57 +0000",
     "source": "CoinDesk",
@@ -648,26 +600,14 @@
     "classified": true
   },
   {
-    "title": "Sberbank plans to add ether and USDT as collateral for crypto-backed loans: Report",
-    "link": "https://www.coindesk.com/business/2026/08/31/sberbank-plans-to-add-ether-and-usdt-as-collateral-for-crypto-backed-loans",
-    "pubDate": "Mon, 31 Aug 2026 11:26:26 +0000",
-    "source": "CoinDesk",
+    "title": "Ethena launches USDe payments app, offers 6% rewards",
+    "link": "https://cointelegraph.com/news/ethena-launches-usde-powered-money-app-across-48-countries?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Tue, 01 Sep 2026 16:06:58 +0000",
+    "source": "Cointelegraph",
     "category": "crypto",
-    "content": "The Bank of Russia recently included ETH and USDT in a draft list of cryptocurrencies approved for public trading on Russian exchanges.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/69d88d811de6cddb538ec7d407061b9d441d2dd2-2048x1536.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "Sberbank plans to incorporate Ether and USDT as collateral for its crypto-backed loans. This development follows the Bank of Russia's recent inclusion of ETH and USDT in a draft list of cryptocurrencies approved for public trading on Russian exchanges.",
-    "importance": 7,
-    "classified": true
-  },
-  {
-    "title": "U.S. strikes on Iran fail to stir bitcoin, on track for best month since November 2024",
-    "link": "https://www.coindesk.com/markets/2026/08/31/u-s-strikes-on-iran-fail-to-stir-bitcoin-on-track-for-best-month-since-november-2024",
-    "pubDate": "Mon, 31 Aug 2026 10:44:52 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "Bitcoin held steady despite a broader risk-off move after the first U.S. strikes against Iran for weeks sent oil higher and stocks lower. The cryptocurrency has gained 24% this month.",
-    "image": "",
-    "summary": "Bitcoin demonstrated resilience by holding steady and recording a 24% gain this month, despite U.S. strikes on Iran causing a broader risk-off market shift where oil prices rose and stocks fell. This strong performance puts it on track for its best monthly showing since November, highlighting its stability amidst geopolitical tensions.",
+    "content": "The self-custodial app brings USDe into everyday payments, savings and cross-border transfers, with annualized rewards of up to 6%.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1ESRB24SSYCV2PQDNVNCJ2Z/blockchain-coin-crypto-payment-logistics.png",
+    "summary": "Ethena has launched a self-custodial app enabling USDe (a dollar-pegged stablecoin) for everyday payments, savings, and cross-border transfers, offering annualized rewards of up to 6%. The app aims to integrate stablecoin utility into daily financial activities.",
     "importance": 7,
     "classified": true
   },
@@ -864,14 +804,26 @@
     "classified": true
   },
   {
-    "title": "Saylor signals Strategy is ‘Back’ to Bitcoin buying",
-    "link": "https://cointelegraph.com/news/saylor-signals-strategy-is-back-to-bitcoin-buying?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Sun, 30 Aug 2026 17:59:00 +0000",
-    "source": "Cointelegraph",
-    "category": "crypto",
-    "content": "Michael Saylor’s “We’re Back” post hints Strategy may resume Bitcoin buying after a two-month pause to strengthen its balance sheet.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/08/01M19WS2MWX8WK42HTJNANTQJ5/hi-michael-saylor.png",
-    "summary": "Michael Saylor's recent \"We're Back\" post indicates that his company, Strategy, may be resuming its Bitcoin acquisition strategy. This move follows a two-month period where the company paused Bitcoin purchases to strengthen its balance sheet.",
+    "title": "SEC seeks to update its 1970s-era transfer agent rules for the blockchain age",
+    "link": "https://www.theblock.co/news/regulation/2026-09-01-sec-seeks-update-1970s-era-transfer-agent-rules-for-blockchain-age-413278",
+    "pubDate": "Tue, 01 Sep 2026 17:16:01 +0000",
+    "source": "The Block",
+    "category": "both",
+    "content": "The SEC is seeking to update its rules for transfer agents to keep pace with new technology, including blockchain and tokenization.",
+    "image": "https://www.tbstat.com/wp/uploads/2025/04/20250414_SEC_News-1200x675.jpg",
+    "summary": "The SEC is proposing updates to its 1970s-era transfer agent rules to adapt to modern technologies like blockchain and tokenization, aiming to modernize oversight in financial markets.",
+    "importance": 7,
+    "classified": true
+  },
+  {
+    "title": "Bitcoin and gold move in lockstep as debasement trade gains more steam",
+    "link": "https://www.theblock.co/news/markets/2026-09-01-bitcoin-gold-move-lockstep-debasement-trade-gains-steam-413137",
+    "pubDate": "Tue, 01 Sep 2026 14:26:02 +0000",
+    "source": "The Block",
+    "category": "both",
+    "content": "Bitcoin's 90-day Pearson correlation coefficient with gold hits all-time high while the Fear and Greed Index sits at 68.",
+    "image": "https://www.tbstat.com/wp/uploads/2026/07/BTC-vs-Gold-1074x675.jpg",
+    "summary": "Bitcoin's 90-day correlation with gold has reached an all-time high, signaling a growing trend where both assets are being treated similarly in the market. The Fear and Greed Index currently stands at 68, indicating a moderately greedy sentiment among investors.",
     "importance": 7,
     "classified": true
   },
@@ -996,14 +948,14 @@
     "classified": true
   },
   {
-    "title": "Russia’s largest bank forecasts $46 billion in first-year crypto exchange trading under new rules: report",
-    "link": "https://www.theblock.co/news/business/2026-08-31-russias-largest-bank-forecasts-46-billion-in-first-year-crypto-exchange-trading-under-new-rules-report-413082",
-    "pubDate": "Mon, 31 Aug 2026 08:15:48 +0000",
-    "source": "The Block",
+    "title": "South Korea’s Bitcoin ‘Kimchi Premium’ Returns",
+    "link": "https://bitcoinmagazine.com/news/korea-bitcoin-premium-kimchi-returns",
+    "pubDate": "Tue, 01 Sep 2026 15:23:33 +0000",
+    "source": "Bitcoin Magazine",
     "category": "crypto",
-    "content": "Sberbank's forecast comes as the country's new crypto regulations are set to take effect on Sept. 1, 2026.",
-    "image": "https://www.tbstat.com/wp/uploads/2018/10/russian-flag-1200x675.jpg",
-    "summary": "Russia’s largest bank, Sberbank, predicts $46 billion in crypto exchange trading in the first year after new regulations take effect on September 1, 2026. The forecast highlights the anticipated impact of upcoming crypto rules in Russia.",
+    "content": "Bitcoin Magazine\n\nSouth Korea’s Bitcoin ‘Kimchi Premium’ Returns\nThe closely watched bitcoin retail market in the Asian nation is making moves again. \nThis post South Korea’s Bitcoin ‘Kimchi Premium’ Returns first appeared on Bitcoin Magazine and is written by Mathew Di Salvo.",
+    "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/09/Bitcoin-Kimchi-Premium-Is-Back-as-Price-Spikes-Higher-in-South-Korea.jpg",
+    "summary": "South Korea's Bitcoin 'Kimchi Premium' has resurfaced, indicating a renewed price gap between Bitcoin traded in South Korea and global markets. This premium reflects local demand and supply dynamics, often tied to regulatory and market access factors.",
     "importance": 7,
     "classified": true
   },
@@ -1056,18 +1008,6 @@
     "classified": true
   },
   {
-    "title": "Bitcoin’s Moment Has Come for the Far East, Says Metaplanet CEO",
-    "link": "https://bitcoinmagazine.com/news/bitcoin-moment-here-for-asia",
-    "pubDate": "Fri, 28 Aug 2026 20:39:49 +0000",
-    "source": "Bitcoin Magazine",
-    "category": "crypto",
-    "content": "Bitcoin Magazine\n\nBitcoin’s Moment Has Come for the Far East, Says Metaplanet CEO\nJust as the regulatory landscape changes, Asians are looking for places to park their cash. The opportunity is Bitcoin, Metaplanet CEO Simon Gerovich argued at Bitcoin Asia. \nThis post Bitcoin’s Moment Has Come for the Far East, Says Metaplanet CEO first appeared on Bitcoin Magazine and is written by Mathew Di Salvo.",
-    "image": "https://www.youtube.com/embed/yRzt65QxW0E",
-    "summary": "Metaplanet CEO Simon Gerovich highlighted Bitcoin as a key investment opportunity in the Far East amid shifting regulatory landscapes and a search for cash parking options. He made these remarks during the Bitcoin Asia event.",
-    "importance": 7,
-    "classified": true
-  },
-  {
     "title": "The Download: engineered microbes for crops, and OpenAI’s culture problem",
     "link": "https://www.technologyreview.com/2026/09/01/1143199/the-download-engineered-microbes-openai-safety-culture/",
     "pubDate": "Tue, 01 Sep 2026 12:10:00 +0000",
@@ -1104,14 +1044,50 @@
     "classified": true
   },
   {
-    "title": "The Download: the Kids issue arrives, and Bill Gates reveals his AI fears",
-    "link": "https://www.technologyreview.com/2026/08/26/1143000/the-download-kids-issue-launch-bill-gates-ai-fears/",
-    "pubDate": "Wed, 26 Aug 2026 12:10:00 +0000",
-    "source": "MIT Technology Review",
+    "title": "Google’s answer to Canva is an AI tool where you prompt instead of design",
+    "link": "https://techcrunch.com/2026/09/01/googles-answer-to-canva-is-an-ai-tool-where-you-prompt-instead-of-design/",
+    "pubDate": "Tue, 01 Sep 2026 17:35:37 +0000",
+    "source": "TechCrunch AI",
     "category": "ai",
-    "content": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Introducing: the Kids issue If the desire to limit kids’ use of technology was once a subcurrent, it has become a raging flood. Countries around the world are banning children from…",
-    "image": "https://wp.technologyreview.com/wp-content/uploads/2026/04/mirror-dna.webp?w=840",
-    "summary": "The article discusses a growing global trend of countries banning children's access to technology, with Bill Gates expressing concerns about AI. It highlights the increasing urgency to regulate kids' tech use amid advancing artificial intelligence.",
+    "content": "With Google Pics, Google is pushing deeper into the creative software market dominated by Canva and Adobe, but with a distinctly AI-first approach.",
+    "image": "",
+    "summary": "Google has launched an AI-powered design tool within Google Photos that allows users to create graphics by entering text prompts instead of manually designing. This move positions Google against competitors like Canva and Adobe in the creative software space.",
+    "importance": 7,
+    "classified": true
+  },
+  {
+    "title": "ChatGPT Health adds Epic integration for clinicians to import patient data",
+    "link": "https://techcrunch.com/2026/09/01/chatgpt-health-adds-epic-integration-for-clinicians-to-import-patient-data/",
+    "pubDate": "Tue, 01 Sep 2026 17:00:00 +0000",
+    "source": "TechCrunch AI",
+    "category": "ai",
+    "content": "OpenAI said that the integration provides read-only access to health records for clinicians.",
+    "image": "",
+    "summary": "OpenAI has integrated ChatGPT Health with Epic Systems, allowing clinicians to import patient data for read-only access. This aims to enhance healthcare workflows by leveraging AI for better data utilization.",
+    "importance": 7,
+    "classified": true
+  },
+  {
+    "title": "Sequoia-incubated Empirik launches with $21M to predict outages before they happen",
+    "link": "https://techcrunch.com/2026/09/01/sequoia-incubated-empirik-launches-with-21m-to-predict-outages-before-they-happen/",
+    "pubDate": "Tue, 01 Sep 2026 16:31:04 +0000",
+    "source": "TechCrunch AI",
+    "category": "ai",
+    "content": "The startup wants to do for IT infrastructure what Cursor did for software engineering.",
+    "image": "",
+    "summary": "Empirik, a startup incubated by Sequoia, has launched with $21 million in funding to develop AI-driven tools that predict IT infrastructure outages before they occur, aiming to revolutionize operational reliability similar to how Cursor transformed software engineering.",
+    "importance": 7,
+    "classified": true
+  },
+  {
+    "title": "AIR raises $50M to help companies vet the skills and add-ons AI agents use",
+    "link": "https://techcrunch.com/2026/09/01/air-raises-50m-to-help-companies-vet-the-skills-and-add-ons-ai-agents-use/",
+    "pubDate": "Tue, 01 Sep 2026 15:45:51 +0000",
+    "source": "TechCrunch AI",
+    "category": "ai",
+    "content": "AIR's platform can discover agents running at a company, continuously vets any skills and add-ons they use, and blocks any unwanted behavior.",
+    "image": "",
+    "summary": "AIR, a company focused on AI agent management, has raised $50 million to help businesses monitor and validate the skills and extensions used by AI agents within their systems, ensuring security and preventing unwanted behavior.",
     "importance": 7,
     "classified": true
   },
@@ -1176,26 +1152,14 @@
     "classified": true
   },
   {
-    "title": "Anthropic gets its first court win over the Pentagon’s supply-chain risk label",
-    "link": "https://techcrunch.com/2026/08/28/anthropic-gets-its-first-court-win-over-the-pentagons-supply-chain-risk-label/",
-    "pubDate": "Fri, 28 Aug 2026 12:46:12 +0000",
-    "source": "TechCrunch AI",
+    "title": "Google Pics is like Canva, but with even more AI",
+    "link": "https://www.theverge.com/tech/987423/google-pics-ai-image-editor-generator",
+    "pubDate": "2026-09-01T16:00:00.000Z",
+    "source": "The Verge AI",
     "category": "ai",
-    "content": "A federal judge ruled the Trump administration illegally labeled Anthropic a supply-chain risk, handing the AI company a victory as its second Pentagon lawsuit continues in Washington.",
-    "image": "",
-    "summary": "A federal judge ruled that the Trump administration illegally labeled AI company Anthropic as a supply chain risk, marking a legal victory for the firm amid ongoing Pentagon-related litigation. The decision comes as Anthropic faces a second lawsuit in Washington regarding its Pentagon contracts.",
-    "importance": 7,
-    "classified": true
-  },
-  {
-    "title": "Meta executive leaves for OpenAI as the social media giant faces growing scrutiny in India",
-    "link": "https://techcrunch.com/2026/08/28/meta-executive-leaves-for-openai-as-the-social-media-giant-faces-growing-scrutiny-in-india/",
-    "pubDate": "Fri, 28 Aug 2026 12:21:06 +0000",
-    "source": "TechCrunch AI",
-    "category": "ai",
-    "content": "Sandhya Devanathan will oversee some OpenAI operations across Southeast Asia and Australia in her new role.",
-    "image": "",
-    "summary": "A Meta executive, Sandhya Devanathan, has joined OpenAI to oversee operations in Southeast Asia and Australia, highlighting the ongoing talent shift between major tech firms. The move comes as Meta faces increased regulatory scrutiny in India.",
+    "content": "Google wants Workspace users to edit and generate their business imagery with Pics. | Image: Google\t\n\nGoogle has a new suite of creative design tools for Workspace users called Google Pics, which aims to make editing and generating \"professional-grade\" AI images less cumbersome for businesses. Built around Gemini and the Nano Banana generative AI model, Google Pics is designed to give more granular control over prompt-based image making and manipulation, allowing users to tap on specific objects or text, and describe what they want to change - features that may avoid the ugly results that chatbots are known to spit out for marketing imagery.\n\"While AI image generation has been a huge hit for personal use, it's been a different story for bus …\nRead the full story at The Verge.",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Google-Pics-rollout-hero.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "summary": "Google introduced Google Pics, a new AI-powered design tool for Workspace users, leveraging Gemini and Nano Banana to enable precise image editing and generation. The tool aims to provide professional-grade results for businesses by allowing granular control over AI-generated imagery.",
     "importance": 7,
     "classified": true
   },
@@ -1320,6 +1284,18 @@
     "classified": true
   },
   {
+    "title": "Musk’s X hit by wave of unsolicited password reset emails",
+    "link": "https://www.coindesk.com/tech/2026/09/01/musk-s-x-hit-by-wave-of-unsolicited-password-reset-emails",
+    "pubDate": "Tue, 01 Sep 2026 14:59:12 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "Multiple crypto industry figures and CoinDesk staff received unexpected password reset emails on Tuesday, though there is no evidence yet that X itself has been breached.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/c09233015cb4bb131a242f1bbe62c191c36c568c-5024x3052.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "Multiple crypto industry figures and CoinDesk staff received unsolicited password reset emails from X on Tuesday. While there is no evidence yet of an X breach, the incident caused concern within the community.",
+    "importance": 6,
+    "classified": true
+  },
+  {
     "title": "Bitcoin steady above $78,000, HYPE leads as majors slip on hawkish Fed bets",
     "link": "https://www.coindesk.com/markets/2026/09/01/bitcoin-steady-above-usd78-000-hype-leads-as-majors-slip-on-hawkish-fed-bets",
     "pubDate": "Tue, 01 Sep 2026 04:30:28 +0000",
@@ -1356,18 +1332,6 @@
     "classified": true
   },
   {
-    "title": "Live updates: Bitcoin eyes 25% gain in August, best month since November 2024",
-    "link": "https://www.coindesk.com/tech/2026/08/31/live-updates-bitcoin-holds-usd78-000-as-yen-breaks-160-and-rate-hike-bets-lift-the-dollar",
-    "pubDate": "Mon, 31 Aug 2026 08:18:03 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "The price of crude oil is surging higher after overnight military strikes in Iran, with Trump once again proclaiming victory.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/bfef64cd9f2c8f31995e072946c23f1d6e2f11d6-1920x976.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "Bitcoin remains stable around $78,000 as August ends, while ether shows a bullish golden cross pattern. The dollar's strength is influencing both traditional and crypto markets.",
-    "importance": 6,
-    "classified": true
-  },
-  {
     "title": "Bitfinex Securities lists tokenized notes tied to Strategy, Metaplanet",
     "link": "https://cointelegraph.com/news/bitfinex-tokenized-strategy-metaplanet-notes?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "pubDate": "Tue, 01 Sep 2026 10:00:00 +0000",
@@ -1382,7 +1346,7 @@
   {
     "title": "Here’s what happened in crypto today",
     "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Tue, 01 Sep 2026 05:58:48 +0000",
+    "pubDate": "Tue, 01 Sep 2026 06:01:00 +0000",
     "source": "Cointelegraph",
     "category": "crypto",
     "content": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
@@ -1404,6 +1368,18 @@
     "classified": true
   },
   {
+    "title": "Cango shares plunge 20% after bitcoin miner reports $81.6 million Q2 loss",
+    "link": "https://www.theblock.co/news/markets/2026-09-01-cango-shares-plunge-20-after-bitcoin-miner-reports-81-6-million-q2-loss-413259",
+    "pubDate": "Tue, 01 Sep 2026 15:48:19 +0000",
+    "source": "The Block",
+    "category": "crypto",
+    "content": "Cango scaled back its mining fleet in the second quarter as revenue fell and the company focused on efficiency.",
+    "image": "https://www.tbstat.com/wp/uploads/2021/10/210930_Bitcoin_Mining_General-1200x675.jpg",
+    "summary": "Cango's shares dropped 20% after the company reported an $81.6 million loss in Q2, driven by reduced mining operations and declining revenue. The firm is prioritizing efficiency amid challenging market conditions.",
+    "importance": 6,
+    "classified": true
+  },
+  {
     "title": "Ethena launches Ethena Pay app on Avalanche, offering up to 6% yield and 10% cashback",
     "link": "https://www.theblock.co/news/web3/2026-09-01-ethena-pay-app-avalanche-yield-cashback-413225",
     "pubDate": "Tue, 01 Sep 2026 12:00:02 +0000",
@@ -1412,6 +1388,18 @@
     "content": "Ethena Labs has launched the beta of Ethena Pay, a new self-custodial money app built on Avalanche, across 48 countries.",
     "image": "https://www.tbstat.com/wp/uploads/2026/06/20260612_Ethena_News-1200x675.jpg",
     "summary": "Ethena Labs introduced Ethena Pay, a self-custodial money app on Avalanche, now available in 48 countries. The app offers up to 6% yield and 10% cashback, combining AI-driven financial services with blockchain technology.",
+    "importance": 6,
+    "classified": true
+  },
+  {
+    "title": "Making the AI-powered case for legacy modernization",
+    "link": "https://www.technologyreview.com/2026/09/01/1142180/making-the-ai-powered-case-for-legacy-modernization/",
+    "pubDate": "Tue, 01 Sep 2026 14:00:00 +0000",
+    "source": "MIT Technology Review",
+    "category": "ai",
+    "content": "For years, legacy technology has been a problem companies knew they needed to solve, but one they often struggled to tackle. The cost, complexity, and risk of replacing business-critical systems could make modernization feel like a disruption to manage instead of an opportunity to pursue. But with the rise in customer expectations and the changes…",
+    "image": "",
+    "summary": "The article discusses how legacy technology modernization is becoming increasingly necessary for companies due to rising customer expectations and disruptive market changes. AI is positioned as a key enabler to simplify and accelerate this process, reducing costs and risks.",
     "importance": 6,
     "classified": true
   },
@@ -1440,6 +1428,18 @@
     "classified": true
   },
   {
+    "title": "John Deere launched an AI chatbot for farmers",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/987486/john-deere-jd-ai-chatbot",
+    "pubDate": "2026-09-01T16:00:52.000Z",
+    "source": "The Verge AI",
+    "category": "ai",
+    "content": "John Deere is testing a new  \"JD\" AI assistant that it says can help farmers make more money, with answers about best practices and historical trends that are based on their own data. It uses their \"field, machine and operational data\" to answer questions on topics like equipment settings, fuel usage, or harvest timing. \nThe press release didn't mention which AI technology is behind this platform. But after fighting with farmers and the FTC for years over the right to repair, the news of Early Access Program testing for this bot comes with a mention of its 10-point Farmer Data Commitment saying it won't sell the data, and lets farmers contr …\nRead the full story at The Verge.",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/john-deere-jd-ai-featured.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "summary": "John Deere has launched an AI chatbot called 'JD' for farmers, designed to provide data-driven insights on equipment settings, fuel usage, and harvest timing using their operational data. The tool emphasizes data privacy with a 10-point Farmer Data Commitment, prohibiting data sales.",
+    "importance": 6,
+    "classified": true
+  },
+  {
     "title": "Debian won&#8217;t ban AI code from its Linux distribution",
     "link": "https://www.theverge.com/tech/986789/linux-debian-generative-ai-policy",
     "pubDate": "2026-08-31T15:34:58.000Z",
@@ -1460,18 +1460,6 @@
     "content": "“AI creator” accounts like Aitana Lopez will get a new “AI-generated profile” label. | Image: Aitana Lopez\t\n\nInstagram is finally taking steps to address the rise of fake AI-influencer accounts that have gotten harder to spot. It's also renaming the \"AI creator\" label to \"AI-generated profile\" to make it clear when a profile features an AI-generated person that's not a real human being. \n\"We've heard that people don't like seeing a profile that seems human, only to find out later that the person featured is AI-generated,\" said Instagram in a blog post. \"They want to know when a profile features an AI-generated person.\"\nTo that end, Instagram will be hunting down accounts that don't self-label their AI-generated profiles, and penalize them by limi …\nRead the full story at The Verge.",
     "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/vege-ai-influencer.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
     "summary": "Instagram is introducing a new 'AI-generated profile' label to identify AI-created influencers, replacing the previous 'AI creator' tag, aiming to combat deception by clearly marking non-human accounts.",
-    "importance": 6,
-    "classified": true
-  },
-  {
-    "title": "Trump’s EPA wants to let data centers hide their air pollution",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/986176/data-center-pollution-epa-rule-change-air-permit",
-    "pubDate": "2026-08-28T16:28:40.000Z",
-    "source": "The Verge AI",
-    "category": "ai",
-    "content": "Just as new data centers face growing backlash from neighboring communities, the US Environmental Protection Agency (EPA) is about to make it harder for people to weigh in on any pollution those centers create.\nThe EPA plans to toss out a federal rule requiring public notice and an opportunity to comment when certain industrial sites apply for an air permit. Advocates warn that the move would allow data center developers and other industries to break ground without giving nearby residents a say, or even a warning that construction is planned. \n\"You can see why that would be so interesting to an administration that wants to rush through the …\nRead the full story at The Verge.",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKS528_DATA_CENTERS2_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "summary": "The US EPA is proposing to eliminate a rule requiring public notice and comment periods for air pollution permits, which could allow data centers and other industries to proceed with construction without community input or awareness of potential pollution risks.",
     "importance": 6,
     "classified": true
   },
@@ -1536,6 +1524,18 @@
     "classified": true
   },
   {
+    "title": "Bitcoin enters ‘Rektember’ as rate-hike risk combines with seasonality to threaten rally",
+    "link": "https://www.coindesk.com/markets/2026/09/01/bitcoin-enters-rektember-as-rate-hike-risks-threaten-its-august-rally",
+    "pubDate": "Tue, 01 Sep 2026 13:55:26 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "September has historically been a poor month for risk assets in general, and bitcoin, in particular.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/4e5448765db1f69c5f0ecf3ade14cd0e458f28f6-1362x868.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "Bitcoin is entering 'Rektember,' historically a poor month for risk assets, with its rally potentially threatened by seasonal trends and ongoing rate-hike risks. September has consistently shown underperformance for Bitcoin and other risk assets.",
+    "importance": 4,
+    "classified": true
+  },
+  {
     "title": "Strategy spends $635M buying back STRC as perpetual preferred stock lags $100 par",
     "link": "https://www.coindesk.com/markets/2026/09/01/strategy-spends-usd635m-buying-back-strc-as-perpetual-preferred-stock-lags-usd100-par",
     "pubDate": "Tue, 01 Sep 2026 09:29:33 +0000",
@@ -1544,6 +1544,18 @@
     "content": "STRC trades at $97.34 despite Strategy’s growing repurchases, while SATA’s higher dividend rate has helped it hold its $100 par value.",
     "image": "https://cdn.sanity.io/images/s3y3vcno/production/12959ff7ebd2b686ec6ec4a46460734ac710ab18-6000x3376.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
     "summary": "Strategy Capital has spent $635 million to repurchase STRC perpetual preferred stock, which currently trades at $97.34, below its $100 par value. Meanwhile, SATA's higher dividend rate has allowed it to maintain its $100 par value.",
+    "importance": 4,
+    "classified": true
+  },
+  {
+    "title": "Bitcoin stays flat as global bond bear market rages on, pushing JGB to high",
+    "link": "https://cointelegraph.com/markets/bitcoin-remains-flat-as-global-bond-bear-market-rages-on?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Tue, 01 Sep 2026 15:34:00 +0000",
+    "source": "Cointelegraph",
+    "category": "both",
+    "content": "Global bond yields hit multi-decade highs today as Japan’s 10-year JGB yield reached a 30-year peak, keeping Bitcoin steady near $78,000.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1ERT8K3Y6NFNXZSMH683SYG/hi-japan-issue-bonds-on-blockchain-how-significant-is-this-2.jpg",
+    "summary": "Bitcoin's price remains stable around $78,000 despite a global bond bear market, with Japan's 10-year JGB yield hitting a 30-year high. The article highlights the disconnect between traditional financial markets and Bitcoin's price action.",
     "importance": 4,
     "classified": true
   },
@@ -1620,6 +1632,30 @@
     "classified": true
   },
   {
+    "title": "Amazon Alexa can now alert you when something new might tempt you to shop",
+    "link": "https://techcrunch.com/2026/09/01/amazon-alexa-can-now-alert-you-when-something-new-might-tempt-you-to-shop/",
+    "pubDate": "Tue, 01 Sep 2026 15:51:55 +0000",
+    "source": "TechCrunch AI",
+    "category": "ai",
+    "content": "Amazon is adding a new Alexa-powered feature called “Update Me When” that can send personalized alerts about product launches, tours, books, shows, and other events that could trigger a purchase.",
+    "image": "",
+    "summary": "Amazon has introduced a new Alexa feature called 'Update Me When' that sends personalized alerts about product launches, events, or content that might tempt users to shop. The feature aims to proactively notify users of items or experiences they may be interested in purchasing.",
+    "importance": 4,
+    "classified": true
+  },
+  {
+    "title": "Fambot introduces an ‘AI chief of staff’ for families",
+    "link": "https://techcrunch.com/2026/09/01/fambot-introduces-an-ai-chief-of-staff-for-families/",
+    "pubDate": "Tue, 01 Sep 2026 15:10:58 +0000",
+    "source": "TechCrunch AI",
+    "category": "ai",
+    "content": "Fambot is building an AI “chief of staff” to help families manage the emails, calendars, school updates, sports schedules, and other logistics of raising kids.",
+    "image": "",
+    "summary": "Fambot has developed an AI-powered 'chief of staff' designed to assist families with managing daily logistics such as emails, calendars, school updates, and sports schedules. The tool aims to streamline household organization through artificial intelligence.",
+    "importance": 4,
+    "classified": true
+  },
+  {
     "title": "World humanoid robot games show runners breaking records, bursting into flames",
     "link": "https://arstechnica.com/ai/2026/08/world-humanoid-robot-games-show-runners-breaking-records-bursting-into-flames/",
     "pubDate": "Tue, 25 Aug 2026 20:59:03 +0000",
@@ -1629,18 +1665,6 @@
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/World-Humanoid-Robot-Games-2026-1152x648.jpg",
     "summary": "A news article highlights record-breaking humanoid robot races, which are compared to household chore challenges. The event also mentions robots bursting into flames during the competition.",
     "importance": 4,
-    "classified": true
-  },
-  {
-    "title": "Real Trump Coins denies launching GOLD token, blames ‘bad actors’",
-    "link": "https://cointelegraph.com/news/real-trump-coins-denies-gold-token-launch?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Sun, 30 Aug 2026 08:04:56 +0000",
-    "source": "Cointelegraph",
-    "category": "crypto",
-    "content": "Trump-linked Real Trump Coins said it never authorized GOLD or any digital token as questions persisted over its X account, associated domains and the concentrated token supply.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/08/01M18SAPB6CQTXR7T638XMWVRB/hi-top-crypto-cyber-threats.jpg",
-    "summary": "Real Trump Coins has denied authorizing the launch of a 'GOLD' digital token, attributing its emergence to 'bad actors.' This denial comes amidst ongoing questions concerning its X account, associated domains, and the token's concentrated supply.",
-    "importance": 3,
     "classified": true
   },
   {
@@ -1668,26 +1692,14 @@
     "classified": true
   },
   {
-    "title": "Here's 1 metric on U.S. debt that makes bitcoin's bull case look stronger than ever",
-    "link": "https://www.coindesk.com/daybook-us/2026/08/31/here-s-1-metric-on-u-s-debt-that-makes-bitcoin-s-bull-case-look-stronger-than-ever",
-    "pubDate": "Mon, 31 Aug 2026 11:25:34 +0000",
-    "source": "CoinDesk",
+    "title": "Kalshi issues first lifetime ban for Republican politician over insider bets",
+    "link": "https://cointelegraph.com/news/kalshi-bans-politicians-insider-trading-bets-manipulation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Tue, 01 Sep 2026 17:39:48 +0000",
+    "source": "Cointelegraph",
     "category": "crypto",
-    "content": "Your day-ahead look for Aug. 31, 2026",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/4e33a65266ff8a49959c99fa67ba3d2651a409fd-3648x2052.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "The article title indicates a discussion on how a specific U.S. debt metric strengthens the investment case for Bitcoin, linking macroeconomic factors to cryptocurrency value. Despite this intriguing premise, the provided content is merely a date placeholder, offering no actual details or analysis of the asserted connection.",
-    "importance": 2,
-    "classified": true
-  },
-  {
-    "title": "Kalshi becomes exclusive prediction market partner of US Open: report",
-    "link": "https://www.theblock.co/news/deals/2026-08-30-kalshi-becomes-exclusive-prediction-market-partner-of-us-open-report-413074",
-    "pubDate": "Sun, 30 Aug 2026 20:28:52 +0000",
-    "source": "The Block",
-    "category": "crypto",
-    "content": "As part of the agreement, rival prediction market platforms are reportedly barred from advertising at the tournament and on its ESPN broadcasts.",
-    "image": "https://www.tbstat.com/wp/uploads/2025/09/20250917_Kalshi_News-1200x675.jpg",
-    "summary": "Kalshi, a regulated prediction market platform, has reportedly secured an exclusive partnership with the US Open. This agreement grants Kalshi exclusive advertising rights, prohibiting rival prediction market platforms from promoting their services at the tournament and on its ESPN broadcasts.",
+    "content": "The prediction platform permanently banned George Santos and issued a three-year suspension for Laurie Buckhout after investigations into using insider information on event contracts.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1EQEQR2GJNM98QNW5X01NM1/hi-crypto-ban.jpg",
+    "summary": "Kalshi, a prediction platform, has issued a lifetime ban to Republican politician George Santos and a three-year suspension to Laurie Buckhout. This action follows investigations that revealed their use of insider information for betting on event contracts.",
     "importance": 1,
     "classified": true
   },
