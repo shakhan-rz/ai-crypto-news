@@ -1,5 +1,17 @@
 [
   {
+    "title": "North Korean hackers are moving tens of millions on Hyperliquid as Trump pushes to onshore the crypto platform",
+    "link": "https://www.coindesk.com/business/2026/08/31/north-korean-hackers-are-moving-tens-of-millions-on-hyperliquid-as-trump-pushes-to-onshore-the-crypto-platform",
+    "pubDate": "Mon, 31 Aug 2026 20:48:40 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "Blockchain data reviewed by CoinDesk shows wallets tied to North Korea’s Lazarus Group sold more than $30 million in bitcoin on the platform in the last three weeks alone.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/c6906ffe314f6cc214b35551286f61a093e5f8fd-5760x3840.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "North Korea's Lazarus Group hackers have been actively moving over $30 million in Bitcoin on the Hyperliquid platform in the last three weeks, according to blockchain data reviewed by CoinDesk. This activity takes place amidst political discussions regarding the potential onshoring of the crypto platform.",
+    "importance": 9,
+    "classified": true
+  },
+  {
     "title": "NYSE owner ICE taps tZERO for tokenized securities push, takes stake in firm",
     "link": "https://www.coindesk.com/business/2026/08/31/nyse-owner-ice-taps-tzero-for-tokenized-securities-push-takes-stake-in-firm",
     "pubDate": "Mon, 31 Aug 2026 14:44:26 +0000",
@@ -432,6 +444,18 @@
     "classified": true
   },
   {
+    "title": "Apple shares ‘shocking evidence’ against former employee accused of stealing company data for OpenAI",
+    "link": "https://techcrunch.com/2026/08/31/apple-shares-shocking-evidence-against-former-employee-accused-of-stealing-company-data-for-openai/",
+    "pubDate": "Tue, 01 Sep 2026 00:13:00 +0000",
+    "source": "TechCrunch AI",
+    "category": "ai",
+    "content": "Apple says it has evidence that a former employee destroyed evidence of data theft after learning he was under investigation.",
+    "image": "",
+    "summary": "Apple has presented what it calls 'shocking evidence' that a former employee, accused of stealing company data for OpenAI, destroyed evidence after learning he was under investigation. This development is part of an ongoing data theft case involving a major tech company and a leading AI firm.",
+    "importance": 8,
+    "classified": true
+  },
+  {
     "title": "The Pentagon now has its own version of ChatGPT and Grok",
     "link": "https://techcrunch.com/2026/08/31/the-pentagon-now-has-its-own-version-of-chatgpt-and-grok/",
     "pubDate": "Mon, 31 Aug 2026 20:13:45 +0000",
@@ -708,18 +732,6 @@
     "classified": true
   },
   {
-    "title": "Bitcoin wallets untouched for 10 years moved $40 million worth of coins",
-    "link": "https://www.coindesk.com/markets/2026/08/28/bitcoin-wallets-untouched-for-10-years-moved-usd40-million-most-avoided-exchanges",
-    "pubDate": "Sat, 29 Aug 2026 04:30:00 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "Six decade-old wallets moved $40 million this month, but Galaxy's data shows dormant coin activity at its lowest since 2022 and 2026 on pace for under half of last year's total.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/70198f64252bcded39f90b505eb1a2f4f3b2fb92-1500x1000.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "Six Bitcoin wallets, dormant for a decade, recently moved $40 million, with most of the funds avoiding exchanges. This activity, however, runs counter to the broader trend, as overall dormant coin movement is currently at its lowest since 2022 and projected to remain low through 2026.",
-    "importance": 7,
-    "classified": true
-  },
-  {
     "title": "Webull expands crypto trading into Canada through Coinbase collaboration",
     "link": "https://cointelegraph.com/news/webull-canada-crypto-trading-coinbase?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "pubDate": "Mon, 31 Aug 2026 17:28:19 +0000",
@@ -864,6 +876,18 @@
     "classified": true
   },
   {
+    "title": "Robinhood Chain hits record $989 million in daily DEX volume as TVL grows",
+    "link": "https://www.theblock.co/news/markets/2026-08-31-robinhood-chain-activity-surges-in-august-as-dex-volume-near-1-billion-413136",
+    "pubDate": "Mon, 31 Aug 2026 22:21:03 +0000",
+    "source": "The Block",
+    "category": "crypto",
+    "content": "Robinhood Chain DEX volume hit a record in the month of August as utility tokens gain ground on memecoins.",
+    "image": "https://www.tbstat.com/wp/uploads/2025/12/20251208_Robinhood_News_3-1200x675.jpg",
+    "summary": "Robinhood Chain's decentralized exchange (DEX) achieved a record daily volume of $989 million in August. This surge coincided with a growing trend where utility tokens are gaining prominence over memecoins within its ecosystem.",
+    "importance": 7,
+    "classified": true
+  },
+  {
     "title": "Solana fees hit record as validators double pace of inflation cuts",
     "link": "https://www.theblock.co/news/ecosystems/2026-08-31-solana-fees-hit-record-as-validators-double-pace-of-inflation-cuts-413135",
     "pubDate": "Mon, 31 Aug 2026 20:14:57 +0000",
@@ -948,26 +972,14 @@
     "classified": true
   },
   {
-    "title": "Bybit launches 24/7 options on stock perpetuals, starting with SpaceX and Nvidia",
-    "link": "https://www.theblock.co/news/markets/2026-08-28-bybit-launches-24-7-options-on-stock-perpetuals-starting-with-spacex-and-nvidia-413032",
-    "pubDate": "Fri, 28 Aug 2026 14:44:23 +0000",
-    "source": "The Block",
-    "category": "both",
-    "content": "Beginning Sept. 17, Bybit users will be able to trade 24/7 options on SPCX and NVDA, with fractional lots and USDT settlement.",
-    "image": "https://www.tbstat.com/wp/uploads/2024/05/20240507_Bybit_News_2-1200x675.jpg",
-    "summary": "Bybit is introducing 24/7 options trading on stock perpetuals, starting with SpaceX (SPCX) and Nvidia (NVDA) on September 17. The new offering includes fractional lots and USDT settlement, expanding trading flexibility for users.",
-    "importance": 7,
-    "classified": true
-  },
-  {
-    "title": "SBI Holdings invests $270 million in Ajaib, taking 20% stake amid Asia digital asset push",
-    "link": "https://www.theblock.co/news/deals/2026-08-28-sbi-holdings-invests-270-million-in-ajaib-taking-20-stake-amid-asia-digital-asset-push-413023",
-    "pubDate": "Fri, 28 Aug 2026 13:32:26 +0000",
-    "source": "The Block",
-    "category": "both",
-    "content": "Ajaib offers crypto and stablecoins alongside traditional investments, including OTC settlement services for institutional clients.",
-    "image": "https://www.tbstat.com/wp/uploads/2025/04/20250411_Funding_News_3-1200x675.jpg",
-    "summary": "SBI Holdings has invested $270 million in Ajaib, securing a 20% stake as part of its push to expand digital asset services in Asia. Ajaib provides crypto, stablecoins, and traditional investment options, including OTC settlement services for institutional clients.",
+    "title": "Strategy Opposes MSCI Proposal, Says Bitcoin Treasury Firms Are Being Targeted a Second Time",
+    "link": "https://bitcoinmagazine.com/news/bitcoin-treasury-strategy-opposes-msci",
+    "pubDate": "Mon, 31 Aug 2026 20:44:36 +0000",
+    "source": "Bitcoin Magazine",
+    "category": "crypto",
+    "content": "Bitcoin Magazine\n\nStrategy Opposes MSCI Proposal, Says Bitcoin Treasury Firms Are Being Targeted a Second Time\nBitcoin treasury Strategy has blasted Morgan Stanley Capital International’s proposal to exclude it from its Global Investable Market Indexes, calling it “misguided” and “flawed.”  Writing in a letter to MSCI Monday, the Nasdaq-listed Bitcoin behemoth’s founder, Michael Saylor, and CEO, Phong Le, said that the company was discriminating against digital asset businesses.  MSCI said earlier […]\nThis post Strategy Opposes MSCI Proposal, Says Bitcoin Treasury Firms Are Being Targeted a Second Time first appeared on Bitcoin Magazine and is written by Mathew Di Salvo.",
+    "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/06/Strategy-MSTR-Sells-Bitcoin-for-First-Time-in-Years-as-Bitcoin-Price-Tumbles.jpg",
+    "summary": "Strategy, a prominent Bitcoin treasury firm, is vehemently opposing Morgan Stanley Capital International's proposal to exclude it from its Global Investable Market Indexes. Founder Michael Saylor and CEO Phong Le assert that MSCI's move is \"misguided,\" \"flawed,\" and discriminatory against digital asset businesses.",
     "importance": 7,
     "classified": true
   },
@@ -1032,19 +1044,7 @@
     "classified": true
   },
   {
-    "title": "Bitcoin Drops Before Shrugging Off Fed Chair’s Inflation Comments ",
-    "link": "https://bitcoinmagazine.com/markets/bitcoin-shrugs-off-fed-chair-comments",
-    "pubDate": "Fri, 28 Aug 2026 15:49:18 +0000",
-    "source": "Bitcoin Magazine",
-    "category": "crypto",
-    "content": "Bitcoin Magazine\n\nBitcoin Drops Before Shrugging Off Fed Chair’s Inflation Comments \nBitcoin dropped, then popped after Federal Reserve Chair Kevin Warsh gave his first major speech as head of the U.S. central bank and said he had “more work to do” to fight inflation.  The leading cryptocurrency was recently trading for $79,474 after dropping as low as $78,630 before quickly rising again.  Bitcoin has typically done […]\nThis post Bitcoin Drops Before Shrugging Off Fed Chair’s Inflation Comments  first appeared on Bitcoin Magazine and is written by Mathew Di Salvo.",
-    "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/08/Pics-4.jpg",
-    "summary": "Bitcoin experienced a brief dip to $78,630 before recovering to $79,474 following Federal Reserve Chair Kevin Warsh's remarks on inflation, signaling ongoing economic uncertainty. The cryptocurrency's resilience suggests market confidence despite Fed policy concerns.",
-    "importance": 7,
-    "classified": true
-  },
-  {
-    "title": "Hugging Face hack could indicate cultural issues at OpenAI",
+    "title": "The Hugging Face hack could indicate cultural issues at OpenAI",
     "link": "https://www.technologyreview.com/2026/08/31/1143180/hugging-face-hack-could-indicate-cultural-issues-at-openai/",
     "pubDate": "Mon, 31 Aug 2026 18:00:00 +0000",
     "source": "MIT Technology Review",
@@ -1160,18 +1160,6 @@
     "content": "Sandhya Devanathan will oversee some OpenAI operations across Southeast Asia and Australia in her new role.",
     "image": "",
     "summary": "A Meta executive, Sandhya Devanathan, has joined OpenAI to oversee operations in Southeast Asia and Australia, highlighting the ongoing talent shift between major tech firms. The move comes as Meta faces increased regulatory scrutiny in India.",
-    "importance": 7,
-    "classified": true
-  },
-  {
-    "title": "Anthropic and OpenAI are joining the AI stage at TechCrunch Disrupt 2026 ",
-    "link": "https://techcrunch.com/2026/08/27/anthropic-and-openai-are-joining-the-ai-stage-at-techcrunch-disrupt-2026/",
-    "pubDate": "Thu, 27 Aug 2026 23:16:45 +0000",
-    "source": "TechCrunch AI",
-    "category": "ai",
-    "content": "At TechCrunch Disrupt 2026, the AI Stage is back to dig into the single hottest topic in the community for the past few years, presented by Google for Startups.",
-    "image": "",
-    "summary": "Anthropic and OpenAI are set to participate in TechCrunch Disrupt 2026, with the event's AI Stage focusing on the most prominent topic in the tech community. The conference, supported by Google for Startups, will feature discussions and presentations on artificial intelligence.",
     "importance": 7,
     "classified": true
   },
@@ -1368,6 +1356,18 @@
     "classified": true
   },
   {
+    "title": "Here’s what happened in crypto today",
+    "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Mon, 31 Aug 2026 20:32:00 +0000",
+    "source": "Cointelegraph",
+    "category": "crypto",
+    "content": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg",
+    "summary": "This article provides a summary of the latest news and trends in the crypto space, covering Bitcoin price, blockchain, DeFi, Web3, and crypto regulation. It aims to keep readers updated on daily events impacting the cryptocurrency market. The article appears to be a general overview of the current state of the crypto industry.",
+    "importance": 6,
+    "classified": true
+  },
+  {
     "title": "Ireland excludes crypto from new tax-advantaged investment accounts",
     "link": "https://cointelegraph.com/news/ireland-crypto-tax-advantaged-investment-accounts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "pubDate": "Mon, 31 Aug 2026 20:25:25 +0000",
@@ -1376,18 +1376,6 @@
     "content": "Ireland’s planned investment accounts will offer tax benefits for stocks, bonds and ETFs, while excluding crypto and derivatives as higher-risk products.",
     "image": "https://s3-images.ctmedia.io/media/article-covers/2026/08/01M1CQVNKP1CBN6ADW12R42Z0B/crypto-ireland.jpg",
     "summary": "Ireland has announced that its new tax-advantaged investment accounts will not include cryptocurrencies, classifying them as higher-risk products alongside derivatives. The accounts will instead focus on stocks, bonds, and ETFs to provide tax benefits.",
-    "importance": 6,
-    "classified": true
-  },
-  {
-    "title": "Here’s what happened in crypto today",
-    "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Mon, 31 Aug 2026 06:01:00 +0000",
-    "source": "Cointelegraph",
-    "category": "crypto",
-    "content": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg",
-    "summary": "This article provides a summary of the latest news and trends in the crypto space, covering Bitcoin price, blockchain, DeFi, Web3, and crypto regulation. It aims to keep readers updated on daily events impacting the cryptocurrency market. The article appears to be a general overview of the current state of the crypto industry.",
     "importance": 6,
     "classified": true
   },
