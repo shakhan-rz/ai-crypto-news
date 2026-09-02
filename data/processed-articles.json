@@ -108,6 +108,18 @@
     "classified": true
   },
   {
+    "title": "SEC proposes transfer agent rule, sets event to figure out round-the-clock U.S. trading",
+    "link": "https://www.coindesk.com/policy/2026/09/01/sec-proposes-transfer-agent-rule-sets-event-to-figure-out-round-the-clock-u-s-trading",
+    "pubDate": "Tue, 01 Sep 2026 23:55:46 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "The U.S. Securities and Exchange Commission issued an agenda for its 24-trading roundtable and proposed a new transfer-agent rule with blockchain implications.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/f5e51d142f4aa8a9a66d07435fa821e33f12872b-4858x2733.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "The U.S. Securities and Exchange Commission proposed a new transfer-agent rule with blockchain implications. Additionally, the SEC issued an agenda for a roundtable to discuss round-the-clock U.S. trading.",
+    "importance": 8,
+    "classified": true
+  },
+  {
     "title": "Robinhood's new crypto network is printing cash, and it's sending Arbitrum's token soaring",
     "link": "https://www.coindesk.com/markets/2026/09/01/robinhood-s-new-crypto-network-is-printing-cash-and-it-s-sending-arbitrum-s-token-soaring",
     "pubDate": "Tue, 01 Sep 2026 15:28:29 +0000",
@@ -176,18 +188,6 @@
     "content": "It's the first week of bitcoin purchases for the Michael Saylor-led company in about two months.",
     "image": "https://cdn.sanity.io/images/s3y3vcno/production/7fae1cfbe73c3113bf12a5687036ae3b35807841-1920x1100.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
     "summary": "MicroStrategy, led by Michael Saylor, resumed its bitcoin acquisition strategy last week by purchasing an additional $370 million worth of BTC. This marks the company's first bitcoin purchase in approximately two months, signaling a return to its long-standing accumulation strategy.",
-    "importance": 8,
-    "classified": true
-  },
-  {
-    "title": "Robinhood Chain beats Ethereum in daily revenue as memecoin trading takes over",
-    "link": "https://www.coindesk.com/markets/2026/08/31/robinhood-chain-beats-ethereum-in-daily-revenue-as-memecoin-trading-takes-over",
-    "pubDate": "Mon, 31 Aug 2026 11:53:56 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "The two-month-old network processed a record 5.52 million transactions on Aug. 30 as users launched 22,600 tokens and memecoin trading tools drove most of the $2.66 million in revenue.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/420b7f8ce090d7bdf4a04ea5fa1495a09ff9ce29-6889x4593.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "The two-month-old Robinhood Chain has surpassed Ethereum in daily revenue, processing a record 5.52 million transactions on August 30. This surge, generating $2.66 million, was predominantly driven by the launch of 22,600 tokens and active memecoin trading.",
     "importance": 8,
     "classified": true
   },
@@ -324,7 +324,7 @@
     "classified": true
   },
   {
-    "title": "Open AI’s Astra model is on the way — and very good at breaking into computer systems",
+    "title": "OpenAI’s Astra model is on the way — and very good at breaking into computer systems",
     "link": "https://techcrunch.com/2026/09/01/open-ais-astra-model-is-on-the-way-and-very-good-at-breaking-into-computer-systems/",
     "pubDate": "Tue, 01 Sep 2026 21:06:24 +0000",
     "source": "TechCrunch AI",
