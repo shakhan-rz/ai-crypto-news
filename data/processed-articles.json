@@ -300,6 +300,18 @@
     "classified": true
   },
   {
+    "title": "OpenAI’s new reasoning technique alarms AI safety experts",
+    "link": "https://techcrunch.com/2026/09/02/openais-new-reasoning-technique-alarms-ai-safety-experts/",
+    "pubDate": "Wed, 02 Sep 2026 20:19:14 +0000",
+    "source": "TechCrunch AI",
+    "category": "ai",
+    "content": "OpenAI’s new Astra model will use “recurrent depth,” a technique that allows the model to operate outside of the sequential thinking that characterizes most reasoning models.",
+    "image": "",
+    "summary": "OpenAI's new Astra model introduces 'recurrent depth,' a reasoning technique that enables the model to operate outside sequential thinking, raising concerns among AI safety experts about its unpredictability and potential risks.",
+    "importance": 8,
+    "classified": true
+  },
+  {
     "title": "We’re ‘dangerously close’ to dead internet theory, says Pangram’s CEO",
     "link": "https://techcrunch.com/podcast/were-dangerously-close-to-dead-internet-theory-says-pangrams-ceo/",
     "pubDate": "Wed, 02 Sep 2026 17:09:57 +0000",
@@ -960,6 +972,18 @@
     "classified": true
   },
   {
+    "title": "TechCrunch Disrupt 2026’s new Real World AI Stage features Nvidia, robots, and extinct animals ",
+    "link": "https://techcrunch.com/2026/09/02/techcrunch-disrupt-2026s-new-real-world-ai-stage-features-nvidia-robots-and-extinct-animals/",
+    "pubDate": "Wed, 02 Sep 2026 22:24:09 +0000",
+    "source": "TechCrunch AI",
+    "category": "ai",
+    "content": "On our new Real World AI stage, we’ll be focusing on the intersection between the digital and physical, and all the ways we’ll continue to see a blending of the two.",
+    "image": "",
+    "summary": "TechCrunch Disrupt 2026 introduces a new Real World AI stage highlighting the fusion of digital and physical realms, featuring participants like Nvidia, robotics, and extinct animal simulations. The stage aims to explore AI's role in bridging virtual and real-world applications.",
+    "importance": 7,
+    "classified": true
+  },
+  {
     "title": "Pangram’s Max Spero on why AI detection is harder than ‘Real or Fake’",
     "link": "https://techcrunch.com/video/pangrams-max-spero-on-why-ai-detection-is-harder-than-real-or-fake/",
     "pubDate": "Wed, 02 Sep 2026 17:18:13 +0000",
@@ -1052,6 +1076,18 @@
     "content": "The startup wants to do for IT infrastructure what Cursor did for software engineering.",
     "image": "",
     "summary": "Empirik, a startup incubated by Sequoia, has launched with $21 million in funding to develop AI-driven tools that predict IT infrastructure outages before they occur, aiming to revolutionize operational reliability similar to how Cursor transformed software engineering.",
+    "importance": 7,
+    "classified": true
+  },
+  {
+    "title": "Google says its new Gemini 3.8 Flash model ‘works harder’ but might cost more",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/988742/google-gemini-3-8-flash",
+    "pubDate": "2026-09-02T20:11:40.000Z",
+    "source": "The Verge AI",
+    "category": "ai",
+    "content": "Google launched Gemini 3.8 Flash, arriving just a few weeks after its predecessor. The company claims the new model \"works harder\" than Gemini 3.7 Flash by performing more reasoning steps on complex tasks and \"calling tools iteratively.\" It has the same introductory pricing as 3.7 Flash, $0.75 per million input tokens and $3.75 per million output tokens, but could still end up costing users more. Google warns that \"the model might use more tokens to maximize performance, especially at higher effort levels.\" Developers can keep using Gemini 3.7 Flash if they want to minimize token usage. \nGemini 3.8 Flash's launch was followed by some early  …\nRead the full story at The Verge.",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK255_Google_Gemini_B_474198.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "summary": "Google has released the Gemini 3.8 Flash model, which performs more reasoning steps on complex tasks and iteratively calls tools, potentially increasing costs despite the same introductory pricing as its predecessor. Developers can opt for the older 3.7 Flash to minimize token usage.",
     "importance": 7,
     "classified": true
   },
@@ -1356,12 +1392,24 @@
     "classified": true
   },
   {
+    "title": "Palo Alto Networks paid $500M for Thrive-backed Console, sources say",
+    "link": "https://techcrunch.com/2026/09/02/palo-alto-networks-paid-500m-for-thrive-backed-console-sources-say/",
+    "pubDate": "Wed, 02 Sep 2026 22:44:56 +0000",
+    "source": "TechCrunch AI",
+    "category": "ai",
+    "content": "The acquisition also leaves Sequoia-backed Serval as the de facto startup leader in AI IT service automation, industry watchers believe.",
+    "image": "",
+    "summary": "Palo Alto Networks has acquired Console, a Thrive-backed startup, for $500 million, positioning Sequoia-backed Serval as a leading player in AI IT service automation.",
+    "importance": 6,
+    "classified": true
+  },
+  {
     "title": "NYC bans AI use for students until they reach high school",
     "link": "https://www.theverge.com/policy/988228/nyc-ai-restrictions-in-schools-chatbot-ban",
     "pubDate": "2026-09-02T14:30:00.000Z",
     "source": "The Verge AI",
     "category": "ai",
-    "content": "New York City mayor Zohran Mamdani has announced a new policy today that will ban younger schoolchildren from using AI in classrooms. The one-year moratorium, effective in the 2026-2027 school year, will impact about 600,000 public school students in 2-K through eighth grade and is being introduced alongside additional limits on digital devices and a small pilot program for AI education tools.\nThe new rules being introduced by NYC's Department of Education will bar teachers from using AI tools to grade assignments, and keep students from using the technology in the classroom until they enter high school, with chatbots designed specifically  …\nRead the full story at The Verge.",
+    "content": "New York City Mayor Zohran Mamdani has announced a new policy today that will ban younger schoolchildren from using AI in classrooms. The one-year moratorium, effective in the 2026-2027 school year, will impact about 600,000 public school students in 2-K through eighth grade and is being introduced alongside additional limits on digital devices and a small pilot program for AI education tools.\nThe new rules being introduced by NYC's Department of Education will bar teachers from using AI tools to grade assignments and keep students from using the technology in the classroom until they enter high school, with chatbots designed specifically f …\nRead the full story at The Verge.",
     "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK_414_AI_CHATBOT_R2_CVirginia_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
     "summary": "New York City will ban AI use for students in grades 2-K through eighth starting in the 2026-2027 school year, affecting around 600,000 public school students. The policy includes restrictions on digital devices and a limited pilot program for AI education tools.",
     "importance": 6,
@@ -1440,39 +1488,6 @@
     "classified": true
   },
   {
-    "title": "Palo Alto Networks paid $500M for Thrive-backed Console, sources say",
-    "link": "https://techcrunch.com/2026/09/02/palo-alto-networks-paid-500m-for-thrive-backed-console-sources-say/",
-    "pubDate": "Wed, 02 Sep 2026 22:44:56 +0000",
-    "source": "TechCrunch AI",
-    "category": "ai",
-    "content": "The acquisition also leaves Sequoia-backed Serval as the de-facto startup leader in AI IT service automation, industry watchers believe.",
-    "image": "",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "TechCrunch Disrupt 2026’s new Real World AI Stage features Nvidia, robots, and extinct animals ",
-    "link": "https://techcrunch.com/2026/09/02/techcrunch-disrupt-2026s-new-real-world-ai-stage-features-nvidia-robots-and-extinct-animals/",
-    "pubDate": "Wed, 02 Sep 2026 22:24:09 +0000",
-    "source": "TechCrunch AI",
-    "category": "ai",
-    "content": "On our new Real World AI stage, we’ll be focusing on the intersection between the digital and physical, and all the ways we’ll continue to see a blending of the two.",
-    "image": "",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "OpenAI’s new reasoning technique alarms AI safety experts",
-    "link": "https://techcrunch.com/2026/09/02/openais-new-reasoning-technique-alarms-ai-safety-experts/",
-    "pubDate": "Wed, 02 Sep 2026 20:19:14 +0000",
-    "source": "TechCrunch AI",
-    "category": "ai",
-    "content": "OpenAI’s new Astra model will use “recurrent depth,” a technique that allows the model to operate outside of the sequential thinking that characterizes most reasoning models.",
-    "image": "",
-    "summary": "",
-    "importance": 5
-  },
-  {
     "title": "Adobe acquires Indian market intelligence startup Rilo",
     "link": "https://techcrunch.com/2026/09/02/adobe-acquires-indian-market-intelligence-startup-rilo/",
     "pubDate": "Wed, 02 Sep 2026 14:03:57 +0000",
@@ -1483,17 +1498,6 @@
     "summary": "Adobe has acquired Rilo, an Indian market intelligence startup, marking its second acquisition from India following the purchase of Rephrase.ai in 2023. The deal highlights Adobe's growing interest in expanding its presence and capabilities in the Indian market.",
     "importance": 5,
     "classified": true
-  },
-  {
-    "title": "Google says its new Gemini 3.8 Flash model ‘works harder’ but might cost more",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/988742/google-gemini-3-8-flash",
-    "pubDate": "2026-09-02T20:11:40.000Z",
-    "source": "The Verge AI",
-    "category": "ai",
-    "content": "Google launched Gemini 3.8 Flash, arriving just a few weeks after its predecessor. The company claims the new model \"works harder\" than Gemini 3.7 Flash by performing more reasoning steps on complex tasks and \"calling tools iteratively.\" It has the same introductory pricing as 3.7 Flash, $0.75 per million input tokens and $3.75 per million output tokens, but could still end up costing users more. Google warns that \"the model might use more tokens to maximize performance, especially at higher effort levels.\" Developers can keep using Gemini 3.7 Flash if they want to minimize token usage. \nGemini 3.8 Flash's launch was followed by some early  …\nRead the full story at The Verge.",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK255_Google_Gemini_B_474198.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "summary": "",
-    "importance": 5
   },
   {
     "title": "Google is sending MrBeast into the wilderness, armed with AI",
@@ -1628,18 +1632,6 @@
     "classified": true
   },
   {
-    "title": "Amazon Alexa can now alert you when something new might tempt you to shop",
-    "link": "https://techcrunch.com/2026/09/01/amazon-alexa-can-now-alert-you-when-something-new-might-tempt-you-to-shop/",
-    "pubDate": "Tue, 01 Sep 2026 15:51:55 +0000",
-    "source": "TechCrunch AI",
-    "category": "ai",
-    "content": "Amazon is adding a new Alexa-powered feature called “Update Me When” that can send personalized alerts about product launches, tours, books, shows, and other events that could trigger a purchase.",
-    "image": "",
-    "summary": "Amazon has introduced a new Alexa feature called 'Update Me When' that sends personalized alerts about product launches, events, or content that might tempt users to shop. The feature aims to proactively notify users of items or experiences they may be interested in purchasing.",
-    "importance": 4,
-    "classified": true
-  },
-  {
     "title": "World humanoid robot games show runners breaking records, bursting into flames",
     "link": "https://arstechnica.com/ai/2026/08/world-humanoid-robot-games-show-runners-breaking-records-bursting-into-flames/",
     "pubDate": "Tue, 25 Aug 2026 20:59:03 +0000",
@@ -1664,6 +1656,18 @@
     "classified": true
   },
   {
+    "title": "The Builders Stage brings practical strategies for scaling startups to TechCrunch Disrupt 2026",
+    "link": "https://techcrunch.com/2026/09/02/the-builders-stage-brings-practical-strategies-for-scaling-startups-to-techcrunch-disrupt-2026/",
+    "pubDate": "Wed, 02 Sep 2026 23:01:00 +0000",
+    "source": "TechCrunch AI",
+    "category": "both",
+    "content": "The Builders Stage is returning to TechCrunch Disrupt, bringing together founders, startup operators, and investors for practical conversations on what it takes to build and scale.",
+    "image": "",
+    "summary": "The Builders Stage will return to TechCrunch Disrupt 2026, focusing on practical strategies for scaling startups with participation from founders, operators, and investors.",
+    "importance": 3,
+    "classified": true
+  },
+  {
     "title": "OpenAI faces 30 more lawsuits tied to Tumbler Ridge shooting",
     "link": "https://techcrunch.com/2026/09/02/openai-faces-30-more-lawsuits-tied-to-tumbler-ridge-shooting/",
     "pubDate": "Wed, 02 Sep 2026 12:09:42 +0000",
@@ -1681,7 +1685,7 @@
     "pubDate": "2026-09-02T14:35:03.000Z",
     "source": "The Verge AI",
     "category": "ai",
-    "content": "OpenAI and its CEO Sam Altman are facing 30 new lawsuits that accuse them of providing \"substantial assistance and encouragement\" to the suspect in Canada's Tumbler Ridge school shooting, as reported earlier by TechCrunch. The new wave of lawsuits was filed in a California federal court on Wednesday by the students, teachers, and the principal in the school at the time of the shooting.\nSimilar to the lawsuits filed by Tumbler Ridge victims' families in April, these lawsuits claim OpenAI failed to take action after its automated review system flagged conversations that the alleged shooter, Jesse Van Rootselaar, had with ChatGPT about gun vio …\nRead the full story at The Verge.",
+    "content": "OpenAI and its CEO Sam Altman are facing 30 new lawsuits that accuse them of providing \"substantial assistance and encouragement\" to the suspect in Canada's Tumbler Ridge school shooting, as reported earlier by TechCrunch. The new wave of lawsuits was filed in a California federal court on Wednesday by the students, teachers, and principal in the school at the time of the shooting.\nSimilar to the lawsuits filed by Tumbler Ridge victims' families in April, these lawsuits claim OpenAI failed to take action after its automated review system flagged conversations that the alleged shooter, Jesse Van Rootselaar, had with ChatGPT about gun violenc …\nRead the full story at The Verge.",
     "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2261008686.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
     "summary": "OpenAI and CEO Sam Altman are facing 30 new lawsuits accusing them of aiding and abetting the suspect in Canada's Tumbler Ridge school shooting by allegedly failing to act after ChatGPT conversations about gun violence were flagged. The lawsuits were filed by victims, teachers, and staff in a California federal court.",
     "importance": 3,
