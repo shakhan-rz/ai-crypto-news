@@ -168,14 +168,14 @@
     "classified": true
   },
   {
-    "title": "Firelight raises $8 million, expands beyond XRP as it aims to make DeFi less scary for fintechs",
-    "link": "https://www.coindesk.com/business/2026/08/31/firelight-raises-usd8-million-expands-beyond-xrp-as-it-aims-to-make-defi-less-scary-for-fintechs",
-    "pubDate": "Tue, 01 Sep 2026 13:56:44 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "The protocol aims to give fintechs and investors a faster way to recover losses from DeFi hacks, while letting XRP, bitcoin and XLM holders earn yield by backing that protection.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/88b0247a20e283b64794175f63ff7a428b202fc4-1674x974.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "Firelight has raised $8 million to expand its protocol, aiming to make decentralized finance (DeFi) less intimidating for fintechs. The platform offers fintechs and investors a quicker method to recover losses from DeFi hacks, while enabling XRP, Bitcoin, and XLM holders to earn yield by supporting this protection mechanism.",
+    "title": "Hyperscale Data ends Michigan BTC mining as holdings fall 79%",
+    "link": "https://cointelegraph.com/news/hyperscale-data-ends-michigan-bitcoin-mining-ai?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Thu, 03 Sep 2026 04:57:55 +0000",
+    "source": "Cointelegraph",
+    "category": "both",
+    "content": "Hyperscale Data’s Bitcoin holdings have fallen about 79% since late July to 215 BTC as it redirects capital toward its Michigan AI data center.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1JT29BT8ARQ99J5C2455XSJ/hi-ai-is-now-paying-bitcoin-miners-more-than-mining-1.jpg",
+    "summary": "Hyperscale Data has significantly reduced its Bitcoin holdings by 79% since late July, now possessing 215 BTC. This strategic divestment is aimed at redirecting capital towards the development of its AI data center in Michigan.",
     "importance": 8,
     "classified": true
   },
@@ -468,6 +468,18 @@
     "classified": true
   },
   {
+    "title": "Bitcoin back above $77,500, XRP leads majors as Fed hike odds slide to 62%",
+    "link": "https://www.coindesk.com/markets/2026/09/03/bitcoin-back-above-usd77-500-xrp-leads-majors-as-fed-hike-odds-near-66",
+    "pubDate": "Thu, 03 Sep 2026 04:22:40 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "Every major token is green over 24 hours, though only zcash and hyperliquid are holding gains on the week.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/5eaf572aba58a6d719b59cf2540c1075ac613d50-1512x840.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "Bitcoin has surged above $77,500, with XRP showing significant gains among major tokens over the past 24 hours. This comes as the odds of a Fed rate hike have decreased to 62%.",
+    "importance": 7,
+    "classified": true
+  },
+  {
     "title": "DOJ says Hamas crypto seizures reached $560,000 as FBI took over fundraising sites",
     "link": "https://www.coindesk.com/business/2026/09/02/doj-says-hamas-crypto-seizures-reached-usd560-000-as-fbi-took-over-fundraising-sites",
     "pubDate": "Wed, 02 Sep 2026 21:24:26 +0000",
@@ -524,6 +536,18 @@
     "content": "Every large-cap token fell over the past 24 hours, and the high-beta majors gave up roughly triple what bitcoin did.",
     "image": "https://cdn.sanity.io/images/s3y3vcno/production/568b23cc993b293ccf5b727a8a9b95bc5e457598-1518x838.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
     "summary": "Major cryptocurrencies like Solana, Ether, and XRP experienced a significant selloff over the past 24 hours, with high-beta tokens losing roughly triple what Bitcoin did. This broad market downturn was reportedly driven by the geopolitical impact of Iran strikes.",
+    "importance": 7,
+    "classified": true
+  },
+  {
+    "title": "Ether, XRP ETF inflow streaks end as Bitcoin funds rebound",
+    "link": "https://cointelegraph.com/markets/eth-xrp-etf-inflow-streaks-end-bitcoin-funds-rebound?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Thu, 03 Sep 2026 07:22:00 +0000",
+    "source": "Cointelegraph",
+    "category": "crypto",
+    "content": "Ether ETFs posted $48 million in outflows after attracting $1.62 billion over 12 trading days, while XRP funds ended an 11-session inflow run.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1K0R10249Q6B17ZZ511GTM6/hi-ethereum-etfs-navigating-tracking-difference-vs-tracking-error.jpg",
+    "summary": "Ether ETFs recorded $48 million in outflows, ending a 12-day streak of significant inflows, while XRP funds also saw their 11-session inflow run conclude. This indicates a shift in recent positive fund flow trends for these major altcoin ETFs, even as Bitcoin funds rebounded.",
     "importance": 7,
     "classified": true
   },
@@ -720,30 +744,6 @@
     "classified": true
   },
   {
-    "title": "Asia sees digital asset custody infrastructure deals from Ripple, Coincheck",
-    "link": "https://cointelegraph.com/news/asia-digital-asset-custody-deals-ripple-coincheck?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Tue, 01 Sep 2026 13:13:05 +0000",
-    "source": "Cointelegraph",
-    "category": "crypto",
-    "content": "Ripple was among the latest blockchain companies to sign a strategic partnership to build more custody and tokenized asset management solutions for Asian institutional participants.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1EG26S32G2XE8D4ZV6W68FM/hi-coin-japan-metro-crypto.jpg",
-    "summary": "Ripple has partnered with Coincheck to develop digital asset custody and tokenized asset management solutions for institutional clients in Asia. The collaboration aims to enhance infrastructure for secure asset handling in the region.",
-    "importance": 7,
-    "classified": true
-  },
-  {
-    "title": "Kast launches stablecoin-powered business platform after $80M raise",
-    "link": "https://cointelegraph.com/news/kast-launches-stablecoin-business-platform-80m-raise?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Tue, 01 Sep 2026 13:00:00 +0000",
-    "source": "Cointelegraph",
-    "category": "both",
-    "content": "Kast aims to onboard between 1,000 and 5,000 active businesses to its new platform by the end of 2026.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1DR788HHX4D0SDFTZCJG3HN/stable.jpg",
-    "summary": "Kast has launched a new business platform powered by stablecoins after raising $80 million, aiming to onboard 1,000 to 5,000 active businesses by the end of 2026.",
-    "importance": 7,
-    "classified": true
-  },
-  {
     "title": "Anthony Armstrong, former CFO at Elon Musk’s xAI and X, joins Coinbase board",
     "link": "https://www.theblock.co/news/business/2026-09-02-anthony-armstrong-former-cfo-elon-musk-xai-x-joins-coinbase-board-413405",
     "pubDate": "Wed, 02 Sep 2026 21:03:53 +0000",
@@ -872,18 +872,6 @@
     "content": "The SEC is seeking to update its rules for transfer agents to keep pace with new technology, including blockchain and tokenization.",
     "image": "https://www.tbstat.com/wp/uploads/2025/04/20250414_SEC_News-1200x675.jpg",
     "summary": "The SEC is proposing updates to its 1970s-era transfer agent rules to adapt to modern technologies like blockchain and tokenization, aiming to modernize oversight in financial markets.",
-    "importance": 7,
-    "classified": true
-  },
-  {
-    "title": "Bitcoin and gold move in lockstep as debasement trade gains more steam",
-    "link": "https://www.theblock.co/news/markets/2026-09-01-bitcoin-gold-move-lockstep-debasement-trade-gains-steam-413137",
-    "pubDate": "Tue, 01 Sep 2026 14:26:02 +0000",
-    "source": "The Block",
-    "category": "both",
-    "content": "Bitcoin's 90-day Pearson correlation coefficient with gold hits all-time high while the Fear and Greed Index sits at 68.",
-    "image": "https://www.tbstat.com/wp/uploads/2026/07/BTC-vs-Gold-1074x675.jpg",
-    "summary": "Bitcoin's 90-day correlation with gold has reached an all-time high, signaling a growing trend where both assets are being treated similarly in the market. The Fear and Greed Index currently stands at 68, indicating a moderately greedy sentiment among investors.",
     "importance": 7,
     "classified": true
   },
@@ -1212,6 +1200,18 @@
     "classified": true
   },
   {
+    "title": "Bitcoin’s fabled golden cross is coming. And USDT may be the real signal this time",
+    "link": "https://www.coindesk.com/markets/2026/09/03/bitcoin-s-fabled-golden-cross-is-coming-and-usdt-may-be-the-real-signal-this-time",
+    "pubDate": "Thu, 03 Sep 2026 07:01:28 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "BTC is nearing a bullish golden cross, a widely tracked signal with a mixed record of success in crypto markets. But this time, USDT is supporting the bullish read.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/dea9176a7413ba48eea64fd2fc5d051e1e7b3740-1398x884.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "Bitcoin (BTC) is nearing a bullish \"golden cross\" technical signal, a widely observed indicator in crypto markets. This time, the bullish outlook is reportedly strengthened by the involvement of USDT, adding a unique factor to this event.",
+    "importance": 6,
+    "classified": true
+  },
+  {
     "title": "The bearish 'Bart Simpson' pattern is back as bitcoin and XRP prices pull back",
     "link": "https://www.coindesk.com/markets/2026/09/02/bitcoin-flashes-the-bart-simpsom-pattern-analyst-debate-whether-it-will-actually-form",
     "pubDate": "Wed, 02 Sep 2026 12:13:26 +0000",
@@ -1236,21 +1236,9 @@
     "classified": true
   },
   {
-    "title": "Musk’s X hit by wave of unsolicited password reset emails",
-    "link": "https://www.coindesk.com/tech/2026/09/01/musk-s-x-hit-by-wave-of-unsolicited-password-reset-emails",
-    "pubDate": "Tue, 01 Sep 2026 14:59:12 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "Multiple crypto industry figures and CoinDesk staff received unexpected password reset emails on Tuesday, though there is no evidence yet that X itself has been breached.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/c09233015cb4bb131a242f1bbe62c191c36c568c-5024x3052.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "Multiple crypto industry figures and CoinDesk staff received unsolicited password reset emails from X on Tuesday. While there is no evidence yet of an X breach, the incident caused concern within the community.",
-    "importance": 6,
-    "classified": true
-  },
-  {
     "title": "Here’s what happened in crypto today",
     "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Wed, 02 Sep 2026 19:11:15 +0000",
+    "pubDate": "Thu, 03 Sep 2026 06:10:27 +0000",
     "source": "Cointelegraph",
     "category": "crypto",
     "content": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
@@ -1316,18 +1304,6 @@
     "content": "Licensing fees accounted for 35% of the DAO's income in July, the first month Robinhood Chain was live on mainnet.",
     "image": "https://www.tbstat.com/wp/uploads/2025/07/arbitrum-1200x675.jpg",
     "summary": "Arbitrum DAO generated $6.2 million in income during the first half of the year, with 35% of July's revenue coming from licensing fees tied to Robinhood Chain's mainnet launch. This marks a new revenue stream for the DAO.",
-    "importance": 6,
-    "classified": true
-  },
-  {
-    "title": "Cango shares plunge 20% after bitcoin miner reports $81.6 million Q2 loss",
-    "link": "https://www.theblock.co/news/markets/2026-09-01-cango-shares-plunge-20-after-bitcoin-miner-reports-81-6-million-q2-loss-413259",
-    "pubDate": "Tue, 01 Sep 2026 15:48:19 +0000",
-    "source": "The Block",
-    "category": "crypto",
-    "content": "Cango scaled back its mining fleet in the second quarter as revenue fell and the company focused on efficiency.",
-    "image": "https://www.tbstat.com/wp/uploads/2021/10/210930_Bitcoin_Mining_General-1200x675.jpg",
-    "summary": "Cango's shares dropped 20% after the company reported an $81.6 million loss in Q2, driven by reduced mining operations and declining revenue. The firm is prioritizing efficiency amid challenging market conditions.",
     "importance": 6,
     "classified": true
   },
@@ -1512,14 +1488,14 @@
     "classified": true
   },
   {
-    "title": "Bitcoin enters ‘Rektember’ as rate-hike risk combines with seasonality to threaten rally",
-    "link": "https://www.coindesk.com/markets/2026/09/01/bitcoin-enters-rektember-as-rate-hike-risks-threaten-its-august-rally",
-    "pubDate": "Tue, 01 Sep 2026 13:55:26 +0000",
+    "title": "Dogecoin becomes only losing bet for Japan-listed firm as it sells altcoins for bitcoin",
+    "link": "https://www.coindesk.com/markets/2026/09/03/dogecoin-becomes-losing-bet-for-japan-listed-firm-remixpoint-as-it-sells-altcoins-for-bitcoin",
+    "pubDate": "Thu, 03 Sep 2026 04:58:05 +0000",
     "source": "CoinDesk",
     "category": "crypto",
-    "content": "September has historically been a poor month for risk assets in general, and bitcoin, in particular.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/4e5448765db1f69c5f0ecf3ade14cd0e458f28f6-1362x868.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "Bitcoin is entering 'Rektember,' historically a poor month for risk assets, with its rally potentially threatened by seasonal trends and ongoing rate-hike risks. September has consistently shown underperformance for Bitcoin and other risk assets.",
+    "content": "Remixpoint booked gains on ether, solana and XRP, but sold DOGE below its fiscal-year opening value as it concentrated its crypto holdings in bitcoin.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/04fb152863c85674cd150948d378fd8da5c2b2dc-1398x764.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "Remixpoint, a Japan-listed firm, sold various altcoins to consolidate its cryptocurrency holdings into Bitcoin. While the company booked gains on sales of Ether, Solana, and XRP, it incurred a loss on its Dogecoin investment.",
     "importance": 4,
     "classified": true
   },
@@ -1532,6 +1508,18 @@
     "content": "Global bond yields hit multi-decade highs today as Japan’s 10-year JGB yield reached a 30-year peak, keeping Bitcoin steady near $78,000.",
     "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1ERT8K3Y6NFNXZSMH683SYG/hi-japan-issue-bonds-on-blockchain-how-significant-is-this-2.jpg",
     "summary": "Bitcoin's price remains stable around $78,000 despite a global bond bear market, with Japan's 10-year JGB yield hitting a 30-year high. The article highlights the disconnect between traditional financial markets and Bitcoin's price action.",
+    "importance": 4,
+    "classified": true
+  },
+  {
+    "title": "‘Much ado about nothing’: CFTC files to dismiss CME’s lawsuit over crypto perpetual futures",
+    "link": "https://www.theblock.co/news/regulation/2026-09-02-cftc-dismiss-cme-413416",
+    "pubDate": "Thu, 03 Sep 2026 03:39:02 +0000",
+    "source": "The Block",
+    "category": "crypto",
+    "content": "The CFTC said CME lacks standing on its competitive-injury claims, as the exchange is free to list perp futures as a DCM.",
+    "image": "https://www.tbstat.com/wp/uploads/2020/06/20200630_CFTC-Daily-1200x675.jpg",
+    "summary": "The CFTC has moved to dismiss CME's lawsuit, arguing that the exchange lacks standing to claim competitive injury since it can freely list crypto perpetual futures as a designated contract market (DCM). The regulator dismisses the lawsuit as overblown, calling it 'much ado about nothing'.",
     "importance": 4,
     "classified": true
   },
@@ -1652,6 +1640,18 @@
     "content": "BTC trades choppy as $90 oil and rising bond yields weigh on stocks and gold.",
     "image": "https://cdn.sanity.io/images/s3y3vcno/production/b5c969ee70de7444f1035edf7701cc88d16ae253-3000x2001.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
     "summary": "Bitcoin is experiencing choppy trading, showing some resilience amidst a challenging macroeconomic environment characterized by $90 oil prices, rising bond yields, and a firm dollar. These factors are generally weighing down traditional assets like stocks and gold, but Bitcoin's performance is being specifically observed in this context.",
+    "importance": 3,
+    "classified": true
+  },
+  {
+    "title": "Michigan court orders Kalshi to keep blocking sports prediction markets",
+    "link": "https://www.theblock.co/news/regulation/2026-09-03-michigan-court-orders-kalshi-sports-prediction-markets-413422",
+    "pubDate": "Thu, 03 Sep 2026 04:30:32 +0000",
+    "source": "The Block",
+    "category": "crypto",
+    "content": "The injunction converts a temporary restraining order issued in June, and violations would result in a fine of $500,000 per day.",
+    "image": "https://www.tbstat.com/wp/uploads/2025/09/20250917_Kalshi_News-1200x675.jpg",
+    "summary": "A Michigan court has issued an injunction ordering Kalshi to continue blocking sports prediction markets. This converts a temporary restraining order from June, and any violations will incur a daily fine of $500,000.",
     "importance": 3,
     "classified": true
   },
