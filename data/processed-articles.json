@@ -1,5 +1,29 @@
 [
   {
+    "title": "Live updates: Bitcoin ETFs take $731 million, their biggest day since January",
+    "link": "https://www.coindesk.com/business/2026/09/04/live-updates-bitcoin-etfs-take-usd731-million-their-biggest-day-since-january",
+    "pubDate": "Fri, 04 Sep 2026 07:34:07 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "Every fund in the complex rose almost 6% on Thursday and net assets crossed $103 billion for the first time. BlackRock's IBIT accounted for well over half the money.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/4f4026bacc3bff27d53812946dd3e1d5513fff7f-1398x786.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "Bitcoin ETFs recorded their biggest single-day inflow since January, attracting $731 million on Thursday. All funds within the complex rose nearly 6%, pushing net assets past $103 billion for the first time, with BlackRock's IBIT accounting for over half the new money.",
+    "importance": 9,
+    "classified": true
+  },
+  {
+    "title": "OpenAI puts $1 billion behind cyber defense after unveiling AI that can find zero-days",
+    "link": "https://www.coindesk.com/tech/2026/09/04/openai-puts-usd1-billion-behind-cyber-defense-after-unveiling-ai-that-can-find-zero-days",
+    "pubDate": "Fri, 04 Sep 2026 05:49:43 +0000",
+    "source": "CoinDesk",
+    "category": "ai",
+    "content": "The company is subsidizing access to its Daybreak security platform after saying Astra can independently find previously unknown software flaws and turn them into working attacks.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/d2b4b82edc6ff0637b37466e20cadf90ebe36839-1920x1280.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "OpenAI is investing $1 billion into cyber defense by subsidizing access to its Daybreak security platform. This initiative follows the unveiling of Astra, an AI model capable of independently discovering previously unknown software vulnerabilities (zero-days) and turning them into working attacks. This signifies a major advancement in AI's capabilities within cybersecurity.",
+    "importance": 9,
+    "classified": true
+  },
+  {
     "title": "Standard Chartered brings spot crypto trading to Dubai FX platform",
     "link": "https://www.coindesk.com/business/2026/09/03/standard-chartered-first-top-global-bank-to-offer-bitcoin-and-ether-trading-in-uae",
     "pubDate": "Thu, 03 Sep 2026 15:58:02 +0000",
@@ -96,6 +120,18 @@
     "classified": true
   },
   {
+    "title": "U.S. banking agency gives blockchain bank OpenReserve initial OK to operate",
+    "link": "https://www.coindesk.com/policy/2026/09/03/u-s-banking-agency-gives-blockchain-bank-openreserve-initial-ok-to-operate",
+    "pubDate": "Fri, 04 Sep 2026 03:26:50 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "The Office of the Comptroller of the Currency granted a provisional charter to the new full-service bank, adding it to the growing mix of crypto-native institutions.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/7150e9147434709d0f26c49d26f21b2219558bef-2803x1577.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "The Office of the Comptroller of the Currency has granted a provisional charter to OpenReserve, a new full-service blockchain bank. This approval marks another step in the regulatory acceptance and expansion of crypto-native financial institutions in the U.S. banking system.",
+    "importance": 8,
+    "classified": true
+  },
+  {
     "title": "SoFi, Kraken tie up as crypto and banking push into each other's turf",
     "link": "https://www.coindesk.com/business/2026/09/03/sofi-kraken-tie-up-as-crypto-and-banking-push-into-each-other-s-turf",
     "pubDate": "Thu, 03 Sep 2026 12:00:00 +0000",
@@ -144,26 +180,14 @@
     "classified": true
   },
   {
-    "title": "CrowdStrike and federal authorities dismantle Russian malware that secretly stole crypto for 8 years",
-    "link": "https://www.coindesk.com/tech/2026/09/02/crowdstrike-and-federal-authorities-dismantle-russian-malware-that-secretly-stole-crypto-for-8-years",
-    "pubDate": "Wed, 02 Sep 2026 13:14:47 +0000",
-    "source": "CoinDesk",
+    "title": "Bitcoin ETF inflows hit $731M, highest since January as BTC reclaims $80K",
+    "link": "https://cointelegraph.com/markets/bitcoin-etf-draw-731-million-highest-january-btc-80k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Fri, 04 Sep 2026 07:37:13 +0000",
+    "source": "Cointelegraph",
     "category": "crypto",
-    "content": "Russia-based Sality watched for copied bitcoin and Ethereum addresses and quietly replaced them with the attacker’s. CrowdStrike and law enforcement have now isolated more than 15,000 infected machines.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/43bcebed4b4df55c6cef38bae8e8969d1a077019-1500x1000.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "CrowdStrike and federal authorities have dismantled the Russian Sality malware, which secretly stole Bitcoin and Ethereum for eight years by replacing copied cryptocurrency addresses. Over 15,000 infected machines have been isolated as a result of this operation.",
-    "importance": 8,
-    "classified": true
-  },
-  {
-    "title": "The token supercycle: everything of value is becoming programmable",
-    "link": "https://www.coindesk.com/opinion/2026/09/02/the-token-supercycle-everything-of-value-is-becoming-programmable",
-    "pubDate": "Wed, 02 Sep 2026 13:00:00 +0000",
-    "source": "CoinDesk",
-    "category": "both",
-    "content": "Tokenization is not just about increasing access to tokens, whatever they may represent, but a fundamental shift in how value is created, owned, financed and moved, argues Solana Foundation’s Lily Liu.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/436253b5496708d8dc3a743f0f035ee3c2284db4-5700x3800.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "Solana Foundation’s Lily Liu argues that tokenization represents a fundamental shift in how value is created, owned, financed, and transferred, extending beyond mere access to tokens. This concept, termed the 'token supercycle,' suggests that nearly all assets will become programmable.",
+    "content": "US Bitcoin ETFs drew $730.9 million on Thursday as Bitcoin reclaimed $80,000, though CryptoQuant flagged weak fresh demand and a key $83,000 test.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1NJXA13RF9N1Q13C8RH5D6G/surfing-blockchain-wave-etf-1.jpg",
+    "summary": "US Bitcoin ETFs recorded $730.9 million in inflows on Thursday, the highest since January, as Bitcoin's price climbed to $80,000. Despite this surge, analytics firm CryptoQuant noted weak fresh demand and highlighted $83,000 as a key resistance level to watch.",
     "importance": 8,
     "classified": true
   },
@@ -212,18 +236,6 @@
     "content": "Wyoming is using Chainlink to bring near-real-time reserve verification onchain for FRNT as the oracle provider expands its footprint across tokenized financial markets.",
     "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1HMS4JRWZ5GYFS8E74WQ8XR/hi-wyoming-crypto.jpg",
     "summary": "Wyoming has integrated Chainlink's oracle services to enable near-real-time reserve verification for its state-issued stablecoin, FRNT, enhancing transparency and trust in the token's backing. This move expands Chainlink's role in tokenized financial markets, particularly in regulated stablecoin ecosystems.",
-    "importance": 8,
-    "classified": true
-  },
-  {
-    "title": "Thai businessmen sue Tether for freezing $42M in $61M pig butchering case",
-    "link": "https://cointelegraph.com/news/thai-sue-tether-freezing-61m-pig-butchering-case?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Wed, 02 Sep 2026 12:00:00 +0000",
-    "source": "Cointelegraph",
-    "category": "crypto",
-    "content": "The plaintiffs didn’t dispute their involvement in the pig butchering scam, but claimed that Tether did not have the authority to freeze the $42 million at the time.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1GZE23FCTZPM7XCYNR7Q35B/hi-how-pig-butchering-crypto-scams-turn-trust-into-a-financial-weapon.jpg",
-    "summary": "Thai businessmen are suing Tether, alleging that the stablecoin issuer lacked the authority to freeze $42 million linked to a $61 million \"pig butchering\" scam, despite the plaintiffs admitting their involvement in the scam. The lawsuit challenges Tether's power to unilaterally freeze assets.",
     "importance": 8,
     "classified": true
   },
@@ -432,6 +444,30 @@
     "classified": true
   },
   {
+    "title": "Bitcoin back above $81,000 as hike odds fade, Zcash leads with 15% jump",
+    "link": "https://www.coindesk.com/markets/2026/09/04/bitcoin-back-above-usd81-000-as-hike-odds-fade-zcash-leads-with-15-jump",
+    "pubDate": "Fri, 04 Sep 2026 04:22:01 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "Every major token gained on Friday as traders cut bets on a September Federal Reserve rate increase to a coin flip, though most of the majors are barely changed on the week.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/87d59e70eebb3f155812d7ca7361ed0768fb1a2e-1504x834.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "Bitcoin surpassed $81,000 and Zcash saw a 15% increase, leading a broad rally among major tokens on Friday. This surge was driven by traders reducing their expectations for a Federal Reserve rate hike in September, though most tokens showed minimal weekly change.",
+    "importance": 7,
+    "classified": true
+  },
+  {
+    "title": "AMC CEO blasts Robinhood for stock token, putting synthetic shares in spotlight",
+    "link": "https://www.coindesk.com/business/2026/09/03/amc-ceo-blasts-robinhood-for-stock-token-putting-synthetic-shares-in-spotlight",
+    "pubDate": "Fri, 04 Sep 2026 03:03:25 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "Adam Aron said AMC has no connection to Robinhood’s tokenized shares, reviving questions around how stocks are brought onchain.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/38cd2b70cdca484bd9ec02cc2f08f9f8d4a1c857-2560x1707.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "AMC CEO Adam Aron publicly criticized Robinhood for issuing tokenized AMC shares, clarifying that AMC has no involvement with these synthetic assets. This event reignites discussions and questions surrounding the methods by which traditional stocks are brought onto the blockchain.",
+    "importance": 7,
+    "classified": true
+  },
+  {
     "title": "A memecoin making app becomes crypto’s top fee generators as Robinhood Chain activity explodes",
     "link": "https://www.coindesk.com/tech/2026/09/03/a-memecoin-making-app-becomes-crypto-s-top-fee-generators-as-robinhood-chain-activity-explodes",
     "pubDate": "Thu, 03 Sep 2026 14:51:39 +0000",
@@ -524,18 +560,6 @@
     "content": "Adding Massachusetts incumbent Auchincloss to the list of winning primary candidates Fairshake supported, the industry's influence moves on to November.",
     "image": "https://cdn.sanity.io/images/s3y3vcno/production/f2ac925a7a768a3a034001f0cf6c3ecdc6749b81-4000x2250.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
     "summary": "Crypto-backed candidates, including Massachusetts incumbent Auchincloss, successfully won their U.S. primaries, demonstrating the industry's growing political influence. The cryptocurrency industry is now shifting its focus and resources towards the upcoming general election in November.",
-    "importance": 7,
-    "classified": true
-  },
-  {
-    "title": "Crypto Long & Short: Crypto VCs are mistaking consensus for discipline",
-    "link": "https://www.coindesk.com/coindesk-indices/2026/09/02/crypto-long-and-short-crypto-vcs-are-mistaking-consensus-for-discipline",
-    "pubDate": "Wed, 02 Sep 2026 15:15:02 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "In this week's Crypto Long & Short, Varun Datta of Truth Ventures writes that crypto venture capital's retreat to later-stage deals is a consensus trade dressed as discipline. With proven companies taking 57% of last quarter's capital, he argues the founding-stage gap is where the returns are, and lays out three things to look for.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/b88cc3bb0be5078f6fee0948dd9408a814ffa0c2-1920x1280.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "Varun Datta of Truth Ventures argues that crypto venture capital's current retreat to later-stage deals is a 'consensus trade' rather than true discipline. He contends that with proven companies dominating 57% of last quarter's capital, the genuine returns for VCs are now in the founding-stage gap, for which he outlines key investment criteria.",
     "importance": 7,
     "classified": true
   },
@@ -776,18 +800,6 @@
     "content": "Full Sail is shutting down after an attacker removed about $91,000 from three vaults during a security incident linked to oracle provider Switchboard.",
     "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1H2YME5WK16MEE643RQSSVQ/layoffs-fired-human-resource-hr-leaving-quit-closing-breaking-news-3.jpg",
     "summary": "Full Sail, a DeFi protocol on the Sui blockchain, is shutting down after a security incident where an attacker stole approximately $91,000 from three vaults due to an issue with oracle provider Switchboard.",
-    "importance": 7,
-    "classified": true
-  },
-  {
-    "title": "Hashkey joins DTCC working group as first Asian crypto service provider",
-    "link": "https://cointelegraph.com/news/hashkey-dtcc-first-asian-crypto-service-provider?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Wed, 02 Sep 2026 13:11:25 +0000",
-    "source": "Cointelegraph",
-    "category": "crypto",
-    "content": "Hashkey joined the DTCC’s working group on tokenization innovation as the first Asian crypto service provider to join with over 100 financial institutions, including Goldman Sachs and JPMorgan.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1H3JQK56T4TK5037VBE2WN3/south-korea.jpg",
-    "summary": "Hashkey has joined the DTCC’s working group on tokenization innovation as the first Asian crypto service provider, alongside over 100 major financial institutions like Goldman Sachs and JPMorgan.",
     "importance": 7,
     "classified": true
   },
@@ -1164,18 +1176,6 @@
     "classified": true
   },
   {
-    "title": "PSA: Amazon’s shopping AI can now tell you if that message is a scam",
-    "link": "https://techcrunch.com/2026/09/02/psa-amazons-shopping-ai-can-now-tell-you-if-that-message-is-a-scam/",
-    "pubDate": "Wed, 02 Sep 2026 14:56:34 +0000",
-    "source": "TechCrunch AI",
-    "category": "ai",
-    "content": "Amazon is adding a scam-detection feature to Alexa for Shopping that can verify whether suspicious emails, texts, and other messages actually came from the retailer.",
-    "image": "",
-    "summary": "Amazon has introduced a scam-detection feature in Alexa for Shopping that checks if suspicious messages claiming to be from Amazon are legitimate. This tool aims to protect users from phishing attempts and fraudulent communications.",
-    "importance": 7,
-    "classified": true
-  },
-  {
     "title": "Google says its new Gemini 3.8 Flash model ‘works harder’ but might cost more",
     "link": "https://www.theverge.com/ai-artificial-intelligence/988742/google-gemini-3-8-flash",
     "pubDate": "2026-09-02T20:11:40.000Z",
@@ -1320,50 +1320,14 @@
     "classified": true
   },
   {
-    "title": "The bearish 'Bart Simpson' pattern is back as bitcoin and XRP prices pull back",
-    "link": "https://www.coindesk.com/markets/2026/09/02/bitcoin-flashes-the-bart-simpsom-pattern-analyst-debate-whether-it-will-actually-form",
-    "pubDate": "Wed, 02 Sep 2026 12:13:26 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "Analysts discuss the cartoon-themed price action as prices for major cryptocurrencies wilt.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/f69fa0bc88e86f0ab8dc2282250de8a3ebe2f5d4-1920x1040.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "Analysts are discussing a 'Bart Simpson pattern' as major cryptocurrency prices, including Bitcoin and XRP, experience pullbacks. This cartoon-themed price action suggests a specific market trend where prices rise sharply, stay flat, and then fall sharply.",
-    "importance": 6,
-    "classified": true
-  },
-  {
-    "title": "Capital B aims to add 376 BTC to bitcoin treasury following $8.8 million Adam Back investment",
-    "link": "https://www.coindesk.com/business/2026/08/29/capital-b-aims-to-add-376-btc-to-bitcoin-treasury-following-usd8-8-million-adam-back-investment",
-    "pubDate": "Wed, 02 Sep 2026 11:45:16 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "The Euronext Growth Paris-listed firm issued 13,181,030 shares with four warrants each at 58 euro cents per share, according to a filing on Wednesday.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/eb1213d697ee4f34dc50df438335bf53f4cf7d50-4498x3000.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "Capital B aims to add 376 BTC to its bitcoin treasury following an $8.8 million investment from Adam Back. The Euronext Growth Paris-listed firm achieved this by issuing 13,181,030 shares with four warrants each at 58 euro cents per share.",
-    "importance": 6,
-    "classified": true
-  },
-  {
     "title": "Here’s what happened in crypto today",
     "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Thu, 03 Sep 2026 20:30:14 +0000",
+    "pubDate": "Fri, 04 Sep 2026 06:22:29 +0000",
     "source": "Cointelegraph",
     "category": "crypto",
     "content": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
     "image": "https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg",
     "summary": "This article provides a summary of the latest news and trends in the crypto space, covering Bitcoin price, blockchain, DeFi, Web3, and crypto regulation. It aims to keep readers updated on daily events impacting the cryptocurrency market. The article appears to be a general overview of the current state of the crypto industry.",
-    "importance": 6,
-    "classified": true
-  },
-  {
-    "title": "BTC will hit $1M by 2030... but Arthur Hayes is buying ETH instead ",
-    "link": "https://cointelegraph.com/magazine/btc-will-hit-1m-by-2030-but-arthur-hayes-is-buying-eth-instead?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Wed, 02 Sep 2026 13:30:00 +0000",
-    "source": "Cointelegraph",
-    "category": "crypto",
-    "content": "Arthur Hayes says Bitcoin is going to grind higher from here, but Ethereum is his number one pick due to its potential to increase “3x to 5x pretty quickly.”",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1FNPVV54PCXHCZQHZ8DRZWN/arthur.webp",
-    "summary": "Arthur Hayes predicts Bitcoin will rise significantly by 2030 but favors Ethereum due to its potential for a 3x to 5x increase. He believes ETH's growth could outpace BTC's in the near term.",
     "importance": 6,
     "classified": true
   },
@@ -1510,6 +1474,39 @@
     "summary": "Payward, the parent company of Kraken, has postponed its IPO plans to no earlier than Q2 2027, citing challenging market conditions. The company had initially filed confidentially for a U.S. listing in November 2023.",
     "importance": 5,
     "classified": true
+  },
+  {
+    "title": "El Salvador’s post-review Bitcoin accumulation used no public funds: IMF",
+    "link": "https://cointelegraph.com/news/el-salvador-bitcoin-private-donations-imf?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Fri, 04 Sep 2026 06:16:35 +0000",
+    "source": "Cointelegraph",
+    "category": "crypto",
+    "content": "The IMF attributed Bitcoin added since June 2025 to private donations, addressing questions raised after El Salvador reported a $100 million acquisition.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1NGYSVS43N7A248K7QYWTY9/yacht-boat",
+    "summary": "",
+    "importance": 5
+  },
+  {
+    "title": "US, UK launch joint alliance targeting crypto scam centers",
+    "link": "https://cointelegraph.com/news/us-uk-joint-alliance-crypto-scam-centers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Fri, 04 Sep 2026 04:33:55 +0000",
+    "source": "Cointelegraph",
+    "category": "crypto",
+    "content": "The agreement includes parallel investigations and information sharing, with US and UK authorities planning a private-sector disruption operation in London in October.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1NB3D2EEQMKVH8E9QFSYFWH/hi-anti-pig-butchering-policy-in-crypto-cambodia.png",
+    "summary": "",
+    "importance": 5
+  },
+  {
+    "title": "The sameness problem behind those unappetizing AI-generated menus",
+    "link": "https://techcrunch.com/2026/09/03/the-sameness-problem-behind-those-unappetizing-ai-generated-menus/",
+    "pubDate": "Fri, 04 Sep 2026 04:21:03 +0000",
+    "source": "TechCrunch AI",
+    "category": "ai",
+    "content": "While restaurant owners might look to generative AI as a shortcut to sprucing up their menu, customers can viscerally sense that something is wrong with the food.",
+    "image": "",
+    "summary": "",
+    "importance": 5
   },
   {
     "title": "Google now lets you chat with Gmail, Docs, and Keep",
@@ -1675,6 +1672,18 @@
     "classified": true
   },
   {
+    "title": "One full bitcoin now buys a little more than 18 ounces of gold, the most since January",
+    "link": "https://www.coindesk.com/markets/2026/09/04/one-full-bitcoin-now-buys-a-little-more-than-18-ounces-of-gold-the-most-since-january",
+    "pubDate": "Fri, 04 Sep 2026 05:10:34 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "Bitcoin is pulling ahead of gold even as both hard assets rally together, driven by fears that governments will inflate away their debt rather than by bond yields.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/4f043d332f866a0caec6c3e16fd6913c453ca418-2854x1488.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "Bitcoin is currently outperforming gold, with one bitcoin now able to purchase over 18 ounces of gold, a level not seen since January. Both hard assets are rallying due to growing fears that governments will inflate away their debt.",
+    "importance": 3,
+    "classified": true
+  },
+  {
     "title": "Michigan court orders Kalshi to keep blocking sports prediction markets",
     "link": "https://www.theblock.co/news/regulation/2026-09-03-michigan-court-orders-kalshi-sports-prediction-markets-413422",
     "pubDate": "Thu, 03 Sep 2026 04:30:32 +0000",
@@ -1707,18 +1716,6 @@
     "content": "Your day-ahead look for Sept. 3, 2026",
     "image": "https://cdn.sanity.io/images/s3y3vcno/production/e9cece00af9ea3fd353ddf4d1516036ee006ff55-1920x1280.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
     "summary": "The article's title suggests a new method for interpreting bond yields in FX markets and advocates for Bitcoin to adopt a similar approach. However, the provided content is only a placeholder indicating a 'day-ahead look' for September 3, 2026, offering no further details on these market analysis changes.",
-    "importance": 1,
-    "classified": true
-  },
-  {
-    "title": "A Fed rate increase would be a mistake, some observers say as bitcoin, gold, stocks fall",
-    "link": "https://www.coindesk.com/daybook-us/2026/09/02/a-fed-rate-increase-would-be-a-mistake-some-observers-say-as-bitcoin-gold-stocks-fall",
-    "pubDate": "Wed, 02 Sep 2026 11:14:58 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "Your day-ahead look for Sept. 2, 2026",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/86094ea78f944f140cc21b29434392b1d1380382-1920x1080.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "This piece, presented as a day-ahead look for September 2, 2026, features a title suggesting that a Federal Reserve rate increase would be a mistake. It notes that observers believe such a move is impacting markets, including bitcoin, gold, and stocks, which are currently falling.",
     "importance": 1,
     "classified": true
   }
