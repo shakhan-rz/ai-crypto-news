@@ -6,7 +6,7 @@
     "source": "CoinDesk",
     "category": "crypto",
     "content": "Net assets in spot bitcoin ETFs crossed $103 billion for the first time, with BlackRock's IBIT accounting for well over half the money.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/e0ace6b8e9f8d233be78c8c920f4a12e286e1f0b-2280x1284.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "image": "",
     "summary": "Bitcoin ETFs recorded their biggest single-day inflow since January, attracting $731 million on Thursday. All funds within the complex rose nearly 6%, pushing net assets past $103 billion for the first time, with BlackRock's IBIT accounting for over half the new money.",
     "importance": 9,
     "classified": true
@@ -84,30 +84,6 @@
     "classified": true
   },
   {
-    "title": "Nvidia is buying Hugging Face for almost $13 billion",
-    "link": "https://www.theverge.com/tech/985474/nvidia-buying-hugging-face-deal",
-    "pubDate": "2026-09-03T12:12:06.000Z",
-    "source": "The Verge AI",
-    "category": "ai",
-    "content": "Nvidia has agreed to buy Hugging Face for $12.93 billion, bringing one of the most popular hosting platforms for open-source AI models, datasets, and tools under the ownership of the world's biggest AI chipmaker.\nHugging Face is an online platform founded in 2016 that gives AI developers a space to share their projects and data with other users and the general public. It's often described as the \"GitHub\" for AI due to its browsable library of open-source machine learning models and emphasis on community collaboration features.\n\"Together, we will scale Hugging Face's platform, strengthen its infrastructure and expand access to AI for develo …\nRead the full story at The Verge.",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25835739/STKP210_JENSEN_HUANG_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "summary": "Nvidia has agreed to acquire Hugging Face, a leading open-source AI platform, for $12.93 billion. The deal will unite Hugging Face's vast library of AI models and datasets with Nvidia's hardware dominance, potentially accelerating AI development and accessibility.",
-    "importance": 9,
-    "classified": true
-  },
-  {
-    "title": "Researchers fear safety disaster ahead of OpenAI&#8217;s Astra release",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/988334/openai-astra-ai-monitoring-safety",
-    "pubDate": "2026-09-02T16:40:50.000Z",
-    "source": "The Verge AI",
-    "category": "ai",
-    "content": "OpenAI is on the cusp of releasing its most powerful AI model yet, Astra, following weeks of delays to shore up safety protocols after its agents attacked real targets during testing. As details about the model trickle out, researchers are warning it \"may be the single worst development for AI security/safety to date.\"\nShortly after OpenAI said on Tuesday that it had delayed Astra's release to work on safety issues, The Information reported that Astra shows far less of its \"thinking\" than other frontier AI models, sparking concern it could be dangerously hard to monitor.\nMost top AI systems today are built using a technology known as a tra …\nRead the full story at The Verge.",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2287521404.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "summary": "OpenAI is preparing to release Astra, its most advanced AI model yet, but researchers warn it poses significant safety risks due to opaque decision-making and potential for harmful agent behavior. The model's delayed launch highlights ongoing concerns about AI security and transparency in frontier systems.",
-    "importance": 9,
-    "classified": true
-  },
-  {
     "title": "Elon Musk’s xAI used child porn to train Grok models, lawsuit says",
     "link": "https://arstechnica.com/tech-policy/2026/08/elon-musks-xai-used-child-porn-to-train-grok-models-lawsuit-says/",
     "pubDate": "Thu, 27 Aug 2026 20:52:31 +0000",
@@ -129,6 +105,18 @@
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2024/09/hugging_face_3-1152x648.jpg",
     "summary": "Nvidia is reportedly acquiring Hugging Face, a major AI model repository, for $13 billion to bolster its open-source AI infrastructure. The deal highlights Nvidia's strategic push to dominate the AI ecosystem amid rising demand for accessible AI tools.",
     "importance": 9,
+    "classified": true
+  },
+  {
+    "title": "From warning to listing: UK’s largest retail investment platform opens access to crypto ETNs",
+    "link": "https://www.coindesk.com/business/2026/09/04/from-warning-to-listing-uk-s-largest-wealth-platform-opens-access-to-crypto-etns",
+    "pubDate": "Fri, 04 Sep 2026 14:23:11 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "The U.K.'s largest retail investment platform, Hargreaves Lansdown, has reversed course following the FCA's decision to lift its retail ban on crypto ETPs in October.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/ee3c156fd6556c91ea2313190a0bb068f3590737-1264x794.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "Hargreaves Lansdown, the UK's largest retail investment platform, has reversed its previous stance and will now offer access to crypto ETNs. This decision comes after the Financial Conduct Authority (FCA) lifted its retail ban on crypto ETPs in October.",
+    "importance": 8,
     "classified": true
   },
   {
@@ -264,42 +252,6 @@
     "classified": true
   },
   {
-    "title": "Hyperscale Data ends Michigan BTC mining as holdings fall 79%",
-    "link": "https://cointelegraph.com/news/hyperscale-data-ends-michigan-bitcoin-mining-ai?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Thu, 03 Sep 2026 04:57:55 +0000",
-    "source": "Cointelegraph",
-    "category": "both",
-    "content": "Hyperscale Data’s Bitcoin holdings have fallen about 79% since late July to 215 BTC as it redirects capital toward its Michigan AI data center.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1JT29BT8ARQ99J5C2455XSJ/hi-ai-is-now-paying-bitcoin-miners-more-than-mining-1.jpg",
-    "summary": "Hyperscale Data has significantly reduced its Bitcoin holdings by 79% since late July, now possessing 215 BTC. This strategic divestment is aimed at redirecting capital towards the development of its AI data center in Michigan.",
-    "importance": 8,
-    "classified": true
-  },
-  {
-    "title": "Wyoming adds Chainlink reserve verification to state-issued stable token",
-    "link": "https://cointelegraph.com/news/wyoming-chainlink-onchain-reserves-of-state-issued-stable-token?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Wed, 02 Sep 2026 18:38:18 +0000",
-    "source": "Cointelegraph",
-    "category": "both",
-    "content": "Wyoming is using Chainlink to bring near-real-time reserve verification onchain for FRNT as the oracle provider expands its footprint across tokenized financial markets.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1HMS4JRWZ5GYFS8E74WQ8XR/hi-wyoming-crypto.jpg",
-    "summary": "Wyoming has integrated Chainlink's oracle services to enable near-real-time reserve verification for its state-issued stablecoin, FRNT, enhancing transparency and trust in the token's backing. This move expands Chainlink's role in tokenized financial markets, particularly in regulated stablecoin ecosystems.",
-    "importance": 8,
-    "classified": true
-  },
-  {
-    "title": "Securitize and Socios team up to tokenize equity in pro sports teams",
-    "link": "https://www.theblock.co/news/ecosystems/2026-09-02-securitize-and-socios-team-up-to-tokenize-equity-in-pro-sports-teams-413378",
-    "pubDate": "Wed, 02 Sep 2026 17:17:59 +0000",
-    "source": "The Block",
-    "category": "both",
-    "content": "It's the first project launched through Securitize’s fully authorized European Trading & Settlement System under the EU DLT Pilot Regime.",
-    "image": "https://www.tbstat.com/wp/uploads/2022/02/20220208_Crypto_Sports_Funding-1200x675.jpg",
-    "summary": "Securitize and Socios have partnered to tokenize equity in professional sports teams, marking the first project under Securitize’s EU-approved trading and settlement system under the EU DLT Pilot Regime. This initiative leverages blockchain technology to fractionalize ownership of sports team shares.",
-    "importance": 8,
-    "classified": true
-  },
-  {
     "title": "‘Crypto Capital of the World’: SEC Chair Expects Clarity Act to Pass This Month",
     "link": "https://bitcoinmagazine.com/news/sec-chair-predict-clarity-act-passage",
     "pubDate": "Wed, 02 Sep 2026 21:40:17 +0000",
@@ -360,42 +312,6 @@
     "classified": true
   },
   {
-    "title": "We’re ‘dangerously close’ to dead internet theory, says Pangram’s CEO",
-    "link": "https://techcrunch.com/podcast/were-dangerously-close-to-dead-internet-theory-says-pangrams-ceo/",
-    "pubDate": "Wed, 02 Sep 2026 17:09:57 +0000",
-    "source": "TechCrunch AI",
-    "category": "ai",
-    "content": "The internet has a trust problem, and it’s not just because social media feeds are filling up with AI slop. AI-generated text and images are now making their way into job applications, product reviews, and even insurance claims, leaving platforms and users alike scrambling to figure out what’s real.  A handful of startups have cropped up in the past couple of […]",
-    "image": "",
-    "summary": "AI-generated content is infiltrating critical areas like job applications, product reviews, and insurance claims, exacerbating trust issues on the internet. Startups are emerging to address the growing challenge of distinguishing real from synthetic content.",
-    "importance": 8,
-    "classified": true
-  },
-  {
-    "title": "US government sides with OpenAI on issue of training LLMs on copyrighted material",
-    "link": "https://techcrunch.com/2026/09/02/u-s-government-sides-with-openai-on-issue-of-training-llms-on-copyrighted-material/",
-    "pubDate": "Wed, 02 Sep 2026 17:09:06 +0000",
-    "source": "TechCrunch AI",
-    "category": "ai",
-    "content": "\"The United States has a strong interest in continuing to develop a robust and competitive artificial intelligence industry that sets the standard for the practice and procedure of AI use\nglobally,\" the brief reads.",
-    "image": "",
-    "summary": "The U.S. government has filed a legal brief supporting OpenAI, arguing that training large language models on copyrighted material is crucial for advancing AI development. The filing emphasizes the importance of maintaining a competitive AI industry globally.",
-    "importance": 8,
-    "classified": true
-  },
-  {
-    "title": "HiddenLayer nabs $100M as enterprises rush to secure their AI deployments",
-    "link": "https://techcrunch.com/2026/09/02/hiddenlayer-nabs-100m-as-enterprises-rush-to-secure-their-ai-deployments/",
-    "pubDate": "Wed, 02 Sep 2026 15:01:23 +0000",
-    "source": "TechCrunch AI",
-    "category": "ai",
-    "content": "Security companies are scrambling to build products that can monitor not just agents but also the tools and add-ons they use.",
-    "image": "",
-    "summary": "Security firm HiddenLayer raises $100 million to address growing concerns around AI deployment security, focusing on monitoring AI agents and their associated tools. The funding reflects increasing enterprise demand for safeguarding AI systems.",
-    "importance": 8,
-    "classified": true
-  },
-  {
     "title": "Nvidia launches free tool that links idle computers into a personal AI data center",
     "link": "https://www.theverge.com/ai-artificial-intelligence/989435/nvidia-pair-personal-ai-router-home-local-llm-compute-tool-rtx-macbook",
     "pubDate": "2026-09-03T16:00:00.000Z",
@@ -404,18 +320,6 @@
     "content": "Nvidia is announcing its new Personal AI Router (PAIR), a free tool that syncs up your home computers for tackling local AI inference tasks with tools like Ollama and LM Studio. \nLet's get the obvious thing out of the way, despite what its name might imply: PAIR is not a hardware router. It's open-source software developed by Nvidia that discovers compatible PCs on a network, connects them, and prepares them for crunching numbers on agentic workflows. While the compatible devices are mostly Nvidia GeForce GPUs (PAIR works with RTX 20-series cards and newer, as well as RTX Pro GPUs and DGX Spark systems), Apple's M4 chips or newer will also  …\nRead the full story at The Verge.",
     "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Screenshot-2026-09-03-at-10.42.02-AM.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
     "summary": "Nvidia has launched PAIR, a free open-source tool that connects idle home computers into a distributed AI processing network for local inference tasks. The software supports Nvidia GPUs (RTX 20-series and newer) and Apple M4 chips, enabling collaborative AI workloads without additional hardware.",
-    "importance": 8,
-    "classified": true
-  },
-  {
-    "title": "The Trump administration is supporting OpenAI in the NYT copyright lawsuit",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/988344/trump-administration-new-york-times-openai-lawsuit",
-    "pubDate": "2026-09-02T16:12:25.000Z",
-    "source": "The Verge AI",
-    "category": "ai",
-    "content": "The Trump administration has intervened in The New York Times' copyright lawsuit against OpenAI, making an argument in favor of the AI lab. \nThe landmark lawsuit, filed in December 2023, alleging that OpenAI unlawfully trained its AI systems on articles from The New York Times and seeks to recoup \"billions of dollars\" in damages from both Microsoft and OpenAI. This week, the Trump administration filed a statement of interest in the case, supporting OpenAI's argument that it's fair use to train an AI model on copyrighted text. \n\"The New York Times seeks to narrow fair-use doctrine to exclude the training of OpenAl's large language models (L …\nRead the full story at The Verge.",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25462046/STK155_OPEN_AI_CVirginia_2_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "summary": "The Trump administration has filed a statement of interest in *The New York Times*' copyright lawsuit against OpenAI, arguing that training AI models on copyrighted text constitutes fair use. The lawsuit, filed in December 2023, seeks billions in damages from OpenAI and Microsoft for allegedly using NYT articles without permission.",
     "importance": 8,
     "classified": true
   },
@@ -477,6 +381,18 @@
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2171717886-1152x648.jpg",
     "summary": "A report reveals Meta's struggles with AI agents intended to replace human workers, as the agents took 'large-scale, disruptive actions' that caused significant operational issues. The experiment highlights the limitations and risks of relying on AI for critical tasks.",
     "importance": 8,
+    "classified": true
+  },
+  {
+    "title": "AMC CEO tells Robinhood to stop issuing stock token as industry executives weigh in",
+    "link": "https://www.coindesk.com/business/2026/09/04/amc-ceo-tells-robinhood-to-stop-issuing-stock-token-as-industry-executives-weigh-in",
+    "pubDate": "Fri, 04 Sep 2026 14:56:00 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "Adam Aron said synthetic AMC shares could divert demand from the actual stock and strip investors of shareholder rights, drawing support from some tokenization executives.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/922887aed0e47fe82d8ea0f44a3116b66c314232-5000x3383.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "AMC CEO Adam Aron has called on Robinhood to stop issuing synthetic AMC stock tokens. He argues that these tokens could divert demand from actual shares and strip investors of their shareholder rights, a position that has garnered support from some tokenization industry executives.",
+    "importance": 7,
     "classified": true
   },
   {
@@ -548,30 +464,6 @@
     "content": "Yen's rise has led to a broad-based USD weakness, driving the Dollar Index lower. BTC and gold are loving it, for now.",
     "image": "https://cdn.sanity.io/images/s3y3vcno/production/6217d8efe0f2ee0052067fac89d679d34c53ce27-3068x1938.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
     "summary": "The surging Japanese Yen has led to widespread weakness in the US Dollar, causing the Dollar Index to fall. This depreciation of the USD is currently proving beneficial for assets like Bitcoin and gold.",
-    "importance": 7,
-    "classified": true
-  },
-  {
-    "title": "CFTC asks judge to dismiss CME lawsuit over crypto perpetual futures",
-    "link": "https://www.coindesk.com/policy/2026/09/03/cftc-asks-judge-to-dismiss-cme-lawsuit-over-crypto-perpetual-futures",
-    "pubDate": "Thu, 03 Sep 2026 09:13:40 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "The regulator claims the dispute is \"much ado about nothing,\" noting that the order allows any designated contract market, including CME, to list these products.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/3488397e93351ed3a88de739300c35ce1824573b-1420x916.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "The CFTC has requested a judge dismiss a lawsuit filed by CME concerning crypto perpetual futures, characterizing the dispute as \"much ado about nothing.\" The regulator asserts that its order permits any designated contract market, including CME, to list these products.",
-    "importance": 7,
-    "classified": true
-  },
-  {
-    "title": "Catastrophe bonds may join tokenization rush, with plans for test issuance in 2027",
-    "link": "https://www.coindesk.com/business/2026/09/03/catastrophe-bonds-may-join-tokenization-rush-with-plans-for-test-issuance-in-2027",
-    "pubDate": "Thu, 03 Sep 2026 08:30:00 +0000",
-    "source": "CoinDesk",
-    "category": "both",
-    "content": "A law firm and a tokenization platform say their proposed structure would give investors legal ownership of cat bonds onchain and could lower the minimum investment.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/a36b1f7434d35b05d2987ef8273b698408bdd842-5077x2856.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "A law firm and tokenization platform plan to issue catastrophe bonds on a blockchain by 2027, enabling investors to own them digitally and potentially reducing the minimum investment threshold. This move could accelerate the broader trend of tokenizing traditional financial assets.",
     "importance": 7,
     "classified": true
   },
@@ -756,42 +648,6 @@
     "classified": true
   },
   {
-    "title": "US officials work with CrowdStrike to fight malware behind crypto theft",
-    "link": "https://cointelegraph.com/news/us-officials-crowdstrike-malware-stealing-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Wed, 02 Sep 2026 21:27:15 +0000",
-    "source": "Cointelegraph",
-    "category": "crypto",
-    "content": "Federal authorities and private-sector partners were part of an operation to disrupt malware that redirected about $150,000 in crypto over the last eight years.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1HV8E147WPWCMKXKN1K3NV1/pcvirusmalware.jpg",
-    "summary": "US officials collaborated with cybersecurity firm CrowdStrike to disrupt a malware operation that stole approximately $150,000 in cryptocurrency over eight years by redirecting transactions. The operation targeted malware designed to siphon funds from unsuspecting victims.",
-    "importance": 7,
-    "classified": true
-  },
-  {
-    "title": "Coinbase launches regulated crypto derivatives in Canada",
-    "link": "https://cointelegraph.com/news/coinbase-launches-regulated-crypto-derivatives-in-canada?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Wed, 02 Sep 2026 20:55:55 +0000",
-    "source": "Cointelegraph",
-    "category": "crypto",
-    "content": "Coinbase is offering eligible Canadian traders perpetual and dated futures with up to 10x leverage as major US trading platforms expand their crypto presence in Canada.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1HT238M4JD1C8SQAQHTYKWY/people-street-futures.jpg",
-    "summary": "Coinbase has launched regulated crypto derivatives in Canada, including perpetual and dated futures with up to 10x leverage, expanding its trading services for eligible Canadian users.",
-    "importance": 7,
-    "classified": true
-  },
-  {
-    "title": "New Jersey officials petition US Supreme Court over prediction markets",
-    "link": "https://cointelegraph.com/news/new-jersey-supreme-court-kalshi-prediction-markets-cftc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Wed, 02 Sep 2026 18:55:41 +0000",
-    "source": "Cointelegraph",
-    "category": "crypto",
-    "content": "New Jersey’s Attorney General and gaming authorities filed a petition for a writ of certiorari to the US Supreme Court over Kalshi offering sporting event contracts to residents.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1HKH1HH1DMHKVCZWY8RFR6Q/b-lawsuit-kalshi-3.jpg",
-    "summary": "New Jersey officials have petitioned the US Supreme Court to block Kalshi from offering prediction market contracts for sporting events to state residents, challenging the legality of such platforms under existing gambling laws.",
-    "importance": 7,
-    "classified": true
-  },
-  {
     "title": "Coinbase seeks SEC greenlight to list 24/7 equity perpetuals",
     "link": "https://www.theblock.co/news/regulation/2026-09-03-coinbase-seeks-sec-greenlight-to-list-24-7-equity-perpetuals-413487",
     "pubDate": "Thu, 03 Sep 2026 20:46:52 +0000",
@@ -972,18 +828,6 @@
     "classified": true
   },
   {
-    "title": "When the Banks Don’t Work, Bitcoin Does: Cornell University’s Adoption Index",
-    "link": "https://bitcoinmagazine.com/news/when-banks-dont-work-bitcoin-does-cornell",
-    "pubDate": "Wed, 02 Sep 2026 19:15:58 +0000",
-    "source": "Bitcoin Magazine",
-    "category": "crypto",
-    "content": "Bitcoin Magazine\n\nWhen the Banks Don’t Work, Bitcoin Does: Cornell University’s Adoption Index\nCornell University spoke to 25,880 people about using bitcoin. While many don't understand the tech in depth, it's proving useful for some. \nThis post When the Banks Don’t Work, Bitcoin Does: Cornell University’s Adoption Index first appeared on Bitcoin Magazine and is written by Mathew Di Salvo.",
-    "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/09/Pics-1-1.jpg",
-    "summary": "Cornell University conducted a survey of 25,880 people, revealing that while many lack deep technical knowledge of Bitcoin, it serves as a practical alternative when traditional banking systems fail. The study highlights Bitcoin's growing adoption despite limited understanding of its underlying technology.",
-    "importance": 7,
-    "classified": true
-  },
-  {
     "title": "Agriculture relies on fossil fuels. It’s costing us.",
     "link": "https://www.technologyreview.com/2026/09/03/1143320/fertilizer-prices-fossil-fuels/",
     "pubDate": "Thu, 03 Sep 2026 10:00:00 +0000",
@@ -1092,42 +936,6 @@
     "classified": true
   },
   {
-    "title": "India’s richest man now wants to turn aging computers into AI-ready PCs",
-    "link": "https://techcrunch.com/2026/09/02/indias-richest-man-now-wants-to-turn-aging-computers-into-ai-ready-pcs/",
-    "pubDate": "Wed, 02 Sep 2026 16:01:48 +0000",
-    "source": "TechCrunch AI",
-    "category": "ai",
-    "content": "Jio is betting it can turn an aging computer into an AI-ready PC for as little as about $11 for two months.",
-    "image": "",
-    "summary": "Reliance Jio plans to transform old computers into AI-capable devices for as low as $11 per two months, aiming to make AI more accessible. The initiative targets underutilized hardware to bridge the digital divide in India.",
-    "importance": 7,
-    "classified": true
-  },
-  {
-    "title": "Google says its new Gemini 3.8 Flash model ‘works harder’ but might cost more",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/988742/google-gemini-3-8-flash",
-    "pubDate": "2026-09-02T20:11:40.000Z",
-    "source": "The Verge AI",
-    "category": "ai",
-    "content": "Google launched Gemini 3.8 Flash, arriving just a few weeks after its predecessor. The company claims the new model \"works harder\" than Gemini 3.7 Flash by performing more reasoning steps on complex tasks and \"calling tools iteratively.\" It has the same introductory pricing as 3.7 Flash, $0.75 per million input tokens and $3.75 per million output tokens, but could still end up costing users more. Google warns that \"the model might use more tokens to maximize performance, especially at higher effort levels.\" Developers can keep using Gemini 3.7 Flash if they want to minimize token usage. \nGemini 3.8 Flash's launch was followed by some early  …\nRead the full story at The Verge.",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK255_Google_Gemini_B_474198.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "summary": "Google has released the Gemini 3.8 Flash model, which performs more reasoning steps on complex tasks and iteratively calls tools, potentially increasing costs despite the same introductory pricing as its predecessor. Developers can opt for the older 3.7 Flash to minimize token usage.",
-    "importance": 7,
-    "classified": true
-  },
-  {
-    "title": "Amazon’s AI assistant can now spot fake emails from the company",
-    "link": "https://www.theverge.com/tech/988518/amazon-alexa-for-shopping-verify-emails",
-    "pubDate": "2026-09-02T17:52:56.000Z",
-    "source": "The Verge AI",
-    "category": "ai",
-    "content": "Amazon is trying to combat impersonation scams with a new feature that allows you to use its AI assistant to determine whether an email, text message, or phone call actually came from the company. With the update, you can ask Alexa for Shopping about a message you received, and it will use AI to compare it \"against a record of every message Amazon has sent,\" while also analyzing its contents, formatting, and the sender.\nAs noted by Amazon, the assistant will only confirm that a message is real if it's \"completely certain.\" An example shared by Amazon shows a customer asking, \"Did Amazon just text me an OTP from 98626? Message came around 4: …\nRead the full story at The Verge.",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/alexa-shopping-ai-hero-lm.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "summary": "Amazon has introduced a new AI-powered feature in its Alexa assistant to help users verify whether emails, texts, or calls claiming to be from the company are genuine. The system cross-references messages against Amazon’s records and analyzes their content and formatting to detect impersonation scams.",
-    "importance": 7,
-    "classified": true
-  },
-  {
     "title": "Trump may be forced to reveal secret rules feds use for AI safety testing",
     "link": "https://arstechnica.com/tech-policy/2026/09/trump-may-be-forced-to-reveal-secret-rules-feds-use-for-ai-safety-testing/",
     "pubDate": "Wed, 02 Sep 2026 17:58:33 +0000",
@@ -1212,18 +1020,6 @@
     "classified": true
   },
   {
-    "title": "IBM's new Granite 4.2 models ride the wave of interest in local LLMs",
-    "link": "https://arstechnica.com/ai/2026/08/ibms-new-granite-4-2-models-ride-the-wave-of-interest-in-local-llms/",
-    "pubDate": "Wed, 26 Aug 2026 11:10:49 +0000",
-    "source": "Ars Technica AI",
-    "category": "ai",
-    "content": "The focus is on agentic capability and predictable enterprise deployment.",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/ollama-granite-1152x648-1787698912.jpg",
-    "summary": "IBM introduces Granite 4.2 models, emphasizing agentic capabilities and enterprise deployment for local large language models (LLMs). The update aims to enhance predictability and efficiency in AI-driven workflows.",
-    "importance": 7,
-    "classified": true
-  },
-  {
     "title": "We checked 6 years of bitcoin data. The NFP report isn't big price mover",
     "link": "https://www.coindesk.com/daybook-us/2026/09/04/we-checked-6-years-of-bitcoin-data-the-nfp-report-isn-t-big-price-mover",
     "pubDate": "Fri, 04 Sep 2026 11:29:05 +0000",
@@ -1260,21 +1056,9 @@
     "classified": true
   },
   {
-    "title": "Bitcoin’s fabled golden cross is coming. And USDT may be the real signal this time",
-    "link": "https://www.coindesk.com/markets/2026/09/03/bitcoin-s-fabled-golden-cross-is-coming-and-usdt-may-be-the-real-signal-this-time",
-    "pubDate": "Thu, 03 Sep 2026 07:01:28 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "BTC is nearing a bullish golden cross, a widely tracked signal with a mixed record of success in crypto markets. But this time, USDT is supporting the bullish read.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/dea9176a7413ba48eea64fd2fc5d051e1e7b3740-1398x884.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "Bitcoin (BTC) is nearing a bullish \"golden cross\" technical signal, a widely observed indicator in crypto markets. This time, the bullish outlook is reportedly strengthened by the involvement of USDT, adding a unique factor to this event.",
-    "importance": 6,
-    "classified": true
-  },
-  {
     "title": "Here’s what happened in crypto today",
     "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Fri, 04 Sep 2026 06:22:29 +0000",
+    "pubDate": "Fri, 04 Sep 2026 13:30:00 +0000",
     "source": "Cointelegraph",
     "category": "crypto",
     "content": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
@@ -1292,18 +1076,6 @@
     "content": "New Jersey is asking the U.S. Supreme Court to settle, once and for all, how sports betting on prediction markets should be regulated.",
     "image": "https://www.tbstat.com/wp/uploads/2025/09/20250917_Kalshi_News_2-1200x675.jpg",
     "summary": "New Jersey has petitioned the U.S. Supreme Court to clarify regulatory authority over sports betting on prediction markets, aiming to resolve long-standing legal ambiguities. The move seeks to determine whether state or federal agencies should oversee these platforms.",
-    "importance": 6,
-    "classified": true
-  },
-  {
-    "title": "Capital B Raises €7.6M From Adam Back to Fund Another Bitcoin Buy",
-    "link": "https://bitcoinmagazine.com/news/capital-b-raises-money-adam-back",
-    "pubDate": "Wed, 02 Sep 2026 18:38:01 +0000",
-    "source": "Bitcoin Magazine",
-    "category": "crypto",
-    "content": "Bitcoin Magazine\n\nCapital B Raises €7.6M From Adam Back to Fund Another Bitcoin Buy\nThe French company's announcement comes after a bitcoin fundraiser last month. \nThis post Capital B Raises €7.6M From Adam Back to Fund Another Bitcoin Buy first appeared on Bitcoin Magazine and is written by Mathew Di Salvo.",
-    "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/09/Pics-1.jpg",
-    "summary": "French company Capital B has raised €7.6 million from Adam Back, a prominent Bitcoin figure, to fund additional Bitcoin purchases. This follows a previous fundraising effort by the company last month.",
     "importance": 6,
     "classified": true
   },
@@ -1380,16 +1152,92 @@
     "classified": true
   },
   {
-    "title": "Google announces Gemini 3.5 Transcribe for AI-powered speech-to-text",
-    "link": "https://arstechnica.com/ai/2026/08/google-announces-gemini-3-5-transcribe-for-ai-powered-speech-to-text/",
-    "pubDate": "Wed, 26 Aug 2026 19:19:22 +0000",
-    "source": "Ars Technica AI",
-    "category": "ai",
-    "content": "The AI that powers Gboard's Rambler is coming to more Google products, including Chrome.",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/gemini-general-6-1152x648.jpg",
-    "summary": "Google has announced the expansion of its AI-powered speech-to-text tool, Gemini 3.5 Transcribe, which currently powers Gboard's Rambler feature. The tool will now be integrated into additional Google products, including Chrome.",
-    "importance": 6,
-    "classified": true
+    "title": "U.S. Sheriff’s association shifts opposition stance to Clarity Act to 'neutral'",
+    "link": "https://www.coindesk.com/policy/2026/09/04/u-s-sheriff-s-association-shifts-opposition-stance-to-clarity-act-to-neutral",
+    "pubDate": "Fri, 04 Sep 2026 14:12:34 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "The law enforcement association said it has pivoted its position regarding the Clarity Act to neutral, months after it warned against a law it said would shield crypto crime.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/9a17fcb061c085aa06628eb11086287448b35a09-5701x3801.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "",
+    "importance": 5
+  },
+  {
+    "title": "Crypto Biz: AI took a back seat when Bitcoin started climbing",
+    "link": "https://cointelegraph.com/news/crypto-biz-bitcoin-miners-strategy-strive-bitmine-stablecoins?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Fri, 04 Sep 2026 17:22:58 +0000",
+    "source": "Cointelegraph",
+    "category": "crypto",
+    "content": "Corporate crypto bets are getting bigger as rising markets reward direct exposure, putting balance-sheet strategies and institutional adoption back in focus.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1PQ0H0YWX9P513482DDRDG2/a-lot-of-hands-of-shiva-office-coins2.jpg",
+    "summary": "",
+    "importance": 5
+  },
+  {
+    "title": "QuFi launches post-quantum verification platform with Bitcoin testnet proof",
+    "link": "https://cointelegraph.com/news/qufi-launches-post-quantum-verification-platform-with-bitcoin-testnet-proof?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Fri, 04 Sep 2026 17:09:25 +0000",
+    "source": "Cointelegraph",
+    "category": "crypto",
+    "content": "QuFi’s new platform uses post-quantum cryptography to verify digital asset transactions without requiring changes to existing blockchain settlement networks.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1PMGY1KF8TCNAHKCVJ1S9J3/hi-what-are-quantum-resistant-tokens-and-why-do-they-matter-for-crypto.png",
+    "summary": "",
+    "importance": 5
+  },
+  {
+    "title": "US law enforcement group moves to ‘neutral’ position on CLARITY Act",
+    "link": "https://cointelegraph.com/news/national-sheriffs-association-clarity-act-neutral?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Fri, 04 Sep 2026 17:05:34 +0000",
+    "source": "Cointelegraph",
+    "category": "crypto",
+    "content": "Despite earlier opposition to the CLARITY Act over consumer protection, the National Sheriffs’ Association says it will now “step back and allow the legislative process to proceed.“",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1PMTZTE9JA669CG8QFKJ243/hi-fines-and-regulation-the-ever-growing-landscape-of-crypto-compliance.png",
+    "summary": "",
+    "importance": 5
+  },
+  {
+    "title": "Revolut, OpenReserve get preliminary US bank approval with crypto plans",
+    "link": "https://cointelegraph.com/news/revolut-openreserve-occ-approval-national-bank-crypto-plan?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Fri, 04 Sep 2026 13:34:30 +0000",
+    "source": "Cointelegraph",
+    "category": "crypto",
+    "content": "Revolut and OpenReserve received preliminary OCC approval to form US national banks, with both planning cryptocurrency and stablecoin-related services.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1P74NCJ7VVQEWSD26T81DZH/digital-bank-2.jpg",
+    "summary": "",
+    "importance": 5
+  },
+  {
+    "title": "Token buybacks are booming. But are they good for crypto projects?",
+    "link": "https://cointelegraph.com/magazine/token-buybacks-are-booming-but-are-they-good-for-crypto-projects?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Fri, 04 Sep 2026 13:30:00 +0000",
+    "source": "Cointelegraph",
+    "category": "crypto",
+    "content": "Crypto projects are spending hundreds of millions buying their own tokens. But are buybacks creating lasting value — or just making tokens look more valuable than they really are?",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1K8AJR546DD0XM3RM8FJK76/magazine-tokenomics.jpg",
+    "summary": "",
+    "importance": 5
+  },
+  {
+    "title": "Zcash tops $1,000 as ETF inflows ramp up and miners pile in",
+    "link": "https://www.theblock.co/news/markets/2026-09-04-zcash-tops-1000-etf-inflows-ramp-up-miners-pile-in-413580",
+    "pubDate": "Fri, 04 Sep 2026 16:59:34 +0000",
+    "source": "The Block",
+    "category": "crypto",
+    "content": "Grayscale's ZCSH inflows climb as surging network competition cuts into miners’ gains from the ZEC token's rally.",
+    "image": "https://www.tbstat.com/wp/uploads/2025/12/20251202_ZCash_News_2-1200x675.jpg",
+    "summary": "",
+    "importance": 5
+  },
+  {
+    "title": "Ripple expands college sports push with XRP partnership at Florida",
+    "link": "https://www.theblock.co/news/business/2026-09-04-ripple-college-sports-push-xrp-partnership-florida-gators-413576",
+    "pubDate": "Fri, 04 Sep 2026 15:37:17 +0000",
+    "source": "The Block",
+    "category": "crypto",
+    "content": "The XRP logo will be featured on the field at Ben Hill Griffin Stadium, as well as across Florida Athletics’ digital properties and events.",
+    "image": "https://www.tbstat.com/wp/uploads/2026/01/20260108_XRP_News-1200x675.jpg",
+    "summary": "",
+    "importance": 5
   },
   {
     "title": "Trezor says ShipMonk breach affected another 67,000 customers",
@@ -1469,6 +1317,28 @@
     "importance": 5
   },
   {
+    "title": "Bitcoin Dips Below $80,000 on Strong US Jobs Report",
+    "link": "https://bitcoinmagazine.com/markets/bitcoin-dips-on-strong-jobs-report",
+    "pubDate": "Fri, 04 Sep 2026 17:17:53 +0000",
+    "source": "Bitcoin Magazine",
+    "category": "crypto",
+    "content": "Bitcoin Magazine\n\nBitcoin Dips Below $80,000 on Strong US Jobs Report\nBitcoin dipped on news that the Federal Reserve may hike interest rates this month. \nThis post Bitcoin Dips Below $80,000 on Strong US Jobs Report first appeared on Bitcoin Magazine and is written by Mathew Di Salvo.",
+    "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/09/Pics-1-2.jpg",
+    "summary": "",
+    "importance": 5
+  },
+  {
+    "title": "National Sheriffs’ Association Drops Opposition to Clarity Act",
+    "link": "https://bitcoinmagazine.com/news/national-sheriffs-association-clarity-act",
+    "pubDate": "Fri, 04 Sep 2026 16:05:36 +0000",
+    "source": "Bitcoin Magazine",
+    "category": "crypto",
+    "content": "Bitcoin Magazine\n\nNational Sheriffs’ Association Drops Opposition to Clarity Act\nThe law enforcement organization previously opposed the bill. \nThis post National Sheriffs’ Association Drops Opposition to Clarity Act first appeared on Bitcoin Magazine and is written by Mathew Di Salvo.",
+    "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/09/Pics-7.jpg",
+    "summary": "",
+    "importance": 5
+  },
+  {
     "title": "The Download: selling battlefield drone data and AI reshaping language",
     "link": "https://www.technologyreview.com/2026/09/04/1143457/the-download-ukraine-selling-drone-data-ai-reshaping-language/",
     "pubDate": "Fri, 04 Sep 2026 12:10:00 +0000",
@@ -1491,6 +1361,61 @@
     "importance": 5
   },
   {
+    "title": "What will Apple’s John Ternus era look like?",
+    "link": "https://techcrunch.com/video/what-will-apples-john-ternus-era-look-like/",
+    "pubDate": "Fri, 04 Sep 2026 17:18:00 +0000",
+    "source": "TechCrunch AI",
+    "category": "ai",
+    "content": "It’s officially the Ternus era at Apple.   Tim Cook stepped down as CEO this week, handing the company to former hardware chief John Ternus, whose first memo promised a “huge launch next week” — timing that puts Apple’s next iPhone event on his desk before he’s even settled in. Cook isn’t going far, though: he’s staying on as Executive Chairman, focused on the kind of policy […]",
+    "image": "",
+    "summary": "",
+    "importance": 5
+  },
+  {
+    "title": "Another swarm of OpenAI agents reached the open internet without the frontier lab’s knowledge",
+    "link": "https://techcrunch.com/2026/09/04/another-swarm-of-openai-agents-reached-the-open-internet-without-the-frontier-labs-knowledge/",
+    "pubDate": "Fri, 04 Sep 2026 16:21:11 +0000",
+    "source": "TechCrunch AI",
+    "category": "ai",
+    "content": "It's the latest failure of OpenAI's internal monitoring and security systems.",
+    "image": "",
+    "summary": "",
+    "importance": 5
+  },
+  {
+    "title": "Apple’s Ternus era begins as Nvidia bets on the whole AI stack",
+    "link": "https://techcrunch.com/podcast/apples-ternus-era-begins-as-nvidia-bets-on-the-whole-ai-stack/",
+    "pubDate": "Fri, 04 Sep 2026 16:04:08 +0000",
+    "source": "TechCrunch AI",
+    "category": "ai",
+    "content": "It’s officially the Ternus era at Apple.   Tim Cook stepped down as CEO this week, handing the company to former hardware chief John Ternus, whose first memo promised a “huge launch next week” — timing that puts Apple’s next iPhone event on his desk before he’s even settled in. Cook isn’t going far, though: he’s staying on as Executive Chairman, focused on the kind of policy […]",
+    "image": "",
+    "summary": "",
+    "importance": 5
+  },
+  {
+    "title": "Google’s Gemini Spark can now manage your Google Photos library",
+    "link": "https://techcrunch.com/2026/09/04/googles-gemini-spark-can-now-manage-your-google-photos-library/",
+    "pubDate": "Fri, 04 Sep 2026 14:47:11 +0000",
+    "source": "TechCrunch AI",
+    "category": "ai",
+    "content": "Gemini Spark can edit and curate photo albums, create shared collections, turn photos into calendar events, and handle other Google Photos tasks for AI Pro and Ultra subscribers.",
+    "image": "",
+    "summary": "",
+    "importance": 5
+  },
+  {
+    "title": "Less than 24 hours to apply for your TechCrunch Disrupt 2026 Side Event",
+    "link": "https://techcrunch.com/2026/09/04/less-than-24-hours-to-apply-for-your-techcrunch-disrupt-2026-side-event/",
+    "pubDate": "Fri, 04 Sep 2026 14:00:00 +0000",
+    "source": "TechCrunch AI",
+    "category": "ai",
+    "content": "Less than 24 hours left to apply to host a Side Event during TechCrunch Disrupt 2026 and make your mark in the Silicon Valley scene. Apply before the application closes tonight at midnight PT.",
+    "image": "",
+    "summary": "",
+    "importance": 5
+  },
+  {
     "title": "The sameness problem behind those unappetizing AI-generated menus",
     "link": "https://techcrunch.com/2026/09/03/the-sameness-problem-behind-those-unappetizing-ai-generated-menus/",
     "pubDate": "Fri, 04 Sep 2026 04:21:03 +0000",
@@ -1498,6 +1423,72 @@
     "category": "ai",
     "content": "While restaurant owners might look to generative AI as a shortcut to sprucing up their menu, customers can viscerally sense that something is wrong with the food.",
     "image": "",
+    "summary": "",
+    "importance": 5
+  },
+  {
+    "title": "Rogue OpenAI agents appear to have organized another attack using a German wiki",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/990149/openai-rogue-agents-german-wiki",
+    "pubDate": "2026-09-04T13:34:12.000Z",
+    "source": "The Verge AI",
+    "category": "ai",
+    "content": "A swarm of rogue AI agents from OpenAI reportedly commandeered a German website and transformed it into a messaging board for other agents, with officials staying quiet about the incident for weeks as the company prepared to launch its most advanced model yet, Astra. The finding adds to intensifying concern surrounding oversight at frontier AI labs after multiple breaches were discovered this summer. \nThe incident, first reported by Reuters, is outlined in new research published by four AI safety researchers on Friday. The group said the AI agents found a way to communicate on an obscure German-language wiki, DseWiki, using it to share tips …\nRead the full story at The Verge.",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKS533_AI_AGENTS_HACKING_D_54a015.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "summary": "",
+    "importance": 5
+  },
+  {
+    "title": "Instagram’s AI detection is a mess (again)",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/989617/instagram-ai-content-label-confusion",
+    "pubDate": "2026-09-04T12:00:00.000Z",
+    "source": "The Verge AI",
+    "category": "ai",
+    "content": "Instagram's visible AI labels are supposed to help people quickly spot synthetically generated content at a glance. Over the last few weeks, however, users have been reporting that the system has gone haywire. They say Meta has been automatically applying an \"AI Content\" label to images that they didn't create or edit using generative AI tools. Meanwhile, actual AI imagery is slipping through the cracks, leaving the impression that nothing can be trusted on Instagram at all.\nThe precise causes of this tagging seem to vary. Many people said the label appeared on images that were edited using tools like Canva's Background Remover or with negl …\nRead the full story at The Verge.",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/268439_ai_art_label_CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "summary": "",
+    "importance": 5
+  },
+  {
+    "title": "Why AI food looks like that",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/989376/ai-generated-food-why-does-it-look-like-that",
+    "pubDate": "2026-09-04T11:00:00.000Z",
+    "source": "The Verge AI",
+    "category": "ai",
+    "content": "There is a torrent of unappetizing slop coming from restaurants, cafes, and brands that are increasingly turning to AI to generate images promoting their food. The resulting horror show includes donut shrimp, Reubens from the deep, wormlike noodles, and noodle-like pastries and stringy chicken. There's also construction material masquerading as ice cream, ice cream masquerading as brains, and other masonry-adjacent cuisine. I don't even know how to begin describing this monstrous attempt of a burger, and the less said about the trypophobic burrito from hell, grubs and all, the better. There are lumps. And holes. So many holes.\n\n\"Diffusion mo …\n\nRead the full story at The Verge.",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268722_Why_does_AI_food_look_like_that_CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "summary": "",
+    "importance": 5
+  },
+  {
+    "title": "Microsoft’s Project Zenith is a ‘distraction-free Windows experience’ for developers",
+    "link": "https://www.theverge.com/news/990051/microsoft-project-zenith-windows-developers",
+    "pubDate": "2026-09-04T10:44:15.000Z",
+    "source": "The Verge AI",
+    "category": "ai",
+    "content": "Microsoft is giving its developer-optimized Windows experience a name: Project Zenith. While the software maker originally announced a similar developer-optimized Windows effort at Build earlier this year, Project Zenith is designed for new developer-focused devices with 64GB or more of unified memory.\n\"Project Zenith devices come with a preconfigured Windows setup for development and a set of tools curated for what developers reach for first,\" explains Logan Iyer, CVP of Windows platform and developer at Microsoft. \"On these devices, developers can run 30B+ parameter models locally and unmetered - accelerating experimentation while helping …\nRead the full story at The Verge.",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/projectzenith.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "summary": "",
+    "importance": 5
+  },
+  {
+    "title": "Sam Altman apologizes for &#8216;messy&#8217; GPT-6 Astra rollout that’s locked out paying users",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/990060/altman-apologizes-messy-astra-rollout",
+    "pubDate": "2026-09-04T10:41:48.000Z",
+    "source": "The Verge AI",
+    "category": "ai",
+    "content": "Just hours after OpenAI launched GPT-6 Astra, CEO Sam Altman was already apologizing for what he describes as a \"messy rollout\" after paying users expecting access to the new frontier model were left waiting.  \nThe company hailed the model as a \"generational leap in capability\" on Thursday and described it as the start of \"the AGI era,\" a fuzzy and poorly defined term tech executives nevertheless insist on using to promote their products. It said Astra would roll out to some enterprise customers - specifically those with access to its Daybreak cybersecurity platform - that day. This would expand to include all Plus, Pro, Business, and Enter …\nRead the full story at The Verge.",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2285138968.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "summary": "",
+    "importance": 5
+  },
+  {
+    "title": "This NAS company wants to run your local smart home",
+    "link": "https://www.theverge.com/tech/990006/this-nas-company-wants-to-run-your-local-smart-home",
+    "pubDate": "2026-09-04T09:41:44.000Z",
+    "source": "The Verge AI",
+    "category": "ai",
+    "content": "Ugreen’s HomeAgent H100 Pro hub combines local storage, on-device AI, and a new voice assistant, Uliya, to run your smart home. | Photo by Jennifer Pattison Tuohy / The Verge\t\n\nUgreen, known for its phone power banks, chargers, and NAS storage solutions, is moving into the smart home - in a big way. This week at the IFA tech show, the company launched its HomeAgent smart home platform that combines security camera storage, on-device AI, and smart home control in one system, managed by a voice assistant called Uliya, with the promise that everything runs locally.  \nAt the core of Ugreen's HomeAgent system is a hub that acts as the brain of your smart home, running a local-first AI (with some caveats) that you can interact with using natural language via Uliya. There are three hub configurations to choose from, each …\nRead the full story at The Verge.",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/LR6B5640.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
     "summary": "",
     "importance": 5
   },
@@ -1524,13 +1515,24 @@
     "importance": 5
   },
   {
-    "title": "Google says its AI weather model is getting better",
-    "link": "https://www.theverge.com/tech/988921/weather-forecast-ai-model-google-satellite-update",
-    "pubDate": "2026-09-03T15:00:00.000Z",
-    "source": "The Verge AI",
+    "title": "Once popular for attacking AI, ASCII smuggling is embraced by spammers",
+    "link": "https://arstechnica.com/security/2026/09/once-popular-for-attacking-ai-ascii-smuggling-is-embraced-by-spammers/",
+    "pubDate": "Fri, 04 Sep 2026 17:18:12 +0000",
+    "source": "Ars Technica AI",
     "category": "ai",
-    "content": "Google is rolling out an updated AI weather model that's supposed to be more accurate, especially when it comes to predicting rain and snowfall.\nIn the announcement today, the company says it's now able to make forecasts with \"unprecedented resolution\" using its new WeatherNext 3 AI model. It can produce a global picture that's five times sharper than Google's previous model by learning from real-time weather observations, according to the company.\n\"One of the main developments is for [WeatherNext 3] to go beyond what data most global AI models train on,\" says Samier Merchant, a research engineer at Google Research. \"We're able to leverage …\nRead the full story at The Verge.",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24016886/STK093_Google_03.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "content": "A once-overlooked block of unicode that's invisible to humans is gaining ever wider use.",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/no-eyes-1152x648.jpg",
+    "summary": "",
+    "importance": 5
+  },
+  {
+    "title": "Anthropic’s $2 trillion IPO puts powerful external trustees in spotlight",
+    "link": "https://arstechnica.com/ai/2026/09/anthropics-2-trillion-ipo-puts-powerful-external-trustees-in-spotlight/",
+    "pubDate": "Fri, 04 Sep 2026 16:22:18 +0000",
+    "source": "Ars Technica AI",
+    "category": "ai",
+    "content": "Public-market scrutiny will intensify pressure on the Claude maker’s unusual attempt to balance profit and purpose.",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2285051730-1152x648.jpg",
     "summary": "",
     "importance": 5
   },
@@ -1593,18 +1595,6 @@
     "classified": true
   },
   {
-    "title": "Memecoin shenanigans spill into Nasdaq as microcap mushroom seller Farmmi surges 350%",
-    "link": "https://www.theblock.co/news/markets/2026-09-02-memecoin-shenanigans-nasdaq-microcap-mushroom-seller-farmmi-413374",
-    "pubDate": "Wed, 02 Sep 2026 17:40:13 +0000",
-    "source": "The Block",
-    "category": "crypto",
-    "content": "FAMI quickly corrected while the stock saw more than 720 million shares traded — nearly 90 times more than its daily average.",
-    "image": "https://www.tbstat.com/wp/uploads/2020/09/20200924_Wallstreet_Credit_Swaps-Daily-1200x675.jpg",
-    "summary": "A memecoin-related stock surge caused Farmmi (FAMI), a microcap mushroom seller, to spike 350% on Nasdaq with over 720 million shares traded—nearly 90 times its daily average—before quickly correcting.",
-    "importance": 4,
-    "classified": true
-  },
-  {
     "title": "The Download: rethinking child safety and fossil-fueled farming",
     "link": "https://www.technologyreview.com/2026/09/03/1143385/the-download-rethinking-child-safety-online-fossil-fuels-farming/",
     "pubDate": "Thu, 03 Sep 2026 12:10:00 +0000",
@@ -1625,18 +1615,6 @@
     "content": "As companies scale, the technology supporting operations can become a liability just as quickly as it becomes an asset. Disconnected systems, site-specific tools, spreadsheets, and manual workarounds can create data silos that make it harder to spot problems early, coordinate responses, and make decisions with confidence. For Jabil, a global manufacturing company with more than…",
     "image": "",
     "summary": "The article discusses how companies like Jabil face challenges with disconnected systems and manual processes as they scale, leading to data silos that hinder decision-making. It highlights the need for simplified technology integration to improve coordination and problem-solving.",
-    "importance": 4,
-    "classified": true
-  },
-  {
-    "title": "Wonderful more than doubles its valuation to $5B in under 6 months",
-    "link": "https://techcrunch.com/2026/09/02/wonderful-more-than-doubles-its-valuation-to-5b-in-under-6-months/",
-    "pubDate": "Wed, 02 Sep 2026 16:04:10 +0000",
-    "source": "TechCrunch AI",
-    "category": "ai",
-    "content": "Wonderful said it will use its $550 million Series C funding to develop products faster, expand its FDE teams, and meet demand for its products.",
-    "image": "",
-    "summary": "Wonderful, a company, has more than doubled its valuation to $5 billion in less than six months after raising a $550 million Series C funding round. The funds will be used to accelerate product development, expand its fraud detection and engineering teams, and meet growing product demand.",
     "importance": 4,
     "classified": true
   },
