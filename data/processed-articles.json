@@ -60,18 +60,6 @@
     "classified": true
   },
   {
-    "title": "Nvidia confirms it will buy Hugging Face for $12.9 billion",
-    "link": "https://techcrunch.com/2026/09/03/nvidia-confirms-it-will-buy-hugging-face-for-12-9-billion/",
-    "pubDate": "Thu, 03 Sep 2026 12:42:45 +0000",
-    "source": "TechCrunch AI",
-    "category": "ai",
-    "content": "Nvidia said Hugging Face hosts over 3 million models and is used by over 18 million developers.",
-    "image": "",
-    "summary": "Nvidia announced its acquisition of Hugging Face, a platform hosting over 3 million AI models and used by 18 million developers, for $12.9 billion. The deal underscores Nvidia's strategic push to dominate the AI infrastructure and developer ecosystem.",
-    "importance": 9,
-    "classified": true
-  },
-  {
     "title": "OpenAI’s next big AI model has ‘entered the AGI era’",
     "link": "https://www.theverge.com/ai-artificial-intelligence/989601/openai-gpt-6-astra-release",
     "pubDate": "2026-09-03T18:00:00.000Z",
@@ -336,38 +324,14 @@
     "classified": true
   },
   {
-    "title": "Crusoe reportedly raises $3B at a  $30B valuation",
-    "link": "https://techcrunch.com/2026/09/03/crusoe-reportedly-raises-3b-at-a-30b-valuation/",
-    "pubDate": "Fri, 04 Sep 2026 00:48:42 +0000",
-    "source": "TechCrunch AI",
-    "category": "ai",
-    "content": "The round came together after the data center developer reportedly secured a $13 billion contract with Jane Street.",
-    "image": "",
-    "summary": "Crusoe, a data center developer specializing in AI infrastructure, raised $3 billion at a $30 billion valuation following a $13 billion contract with Jane Street. The funding will likely accelerate its expansion in high-performance computing for AI workloads.",
-    "importance": 8,
-    "classified": true
-  },
-  {
-    "title": "Accel reportedly in talks to lead $1B round for Thinking Machines at $40B valuation",
-    "link": "https://techcrunch.com/2026/09/03/accel-reportedly-in-talks-to-lead-1b-round-for-thinking-machines-at-40b-valuation/",
-    "pubDate": "Thu, 03 Sep 2026 19:36:29 +0000",
-    "source": "TechCrunch AI",
-    "category": "ai",
-    "content": "The high-profile startup's annual revenue run rate stands at over $100 million.",
-    "image": "",
-    "summary": "Accel is in advanced discussions to lead a $1 billion funding round for AI startup Thinking Machines, valuing the company at $40 billion. The company, which has an annual revenue run rate exceeding $100 million, specializes in AI infrastructure and solutions.",
-    "importance": 8,
-    "classified": true
-  },
-  {
-    "title": "OpenAI launches Astra, its powerful (and controversial) new model",
-    "link": "https://techcrunch.com/2026/09/03/openai-launches-astra-its-powerful-and-controversial-new-model/",
-    "pubDate": "Thu, 03 Sep 2026 18:01:45 +0000",
-    "source": "TechCrunch AI",
-    "category": "ai",
-    "content": "OpenAI claims that Astra represents \"a new frontier on computer and browser use,\" and that it handles tasks with unmatched \"speed, accuracy, and safety.\"",
-    "image": "",
-    "summary": "OpenAI has introduced Astra, a new AI model positioned as a breakthrough in computer and browser interaction, boasting superior speed, accuracy, and safety. The model is framed as a significant advancement but also raises controversy due to its ambitious claims.",
+    "title": "Trezor says ShipMonk breach affected another 67,000 customers",
+    "link": "https://www.theblock.co/news/business/2026-09-04-trezor-says-shipmonk-breach-affected-another-67000-customers-413540",
+    "pubDate": "Fri, 04 Sep 2026 12:03:16 +0000",
+    "source": "The Block",
+    "category": "crypto",
+    "content": "The newly identified records date from 2019 to 2021 and include names, emails, phone numbers, shipping addresses, and order numbers.",
+    "image": "https://www.tbstat.com/wp/uploads/2023/02/20230222_Trezor-1200x675.jpg",
+    "summary": "Trezor has disclosed that an additional 67,000 customers were impacted by a data breach at its e-commerce fulfillment partner, ShipMonk. The compromised records, dating from 2019 to 2021, include sensitive personal data such as names, emails, phone numbers, shipping addresses, and order numbers.",
     "importance": 8,
     "classified": true
   },
@@ -900,42 +864,6 @@
     "classified": true
   },
   {
-    "title": "Abliteration.ai is making a business out of removing AI guardrails",
-    "link": "https://techcrunch.com/2026/09/03/abliteration-ai-is-making-a-business-out-of-removing-ai-guardrails/",
-    "pubDate": "Thu, 03 Sep 2026 18:37:57 +0000",
-    "source": "TechCrunch AI",
-    "category": "ai",
-    "content": "Abliteration.AI is making powerful AI models without guardrails easier to access, arguing that giving defenders the same tools as bad actors could ultimately improve cybersecurity.",
-    "image": "",
-    "summary": "Abliteration.ai is offering services to remove AI guardrails, making powerful unfiltered AI models more accessible. The company claims this could level the playing field between defenders and malicious actors, potentially enhancing cybersecurity.",
-    "importance": 7,
-    "classified": true
-  },
-  {
-    "title": "Meta is paying to peek at how you use their latest AI model",
-    "link": "https://techcrunch.com/2026/09/03/meta-is-paying-to-peek-at-how-you-use-their-latest-ai-model/",
-    "pubDate": "Thu, 03 Sep 2026 18:19:56 +0000",
-    "source": "TechCrunch AI",
-    "category": "ai",
-    "content": "For its new Muse Spark model, intended for operating coding and other agents, Meta is offering an explicit discount averaging out to about 95% for users who \"contribute\" to the development of future models by sharing their prompts and model outputs.",
-    "image": "",
-    "summary": "Meta is offering a 95% discount on its new Muse Spark AI model to users who share their prompts and outputs to help improve future models. This initiative aims to gather data for training while incentivizing adoption.",
-    "importance": 7,
-    "classified": true
-  },
-  {
-    "title": "Google’s latest AI weather model gives you no excuse to forget your umbrella",
-    "link": "https://techcrunch.com/2026/09/03/googles-latest-ai-weather-model-gives-you-no-excuse-to-forget-your-umbrella/",
-    "pubDate": "Thu, 03 Sep 2026 15:00:00 +0000",
-    "source": "TechCrunch AI",
-    "category": "ai",
-    "content": "WeatherNext 3 is the latest wave of a sea change in meteorology brought out by deep learning techniques. Google says it will start feeding into weather information users see in search, Google Maps, and Gemini.",
-    "image": "",
-    "summary": "Google has launched WeatherNext 3, an AI-powered weather model that uses deep learning to improve forecasts. The model will integrate with Google Search, Google Maps, and Gemini to provide users with more accurate weather information.",
-    "importance": 7,
-    "classified": true
-  },
-  {
     "title": "Trump may be forced to reveal secret rules feds use for AI safety testing",
     "link": "https://arstechnica.com/tech-policy/2026/09/trump-may-be-forced-to-reveal-secret-rules-feds-use-for-ai-safety-testing/",
     "pubDate": "Wed, 02 Sep 2026 17:58:33 +0000",
@@ -1080,6 +1008,18 @@
     "classified": true
   },
   {
+    "title": "UBS, Jane Street among firms with combined $75 million in Hyperliquid ETF holdings: Bloomberg",
+    "link": "https://www.theblock.co/news/defi/2026-09-05-ubs-jane-street-among-firms-with-combined-75-million-in-hyperliquid-etf-holdings-bloomberg-413616",
+    "pubDate": "Sat, 05 Sep 2026 20:02:08 +0000",
+    "source": "The Block",
+    "category": "crypto",
+    "content": "Brazil's Wealth High Governance Asset Management held about $24 million worth of 21Shares' HYPE fund as of the end of June, the top HYPE ETF holder.",
+    "image": "https://www.tbstat.com/wp/uploads/2026/04/20260410_Hyperliquid_News-1200x675.jpg",
+    "summary": "Financial firms including UBS and Jane Street collectively hold $75 million in Hyperliquid ETF investments. Brazil's Wealth High Governance Asset Management stands as the largest single holder of the 21Shares HYPE fund, possessing approximately $24 million as of June.",
+    "importance": 6,
+    "classified": true
+  },
+  {
     "title": "The Download: AI puzzles and a path to our nearest star system",
     "link": "https://www.technologyreview.com/2026/09/02/1143283/the-download-ai-puzzles-alpha-centauri-mission/",
     "pubDate": "Wed, 02 Sep 2026 12:10:00 +0000",
@@ -1100,18 +1040,6 @@
     "content": "For years, legacy technology has been a problem companies knew they needed to solve, but one they often struggled to tackle. The cost, complexity, and risk of replacing business-critical systems could make modernization feel like a disruption to manage instead of an opportunity to pursue. But with the rise in customer expectations and the changes…",
     "image": "",
     "summary": "The article discusses how legacy technology modernization is becoming increasingly necessary for companies due to rising customer expectations and disruptive market changes. AI is positioned as a key enabler to simplify and accelerate this process, reducing costs and risks.",
-    "importance": 6,
-    "classified": true
-  },
-  {
-    "title": "Ollie is betting its focus on privacy can help it win the AI assistant race",
-    "link": "https://techcrunch.com/2026/09/03/ollie-is-betting-privacy-can-win-the-ai-assistant-race/",
-    "pubDate": "Thu, 03 Sep 2026 16:09:01 +0000",
-    "source": "TechCrunch AI",
-    "category": "ai",
-    "content": "The family-focused AI assistant wants access to the details of your everyday life, but says it won’t use that data to train AI models or share it with others.",
-    "image": "",
-    "summary": "Ollie, a family-focused AI assistant, is positioning itself to compete in the AI assistant market by prioritizing user privacy. It claims it will not use personal data to train AI models or share it with third parties, aiming to differentiate itself from competitors.",
     "importance": 6,
     "classified": true
   },
@@ -1138,17 +1066,6 @@
     "summary": "Meta has updated its AI-powered smart glasses to prevent nonconsensual recording by disabling the device whenever the safety light is covered, addressing privacy concerns. The change aims to make the glasses less intrusive while maintaining their core functionality.",
     "importance": 6,
     "classified": true
-  },
-  {
-    "title": "Trezor says ShipMonk breach affected another 67,000 customers",
-    "link": "https://www.theblock.co/news/business/2026-09-04-trezor-says-shipmonk-breach-affected-another-67000-customers-413540",
-    "pubDate": "Fri, 04 Sep 2026 12:03:16 +0000",
-    "source": "The Block",
-    "category": "crypto",
-    "content": "The newly identified records date from 2019 to 2021 and include names, emails, phone numbers, shipping addresses, and order numbers.",
-    "image": "https://www.tbstat.com/wp/uploads/2023/02/20230222_Trezor-1200x675.jpg",
-    "summary": "",
-    "importance": 5
   },
   {
     "title": "El Salvador has not used public funds to accumulate bitcoin since June 2025, IMF says",
@@ -1300,127 +1217,6 @@
     "source": "MIT Technology Review",
     "category": "ai",
     "content": "Battlefields in Ukraine are littered with the remnants of drones, which are now firmly established as a critical weapon of modern warfare. But behind all that wreckage, there’s a new gold mine for the defense sector. The data drones generate will far outlast the wars in which they are used to fight, increasingly becoming part…",
-    "image": "",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "Hikers rescued after using Google Gemini for planning",
-    "link": "https://techcrunch.com/2026/09/05/hikers-rescued-after-using-google-gemini-for-planning/",
-    "pubDate": "Sat, 05 Sep 2026 19:35:24 +0000",
-    "source": "TechCrunch AI",
-    "category": "ai",
-    "content": "The sheriff’s office said the hikers “were advised by Gemini to bring far less food and water than their group required.\"",
-    "image": "",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "OpenAI confirms ‘wiki incident,’ says it’s ‘working on a framework’ for more disclosure",
-    "link": "https://techcrunch.com/2026/09/05/openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosure/",
-    "pubDate": "Sat, 05 Sep 2026 18:05:27 +0000",
-    "source": "TechCrunch AI",
-    "category": "ai",
-    "content": "OpenAI acknowledged its role in a recently reported incident where AI agents took over a German wiki forum.",
-    "image": "",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "XDOF, just three months out of stealth, is in talks for a Series B at a $1.2B valuation",
-    "link": "https://techcrunch.com/2026/09/04/xdof-just-three-months-out-of-stealth-is-in-talks-for-a-series-b-at-a-1-2b-valuation/",
-    "pubDate": "Fri, 04 Sep 2026 23:36:14 +0000",
-    "source": "TechCrunch AI",
-    "category": "ai",
-    "content": "The round is being raised just months after the robot data startup exited from stealth.",
-    "image": "",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "OpenAI’s rogue agents keep escaping, with no formal process to investigate them",
-    "link": "https://techcrunch.com/2026/09/04/openais-rogue-agents-keep-escaping-with-no-formal-process-to-investigate-them/",
-    "pubDate": "Fri, 04 Sep 2026 23:15:11 +0000",
-    "source": "TechCrunch AI",
-    "category": "ai",
-    "content": "OpenAI’s latest agent swarm incident adds urgency to calls for independent investigations as researchers and lawmakers question whether AI labs should control the scope of their own safety reviews.",
-    "image": "",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "AI compute provider Nscale is looking for $3.5B in pre-IPO financing",
-    "link": "https://techcrunch.com/2026/09/04/ai-compute-provider-nscale-is-looking-for-3-5b-in-pre-ipo-financing/",
-    "pubDate": "Fri, 04 Sep 2026 21:12:11 +0000",
-    "source": "TechCrunch AI",
-    "category": "ai",
-    "content": "Nscale, which recently struck a $45 billion deal with Anthropic, is in talks to raise additional funds in anticipation of an upcoming IPO.",
-    "image": "",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "What will Apple’s John Ternus era look like?",
-    "link": "https://techcrunch.com/video/what-will-apples-john-ternus-era-look-like/",
-    "pubDate": "Fri, 04 Sep 2026 17:18:00 +0000",
-    "source": "TechCrunch AI",
-    "category": "ai",
-    "content": "It’s officially the Ternus era at Apple.   Tim Cook stepped down as CEO this week, handing the company to former hardware chief John Ternus, whose first memo promised a “huge launch next week” — timing that puts Apple’s next iPhone event on his desk before he’s even settled in. Cook isn’t going far, though: he’s staying on as Executive Chairman, focused on the kind of policy […]",
-    "image": "",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "Another swarm of OpenAI agents reached the open internet without the frontier lab’s knowledge",
-    "link": "https://techcrunch.com/2026/09/04/another-swarm-of-openai-agents-reached-the-open-internet-without-the-frontier-labs-knowledge/",
-    "pubDate": "Fri, 04 Sep 2026 16:21:11 +0000",
-    "source": "TechCrunch AI",
-    "category": "ai",
-    "content": "It's the latest failure of OpenAI's internal monitoring and security systems.",
-    "image": "",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "Apple’s Ternus era begins as Nvidia bets on the whole AI stack",
-    "link": "https://techcrunch.com/podcast/apples-ternus-era-begins-as-nvidia-bets-on-the-whole-ai-stack/",
-    "pubDate": "Fri, 04 Sep 2026 16:04:08 +0000",
-    "source": "TechCrunch AI",
-    "category": "ai",
-    "content": "It’s officially the Ternus era at Apple.   Tim Cook stepped down as CEO this week, handing the company to former hardware chief John Ternus, whose first memo promised a “huge launch next week” — timing that puts Apple’s next iPhone event on his desk before he’s even settled in. Cook isn’t going far, though: he’s staying on as Executive Chairman, focused on the kind of policy […]",
-    "image": "",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "Google’s Gemini Spark can now manage your Google Photos library",
-    "link": "https://techcrunch.com/2026/09/04/googles-gemini-spark-can-now-manage-your-google-photos-library/",
-    "pubDate": "Fri, 04 Sep 2026 14:47:11 +0000",
-    "source": "TechCrunch AI",
-    "category": "ai",
-    "content": "Gemini Spark can edit and curate photo albums, create shared collections, turn photos into calendar events, and handle other Google Photos tasks for AI Pro and Ultra subscribers.",
-    "image": "",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "Less than 24 hours to apply for your TechCrunch Disrupt 2026 Side Event",
-    "link": "https://techcrunch.com/2026/09/04/less-than-24-hours-to-apply-for-your-techcrunch-disrupt-2026-side-event/",
-    "pubDate": "Fri, 04 Sep 2026 14:00:00 +0000",
-    "source": "TechCrunch AI",
-    "category": "ai",
-    "content": "Less than 24 hours left to apply to host a Side Event during TechCrunch Disrupt 2026 and make your mark in the Silicon Valley scene. Apply before the application closes tonight at midnight PT.",
-    "image": "",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "The sameness problem behind those unappetizing AI-generated menus",
-    "link": "https://techcrunch.com/2026/09/03/the-sameness-problem-behind-those-unappetizing-ai-generated-menus/",
-    "pubDate": "Fri, 04 Sep 2026 04:21:03 +0000",
-    "source": "TechCrunch AI",
-    "category": "ai",
-    "content": "While restaurant owners might look to generative AI as a shortcut to sprucing up their menu, customers can viscerally sense that something is wrong with the food.",
     "image": "",
     "summary": "",
     "importance": 5
@@ -1578,18 +1374,6 @@
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2024/09/hugging_face_3-1152x648.jpg",
     "summary": "",
     "importance": 5
-  },
-  {
-    "title": "‘Much ado about nothing’: CFTC files to dismiss CME’s lawsuit over crypto perpetual futures",
-    "link": "https://www.theblock.co/news/regulation/2026-09-02-cftc-dismiss-cme-413416",
-    "pubDate": "Thu, 03 Sep 2026 03:39:02 +0000",
-    "source": "The Block",
-    "category": "crypto",
-    "content": "The CFTC said CME lacks standing on its competitive-injury claims, as the exchange is free to list perp futures as a DCM.",
-    "image": "https://www.tbstat.com/wp/uploads/2020/06/20200630_CFTC-Daily-1200x675.jpg",
-    "summary": "The CFTC has moved to dismiss CME's lawsuit, arguing that the exchange lacks standing to claim competitive injury since it can freely list crypto perpetual futures as a designated contract market (DCM). The regulator dismisses the lawsuit as overblown, calling it 'much ado about nothing'.",
-    "importance": 4,
-    "classified": true
   },
   {
     "title": "The Download: rethinking child safety and fossil-fueled farming",
