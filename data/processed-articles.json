@@ -180,14 +180,38 @@
     "classified": true
   },
   {
-    "title": "Australia is cracking down on crypto businesses as its strict new regulatory deadline nears",
-    "link": "https://www.coindesk.com/business/2026/09/03/australia-is-cracking-down-on-crypto-businesses-as-its-strict-new-regulatory-deadline-nears",
-    "pubDate": "Thu, 03 Sep 2026 10:09:31 +0000",
-    "source": "CoinDesk",
+    "title": "Surprise nonfarm payrolls print sends Bitcoin back below 80K",
+    "link": "https://cointelegraph.com/markets/surprise-labor-market-print-sends-bitcoin-back-below-80k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Fri, 04 Sep 2026 20:30:47 +0000",
+    "source": "Cointelegraph",
     "category": "crypto",
-    "content": "Firms that miss the deadline could breach financial services law from Oct. 1 and face civil or criminal penalties.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/a42d9901e36bb0d51108c0d5d86afe8fe22332c8-1920x1079.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "Australia is implementing strict new regulations for crypto businesses, with a deadline of October 1st. Firms that miss this deadline risk breaching financial services law and could face civil or criminal penalties.",
+    "content": "The US economy added far more jobs than expected in August, pressuring Bitcoin lower as traders repriced the odds of a Federal Reserve rate cut this month.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1PYWBWRST3XMBJ9PF2QDTTB/hi-how-a-weakening-us-labour-market-is-putting-pressure-on-bitcoin-and-crypto-prices.jpg",
+    "summary": "The US economy significantly exceeded job growth expectations in August, causing Bitcoin to fall below $80,000. This market reaction is attributed to traders adjusting their predictions for an imminent Federal Reserve rate cut, which would typically be a positive catalyst for crypto assets.",
+    "importance": 8,
+    "classified": true
+  },
+  {
+    "title": "Pineapple Financial puts $1B in mortgage records on Injective",
+    "link": "https://cointelegraph.com/news/pineapple-financial-puts-1b-in-mortgage-records-on-injective?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Fri, 04 Sep 2026 19:31:38 +0000",
+    "source": "Cointelegraph",
+    "category": "crypto",
+    "content": "The mortgage lender plans to bring more than $10 billion in historical loans onchain, turning thousands of mortgage files into blockchain-based records.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1PRJC4TJX7RTS99QE3AJN32/hi-tokenizing-real-estate-in-the-united-states-crypto-market-1.jpg",
+    "summary": "Pineapple Financial, a mortgage lender, is migrating $1 billion in mortgage records onto the Injective blockchain, with plans to expand this to over $10 billion in historical loans. This initiative involves transforming thousands of traditional mortgage files into blockchain-based records.",
+    "importance": 8,
+    "classified": true
+  },
+  {
+    "title": "FinCEN ties $13B in crypto scams to non-US operations",
+    "link": "https://cointelegraph.com/news/fincen-crypto-overseas-scam-centers-analysis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Fri, 04 Sep 2026 19:22:26 +0000",
+    "source": "Cointelegraph",
+    "category": "crypto",
+    "content": "The agency reported that “transnational criminal organizations” based in compounds in Southeast Asia were largely behind digital asset scams targeting US residents.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1PW3BH4HC5DKEEBWSEEE29W/regulation-semen-lot-of-papers-fincen.jpg",
+    "summary": "FinCEN has reported that transnational criminal organizations operating from compounds in Southeast Asia are primarily responsible for $13 billion in digital asset scams. These large-scale crypto scams have been specifically targeting US residents.",
     "importance": 8,
     "classified": true
   },
@@ -336,6 +360,30 @@
     "classified": true
   },
   {
+    "title": "XRP Ledger has fewer active accounts than last year, but bigger trades and more value",
+    "link": "https://www.coindesk.com/markets/2026/09/05/xrp-ledger-has-fewer-active-accounts-but-bigger-trades-and-more-value",
+    "pubDate": "Sat, 05 Sep 2026 05:30:45 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "Daily order-book traders fell about 40% from a year ago while volume rose 79%, as the value held on XRPL climbed above $4 billion.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/8bf979a95bb8bd770f55450f95b92789f72cb4c2-1500x1001.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "The XRP Ledger is experiencing a significant shift in activity, with daily order-book traders decreasing by about 40% compared to last year. Despite fewer active accounts, the ledger saw a substantial 79% rise in trading volume and an increase in the total value held on XRPL, which now exceeds $4 billion. This indicates a trend towards larger, less frequent trades on the network.",
+    "importance": 7,
+    "classified": true
+  },
+  {
+    "title": "Southeast Asia’s crypto funding rebounds to $680 million as investors focus on mature firms",
+    "link": "https://www.coindesk.com/business/2026/09/05/southeast-asia-s-crypto-funding-rebounds-to-usd680-million-as-investors-focus-on-mature-firms",
+    "pubDate": "Sat, 05 Sep 2026 05:00:00 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "Blockchain investment in Southeast Asia in 2026 has been led by crypto financial services, though funding remains heavily concentrated  in Singapore and a handful of companies.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/64b4be6c0167e3963234f2fedcb523e831450d4f-1500x1000.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "Southeast Asia's crypto funding has rebounded to $680 million, largely driven by investments in crypto financial services. Despite the increase, funding remains heavily concentrated in Singapore and a limited number of mature companies.",
+    "importance": 7,
+    "classified": true
+  },
+  {
     "title": "Robinhood isn't backing down after AMC CEO demands halt to stock tokens",
     "link": "https://www.coindesk.com/business/2026/09/04/amc-ceo-tells-robinhood-to-stop-issuing-stock-token-as-industry-executives-weigh-in",
     "pubDate": "Fri, 04 Sep 2026 14:56:00 +0000",
@@ -416,6 +464,18 @@
     "content": "Yen's rise has led to a broad-based USD weakness, driving the Dollar Index lower. BTC and gold are loving it, for now.",
     "image": "https://cdn.sanity.io/images/s3y3vcno/production/6217d8efe0f2ee0052067fac89d679d34c53ce27-3068x1938.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
     "summary": "The surging Japanese Yen has led to widespread weakness in the US Dollar, causing the Dollar Index to fall. This depreciation of the USD is currently proving beneficial for assets like Bitcoin and gold.",
+    "importance": 7,
+    "classified": true
+  },
+  {
+    "title": "Crypto Biz: AI took a back seat when Bitcoin started climbing",
+    "link": "https://cointelegraph.com/news/crypto-biz-bitcoin-miners-strategy-strive-bitmine-stablecoins?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Fri, 04 Sep 2026 17:22:58 +0000",
+    "source": "Cointelegraph",
+    "category": "crypto",
+    "content": "Corporate crypto bets are getting bigger as rising markets reward direct exposure, putting balance-sheet strategies and institutional adoption back in focus.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1PQ0H0YWX9P513482DDRDG2/a-lot-of-hands-of-shiva-office-coins2.jpg",
+    "summary": "Corporate investments in cryptocurrency are growing as rising markets incentivize direct exposure, refocusing attention on balance-sheet strategies and institutional adoption within the crypto sector.",
     "importance": 7,
     "classified": true
   },
@@ -1032,50 +1092,6 @@
     "classified": true
   },
   {
-    "title": "Surprise nonfarm payrolls print sends Bitcoin back below 80K",
-    "link": "https://cointelegraph.com/markets/surprise-labor-market-print-sends-bitcoin-back-below-80k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Fri, 04 Sep 2026 20:30:47 +0000",
-    "source": "Cointelegraph",
-    "category": "crypto",
-    "content": "The US economy added far more jobs than expected in August, pressuring Bitcoin lower as traders repriced the odds of a Federal Reserve rate cut this month.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1PYWBWRST3XMBJ9PF2QDTTB/hi-how-a-weakening-us-labour-market-is-putting-pressure-on-bitcoin-and-crypto-prices.jpg",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "Pineapple Financial puts $1B in mortgage records on Injective",
-    "link": "https://cointelegraph.com/news/pineapple-financial-puts-1b-in-mortgage-records-on-injective?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Fri, 04 Sep 2026 19:31:38 +0000",
-    "source": "Cointelegraph",
-    "category": "crypto",
-    "content": "The mortgage lender plans to bring more than $10 billion in historical loans onchain, turning thousands of mortgage files into blockchain-based records.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1PRJC4TJX7RTS99QE3AJN32/hi-tokenizing-real-estate-in-the-united-states-crypto-market-1.jpg",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "FinCEN ties $13B in crypto scams to non-US operations",
-    "link": "https://cointelegraph.com/news/fincen-crypto-overseas-scam-centers-analysis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Fri, 04 Sep 2026 19:22:26 +0000",
-    "source": "Cointelegraph",
-    "category": "crypto",
-    "content": "The agency reported that “transnational criminal organizations” based in compounds in Southeast Asia were largely behind digital asset scams targeting US residents.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1PW3BH4HC5DKEEBWSEEE29W/regulation-semen-lot-of-papers-fincen.jpg",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "Crypto Biz: AI took a back seat when Bitcoin started climbing",
-    "link": "https://cointelegraph.com/news/crypto-biz-bitcoin-miners-strategy-strive-bitmine-stablecoins?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Fri, 04 Sep 2026 17:22:58 +0000",
-    "source": "Cointelegraph",
-    "category": "crypto",
-    "content": "Corporate crypto bets are getting bigger as rising markets reward direct exposure, putting balance-sheet strategies and institutional adoption back in focus.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1PQ0H0YWX9P513482DDRDG2/a-lot-of-hands-of-shiva-office-coins2.jpg",
-    "summary": "",
-    "importance": 5
-  },
-  {
     "title": "QuFi launches post-quantum verification platform with Bitcoin testnet proof",
     "link": "https://cointelegraph.com/news/qufi-launches-post-quantum-verification-platform-with-bitcoin-testnet-proof?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "pubDate": "Fri, 04 Sep 2026 17:09:25 +0000",
@@ -1558,18 +1574,6 @@
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2024/09/hugging_face_3-1152x648.jpg",
     "summary": "",
     "importance": 5
-  },
-  {
-    "title": "Bitcoin recovers toward $78,000 as pons and arbitrum extend Robinhood Chain rally",
-    "link": "https://www.coindesk.com/markets/2026/09/03/bitcoin-recovers-toward-usd78-000-as-pons-and-arbitrum-extend-robinhood-chain-rally",
-    "pubDate": "Thu, 03 Sep 2026 10:29:52 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "BTC rose 0.76% since midnight as a softer dollar lifted equities and metals alongside crypto, while ARB and PONS pushed higher for a third session.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/ea2fb6219173e7f2d8f99e4a9baff2d8090b15f6-1920x1070.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "Bitcoin (BTC) increased by 0.76% to approach $78,000, supported by a weaker dollar that boosted both equities and cryptocurrencies. Arbitrum (ARB) and Pons (PONS) tokens continued their three-day rally on Robinhood Chain.",
-    "importance": 4,
-    "classified": true
   },
   {
     "title": "‘Much ado about nothing’: CFTC files to dismiss CME’s lawsuit over crypto perpetual futures",
