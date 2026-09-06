@@ -48,18 +48,6 @@
     "classified": true
   },
   {
-    "title": "Nvidia buys Hugging Face for $12.9B in push into AI software",
-    "link": "https://cointelegraph.com/news/nvidia-buys-hugging-face-12-9-billion-ai-software?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Thu, 03 Sep 2026 12:41:11 +0000",
-    "source": "Cointelegraph",
-    "category": "ai",
-    "content": "Nvidia agreed to buy Hugging Face for $12.93 billion, gaining a platform used by more than 18 million developers to share and deploy AI models.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1KKFHFD5J5RD9BJBAS2SSBF/hi-how-to-train-an-ai-bot-to-day-trade-crypto2.jpg",
-    "summary": "Nvidia has acquired Hugging Face for $12.93 billion, a strategic move to significantly expand its footprint in the AI software market. Hugging Face is a popular platform utilized by over 18 million developers for sharing and deploying AI models.",
-    "importance": 9,
-    "classified": true
-  },
-  {
     "title": "South Korea to start tokenizing ‘all types’ of securities in three stages from 2027",
     "link": "https://www.theblock.co/news/regulation/2026-09-04-south-korea-to-start-tokenizing-all-types-of-securities-in-three-stages-from-2027-413523",
     "pubDate": "Fri, 04 Sep 2026 09:46:06 +0000",
@@ -117,6 +105,18 @@
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2024/09/hugging_face_3-1152x648.jpg",
     "summary": "Nvidia is reportedly acquiring Hugging Face, a major AI model repository, for $13 billion to bolster its open-source AI infrastructure. The deal highlights Nvidia's strategic push to dominate the AI ecosystem amid rising demand for accessible AI tools.",
     "importance": 9,
+    "classified": true
+  },
+  {
+    "title": "Better and Coinbase’s bitcoin-backed mortgages can reuse borrowers’ collateral ",
+    "link": "https://www.coindesk.com/business/2026/09/06/better-and-coinbase-s-bitcoin-backed-mortgages-can-reuse-borrowers-collateral",
+    "pubDate": "Sun, 06 Sep 2026 14:00:00 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "Better Mortgage can reuse the pledged bitcoin, and borrowers cannot recover their crypto until the main conventional mortgage is fully repaid or refinanced.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/a02993e4b0be694cb7d7b4718d4e0922311ed0c6-5472x3648.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "Better Mortgage, in collaboration with Coinbase, offers mortgages backed by bitcoin collateral. A key feature is that Better Mortgage can reuse the pledged bitcoin, and borrowers cannot recover their cryptocurrency until the main conventional mortgage is fully repaid or refinanced.",
+    "importance": 8,
     "classified": true
   },
   {
@@ -192,14 +192,14 @@
     "classified": true
   },
   {
-    "title": "SoFi, Kraken tie up as crypto and banking push into each other's turf",
-    "link": "https://www.coindesk.com/business/2026/09/03/sofi-kraken-tie-up-as-crypto-and-banking-push-into-each-other-s-turf",
-    "pubDate": "Thu, 03 Sep 2026 12:00:00 +0000",
-    "source": "CoinDesk",
+    "title": "Satoshi-era Bitcoin wakes after 16 years of dormancy as 600 BTC moves",
+    "link": "https://cointelegraph.com/news/satoshi-era-bitcoin-wakes-16-years-600-btc-moves?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Sun, 06 Sep 2026 13:03:00 +0000",
+    "source": "Cointelegraph",
     "category": "crypto",
-    "content": "Kraken is joining SoFi's settlement network and list SoFiUSD as the companies link traditional banking with crypto markets.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/6729e1c305b50c141cc3d56e8ad78bb80d24b6e7-1500x968.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "Kraken is partnering with SoFi, integrating into SoFi's settlement network and listing SoFiUSD. This collaboration aims to bridge traditional banking services with the cryptocurrency market.",
+    "content": "Whale Alert identified 12 mining rewards totaling 600 BTC that moved after 16 years of dormancy, with the onchain tracking platform finding no connection to Satoshi Nakamoto.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1V60Q7PWMX34D3B56J6E2WP/hi-who-is-the-whale-from-2018.jpg",
+    "summary": "Approximately 600 'Satoshi-era' Bitcoin, derived from 12 early mining rewards, has moved after 16 years of dormancy. Onchain tracking platform Whale Alert identified the transactions, confirming there is no connection to Bitcoin's creator, Satoshi Nakamoto.",
     "importance": 8,
     "classified": true
   },
@@ -218,7 +218,7 @@
   {
     "title": "Poland upholds crypto bill veto as Zondacrypto scandal widens",
     "link": "https://cointelegraph.com/news/poland-upholds-crypto-bill-veto-zondacrypto-scandal-widens?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Sat, 05 Sep 2026 10:44:29 +0000",
+    "pubDate": "Sat, 05 Sep 2026 10:46:00 +0000",
     "source": "Cointelegraph",
     "category": "crypto",
     "content": "Polish lawmakers failed to overturn a presidential veto of crypto legislation as the Zondacrypto investigation expands and its Estonian operator enters bankruptcy.",
@@ -396,6 +396,30 @@
     "classified": true
   },
   {
+    "title": "Architecting memory and storage in the AI era",
+    "link": "https://www.technologyreview.com/2026/09/04/1140872/architecting-memory-and-storage-in-the-ai-era/",
+    "pubDate": "Fri, 04 Sep 2026 18:39:19 +0000",
+    "source": "MIT Technology Review",
+    "category": "ai",
+    "content": "The era of AI inference has arrived. Imagine a healthcare system analyzing millions of data points in real time to accelerate life-saving medical research, or an intelligent assistant instantly resolving thousands of complex customer needs at once. These real-world breakthroughs rely on advanced infrastructure acting as the engine of continuous intelligence, powering real-time services while…",
+    "image": "https://wp.technologyreview.com/wp-content/uploads/2026/07/iStock-2239372581.jpg?w=840",
+    "summary": "The article emphasizes the crucial role of advanced memory and storage infrastructure in the current era of AI inference. It highlights how real-world applications, such as real-time healthcare data analysis and intelligent assistants, rely on these foundational systems to power continuous intelligence and deliver instantaneous services. This infrastructure is presented as the essential engine driving AI breakthroughs.",
+    "importance": 8,
+    "classified": true
+  },
+  {
+    "title": "The Download: selling battlefield drone data and AI reshaping language",
+    "link": "https://www.technologyreview.com/2026/09/04/1143457/the-download-ukraine-selling-drone-data-ai-reshaping-language/",
+    "pubDate": "Fri, 04 Sep 2026 12:10:00 +0000",
+    "source": "MIT Technology Review",
+    "category": "ai",
+    "content": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Data from drones in Ukraine is fueling a new Wild West marketplace —Cory Alpert, a researcher at the University of Melbourne studying AI’s impact on democracy, who previously served in the…",
+    "image": "https://wp.technologyreview.com/wp-content/uploads/2026/04/AdobeStock_716372037.jpg?fit=2128,1196",
+    "summary": "This edition of \"The Download\" newsletter covers two main topics: the emergence of a marketplace for battlefield drone data from Ukraine, and how AI is reshaping language. It also highlights a researcher from the University of Melbourne who is studying AI's significant impact on democracy, pointing to broader societal implications.",
+    "importance": 8,
+    "classified": true
+  },
+  {
     "title": "“Zlibrary my beloved”: Anthropic staff chats extolling piracy cited in Sony suit",
     "link": "https://arstechnica.com/tech-policy/2026/08/zlibrary-my-beloved-anthropic-staff-chats-extolling-piracy-cited-in-sony-suit/",
     "pubDate": "Mon, 31 Aug 2026 18:10:45 +0000",
@@ -536,18 +560,6 @@
     "content": "Users paid nearly $6 million in a day to create and trade tokens through Pons, more than they paid to use Pump or Hyperliquid, and even more than they paid to use Robinhood Chain itself.",
     "image": "https://cdn.sanity.io/images/s3y3vcno/production/800c636f7f1593410f22ed849c8620a1f9d1cfd0-6000x4000.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
     "summary": "A memecoin creation app called Pons generated nearly $6 million in fees in a single day, surpassing other major platforms like Pump, Hyperliquid, and even Robinhood Chain. This surge highlights the explosive growth in activity on Robinhood Chain and the booming demand for memecoin-related services.",
-    "importance": 7,
-    "classified": true
-  },
-  {
-    "title": "Bitget in talks with Wall Street giants including BlackRock to fuel Asian distribution ",
-    "link": "https://www.coindesk.com/business/2026/09/03/bitget-in-talks-with-wall-street-giants-including-blackrock-for-asian-distribution",
-    "pubDate": "Thu, 03 Sep 2026 14:41:25 +0000",
-    "source": "CoinDesk",
-    "category": "both",
-    "content": "Gracy Chen highlighted the world's largest asset manager as one example of such a firm seeking to expand distribution of their tokenized ETFs in the region.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/b211dc0a2c42f8c64487bc73e191e498111d9fed-7737x5161.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "Bitget is in discussions with major Wall Street firms like BlackRock to expand the distribution of tokenized ETFs in Asia, aiming to leverage institutional partnerships for growth in the region.",
     "importance": 7,
     "classified": true
   },
@@ -924,6 +936,18 @@
     "classified": true
   },
   {
+    "title": "Data from drones in Ukraine is fueling a new Wild West marketplace",
+    "link": "https://www.technologyreview.com/2026/09/04/1143452/drone-data-wild-west/",
+    "pubDate": "Fri, 04 Sep 2026 09:25:19 +0000",
+    "source": "MIT Technology Review",
+    "category": "ai",
+    "content": "Battlefields in Ukraine are littered with the remnants of drones, which are now firmly established as a critical weapon of modern warfare. But behind all that wreckage, there’s a new gold mine for the defense sector. The data drones generate will far outlast the wars in which they are used to fight, increasingly becoming part…",
+    "image": "",
+    "summary": "Battlefields in Ukraine are generating a new \"gold mine\" of data from fallen drones, establishing a crucial new marketplace for the defense sector. This valuable data is expected to far outlast the wars in which it's collected, becoming increasingly significant for modern warfare and analysis.",
+    "importance": 7,
+    "classified": true
+  },
+  {
     "title": "Agriculture relies on fossil fuels. It’s costing us.",
     "link": "https://www.technologyreview.com/2026/09/03/1143320/fertilizer-prices-fossil-fuels/",
     "pubDate": "Thu, 03 Sep 2026 10:00:00 +0000",
@@ -1094,7 +1118,7 @@
   {
     "title": "Here’s what happened in crypto today",
     "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Sat, 05 Sep 2026 11:16:19 +0000",
+    "pubDate": "Sun, 06 Sep 2026 13:24:43 +0000",
     "source": "Cointelegraph",
     "category": "crypto",
     "content": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
@@ -1176,37 +1200,16 @@
     "classified": true
   },
   {
-    "title": "Architecting memory and storage in the AI era",
-    "link": "https://www.technologyreview.com/2026/09/04/1140872/architecting-memory-and-storage-in-the-ai-era/",
-    "pubDate": "Fri, 04 Sep 2026 18:39:19 +0000",
-    "source": "MIT Technology Review",
-    "category": "ai",
-    "content": "The era of AI inference has arrived. Imagine a healthcare system analyzing millions of data points in real time to accelerate life-saving medical research, or an intelligent assistant instantly resolving thousands of complex customer needs at once. These real-world breakthroughs rely on advanced infrastructure acting as the engine of continuous intelligence, powering real-time services while…",
-    "image": "https://wp.technologyreview.com/wp-content/uploads/2026/07/iStock-2239372581.jpg?w=840",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "The Download: selling battlefield drone data and AI reshaping language",
-    "link": "https://www.technologyreview.com/2026/09/04/1143457/the-download-ukraine-selling-drone-data-ai-reshaping-language/",
-    "pubDate": "Fri, 04 Sep 2026 12:10:00 +0000",
-    "source": "MIT Technology Review",
-    "category": "ai",
-    "content": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Data from drones in Ukraine is fueling a new Wild West marketplace —Cory Alpert, a researcher at the University of Melbourne studying AI’s impact on democracy, who previously served in the…",
-    "image": "https://wp.technologyreview.com/wp-content/uploads/2026/04/AdobeStock_716372037.jpg?fit=2128,1196",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "Data from drones in Ukraine is fueling a new Wild West marketplace",
-    "link": "https://www.technologyreview.com/2026/09/04/1143452/drone-data-wild-west/",
-    "pubDate": "Fri, 04 Sep 2026 09:25:19 +0000",
-    "source": "MIT Technology Review",
-    "category": "ai",
-    "content": "Battlefields in Ukraine are littered with the remnants of drones, which are now firmly established as a critical weapon of modern warfare. But behind all that wreckage, there’s a new gold mine for the defense sector. The data drones generate will far outlast the wars in which they are used to fight, increasingly becoming part…",
-    "image": "",
-    "summary": "",
-    "importance": 5
+    "title": "Ukrainian police took down a crypto scam that stole up to $1 million a month",
+    "link": "https://www.coindesk.com/business/2026/09/06/ukrainian-police-took-down-a-crypto-scam-that-stole-up-to-usd1-million-a-month",
+    "pubDate": "Sun, 06 Sep 2026 16:00:00 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "Investigators have identified 62 victims and say more than 46 Ukrainians took part in the alleged operation.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/ac6842abf59685d7a979fa176e4dc1908a44ebdf-1920x1280.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "Ukrainian police successfully dismantled a major cryptocurrency scam operation that was allegedly stealing up to $1 million per month. The investigation has identified at least 62 victims and implicated more than 46 individuals in the scheme.",
+    "importance": 5,
+    "classified": true
   },
   {
     "title": "Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft",
