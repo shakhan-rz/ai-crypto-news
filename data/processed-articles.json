@@ -60,6 +60,18 @@
     "classified": true
   },
   {
+    "title": "South Korea to start tokenizing ‘all types’ of securities in three stages from 2027",
+    "link": "https://www.theblock.co/news/regulation/2026-09-04-south-korea-to-start-tokenizing-all-types-of-securities-in-three-stages-from-2027-413523",
+    "pubDate": "Fri, 04 Sep 2026 09:46:06 +0000",
+    "source": "The Block",
+    "category": "crypto",
+    "content": "South Korea ultimately aims to allow participants to settle tokenized securities onchain with stablecoins, as part of a three-stage plan.",
+    "image": "https://www.tbstat.com/wp/uploads/2024/02/20240220_SouthKorea_News-1200x675.jpg",
+    "summary": "South Korea is set to launch a three-stage plan from 2027 to tokenize all types of securities. This initiative will eventually allow participants to settle tokenized securities on-chain using stablecoins.",
+    "importance": 9,
+    "classified": true
+  },
+  {
     "title": "OpenAI’s next big AI model has ‘entered the AGI era’",
     "link": "https://www.theverge.com/ai-artificial-intelligence/989601/openai-gpt-6-astra-release",
     "pubDate": "2026-09-03T18:00:00.000Z",
@@ -332,6 +344,30 @@
     "content": "The newly identified records date from 2019 to 2021 and include names, emails, phone numbers, shipping addresses, and order numbers.",
     "image": "https://www.tbstat.com/wp/uploads/2023/02/20230222_Trezor-1200x675.jpg",
     "summary": "Trezor has disclosed that an additional 67,000 customers were impacted by a data breach at its e-commerce fulfillment partner, ShipMonk. The compromised records, dating from 2019 to 2021, include sensitive personal data such as names, emails, phone numbers, shipping addresses, and order numbers.",
+    "importance": 8,
+    "classified": true
+  },
+  {
+    "title": "Andreessen Horowitz-backed OpenReserve secures preliminary OCC approval for national bank charter",
+    "link": "https://www.theblock.co/news/regulation/2026-09-04-andreessen-horowitz-backed-openreserve-secures-preliminary-occ-approval-for-national-bank-charter-413528",
+    "pubDate": "Fri, 04 Sep 2026 10:18:40 +0000",
+    "source": "The Block",
+    "category": "crypto",
+    "content": "OpenReserve Holdings received preliminary OCC approval for a national bank focused on onchain settlement, following a $25 million seed round.",
+    "image": "https://www.tbstat.com/wp/uploads/2021/01/occ-scaled-e1772072708836-1198x675.jpg",
+    "summary": "OpenReserve Holdings, backed by Andreessen Horowitz, has received preliminary OCC approval for a national bank charter. This new institution will focus on onchain settlement and previously secured a $25 million seed funding round.",
+    "importance": 8,
+    "classified": true
+  },
+  {
+    "title": "US bitcoin ETFs report the largest inflow day since January, worth $731 million",
+    "link": "https://www.theblock.co/news/markets/2026-09-04-us-bitcoin-etfs-largest-inflow-day-since-january-413515",
+    "pubDate": "Fri, 04 Sep 2026 08:47:05 +0000",
+    "source": "The Block",
+    "category": "crypto",
+    "content": "Analysts attributed Fed Governor Christopher Waller’s dovish comments to the significant inflow of capital into bitcoin products.",
+    "image": "https://www.tbstat.com/wp/uploads/2023/10/20231019_NewBitcoinCity_News4-1200x675.png",
+    "summary": "US bitcoin ETFs reported their largest single-day inflow since January, totaling $731 million. Analysts attributed this significant capital influx into bitcoin products to dovish comments made by Fed Governor Christopher Waller.",
     "importance": 8,
     "classified": true
   },
@@ -680,6 +716,42 @@
     "content": "Grayscale's ZCSH inflows climb as surging network competition cuts into miners’ gains from the ZEC token's rally.",
     "image": "https://www.tbstat.com/wp/uploads/2025/12/20251202_ZCash_News_2-1200x675.jpg",
     "summary": "Zcash's price has surged past $1,000, driven by increased inflows into Grayscale's ZCSH product. Despite the ZEC token's rally, network competition is intensifying, which is cutting into miners' gains.",
+    "importance": 7,
+    "classified": true
+  },
+  {
+    "title": "El Salvador has not used public funds to accumulate bitcoin since June 2025, IMF says",
+    "link": "https://www.theblock.co/news/regulation/2026-09-04-el-salvador-has-not-used-public-funds-to-accumulate-bitcoin-since-june-2025-imf-says-413535",
+    "pubDate": "Fri, 04 Sep 2026 11:28:46 +0000",
+    "source": "The Block",
+    "category": "crypto",
+    "content": "IMF says El Salvador used no public funds for bitcoin accumulation since June 2025, with purchases coming from private donations.",
+    "image": "https://www.tbstat.com/wp/uploads/2022/02/20220214_El-Salvador_Bitcoin-1200x675.png",
+    "summary": "The International Monetary Fund (IMF) has stated that El Salvador has not used public funds to accumulate Bitcoin since June 2025. Instead, all Bitcoin purchases made by the country since that date have reportedly been sourced from private donations.",
+    "importance": 7,
+    "classified": true
+  },
+  {
+    "title": "Crypto firms urge SEC to speed ETF reviews and allow confidential draft filings",
+    "link": "https://www.theblock.co/news/regulation/2026-09-04-crypto-firms-urge-sec-to-speed-etf-reviews-and-allow-confidential-draft-filings-413532",
+    "pubDate": "Fri, 04 Sep 2026 11:21:09 +0000",
+    "source": "The Block",
+    "category": "crypto",
+    "content": "In contrast, Jane Street and Charles Schwab raised concerns over rushed ETF launches and confidential filings limiting market scrutiny.",
+    "image": "https://www.tbstat.com/wp/uploads/2025/04/20250414_SEC_News-1200x675.jpg",
+    "summary": "Crypto firms are pushing the SEC to expedite the review process for crypto ETFs and to allow confidential draft filings. Conversely, firms like Jane Street and Charles Schwab are concerned that these changes could result in hurried product launches and decreased market scrutiny.",
+    "importance": 7,
+    "classified": true
+  },
+  {
+    "title": "AMC stock jumps 21% overnight as CEO slams Robinhood over ‘outrageous’ tokenized shares",
+    "link": "https://www.theblock.co/news/business/2026-09-04-amc-ceo-slams-robinhood-413513",
+    "pubDate": "Fri, 04 Sep 2026 07:59:34 +0000",
+    "source": "The Block",
+    "category": "both",
+    "content": "OpenAI had previously made a similar criticism of Robinhood’s tokenized equities, saying it did not approve the transfer of its shares.",
+    "image": "https://www.tbstat.com/wp/uploads/2025/12/20251208_Robinhood_News-1200x675.jpg",
+    "summary": "AMC stock experienced a 21% surge overnight after its CEO publicly criticized Robinhood over its \"outrageous\" tokenized shares. OpenAI had previously voiced similar disapproval regarding Robinhood's tokenized equities, stating it did not authorize the transfer of its shares on the platform.",
     "importance": 7,
     "classified": true
   },
@@ -1066,72 +1138,6 @@
     "summary": "Meta has updated its AI-powered smart glasses to prevent nonconsensual recording by disabling the device whenever the safety light is covered, addressing privacy concerns. The change aims to make the glasses less intrusive while maintaining their core functionality.",
     "importance": 6,
     "classified": true
-  },
-  {
-    "title": "El Salvador has not used public funds to accumulate bitcoin since June 2025, IMF says",
-    "link": "https://www.theblock.co/news/regulation/2026-09-04-el-salvador-has-not-used-public-funds-to-accumulate-bitcoin-since-june-2025-imf-says-413535",
-    "pubDate": "Fri, 04 Sep 2026 11:28:46 +0000",
-    "source": "The Block",
-    "category": "crypto",
-    "content": "IMF says El Salvador used no public funds for bitcoin accumulation since June 2025, with purchases coming from private donations.",
-    "image": "https://www.tbstat.com/wp/uploads/2022/02/20220214_El-Salvador_Bitcoin-1200x675.png",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "Crypto firms urge SEC to speed ETF reviews and allow confidential draft filings",
-    "link": "https://www.theblock.co/news/regulation/2026-09-04-crypto-firms-urge-sec-to-speed-etf-reviews-and-allow-confidential-draft-filings-413532",
-    "pubDate": "Fri, 04 Sep 2026 11:21:09 +0000",
-    "source": "The Block",
-    "category": "crypto",
-    "content": "In contrast, Jane Street and Charles Schwab raised concerns over rushed ETF launches and confidential filings limiting market scrutiny.",
-    "image": "https://www.tbstat.com/wp/uploads/2025/04/20250414_SEC_News-1200x675.jpg",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "Andreessen Horowitz-backed OpenReserve secures preliminary OCC approval for national bank charter",
-    "link": "https://www.theblock.co/news/regulation/2026-09-04-andreessen-horowitz-backed-openreserve-secures-preliminary-occ-approval-for-national-bank-charter-413528",
-    "pubDate": "Fri, 04 Sep 2026 10:18:40 +0000",
-    "source": "The Block",
-    "category": "crypto",
-    "content": "OpenReserve Holdings received preliminary OCC approval for a national bank focused on onchain settlement, following a $25 million seed round.",
-    "image": "https://www.tbstat.com/wp/uploads/2021/01/occ-scaled-e1772072708836-1198x675.jpg",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "South Korea to start tokenizing ‘all types’ of securities in three stages from 2027",
-    "link": "https://www.theblock.co/news/regulation/2026-09-04-south-korea-to-start-tokenizing-all-types-of-securities-in-three-stages-from-2027-413523",
-    "pubDate": "Fri, 04 Sep 2026 09:46:06 +0000",
-    "source": "The Block",
-    "category": "crypto",
-    "content": "South Korea ultimately aims to allow participants to settle tokenized securities onchain with stablecoins, as part of a three-stage plan.",
-    "image": "https://www.tbstat.com/wp/uploads/2024/02/20240220_SouthKorea_News-1200x675.jpg",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "US bitcoin ETFs report the largest inflow day since January, worth $731 million",
-    "link": "https://www.theblock.co/news/markets/2026-09-04-us-bitcoin-etfs-largest-inflow-day-since-january-413515",
-    "pubDate": "Fri, 04 Sep 2026 08:47:05 +0000",
-    "source": "The Block",
-    "category": "crypto",
-    "content": "Analysts attributed Fed Governor Christopher Waller’s dovish comments to the significant inflow of capital into bitcoin products.",
-    "image": "https://www.tbstat.com/wp/uploads/2023/10/20231019_NewBitcoinCity_News4-1200x675.png",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "AMC stock jumps 21% overnight as CEO slams Robinhood over ‘outrageous’ tokenized shares",
-    "link": "https://www.theblock.co/news/business/2026-09-04-amc-ceo-slams-robinhood-413513",
-    "pubDate": "Fri, 04 Sep 2026 07:59:34 +0000",
-    "source": "The Block",
-    "category": "crypto",
-    "content": "OpenAI had previously made a similar criticism of Robinhood’s tokenized equities, saying it did not approve the transfer of its shares.",
-    "image": "https://www.tbstat.com/wp/uploads/2025/12/20251208_Robinhood_News-1200x675.jpg",
-    "summary": "",
-    "importance": 5
   },
   {
     "title": "Hargreaves Lansdown Reverses Course, Rolls Out Bitcoin Trading ",
