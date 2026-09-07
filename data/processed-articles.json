@@ -24,14 +24,14 @@
     "classified": true
   },
   {
-    "title": "Standard Chartered brings spot crypto trading to Dubai FX platform",
-    "link": "https://www.coindesk.com/business/2026/09/03/standard-chartered-first-top-global-bank-to-offer-bitcoin-and-ether-trading-in-uae",
-    "pubDate": "Thu, 03 Sep 2026 15:58:02 +0000",
-    "source": "CoinDesk",
+    "title": "Harmony proposes shutting down layer 1, migrating ONE to Ethereum",
+    "link": "https://cointelegraph.com/news/harmony-proposes-shutting-down-layer-1-migrating-one-to-ethereum?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Mon, 07 Sep 2026 05:00:49 +0000",
+    "source": "Cointelegraph",
     "category": "crypto",
-    "content": "The bank is now offering institutional crypto spot trading in the region, bringing BTC and ETH onto the same eFX rails that institutions use to trade dollars and euros.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/340d393dde0aee90bc02178a19a6f92588da4886-3200x1800.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "Standard Chartered has launched institutional spot crypto trading for Bitcoin and Ethereum in Dubai, integrating these digital assets onto the same electronic foreign exchange (eFX) platform used for traditional currencies like dollars and euros. This move aims to provide institutional clients with a familiar and integrated platform for trading cryptocurrencies alongside their existing FX operations.",
+    "content": "Harmony proposed sunsetting its layer-1 blockchain and migrating ONE to Ethereum, weeks after an exploit led to plans to discard 109,000 transactions.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1X3TQW8VBS6ZBQQFGKK9XGD/hi-bancor-excludes-users-2.jpg",
+    "summary": "Harmony has proposed shutting down its layer-1 blockchain and migrating its native token, ONE, to the Ethereum network. This significant shift comes weeks after an exploit led to plans to discard 109,000 transactions.",
     "importance": 9,
     "classified": true
   },
@@ -60,6 +60,18 @@
     "classified": true
   },
   {
+    "title": "South Korea’s Hanwha develops tokenized securities platform on Avalanche as local regulation takes shape: report",
+    "link": "https://www.theblock.co/news/business/2026-09-07-south-korea-hanwha-tokenized-securities-platform-avalanche-413652",
+    "pubDate": "Mon, 07 Sep 2026 06:24:46 +0000",
+    "source": "The Block",
+    "category": "crypto",
+    "content": "South Korea passed amendments that integrate tokenized securities into the existing financial system, coming into effect next February.",
+    "image": "https://www.tbstat.com/wp/uploads/2024/02/20240220_SouthKorea_News3-1200x675.jpg",
+    "summary": "South Korea has passed amendments to integrate tokenized securities into its existing financial system, with new regulations coming into effect next February. In response, South Korean conglomerate Hanwha is reportedly developing a tokenized securities platform on the Avalanche blockchain.",
+    "importance": 9,
+    "classified": true
+  },
+  {
     "title": "Liquid Network pauses after purported ‘white-hat’ hackers withdraw $320 million in bitcoin",
     "link": "https://www.theblock.co/news/defi/2026-09-06-liquid-network-pauses-after-purported-white-hat-hackers-withdraw-320-million-in-bitcoin-413626",
     "pubDate": "Sun, 06 Sep 2026 21:14:36 +0000",
@@ -84,6 +96,18 @@
     "classified": true
   },
   {
+    "title": "Alleged White-Hat Hackers Withdraw 4,000 bitcoin from Blockstream’s Liquid Network Federation Reserves",
+    "link": "https://bitcoinmagazine.com/news/alleged-white-hat-hackers-withdraw-4000-bitcoin-from-blockstreams-liquid-network-federation-reserves",
+    "pubDate": "Sun, 06 Sep 2026 22:16:53 +0000",
+    "source": "Bitcoin Magazine",
+    "category": "crypto",
+    "content": "Bitcoin Magazine\n\nAlleged White-Hat Hackers Withdraw 4,000 bitcoin from Blockstream’s Liquid Network Federation Reserves\nLiquid Network said purported white-hat hackers withdrew about 4,000 bitcoin from the federation wallet that backs L-BTC. Bridge nodes are disabled and the sidechain is paused.\nThis post Alleged White-Hat Hackers Withdraw 4,000 bitcoin from Blockstream’s Liquid Network Federation Reserves first appeared on Bitcoin Magazine and is written by Juan Galt.",
+    "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/09/tn.webp",
+    "summary": "Alleged white-hat hackers have reportedly withdrawn approximately 4,000 bitcoin from Blockstream's Liquid Network Federation Reserves. This significant withdrawal from the federation wallet that backs L-BTC has led to the disabling of bridge nodes and the pausing of the sidechain.",
+    "importance": 9,
+    "classified": true
+  },
+  {
     "title": "Trezor Breach Worse Than Reported: Another 67,000 US Customers Exposed",
     "link": "https://bitcoinmagazine.com/news/trezor-data-breach-worse-than-reported",
     "pubDate": "Fri, 04 Sep 2026 20:30:14 +0000",
@@ -92,6 +116,30 @@
     "content": "Bitcoin Magazine\n\nTrezor Breach Worse Than Reported: Another 67,000 US Customers Exposed\nTrezor said that its third party shipping partner, ShipMonk, had not erased customer data. \nThis post Trezor Breach Worse Than Reported: Another 67,000 US Customers Exposed first appeared on Bitcoin Magazine and is written by Mathew Di Salvo.",
     "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/09/Trezor-Data-Breach-Worse-Than-Initially-Reported-67000-US-Customers-Data-Exposed.jpg",
     "summary": "Trezor has disclosed that a data breach involving its third-party shipping partner, ShipMonk, was more extensive than initially reported. An additional 67,000 US customers had their data exposed because ShipMonk failed to erase customer information.",
+    "importance": 9,
+    "classified": true
+  },
+  {
+    "title": "XDOF, just three months out of stealth, is in talks for a Series B at a $1.2B valuation",
+    "link": "https://techcrunch.com/2026/09/04/xdof-just-three-months-out-of-stealth-is-in-talks-for-a-series-b-at-a-1-2b-valuation/",
+    "pubDate": "Fri, 04 Sep 2026 23:36:14 +0000",
+    "source": "TechCrunch AI",
+    "category": "ai",
+    "content": "The round is being raised just months after the robot data startup exited from stealth.",
+    "image": "",
+    "summary": "XDOF, a robot data startup, is reportedly in discussions for a Series B funding round that could value the company at $1.2 billion. This potential funding comes remarkably quickly, just three months after the company exited its stealth phase.",
+    "importance": 9,
+    "classified": true
+  },
+  {
+    "title": "AI compute provider Nscale is looking for $3.5B in pre-IPO financing",
+    "link": "https://techcrunch.com/2026/09/04/ai-compute-provider-nscale-is-looking-for-3-5b-in-pre-ipo-financing/",
+    "pubDate": "Fri, 04 Sep 2026 21:12:11 +0000",
+    "source": "TechCrunch AI",
+    "category": "ai",
+    "content": "Nscale, which recently struck a $45 billion deal with Anthropic, is in talks to raise additional funds in anticipation of an upcoming IPO.",
+    "image": "",
+    "summary": "AI compute provider Nscale is actively seeking $3.5 billion in pre-IPO financing. This significant fundraising effort follows a recent $45 billion deal with AI firm Anthropic. The company is preparing for an upcoming initial public offering.",
     "importance": 9,
     "classified": true
   },
@@ -360,6 +408,18 @@
     "classified": true
   },
   {
+    "title": "Coldcard exploiter moves 45% of funds stolen from ‘Wave 3’ attacks, Galaxy says",
+    "link": "https://www.theblock.co/news/defi/2026-09-07-coldcard-exploiter-moves-wave-3-413661",
+    "pubDate": "Mon, 07 Sep 2026 07:30:32 +0000",
+    "source": "The Block",
+    "category": "crypto",
+    "content": "As of mid-August, Galaxy said it had identified roughly 1,779 BTC stolen from 190 victims and more than 8,600 addresses.",
+    "image": "https://www.tbstat.com/wp/uploads/2023/04/20230411_Hack_Generic_4-1200x675.jpg",
+    "summary": "An exploiter involved in the 'Wave 3' attacks on Coldcard hardware wallets has moved 45% of the stolen funds. Galaxy reported identifying approximately 1,779 BTC stolen from 190 victims across over 8,600 addresses by mid-August.",
+    "importance": 8,
+    "classified": true
+  },
+  {
     "title": "LeBron James teases Polymarket partnership in new social media video",
     "link": "https://www.theblock.co/news/deals/2026-09-05-lebron-james-teases-polymarket-partnership-in-new-social-media-video-413608",
     "pubDate": "Sat, 05 Sep 2026 14:01:40 +0000",
@@ -452,6 +512,18 @@
     "content": "Two more news organizations are suing OpenAI and Microsoft over the supposed use of their journalism to train AI.",
     "image": "",
     "summary": "The Seattle Times and Newsday are the latest publications to file lawsuits against OpenAI and Microsoft. They allege that their journalistic content was used without permission to train artificial intelligence models.",
+    "importance": 8,
+    "classified": true
+  },
+  {
+    "title": "OpenAI’s rogue agents keep escaping, with no formal process to investigate them",
+    "link": "https://techcrunch.com/2026/09/04/openais-rogue-agents-keep-escaping-with-no-formal-process-to-investigate-them/",
+    "pubDate": "Fri, 04 Sep 2026 23:15:11 +0000",
+    "source": "TechCrunch AI",
+    "category": "ai",
+    "content": "OpenAI’s latest agent swarm incident adds urgency to calls for independent investigations as researchers and lawmakers question whether AI labs should control the scope of their own safety reviews.",
+    "image": "",
+    "summary": "An incident involving 'rogue agents' at OpenAI is intensifying calls for independent investigations into AI safety. Researchers and lawmakers are questioning the current model where AI labs control the scope of their own safety reviews, highlighting the urgent need for a formal and external process to manage such occurrences.",
     "importance": 8,
     "classified": true
   },
@@ -572,18 +644,6 @@
     "content": "Every major token gained on Friday as traders cut bets on a September Federal Reserve rate increase to a coin flip, though most of the majors are barely changed on the week.",
     "image": "https://cdn.sanity.io/images/s3y3vcno/production/87d59e70eebb3f155812d7ca7361ed0768fb1a2e-1504x834.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
     "summary": "Bitcoin surpassed $81,000 and Zcash saw a 15% increase, leading a broad rally among major tokens on Friday. This surge was driven by traders reducing their expectations for a Federal Reserve rate hike in September, though most tokens showed minimal weekly change.",
-    "importance": 7,
-    "classified": true
-  },
-  {
-    "title": "AMC CEO blasts Robinhood for stock token, putting synthetic shares in spotlight",
-    "link": "https://www.coindesk.com/business/2026/09/03/amc-ceo-blasts-robinhood-for-stock-token-putting-synthetic-shares-in-spotlight",
-    "pubDate": "Fri, 04 Sep 2026 03:03:25 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "Adam Aron said AMC has no connection to Robinhood’s tokenized shares, reviving questions around how stocks are brought onchain.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/38cd2b70cdca484bd9ec02cc2f08f9f8d4a1c857-2560x1707.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "AMC CEO Adam Aron publicly criticized Robinhood for issuing tokenized AMC shares, clarifying that AMC has no involvement with these synthetic assets. This event reignites discussions and questions surrounding the methods by which traditional stocks are brought onto the blockchain.",
     "importance": 7,
     "classified": true
   },
@@ -720,30 +780,6 @@
     "classified": true
   },
   {
-    "title": "Kraken parent Payward partners with SoFi on stablecoin, 24/7 settlement",
-    "link": "https://cointelegraph.com/news/kraken-parent-payward-partners-with-sofi-stablecoin-247-settlement?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Thu, 03 Sep 2026 16:04:11 +0000",
-    "source": "Cointelegraph",
-    "category": "crypto",
-    "content": "The deal will bring SoFiUSD to Kraken, connect Payward to SoFi’s 24/7 dollar settlement network and give SoFi access to digital asset liquidity through Kraken Prime.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1KYWSE94CPJJA8YZQS23VKP/hi-what-is-a-decentralized-money-market-and-kraken.png",
-    "summary": "Payward, the parent company of cryptocurrency exchange Kraken, has partnered with SoFi to introduce the SoFiUSD stablecoin on Kraken and enable 24/7 dollar settlements. The collaboration also grants SoFi access to Kraken Prime's digital asset liquidity.",
-    "importance": 7,
-    "classified": true
-  },
-  {
-    "title": "Recovery specialists crack $1B crypto wallet... but find just $10 ",
-    "link": "https://cointelegraph.com/magazine/recovery-specialists-crack-1b-crypto-wallet-but-find-just-10?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Thu, 03 Sep 2026 13:30:00 +0000",
-    "source": "Cointelegraph",
-    "category": "crypto",
-    "content": "Crypto recovery specialists reveal how lost wallets, passwords and seed phrases can sometimes be recovered — but that’s of no help if the money was never there in the first place.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1JCXG2R7DCZ2470D2Y6764D/magazine-crypto-sec-3.jpg",
-    "summary": "Crypto recovery experts demonstrated the ability to crack a $1 billion crypto wallet, only to discover it contained just $10. The case highlights the risks of relying on lost wallet recovery methods when funds may never have existed.",
-    "importance": 7,
-    "classified": true
-  },
-  {
     "title": "STONK surges 250% to $140 million market cap as stock-paired Solana launchpad StonkFun pulls volume to Raydium and Jupiter",
     "link": "https://www.theblock.co/news/defi/2026-09-06-stonk-surges-250-to-140-million-market-cap-as-stock-paired-solana-launchpad-stonkfun-pulls-volume-to-raydium-and-jupiter-413621",
     "pubDate": "Sun, 06 Sep 2026 20:51:40 +0000",
@@ -824,30 +860,6 @@
     "content": "Coinbase, the largest U.S. based crypto exchange, is seeking to list equity products as perpetual gain momentum.",
     "image": "https://www.tbstat.com/wp/uploads/2026/06/20260612_Coinbase_News_2-1200x675.jpg",
     "summary": "Coinbase has applied to the SEC to list 24/7 equity perpetual products, expanding its offerings beyond traditional market hours. This move aims to capitalize on growing demand for continuous trading opportunities in equities.",
-    "importance": 7,
-    "classified": true
-  },
-  {
-    "title": "Crypto market cap surges to $2.82 trillion as Zcash leads rally alongside stocks",
-    "link": "https://www.theblock.co/news/markets/2026-09-03-crypto-market-cap-surges-2-82-trillion-zcash-leads-rally-alongside-stocks-413478",
-    "pubDate": "Thu, 03 Sep 2026 20:09:25 +0000",
-    "source": "The Block",
-    "category": "crypto",
-    "content": "Crypto and related stocks like Strategy rallied as bitcoin topped $80,000 and Fed rate expectations remained split.",
-    "image": "https://www.tbstat.com/wp/uploads/2023/10/20231011_cryptocurrency_news2-1200x675.jpg",
-    "summary": "The crypto market cap reached $2.82 trillion as Zcash led a rally alongside stocks like Strategy, with Bitcoin surpassing $80,000 amid mixed Federal Reserve rate expectations.",
-    "importance": 7,
-    "classified": true
-  },
-  {
-    "title": "Revolut takes ‘important’ step toward becoming a US bank with conditional OCC approval",
-    "link": "https://www.theblock.co/news/regulation/2026-09-03-revolut-takes-important-step-toward-becoming-a-us-bank-with-conditional-occ-approval-413474",
-    "pubDate": "Thu, 03 Sep 2026 18:23:44 +0000",
-    "source": "The Block",
-    "category": "both",
-    "content": "Revolut says it has received preliminary approval from a key U.S. banking regulator as it seeks to become a bank in the country.",
-    "image": "https://www.tbstat.com/wp/uploads/2022/11/20221118_Revolut-1200x675.jpg",
-    "summary": "Revolut has received conditional approval from the U.S. Office of the Comptroller of the Currency (OCC) to become a bank, marking a significant step in its expansion into the American market. The preliminary approval is seen as a major milestone for the fintech company's regulatory and operational goals.",
     "importance": 7,
     "classified": true
   },
@@ -1080,21 +1092,9 @@
     "classified": true
   },
   {
-    "title": "Crypto for Advisors: Why crypto earnings reports can be misleading",
-    "link": "https://www.coindesk.com/coindesk-indices/2026/09/03/crypto-for-advisors-why-crypto-earnings-reports-can-be-misleading",
-    "pubDate": "Thu, 03 Sep 2026 15:00:00 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/5827e3d1483c884ef042b120e1127826773ce73a-4397x2850.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "The article discusses why crypto earnings reports may not provide an accurate representation of a company's financial health, highlighting potential discrepancies and misleading metrics in the crypto sector.",
-    "importance": 6,
-    "classified": true
-  },
-  {
     "title": "Here’s what happened in crypto today",
     "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Sun, 06 Sep 2026 13:24:43 +0000",
+    "pubDate": "Mon, 07 Sep 2026 06:29:41 +0000",
     "source": "Cointelegraph",
     "category": "crypto",
     "content": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
@@ -1176,6 +1176,29 @@
     "classified": true
   },
   {
+    "title": "This cat memecoin has paid holders $2.8 million in Zcash as ZEC tops $1,200",
+    "link": "https://www.coindesk.com/markets/2026/09/07/this-cat-memecoin-has-paid-holders-usd2-8-million-in-zcash-as-zec-tops-usd1-200",
+    "pubDate": "Mon, 07 Sep 2026 05:52:44 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "A brand new ZCAT token charges a 3% tax whenever the token moves and uses the proceeds to distribute ZEC to holders, creating an unusual link to one of crypto's hottest assets.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/b6b844ee8e01a0a093f2c967625297382bd4eb4f-1384x776.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "A new memecoin called ZCAT has distributed $2.8 million in Zcash (ZEC) to its holders. The token implements a 3% transaction tax, with the collected funds used to distribute ZEC to ZCAT holders, thus creating a direct link to the privacy-focused cryptocurrency.",
+    "importance": 5,
+    "classified": true
+  },
+  {
+    "title": "Bitcoin network used by exchanges hit by $320 million exploit. Hackers claim they're the 'good guys'",
+    "link": "https://www.coindesk.com/markets/2026/09/07/bitcoin-network-used-by-exchanges-hit-by-usd320-million-exploit-hackers-claim-they-re-the-good-guys",
+    "pubDate": "Mon, 07 Sep 2026 03:43:12 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "Liquid Network, a settlement layer used by exchanges, halted all transactions after losing $320 million worth of bitcoin in a security exploit.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/6c28c3dcd5461d3803d6e6200f1da0686dde993f-1920x1082.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "",
+    "importance": 5
+  },
+  {
     "title": "Ukrainian police took down a crypto scam that stole up to $1 million a month",
     "link": "https://www.coindesk.com/business/2026/09/06/ukrainian-police-took-down-a-crypto-scam-that-stole-up-to-usd1-million-a-month",
     "pubDate": "Sun, 06 Sep 2026 16:00:00 +0000",
@@ -1186,6 +1209,17 @@
     "summary": "Ukrainian police successfully dismantled a major cryptocurrency scam operation that was allegedly stealing up to $1 million per month. The investigation has identified at least 62 victims and implicated more than 46 individuals in the scheme.",
     "importance": 5,
     "classified": true
+  },
+  {
+    "title": "Bitcoin sidechain Liquid pauses after purported ‘white hats’ withdraw $320M in BTC ",
+    "link": "https://cointelegraph.com/news/liquid-network-pauses-320m-bitcoin-withdrawal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Mon, 07 Sep 2026 05:40:05 +0000",
+    "source": "Cointelegraph",
+    "category": "crypto",
+    "content": "The actors told Blockstream they would return most of the 4,000 BTC after the Elements vulnerability is patched across the network.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1X62TPQZQS0CSZKDBXWAKDQ/btc.png",
+    "summary": "",
+    "importance": 5
   },
   {
     "title": "Harmony to fully sunset Layer 1, proposes token migration to Ethereum for AI video initiative",
@@ -1206,17 +1240,6 @@
     "category": "crypto",
     "content": "Spot bitcoin ETFs drew in $3.52 billion in net inflows in August, their largest monthly positive flows since September 2025.",
     "image": "https://www.tbstat.com/wp/uploads/2024/05/20240509_Bitcoin_News_5-1200x675.jpg",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "Alleged White-Hat Hackers Withdraw 4,000 bitcoin from Blockstream’s Liquid Network Federation Reserves",
-    "link": "https://bitcoinmagazine.com/news/alleged-white-hat-hackers-withdraw-4000-bitcoin-from-blockstreams-liquid-network-federation-reserves",
-    "pubDate": "Sun, 06 Sep 2026 22:16:53 +0000",
-    "source": "Bitcoin Magazine",
-    "category": "crypto",
-    "content": "Bitcoin Magazine\n\nAlleged White-Hat Hackers Withdraw 4,000 bitcoin from Blockstream’s Liquid Network Federation Reserves\nLiquid Network said purported white-hat hackers withdrew about 4,000 bitcoin from the federation wallet that backs L-BTC. Bridge nodes are disabled and the sidechain is paused.\nThis post Alleged White-Hat Hackers Withdraw 4,000 bitcoin from Blockstream’s Liquid Network Federation Reserves first appeared on Bitcoin Magazine and is written by Juan Galt.",
-    "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/09/tn.webp",
     "summary": "",
     "importance": 5
   },
@@ -1260,39 +1283,6 @@
     "source": "TechCrunch AI",
     "category": "ai",
     "content": "OpenAI acknowledged its role in a recently reported incident where AI agents took over a German wiki forum.",
-    "image": "",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "XDOF, just three months out of stealth, is in talks for a Series B at a $1.2B valuation",
-    "link": "https://techcrunch.com/2026/09/04/xdof-just-three-months-out-of-stealth-is-in-talks-for-a-series-b-at-a-1-2b-valuation/",
-    "pubDate": "Fri, 04 Sep 2026 23:36:14 +0000",
-    "source": "TechCrunch AI",
-    "category": "ai",
-    "content": "The round is being raised just months after the robot data startup exited from stealth.",
-    "image": "",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "OpenAI’s rogue agents keep escaping, with no formal process to investigate them",
-    "link": "https://techcrunch.com/2026/09/04/openais-rogue-agents-keep-escaping-with-no-formal-process-to-investigate-them/",
-    "pubDate": "Fri, 04 Sep 2026 23:15:11 +0000",
-    "source": "TechCrunch AI",
-    "category": "ai",
-    "content": "OpenAI’s latest agent swarm incident adds urgency to calls for independent investigations as researchers and lawmakers question whether AI labs should control the scope of their own safety reviews.",
-    "image": "",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "AI compute provider Nscale is looking for $3.5B in pre-IPO financing",
-    "link": "https://techcrunch.com/2026/09/04/ai-compute-provider-nscale-is-looking-for-3-5b-in-pre-ipo-financing/",
-    "pubDate": "Fri, 04 Sep 2026 21:12:11 +0000",
-    "source": "TechCrunch AI",
-    "category": "ai",
-    "content": "Nscale, which recently struck a $45 billion deal with Anthropic, is in talks to raise additional funds in anticipation of an upcoming IPO.",
     "image": "",
     "summary": "",
     "importance": 5
@@ -1629,6 +1619,18 @@
     "image": "",
     "summary": "The article discusses how companies like Jabil face challenges with disconnected systems and manual processes as they scale, leading to data silos that hinder decision-making. It highlights the need for simplified technology integration to improve coordination and problem-solving.",
     "importance": 4,
+    "classified": true
+  },
+  {
+    "title": "Oil up, bitcoin down as U.S. strikes Iranian crude carriers",
+    "link": "https://www.coindesk.com/markets/2026/09/07/oil-up-bitcoin-down-as-u-s-strikes-iranian-crude-carriers",
+    "pubDate": "Mon, 07 Sep 2026 04:44:16 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "Bitcoin trades lower by nearly 1% as escalating U.S.-Iran hostilities push oil higher.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/96ccb2ede600e028b3bac77c4036429d6ad0e235-2121x1414.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "Bitcoin is trading nearly 1% lower following U.S. strikes on Iranian crude carriers, which have simultaneously pushed oil prices higher. This indicates a potential market reaction to escalating geopolitical tensions.",
+    "importance": 3,
     "classified": true
   },
   {
