@@ -120,6 +120,30 @@
     "classified": true
   },
   {
+    "title": "Bit2Me sets up specialized unit to help law enforcement track down crypto assets",
+    "link": "https://www.coindesk.com/business/2026/09/02/bit2me-sets-up-specialized-unit-to-help-law-enforcement-track-down-crypto-assets",
+    "pubDate": "Tue, 08 Sep 2026 07:00:00 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "The unit formalizes past operations, building on 1.5 million euros in seized crypto the exchange processed in 2025 for agencies including Interpol and Europol.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/23e2945b7f1cdacbebd3f42923b110bd7196c153-1920x1280.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "Bit2Me, a crypto exchange, has established a specialized unit to assist law enforcement agencies like Interpol and Europol in tracking and seizing crypto assets. This formalizes previous operations where the exchange processed 1.5 million euros in seized cryptocurrencies.",
+    "importance": 8,
+    "classified": true
+  },
+  {
+    "title": "Liquid Network gets back 3,400 bitcoin from whitehat hackers; talks underway for the rest",
+    "link": "https://www.coindesk.com/markets/2026/09/08/white-hat-hackers-return-most-of-usd320m-bitcoin-taken-from-liquid-network",
+    "pubDate": "Tue, 08 Sep 2026 04:41:17 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "Supposed whitehat hackers behind Sunday’s Liquid Network breach have returned 3,400 of the 4,000 BTC they took, but nearly $47 million in bitcoin is still outstanding.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/715902191aa8f46558dbd6a00c7b125cde303fe5-6000x4000.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "Whitehat hackers responsible for Sunday's Liquid Network breach have returned 3,400 of the 4,000 BTC initially taken. While a significant portion has been recovered, approximately $47 million worth of bitcoin remains outstanding, and negotiations are underway for its full return.",
+    "importance": 8,
+    "classified": true
+  },
+  {
     "title": "Polish prosecutors charge fifth suspect in a massive crypto probe",
     "link": "https://www.coindesk.com/policy/2026/09/07/polish-prosecutors-charge-fifth-suspect-in-a-massive-crypto-probe",
     "pubDate": "Mon, 07 Sep 2026 15:28:43 +0000",
@@ -144,38 +168,14 @@
     "classified": true
   },
   {
-    "title": "Prediction markets inch closer to the Supreme Court: State of Crypto ",
-    "link": "https://www.coindesk.com/news-analysis/2026/09/06/prediction-markets-inch-closer-to-the-supreme-court-state-of-crypto",
-    "pubDate": "Sun, 06 Sep 2026 18:30:00 +0000",
+    "title": "Ethereum commits to letting users pay gas fees without having to hold ETH",
+    "link": "https://www.coindesk.com/tech/2026/09/07/ethereum-commits-to-letting-users-pay-gas-fees-without-having-to-hold-eth",
+    "pubDate": "Mon, 07 Sep 2026 13:54:07 +0000",
     "source": "CoinDesk",
     "category": "crypto",
-    "content": "New Jersey petitioned for a writ of certiorari in Kalshi's case against it last week, finally throwing the ball to the high court.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/64a3b8b28556a566f583d451a219e2f7a97f9318-5315x3421.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "New Jersey has petitioned the Supreme Court for a writ of certiorari in its case against the prediction market platform Kalshi. This action means the legal dispute surrounding prediction markets could now be reviewed by the highest court in the United States.",
-    "importance": 8,
-    "classified": true
-  },
-  {
-    "title": "Better and Coinbase’s bitcoin-backed mortgages can reuse borrowers’ collateral ",
-    "link": "https://www.coindesk.com/business/2026/09/06/better-and-coinbase-s-bitcoin-backed-mortgages-can-reuse-borrowers-collateral",
-    "pubDate": "Sun, 06 Sep 2026 14:00:00 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "Better Mortgage can reuse the pledged bitcoin, and borrowers cannot recover their crypto until the main conventional mortgage is fully repaid or refinanced.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/a02993e4b0be694cb7d7b4718d4e0922311ed0c6-5472x3648.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "Better Mortgage, in collaboration with Coinbase, offers mortgages backed by bitcoin collateral. A key feature is that Better Mortgage can reuse the pledged bitcoin, and borrowers cannot recover their cryptocurrency until the main conventional mortgage is fully repaid or refinanced.",
-    "importance": 8,
-    "classified": true
-  },
-  {
-    "title": "Timing the bitcoin market is exciting but nearly impossible. Here's why",
-    "link": "https://www.coindesk.com/markets/2026/09/05/why-crypto-experts-say-buying-and-holding-bitcoin-easily-beats-trying-to-time-the-market",
-    "pubDate": "Sat, 05 Sep 2026 18:05:11 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "A historical analysis of bitcoin price performance from 2010 through 2026 demonstrates that the vast majority of the asset's annual returns occur during a tiny fraction of the calendar year.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/67f1b9834e7673076b5fd1e6db8975934fb913e3-1920x1080.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "A historical analysis of Bitcoin's price performance from 2010 to 2026 demonstrates that the vast majority of its annual returns occur during a tiny fraction of the calendar year. This finding leads crypto experts to conclude that a buy-and-hold strategy for Bitcoin easily beats attempts to time the market.",
+    "content": "The Frame Transactions feature was locked into the Hegotá upgrade last month, and Ethereum co-founder Vitalik Buterin says the work has moved quickly since.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/c357579ddef2051b405b9e89f8525dd02709081d-5760x3240.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "Ethereum is implementing a new \"Frame Transactions\" feature, part of the Hegotá upgrade, which will allow users to pay gas fees without needing to hold ETH. Ethereum co-founder Vitalik Buterin notes that work on this significant usability improvement is progressing quickly. This change aims to simplify transactions and potentially broaden adoption of the Ethereum network.",
     "importance": 8,
     "classified": true
   },
@@ -276,18 +276,6 @@
     "classified": true
   },
   {
-    "title": "Revolut, OpenReserve get preliminary US bank approval with crypto plans",
-    "link": "https://cointelegraph.com/news/revolut-openreserve-occ-approval-national-bank-crypto-plan?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Fri, 04 Sep 2026 13:34:30 +0000",
-    "source": "Cointelegraph",
-    "category": "crypto",
-    "content": "Revolut and OpenReserve received preliminary OCC approval to form US national banks, with both planning cryptocurrency and stablecoin-related services.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1P74NCJ7VVQEWSD26T81DZH/digital-bank-2.jpg",
-    "summary": "Revolut and OpenReserve have received preliminary approval from the OCC to form US national banks. Both companies plan to incorporate cryptocurrency and stablecoin-related services into their offerings.",
-    "importance": 8,
-    "classified": true
-  },
-  {
     "title": "Coldcard exploiter moves 45% of funds stolen from ‘Wave 3’ attacks, Galaxy says",
     "link": "https://www.theblock.co/news/defi/2026-09-07-coldcard-exploiter-moves-wave-3-413661",
     "pubDate": "Mon, 07 Sep 2026 07:30:32 +0000",
@@ -332,18 +320,6 @@
     "content": "The newly identified records date from 2019 to 2021 and include names, emails, phone numbers, shipping addresses, and order numbers.",
     "image": "https://www.tbstat.com/wp/uploads/2023/02/20230222_Trezor-1200x675.jpg",
     "summary": "Trezor has disclosed that an additional 67,000 customers were impacted by a data breach at its e-commerce fulfillment partner, ShipMonk. The compromised records, dating from 2019 to 2021, include sensitive personal data such as names, emails, phone numbers, shipping addresses, and order numbers.",
-    "importance": 8,
-    "classified": true
-  },
-  {
-    "title": "Andreessen Horowitz-backed OpenReserve secures preliminary OCC approval for national bank charter",
-    "link": "https://www.theblock.co/news/regulation/2026-09-04-andreessen-horowitz-backed-openreserve-secures-preliminary-occ-approval-for-national-bank-charter-413528",
-    "pubDate": "Fri, 04 Sep 2026 10:18:40 +0000",
-    "source": "The Block",
-    "category": "crypto",
-    "content": "OpenReserve Holdings received preliminary OCC approval for a national bank focused on onchain settlement, following a $25 million seed round.",
-    "image": "https://www.tbstat.com/wp/uploads/2021/01/occ-scaled-e1772072708836-1198x675.jpg",
-    "summary": "OpenReserve Holdings, backed by Andreessen Horowitz, has received preliminary OCC approval for a national bank charter. This new institution will focus on onchain settlement and previously secured a $25 million seed funding round.",
     "importance": 8,
     "classified": true
   },
@@ -432,14 +408,14 @@
     "classified": true
   },
   {
-    "title": "Dollar-backed stablecoins can push local currencies lower, Bank of Korea study finds",
-    "link": "https://www.coindesk.com/business/2026/09/05/dollar-backed-stablecoins-can-push-local-currencies-lower-bank-of-korea-study-finds",
-    "pubDate": "Sat, 05 Sep 2026 16:43:13 +0000",
+    "title": "Bitcoin’s golden cross is here",
+    "link": "https://www.coindesk.com/markets/2026/09/08/bitcoin-s-golden-cross-is-here",
+    "pubDate": "Tue, 08 Sep 2026 05:56:23 +0000",
     "source": "CoinDesk",
     "category": "crypto",
-    "content": "Buying pressure in Binance-paired currencies correlates with local currency depreciation as market makers balance positions.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/ac8c45e4922af71fd8721593cdaa1bd4b1c0d3c5-3994x2246.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "A Bank of Korea study has found that dollar-backed stablecoins can contribute to the depreciation of local currencies. The research indicates that buying pressure in currencies paired with Binance correlates with a drop in local currency value, as market makers adjust their positions.",
+    "content": "A golden cross has triggered on bitcoin's daily price chart, indicating a potential long-term bullish trend ahead.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/e669aa9f0596d6ddc996778ae45d9eb02051c1e8-2108x1488.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "A golden cross has appeared on Bitcoin's daily price chart. This technical indicator is often seen as a signal for a potential long-term bullish trend for the cryptocurrency.",
     "importance": 7,
     "classified": true
   },
@@ -452,18 +428,6 @@
     "content": "Corporate crypto bets are getting bigger as rising markets reward direct exposure, putting balance-sheet strategies and institutional adoption back in focus.",
     "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1PQ0H0YWX9P513482DDRDG2/a-lot-of-hands-of-shiva-office-coins2.jpg",
     "summary": "Corporate investments in cryptocurrency are growing as rising markets incentivize direct exposure, refocusing attention on balance-sheet strategies and institutional adoption within the crypto sector.",
-    "importance": 7,
-    "classified": true
-  },
-  {
-    "title": "Token buybacks are booming. But are they good for crypto projects?",
-    "link": "https://cointelegraph.com/magazine/token-buybacks-are-booming-but-are-they-good-for-crypto-projects?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Fri, 04 Sep 2026 13:30:00 +0000",
-    "source": "Cointelegraph",
-    "category": "crypto",
-    "content": "Crypto projects are spending hundreds of millions buying their own tokens. But are buybacks creating lasting value — or just making tokens look more valuable than they really are?",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1K8AJR546DD0XM3RM8FJK76/magazine-tokenomics.jpg",
-    "summary": "Crypto projects are spending hundreds of millions to buy back their own tokens, raising questions about whether this practice creates lasting value or merely inflates perceived token valuation. The article explores the booming trend of token buybacks and their long-term benefits for crypto projects.",
     "importance": 7,
     "classified": true
   },
@@ -512,18 +476,6 @@
     "content": "IMF says El Salvador used no public funds for bitcoin accumulation since June 2025, with purchases coming from private donations.",
     "image": "https://www.tbstat.com/wp/uploads/2022/02/20220214_El-Salvador_Bitcoin-1200x675.png",
     "summary": "The International Monetary Fund (IMF) has stated that El Salvador has not used public funds to accumulate Bitcoin since June 2025. Instead, all Bitcoin purchases made by the country since that date have reportedly been sourced from private donations.",
-    "importance": 7,
-    "classified": true
-  },
-  {
-    "title": "Crypto firms urge SEC to speed ETF reviews and allow confidential draft filings",
-    "link": "https://www.theblock.co/news/regulation/2026-09-04-crypto-firms-urge-sec-to-speed-etf-reviews-and-allow-confidential-draft-filings-413532",
-    "pubDate": "Fri, 04 Sep 2026 11:21:09 +0000",
-    "source": "The Block",
-    "category": "crypto",
-    "content": "In contrast, Jane Street and Charles Schwab raised concerns over rushed ETF launches and confidential filings limiting market scrutiny.",
-    "image": "https://www.tbstat.com/wp/uploads/2025/04/20250414_SEC_News-1200x675.jpg",
-    "summary": "Crypto firms are pushing the SEC to expedite the review process for crypto ETFs and to allow confidential draft filings. Conversely, firms like Jane Street and Charles Schwab are concerned that these changes could result in hurried product launches and decreased market scrutiny.",
     "importance": 7,
     "classified": true
   },
@@ -708,9 +660,21 @@
     "classified": true
   },
   {
+    "title": "Bitcoin slips under $79,000, Zcash leads losses as Fed hike odds hold near 60%",
+    "link": "https://www.coindesk.com/markets/2026/09/08/bitcoin-slips-under-usd79-000-zcash-leads-losses-as-fed-hike-odds-hold-near-60",
+    "pubDate": "Tue, 08 Sep 2026 04:40:57 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "Every major token fell on Tuesday, though most keep weekly gains, with traders pricing a 60% chance of a Fed hike next week.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/7534d769e51a19cf34bf04a9d05ecfd982d34db0-1502x822.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "Major cryptocurrencies, including Bitcoin, experienced declines on Tuesday, with Bitcoin falling below $79,000 and Zcash leading losses. This market downturn is linked to traders pricing in a nearly 60% chance of a Federal Reserve interest rate hike next week.",
+    "importance": 6,
+    "classified": true
+  },
+  {
     "title": "Here’s what happened in crypto today",
     "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Mon, 07 Sep 2026 21:10:37 +0000",
+    "pubDate": "Tue, 08 Sep 2026 05:52:38 +0000",
     "source": "Cointelegraph",
     "category": "crypto",
     "content": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
@@ -778,17 +742,6 @@
     "summary": "Meta has updated its AI-powered smart glasses to prevent nonconsensual recording by disabling the device whenever the safety light is covered, addressing privacy concerns. The change aims to make the glasses less intrusive while maintaining their core functionality.",
     "importance": 6,
     "classified": true
-  },
-  {
-    "title": "Ethereum commits to letting users pay gas fees without having to hold ETH",
-    "link": "https://www.coindesk.com/tech/2026/09/07/ethereum-commits-to-letting-users-pay-gas-fees-without-having-to-hold-eth",
-    "pubDate": "Mon, 07 Sep 2026 13:54:07 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "The Frame Transactions feature was locked into the Hegotá upgrade last month, and Ethereum co-founder Vitalik Buterin says the work has moved quickly since.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/c357579ddef2051b405b9e89f8525dd02709081d-5760x3240.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "",
-    "importance": 5
   },
   {
     "title": "Solana to triple transaction size as apps get room for more complex trades",
@@ -946,16 +899,37 @@
     "importance": 5
   },
   {
-    "title": "Ukrainian police took down a crypto scam that stole up to $1 million a month",
-    "link": "https://www.coindesk.com/business/2026/09/06/ukrainian-police-took-down-a-crypto-scam-that-stole-up-to-usd1-million-a-month",
-    "pubDate": "Sun, 06 Sep 2026 16:00:00 +0000",
-    "source": "CoinDesk",
+    "title": "Swiss stablecoin sandbox enters testing phase, adds two new partners",
+    "link": "https://cointelegraph.com/news/swiss-stablecoin-sandbox-testing-phase-two-new-partners?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Tue, 08 Sep 2026 07:18:32 +0000",
+    "source": "Cointelegraph",
     "category": "crypto",
-    "content": "Investigators have identified 62 victims and say more than 46 Ukrainians took part in the alleged operation.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/ac6842abf59685d7a979fa176e4dc1908a44ebdf-1920x1280.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "Ukrainian police successfully dismantled a major cryptocurrency scam operation that was allegedly stealing up to $1 million per month. The investigation has identified at least 62 victims and implicated more than 46 individuals in the scheme.",
-    "importance": 5,
-    "classified": true
+    "content": "Financial market operator SIX and payment app TWINT have joined numerous banks in the sandbox seeking to develop a Swiss franc-based stablecoin.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1ZX2FFP141K4E1MB6ZD752S/switzerlandcryptovalley.jpg",
+    "summary": "",
+    "importance": 5
+  },
+  {
+    "title": "Australia says it removed 45 crypto, remittance registrations over the past year",
+    "link": "https://cointelegraph.com/news/australia-removes-45-crypto-remittance-registrations?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Tue, 08 Sep 2026 05:10:33 +0000",
+    "source": "Cointelegraph",
+    "category": "crypto",
+    "content": "AUSTRAC said its yearlong sweep included canceled, suspended and unrenewed registrations, while its action against GetCoins helped disrupt organized investment scams.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1ZPQFTFP239F2S3DRF3524V/license-revoked",
+    "summary": "",
+    "importance": 5
+  },
+  {
+    "title": "Liquid ‘white hats’ return $270M in Bitcoin as network prepares restart",
+    "link": "https://cointelegraph.com/news/liquid-white-hats-return-270m-bitcoin-network-restart?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Tue, 08 Sep 2026 03:46:17 +0000",
+    "source": "Cointelegraph",
+    "category": "crypto",
+    "content": "The actors returned 85% of the Bitcoin withdrawn from Liquid’s federation wallet following the security incident.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1ZHYDRMBN9CQ2AV6CCP6WB8/hacky-hack.png",
+    "summary": "",
+    "importance": 5
   },
   {
     "title": "UK financial watchdog weighs lifting prediction markets ban: Report",
@@ -1108,6 +1082,28 @@
     "category": "crypto",
     "content": "The actors told Blockstream they would return most of the 4,000 BTC after the Elements vulnerability is patched across the network.",
     "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1X62TPQZQS0CSZKDBXWAKDQ/btc.png",
+    "summary": "",
+    "importance": 5
+  },
+  {
+    "title": "Cronos says $9.2 million remains unrecovered after Tectonic exploit, chain rollback",
+    "link": "https://www.theblock.co/news/ecosystems/2026-09-08-cronos-post-mortem-413724",
+    "pubDate": "Tue, 08 Sep 2026 05:51:16 +0000",
+    "source": "The Block",
+    "category": "crypto",
+    "content": "A subsequent rollback reversed roughly $111.2 million, but $9.19 million had already left the chain and remains unrecovered, Cronos says.",
+    "image": "https://www.tbstat.com/wp/uploads/2022/11/20221129_Hack-Exploit-2-1200x675.jpg",
+    "summary": "",
+    "importance": 5
+  },
+  {
+    "title": "Ethereum aims for quantum-safe L1 by 2029 as Hegotá upgrade takes form",
+    "link": "https://www.theblock.co/news/ecosystems/2026-09-08-ethereum-foundation-quantum-resistance-2029-413716",
+    "pubDate": "Tue, 08 Sep 2026 04:17:21 +0000",
+    "source": "The Block",
+    "category": "crypto",
+    "content": "Ethereum is targeting full post-quantum security by 2029, starting with account abstraction and censorship resistance upgrades for Hegotá.",
+    "image": "https://www.tbstat.com/wp/uploads/2024/05/20240523_Ethereum_News_2-1200x675.jpg",
     "summary": "",
     "importance": 5
   },
@@ -1552,6 +1548,18 @@
     "importance": 5
   },
   {
+    "title": "Hunter Biden wants to launch a LAPTOP memecoin. Crypto traders hate it already",
+    "link": "https://www.coindesk.com/markets/2026/09/08/crypto-traders-turn-on-hunter-biden-s-laptop-memecoin-before-it-even-launches",
+    "pubDate": "Tue, 08 Sep 2026 06:23:53 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "Kraken deleted a promotional post after backlash, while a media group named in the token's distribution publicly distanced itself from the project.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/300eebf65983cfe6ab9ded851acad00338091a17-1438x809.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "Hunter Biden reportedly plans to launch a 'LAPTOP' memecoin, which is already receiving significant backlash from the crypto community. Kraken deleted a promotional post related to it, and a media group named in the token's distribution has publicly distanced itself from the project.",
+    "importance": 4,
+    "classified": true
+  },
+  {
     "title": "Bitcoin Dips Below $80,000 on Strong US Jobs Report",
     "link": "https://bitcoinmagazine.com/markets/bitcoin-dips-on-strong-jobs-report",
     "pubDate": "Fri, 04 Sep 2026 17:17:53 +0000",
@@ -1656,18 +1664,6 @@
     "content": "Despite earlier opposition to the CLARITY Act over consumer protection, the National Sheriffs’ Association says it will now “step back and allow the legislative process to proceed.“",
     "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1PMTZTE9JA669CG8QFKJ243/hi-fines-and-regulation-the-ever-growing-landscape-of-crypto-compliance.png",
     "summary": "The National Sheriffs’ Association has adopted a neutral stance on the CLARITY Act, stepping back from its previous opposition which was based on consumer protection concerns. This shift allows the legislative process for the act to proceed without their active obstruction.",
-    "importance": 1,
-    "classified": true
-  },
-  {
-    "title": "Kalshi US visits soar 1,500% as regulatory pressure mounts",
-    "link": "https://cointelegraph.com/news/kalshi-traffic-soars-regulatory-pressure-mounts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Fri, 04 Sep 2026 11:32:28 +0000",
-    "source": "Cointelegraph",
-    "category": "crypto",
-    "content": "Kalshi’s US web traffic climbed more than 1,500% in less than a year, while trading volume grew even faster and legal scrutiny of its sports contracts intensified.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1NT59AV4MSNB8HZB5TDQQNF/hi-comparison-us-elections-3.jpg",
-    "summary": "Kalshi, an online exchange, has seen a dramatic increase in US web traffic, soaring over 1,500% in less than a year, with trading volume growing even faster. This rapid expansion is occurring amid intensified legal scrutiny of its sports contracts.",
     "importance": 1,
     "classified": true
   }
