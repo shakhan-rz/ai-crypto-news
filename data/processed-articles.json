@@ -24,18 +24,6 @@
     "classified": true
   },
   {
-    "title": "Alleged White-Hat Hackers Withdraw 4,000 bitcoin from Blockstream’s Liquid Network Federation Reserves",
-    "link": "https://bitcoinmagazine.com/news/alleged-white-hat-hackers-withdraw-4000-bitcoin-from-blockstreams-liquid-network-federation-reserves",
-    "pubDate": "Sun, 06 Sep 2026 22:16:53 +0000",
-    "source": "Bitcoin Magazine",
-    "category": "crypto",
-    "content": "Bitcoin Magazine\n\nAlleged White-Hat Hackers Withdraw 4,000 bitcoin from Blockstream’s Liquid Network Federation Reserves\nLiquid Network said purported white-hat hackers withdrew about 4,000 bitcoin from the federation wallet that backs L-BTC. Bridge nodes are disabled and the sidechain is paused.\nThis post Alleged White-Hat Hackers Withdraw 4,000 bitcoin from Blockstream’s Liquid Network Federation Reserves first appeared on Bitcoin Magazine and is written by Juan Galt.",
-    "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/09/tn.webp",
-    "summary": "Alleged white-hat hackers have reportedly withdrawn approximately 4,000 bitcoin from Blockstream's Liquid Network Federation Reserves. This significant withdrawal from the federation wallet that backs L-BTC has led to the disabling of bridge nodes and the pausing of the sidechain.",
-    "importance": 9,
-    "classified": true
-  },
-  {
     "title": "U.S. Treasury sanctions another widespread cyber-scam hub, Xinbi Guarantee ",
     "link": "https://www.coindesk.com/policy/2026/09/09/u-s-treasury-sanctions-another-widespread-cyber-scam-hub-xinbi-guarantee",
     "pubDate": "Wed, 09 Sep 2026 16:05:11 +0000",
@@ -92,6 +80,18 @@
     "content": "Ryan Connor of RockawayX writes that the dollar leads the euro about 3 to 1 across the offchain economy and more than 300 to 1 onchain. Euro-pegged stablecoins total €711 million, under 1% of supply. He traces the gap to path dependency and missing euro DeFi infrastructure, and argues MiCA-regulated issuance and euro vault rails are changing it.",
     "image": "https://cdn.sanity.io/images/s3y3vcno/production/fb0be30a3e48f1fb94d280bb43857c9e80f6edc0-1440x1080.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
     "summary": "Ryan Connor of RockawayX highlights a massive 300-to-1 gap in onchain usage between the dollar and euro, far exceeding the 3-to-1 offchain ratio, with euro-pegged stablecoins accounting for less than 1% of the total supply. He attributes this disparity to path dependency and a lack of euro DeFi infrastructure. However, Connor suggests that MiCA-regulated issuance and new euro vault rails are poised to narrow this significant gap.",
+    "importance": 8,
+    "classified": true
+  },
+  {
+    "title": "PayPal expands stablecoin rails with custom token issuance platform ",
+    "link": "https://www.coindesk.com/business/2026/09/09/paypal-expands-stablecoin-rails-with-launch-of-custom-token-issuance-platform",
+    "pubDate": "Wed, 09 Sep 2026 14:00:00 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "The PYUSDx stablecoin developer platform, backed by PayPal USD (PYUSD), is built with the help of M0 and MoonPay.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/ca66c441f504e730e61f0eb01b6d3a16206523c5-1920x1172.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "PayPal has launched PYUSDx, a new stablecoin developer platform, which will enable the issuance of custom tokens. This platform builds upon the existing PayPal USD (PYUSD) stablecoin and was developed with the assistance of M0 and MoonPay, expanding PayPal's stablecoin infrastructure.",
     "importance": 8,
     "classified": true
   },
@@ -192,7 +192,7 @@
     "classified": true
   },
   {
-    "title": "Robinhood’s CEO Vlad Tenev fires back at AMC CEO in escalating fight over stock tokens",
+    "title": "Robinhood CEO Vlad Tenev fires back at AMC's Aron in escalating fight over stock tokens",
     "link": "https://www.coindesk.com/markets/2026/09/09/robinhood-s-ceo-vlad-tenev-defends-stock-tokens-in-escalating-fight-with-amc-ceo",
     "pubDate": "Wed, 09 Sep 2026 16:11:07 +0000",
     "source": "CoinDesk",
@@ -216,26 +216,14 @@
     "classified": true
   },
   {
-    "title": "Live updates: Bitcoin gives up gains as yields head higher following Treasury buyback announcement",
+    "title": "Live updates: Bitcoin slips as yields head higher following Treasury buyback announcement",
     "link": "https://www.coindesk.com/business/2026/09/09/live-updates-xrp-funds-stand-out-among-u-s-etfs-as-bitcoin-ether-solana-funds-see-outflows",
     "pubDate": "Wed, 09 Sep 2026 07:20:51 +0000",
     "source": "CoinDesk",
     "category": "crypto",
     "content": "The Japanese yen extended its rally against the greenback, briefly strengthening past 153 per dollar.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/c7dc4408d071ca1dca8fa55007727d43b942f20a-1920x1040.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "image": "",
     "summary": "XRP ETFs recorded nearly $2 million in inflows on Tuesday, while bitcoin, ether, solana, and hyperliquid funds all experienced outflows. Notably, Grayscale's products accounted for the entirety of the outflows seen in both bitcoin and ether ETFs.",
-    "importance": 7,
-    "classified": true
-  },
-  {
-    "title": "Hargreaves Lansdown Reverses Course, Rolls Out Bitcoin Trading ",
-    "link": "https://bitcoinmagazine.com/news/hargreaves-lansdown-to-allow-bitcoin-etns",
-    "pubDate": "Fri, 04 Sep 2026 21:16:39 +0000",
-    "source": "Bitcoin Magazine",
-    "category": "crypto",
-    "content": "Bitcoin Magazine\n\nHargreaves Lansdown Reverses Course, Rolls Out Bitcoin Trading \nBritish investment firm Hargreaves Lansdown last year said bitcoin was too volatile. \nThis post Hargreaves Lansdown Reverses Course, Rolls Out Bitcoin Trading  first appeared on Bitcoin Magazine and is written by Mathew Di Salvo.",
-    "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/09/Pics-8.jpg",
-    "summary": "British investment firm Hargreaves Lansdown, which previously considered Bitcoin too volatile, has now reversed its stance and is rolling out Bitcoin trading services. This marks a significant shift for the company in offering cryptocurrency investments.",
     "importance": 7,
     "classified": true
   },
@@ -288,6 +276,18 @@
     "classified": true
   },
   {
+    "title": "Hunter Biden's new LAPTOP token lost 98% of its value in under an hour after $1.6 billion debut",
+    "link": "https://www.coindesk.com/business/2026/09/09/hunter-biden-s-laptop-memecoin-debuts-at-usd1-6-billion-market-cap",
+    "pubDate": "Wed, 09 Sep 2026 13:57:57 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "LAPTOP swung from $190 to under $4 within minutes of opening on Base. Onchain records show tokens had been distributed to market makers for a week before trading began.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/80e406dbd57932e0cbebc3e7b0962f8c68e4d435-4656x3104.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "The new 'LAPTOP' token, associated with Hunter Biden, debuted on Base at $1.6 billion but lost 98% of its value, plummeting from $190 to under $4 within an hour. On-chain records indicate that tokens had been distributed to market makers a week before trading commenced.",
+    "importance": 6,
+    "classified": true
+  },
+  {
     "title": "Crypto lobbying orgs ask court to suspend Illinois tax as legal case continues",
     "link": "https://www.coindesk.com/policy/2026/09/09/crypto-lobbying-orgs-ask-court-to-suspend-illinois-tax-as-legal-case-continues",
     "pubDate": "Wed, 09 Sep 2026 12:00:00 +0000",
@@ -314,7 +314,7 @@
   {
     "title": "Here’s what happened in crypto today",
     "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Wed, 09 Sep 2026 05:51:21 +0000",
+    "pubDate": "Wed, 09 Sep 2026 21:30:00 +0000",
     "source": "Cointelegraph",
     "category": "crypto",
     "content": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
@@ -334,51 +334,6 @@
     "summary": "Google has released Gemini 3.8 Flash, marking its third Flash model update in six weeks. The Pro model updates appear to be paused while the company continues to iterate on its smaller, faster Flash variants.",
     "importance": 6,
     "classified": true
-  },
-  {
-    "title": "Meta makes AI glasses slightly less creepy with limit on nonconsensual recording",
-    "link": "https://arstechnica.com/tech-policy/2026/08/meta-tweaks-ai-glasses-to-block-some-creepy-recordings-but-privacy-risks-remain/",
-    "pubDate": "Fri, 28 Aug 2026 15:42:24 +0000",
-    "source": "Ars Technica AI",
-    "category": "ai",
-    "content": "Meta fixes AI glasses to stop recording any time users cover up the safety light.",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2235448062-1024x648.jpg",
-    "summary": "Meta has updated its AI-powered smart glasses to prevent nonconsensual recording by disabling the device whenever the safety light is covered, addressing privacy concerns. The change aims to make the glasses less intrusive while maintaining their core functionality.",
-    "importance": 6,
-    "classified": true
-  },
-  {
-    "title": "Kalshi election data goes live on DoubleZero ahead of U.S. midterms",
-    "link": "https://www.coindesk.com/tech/2026/09/09/kalshi-election-data-goes-live-on-doublezero-ahead-of-u-s-midterms",
-    "pubDate": "Wed, 09 Sep 2026 14:00:00 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "The expansion gives institutional and automated traders access to full-depth political prediction-market order books ahead of the U.S. midterms.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/901944c6dda50496883edca6a70899e618bfde9e-1367x769.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "PayPal expands stablecoin rails with custom token issuance platform ",
-    "link": "https://www.coindesk.com/business/2026/09/09/paypal-expands-stablecoin-rails-with-launch-of-custom-token-issuance-platform",
-    "pubDate": "Wed, 09 Sep 2026 14:00:00 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "The PYUSDx stablecoin developer platform, backed by PayPal USD (PYUSD), is built with the help of M0 and MoonPay.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/ca66c441f504e730e61f0eb01b6d3a16206523c5-1920x1172.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "Hunter Biden's new LAPTOP token lost 98% of its value in under an hour after $1.6 billion debut",
-    "link": "https://www.coindesk.com/business/2026/09/09/hunter-biden-s-laptop-memecoin-debuts-at-usd1-6-billion-market-cap",
-    "pubDate": "Wed, 09 Sep 2026 13:57:57 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "LAPTOP swung from $190 to under $4 within minutes of opening on Base. Onchain records show tokens had been distributed to market makers for a week before trading began.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/80e406dbd57932e0cbebc3e7b0962f8c68e4d435-4656x3104.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "",
-    "importance": 5
   },
   {
     "title": "Wall Street's newest crypto fund comes with a staking feature to boost returns",
@@ -432,6 +387,28 @@
     "category": "crypto",
     "content": "The Financial Intelligence Unit-India (FIU-IND) issued non-compliance notices to what it calls virtual digital asset service providers.",
     "image": "https://cdn.sanity.io/images/s3y3vcno/production/b78441ab5c99e64e7726ef1b6c932e4d18b9bbc2-1028x578.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "",
+    "importance": 5
+  },
+  {
+    "title": "DoubleZero adds Kalshi election market data ahead of US midterms ",
+    "link": "https://cointelegraph.com/news/doublezero-adds-kalshi-election-market-data-ahead-of-us-midterms?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Wed, 09 Sep 2026 20:08:09 +0000",
+    "source": "Cointelegraph",
+    "category": "crypto",
+    "content": "The expansion gives institutional and automated traders real-time access to Kalshi’s political markets as election betting activity continues to grow.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M23VG1E8VXF1CMN933GG7NC8/republicans-vs-democrats-crypto2-2.jpg",
+    "summary": "",
+    "importance": 5
+  },
+  {
+    "title": "Consensys to split into MetaMask and institutional blockchain company",
+    "link": "https://cointelegraph.com/news/consensys-to-split-into-metamask-and-institutional-blockchain-company?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Wed, 09 Sep 2026 18:47:32 +0000",
+    "source": "Cointelegraph",
+    "category": "crypto",
+    "content": "The restructuring will separate MetaMask’s consumer business from Consensys’ Ethereum protocols and institutional blockchain infrastructure operations.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M23QBD87GQQKWH5JQGT142KQ/hi-crypto-loan-platforms-how-they-work-and-who-are-the-main-players-consensys.png",
     "summary": "",
     "importance": 5
   },
@@ -722,24 +699,13 @@
     "importance": 5
   },
   {
-    "title": "Mexico quadruple homicide tied to alleged Bitcoin robbery attempt",
-    "link": "https://cointelegraph.com/news/mexico-quadruple-homicide-alleged-bitcoin-robbery?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Tue, 08 Sep 2026 12:41:14 +0000",
-    "source": "Cointelegraph",
+    "title": "DoubleZero adds Kalshi’s election markets ahead of November midterms",
+    "link": "https://www.theblock.co/news/regulation/2026-09-09-doublezero-adds-kalshis-election-markets-ahead-november-midterms-414075",
+    "pubDate": "Wed, 09 Sep 2026 18:17:58 +0000",
+    "source": "The Block",
     "category": "crypto",
-    "content": "Two suspects face a Wednesday hearing over four killings allegedly linked to a crypto wallet believed to hold millions of dollars in Bitcoin.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M20CE9T36VRN8990HWRW8AJS/hi-ledger-is-in-deep-trouble-that-may-only-just-be-starting.jpg",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "Circle to acquire Tazapay to expand USDC cross-border payments",
-    "link": "https://cointelegraph.com/news/circle-tazapay-usdc-cross-border-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Tue, 08 Sep 2026 11:33:14 +0000",
-    "source": "Cointelegraph",
-    "category": "crypto",
-    "content": "Tazapay processes $25 billion in annualized volume and offers payout rails across 100-plus markets, extending Circle’s USDC payments reach.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M20BVCME3MRSYGBFGFFS62XW/world-global-rating-circle.jpg",
+    "content": "Kalshi's elections and politics markets went live on the market data delivery platform DoubleZero Edge on Wednesday.",
+    "image": "https://www.tbstat.com/wp/uploads/2025/09/20250917_Kalshi_News-1200x675.jpg",
     "summary": "",
     "importance": 5
   },
@@ -931,24 +897,46 @@
     "importance": 5
   },
   {
-    "title": "DeFi Development closes Strategy-style $11 million CHAD offering to grow Solana treasury",
-    "link": "https://www.theblock.co/news/markets/2026-09-08-defi-development-closes-strategy-style-11-million-chad-offering-grow-solana-treasury-413892",
-    "pubDate": "Tue, 08 Sep 2026 18:33:27 +0000",
-    "source": "The Block",
+    "title": "US Treasury Secretary Scott Bessent ‘Strongly Urges’ Senate To Pass Clarity Act",
+    "link": "https://bitcoinmagazine.com/news/scott-bessent-urges-clarity-act-action",
+    "pubDate": "Wed, 09 Sep 2026 21:20:51 +0000",
+    "source": "Bitcoin Magazine",
     "category": "crypto",
-    "content": "DeFi Development Corp's CHAD is a Variable Rate Series C perpetual preferred stock, with an initial annual dividend rate of 13%.",
-    "image": "https://www.tbstat.com/wp/uploads/2024/05/20240502_Solana_News-1200x675.jpg",
+    "content": "Bitcoin Magazine\n\nUS Treasury Secretary Scott Bessent ‘Strongly Urges’ Senate To Pass Clarity Act\nSenators will vote on the long-awaited crypto Clarity Act next week. \nThis post US Treasury Secretary Scott Bessent ‘Strongly Urges’ Senate To Pass Clarity Act first appeared on Bitcoin Magazine and is written by Mathew Di Salvo.",
+    "image": "https://bitcoinmagazine.com/wp-content/uploads/2025/04/Scott-Bessent-Bond-Strategy.jpg",
     "summary": "",
     "importance": 5
   },
   {
-    "title": "Robinhood expands prediction markets with Crypto.com, OG partnerships ahead of NFL season",
-    "link": "https://www.theblock.co/news/markets/2026-09-08-robinhood-expands-prediction-markets-crypto-com-og-partnerships-nfl-season-413832",
-    "pubDate": "Tue, 08 Sep 2026 15:54:17 +0000",
-    "source": "The Block",
+    "title": "Jack Dorsey’s Block Becomes Latest Bitcoin-Focused Company To Apply for Banking Charter",
+    "link": "https://bitcoinmagazine.com/news/block-applies-for-banking-charter",
+    "pubDate": "Wed, 09 Sep 2026 20:35:41 +0000",
+    "source": "Bitcoin Magazine",
     "category": "crypto",
-    "content": "Robinhood will also acquire equity stakes in Crypto.com and OG.com, which will be valued based on Crypto.com's recent $20 billion valuation.",
-    "image": "https://www.tbstat.com/wp/uploads/2025/12/20251208_Robinhood_News_2-1200x675.jpg",
+    "content": "Bitcoin Magazine\n\nJack Dorsey’s Block Becomes Latest Bitcoin-Focused Company To Apply for Banking Charter\nBlock wants the banking license so it can open Builders Bank, which would provide custody and related fiduciary services for bitcoin. \nThis post Jack Dorsey’s Block Becomes Latest Bitcoin-Focused Company To Apply for Banking Charter first appeared on Bitcoin Magazine and is written by Mathew Di Salvo.",
+    "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/07/Bitcoin-Maxi-Jack-Dorsey-Unveils-Chat-App.jpg",
+    "summary": "",
+    "importance": 5
+  },
+  {
+    "title": "Steak ‘n Shake Says Sales Grew Double Digits Since Bitcoin Adoption",
+    "link": "https://bitcoinmagazine.com/news/steak-n-shake-says-sales-grew",
+    "pubDate": "Wed, 09 Sep 2026 18:37:31 +0000",
+    "source": "Bitcoin Magazine",
+    "category": "crypto",
+    "content": "Bitcoin Magazine\n\nSteak ‘n Shake Says Sales Grew Double Digits Since Bitcoin Adoption\nThe burger franchise started accepting bitcoin over Lightning last year and claims business is booming. \nThis post Steak ‘n Shake Says Sales Grew Double Digits Since Bitcoin Adoption first appeared on Bitcoin Magazine and is written by Mathew Di Salvo.",
+    "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/09/Pics-14.jpg",
+    "summary": "",
+    "importance": 5
+  },
+  {
+    "title": "Iran Continues Using Bitcoin To Keep Economy Stable: Report",
+    "link": "https://bitcoinmagazine.com/news/iran-still-using-bitcoin-to-help-economy",
+    "pubDate": "Wed, 09 Sep 2026 18:23:22 +0000",
+    "source": "Bitcoin Magazine",
+    "category": "crypto",
+    "content": "Bitcoin Magazine\n\nIran Continues Using Bitcoin To Keep Economy Stable: Report\nRumors of Iran using bitcoin to skirt transactions have been abound for some time now. Business and regime insiders have reportedly said it's a tried and tested method. \nThis post Iran Continues Using Bitcoin To Keep Economy Stable: Report first appeared on Bitcoin Magazine and is written by Mathew Di Salvo.",
+    "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/07/US-Closes-In-of-Irans-Bitcoin-Insurance-Policy-in-strait-of-hormuz.jpg",
     "summary": "",
     "importance": 5
   },
@@ -1015,28 +1003,6 @@
     "category": "crypto",
     "content": "Bitcoin Magazine\n\nStrategy Halted Its Bitcoin Buys Again Last Week \nThe largest corporate holder of bitcoin is instead focusing on buying back its stock and building up its cash reserves. \nThis post Strategy Halted Its Bitcoin Buys Again Last Week  first appeared on Bitcoin Magazine and is written by Mathew Di Salvo.",
     "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/03/Strategy-MSTR-Breaks-13-Week-Bitcoin-Buying-Streak-Holdings-Hold-at-762099-BTC.jpg",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "How One Executive Recruitment Firm Is Using M&A to Turn Earnings Into Bitcoin",
-    "link": "https://bitcoinmagazine.com/bitcoin-for-corporations/how-one-executive-recruitment-firm-is-using-ma-to-turn-earnings-into-bitcoin",
-    "pubDate": "Tue, 08 Sep 2026 12:15:40 +0000",
-    "source": "Bitcoin Magazine",
-    "category": "crypto",
-    "content": "Bitcoin Magazine\n\nHow One Executive Recruitment Firm Is Using M&A to Turn Earnings Into Bitcoin\nXCE’s latest deal offers a case study in building the operating business and Bitcoin balance sheet side by side.\nThis post How One Executive Recruitment Firm Is Using M&A to Turn Earnings Into Bitcoin first appeared on Bitcoin Magazine and is written by Nick Ward.",
-    "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/09/bitcoin-merger-bfc.jpg",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "Liquid Gets 3,400 BTC Back After On-Chain Talks; White Hats Keep 598.5 BTC",
-    "link": "https://bitcoinmagazine.com/news/liquid-gets-3400-btc-back-after-on-chain-talks-white-hats-keep-598-5-btc",
-    "pubDate": "Mon, 07 Sep 2026 22:02:19 +0000",
-    "source": "Bitcoin Magazine",
-    "category": "crypto",
-    "content": "Bitcoin Magazine\n\nLiquid Gets 3,400 BTC Back After On-Chain Talks; White Hats Keep 598.5 BTC\nA self-described white-hat party returned 3,400 BTC to Liquid Network’s federation wallet on Monday after Blockstream said bridge nodes were patched. About 598.5 BTC, near $47 million, remains at the holder address.\nThis post Liquid Gets 3,400 BTC Back After On-Chain Talks; White Hats Keep 598.5 BTC first appeared on Bitcoin Magazine and is written by Juan Galt.",
-    "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/09/tn-2.webp",
     "summary": "",
     "importance": 5
   },
@@ -1151,7 +1117,73 @@
     "importance": 5
   },
   {
-    "title": "Apple has a new way prove your iPhone photos aren’t AI slop",
+    "title": "OpenAI adds a prominent AI doomer to its board of directors",
+    "link": "https://techcrunch.com/2026/09/09/openai-adds-a-prominent-ai-doomer-to-its-board-of-directors/",
+    "pubDate": "Wed, 09 Sep 2026 22:25:22 +0000",
+    "source": "TechCrunch AI",
+    "category": "ai",
+    "content": "Paul Christiano, an influential AI researcher focused on alignment, is joining the OpenAI Foundation as a member of its board.",
+    "image": "",
+    "summary": "",
+    "importance": 5
+  },
+  {
+    "title": "Massachusetts hits data centers with new clean power rules",
+    "link": "https://techcrunch.com/2026/09/09/massachusetts-hits-data-centers-with-new-clean-power-rules/",
+    "pubDate": "Wed, 09 Sep 2026 21:43:34 +0000",
+    "source": "TechCrunch AI",
+    "category": "ai",
+    "content": "Massachusetts has become the third state in as many months to slap new restrictions on data center development.",
+    "image": "",
+    "summary": "",
+    "importance": 5
+  },
+  {
+    "title": "Apple Watch’s new AI features are normalizing the idea that technology is always listening",
+    "link": "https://techcrunch.com/2026/09/09/apple-watchs-new-ai-features-are-normalizing-the-idea-that-technology-is-always-listening/",
+    "pubDate": "Wed, 09 Sep 2026 20:24:48 +0000",
+    "source": "TechCrunch AI",
+    "category": "ai",
+    "content": "Apple says its new watches won’t save raw audio, but features that can transcribe recent speech and summarize ambient conversations raise new questions about consent, privacy, and how people behave when they know they could always be recorded.",
+    "image": "",
+    "summary": "",
+    "importance": 5
+  },
+  {
+    "title": "Everything Apple announced at its fall iPhone event, from the foldable iPhone Duo to an always-listening Apple Watch",
+    "link": "https://techcrunch.com/2026/09/09/everything-apple-announced-at-its-fall-iphone-event-from-the-foldable-iphone-duo-to-an-always-listening-apple-watch/",
+    "pubDate": "Wed, 09 Sep 2026 20:03:43 +0000",
+    "source": "TechCrunch AI",
+    "category": "ai",
+    "content": "The main event was the tech giant's highly anticipated first foldable phone, the iPhone Duo.",
+    "image": "",
+    "summary": "",
+    "importance": 5
+  },
+  {
+    "title": "The hinge for Apple’s new foldable phone was built with AI",
+    "link": "https://techcrunch.com/2026/09/09/the-hinge-for-apples-new-foldable-phone-was-built-with-ai/",
+    "pubDate": "Wed, 09 Sep 2026 19:21:48 +0000",
+    "source": "TechCrunch AI",
+    "category": "ai",
+    "content": "Apple says it used AI and 3D printing in the manufacturing process for its long-awaited foldable phone.",
+    "image": "",
+    "summary": "",
+    "importance": 5
+  },
+  {
+    "title": "Apple’s revamped Health app will calculate your ‘health age’ and readiness score",
+    "link": "https://techcrunch.com/2026/09/09/apples-revamped-health-app-will-calculate-your-health-age-and-readiness-score/",
+    "pubDate": "Wed, 09 Sep 2026 18:16:29 +0000",
+    "source": "TechCrunch AI",
+    "category": "ai",
+    "content": "The update uses Apple Intelligence to make better sense of your health data.",
+    "image": "",
+    "summary": "",
+    "importance": 5
+  },
+  {
+    "title": "Apple has a new way to prove your iPhone photos aren’t AI slop",
     "link": "https://techcrunch.com/2026/09/09/apple-has-a-new-way-prove-your-iphone-photos-arent-ai-slop/",
     "pubDate": "Wed, 09 Sep 2026 18:08:35 +0000",
     "source": "TechCrunch AI",
@@ -1233,7 +1265,7 @@
     "pubDate": "Wed, 09 Sep 2026 14:18:34 +0000",
     "source": "TechCrunch AI",
     "category": "ai",
-    "content": "Falling token costs, cheaper models, and less spend per employee—AI adoption isn't playing out the way hyperscalers hoped.",
+    "content": "Falling token costs, cheaper models, and less spend per employee — AI adoption isn't playing out the way hyperscalers hoped.",
     "image": "",
     "summary": "",
     "importance": 5
@@ -1244,7 +1276,7 @@
     "pubDate": "Wed, 09 Sep 2026 13:00:00 +0000",
     "source": "TechCrunch AI",
     "category": "ai",
-    "content": "Cymphony was valued at more than $100 million in a $25 million Series A co-led by Sequoia and SMBC Fin Atlas Beyond Fund.",
+    "content": "Cymphony gives security teams a single view of employees, AI agents, and other nonhuman identities, including the systems and sensitive data they can access.",
     "image": "",
     "summary": "",
     "importance": 5
@@ -1266,7 +1298,7 @@
     "pubDate": "Wed, 09 Sep 2026 12:30:00 +0000",
     "source": "TechCrunch AI",
     "category": "ai",
-    "content": "If you want to manufacture in space—and bring the products back again—there’s a limited set of options: Wait to go to the International Space Station, or partner with a handful of start-ups launching spacecraft that spend time in orbit before they return to Earth. But the vehicle that goes to space and comes back to […]",
+    "content": "Besxar, a startup founded by former OpenAI staffer Ashley Pilipiszyn, wants to make the key precursors for advanced semiconductors by taking advantage of the vacuum of space.",
     "image": "",
     "summary": "",
     "importance": 5
@@ -1283,68 +1315,46 @@
     "importance": 5
   },
   {
-    "title": "Hackers are stealing Claude tokens from subscribers",
-    "link": "https://techcrunch.com/2026/09/08/hackers-are-stealing-claude-tokens-from-subscribers/",
-    "pubDate": "Tue, 08 Sep 2026 21:10:27 +0000",
-    "source": "TechCrunch AI",
+    "title": "Suno releases its first AI music model made with record industry help",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/991977/suno-releases-its-first-ai-music-model-made-with-record-industry-help",
+    "pubDate": "2026-09-09T21:42:19.000Z",
+    "source": "The Verge AI",
     "category": "ai",
-    "content": "Last month, a Claude user noticed his account was consuming tokens even though he wasn't working. Anthropic has since warned users about hackers.",
-    "image": "",
+    "content": "Suno's new v6 AI music model is its first made with support from the record industry. Suno's Jack Brody told The Verge that v6 was \"trained from the ground up, with a new set of data that does not include the same data that our previous models were trained on.\" The data includes content licensed from partners Warner Music Group, BMG, and Believe, as well as \"user data.\" It's unclear whether that means v6 training data is completely free of dubiously obtained content.\nOne of the big changes in v6 is that there are actually three different models: v6, v6-wild, and v6-mini. Mini is the model available for free to all. It's focused on fast, res …\nRead the full story at The Verge.",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Suno_v6_Main.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
     "summary": "",
     "importance": 5
   },
   {
-    "title": "Cognition hits $48B valuation, signaling investors believe AI coding is far from a winner-take-all market",
-    "link": "https://techcrunch.com/2026/09/08/cognition-hits-48b-valuation-signaling-investors-believe-ai-coding-is-far-from-a-winner-take-all-market/",
-    "pubDate": "Tue, 08 Sep 2026 21:04:06 +0000",
-    "source": "TechCrunch AI",
+    "title": "OpenAI’s sly mathematical breakthrough sends a chill through academia",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/992953/openai-math-millennium-prize-navier-stokes",
+    "pubDate": "2026-09-09T21:16:34.000Z",
+    "source": "The Verge AI",
     "category": "ai",
-    "content": "Cognition's valuation multiple is higher than Cursor's was before selling to SpaceX.",
-    "image": "",
+    "content": "Open AI CEO Sam Altman speaks during the G20 Innovation Ministerial. | (Photo by Matt RAMEY / AFP via Getty Images)\t\n\nOpenAI's announcement Tuesday that it has solved one of mathematics' legendary Millennium Prize problems should have been a moment of triumph. The result is both an undeniable achievement and a striking demonstration of just how rapidly AI is transforming mathematics. But before it was even formally announced, the breakthrough had been complicated by the unusual circumstances that prompted OpenAI to pursue the problem: After hearing other researchers were making progress, it seems to have thrown its considerable resources into a last-minute effort to beat them to the punch. The ensuing controversy has surfaced allegations of scooping, spying …\nRead the full story at The Verge.",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2292626872.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
     "summary": "",
     "importance": 5
   },
   {
-    "title": "Meta debuts its Muse AI agent. Will consumers trust it?",
-    "link": "https://techcrunch.com/2026/09/08/meta-debuts-its-muse-ai-agent-will-consumers-trust-it/",
-    "pubDate": "Tue, 08 Sep 2026 19:00:00 +0000",
-    "source": "TechCrunch AI",
+    "title": "Read the Apple document explaining how new listening features still protect your privacy",
+    "link": "https://www.theverge.com/tech/992919/apple-siri-ai-audio-intelligence-privacy",
+    "pubDate": "2026-09-09T20:44:43.000Z",
+    "source": "The Verge AI",
     "category": "ai",
-    "content": "Meta's new personal AI agent Muse wants access to users' email, calendars, payments, health services, and more — making the company's biggest consumer AI bet yet a major test of whether people still trust Meta with their data.",
-    "image": "",
+    "content": "At Wednesday's iPhone Duo launch event, Apple announced a handful of new Siri AI Audio Intelligence features, including Siri Recap, Live Rewind, Sound Recognition, and Music Recognition. Alongside its announcement, Apple released a document laying out how it plans to balance AI \"ambient listening\" and users' privacy. It says the raw audio from the new features \"is handled within dedicated hardware, is not saved as a file, and is not accessible to the operating system, apps, or Apple.\"\nApple explains that Audio Intelligence relies on the Secure Exclave in the S11 chip that powers the new Apple Watch Series 12 and Apple Watch Ultra 4: \nThe  …\n\nRead the full story at The Verge.",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/apple-audio-intelligence-recap-wide.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
     "summary": "",
     "importance": 5
   },
   {
-    "title": "OpenAI fought dirty on career-making math problem, says NYU mathematician",
-    "link": "https://techcrunch.com/2026/09/08/openai-fought-dirty-on-career-making-math-problem-says-nyu-mathematician/",
-    "pubDate": "Tue, 08 Sep 2026 17:32:15 +0000",
-    "source": "TechCrunch AI",
+    "title": "Apple’s new iPhone camera mode promises to prove your photo isn’t AI",
+    "link": "https://www.theverge.com/tech/992766/apple-iphone-18-pro-reference-image",
+    "pubDate": "2026-09-09T19:30:12.000Z",
+    "source": "The Verge AI",
     "category": "ai",
-    "content": "There is a $1 million bounty for the first person providing a solution to the Navier-Stokes existence and smoothness problem.",
-    "image": "",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "Google Cloud races to catch up in the AI deployment wars with Accenture deal",
-    "link": "https://techcrunch.com/2026/09/08/google-cloud-races-to-catch-up-in-the-ai-deployment-wars-with-accenture-deal/",
-    "pubDate": "Tue, 08 Sep 2026 16:20:31 +0000",
-    "source": "TechCrunch AI",
-    "category": "ai",
-    "content": "Google Cloud expands its enterprise AI push with Accenture, betting on forward-deployed engineers to drive adoption and overcome deployment bottlenecks.",
-    "image": "",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "Chrome is now shipping updates every 2 weeks as AI changes the security landscape",
-    "link": "https://techcrunch.com/2026/09/08/chrome-is-now-shipping-updates-every-2-weeks-as-ai-changes-the-security-landscape/",
-    "pubDate": "Tue, 08 Sep 2026 15:04:09 +0000",
-    "source": "TechCrunch AI",
-    "category": "ai",
-    "content": "Google is speeding up Chrome’s release schedule to ship security patches and new features faster.",
-    "image": "",
+    "content": "Apple is launching a new way to prove that the picture you took isn't manipulated by AI. A new feature, called \"Reference Image,\" will arrive with the iPhone 18 Pro lineup later this month and is supposed to use the device's new camera sensor to \"sign every pixel it sees.\"\nThe iPhone 18 Pro and Pro Max will only authenticate photos when placed into Reference mode. Once the camera captures signed sensor data, Apple says its Private Cloud Compute will develop it \"into an unalterable reference image\" that can be viewed in the Photos app. You'll be able to compare the reference image with other versions of the photo to see if any edits were mad …\nRead the full story at The Verge.",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268734_iPhone_2026_event_handson_ADiBenedetto_0023.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
     "summary": "",
     "importance": 5
   },
@@ -1415,46 +1425,13 @@
     "importance": 5
   },
   {
-    "title": "Meta bets on AI agent Muse to catch up in AI race",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/991216/meta-bets-on-ai-agent-muse-to-catch-up-in-ai-race",
-    "pubDate": "2026-09-08T19:00:00.000Z",
-    "source": "The Verge AI",
+    "title": "Six Chinese AI firms accused of aggressively copying US frontier models",
+    "link": "https://arstechnica.com/tech-policy/2026/09/six-chinese-ai-firms-accused-of-aggressively-copying-us-frontier-models/",
+    "pubDate": "Wed, 09 Sep 2026 20:06:28 +0000",
+    "source": "Ars Technica AI",
     "category": "ai",
-    "content": "Meta is making another push to bring artificial intelligence to the masses with Muse, a personal assistant it says can put AI in the hands of virtually anyone. The product is the latest step in a multi-billion-dollar strategy overhaul designed to revitalize the company's ailing position in the AI race and help it catch up to rivals like OpenAI, Anthropic, and Google. \nMuse is a \"personal AI agent\" designed to help out with everyday tasks and projects, like online shopping, sending emails, and planning a trip. Once given a goal, Meta says Muse can work on its own, opening a browser, filling out forms, and even negotiating on users' behalf. F …\nRead the full story at The Verge.",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STK169_Mark_Zuckerburg_CVIRGINIA_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "AI power users claim Anthropic duped them with subscriptions, and they’re taking it to court",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/990313/anthropic-class-action-lawsuit-pricing-subscription-plans",
-    "pubDate": "2026-09-08T17:27:31.000Z",
-    "source": "The Verge AI",
-    "category": "ai",
-    "content": "Anthropic says power users are key to its business - it's prioritized them even when it means cutting off other popular applications, like OpenClaw. But some of these same customers say Anthropic misled them into believing they'd get more out of a top-tier pricing subscription than they did. \nIn an expanded class action lawsuit filed today, a group of Claude subscribers say the company deceptively advertised the limits of its Max subscription tier. The lawsuit was brought by attorneys Monica Vaca and Kati Daffan, who both formerly worked at the Federal Trade Commission under Lina Khan. It's a rare attempt to legally penalize AI companies fo …\nRead the full story at The Verge.",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/STK202_DARIO_AMODEI_CVIRGINIA_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "Google’s Atlas of the human genome could pave the way for new treatments",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/991180/google-launches-alpha-genome-atlas",
-    "pubDate": "2026-09-08T14:00:00.000Z",
-    "source": "The Verge AI",
-    "category": "ai",
-    "content": "Google DeepMind has unveiled an AI tool that its scientists claim could help unravel the mysteries of the human genome and transform our understanding of biology, accelerating scientific research and ultimately paving the way for new treatments for diseases.  \nThe platform, called AlphaGenome Atlas, contains a \"predictive map of every possible DNA letter change in the human genome,\"  the researchers said in a blog post published on Tuesday. \nDNA is written in an alphabet of four chemical \"letters\" - usually shortened to A, C, G, and T - and the human genome contains roughly three billion letter pairs. Those letters contain the instructions …\nRead the full story at The Verge.",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/alphagenome-atlas-cover__background.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "Adobe is trying to make its AI generators idiot-proof in Premiere",
-    "link": "https://www.theverge.com/tech/991133/adobe-is-trying-to-make-its-ai-generators-idiot-proof-in-premiere",
-    "pubDate": "2026-09-08T13:00:00.000Z",
-    "source": "The Verge AI",
-    "category": "ai",
-    "content": "Suspenseful clock ticking… as you wait for AI to take your job. | Image: Adobe\t\n\nAdobe is overhauling how editors interact with AI in its Premiere professional video editing software. Its new Generative Media tool makes it easier to generate video, sound effects, music, and soundscapes without ever leaving the project timeline. The generators themselves aren't entirely new; the big change is how easily you can access them without breaking your workflow. \nInstead of jumping between browsers or external apps to find missing B-roll or audio elements, editors can now highlight an empty gap on the video or audio track and generate context-aware, fully editable clips without leaving the project. Editors can choose from multip …\nRead the full story at The Verge.",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Premiere_Gen-Media-Tool-2.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "content": "US urges AI firms to ID, then secretly switch, Chinese users to less-capable models.",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2199506955-1024x648.jpg",
     "summary": "",
     "importance": 5
   },
@@ -1589,5 +1566,17 @@
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2024/09/hugging_face_3-1152x648.jpg",
     "summary": "",
     "importance": 5
+  },
+  {
+    "title": "Kalshi election data goes live on DoubleZero ahead of U.S. midterms",
+    "link": "https://www.coindesk.com/tech/2026/09/09/kalshi-election-data-goes-live-on-doublezero-ahead-of-u-s-midterms",
+    "pubDate": "Wed, 09 Sep 2026 14:00:00 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "The expansion gives institutional and automated traders access to full-depth political prediction-market order books ahead of the U.S. midterms.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/901944c6dda50496883edca6a70899e618bfde9e-1367x769.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "Kalshi election data has gone live on DoubleZero, providing institutional and automated traders with access to full-depth political prediction-market order books. This expansion offers valuable data ahead of the U.S. midterms.",
+    "importance": 3,
+    "classified": true
   }
 ]
