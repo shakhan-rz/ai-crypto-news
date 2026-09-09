@@ -1,5 +1,17 @@
 [
   {
+    "title": "Anthropic researcher quits with a warning on AI that echoes 'The Terminator' script",
+    "link": "https://www.coindesk.com/markets/2026/09/09/anthropic-researcher-quits-with-a-warning-on-ai-that-echoes-the-terminator-script",
+    "pubDate": "Wed, 09 Sep 2026 06:20:38 +0000",
+    "source": "CoinDesk",
+    "category": "ai",
+    "content": "The people building AI earnestly believe that it could kill us all by the end of the decade, Coxon said on X, explaining his resignation.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/4560be8aed0a5640eda1469956aed80cce9bd960-6177x4118.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "An Anthropic researcher, Coxon, resigned from the company, stating his belief that AI could kill humanity by the end of the decade. He shared his warning on X, emphasizing the existential risk perceived by those building AI.",
+    "importance": 9,
+    "classified": true
+  },
+  {
     "title": "Visa combines VisaNet data with onchain lending to power stablecoin card working capital",
     "link": "https://www.coindesk.com/business/2026/09/08/visa-opens-settlement-data-to-help-blockchain-lenders-finance-crypto-cards-as-volume-surges",
     "pubDate": "Tue, 08 Sep 2026 14:29:14 +0000",
@@ -105,6 +117,30 @@
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2024/09/hugging_face_3-1152x648.jpg",
     "summary": "Nvidia is reportedly acquiring Hugging Face, a major AI model repository, for $13 billion to bolster its open-source AI infrastructure. The deal highlights Nvidia's strategic push to dominate the AI ecosystem amid rising demand for accessible AI tools.",
     "importance": 9,
+    "classified": true
+  },
+  {
+    "title": "Moonshot’s Kimi rattled markets. U.S. agencies now say it was trained on American models",
+    "link": "https://www.coindesk.com/tech/2026/09/09/moonshot-s-kimi-rattled-markets-u-s-agencies-now-say-it-was-trained-on-american-models",
+    "pubDate": "Wed, 09 Sep 2026 04:40:54 +0000",
+    "source": "CoinDesk",
+    "category": "ai",
+    "content": "Moonshot, whose Kimi model rattled markets earlier this year, is among six Chinese AI firms accused of systematically extracting capabilities from U.S. models.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/19c695f0f850d47563cc5e9ac2f4369815967c79-1200x800.webp?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "Moonshot's Kimi AI model, which previously impacted markets, is at the center of accusations from U.S. agencies. Moonshot is among six Chinese AI firms alleged to have systematically extracted capabilities from American AI models.",
+    "importance": 8,
+    "classified": true
+  },
+  {
+    "title": "Bitcoin recovers toward $79,000 as Zcash records a $500 million ETF haul",
+    "link": "https://www.coindesk.com/markets/2026/09/09/bitcoin-recovers-toward-usd79-000-as-zcash-records-a-usd500-million-etf-haul",
+    "pubDate": "Wed, 09 Sep 2026 04:35:55 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "Bitcoin fell to nearly $77,600 on Tuesday before clawing most of it back, leaving it little changed on the day while zcash gained roughly 43% on the week and Grayscale's new fund crossed half a billion dollars.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/271061a9323bf3f3cb0450115656ad79336f95d7-1528x824.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "Bitcoin experienced a brief dip to $77,600 on Tuesday but recovered most of its losses, resulting in minimal change for the day. Meanwhile, Zcash saw a significant 43% gain over the week, and a new Grayscale fund successfully accumulated half a billion dollars.",
+    "importance": 8,
     "classified": true
   },
   {
@@ -216,38 +252,14 @@
     "classified": true
   },
   {
-    "title": "Polish prosecutors charge fifth suspect in a massive crypto probe",
-    "link": "https://www.coindesk.com/policy/2026/09/07/polish-prosecutors-charge-fifth-suspect-in-a-massive-crypto-probe",
-    "pubDate": "Mon, 07 Sep 2026 15:28:43 +0000",
-    "source": "CoinDesk",
+    "title": "Jack Dorsey’s Block seeks US trust bank charter for Bitcoin, stablecoin",
+    "link": "https://cointelegraph.com/news/block-us-trust-bank-charter-bitcoin-stablecoin-custody?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Wed, 09 Sep 2026 07:36:21 +0000",
+    "source": "Cointelegraph",
     "category": "crypto",
-    "content": "BitBay became Zondacrypto in 2021. The exchange stopped trading in April after customers faced frozen withdrawals and estimated losses of at least $94 million.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/e811d957616f476007bbc63485c4cb73baac3c0d-1920x1280.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "Polish prosecutors have charged a fifth suspect in a massive crypto probe involving Zondacrypto, formerly BitBay. The exchange ceased trading in April, leading to frozen customer withdrawals and estimated losses exceeding $94 million.",
-    "importance": 8,
-    "classified": true
-  },
-  {
-    "title": "Stablecoin wallets challenge traditional bank accounts as main consumer money hub",
-    "link": "https://www.coindesk.com/business/2026/09/07/stablecoin-wallets-challenge-traditional-bank-accounts-as-main-consumer-money-hub",
-    "pubDate": "Mon, 07 Sep 2026 14:12:15 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "Industry leaders debate whether digital dollar wallets will dismantle traditional bank accounts or simply modernize the underlying infrastructure.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/342f8890301beb5acf9ca08064a218d0b94619e1-1732x974.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "Industry leaders are debating whether stablecoin and digital dollar wallets will replace traditional bank accounts as the main consumer money hub. This discussion centers on whether these digital wallets will dismantle existing financial infrastructure or merely modernize it.",
-    "importance": 8,
-    "classified": true
-  },
-  {
-    "title": "Ethereum commits to letting users pay gas fees without having to hold ETH",
-    "link": "https://www.coindesk.com/tech/2026/09/07/ethereum-commits-to-letting-users-pay-gas-fees-without-having-to-hold-eth",
-    "pubDate": "Mon, 07 Sep 2026 13:54:07 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "The Frame Transactions feature was locked into the Hegotá upgrade last month, and Ethereum co-founder Vitalik Buterin says the work has moved quickly since.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/c357579ddef2051b405b9e89f8525dd02709081d-5760x3240.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "Ethereum is implementing a new \"Frame Transactions\" feature, part of the Hegotá upgrade, which will allow users to pay gas fees without needing to hold ETH. Ethereum co-founder Vitalik Buterin notes that work on this significant usability improvement is progressing quickly. This change aims to simplify transactions and potentially broaden adoption of the Ethereum network.",
+    "content": "The proposed Builders Bank would offer federally supervised digital asset custody but would not accept deposits or issue loans.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M22GDYQR3DVCE1PJVZEV5JJ4/hi-who-is-jack-dorsey-profile-and-biography.jpg",
+    "summary": "Jack Dorsey's Block is seeking a US trust bank charter for its proposed Builders Bank, which would offer federally supervised custody for digital assets like Bitcoin and stablecoins. The bank would not accept deposits or issue loans, focusing solely on digital asset safeguarding.",
     "importance": 8,
     "classified": true
   },
@@ -333,6 +345,18 @@
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/mhsdemo-1152x648.png",
     "summary": "Anthropic has introduced a new hardware standard that enables AI agents to interact with and control physical devices through a standardized driver interface, facilitating communication between devices and AI systems.",
     "importance": 8,
+    "classified": true
+  },
+  {
+    "title": "Live updates: XRP funds stand out among U.S. ETFs as bitcoin, ether, solana funds see outflows",
+    "link": "https://www.coindesk.com/business/2026/09/09/live-updates-xrp-funds-stand-out-among-u-s-etfs-as-bitcoin-ether-solana-funds-see-outflows",
+    "pubDate": "Wed, 09 Sep 2026 07:20:51 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "XRP ETFs took nearly $2 million on Tuesday while bitcoin, ether, solana and hyperliquid funds all lost money. Grayscale's products account for the entire outflow in both bitcoin and ether.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/e25bff20a8997ca63b6d72f3f6f2a42df0cadc79-1400x780.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "XRP ETFs recorded nearly $2 million in inflows on Tuesday, while bitcoin, ether, solana, and hyperliquid funds all experienced outflows. Notably, Grayscale's products accounted for the entirety of the outflows seen in both bitcoin and ether ETFs.",
+    "importance": 7,
     "classified": true
   },
   {
@@ -432,6 +456,18 @@
     "classified": true
   },
   {
+    "title": "Hunter Biden defends LAPTOP ahead of Wednesday launch, calls TRUMP a ‘grift’",
+    "link": "https://www.coindesk.com/markets/2026/09/09/hunter-biden-defends-laptop-ahead-of-wednesday-launch-calls-trump-a-grift",
+    "pubDate": "Wed, 09 Sep 2026 05:22:57 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "Biden says the token is about “resilience, redemption and recovery” and will give coins to nearly one million wallets that lost money on TRUMP.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/df548a2f7265e0a4c214087c33b2506c6e001208-3000x1688.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "Hunter Biden is set to launch a new cryptocurrency token named LAPTOP, describing it as a symbol of \"resilience, redemption and recovery.\" He plans to distribute these new coins to approximately one million wallets that incurred losses from the TRUMP token.",
+    "importance": 6,
+    "classified": true
+  },
+  {
     "title": "Copper CEO Amar Kuchinad departs as search for a buyer enters a fourth month",
     "link": "https://www.coindesk.com/business/2026/09/08/copper-ceo-amar-kuchinad-departs-as-search-for-a-buyer-enters-a-fourth-month",
     "pubDate": "Tue, 08 Sep 2026 15:23:46 +0000",
@@ -470,7 +506,7 @@
   {
     "title": "Here’s what happened in crypto today",
     "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Tue, 08 Sep 2026 20:13:27 +0000",
+    "pubDate": "Wed, 09 Sep 2026 05:51:21 +0000",
     "source": "Cointelegraph",
     "category": "crypto",
     "content": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
@@ -502,6 +538,28 @@
     "summary": "Meta has updated its AI-powered smart glasses to prevent nonconsensual recording by disabling the device whenever the safety light is covered, addressing privacy concerns. The change aims to make the glasses less intrusive while maintaining their core functionality.",
     "importance": 6,
     "classified": true
+  },
+  {
+    "title": "Gemini receives Singapore payment license for crypto services",
+    "link": "https://cointelegraph.com/news/gemini-singapore-mpi-license-crypto-services?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Wed, 09 Sep 2026 05:27:12 +0000",
+    "source": "Cointelegraph",
+    "category": "crypto",
+    "content": "Gemini’s local entity is authorized to provide digital payment token and cross-border money transfer services without standard transaction-volume limits.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M22A0GM1G22S8VPZXWGBQS1G/hi-time-to-switch-license-singapore.jpg",
+    "summary": "",
+    "importance": 5
+  },
+  {
+    "title": "Cybercrime ringleader Malone Lam pleads guilty in $245M crypto theft conspiracy",
+    "link": "https://cointelegraph.com/news/malone-lam-pleads-guilty-245m-crypto-theft-conspiracy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Wed, 09 Sep 2026 04:09:51 +0000",
+    "source": "Cointelegraph",
+    "category": "crypto",
+    "content": "US prosecutors said Lam organized an international network that targeted cryptocurrency holders through social engineering and home break-ins.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M225DFFFFZQWQQC6PNGCEK5J/doj-hammer.png",
+    "summary": "",
+    "importance": 5
   },
   {
     "title": "New York town weighs crypto mining and AI data center ban",
@@ -790,35 +848,13 @@
     "importance": 5
   },
   {
-    "title": "Zcash hits highest price since 2016 as market cap tops $20B",
-    "link": "https://cointelegraph.com/markets/zcash-highest-price-market-cap-20-billion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Mon, 07 Sep 2026 12:31:23 +0000",
-    "source": "Cointelegraph",
+    "title": "First staked ETF tied to Tron hits the US markets on Wednesday",
+    "link": "https://www.theblock.co/news/regulation/2026-09-09-first-staked-etf-tied-to-tron-hits-the-us-markets-wednesday-413935",
+    "pubDate": "Wed, 09 Sep 2026 04:01:03 +0000",
+    "source": "The Block",
     "category": "crypto",
-    "content": "ZEC gained 45% over the past week, extending its rally since Grayscale converted its Zcash Trust into an ETF that began trading Aug. 25.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1XWJSJ8XM9PBWB2HGFX3KCS/zcash-rally-etf-grayscale-privacy-coins.jpg",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "Yen intervention meets US inflation data: Five things to know in Bitcoin this week",
-    "link": "https://cointelegraph.com/markets/markets-tilt-toward-september-rate-hikes-five-things-to-know-in-bitcoin-this-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Mon, 07 Sep 2026 12:10:22 +0000",
-    "source": "Cointelegraph",
-    "category": "crypto",
-    "content": "This week’s CPI and PPI prints, along with the Fed’s Sept. 16 rate decision, could determine whether Bitcoin can secure $80,000 as a support level.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1XVQV0DBV1Z4W8PX2TG1AZJ/hi-heres-how-chamber-of-digital-commerce-wants-to-make-crypto-market-great2-1.jpg",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "Citi, DBS complete first weekend tokenized cross-border deposit on Swift",
-    "link": "https://cointelegraph.com/news/dbs-citi-first-weekend-tokenized-deposit-swift?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Mon, 07 Sep 2026 10:34:47 +0000",
-    "source": "Cointelegraph",
-    "category": "crypto",
-    "content": "Citi and DBS completed their first tokenized cross-border transfer over the weekend, using Swift’s blockchain-based ledger to circumvent the constraints of traditional banking hours.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1XP9EEWDQ84ZSGS1X5SFP19/hi-sbuidl-blackrocks-tokenized-treasury-fund.jpg",
+    "content": "The first staked ETF tied to Tron is set to hit the market Wednesday, giving investors a new way to gain exposure to TRX.",
+    "image": "https://www.tbstat.com/wp/uploads/2022/06/22020627_Tron-1200x675.jpg",
     "summary": "",
     "importance": 5
   },
@@ -1021,17 +1057,6 @@
     "importance": 5
   },
   {
-    "title": "Ethereum aims for quantum-safe L1 by 2029 as Hegotá upgrade takes form",
-    "link": "https://www.theblock.co/news/ecosystems/2026-09-08-ethereum-foundation-quantum-resistance-2029-413716",
-    "pubDate": "Tue, 08 Sep 2026 04:17:21 +0000",
-    "source": "The Block",
-    "category": "crypto",
-    "content": "Ethereum is targeting full post-quantum security by 2029, starting with account abstraction and censorship resistance upgrades for Hegotá.",
-    "image": "https://www.tbstat.com/wp/uploads/2024/05/20240523_Ethereum_News_2-1200x675.jpg",
-    "summary": "",
-    "importance": 5
-  },
-  {
     "title": "Lummis Blasts Democrats Ahead of Clarity Act Vote — But Adds Bill Can Get Passed",
     "link": "https://bitcoinmagazine.com/news/lummis-blasts-democrats-on-clarity-act",
     "pubDate": "Tue, 08 Sep 2026 20:56:30 +0000",
@@ -1105,6 +1130,17 @@
     "category": "crypto",
     "content": "Bitcoin Magazine\n\nLiquid Gets 3,400 BTC Back After On-Chain Talks; White Hats Keep 598.5 BTC\nA self-described white-hat party returned 3,400 BTC to Liquid Network’s federation wallet on Monday after Blockstream said bridge nodes were patched. About 598.5 BTC, near $47 million, remains at the holder address.\nThis post Liquid Gets 3,400 BTC Back After On-Chain Talks; White Hats Keep 598.5 BTC first appeared on Bitcoin Magazine and is written by Juan Galt.",
     "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/09/tn-2.webp",
+    "summary": "",
+    "importance": 5
+  },
+  {
+    "title": "What OpenAI’s latest controversy tells us about the future of math",
+    "link": "https://www.technologyreview.com/2026/09/08/1143747/what-openais-latest-controversy-tells-us-about-the-future-of-math/",
+    "pubDate": "Wed, 09 Sep 2026 03:10:08 +0000",
+    "source": "MIT Technology Review",
+    "category": "ai",
+    "content": "OpenAI’s latest mathematical milestone has quickly become mired in controversy. Today, the company announced that its agents have solved one of the Millennium Prize Problems, some of the most important open problems in mathematics. Under normal circumstances, that solution would be a huge feather in OpenAI’s cap. But the announcement has been overshadowed by accusations…",
+    "image": "",
     "summary": "",
     "importance": 5
   },
@@ -1561,18 +1597,6 @@
     "classified": true
   },
   {
-    "title": "The Download: rethinking child safety and fossil-fueled farming",
-    "link": "https://www.technologyreview.com/2026/09/03/1143385/the-download-rethinking-child-safety-online-fossil-fuels-farming/",
-    "pubDate": "Thu, 03 Sep 2026 12:10:00 +0000",
-    "source": "MIT Technology Review",
-    "category": "ai",
-    "content": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Child-monitoring apps might need a reboot Digital harms have become the defining fear of American parents. In response, they’re increasingly turning to content-monitoring apps that scan their children’s texts, photos, emails,…",
-    "image": "https://wp.technologyreview.com/wp-content/uploads/2026/04/2412_GW_2Month_2_1.jpg?w=840",
-    "summary": "The article discusses the growing use of child-monitoring apps to address digital harms, driven by parents' concerns about online safety. It highlights the need for these apps to adapt to evolving risks in technology.",
-    "importance": 4,
-    "classified": true
-  },
-  {
     "title": "Bitcoin slips to $78,800 as BNB and DeFi tokens buck the selloff",
     "link": "https://www.coindesk.com/markets/2026/09/08/bitcoin-slips-to-usd78-800-as-bnb-and-defi-tokens-buck-the-selloff",
     "pubDate": "Tue, 08 Sep 2026 10:33:17 +0000",
@@ -1581,30 +1605,6 @@
     "content": "Bitcoin fell 0.42% since midnight UTC to $78,874, but the CoinDesk 20 rose 0.2% and the memecoin index gained 0.41% as BNB Chain tokens rallied.",
     "image": "https://cdn.sanity.io/images/s3y3vcno/production/58698f379ba01c0383de7684d733454c1e90828d-1920x1080.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
     "summary": "Bitcoin experienced a slight drop of 0.42% to $78,874. However, other cryptocurrency segments like the CoinDesk 20, memecoins, and BNB Chain tokens showed gains, bucking the broader selloff.",
-    "importance": 3,
-    "classified": true
-  },
-  {
-    "title": "Metaplanet CEO breaks silence but shareholders say the hard questions remain unanswered",
-    "link": "https://www.coindesk.com/markets/2026/09/08/metaplanet-ceo-breaks-silence-but-shareholders-say-the-hard-questions-remain-unanswered",
-    "pubDate": "Mon, 07 Sep 2026 23:01:00 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "Simon Gerovich said Metaplanet had not adequately explained the structure, and denied involvement in MMXX Ventures’ trading decisions.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/ae0eefbbe99f7161ece4bcb1b3f82b9a3ef46b11-1920x1100.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "Metaplanet's CEO, Simon Gerovich, has addressed shareholder concerns regarding the company's structure and denied involvement in MMXX Ventures' trading decisions. However, shareholders claim that critical questions about the company's operations remain unanswered despite his statement.",
-    "importance": 3,
-    "classified": true
-  },
-  {
-    "title": "Hunter Biden debuts 'LAPTOP' memecoin targeting TRUMP holders",
-    "link": "https://www.coindesk.com/business/2026/09/07/hunter-biden-is-launching-a-memecoin-named-after-his-laptop",
-    "pubDate": "Mon, 07 Sep 2026 15:44:30 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "LAPTOP debuts Wednesday on Base, with nearly a third of the supply set to be burned if a slate of political and market outcomes — including a Democratic win in 2028 — comes good.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/3cd740b222f532e367c30f90f1b5170696358cde-1280x792.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "Hunter Biden has launched a new political memecoin called 'LAPTOP' on the Base blockchain. This token features a unique burn mechanism, where nearly a third of its supply will be burned if certain political and market outcomes, such as a Democratic win in 2028, materialize. The project is specifically designed to target holders of TRUMP-themed memecoins.",
     "importance": 3,
     "classified": true
   },
