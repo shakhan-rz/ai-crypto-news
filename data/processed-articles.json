@@ -84,30 +84,6 @@
     "classified": true
   },
   {
-    "title": "U.S. Treasury sanctions another widespread cyber-scam hub, Xinbi Guarantee ",
-    "link": "https://www.coindesk.com/policy/2026/09/09/u-s-treasury-sanctions-another-widespread-cyber-scam-hub-xinbi-guarantee",
-    "pubDate": "Wed, 09 Sep 2026 16:05:11 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "Chinese-language platform Xinbi is accused of operating on crypto transactions as it offered services to other criminal networks.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/5b751c64af19824fc862118663629188f655c38e-4032x2268.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "The U.S. Treasury has sanctioned Xinbi Guarantee, a Chinese-language platform accused of operating a widespread cyber-scam hub. Xinbi allegedly facilitated criminal networks by operating on crypto transactions and offering related services.",
-    "importance": 8,
-    "classified": true
-  },
-  {
-    "title": "Tether pushes into private credit with $400 million fund with Fasanara",
-    "link": "https://www.coindesk.com/business/2026/09/09/tether-pushes-into-private-credit-with-usd400-million-fund-with-fasanara",
-    "pubDate": "Wed, 09 Sep 2026 15:51:25 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "The USDT issuer will help source lending opportunities and provide stablecoin payment infrastructure for Fasanara's private credit network.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/bfd80702a660a5deef3d056a315228038910dde5-1405x790.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "Tether, the issuer of USDT, is launching a $400 million private credit fund in partnership with Fasanara. Tether will be responsible for sourcing lending opportunities and providing stablecoin payment infrastructure for Fasanara's network.",
-    "importance": 8,
-    "classified": true
-  },
-  {
     "title": "“Zlibrary my beloved”: Anthropic staff chats extolling piracy cited in Sony suit",
     "link": "https://arstechnica.com/tech-policy/2026/08/zlibrary-my-beloved-anthropic-staff-chats-extolling-piracy-cited-in-sony-suit/",
     "pubDate": "Mon, 31 Aug 2026 18:10:45 +0000",
@@ -129,6 +105,18 @@
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2022/03/getty-eu-flag-1152x648.jpg",
     "summary": "ChatGPT and Reddit are now subject to the EU's strictest online safety regulations due to their rapid growth and user base. The Digital Services Act (DSA) imposes stringent compliance requirements on major platforms operating in the EU.",
     "importance": 8,
+    "classified": true
+  },
+  {
+    "title": "New Clarity Act text tweaks DeFi, credit union provisions, but road ahead for bill remains murky",
+    "link": "https://www.coindesk.com/policy/2026/09/10/new-clarity-act-text-tweaks-defi-credit-union-provisions-but-road-ahead-for-bill-remains-murky",
+    "pubDate": "Thu, 10 Sep 2026 20:21:57 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "The Clarity Act needs 60 votes when the Senate returns from its recess next week. Republicans circulated a fresh draft on Thursday ahead of the vote.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/27f181c6ee0ec7f329ad40b57f8403e3338d7346-4928x2772.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "A new draft of the Clarity Act, which includes tweaks to DeFi and credit union provisions, has been circulated by Republicans. The bill will require 60 Senate votes when the Senate returns from recess next week, though its future remains uncertain.",
+    "importance": 7,
     "classified": true
   },
   {
@@ -192,18 +180,6 @@
     "classified": true
   },
   {
-    "title": "Trump blacklisting of \"woke\" Anthropic deemed illegal by federal judge",
-    "link": "https://arstechnica.com/tech-policy/2026/08/trump-blacklisting-of-woke-anthropic-deemed-illegal-by-federal-judge/",
-    "pubDate": "Fri, 28 Aug 2026 18:07:55 +0000",
-    "source": "Ars Technica AI",
-    "category": "ai",
-    "content": "Anthropic refused to support lethal autonomous warfare and mass surveillance.",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/claude-app-1152x648.jpg",
-    "summary": "A federal judge ruled that former President Trump's blacklisting of AI company Anthropic for refusing to support lethal autonomous warfare and mass surveillance was illegal. The decision highlights tensions between government demands and AI ethics.",
-    "importance": 7,
-    "classified": true
-  },
-  {
     "title": "Monument Bank delays retail tokenized deposits, cites regulatory issues in the UK",
     "link": "https://www.coindesk.com/business/2026/09/10/monument-bank-delays-retail-tokenized-deposits-cites-regulatory-issues-in-the-uk",
     "pubDate": "Thu, 10 Sep 2026 15:53:24 +0000",
@@ -254,7 +230,7 @@
   {
     "title": "Here’s what happened in crypto today",
     "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Thu, 10 Sep 2026 13:20:26 +0000",
+    "pubDate": "Thu, 10 Sep 2026 21:30:00 +0000",
     "source": "Cointelegraph",
     "category": "crypto",
     "content": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
@@ -274,6 +250,17 @@
     "summary": "Google has released Gemini 3.8 Flash, marking its third Flash model update in six weeks. The Pro model updates appear to be paused while the company continues to iterate on its smaller, faster Flash variants.",
     "importance": 6,
     "classified": true
+  },
+  {
+    "title": "Why a new SEC plan could ease a legal headache for tokenized securities",
+    "link": "https://www.coindesk.com/business/2026/09/10/why-a-new-sec-plan-could-end-the-legal-headaches-of-holding-tokenized-securities",
+    "pubDate": "Thu, 10 Sep 2026 19:01:30 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "The SEC's new proposal to overhaul transfer-agent rules could eliminate duplicate offchain shareholder records, reducing reconciliation costs and legal uncertainty for tokenized securities.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/333db2ac6429c13170ebdacdfd4cae413b017a08-4922x2769.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "",
+    "importance": 5
   },
   {
     "title": "Europe’s top regulator questions Polymarket and Kalshi’s EU access, warns of authorization gaps",
@@ -341,6 +328,28 @@
     "summary": "Dogecoin led major cryptocurrency losses, falling 5%, while BNB and XRP also saw declines of around 4% and 3% respectively. Bitcoin, however, managed to hold the $78,000 level amidst these movements. These crypto market shifts coincided with rising oil prices pushing Treasury yields to their highest since late 2023.",
     "importance": 5,
     "classified": true
+  },
+  {
+    "title": "ESMA warns growing crypto ties could amplify risks to traditional finance",
+    "link": "https://cointelegraph.com/news/esma-warns-growing-crypto-ties-could-amplify-risks-to-traditional-finance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Thu, 10 Sep 2026 20:10:29 +0000",
+    "source": "Cointelegraph",
+    "category": "crypto",
+    "content": "The EU securities regulator flagged tokenized equities, DeFi exploits and prediction markets as areas where growing crypto ties could pose risks to the broader financial system.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M26CZHVMKBYHAAV7EA21J68E/hi-what-is-mica-markets-in-crypto-assets-regulation-esma.png",
+    "summary": "",
+    "importance": 5
+  },
+  {
+    "title": "UK House of Lords backs mandatory digital asset strategy over Labour position",
+    "link": "https://cointelegraph.com/news/uk-house-of-lords-backs-mandatory-digital-asset-strategy-in-194138-vote?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Thu, 10 Sep 2026 17:54:12 +0000",
+    "source": "Cointelegraph",
+    "category": "crypto",
+    "content": "The amendment would require the UK Treasury to develop a strategy covering cryptoassets, stablecoins, tokenized securities and digital financial infrastructure.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M265GXQKJCP1QSNW42GTAMVF/hi-uk-and-crypto-new.png",
+    "summary": "",
+    "importance": 5
   },
   {
     "title": "Liquid Network resumes block production after $320M exploit",
@@ -640,24 +649,24 @@
     "importance": 5
   },
   {
-    "title": "Italy’s central bank orders sanctions screening for crypto transfers",
-    "link": "https://cointelegraph.com/news/italys-central-bank-orders-sanctions-screening-for-crypto-transfers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Wed, 09 Sep 2026 12:20:33 +0000",
-    "source": "Cointelegraph",
+    "title": "Bitwise shuts down Dogecoin ETF less than a year after launch",
+    "link": "https://www.theblock.co/news/markets/2026-09-10-bitwise-shuts-down-dogecoin-etf-less-than-a-year-after-launch-414184",
+    "pubDate": "Thu, 10 Sep 2026 20:28:46 +0000",
+    "source": "The Block",
     "category": "crypto",
-    "content": "Banca d’Italia ordered crypto service providers to implement internal controls to screen for crypto transfers tied to sanctioned entities.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M22YH8T5P9TFVVDGR0A597KG/hi-bank-of-italy-and-crypto-recap.jpg",
+    "content": "BWOW generated about $3 million in trading volume when it launched in November 2025, but has failed to come anywhere close ever since.",
+    "image": "https://www.tbstat.com/wp/uploads/2024/05/kabosu-doge-1200x671.png",
     "summary": "",
     "importance": 5
   },
   {
-    "title": "What could happen if the CLARITY Act fails to pass in 2026",
-    "link": "https://cointelegraph.com/news/clarity-act-fails-passage-next-session-congress?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Wed, 09 Sep 2026 11:54:41 +0000",
-    "source": "Cointelegraph",
+    "title": "Senate Republicans unveil revised crypto bill ahead of key Clarity Act vote next week",
+    "link": "https://www.theblock.co/news/regulation/2026-09-10-senate-republicans-unveil-revised-crypto-bill-ahead-of-key-clarity-act-vote-next-week-414180",
+    "pubDate": "Thu, 10 Sep 2026 19:42:06 +0000",
+    "source": "The Block",
     "category": "crypto",
-    "content": "The US Senate has a limited window to pass a crypto market structure bill, but if it were to fail, the legislation could be completely remade or scrapped under Democrats in 2027.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M20RQ63SNVA0RPYQR00172VH/hi-in-a-labyrinth-clarity-act-us.jpg",
+    "content": "Ahead of a pivotal initial vote next week, Senate Republicans released a revised version of landmark cryptocurrency legislation.",
+    "image": "https://www.tbstat.com/wp/uploads/2021/12/20211208_Capitol-Congress-Regulation-1200x675.jpg",
     "summary": "",
     "importance": 5
   },
@@ -816,24 +825,35 @@
     "importance": 5
   },
   {
-    "title": "Hunter Biden’s LAPTOP airdrops briefly worth over $1 million each before 99% crash",
-    "link": "https://www.theblock.co/news/markets/2026-09-09-hunter-biden-laptop-airdrops-briefly-worth-over-1-million-each-before-99-crash-414034",
-    "pubDate": "Wed, 09 Sep 2026 16:05:45 +0000",
-    "source": "The Block",
+    "title": "Ringleader of $245M Crypto Theft Pleads Guilty ",
+    "link": "https://bitcoinmagazine.com/news/ringleader-in-bitcoin-theft-guilty",
+    "pubDate": "Thu, 10 Sep 2026 22:24:40 +0000",
+    "source": "Bitcoin Magazine",
     "category": "crypto",
-    "content": "Substack subscribers were reportedly able to claim 4,276 LAPTOP tokens each, with some quickly selling their allocations.",
-    "image": "https://www.tbstat.com/wp/uploads/2025/04/20250411_Tokens_News_2-1200x675.jpg",
+    "content": "Bitcoin Magazine\n\nRingleader of $245M Crypto Theft Pleads Guilty \nThe 22-year-old criminal ringleader led one of the biggest bitcoin heists in U.S. history. \nThis post Ringleader of $245M Crypto Theft Pleads Guilty  first appeared on Bitcoin Magazine and is written by Mathew Di Salvo.",
+    "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/09/Pics-1-5.jpg",
     "summary": "",
     "importance": 5
   },
   {
-    "title": "Crypto industry groups escalate fight against Illinois, asking court to block controversial crypto tax",
-    "link": "https://www.theblock.co/news/regulation/2026-09-09-crypto-industry-groups-escalate-fight-illinois-asking-court-block-crypto-tax-414036",
-    "pubDate": "Wed, 09 Sep 2026 15:04:41 +0000",
-    "source": "The Block",
+    "title": "Trezor Reveals Another Data Breach After Scammers Target Marketing Platform ",
+    "link": "https://bitcoinmagazine.com/news/trezor-reveals-another-data-breach",
+    "pubDate": "Thu, 10 Sep 2026 21:28:55 +0000",
+    "source": "Bitcoin Magazine",
     "category": "crypto",
-    "content": "Crypto groups representing a slew of digital asset firms are escalating its legal fight in Illinois over its controversial crypto tax.",
-    "image": "https://www.tbstat.com/wp/uploads/2022/05/20220526_Bangkok-Thailand-Tax-Calculator-1200x675.jpg",
+    "content": "Bitcoin Magazine\n\nTrezor Reveals Another Data Breach After Scammers Target Marketing Platform \nUsers of the bitcoin hardware wallet were targeted with phishing attacks. \nThis post Trezor Reveals Another Data Breach After Scammers Target Marketing Platform  first appeared on Bitcoin Magazine and is written by Mathew Di Salvo.",
+    "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/09/Pics-16.jpg",
+    "summary": "",
+    "importance": 5
+  },
+  {
+    "title": "Updated Crypto Clarity Act Starts Circulating Days Before Key Vote ",
+    "link": "https://bitcoinmagazine.com/news/updated-clarity-act-starts-circulating",
+    "pubDate": "Thu, 10 Sep 2026 20:23:59 +0000",
+    "source": "Bitcoin Magazine",
+    "category": "crypto",
+    "content": "Bitcoin Magazine\n\nUpdated Crypto Clarity Act Starts Circulating Days Before Key Vote \nA new draft of the long-awaited bill has been circulated by Senate Republicans. \nThis post Updated Crypto Clarity Act Starts Circulating Days Before Key Vote  first appeared on Bitcoin Magazine and is written by Mathew Di Salvo.",
+    "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/07/Younger-Democrats-Understand-Clarity-Act.jpg",
     "summary": "",
     "importance": 5
   },
@@ -911,39 +931,6 @@
     "category": "crypto",
     "content": "Bitcoin Magazine\n\nSteak ‘n Shake Says Sales Grew Double Digits Since Bitcoin Adoption\nThe burger franchise started accepting bitcoin over Lightning last year and claims business is booming. \nThis post Steak ‘n Shake Says Sales Grew Double Digits Since Bitcoin Adoption first appeared on Bitcoin Magazine and is written by Mathew Di Salvo.",
     "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/09/Pics-14.jpg",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "Iran Continues Using Bitcoin To Keep Economy Stable: Report",
-    "link": "https://bitcoinmagazine.com/news/iran-still-using-bitcoin-to-help-economy",
-    "pubDate": "Wed, 09 Sep 2026 18:23:22 +0000",
-    "source": "Bitcoin Magazine",
-    "category": "crypto",
-    "content": "Bitcoin Magazine\n\nIran Continues Using Bitcoin To Keep Economy Stable: Report\nRumors of Iran using bitcoin to skirt transactions have been abound for some time now. Business and regime insiders have reportedly said it's a tried and tested method. \nThis post Iran Continues Using Bitcoin To Keep Economy Stable: Report first appeared on Bitcoin Magazine and is written by Mathew Di Salvo.",
-    "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/07/US-Closes-In-of-Irans-Bitcoin-Insurance-Policy-in-strait-of-hormuz.jpg",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "VerifiedX Launches $15 Million Financing Round to Deploy Institutional Bitcoin Infrastructure",
-    "link": "https://bitcoinmagazine.com/news/cantor-fitzgerald-working-with-verifiedx",
-    "pubDate": "Wed, 09 Sep 2026 14:36:50 +0000",
-    "source": "Bitcoin Magazine",
-    "category": "crypto",
-    "content": "Bitcoin Magazine\n\nVerifiedX Launches $15 Million Financing Round to Deploy Institutional Bitcoin Infrastructure\nCantor Fitzgerald is the investment banker on the round. The funding facilitates custody at BitGo, listings on tier-one exchanges and Bitcoin lending programs.\nThis post VerifiedX Launches $15 Million Financing Round to Deploy Institutional Bitcoin Infrastructure first appeared on Bitcoin Magazine and is written by Bitcoin Magazine.",
-    "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/09/Pics-1-3.jpg",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "Lummis Blasts Democrats Ahead of Clarity Act Vote — But Adds Bill Can Get Passed",
-    "link": "https://bitcoinmagazine.com/news/lummis-blasts-democrats-on-clarity-act",
-    "pubDate": "Tue, 08 Sep 2026 20:56:30 +0000",
-    "source": "Bitcoin Magazine",
-    "category": "crypto",
-    "content": "Bitcoin Magazine\n\nLummis Blasts Democrats Ahead of Clarity Act Vote — But Adds Bill Can Get Passed\nPro-crypto senator Cynthia Lummis has said that the Clarity Act can still get through, but it'll need \"further compromise\" from Democrats. \nThis post Lummis Blasts Democrats Ahead of Clarity Act Vote — But Adds Bill Can Get Passed first appeared on Bitcoin Magazine and is written by Mathew Di Salvo.",
-    "image": "https://bitcoinmagazine.com/wp-content/uploads/2025/07/Senator-Lummis-at-Bitcoin-2025.webp",
     "summary": "",
     "importance": 5
   },
@@ -1053,6 +1040,61 @@
     "source": "MIT Technology Review",
     "category": "ai",
     "content": "OpenAI’s latest mathematical milestone has quickly become mired in controversy. Today, the company announced that its agents have solved one of the Millennium Prize Problems, some of the most important open problems in mathematics. Under normal circumstances, that solution would be a huge feather in OpenAI’s cap. But the announcement has been overshadowed by accusations…",
+    "image": "",
+    "summary": "",
+    "importance": 5
+  },
+  {
+    "title": "Jensen Huang explains why Nvidia will grow an astounding 70% next year",
+    "link": "https://techcrunch.com/2026/09/10/jensen-huang-explains-why-nvidia-will-grow-an-astounding-70-next-year/",
+    "pubDate": "Thu, 10 Sep 2026 21:51:59 +0000",
+    "source": "TechCrunch AI",
+    "category": "ai",
+    "content": "Nvidia has its finger in every pie, and sees another year of plenty in its future, Jensen Huang says. But, he insists, its deals are not circular.",
+    "image": "",
+    "summary": "",
+    "importance": 5
+  },
+  {
+    "title": "Mark Wahlberg is coming to TechCrunch Disrupt 2026, and he wants to talk about your work, not his",
+    "link": "https://techcrunch.com/2026/09/10/mark-wahlberg-is-coming-to-techcrunch-disrupt-2026/",
+    "pubDate": "Thu, 10 Sep 2026 21:35:00 +0000",
+    "source": "TechCrunch AI",
+    "category": "ai",
+    "content": "Mark Wahlberg joins Bruce K. Lee at Disrupt to discuss investing, entrepreneurship, healthcare, wellness and building businesses.",
+    "image": "",
+    "summary": "",
+    "importance": 5
+  },
+  {
+    "title": "OpenAI puts Pro subscriptions on hold due to Astra demand",
+    "link": "https://techcrunch.com/2026/09/10/openai-puts-pro-subscriptions-on-hold-due-to-astra-demand/",
+    "pubDate": "Thu, 10 Sep 2026 20:59:51 +0000",
+    "source": "TechCrunch AI",
+    "category": "ai",
+    "content": "The company said Pro subscriptions put the most strain on its systems, so it's pausing sign-ups while adding more capacity.",
+    "image": "",
+    "summary": "",
+    "importance": 5
+  },
+  {
+    "title": "Anthropic details distillation campaigns from Alibaba, Moonshot AI, and DeepSeek",
+    "link": "https://techcrunch.com/2026/09/10/anthropic-details-distillation-campaigns-from-alibaba-moonshot-ai-and-deepseek/",
+    "pubDate": "Thu, 10 Sep 2026 20:57:30 +0000",
+    "source": "TechCrunch AI",
+    "category": "ai",
+    "content": "A new report released Thursday by Anthropic alleges persistent distillation attacks by China-based AI companies, which have escalated in recent months as competition in the space has intensified.",
+    "image": "",
+    "summary": "",
+    "importance": 5
+  },
+  {
+    "title": "Meta’s AI agent Muse is now the No. 2 app in the US",
+    "link": "https://techcrunch.com/2026/09/10/metas-ai-agent-muse-is-now-the-no-2-app-in-the-us/",
+    "pubDate": "Thu, 10 Sep 2026 19:50:04 +0000",
+    "source": "TechCrunch AI",
+    "category": "ai",
+    "content": "Meta's newest app Muse is off to a slower start than the company's other apps, like Meta AI or Threads.",
     "image": "",
     "summary": "",
     "importance": 5
@@ -1212,46 +1254,24 @@
     "importance": 5
   },
   {
-    "title": "ControlAI’s Connor Leahy on why superintelligence is ‘not a weapon, it’s an adversary’ ",
-    "link": "https://techcrunch.com/podcast/controlais-connor-leahy-on-why-superintelligence-is-not-a-weapon-its-an-adversary/",
-    "pubDate": "Wed, 09 Sep 2026 15:50:13 +0000",
-    "source": "TechCrunch AI",
+    "title": "Slack can now vibe-code interactive charts and reports inside chats",
+    "link": "https://www.theverge.com/tech/989853/slackforce-surfaces-launch",
+    "pubDate": "2026-09-10T21:25:21.000Z",
+    "source": "The Verge AI",
     "category": "ai",
-    "content": "AI companies have been talking about superintelligent AI like it’s inevitable, but recent safety incidents like OpenAI’s Hugging Face breach are demonstrating the potential dangers of deploying AI systems that are more capable than humans. So what happens when we can’t reliably control what these systems do?  On this episode of TechCrunch’s Equity podcast, Rebecca Bellan is joined by Connor Leahy, an AI researcher, entrepreneur, and now the U.S. Executive Director of […]",
-    "image": "",
+    "content": "A new feature coming to Slack will allow you to build interactive reports, polls, dashboards, presentations, microsites, and other tools directly inside a chat. With Slackforce Surfaces, you can describe to Slackbot what you need, and it will use AI to gather information from relevant conversations and connected apps, like Google Drive or Salesforce, to create it.\nOnce Slackbot creates a Surface, you can share it with colleagues and pin it to channels, allowing other people to view it, interact with it, and leave comments. In one example shared by Slack, a user asks Slackbot for help creating an arcade-themed visualization of AI token usage …\nRead the full story at The Verge.",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/IMG_2464.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
     "summary": "",
     "importance": 5
   },
   {
-    "title": "Viral AI assistant Instinct now has its own email address",
-    "link": "https://techcrunch.com/2026/09/09/viral-ai-assistant-instinct-now-has-its-own-email-address/",
-    "pubDate": "Wed, 09 Sep 2026 15:13:12 +0000",
-    "source": "TechCrunch AI",
+    "title": "Schools are catching on to Big Tech’s playbook",
+    "link": "https://www.theverge.com/policy/993308/computer-science-ai-education-coding-kids",
+    "pubDate": "2026-09-10T19:44:20.000Z",
+    "source": "The Verge AI",
     "category": "ai",
-    "content": "Instinct’s new email feature lets the AI agent create and manage accounts, contact businesses, handle support requests, and do more on users' behalf.",
-    "image": "",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "‘Gambling with our lives’: Anthropic researcher quits, warns against self-improving AI ",
-    "link": "https://techcrunch.com/2026/09/09/gambling-with-our-lives-anthropic-researcher-quits-warns-against-self-improving-ai/",
-    "pubDate": "Wed, 09 Sep 2026 15:02:47 +0000",
-    "source": "TechCrunch AI",
-    "category": "ai",
-    "content": "Anthropic researcher Jacob Coxon resigned over AI extinction fears, calling for pacing agreements between labs.",
-    "image": "",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "Shipt becomes the latest delivery app with an AI shopping assistant",
-    "link": "https://techcrunch.com/2026/09/09/shipt-becomes-the-latest-delivery-app-with-an-ai-shopping-assistant/",
-    "pubDate": "Wed, 09 Sep 2026 14:51:45 +0000",
-    "source": "TechCrunch AI",
-    "category": "ai",
-    "content": "Users can ask the assistant to do things like \"Create a cart for my Saturday tailgate for 25 people and include some brunch items,\" or \"Build a cart for easy school lunches and after-school snacks,\" Shipt says.",
-    "image": "",
+    "content": "It's the hot new thing in tech, and it's where all the jobs are. Students who don't learn to use it fall behind. And to help them catch up in time, its creators are graciously providing the resources and curriculum for learning it, often pro bono.\nThat's the narrative AI companies are pitching schools on right now, but according to New York Times education technology reporter Natasha Singer, it's also how the tech industry has built its influence in classrooms for the past 15 years.\nIn a new book, Coding Kids, Singer details how tech companies took a central role in promoting computers and coding skills in education, promising computer sci …\nRead the full story at The Verge.",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STK483_EDUCATION_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
     "summary": "",
     "importance": 5
   },
@@ -1344,24 +1364,13 @@
     "importance": 5
   },
   {
-    "title": "Microsoft has new AI privacy rules for schools",
-    "link": "https://www.theverge.com/policy/992359/microsoft-aft-schools-ai-privacy",
-    "pubDate": "2026-09-09T17:07:48.000Z",
-    "source": "The Verge AI",
+    "title": "Panic builds over bankrupt Spirit’s looming data sale to Google",
+    "link": "https://arstechnica.com/tech-policy/2026/09/panic-builds-over-bankrupt-spirits-looming-data-sale-to-google/",
+    "pubDate": "Thu, 10 Sep 2026 18:14:14 +0000",
+    "source": "Ars Technica AI",
     "category": "ai",
-    "content": "Microsoft agreed to a set of safety and privacy principles for AI in schools a week after two major school systems announced a ban on student-facing AI. \nIn a new agreement with the American Federation of Teachers (AFT), the second-largest teachers union in the US, and its New York City affiliate the United Federation of Teachers (UFT), Microsoft committed to ten principles that can be contractually enforced by school districts that adopt them. The terms include pledging not to train AI models on student or educator data, limiting the amount of data Microsoft collects in the first place and disclosing to families how its tools work in plain …\nRead the full story at The Verge.",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25332715/STK419_DEEPFAKE_CVIRGINIA_J.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "Amazon Prime Video’s new AI tech matches lips to dubbed audio",
-    "link": "https://www.theverge.com/tech/991809/amazon-prime-video-ai-lip-sync-dubbing",
-    "pubDate": "2026-09-09T13:00:00.000Z",
-    "source": "The Verge AI",
-    "category": "ai",
-    "content": "Maxton Hall. | Image: Prime Video\t\n\nAmazon's Prime Video is launching a new AI-powered feature that lines up an actor's mouth with \"human-dubbed\" audio. The feature is only available with the English dub of the German series Maxton Hall for now, but Prime Video plans to expand it to \"additional titles\" in the future.\nIn its announcement, Prime Video says it uses a combination of AI and visual effects technologies to make lip movements match up with translated speech. Meta and YouTube recently launched an AI-powered auto-dubbing feature for creators, while allowing them to turn on a \"lip sync\" option to make it look like creators are actually speaking in a user's preferred lan …\nRead the full story at The Verge.",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/maxton-hall.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "content": "\"Bankruptcy cannot become the new land grab for AI.”",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2271644469-1024x648.jpg",
     "summary": "",
     "importance": 5
   },
