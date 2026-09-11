@@ -1,5 +1,17 @@
 [
   {
+    "title": "India starts tokenizing $620 billion corporate bond market with digital rupee settlement",
+    "link": "https://www.coindesk.com/markets/2026/09/11/india-starts-tokenizing-usd620-billion-corporate-bond-market-with-digital-rupee-settlement",
+    "pubDate": "Fri, 11 Sep 2026 05:13:15 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "SEBI’s Demat 2.0 pilot turns corporate bonds into digital tokens and settles payment through the RBI’s wholesale digital rupee, with secondary trading and retail access expected in later phases.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/a3eceb8aeec24d03372ed17e149a9e6c5b546972-2304x1296.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "India has launched a pilot program to tokenize its $620 billion corporate bond market through SEBI's Demat 2.0, converting corporate bonds into digital tokens. Payments for these tokens will be settled using the RBI’s wholesale digital rupee, with secondary trading and retail access planned for later stages.",
+    "importance": 9,
+    "classified": true
+  },
+  {
     "title": "Crypto researchers cut Bitcoin and Ethereum quantum attack estimate by 50%",
     "link": "https://www.coindesk.com/tech/2026/09/10/crypto-researchers-cut-bitcoin-and-ethereum-quantum-attack-estimate-by-50",
     "pubDate": "Thu, 10 Sep 2026 13:00:00 +0000",
@@ -24,6 +36,18 @@
     "classified": true
   },
   {
+    "title": "Ripple puts AI agents inside its $1 billion corporate treasury bet",
+    "link": "https://www.coindesk.com/markets/2026/09/11/ripple-puts-ai-agents-inside-its-usd1-billion-corporate-treasury-bet",
+    "pubDate": "Fri, 11 Sep 2026 04:25:21 +0000",
+    "source": "CoinDesk",
+    "category": "both",
+    "content": "The software can monitor cash, risk and forecasts and suggest financial moves, but humans still have to approve every action.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/260b57a4fe560b018cc5f2eb91b9df196b57dc92-3773x2122.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "Ripple is integrating AI agents into its $1 billion corporate treasury initiative to monitor cash, risk, and financial forecasts. These AI agents can suggest financial moves, but all actions still require human approval. This move marks a significant application of AI within a major crypto company's core operations.",
+    "importance": 8,
+    "classified": true
+  },
+  {
     "title": "Why a new SEC plan could ease a legal headache for tokenized securities",
     "link": "https://www.coindesk.com/business/2026/09/10/why-a-new-sec-plan-could-end-the-legal-headaches-of-holding-tokenized-securities",
     "pubDate": "Thu, 10 Sep 2026 19:01:30 +0000",
@@ -44,6 +68,18 @@
     "content": "The exchange is offering up to 10x leverage on private-company valuations alongside 100 tokenized stocks and ETFs.",
     "image": "https://cdn.sanity.io/images/s3y3vcno/production/e929b74ad842d54d759694ae92d354ce5b8b047d-5184x3888.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
     "summary": "OKX is expanding its pre-IPO trading services to Europe, allowing users to place leveraged bets on private AI companies like OpenAI and Anthropic. The exchange is offering up to 10x leverage on these private company valuations, alongside 100 tokenized stocks and ETFs.",
+    "importance": 8,
+    "classified": true
+  },
+  {
+    "title": "Europe’s top regulator questions Polymarket and Kalshi’s EU access, warns of authorization gaps",
+    "link": "https://www.coindesk.com/business/2026/09/10/europe-s-top-regulator-questions-polymarket-and-kalshi-s-eu-access-warns-of-authorization-gaps",
+    "pubDate": "Thu, 10 Sep 2026 17:03:34 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "ESMA said that event contracts may fall under existing EU binary-options bans, crypto-asset frameworks like MiCA or national gambling laws.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/6d84d85eddfea0214122fb8436cd96c91a7a922e-2880x1620.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "The European Securities and Markets Authority (ESMA) is questioning the legality of event contract platforms like Polymarket and Kalshi operating in the EU. ESMA indicated these contracts might violate existing bans on binary options, fall under crypto-asset regulations such as MiCA, or be classified under national gambling laws, highlighting potential authorization issues.",
     "importance": 8,
     "classified": true
   },
@@ -120,6 +156,18 @@
     "classified": true
   },
   {
+    "title": "Kalshi wants 24/7 Tesla and Nvidia perps as Wall Street fights over who regulates them",
+    "link": "https://www.coindesk.com/markets/2026/09/11/kalshi-wants-24-7-tesla-and-nvidia-perps-as-wall-street-fights-over-who-regulates-them",
+    "pubDate": "Fri, 11 Sep 2026 06:17:31 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "The prediction-market operator plans to seek U.S. approval for about 60 stock and ETF perps, taking one of crypto's biggest trading products into equities.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/4e50c9195dba15e6ee82b37a243ee05c82ea6b97-6960x4640.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "Prediction-market operator Kalshi plans to seek U.S. approval to offer perpetual contracts (perps) on approximately 60 stocks and ETFs, including Tesla and Nvidia. This move aims to introduce a trading product popularized in crypto markets into traditional equities, potentially initiating regulatory disputes within Wall Street.",
+    "importance": 7,
+    "classified": true
+  },
+  {
     "title": "New Clarity Act text tweaks DeFi, credit union provisions, but road ahead for bill remains murky",
     "link": "https://www.coindesk.com/policy/2026/09/10/new-clarity-act-text-tweaks-defi-credit-union-provisions-but-road-ahead-for-bill-remains-murky",
     "pubDate": "Thu, 10 Sep 2026 20:21:57 +0000",
@@ -132,26 +180,14 @@
     "classified": true
   },
   {
-    "title": "Crypto wins regardless of Clarity Act vote, Coinbase's Armstrong says",
-    "link": "https://www.coindesk.com/markets/2026/09/10/crypto-wins-regardless-of-clarity-act-vote-coinbase-s-armstrong-says",
-    "pubDate": "Thu, 10 Sep 2026 05:05:41 +0000",
+    "title": "Polymarket names former Amazon finance chief Warren Jenson as its first CFO",
+    "link": "https://www.coindesk.com/markets/2026/09/10/polymarket-names-former-amazon-finance-chief-warren-jenson-as-its-first-cfo",
+    "pubDate": "Thu, 10 Sep 2026 16:10:03 +0000",
     "source": "CoinDesk",
     "category": "crypto",
-    "content": "Coinbase CEO tells CNBC the crypto industry gets regulatory clarity whether or not the Senate passes the bill on Sept. 15.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/9411c764a451101a37d939489f6f10515a33d0a9-3244x1825.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "Coinbase CEO Brian Armstrong stated that the cryptocurrency industry will achieve regulatory clarity regardless of whether the Senate passes the Clarity Act by September 15th. He believes the industry will find a path forward for regulation either through legislation or other means.",
-    "importance": 7,
-    "classified": true
-  },
-  {
-    "title": "Robinhood CEO Vlad Tenev fires back at AMC's Aron in escalating fight over stock tokens",
-    "link": "https://www.coindesk.com/markets/2026/09/09/robinhood-s-ceo-vlad-tenev-defends-stock-tokens-in-escalating-fight-with-amc-ceo",
-    "pubDate": "Wed, 09 Sep 2026 16:11:07 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "Tenev told CNBC's \"Squawk Box\" on Wednesday that public companies shouldn't have veto power over third-party securities that reference their shares.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/777380e065809566f31e83f71a5eab0c67e97d87-6000x4000.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "Robinhood CEO Vlad Tenev stated that public companies should not have veto power over third-party securities that reference their shares. This comment was made during an escalating dispute with AMC's CEO regarding \"stock tokens.\"",
+    "content": "Jenson becomes the prediction market’s first CFO as Polymarket builds its regulated U.S. exchange and global platform.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/3b1739df7db3f7a1068921484a035a297ca8de23-1600x1067.webp?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "Polymarket, a prediction market, has appointed former Amazon finance chief Warren Jenson as its first Chief Financial Officer. This strategic hire supports the company's efforts to build a regulated U.S. exchange and expand its global platform.",
     "importance": 7,
     "classified": true
   },
@@ -189,6 +225,18 @@
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/data-center-server-room-1152x648.jpg",
     "summary": "Meta is reportedly testing the integration of robots into its data centers to automate various operational tasks. These robots are being deployed to perform duties typically handled by human technicians, marking a significant step in the company's push for automation within its infrastructure.",
     "importance": 7,
+    "classified": true
+  },
+  {
+    "title": "Bitcoin below $77,000, Zcash leads losses as traders bet on a Fed rate hike",
+    "link": "https://www.coindesk.com/markets/2026/09/11/bitcoin-below-usd77-000-zcash-leads-losses-as-traders-bet-on-a-fed-rate-hike",
+    "pubDate": "Fri, 11 Sep 2026 04:46:15 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "Ninety-five of the CoinDesk 100 fell over the past 24 hours, and bitcoin has shed more than 5% on the week.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/a53e2f62ad9d1a24b5d39adee59d91e931e9aea6-1506x842.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "Bitcoin has fallen below $77,000, shedding over 5% this week, while Zcash leads losses among the CoinDesk 100. The broader cryptocurrency market saw 95 out of 100 assets decline in the past 24 hours, driven by traders' expectations of a Federal Reserve rate hike.",
+    "importance": 6,
     "classified": true
   },
   {
@@ -242,7 +290,7 @@
   {
     "title": "Here’s what happened in crypto today",
     "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Thu, 10 Sep 2026 21:30:00 +0000",
+    "pubDate": "Fri, 11 Sep 2026 06:14:41 +0000",
     "source": "Cointelegraph",
     "category": "crypto",
     "content": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
@@ -262,28 +310,6 @@
     "summary": "Google has released Gemini 3.8 Flash, marking its third Flash model update in six weeks. The Pro model updates appear to be paused while the company continues to iterate on its smaller, faster Flash variants.",
     "importance": 6,
     "classified": true
-  },
-  {
-    "title": "Europe’s top regulator questions Polymarket and Kalshi’s EU access, warns of authorization gaps",
-    "link": "https://www.coindesk.com/business/2026/09/10/europe-s-top-regulator-questions-polymarket-and-kalshi-s-eu-access-warns-of-authorization-gaps",
-    "pubDate": "Thu, 10 Sep 2026 17:03:34 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "ESMA said that event contracts may fall under existing EU binary-options bans, crypto-asset frameworks like MiCA or national gambling laws.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/6d84d85eddfea0214122fb8436cd96c91a7a922e-2880x1620.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "Polymarket names former Amazon finance chief Warren Jenson as its first CFO",
-    "link": "https://www.coindesk.com/markets/2026/09/10/polymarket-names-former-amazon-finance-chief-warren-jenson-as-its-first-cfo",
-    "pubDate": "Thu, 10 Sep 2026 16:10:03 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "Jenson becomes the prediction market’s first CFO as Polymarket builds its regulated U.S. exchange and global platform.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/3b1739df7db3f7a1068921484a035a297ca8de23-1600x1067.webp?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "",
-    "importance": 5
   },
   {
     "title": "Nasdaq, Boerse Stuttgart, others ask EU to remove or increase cap in tokenization trial",
@@ -319,16 +345,26 @@
     "importance": 5
   },
   {
-    "title": "Dogecoin sinks 5% to lead majors' losses, with bitcoin holding $78,000 level",
-    "link": "https://www.coindesk.com/markets/2026/09/10/dogecoin-sinks-5-to-lead-majors-losses-with-bitcoin-holding-usd78-000-level",
-    "pubDate": "Thu, 10 Sep 2026 05:30:15 +0000",
-    "source": "CoinDesk",
+    "title": "Revised CLARITY Act targets ‘non-decentralized’ DeFi operators",
+    "link": "https://cointelegraph.com/news/revised-clarity-act-targets-non-decentralized-defi-operators?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Fri, 11 Sep 2026 06:08:26 +0000",
+    "source": "Cointelegraph",
     "category": "crypto",
-    "content": "Dogecoin led the losses, BNB fell about 4% and XRP 3%, with oil pushing Treasury yields to their highest since late 2023.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/7aa08ce1ab67582761b88b71cd110f1937a343c8-1526x848.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "Dogecoin led major cryptocurrency losses, falling 5%, while BNB and XRP also saw declines of around 4% and 3% respectively. Bitcoin, however, managed to hold the $78,000 level amidst these movements. These crypto market shifts coincided with rising oil prices pushing Treasury yields to their highest since late 2023.",
-    "importance": 5,
-    "classified": true
+    "content": "The bill’s ethics section remained largely unchanged despite being one of the main points of contention ahead of a pivotal Senate vote.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M27H8K27MPGK3B4159W99VR1/senate-usa-flag.png",
+    "summary": "",
+    "importance": 5
+  },
+  {
+    "title": "Brevo login flaw enabled phishing email targeting 347K Trezor subscribers",
+    "link": "https://cointelegraph.com/news/brevo-login-flaw-trezor-bitbox-cointracking-phishing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Fri, 11 Sep 2026 04:21:14 +0000",
+    "source": "Cointelegraph",
+    "category": "crypto",
+    "content": "Trezor told Cointelegraph that the phishing email was sent to 347,000 subscribers and said it is treating every address as “known to the attacker and possibly reusable for phishing.”",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M27B48EZAFAJ0FBBJM75HJAW/brevo-phishing.png",
+    "summary": "",
+    "importance": 5
   },
   {
     "title": "Metaplanet equity backlash, SE Asia crypto funding doubles: Asia Express",
@@ -628,24 +664,13 @@
     "importance": 5
   },
   {
-    "title": "German finance ministry proposes 25% crypto tax starting 2028: Report",
-    "link": "https://cointelegraph.com/news/german-finance-ministry-25-crypto-tax-2028?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Wed, 09 Sep 2026 13:49:55 +0000",
-    "source": "Cointelegraph",
+    "title": "Sam Bankman-Fried asks Supreme Court to overturn fraud conviction and $11 billion forfeiture",
+    "link": "https://www.theblock.co/news/regulation/2026-09-11-sam-bankman-fried-supreme-court-petition-414226",
+    "pubDate": "Fri, 11 Sep 2026 04:20:15 +0000",
+    "source": "The Block",
     "category": "crypto",
-    "content": "The German Ministry of Finance is reportedly seeking to impose a 25% tax on cryptocurrencies, departing from current laws that make crypto gains tax-free after one year of holding.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M236GTB6R3NKE0V3DBECZ26A/hi-here-is-why-germany-leads-the-crypto-friendly-countries-ranking3.jpg",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "10 of the greatest unsolved crypto mysteries",
-    "link": "https://cointelegraph.com/magazine/10-of-the-greatest-unsolved-crypto-mysteries?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Wed, 09 Sep 2026 13:30:00 +0000",
-    "source": "Cointelegraph",
-    "category": "crypto",
-    "content": "From the whereabouts of the CryptoQueen to a mysterious death involving a DeFi builder paranoid about the “pedo elite,” here are 10 crypto mysteries that still have no good answer.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M20R6KSTHFBMH9CFKJSGWB2N/hi-front-running-vs-backrunning-vs-sandwiching-in-crypto.jpg",
+    "content": "Bankman-Fried says he was unfairly barred from providing evidence that FTX had more than enough assets to cover losses from the collapse.",
+    "image": "https://www.tbstat.com/wp/uploads/2022/11/20221109_Sam-Bankman-Fried-1-1200x675.jpg",
     "summary": "",
     "importance": 5
   },
@@ -811,17 +836,6 @@
     "category": "crypto",
     "content": "Among tracked companies, only one bitcoin mining company has outperformed the cryptocurrency: Canaan (ticker CAN).",
     "image": "https://www.tbstat.com/wp/uploads/2026/04/20260428_Bitcoin-Mining_News_2-1200x675.jpg",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "Hyperliquid Policy Center backs CFTC in fight over perpetual futures, asks court to drop CME’s case",
-    "link": "https://www.theblock.co/news/regulation/2026-09-09-hyperliquid-policy-center-backs-cftc-fight-perpetual-futures-asks-court-drop-cme-case-414046",
-    "pubDate": "Wed, 09 Sep 2026 16:17:59 +0000",
-    "source": "The Block",
-    "category": "crypto",
-    "content": "The Hyperliquid Policy Center accused CME Group of stifling innovation and urged a court to dismiss the exchange’s lawsuit against the CFTC.",
-    "image": "https://www.tbstat.com/wp/uploads/2026/04/20260410_Hyperliquid_News_2-1200x675.jpg",
     "summary": "",
     "importance": 5
   },
@@ -1062,7 +1076,7 @@
     "pubDate": "Thu, 10 Sep 2026 21:35:00 +0000",
     "source": "TechCrunch AI",
     "category": "ai",
-    "content": "Mark Wahlberg joins Bruce K. Lee at Disrupt to discuss investing, entrepreneurship, healthcare, wellness and building businesses.",
+    "content": "Mark Wahlberg joins Bruce K. Lee at Disrupt to discuss investing, entrepreneurship, healthcare, wellness, and building businesses.",
     "image": "",
     "summary": "",
     "importance": 5
@@ -1527,18 +1541,6 @@
     "content": "Just over a quarter of Bitcoin Depot’s more than 9,200 kiosks have been sold for less than $1 million, court records show.",
     "image": "https://cdn.sanity.io/images/s3y3vcno/production/0395397c5fc18e9e6bf9cde25ca95968e3be5d4d-3500x2334.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
     "summary": "Bitcoin Bancorp has acquired over 2,300 defunct Bitcoin Depot ATMs, representing more than a quarter of Bitcoin Depot's total kiosks, for $620,000. This transaction involves a significant number of physical cryptocurrency terminals being purchased by another entity within the crypto industry.",
-    "importance": 4,
-    "classified": true
-  },
-  {
-    "title": "Hunter Biden’s LAPTOP blames bots after 98% crash as traders rack up six-figure losses",
-    "link": "https://www.coindesk.com/markets/2026/09/10/hunter-biden-s-laptop-blames-bots-after-98-crash-as-traders-rack-up-six-figure-losses",
-    "pubDate": "Thu, 10 Sep 2026 06:13:45 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "The team said thin liquidity and automated traders distorted the launch, while Nansen data showed some early buyers sitting on six-figure losses after the memecoin’s debut.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/ba0a36a6d6ad5c5c59f41719b0738f5a90a5a0c8-2010x1082.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "The 'Hunter Biden's LAPTOP' memecoin experienced a 98% crash immediately after its launch, resulting in significant six-figure losses for early buyers. The project's team attributed the drastic price drop to thin liquidity and distortion caused by automated traders.",
     "importance": 4,
     "classified": true
   },
