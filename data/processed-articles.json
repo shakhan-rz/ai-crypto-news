@@ -96,6 +96,30 @@
     "classified": true
   },
   {
+    "title": "Nasdaq, Boerse Stuttgart, others ask EU to remove or increase cap in tokenization trial",
+    "link": "https://www.coindesk.com/business/2026/09/10/nasdaq-boerse-stuttgart-others-ask-eu-to-remove-or-increase-cap-in-tokenization-trial",
+    "pubDate": "Thu, 10 Sep 2026 13:56:54 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "The coalition warned that the current limit is too low, noting some existing European projects already exceed it.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/0787d5f032ca85f77ffa1a385d7fd6d77c3d64a6-1920x1280.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "A coalition including major exchanges like Nasdaq and Boerse Stuttgart has requested the EU to remove or significantly increase the current cap for its tokenization trial. They argue that the existing limit is too low, as some European projects using tokenization already exceed this threshold, hindering further development.",
+    "importance": 8,
+    "classified": true
+  },
+  {
+    "title": "Bitcoin spikes toward $80K as US CPI data delivers new 22-year high in bond yields",
+    "link": "https://cointelegraph.com/markets/bitcoin-spikes-toward-80k-as-us-cpi-data-delivers-new-22-year-high-in-bond-yields?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Fri, 11 Sep 2026 16:03:37 +0000",
+    "source": "Cointelegraph",
+    "category": "crypto",
+    "content": "Bitcoin briefly rebounded past $79,000 and US stocks turned green as US CPI inflation data met expectations.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M28K5RK67P7SEQ7376RK4TFB/hi-bitcoin-could-be-the-next-big-inflation-hedge.jpg",
+    "summary": "Bitcoin briefly spiked past $79,000, and US stocks also turned green following the release of US CPI inflation data, which met expectations. This market reaction occurred amidst a new 22-year high in bond yields.",
+    "importance": 8,
+    "classified": true
+  },
+  {
     "title": "“Zlibrary my beloved”: Anthropic staff chats extolling piracy cited in Sony suit",
     "link": "https://arstechnica.com/tech-policy/2026/08/zlibrary-my-beloved-anthropic-staff-chats-extolling-piracy-cited-in-sony-suit/",
     "pubDate": "Mon, 31 Aug 2026 18:10:45 +0000",
@@ -168,18 +192,6 @@
     "classified": true
   },
   {
-    "title": "Pocket's AI made my game ideas real. Now Meta controls the results.",
-    "link": "https://arstechnica.com/gaming/2026/08/pockets-ai-made-my-game-ideas-real-now-meta-controls-the-results/",
-    "pubDate": "Mon, 31 Aug 2026 10:00:34 +0000",
-    "source": "Ars Technica AI",
-    "category": "ai",
-    "content": "Interactive mobile \"gizmos\" are easy to make, hard to share outside Meta's platform.",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/pocketsling-1152x648-1787932298.png",
-    "summary": "Pocket's AI tool enables users to quickly create interactive mobile games, but Meta's acquisition of Pocket now gives it control over the distribution and sharing of these AI-generated games, raising concerns about platform monopolization and creator autonomy.",
-    "importance": 7,
-    "classified": true
-  },
-  {
     "title": "Zodia Custody CEO Julian Sawyer steps down, becomes adviser",
     "link": "https://www.coindesk.com/business/2026/09/11/zodia-custody-ceo-julian-sawyer-steps-down-becomes-adviser",
     "pubDate": "Fri, 11 Sep 2026 13:32:52 +0000",
@@ -230,12 +242,36 @@
   {
     "title": "Here’s what happened in crypto today",
     "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Fri, 11 Sep 2026 12:57:24 +0000",
+    "pubDate": "Fri, 11 Sep 2026 21:30:00 +0000",
     "source": "Cointelegraph",
     "category": "crypto",
     "content": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
     "image": "https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg",
     "summary": "This article provides a summary of the latest news and trends in the crypto space, covering Bitcoin price, blockchain, DeFi, Web3, and crypto regulation. It aims to keep readers updated on daily events impacting the cryptocurrency market. The article appears to be a general overview of the current state of the crypto industry.",
+    "importance": 6,
+    "classified": true
+  },
+  {
+    "title": "Hyperliquid’s biggest risk is regulation, says Ran Neuner",
+    "link": "https://cointelegraph.com/news/hyperliquids-biggest-risk-is-regulation-says-ran-neuner?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Fri, 11 Sep 2026 18:45:15 +0000",
+    "source": "Cointelegraph",
+    "category": "crypto",
+    "content": "The Crypto Banter founder said Hyperliquid’s network effects give it a strong competitive moat, but regulatory uncertainty remains its biggest threat.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M28T3HE65MV02Y41NGX63EDN/wall-warning-hyperliquid.png",
+    "summary": "Ran Neuner, founder of Crypto Banter, identifies regulatory uncertainty as Hyperliquid's primary risk, despite the platform's strong network effects providing a competitive moat. This highlights the ongoing challenges cryptocurrency platforms face regarding government oversight.",
+    "importance": 6,
+    "classified": true
+  },
+  {
+    "title": "Anchorage Digital adds institutional access to Frgmnt’s fUSD stablecoin",
+    "link": "https://cointelegraph.com/news/anchorage-digital-adds-institutional-access-to-frgmnts-fusd-stablecoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Fri, 11 Sep 2026 16:05:15 +0000",
+    "source": "Cointelegraph",
+    "category": "crypto",
+    "content": "The US federally chartered crypto bank will allow institutional clients to hold, mint, redeem and stake Frgmnt’s fUSD stablecoin through its custody platform.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M28K89BM1GEXJ22T4BRVJH1V/hi-evergreen-guide-about-stablecoin-launch.png",
+    "summary": "Anchorage Digital, a US federally chartered crypto bank, has integrated Frgmnt's fUSD stablecoin into its custody platform. This new offering allows institutional clients to hold, mint, redeem, and stake fUSD through Anchorage.",
     "importance": 6,
     "classified": true
   },
@@ -252,6 +288,17 @@
     "classified": true
   },
   {
+    "title": "Robinhood CEO says companies shouldn't get veto over stock tokens in AMC feud",
+    "link": "https://www.coindesk.com/markets/2026/09/11/robinhood-ceo-says-companies-shouldn-t-get-veto-over-stock-tokens-in-amc-feud",
+    "pubDate": "Fri, 11 Sep 2026 23:47:51 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "In a post on Friday, Vlad Tenev said securities issuers should control shareholder rights, but not separate products that track their publicly traded shares.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/5a77d3d03bca929880510e1d9a587793372dd83a-6000x3999.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "",
+    "importance": 5
+  },
+  {
     "title": "Rising yields, oil prices leave bitcoin vulnerable ahead of U.S. inflation report",
     "link": "https://www.coindesk.com/daybook-us/2026/09/11/rising-yields-oil-prices-leave-bitcoin-vulnerable-ahead-of-u-s-inflation-report",
     "pubDate": "Fri, 11 Sep 2026 11:20:26 +0000",
@@ -263,7 +310,7 @@
     "importance": 5
   },
   {
-    "title": "Live updates: Bitcoin gives up early gains as markets fully price in Fed rate hike",
+    "title": "Live updates: Bitcoin gives up early gains, with markets moving to price in multiple rate hikes",
     "link": "https://www.coindesk.com/business/2026/09/11/live-updates-bitcoin-sinks-to-usd77-000-as-cpi-lands-with-hike-odds-near-70",
     "pubDate": "Fri, 11 Sep 2026 11:04:12 +0000",
     "source": "CoinDesk",
@@ -292,52 +339,9 @@
     "category": "crypto",
     "content": "Bitcoin’s golden cross may support the longer-term outlook, but history suggests much of the upside often occurs before the signal appears.",
     "image": "https://cdn.sanity.io/images/s3y3vcno/production/b4be15d05038dcd0a114f33cb3a2554d17fcab54-1306x736.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "Nasdaq, Boerse Stuttgart, others ask EU to remove or increase cap in tokenization trial",
-    "link": "https://www.coindesk.com/business/2026/09/10/nasdaq-boerse-stuttgart-others-ask-eu-to-remove-or-increase-cap-in-tokenization-trial",
-    "pubDate": "Thu, 10 Sep 2026 13:56:54 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "The coalition warned that the current limit is too low, noting some existing European projects already exceed it.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/0787d5f032ca85f77ffa1a385d7fd6d77c3d64a6-1920x1280.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "Threatened with arrest online? Recognizing a law enforcement impersonation scam",
-    "link": "https://www.coindesk.com/opinion/2026/09/10/threatened-with-arrest-online-recognizing-a-law-enforcement-impersonation-scam",
-    "pubDate": "Thu, 10 Sep 2026 13:00:00 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "So-called digital arrest scams use false claims of authority to pressure victims virtually into making rapid digital payments, including cryptocurrency transactions, writes Moody's Rich Graham.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/7772f0f3498a9b928f18a3848965016192b63387-7008x4672.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "Anchorage Digital adds institutional access to Frgmnt’s fUSD stablecoin",
-    "link": "https://cointelegraph.com/news/anchorage-digital-adds-institutional-access-to-frgmnts-fusd-stablecoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Fri, 11 Sep 2026 16:05:15 +0000",
-    "source": "Cointelegraph",
-    "category": "crypto",
-    "content": "The US federally chartered crypto bank will allow institutional clients to hold, mint, redeem and stake Frgmnt’s fUSD stablecoin through its custody platform.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M28K89BM1GEXJ22T4BRVJH1V/hi-evergreen-guide-about-stablecoin-launch.png",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "Bitcoin spikes toward $80K as US CPI data delivers new 22-year high in bond yields",
-    "link": "https://cointelegraph.com/markets/bitcoin-spikes-toward-80k-as-us-cpi-data-delivers-new-22-year-high-in-bond-yields?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Fri, 11 Sep 2026 16:03:37 +0000",
-    "source": "Cointelegraph",
-    "category": "crypto",
-    "content": "Bitcoin briefly rebounded past $79,000 and US stocks turned green as US CPI inflation data met expectations.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M28K5RK67P7SEQ7376RK4TFB/hi-bitcoin-could-be-the-next-big-inflation-hedge.jpg",
-    "summary": "",
-    "importance": 5
+    "summary": "Bitcoin experienced a pullback despite a recent 'golden cross' technical signal failing to deliver immediate upside. While golden crosses often indicate longer-term support, historical data suggests that significant price increases frequently occur before the signal is confirmed.",
+    "importance": 5,
+    "classified": true
   },
   {
     "title": "Metaplanet cuts Series 10 stock pool by 41%, plans Hong Kong subsidiary",
@@ -615,24 +619,13 @@
     "importance": 5
   },
   {
-    "title": "Treasury Secretary Bessent urges CLARITY Act passage after Senate returns",
-    "link": "https://cointelegraph.com/news/treasury-secretary-bessent-urges-clarity-act-passage-senate-returns?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Thu, 10 Sep 2026 10:20:00 +0000",
-    "source": "Cointelegraph",
+    "title": "Former Alameda CEO Caroline Ellison joins nonprofit charity Manifund",
+    "link": "https://www.theblock.co/news/business/2026-09-11-former-alameda-ceo-caroline-ellison-joins-nonprofit-charity-manifund-414310",
+    "pubDate": "Fri, 11 Sep 2026 21:37:02 +0000",
+    "source": "The Block",
     "category": "crypto",
-    "content": "Secretary Scott Bessent warned that failing to pass the CLARITY Act would send a “troubling signal” about America’s leadership in the digital asset industry.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M25AAYAYJTA7FVQK9H44A4NC/hi-who-is-scott-bessent-clarity-act.jpg",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "Hunter Biden denies profiting from memecoin after his LAPTOP crashes",
-    "link": "https://cointelegraph.com/news/hunter-biden-denies-profiting-memecoin-laptop-crash?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Thu, 10 Sep 2026 10:08:46 +0000",
-    "source": "Cointelegraph",
-    "category": "crypto",
-    "content": "Nansen found a $117,800 unrealized loss in one wallet as the team announced liquidity incentives and Bubblemaps flagged fresh top holders.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M25BJ9JWGMFTGFS40DY5BEP8/bungee-jumping-laptop.png",
+    "content": "Former Alameda Research CEO Caroline Ellison has a new gig at the charity Manifund, its cofounder Austin Chen said Friday.",
+    "image": "https://www.tbstat.com/wp/uploads/2025/12/CE-1920x1080-1-1200x675.png",
     "summary": "",
     "importance": 5
   },
@@ -802,6 +795,83 @@
     "importance": 5
   },
   {
+    "title": "Nasdaq to invest $100 million in Kraken parent Payward as firms expand partnership",
+    "link": "https://www.theblock.co/news/deals/2026-09-10-nasdaq-to-invest-100-million-in-kraken-parent-payward-as-firms-expand-partnership-414120",
+    "pubDate": "Thu, 10 Sep 2026 12:53:22 +0000",
+    "source": "The Block",
+    "category": "crypto",
+    "content": "Nasdaq Ventures agreed to invest $100 million in Kraken parent Payward, expanding their tokenized equity infrastructure partnership.",
+    "image": "https://www.tbstat.com/wp/uploads/2025/09/nasdaq-listing-1200x675.jpg",
+    "summary": "",
+    "importance": 5
+  },
+  {
+    "title": "Coinbase CEO Brian Armstrong says bitcoin has bottomed for current cycle, expects uptrend over next two years",
+    "link": "https://www.theblock.co/news/markets/2026-09-10-coinbase-ceo-brian-armstrong-says-bitcoin-has-bottomed-for-current-cycle-expects-uptrend-over-next-two-years-414104",
+    "pubDate": "Thu, 10 Sep 2026 10:31:54 +0000",
+    "source": "The Block",
+    "category": "crypto",
+    "content": "Coinbase CEO Brian Armstrong expects bitcoin to trend higher over the next two years, saying the current cycle may have bottomed.",
+    "image": "https://www.tbstat.com/wp/uploads/2023/04/20230414_Brianarmstrong_Generic-1200x675.jpg",
+    "summary": "",
+    "importance": 5
+  },
+  {
+    "title": "Hunter Biden’s LAPTOP team cites sniper bots, thin liquidity for 99% crash on launch day",
+    "link": "https://www.theblock.co/news/defi/2026-09-10-hunter-bidens-laptop-sniper-bots-414095",
+    "pubDate": "Thu, 10 Sep 2026 05:28:17 +0000",
+    "source": "The Block",
+    "category": "crypto",
+    "content": "The LAPTOP project said it will add pool incentives and expects early prediction-market burns to cut supply.",
+    "image": "https://www.tbstat.com/wp/uploads/2026/04/20260409_Tokens_News_3-1200x675.jpg",
+    "summary": "",
+    "importance": 5
+  },
+  {
+    "title": "Trezor says third-party security breach led to phishing emails from legitimate domain",
+    "link": "https://www.theblock.co/news/defi/2026-09-09-trezor-phishing-emails-414086",
+    "pubDate": "Thu, 10 Sep 2026 02:26:58 +0000",
+    "source": "The Block",
+    "category": "crypto",
+    "content": "This follows last month's security breach at shipping provider ShipMonk, which exposed the personal information of Trezor customers.",
+    "image": "https://www.tbstat.com/wp/uploads/2023/02/20230222_Trezor-1200x675.jpg",
+    "summary": "",
+    "importance": 5
+  },
+  {
+    "title": "Bitcoin’s ‘Unusual Mix’: Bearish Inflation Print, Bullish Buyback Failure",
+    "link": "https://bitcoinmagazine.com/news/bitcoin-has-unusual-mix-says-coinshares",
+    "pubDate": "Fri, 11 Sep 2026 21:22:59 +0000",
+    "source": "Bitcoin Magazine",
+    "category": "crypto",
+    "content": "Bitcoin Magazine\n\nBitcoin’s ‘Unusual Mix’: Bearish Inflation Print, Bullish Buyback Failure\nA new CoinShares report said bitcoin's price could be hurt in the short-term but benefit in the long-term. \nThis post Bitcoin’s ‘Unusual Mix’: Bearish Inflation Print, Bullish Buyback Failure first appeared on Bitcoin Magazine and is written by Mathew Di Salvo.",
+    "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/09/Pics-1-7.jpg",
+    "summary": "",
+    "importance": 5
+  },
+  {
+    "title": "Blockstream Tells Hackers To Return Remaining Bitcoin Stolen in Liquid Theft",
+    "link": "https://bitcoinmagazine.com/news/blockstream-tells-demands-bitcoin",
+    "pubDate": "Fri, 11 Sep 2026 21:13:48 +0000",
+    "source": "Bitcoin Magazine",
+    "category": "crypto",
+    "content": "Bitcoin Magazine\n\nBlockstream Tells Hackers To Return Remaining Bitcoin Stolen in Liquid Theft\nWhite hat hackers targeted Blocksteam's Liquid sidechain, taking over 4,000 bitcoins. They want to keep some of the bitcoins as a reward. Blockstream isn't happy. \nThis post Blockstream Tells Hackers To Return Remaining Bitcoin Stolen in Liquid Theft first appeared on Bitcoin Magazine and is written by Mathew Di Salvo.",
+    "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/09/Pics-19.jpg",
+    "summary": "",
+    "importance": 5
+  },
+  {
+    "title": "Italy’s Second Biggest Bank UniCredit Is Weighting up Crypto Custody: Report",
+    "link": "https://bitcoinmagazine.com/news/unicredit-working-on-crypto-custody",
+    "pubDate": "Fri, 11 Sep 2026 18:47:07 +0000",
+    "source": "Bitcoin Magazine",
+    "category": "crypto",
+    "content": "Bitcoin Magazine\n\nItaly’s Second Biggest Bank UniCredit Is Weighting up Crypto Custody: Report\nUniCredit is working on crypto custody as other European banks work on digital asset services. \nThis post Italy’s Second Biggest Bank UniCredit Is Weighting up Crypto Custody: Report first appeared on Bitcoin Magazine and is written by Mathew Di Salvo.",
+    "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/09/Pics-1-6.jpg",
+    "summary": "",
+    "importance": 5
+  },
+  {
     "title": "Government Defeated as Lords Back UK Digital Assets Strategy",
     "link": "https://bitcoinmagazine.com/news/house-of-lords-backs-uk-crypto-bill",
     "pubDate": "Fri, 11 Sep 2026 17:28:32 +0000",
@@ -814,7 +884,7 @@
   },
   {
     "title": "Bitcoin Price Spikes, Shrugs off Hot US Inflation Data",
-    "link": "https://bitcoinmagazine.com/news/bitcoin-price-spikes-on-hot-inflation-data",
+    "link": "https://bitcoinmagazine.com/markets/bitcoin-price-spikes-on-hot-inflation-data",
     "pubDate": "Fri, 11 Sep 2026 15:46:05 +0000",
     "source": "Bitcoin Magazine",
     "category": "crypto",
@@ -879,35 +949,13 @@
     "importance": 5
   },
   {
-    "title": "Coinbase CEO Brian Armstrong Says Clarity Act Will Pass — And That Bitcoin Bottom Is In",
-    "link": "https://bitcoinmagazine.com/news/bitcoin-bottom-is-in-says-brian-armstrong",
-    "pubDate": "Thu, 10 Sep 2026 16:24:43 +0000",
-    "source": "Bitcoin Magazine",
-    "category": "crypto",
-    "content": "Bitcoin Magazine\n\nCoinbase CEO Brian Armstrong Says Clarity Act Will Pass — And That Bitcoin Bottom Is In\nThe Coinbase chief reiterated his prediction that bitcoin hitting $400,000 by 2030 was realistic. \nThis post Coinbase CEO Brian Armstrong Says Clarity Act Will Pass — And That Bitcoin Bottom Is In first appeared on Bitcoin Magazine and is written by Mathew Di Salvo.",
-    "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/09/image6_1920x1080.png",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "The Quantum Issue: WTF Is Quantum Computing?",
-    "link": "https://bitcoinmagazine.com/print/the-quantum-issue-wtf-is-quantum-computing",
-    "pubDate": "Thu, 10 Sep 2026 13:00:00 +0000",
-    "source": "Bitcoin Magazine",
-    "category": "crypto",
-    "content": "Bitcoin Magazine\n\nThe Quantum Issue: WTF Is Quantum Computing?\nFrom The Quantum Issue: A high level look at quantum computer, what it even is, and how it is different from conventional computing. \nThis post The Quantum Issue: WTF Is Quantum Computing? first appeared on Bitcoin Magazine and is written by Shinobi.",
-    "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/09/Quantum-Issue-Article-Header-2400x1400-WTF-is-Quantum-Computing.png",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "US Treasury Secretary Scott Bessent ‘Strongly Urges’ Senate To Pass Clarity Act",
-    "link": "https://bitcoinmagazine.com/news/scott-bessent-urges-clarity-act-action",
-    "pubDate": "Wed, 09 Sep 2026 21:20:51 +0000",
-    "source": "Bitcoin Magazine",
-    "category": "crypto",
-    "content": "Bitcoin Magazine\n\nUS Treasury Secretary Scott Bessent ‘Strongly Urges’ Senate To Pass Clarity Act\nSenators will vote on the long-awaited crypto Clarity Act next week. \nThis post US Treasury Secretary Scott Bessent ‘Strongly Urges’ Senate To Pass Clarity Act first appeared on Bitcoin Magazine and is written by Mathew Di Salvo.",
-    "image": "https://bitcoinmagazine.com/wp-content/uploads/2025/04/Scott-Bessent-Bond-Strategy.jpg",
+    "title": "Roundtables: AI’s apocalypse crisis",
+    "link": "https://www.technologyreview.com/2026/09/11/1143936/roundtables-will-ai-really-kill-us-all/",
+    "pubDate": "Fri, 11 Sep 2026 20:05:06 +0000",
+    "source": "MIT Technology Review",
+    "category": "ai",
+    "content": "Employees at the world’s leading AI labs are saying there’s a real possibility that advanced AI could destroy humanity. Are they right? Or is this more scaremongering and hype? Join MIT Technology Review executive editor Niall Firth for a conversation with senior AI editor Will Douglas Heaven and AI reporter Grace Huckins unpacking AI extinction…",
+    "image": "",
     "summary": "",
     "importance": 5
   },
@@ -1011,12 +1059,78 @@
     "importance": 5
   },
   {
-    "title": "Batteries just broke another record in the US",
-    "link": "https://www.technologyreview.com/2026/09/09/1143680/batteries-us-record/",
-    "pubDate": "Wed, 09 Sep 2026 09:00:00 +0000",
-    "source": "MIT Technology Review",
+    "title": "Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data",
+    "link": "https://techcrunch.com/2026/09/11/mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data/",
+    "pubDate": "Fri, 11 Sep 2026 22:58:17 +0000",
+    "source": "TechCrunch AI",
     "category": "ai",
-    "content": "Battery installations hit a new record in the US in the second quarter of 2026. In total, 20.2 gigawatt-hours of new capacity came online, according to a new report. That’s enough to supply the daily electricity needs of about 700,000 homes. The surge is putting the country on a trajectory to see 71 gigawatt-hours of…",
+    "content": "The round for the two-year-old startup is coming together months after Mecka announced its Series A.",
+    "image": "",
+    "summary": "",
+    "importance": 5
+  },
+  {
+    "title": "Y Combinator’s Garry Tan wants US open-weight AI labs to ‘distill’ frontier models, too",
+    "link": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/",
+    "pubDate": "Fri, 11 Sep 2026 20:59:47 +0000",
+    "source": "TechCrunch AI",
+    "category": "ai",
+    "content": "Tan wants smaller, American open-weight AI labs to use the same kind of training techniques on American frontier AI labs, giving the U.S. a more robust set of open-weight options that aren’t Chinese.",
+    "image": "",
+    "summary": "",
+    "importance": 5
+  },
+  {
+    "title": "OpenAI’s feud with mathematicians is only escalating",
+    "link": "https://techcrunch.com/2026/09/11/openais-feud-with-mathematicians-is-only-escalating/",
+    "pubDate": "Fri, 11 Sep 2026 20:57:36 +0000",
+    "source": "TechCrunch AI",
+    "category": "ai",
+    "content": "Twenty-five leading mathematicians signed an open letter arguing that AI labs are threatening their intellectual work.",
+    "image": "",
+    "summary": "",
+    "importance": 5
+  },
+  {
+    "title": "One week left to book your exhibit table at TechCrunch Disrupt 2026",
+    "link": "https://techcrunch.com/2026/09/11/one-week-left-to-book-your-exhibit-table-at-techcrunch-disrupt-2026/",
+    "pubDate": "Fri, 11 Sep 2026 20:33:18 +0000",
+    "source": "TechCrunch AI",
+    "category": "ai",
+    "content": "Only one week left to secure your exhibit table. Tables are limited and can sell out before the September 18 deadline.",
+    "image": "",
+    "summary": "",
+    "importance": 5
+  },
+  {
+    "title": "Final, final, final call for TechCrunch Disrupt 2026 Side Events",
+    "link": "https://techcrunch.com/2026/09/11/final-final-final-call-for-techcrunch-disrupt-2026-side-events/",
+    "pubDate": "Fri, 11 Sep 2026 20:30:17 +0000",
+    "source": "TechCrunch AI",
+    "category": "ai",
+    "content": "The absolute last chance to apply to host an official Side Event during TechCrunch Disrupt 2026 is tonight, September 11, at 11:59 p.m. PT.",
+    "image": "",
+    "summary": "",
+    "importance": 5
+  },
+  {
+    "title": "Kimi-maker Moonshot AI targets $2B in annual revenue",
+    "link": "https://techcrunch.com/2026/09/11/kimi-maker-moonshot-ai-targets-2-billion-in-annual-revenue/",
+    "pubDate": "Fri, 11 Sep 2026 19:35:54 +0000",
+    "source": "TechCrunch AI",
+    "category": "ai",
+    "content": "While K3's usage figures have declined slightly in recent months, OpenRouter data currently shows as many as 300 billion tokens being generated each day by K3 models on the system.",
+    "image": "",
+    "summary": "",
+    "importance": 5
+  },
+  {
+    "title": "An Anthropic researcher’s doomsday warning comes at a very interesting time",
+    "link": "https://techcrunch.com/podcast/an-anthropic-researchers-doomsday-warning-comes-at-a-very-interesting-time/",
+    "pubDate": "Fri, 11 Sep 2026 18:41:49 +0000",
+    "source": "TechCrunch AI",
+    "category": "ai",
+    "content": "An Anthropic researcher resigned this week, warning in a post on X that the company is “racing straight to self-improving superintelligence and gambling with our lives”. The company’s own alignment lead even co-signed the message rather than walking it back. It’s the kind of doomer warning the AI industry has flirted with before, but the timing, with Anthropic reportedly preparing for an IPO, makes it land differently.  On […]",
     "image": "",
     "summary": "",
     "importance": 5
@@ -1154,79 +1268,13 @@
     "importance": 5
   },
   {
-    "title": "Massachusetts hits data centers with new clean power rules",
-    "link": "https://techcrunch.com/2026/09/09/massachusetts-hits-data-centers-with-new-clean-power-rules/",
-    "pubDate": "Wed, 09 Sep 2026 21:43:34 +0000",
-    "source": "TechCrunch AI",
+    "title": "Lawyer fined $5K over AI-hallucinated witnesses in a murder case",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/994207/chatgpt-new-mexico-lawyer-fined-murder-appeal",
+    "pubDate": "2026-09-11T20:44:02.000Z",
+    "source": "The Verge AI",
     "category": "ai",
-    "content": "Massachusetts has become the third state in as many months to slap new restrictions on data center development.",
-    "image": "",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "Apple Watch’s new AI features are normalizing the idea that technology is always listening",
-    "link": "https://techcrunch.com/2026/09/09/apple-watchs-new-ai-features-are-normalizing-the-idea-that-technology-is-always-listening/",
-    "pubDate": "Wed, 09 Sep 2026 20:24:48 +0000",
-    "source": "TechCrunch AI",
-    "category": "ai",
-    "content": "Apple says its new watches won’t save raw audio, but features that can transcribe recent speech and summarize ambient conversations raise new questions about consent, privacy, and how people behave when they know they could always be recorded.",
-    "image": "",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "Everything Apple announced at its fall iPhone event, from the foldable iPhone Duo to an always-listening Apple Watch",
-    "link": "https://techcrunch.com/2026/09/09/everything-apple-announced-at-its-fall-iphone-event-from-the-foldable-iphone-duo-to-an-always-listening-apple-watch/",
-    "pubDate": "Wed, 09 Sep 2026 20:03:43 +0000",
-    "source": "TechCrunch AI",
-    "category": "ai",
-    "content": "The main event was the tech giant's highly anticipated first foldable phone, the iPhone Duo.",
-    "image": "",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "The hinge for Apple’s new foldable phone was built with AI",
-    "link": "https://techcrunch.com/2026/09/09/the-hinge-for-apples-new-foldable-phone-was-built-with-ai/",
-    "pubDate": "Wed, 09 Sep 2026 19:21:48 +0000",
-    "source": "TechCrunch AI",
-    "category": "ai",
-    "content": "Apple says it used AI and 3D printing in the manufacturing process for its long-awaited foldable phone.",
-    "image": "",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "Apple’s revamped Health app will calculate your ‘health age’ and readiness score",
-    "link": "https://techcrunch.com/2026/09/09/apples-revamped-health-app-will-calculate-your-health-age-and-readiness-score/",
-    "pubDate": "Wed, 09 Sep 2026 18:16:29 +0000",
-    "source": "TechCrunch AI",
-    "category": "ai",
-    "content": "The update uses Apple Intelligence to make better sense of your health data.",
-    "image": "",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "Apple has a new way to prove your iPhone photos aren’t AI slop",
-    "link": "https://techcrunch.com/2026/09/09/apple-has-a-new-way-prove-your-iphone-photos-arent-ai-slop/",
-    "pubDate": "Wed, 09 Sep 2026 18:08:35 +0000",
-    "source": "TechCrunch AI",
-    "category": "ai",
-    "content": "Apple introduced Apple Reference Image to help users determine whether photos have been edited, including alterations made by AI.",
-    "image": "",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "Apple CEO John Ternus says the best AI device is still the iPhone",
-    "link": "https://techcrunch.com/2026/09/09/apple-ceo-john-ternus-says-the-best-ai-device-is-still-the-iphone/",
-    "pubDate": "Wed, 09 Sep 2026 17:36:05 +0000",
-    "source": "TechCrunch AI",
-    "category": "ai",
-    "content": "The company also argued that its on-device models offer consumers more privacy.",
-    "image": "",
+    "content": "New Mexico's Supreme Court is punishing a lawyer for including AI-fabricated witnesses and fake police testimony in an appeal for his client's murder conviction, according to a report from Reuters. In a filing on Wednesday, the court fined Stephen Aarons $5,000 and held him in contempt for failing to \"verify the factual claims and legal authority in his AI-generated brief.\"\nThe filing says the brief \"contained false testimony from wholly fabricated witnesses,\" along with \"false testimony\" about the shooter's clothing and appearance. Justice C. Shannon Bacon questioned how Aarons wasn't aware of the risks posed by AI during an August hearing …\nRead the full story at The Verge.",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25384193/STK470_AI_LAW_CVIRGINIA_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
     "summary": "",
     "importance": 5
   },
@@ -1330,13 +1378,13 @@
     "importance": 5
   },
   {
-    "title": "OpenAI’s sly mathematical breakthrough sends a chill through academia",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/992953/openai-math-millennium-prize-navier-stokes",
-    "pubDate": "2026-09-09T21:16:34.000Z",
-    "source": "The Verge AI",
+    "title": "ChatGPT-using lawyer punished for citing fake testimony from made-up witnesses",
+    "link": "https://arstechnica.com/tech-policy/2026/09/chatgpt-using-lawyer-punished-for-citing-fake-testimony-from-made-up-witnesses/",
+    "pubDate": "Fri, 11 Sep 2026 19:34:09 +0000",
+    "source": "Ars Technica AI",
     "category": "ai",
-    "content": "Open AI CEO Sam Altman speaks during the G20 Innovation Ministerial. | (Photo by Matt RAMEY / AFP via Getty Images)\t\n\nOpenAI's announcement Tuesday that it has solved one of mathematics' legendary Millennium Prize problems should have been a moment of triumph. The result is both an undeniable achievement and a striking demonstration of just how rapidly AI is transforming mathematics. But before it was even formally announced, the breakthrough had been complicated by the unusual circumstances that prompted OpenAI to pursue the problem: After hearing other researchers were making progress, it seems to have thrown its considerable resources into a last-minute effort to beat them to the punch. The ensuing controversy has surfaced allegations of scooping, spying …\nRead the full story at The Verge.",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2292626872.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "content": "\"I didn't know that AI could hallucinate facts,\" New Mexico defense lawyer says.",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/chatgpt-icon-1152x648-1789154124.jpg",
     "summary": "",
     "importance": 5
   },
@@ -1526,6 +1574,18 @@
     "content": "The bitcoin treasury firm cut the potential Series 10 share pool to 188.2 million.",
     "image": "https://cdn.sanity.io/images/s3y3vcno/production/6dfa527e7f18058c20f81771f1d1dc674ff71efc-1280x826.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
     "summary": "Metaplanet, a bitcoin treasury firm, has significantly cut its executive reward pool by 41%, reducing its value by $220 million. This action decreased the potential Series 10 share pool to 188.2 million.",
+    "importance": 3,
+    "classified": true
+  },
+  {
+    "title": "Bitcoin Suisse to shift up to half of Swiss jobs abroad",
+    "link": "https://cointelegraph.com/news/bitcoin-suisse-to-shift-up-to-half-of-swiss-jobs-abroad?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Fri, 11 Sep 2026 19:46:24 +0000",
+    "source": "Cointelegraph",
+    "category": "crypto",
+    "content": "The Swiss crypto financial services firm plans to move back-office functions to lower-cost international hubs as it expands its global wealth and asset management business, according to Finews.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M28YVKDSD0D0GM8BAF7TVC45/hi-layoffs-might-be-a-sign-of-the-market-maturing.png",
+    "summary": "Bitcoin Suisse, a Swiss crypto financial services firm, intends to relocate up to half of its Swiss jobs abroad. This move will shift back-office functions to lower-cost international hubs as the company expands its global wealth and asset management business.",
     "importance": 3,
     "classified": true
   },
