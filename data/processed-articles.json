@@ -12,7 +12,7 @@
     "classified": true
   },
   {
-    "title": "Anthropic CEO calls for AI race to slow down. Musk and OpenAI's Altman agrees",
+    "title": "Anthropic CEO calls for AI race to slow down citing safety. Musk and OpenAI's Altman agrees",
     "link": "https://www.coindesk.com/tech/2026/09/12/anthropic-ceo-calls-for-ai-race-to-slow-down-musk-and-openai-s-altman-agrees",
     "pubDate": "Sat, 12 Sep 2026 18:43:33 +0000",
     "source": "CoinDesk",
@@ -132,30 +132,6 @@
     "classified": true
   },
   {
-    "title": "OKX brings OpenAI and Anthropic bets to Europe as pre-IPO trading grows",
-    "link": "https://www.coindesk.com/markets/2026/09/10/okx-brings-openai-and-anthropic-bets-to-europe-as-pre-ipo-trading-grows",
-    "pubDate": "Thu, 10 Sep 2026 17:07:59 +0000",
-    "source": "CoinDesk",
-    "category": "both",
-    "content": "The exchange is offering up to 10x leverage on private-company valuations alongside 100 tokenized stocks and ETFs.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/e929b74ad842d54d759694ae92d354ce5b8b047d-5184x3888.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "OKX is expanding its pre-IPO trading services to Europe, allowing users to place leveraged bets on private AI companies like OpenAI and Anthropic. The exchange is offering up to 10x leverage on these private company valuations, alongside 100 tokenized stocks and ETFs.",
-    "importance": 8,
-    "classified": true
-  },
-  {
-    "title": "Europe’s top regulator questions Polymarket and Kalshi’s EU access, warns of authorization gaps",
-    "link": "https://www.coindesk.com/business/2026/09/10/europe-s-top-regulator-questions-polymarket-and-kalshi-s-eu-access-warns-of-authorization-gaps",
-    "pubDate": "Thu, 10 Sep 2026 17:03:34 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "ESMA said that event contracts may fall under existing EU binary-options bans, crypto-asset frameworks like MiCA or national gambling laws.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/6d84d85eddfea0214122fb8436cd96c91a7a922e-2880x1620.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "The European Securities and Markets Authority (ESMA) is questioning the legality of event contract platforms like Polymarket and Kalshi operating in the EU. ESMA indicated these contracts might violate existing bans on binary options, fall under crypto-asset regulations such as MiCA, or be classified under national gambling laws, highlighting potential authorization issues.",
-    "importance": 8,
-    "classified": true
-  },
-  {
     "title": "Farage’s Reform UK gets $97M from two crypto billionaires",
     "link": "https://cointelegraph.com/news/farages-reform-uk-gets-biggest-donation-ever-from-crypto-billionaire-reports?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "pubDate": "Sat, 12 Sep 2026 15:50:14 +0000",
@@ -225,6 +201,18 @@
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-172575622-1152x648.jpg",
     "summary": "Anthropic employees were found to have praised piracy in internal chats, as revealed in a Sony lawsuit alleging that AI-generated songs trained on pirated content topped music charts. The case highlights concerns over copyright infringement in AI training data.",
     "importance": 8,
+    "classified": true
+  },
+  {
+    "title": "OpenAI IPO won't happen this year, says Sam Altman",
+    "link": "https://www.coindesk.com/markets/2026/09/12/openai-ipo-won-t-happen-this-year-says-sam-altman",
+    "pubDate": "Sat, 12 Sep 2026 21:09:31 +0000",
+    "source": "CoinDesk",
+    "category": "ai",
+    "content": "\"Given everything happening with safety, right now would be an ill-advised moment to go public,\" OpenAI CEO Sam Altman told Fortune.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/24e158dc172914f8d1d6b9b4165e6ca991594da0-4979x2801.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "OpenAI CEO Sam Altman has announced that the company will not go public this year. He stated that pursuing an IPO now would be ill-advised given the current focus on safety considerations.",
+    "importance": 7,
     "classified": true
   },
   {
@@ -586,6 +574,17 @@
     "importance": 5
   },
   {
+    "title": "CryptoQuant says bitcoin must clear resistance at $81,700 to confirm new bull market",
+    "link": "https://www.theblock.co/news/markets/2026-09-12-cryptoquant-bitcoin-resistance-support-levels-414519",
+    "pubDate": "Sat, 12 Sep 2026 21:39:49 +0000",
+    "source": "The Block",
+    "category": "crypto",
+    "content": "Bitcoin's outlook remains bullish, but it needs to clear a significant range of resistance levels stretching to $88,700, CryptoQuant said.",
+    "image": "https://www.tbstat.com/wp/uploads/2026/04/20260410_Bitcoin_News-1200x675.jpg",
+    "summary": "",
+    "importance": 5
+  },
+  {
     "title": "Revolut says customer KYC, Bitcoin transaction data exposed after fake request from gov’t domain",
     "link": "https://www.theblock.co/news/business/2026-09-12-revolut-says-customer-kyc-bitcoin-transaction-data-exposed-after-fake-request-from-govt-domain-414516",
     "pubDate": "Sat, 12 Sep 2026 18:57:08 +0000",
@@ -791,17 +790,6 @@
     "category": "crypto",
     "content": "Nasdaq Ventures agreed to invest $100 million in Kraken parent Payward, expanding their tokenized equity infrastructure partnership.",
     "image": "https://www.tbstat.com/wp/uploads/2025/09/nasdaq-listing-1200x675.jpg",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "Coinbase CEO Brian Armstrong says bitcoin has bottomed for current cycle, expects uptrend over next two years",
-    "link": "https://www.theblock.co/news/markets/2026-09-10-coinbase-ceo-brian-armstrong-says-bitcoin-has-bottomed-for-current-cycle-expects-uptrend-over-next-two-years-414104",
-    "pubDate": "Thu, 10 Sep 2026 10:31:54 +0000",
-    "source": "The Block",
-    "category": "crypto",
-    "content": "Coinbase CEO Brian Armstrong expects bitcoin to trend higher over the next two years, saying the current cycle may have bottomed.",
-    "image": "https://www.tbstat.com/wp/uploads/2023/04/20230414_Brianarmstrong_Generic-1200x675.jpg",
     "summary": "",
     "importance": 5
   },
@@ -1026,6 +1014,17 @@
     "importance": 5
   },
   {
+    "title": "OpenAI’s Sam Altman says it would be ‘ill-advised’ to go public in 2026",
+    "link": "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026/",
+    "pubDate": "Sat, 12 Sep 2026 20:19:16 +0000",
+    "source": "TechCrunch AI",
+    "category": "ai",
+    "content": "While OpenAI has filed confidentially for an IPO, the company will not be going public this year, according to CEO Sam Altman.",
+    "image": "",
+    "summary": "",
+    "importance": 5
+  },
+  {
     "title": "Anthropic CEO outlines plan to slow AI development",
     "link": "https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/",
     "pubDate": "Sat, 12 Sep 2026 19:34:44 +0000",
@@ -1224,13 +1223,24 @@
     "importance": 5
   },
   {
-    "title": "AI research startup Listen Labs scrubbed a $1.5B funding round for Salesforce talks",
-    "link": "https://techcrunch.com/2026/09/09/ai-research-startup-listen-labs-scrubbed-a-1-5b-funding-round-for-salesforce-talks/",
-    "pubDate": "Thu, 10 Sep 2026 00:00:37 +0000",
-    "source": "TechCrunch AI",
+    "title": "OpenAI’s rogue AI tried to hack another company in May",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/994383/openais-rogue-ai-rubygems-hack",
+    "pubDate": "2026-09-12T21:41:36.000Z",
+    "source": "The Verge AI",
     "category": "ai",
-    "content": "Listen Labs walked away from a signed Series C term sheet from Menlo Ventures, sources say.",
-    "image": "",
+    "content": "In May, hundreds of malicious and spam packages were uploaded to RubyGems, causing a serious disruption for the host. Now independent researchers have said that a swarm of OpenAI agents were responsible for the attack. Not only that, but the AI tried to steal users' API keys. \nAt the time, RubyGems described it as a \"major malicious attack\" and shut down signups for four days as it tried to mitigate the damage and collect data. Researchers said that the contents of the packages that brought RubyGems to its knees were clearly authored by an LLM, and that the agents submitting those packages self-identified as being from OpenAI. They said the …\nRead the full story at The Verge.",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK149_AI_01.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "summary": "",
+    "importance": 5
+  },
+  {
+    "title": "Sam Altman says OpenAI going public in 2026 would be ‘ill-advised’",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/994384/sam-altman-no-openai-ipo-ill-advised",
+    "pubDate": "2026-09-12T21:16:28.000Z",
+    "source": "The Verge AI",
+    "category": "ai",
+    "content": "OpenAI CEO Sam Altman confirmed that there would be no OpenAI IPO in 2026 during an interview with Fortune. Over the course of 45 minutes, Altman discussed a variety of subjects including the Hugging Face hacking incident, recursive self-improvement, and the possibility of building an AI that was beyond human control. On the latter, he said it was \"absolutely\" possible, but vowed to take actions to prevent that from happening, even if it meant pausing training, adding that \"there are risks we should not be able to incur on behalf of humanity.\"\n\"We're not rushing into an IPO. I actually think that, given everything happening with safety, th …\n\nRead the full story at The Verge.",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STK201_SAM_ALTMAN_CVIRGINIA2D-1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
     "summary": "",
     "importance": 5
   },
@@ -1319,28 +1329,6 @@
     "category": "ai",
     "content": "It's the hot new thing in tech, and it's where all the jobs are. Students who don't learn to use it fall behind. And to help them catch up in time, its creators are graciously providing the resources and curriculum for learning it, often pro bono.\nThat's the narrative AI companies are pitching schools on right now, but according to New York Times education technology reporter Natasha Singer, it's also how the tech industry has built its influence in classrooms for the past 15 years.\nIn a new book, Coding Kids, Singer details how tech companies took a central role in promoting computers and coding skills in education, promising computer sci …\nRead the full story at The Verge.",
     "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STK483_EDUCATION_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "Universal Music is launching an AI music platform with ElevenLabs",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/993465/universal-music-elevenlabs-ai",
-    "pubDate": "2026-09-10T15:38:19.000Z",
-    "source": "The Verge AI",
-    "category": "ai",
-    "content": "Universal Music Group is launching a new AI-powered platform that will allow users to draw from its catalog of licensed music to create song remixes, mashups, and new takes on tracks, according to an announcement on Thursday. The record label is developing the platform through a multiyear licensing agreement with ElevenLabs, a company that specializes in AI voice and music generation.\nArtists can choose whether to participate in UMG and ElevenLabs' upcoming platform, which marks yet another AI deal for the record label. UMG is currently developing an AI music platform with Udio and has struck AI licensing deals with Spotify, Nvidia, and Kla …\nRead the full story at The Verge.",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK467_AI_MUSIC_CVirginia_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "Meta’s Muse AI works and creeps me out",
-    "link": "https://www.theverge.com/tech/993391/meta-muse-ai-hands-on",
-    "pubDate": "2026-09-10T15:00:00.000Z",
-    "source": "The Verge AI",
-    "category": "ai",
-    "content": "I turned my Muse assistant into a purple cat. | Screenshot: The Verge\t\n\nMeta has launched its new Muse assistant, marking the company's first real foray into AI-powered productivity tools. The company says its AI agent can \"take the busywork off your plate\" by helping you with online shopping, emails, trip-planning, and more.  I decided to try out the new tool and see how well it performed - especially from a company that previously prioritized entertainment over productivity. Though the AI assistant generally worked as I expected it to, the unnerving amount of information it autonomously gleaned about me largely overshadowed my experience.\nOne of the first tasks I assigned Muse, which carries out actions using …\nRead the full story at The Verge.",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/muse-ai-window.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
     "summary": "",
     "importance": 5
   },
@@ -1530,6 +1518,18 @@
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2024/09/hugging_face_3-1152x648.jpg",
     "summary": "",
     "importance": 5
+  },
+  {
+    "title": "Bitcoin Suisse plans to cut up to half its Swiss jobs as it shifts work abroad",
+    "link": "https://www.coindesk.com/business/2026/09/12/bitcoin-suisse-plans-to-cut-up-to-half-its-swiss-jobs-as-it-shifts-work-abroad",
+    "pubDate": "Sat, 12 Sep 2026 21:09:06 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "The company is closing its Copenhagen IT site while maintaining Bratislava and opening a new hub in Vietnam to reduce costs.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/3ef3afd448edde39821d9fb15979c93228552e33-6641x3736.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "Bitcoin Suisse, a crypto financial services company, plans to cut up to half of its Swiss workforce and shift operations abroad to reduce costs. The company is closing its IT site in Copenhagen, maintaining Bratislava, and opening a new hub in Vietnam.",
+    "importance": 3,
+    "classified": true
   },
   {
     "title": "Metaplanet cuts executive reward pool by 41%, extinguishes $220 million in value",
