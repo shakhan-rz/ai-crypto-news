@@ -12,6 +12,18 @@
     "classified": true
   },
   {
+    "title": "Bitcoin activity, passports exposed after Revolut falls for fake government request",
+    "link": "https://www.coindesk.com/tech/2026/09/12/bitcoin-activity-passports-exposed-after-revolut-falls-for-fake-government-request",
+    "pubDate": "Sat, 12 Sep 2026 10:11:01 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "Passports, selfies and home addresses were also handed over after the digital bank treated a fraudulent request as legitimate, but no customer funds were lost.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/6ca19b29e8ab173881d07a500314e2d207392d68-1152x648.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "Digital bank Revolut mistakenly exposed customer data, including Bitcoin activity, passports, selfies, and home addresses, after falling victim to a fraudulent government request. While no customer funds were lost, this incident represents a significant data breach affecting its users.",
+    "importance": 8,
+    "classified": true
+  },
+  {
     "title": "The legal drama of imprisoned Sam Bankman-Fried is waiting on its last act",
     "link": "https://www.coindesk.com/news-analysis/2026/09/11/the-legal-drama-of-imprisoned-sam-bankman-fried-is-waiting-on-its-last-act",
     "pubDate": "Fri, 11 Sep 2026 17:12:45 +0000",
@@ -30,7 +42,7 @@
     "source": "CoinDesk",
     "category": "crypto",
     "content": "Maharashtra is drafting a policy to tokenize the state's assets, including the electricity transmission infrastructure.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/d2d635a94af6650d58a3dbcda666805d2d1930bf-1280x851.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/6876a8f03e38026b9e6e17cf35ca9ecd78632594-1066x1599.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
     "summary": "India's richest state, Maharashtra, is actively drafting a policy to tokenize its state-owned assets. This strategic move aims to leverage tokenization as a funding mechanism for new infrastructure projects, including crucial electricity transmission infrastructure.",
     "importance": 8,
     "classified": true
@@ -96,18 +108,6 @@
     "classified": true
   },
   {
-    "title": "Nasdaq, Boerse Stuttgart, others ask EU to remove or increase cap in tokenization trial",
-    "link": "https://www.coindesk.com/business/2026/09/10/nasdaq-boerse-stuttgart-others-ask-eu-to-remove-or-increase-cap-in-tokenization-trial",
-    "pubDate": "Thu, 10 Sep 2026 13:56:54 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "The coalition warned that the current limit is too low, noting some existing European projects already exceed it.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/0787d5f032ca85f77ffa1a385d7fd6d77c3d64a6-1920x1280.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "A coalition including major exchanges like Nasdaq and Boerse Stuttgart has requested the EU to remove or significantly increase the current cap for its tokenization trial. They argue that the existing limit is too low, as some European projects using tokenization already exceed this threshold, hindering further development.",
-    "importance": 8,
-    "classified": true
-  },
-  {
     "title": "Bitcoin spikes toward $80K as US CPI data delivers new 22-year high in bond yields",
     "link": "https://cointelegraph.com/markets/bitcoin-spikes-toward-80k-as-us-cpi-data-delivers-new-22-year-high-in-bond-yields?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "pubDate": "Fri, 11 Sep 2026 16:03:37 +0000",
@@ -120,6 +120,30 @@
     "classified": true
   },
   {
+    "title": "Bitcoin ETF outflows accelerate as investors pull $449M in three days",
+    "link": "https://cointelegraph.com/markets/bitcoin-etfs-282m-biggest-outflow-july?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Fri, 11 Sep 2026 12:33:38 +0000",
+    "source": "Cointelegraph",
+    "category": "crypto",
+    "content": "ARK 21Shares accounted for $164 million of Thursday’s Bitcoin ETF withdrawals, while Ether and Solana funds also recorded net outflows.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M285JYCZ9QMJKNR8RK6TQCBQ/hi-what-is-a-bitcoin-bond-etf-and-how-does-it-work.jpg",
+    "summary": "Bitcoin ETF outflows have accelerated, with investors pulling $449 million in three days. ARK 21Shares was responsible for $164 million of Thursday's Bitcoin ETF withdrawals, while Ether and Solana funds also experienced net outflows.",
+    "importance": 8,
+    "classified": true
+  },
+  {
+    "title": "UniCredit seeks infrastructure partner for crypto trading, custody: Report",
+    "link": "https://cointelegraph.com/news/unicredit-infrastructure-partners-crypto-trading-custody?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Fri, 11 Sep 2026 11:35:27 +0000",
+    "source": "Cointelegraph",
+    "category": "crypto",
+    "content": "The Italian bank is reportedly seeking assistance in launching access to crypto trading, custody and tokenized investment products.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M282X830DCH6TSW5XZJXNKBH/hi-crypto-olympic-gods.jpg",
+    "summary": "Italian bank UniCredit is reportedly seeking an infrastructure partner to launch access to crypto trading and custody services. The bank also aims to offer tokenized investment products to its clients.",
+    "importance": 8,
+    "classified": true
+  },
+  {
     "title": "“Zlibrary my beloved”: Anthropic staff chats extolling piracy cited in Sony suit",
     "link": "https://arstechnica.com/tech-policy/2026/08/zlibrary-my-beloved-anthropic-staff-chats-extolling-piracy-cited-in-sony-suit/",
     "pubDate": "Mon, 31 Aug 2026 18:10:45 +0000",
@@ -128,18 +152,6 @@
     "content": "Lawsuit: Anthropic’s torrenting totally screwed songwriters as AI songs top charts.",
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-172575622-1152x648.jpg",
     "summary": "Anthropic employees were found to have praised piracy in internal chats, as revealed in a Sony lawsuit alleging that AI-generated songs trained on pirated content topped music charts. The case highlights concerns over copyright infringement in AI training data.",
-    "importance": 8,
-    "classified": true
-  },
-  {
-    "title": "ChatGPT and Reddit now face EU's toughest online safety rules",
-    "link": "https://arstechnica.com/tech-policy/2026/08/chatgtp-and-reddit-now-face-eus-toughest-online-safety-rules/",
-    "pubDate": "Mon, 31 Aug 2026 13:41:40 +0000",
-    "source": "Ars Technica AI",
-    "category": "ai",
-    "content": "Explosive growth comes with a new regulatory burden in the European Union.",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2022/03/getty-eu-flag-1152x648.jpg",
-    "summary": "ChatGPT and Reddit are now subject to the EU's strictest online safety regulations due to their rapid growth and user base. The Digital Services Act (DSA) imposes stringent compliance requirements on major platforms operating in the EU.",
     "importance": 8,
     "classified": true
   },
@@ -200,6 +212,42 @@
     "content": "Jenson becomes the prediction market’s first CFO as Polymarket builds its regulated U.S. exchange and global platform.",
     "image": "https://cdn.sanity.io/images/s3y3vcno/production/3b1739df7db3f7a1068921484a035a297ca8de23-1600x1067.webp?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
     "summary": "Polymarket, a prediction market, has appointed former Amazon finance chief Warren Jenson as its first Chief Financial Officer. This strategic hire supports the company's efforts to build a regulated U.S. exchange and expand its global platform.",
+    "importance": 7,
+    "classified": true
+  },
+  {
+    "title": "Robinhood’s crypto volume increases 61% in August, still down 38% YoY",
+    "link": "https://cointelegraph.com/news/robinhoods-crypto-volume-rebounds-august?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Fri, 11 Sep 2026 11:49:07 +0000",
+    "source": "Cointelegraph",
+    "category": "crypto",
+    "content": "Bitstamp accounted for $10.1 billion of Robinhood’s August crypto volume, while trading on the Robinhood app fell 46% from a year earlier.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M283JZSQVMT1TPB7GVMGKVNK/robinhood2-2.jpg",
+    "summary": "Robinhood's crypto trading volume surged by 61% in August, largely driven by $10.1 billion from Bitstamp. Despite this monthly increase, the overall volume remains 38% lower year-over-year, with trading specifically on the Robinhood app falling by 46% compared to the previous year.",
+    "importance": 7,
+    "classified": true
+  },
+  {
+    "title": "Bitcoin buyers wary of July sub-$58K floor amid onchain data ‘anomaly’",
+    "link": "https://cointelegraph.com/markets/bitcoin-buyers-wary-of-july-sub-58k-floor-amid-onchain-data-anomaly?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Fri, 11 Sep 2026 10:53:55 +0000",
+    "source": "Cointelegraph",
+    "category": "crypto",
+    "content": "Bitcoin HODL waves data revealed an unusually muted reaction to Bitcoin’s drop below $58,000, raising questions over its status as a bear-market floor.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M281HPGWF7JFNG9451VMXA68/hi-btc-performance-in-10-years-compared-with-other-assets-1.jpg",
+    "summary": "Bitcoin HODL waves data showed an uncharacteristically muted response to Bitcoin's recent price drop below $58,000. This anomaly has raised concerns among buyers and led to skepticism regarding whether this price point can effectively act as a bear-market floor.",
+    "importance": 7,
+    "classified": true
+  },
+  {
+    "title": "Standard Chartered forecasts SKY rising fivefold to $0.325 by 2028",
+    "link": "https://cointelegraph.com/news/sky-value-token-holders-standard-chartered?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Fri, 11 Sep 2026 10:44:28 +0000",
+    "source": "Cointelegraph",
+    "category": "crypto",
+    "content": "The bank expects Sky to pass five times as much value to token holders by 2028 as USDS adoption and borrowing capacity continue to expand.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M27ZBG9M66N6EKM393AC74JJ/hi-mt-gox-trustee-sold-disregarding-predictions-analysis.jpg",
+    "summary": "Standard Chartered forecasts that the value of Sky will increase fivefold to $0.325 by 2028. This significant growth is attributed to the expanding adoption of USDS and an increase in borrowing capacity.",
     "importance": 7,
     "classified": true
   },
@@ -334,61 +382,6 @@
     "summary": "Bitcoin experienced a pullback despite a recent 'golden cross' technical signal failing to deliver immediate upside. While golden crosses often indicate longer-term support, historical data suggests that significant price increases frequently occur before the signal is confirmed.",
     "importance": 5,
     "classified": true
-  },
-  {
-    "title": "Bitcoin ETF outflows accelerate as investors pull $449M in three days",
-    "link": "https://cointelegraph.com/markets/bitcoin-etfs-282m-biggest-outflow-july?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Fri, 11 Sep 2026 12:33:38 +0000",
-    "source": "Cointelegraph",
-    "category": "crypto",
-    "content": "ARK 21Shares accounted for $164 million of Thursday’s Bitcoin ETF withdrawals, while Ether and Solana funds also recorded net outflows.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M285JYCZ9QMJKNR8RK6TQCBQ/hi-what-is-a-bitcoin-bond-etf-and-how-does-it-work.jpg",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "Robinhood’s crypto volume increases 61% in August, still down 38% YoY",
-    "link": "https://cointelegraph.com/news/robinhoods-crypto-volume-rebounds-august?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Fri, 11 Sep 2026 11:49:07 +0000",
-    "source": "Cointelegraph",
-    "category": "crypto",
-    "content": "Bitstamp accounted for $10.1 billion of Robinhood’s August crypto volume, while trading on the Robinhood app fell 46% from a year earlier.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M283JZSQVMT1TPB7GVMGKVNK/robinhood2-2.jpg",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "UniCredit seeks infrastructure partner for crypto trading, custody: Report",
-    "link": "https://cointelegraph.com/news/unicredit-infrastructure-partners-crypto-trading-custody?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Fri, 11 Sep 2026 11:35:27 +0000",
-    "source": "Cointelegraph",
-    "category": "crypto",
-    "content": "The Italian bank is reportedly seeking assistance in launching access to crypto trading, custody and tokenized investment products.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M282X830DCH6TSW5XZJXNKBH/hi-crypto-olympic-gods.jpg",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "Bitcoin buyers wary of July sub-$58K floor amid onchain data ‘anomaly’",
-    "link": "https://cointelegraph.com/markets/bitcoin-buyers-wary-of-july-sub-58k-floor-amid-onchain-data-anomaly?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Fri, 11 Sep 2026 10:53:55 +0000",
-    "source": "Cointelegraph",
-    "category": "crypto",
-    "content": "Bitcoin HODL waves data revealed an unusually muted reaction to Bitcoin’s drop below $58,000, raising questions over its status as a bear-market floor.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M281HPGWF7JFNG9451VMXA68/hi-btc-performance-in-10-years-compared-with-other-assets-1.jpg",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "Standard Chartered forecasts SKY rising fivefold to $0.325 by 2028",
-    "link": "https://cointelegraph.com/news/sky-value-token-holders-standard-chartered?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Fri, 11 Sep 2026 10:44:28 +0000",
-    "source": "Cointelegraph",
-    "category": "crypto",
-    "content": "The bank expects Sky to pass five times as much value to token holders by 2028 as USDS adoption and borrowing capacity continue to expand.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M27ZBG9M66N6EKM393AC74JJ/hi-mt-gox-trustee-sold-disregarding-predictions-analysis.jpg",
-    "summary": "",
-    "importance": 5
   },
   {
     "title": "India launches tokenized bond pilot with $107M issued",
@@ -1238,6 +1231,17 @@
     "importance": 5
   },
   {
+    "title": "OpenAI just wants to win",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/994255/openai-millennium-prize-problem-tristan-buckmaster-competition",
+    "pubDate": "2026-09-12T11:00:00.000Z",
+    "source": "The Verge AI",
+    "category": "ai",
+    "content": "OpenAI has spent the last few years planting flags across the increasingly difficult terrain in mathematics. This week, it claimed one of its biggest prizes yet: a solution to a legendary Millennium Prize problem. In normal circumstances, this would have been celebrated as a historic achievement.\nInstead, many mathematicians have watched OpenAI's relentless advance with growing unease. To them, the company appears less like an enthusiastic newcomer than an impossibly well-resourced interloper, charging into problems they have dedicated their lives to studying with little apparent regard for long-standing norms or the consequences for those  …\nRead the full story at The Verge.",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268745_OpenAI_just_wants_to_win-_CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "summary": "",
+    "importance": 5
+  },
+  {
     "title": "Lawyer fined $5K over AI-hallucinated witnesses in a murder case",
     "link": "https://www.theverge.com/ai-artificial-intelligence/994207/chatgpt-new-mexico-lawyer-fined-murder-appeal",
     "pubDate": "2026-09-11T20:44:02.000Z",
@@ -1337,13 +1341,13 @@
     "importance": 5
   },
   {
-    "title": "Suno releases its first AI music model made with record industry help",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/991977/suno-releases-its-first-ai-music-model-made-with-record-industry-help",
-    "pubDate": "2026-09-09T21:42:19.000Z",
-    "source": "The Verge AI",
+    "title": "I spent $4,000 on a robot dog from China",
+    "link": "https://arstechnica.com/gadgets/2026/09/i-spent-4000-on-a-robot-dog-from-china/",
+    "pubDate": "Sat, 12 Sep 2026 11:00:53 +0000",
+    "source": "Ars Technica AI",
     "category": "ai",
-    "content": "Suno's new v6 AI music model is its first made with support from the record industry. Suno's Jack Brody told The Verge that v6 was \"trained from the ground up, with a new set of data that does not include the same data that our previous models were trained on.\" The data includes content licensed from partners Warner Music Group, BMG, and Believe, as well as \"user data.\" It's unclear whether that means v6 training data is completely free of dubiously obtained content.\nOne of the big changes in v6 is that there are actually three different models: v6, v6-wild, and v6-mini. Mini is the model available for free to all. It's focused on fast, res …\nRead the full story at The Verge.",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Suno_v6_Main.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "content": "Unitree might be the world’s most important robotics company.",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/80276b2c-6940-443f-adf2-2aabe4d1e838_2048x1365-1152x648.jpg",
     "summary": "",
     "importance": 5
   },
