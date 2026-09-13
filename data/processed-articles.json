@@ -60,6 +60,42 @@
     "classified": true
   },
   {
+    "title": "Blockstream rejects ransom as Liquid hackers hold nearly 600 BTC",
+    "link": "https://cointelegraph.com/news/blockstream-rejects-ransom-liquid-hackers-return-bitcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Fri, 11 Sep 2026 08:43:19 +0000",
+    "source": "Cointelegraph",
+    "category": "crypto",
+    "content": "Blockstream said it would work with law enforcement, exchanges and forensic specialists to recover the Bitcoin if the hackers do not return it.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M27QFNQHXK4AQ23CPKY39BZF/hi-can-bitcoin-be-hacked-3.jpg",
+    "summary": "Blockstream has refused to pay a ransom to hackers who stole nearly 600 BTC from its Liquid network. The company plans to collaborate with law enforcement, exchanges, and forensic specialists to recover the stolen Bitcoin if it is not returned.",
+    "importance": 9,
+    "classified": true
+  },
+  {
+    "title": "SBF asks Supreme Court to overturn conviction, $11B forfeiture: Report",
+    "link": "https://cointelegraph.com/news/sbf-appeals-supreme-court-conviction-forfeiture?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Fri, 11 Sep 2026 07:43:19 +0000",
+    "source": "Cointelegraph",
+    "category": "crypto",
+    "content": "Bankman-Fried’s lawyers challenged the exclusion of evidence about customer losses and argued that his $11 billion forfeiture was excessive.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M27MET6B0RDV87AVRKSVYNJF/sbf-newspapers.jpg",
+    "summary": "Sam Bankman-Fried's lawyers have petitioned the U.S. Supreme Court to overturn his conviction and an $11 billion forfeiture. They argue that evidence regarding customer losses was improperly excluded and that the forfeiture amount is excessive.",
+    "importance": 9,
+    "classified": true
+  },
+  {
+    "title": "Brevo login flaw enabled phishing email targeting 347K Trezor subscribers",
+    "link": "https://cointelegraph.com/news/brevo-login-flaw-trezor-bitbox-cointracking-phishing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Fri, 11 Sep 2026 04:21:14 +0000",
+    "source": "Cointelegraph",
+    "category": "crypto",
+    "content": "Trezor told Cointelegraph that the phishing email was sent to 347,000 subscribers and said it is treating every address as “known to the attacker and possibly reusable for phishing.”",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M27B48EZAFAJ0FBBJM75HJAW/brevo-phishing.png",
+    "summary": "A phishing email was sent to 347,000 Trezor subscribers due to a login flaw at Brevo, a third-party service provider. Trezor confirmed that the attacker now possesses these email addresses, making them vulnerable to future phishing attempts.",
+    "importance": 9,
+    "classified": true
+  },
+  {
     "title": "Ripple stablecoin chief sees $13 trillion corporate treasury opportunity for RLUSD",
     "link": "https://www.coindesk.com/business/2026/09/12/ripple-stablecoin-chief-sees-usd13-trillion-corporate-treasury-opportunity-for-rlusd",
     "pubDate": "Sat, 12 Sep 2026 16:00:00 +0000",
@@ -324,6 +360,30 @@
     "classified": true
   },
   {
+    "title": "Bitwise to put down Dogecoin ETF less than a year after launch",
+    "link": "https://cointelegraph.com/news/bitwise-put-down-dogecoin-etf-year-launch?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Fri, 11 Sep 2026 07:47:13 +0000",
+    "source": "Cointelegraph",
+    "category": "crypto",
+    "content": "BWOW held about $688,000 in net assets as of Sept. 9. Trading is expected to end Oct. 14, with cash payouts to follow around Oct. 22.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M27PG6K246A1E33FQTARMGXQ/hi-how-to-buy-and-sell-dogecoin-etf.png",
+    "summary": "Bitwise is discontinuing its Dogecoin ETF (BWOW) less than a year after its launch, with trading expected to end on October 14 and cash payouts around October 22. The ETF held approximately $688,000 in net assets as of September 9.",
+    "importance": 7,
+    "classified": true
+  },
+  {
+    "title": "Metaplanet equity backlash, SE Asia crypto funding doubles: Asia Express",
+    "link": "https://cointelegraph.com/magazine/metaplanet-equity-backlash-se-asia-crypto-funding-doubles-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Thu, 10 Sep 2026 23:21:26 +0000",
+    "source": "Cointelegraph",
+    "category": "crypto",
+    "content": "Shareholders of Bitcoin treasury company Metaplanet are seething over equity allocations for insiders, while new figures cement Singapore’s role as the top Asian crypto hub.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M26Q2WGDD8GDA5QMCWQF3GB3/magazineasia-expresssnow.jpg",
+    "summary": "Shareholders of the Bitcoin treasury company Metaplanet are expressing significant discontent over equity allocations designated for insiders. Concurrently, new data reinforces Singapore's position as the leading cryptocurrency hub in Asia.",
+    "importance": 7,
+    "classified": true
+  },
+  {
     "title": "Trump may be forced to reveal secret rules feds use for AI safety testing",
     "link": "https://arstechnica.com/tech-policy/2026/09/trump-may-be-forced-to-reveal-secret-rules-feds-use-for-ai-safety-testing/",
     "pubDate": "Wed, 02 Sep 2026 17:58:33 +0000",
@@ -432,39 +492,6 @@
     "classified": true
   },
   {
-    "title": "Blockstream rejects ransom as Liquid hackers hold nearly 600 BTC",
-    "link": "https://cointelegraph.com/news/blockstream-rejects-ransom-liquid-hackers-return-bitcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Fri, 11 Sep 2026 08:43:19 +0000",
-    "source": "Cointelegraph",
-    "category": "crypto",
-    "content": "Blockstream said it would work with law enforcement, exchanges and forensic specialists to recover the Bitcoin if the hackers do not return it.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M27QFNQHXK4AQ23CPKY39BZF/hi-can-bitcoin-be-hacked-3.jpg",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "Bitwise to put down Dogecoin ETF less than a year after launch",
-    "link": "https://cointelegraph.com/news/bitwise-put-down-dogecoin-etf-year-launch?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Fri, 11 Sep 2026 07:47:13 +0000",
-    "source": "Cointelegraph",
-    "category": "crypto",
-    "content": "BWOW held about $688,000 in net assets as of Sept. 9. Trading is expected to end Oct. 14, with cash payouts to follow around Oct. 22.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M27PG6K246A1E33FQTARMGXQ/hi-how-to-buy-and-sell-dogecoin-etf.png",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "SBF asks Supreme Court to overturn conviction, $11B forfeiture: Report",
-    "link": "https://cointelegraph.com/news/sbf-appeals-supreme-court-conviction-forfeiture?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Fri, 11 Sep 2026 07:43:19 +0000",
-    "source": "Cointelegraph",
-    "category": "crypto",
-    "content": "Bankman-Fried’s lawyers challenged the exclusion of evidence about customer losses and argued that his $11 billion forfeiture was excessive.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M27MET6B0RDV87AVRKSVYNJF/sbf-newspapers.jpg",
-    "summary": "",
-    "importance": 5
-  },
-  {
     "title": "Revised CLARITY Act targets ‘non-decentralized’ DeFi operators",
     "link": "https://cointelegraph.com/news/revised-clarity-act-targets-non-decentralized-defi-operators?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "pubDate": "Fri, 11 Sep 2026 06:08:26 +0000",
@@ -472,28 +499,6 @@
     "category": "crypto",
     "content": "The bill’s ethics section remained largely unchanged despite being one of the main points of contention ahead of a pivotal Senate vote.",
     "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M27H8K27MPGK3B4159W99VR1/senate-usa-flag.png",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "Brevo login flaw enabled phishing email targeting 347K Trezor subscribers",
-    "link": "https://cointelegraph.com/news/brevo-login-flaw-trezor-bitbox-cointracking-phishing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Fri, 11 Sep 2026 04:21:14 +0000",
-    "source": "Cointelegraph",
-    "category": "crypto",
-    "content": "Trezor told Cointelegraph that the phishing email was sent to 347,000 subscribers and said it is treating every address as “known to the attacker and possibly reusable for phishing.”",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M27B48EZAFAJ0FBBJM75HJAW/brevo-phishing.png",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "Metaplanet equity backlash, SE Asia crypto funding doubles: Asia Express",
-    "link": "https://cointelegraph.com/magazine/metaplanet-equity-backlash-se-asia-crypto-funding-doubles-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Thu, 10 Sep 2026 23:21:26 +0000",
-    "source": "Cointelegraph",
-    "category": "crypto",
-    "content": "Shareholders of Bitcoin treasury company Metaplanet are seething over equity allocations for insiders, while new figures cement Singapore’s role as the top Asian crypto hub.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M26Q2WGDD8GDA5QMCWQF3GB3/magazineasia-expresssnow.jpg",
     "summary": "",
     "importance": 5
   },
