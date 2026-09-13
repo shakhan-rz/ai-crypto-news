@@ -36,6 +36,18 @@
     "classified": true
   },
   {
+    "title": "Anthropic chief urges slowdown in AI development to safer pace",
+    "link": "https://cointelegraph.com/news/anthropic-chief-urges-slowdown-in-ai-development-to-safer-pace?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Sun, 13 Sep 2026 11:09:54 +0000",
+    "source": "Cointelegraph",
+    "category": "ai",
+    "content": "OpenAI CEO Sam Altman agrees with safety concerns regarding AI development, says no initial share sale this year.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2D73RC4KZ3H9HDSX589ZA4R/dario-amodei-ai-caution.png",
+    "summary": "Anthropic's chief is advocating for a slower, safer pace in artificial intelligence development. OpenAI CEO Sam Altman concurs with these AI safety concerns, while also stating there will be no initial share sale this year.",
+    "importance": 9,
+    "classified": true
+  },
+  {
     "title": "Nvidia considers $10B investment in potential record Anthropic IPO: Reuters  ",
     "link": "https://cointelegraph.com/news/nvidia-considers-10b-investment-in-anthropic-record-ipo-reuters?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "pubDate": "Sat, 12 Sep 2026 15:12:40 +0000",
@@ -93,6 +105,30 @@
     "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M27B48EZAFAJ0FBBJM75HJAW/brevo-phishing.png",
     "summary": "A phishing email was sent to 347,000 Trezor subscribers due to a login flaw at Brevo, a third-party service provider. Trezor confirmed that the attacker now possesses these email addresses, making them vulnerable to future phishing attempts.",
     "importance": 9,
+    "classified": true
+  },
+  {
+    "title": "Liquid Network resumes block production after $320M exploit",
+    "link": "https://cointelegraph.com/news/liquid-network-resumes-block-production-after-320m-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Thu, 10 Sep 2026 16:38:16 +0000",
+    "source": "Cointelegraph",
+    "category": "crypto",
+    "content": "Liquid restarted block production after deploying emergency software updates, though transactions and peg operations remain suspended as recovery efforts continue.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M261Y4R153J5N1QZNJQKTM7F/hi-why-spot-the-typo-is-no-longer-enough-for-crypto-security.png",
+    "summary": "The Liquid Network has resumed block production after implementing emergency software updates following a $320 million exploit. However, transaction processing and peg operations remain suspended as recovery efforts are still underway.",
+    "importance": 9,
+    "classified": true
+  },
+  {
+    "title": "Crypto's Clarity Act is a Schrödinger's cat in life-death limbo as U.S. Senate returns",
+    "link": "https://www.coindesk.com/news-analysis/2026/09/11/crypto-s-clarity-act-is-a-schroedinger-s-cat-in-life-death-limbo-as-u-s-senate-returns",
+    "pubDate": "Sun, 13 Sep 2026 12:00:00 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "The crypto industry eagerly awaits a September 15 vote, though it might not happen. Or maybe it will. Or it might get delayed or reappear in some other form.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/fdf7f5a1bfc3ea1d7708ef0c24ddb8c1297cbb2f-3480x1958.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "The crypto industry is eagerly awaiting a potential U.S. Senate vote on the \"Crypto's Clarity Act\" on September 15. However, the exact timing and fate of this legislative action remain highly uncertain, with possibilities of it being delayed or reappearing in a different form.",
+    "importance": 8,
     "classified": true
   },
   {
@@ -156,30 +192,6 @@
     "classified": true
   },
   {
-    "title": "Ripple puts AI agents inside its $1 billion corporate treasury bet",
-    "link": "https://www.coindesk.com/markets/2026/09/11/ripple-puts-ai-agents-inside-its-usd1-billion-corporate-treasury-bet",
-    "pubDate": "Fri, 11 Sep 2026 04:25:21 +0000",
-    "source": "CoinDesk",
-    "category": "both",
-    "content": "The software can monitor cash, risk and forecasts and suggest financial moves, but humans still have to approve every action.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/260b57a4fe560b018cc5f2eb91b9df196b57dc92-3773x2122.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "Ripple is integrating AI agents into its $1 billion corporate treasury initiative to monitor cash, risk, and financial forecasts. These AI agents can suggest financial moves, but all actions still require human approval. This move marks a significant application of AI within a major crypto company's core operations.",
-    "importance": 8,
-    "classified": true
-  },
-  {
-    "title": "Why a new SEC plan could ease a legal headache for tokenized securities",
-    "link": "https://www.coindesk.com/business/2026/09/10/why-a-new-sec-plan-could-end-the-legal-headaches-of-holding-tokenized-securities",
-    "pubDate": "Thu, 10 Sep 2026 19:01:30 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "The SEC's new proposal to overhaul transfer-agent rules could eliminate duplicate offchain shareholder records, reducing reconciliation costs and legal uncertainty for tokenized securities.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/333db2ac6429c13170ebdacdfd4cae413b017a08-4922x2769.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "The SEC is proposing new transfer-agent rules that could significantly benefit tokenized securities by eliminating duplicate offchain shareholder records. This change aims to reduce reconciliation costs and alleviate legal uncertainty, streamlining the regulatory landscape for digital assets.",
-    "importance": 8,
-    "classified": true
-  },
-  {
     "title": "Farage’s Reform UK gets $97M from two crypto billionaires",
     "link": "https://cointelegraph.com/news/farages-reform-uk-gets-biggest-donation-ever-from-crypto-billionaire-reports?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "pubDate": "Sat, 12 Sep 2026 15:50:14 +0000",
@@ -236,6 +248,18 @@
     "content": "SEBI said later phases of Demat 2.0 will introduce secondary trading and open the tokenized bonds to retail investors.",
     "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M27X18G5K0AARQBBJ0SYKFK0/regulations-india-crypto.jpg",
     "summary": "India has launched a $107 million tokenized bond pilot, a significant move towards digitizing financial instruments. Regulators plan to expand this initiative with secondary trading and access for retail investors in future phases of Demat 2.0.",
+    "importance": 8,
+    "classified": true
+  },
+  {
+    "title": "CryptoQuant says bitcoin must clear resistance at $81,700 to confirm new bull market",
+    "link": "https://www.theblock.co/news/markets/2026-09-12-cryptoquant-bitcoin-resistance-support-levels-414519",
+    "pubDate": "Sat, 12 Sep 2026 21:39:49 +0000",
+    "source": "The Block",
+    "category": "crypto",
+    "content": "Bitcoin's outlook remains bullish, but it needs to clear a significant range of resistance levels stretching to $88,700, CryptoQuant said.",
+    "image": "https://www.tbstat.com/wp/uploads/2026/04/20260410_Bitcoin_News-1200x675.jpg",
+    "summary": "CryptoQuant analysts assert that Bitcoin maintains a bullish outlook but must overcome substantial resistance levels up to $88,700. Specifically, a break above $81,700 is crucial to confirm the onset of a new bull market.",
     "importance": 8,
     "classified": true
   },
@@ -308,18 +332,6 @@
     "content": "The prediction-market operator plans to seek U.S. approval for about 60 stock and ETF perps, taking one of crypto's biggest trading products into equities.",
     "image": "https://cdn.sanity.io/images/s3y3vcno/production/4e50c9195dba15e6ee82b37a243ee05c82ea6b97-6960x4640.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
     "summary": "Prediction-market operator Kalshi plans to seek U.S. approval to offer perpetual contracts (perps) on approximately 60 stocks and ETFs, including Tesla and Nvidia. This move aims to introduce a trading product popularized in crypto markets into traditional equities, potentially initiating regulatory disputes within Wall Street.",
-    "importance": 7,
-    "classified": true
-  },
-  {
-    "title": "New Clarity Act text tweaks DeFi, credit union provisions, but road ahead for bill remains murky",
-    "link": "https://www.coindesk.com/policy/2026/09/10/new-clarity-act-text-tweaks-defi-credit-union-provisions-but-road-ahead-for-bill-remains-murky",
-    "pubDate": "Thu, 10 Sep 2026 20:21:57 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "The Clarity Act needs 60 votes when the Senate returns from its recess next week. Republicans circulated a fresh draft on Thursday ahead of the vote.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/27f181c6ee0ec7f329ad40b57f8403e3338d7346-4928x2772.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "A new draft of the Clarity Act, which includes tweaks to DeFi and credit union provisions, has been circulated by Republicans. The bill will require 60 Senate votes when the Senate returns from recess next week, though its future remains uncertain.",
     "importance": 7,
     "classified": true
   },
@@ -480,6 +492,17 @@
     "classified": true
   },
   {
+    "title": "Circle's $400M Tazapay deal buys emerging market links that take ‘years to build’",
+    "link": "https://www.coindesk.com/business/2026/09/13/circle-s-usd400m-tazapay-deal-buys-emerging-market-links-that-take-years-to-build",
+    "pubDate": "Sun, 13 Sep 2026 13:00:00 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "Stablecoins' “next battleground is in emerging markets,” one expert said, as Circle looks to expand USDC's reach where rival Tether has long been strong.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/024ae1afdc1672e747814cc0546828b965ecf695-5162x3441.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "",
+    "importance": 5
+  },
+  {
     "title": "Bitcoin pulls back as another golden cross fails to deliver",
     "link": "https://www.coindesk.com/markets/2026/09/11/bitcoin-pulls-back-as-another-golden-cross-fails-to-deliver",
     "pubDate": "Fri, 11 Sep 2026 10:13:44 +0000",
@@ -490,6 +513,17 @@
     "summary": "Bitcoin experienced a pullback despite a recent 'golden cross' technical signal failing to deliver immediate upside. While golden crosses often indicate longer-term support, historical data suggests that significant price increases frequently occur before the signal is confirmed.",
     "importance": 5,
     "classified": true
+  },
+  {
+    "title": "Revolut says customer data exposed through fake government email",
+    "link": "https://cointelegraph.com/news/revolut-says-customer-data-exposed-through-fake-government-email?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Sun, 13 Sep 2026 09:27:21 +0000",
+    "source": "Cointelegraph",
+    "category": "crypto",
+    "content": "Passports, selfies and financial transaction histories of some customers were revealed to a fraudster using a government agency domain.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2D17VM4EG7ZBFYRBDRS7SSC/revolut-data-disclosure.png",
+    "summary": "",
+    "importance": 5
   },
   {
     "title": "Revised CLARITY Act targets ‘non-decentralized’ DeFi operators",
@@ -525,17 +559,6 @@
     "importance": 5
   },
   {
-    "title": "Liquid Network resumes block production after $320M exploit",
-    "link": "https://cointelegraph.com/news/liquid-network-resumes-block-production-after-320m-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Thu, 10 Sep 2026 16:38:16 +0000",
-    "source": "Cointelegraph",
-    "category": "crypto",
-    "content": "Liquid restarted block production after deploying emergency software updates, though transactions and peg operations remain suspended as recovery efforts continue.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M261Y4R153J5N1QZNJQKTM7F/hi-why-spot-the-typo-is-no-longer-enough-for-crypto-security.png",
-    "summary": "",
-    "importance": 5
-  },
-  {
     "title": "MoneyGram launches Visa stablecoin card as remittance rivals expand",
     "link": "https://cointelegraph.com/news/moneygram-launches-visa-stablecoin-card-as-remittance-rivals-expand?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "pubDate": "Thu, 10 Sep 2026 15:59:37 +0000",
@@ -558,39 +581,6 @@
     "importance": 5
   },
   {
-    "title": "Bitcoin falls on US PPI overshoot as 30-year bond yield hits new 19-year high",
-    "link": "https://cointelegraph.com/markets/bitcoin-falls-on-us-ppi-overshoot-as-30-year-bond-yield-hits-new-19-year-high?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Thu, 10 Sep 2026 14:52:15 +0000",
-    "source": "Cointelegraph",
-    "category": "crypto",
-    "content": "Bitcoin fell with US stocks as high inflation and a further surge in oil prices coincided with another multidecade high for US bond yields.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M25WNWCPP6BF687FEHQSBZ6X/money-dollar-calculator-inflation.jpg",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "Coinbase, Moov to provide stablecoin infrastructure for US community banks",
-    "link": "https://cointelegraph.com/news/coinbase-moov-stablecoin-infrastructure-banks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Thu, 10 Sep 2026 13:35:23 +0000",
-    "source": "Cointelegraph",
-    "category": "crypto",
-    "content": "The partnership will provide stablecoin acceptance, settlement and real-time funding capabilities to over 1,000 community banks and credit unions.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M25QS3J7E4QKZ8FBTX1J64KM/hi-listing-frenzy-coinbase-has-added-nearly-100-assets-for-trading-in-2021-3.jpg",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "CryptoQuant says bitcoin must clear resistance at $81,700 to confirm new bull market",
-    "link": "https://www.theblock.co/news/markets/2026-09-12-cryptoquant-bitcoin-resistance-support-levels-414519",
-    "pubDate": "Sat, 12 Sep 2026 21:39:49 +0000",
-    "source": "The Block",
-    "category": "crypto",
-    "content": "Bitcoin's outlook remains bullish, but it needs to clear a significant range of resistance levels stretching to $88,700, CryptoQuant said.",
-    "image": "https://www.tbstat.com/wp/uploads/2026/04/20260410_Bitcoin_News-1200x675.jpg",
-    "summary": "",
-    "importance": 5
-  },
-  {
     "title": "Revolut says customer KYC, Bitcoin transaction data exposed after fake request from gov’t domain",
     "link": "https://www.theblock.co/news/business/2026-09-12-revolut-says-customer-kyc-bitcoin-transaction-data-exposed-after-fake-request-from-govt-domain-414516",
     "pubDate": "Sat, 12 Sep 2026 18:57:08 +0000",
@@ -609,17 +599,6 @@
     "category": "crypto",
     "content": "Meanwhile, the House of Lords is considering a bill which would halt crypto donations and cap overseas giving at £100,000 a year.",
     "image": "https://www.tbstat.com/wp/uploads/2022/02/20220210_UK_Generic_Funding-1200x675.jpg",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "Former Alameda CEO Caroline Ellison joins nonprofit charity Manifund",
-    "link": "https://www.theblock.co/news/business/2026-09-11-former-alameda-ceo-caroline-ellison-joins-nonprofit-charity-manifund-414310",
-    "pubDate": "Fri, 11 Sep 2026 21:37:02 +0000",
-    "source": "The Block",
-    "category": "crypto",
-    "content": "Former Alameda Research CEO Caroline Ellison has a new gig at the charity Manifund, its cofounder Austin Chen said Friday.",
-    "image": "https://www.tbstat.com/wp/uploads/2025/12/CE-1920x1080-1-1200x675.png",
     "summary": "",
     "importance": 5
   },
@@ -1595,6 +1574,30 @@
     "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2336QVGKKJ171MCKQFKPC2W/magazine-vlad-robinhood.jpg",
     "summary": "The article describes a new trend in decentralized finance (DeFi) where participants on Robinhood Chain are trading traditional healthcare stocks against memecoins like BONER. This emerging practice is being adopted by \"degens\" and represents a strange new corner of the DeFi ecosystem.",
     "importance": 3,
+    "classified": true
+  },
+  {
+    "title": "Former Alameda CEO Caroline Ellison joins nonprofit charity Manifund",
+    "link": "https://www.theblock.co/news/business/2026-09-11-former-alameda-ceo-caroline-ellison-joins-nonprofit-charity-manifund-414310",
+    "pubDate": "Fri, 11 Sep 2026 21:37:02 +0000",
+    "source": "The Block",
+    "category": "crypto",
+    "content": "Former Alameda Research CEO Caroline Ellison has a new gig at the charity Manifund, its cofounder Austin Chen said Friday.",
+    "image": "https://www.tbstat.com/wp/uploads/2025/12/CE-1920x1080-1-1200x675.png",
+    "summary": "Caroline Ellison, the former CEO of Alameda Research, has joined the nonprofit charity Manifund, a development confirmed by its cofounder Austin Chen. This marks a new professional chapter for a key figure from the firm central to the FTX collapse.",
+    "importance": 2,
+    "classified": true
+  },
+  {
+    "title": "Fed rate hike is about Wall Street, not inflation, says economist",
+    "link": "https://www.coindesk.com/markets/2026/09/13/fed-rate-hike-is-about-wall-street-not-inflation-says-economist",
+    "pubDate": "Sun, 13 Sep 2026 13:00:00 +0000",
+    "source": "CoinDesk",
+    "category": "ai",
+    "content": "Goldman Sachs late Friday became the last of the major banks to retract its forecast of no rate hike next week.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/e8d8df4259af82f8ea238aee5c1f1e2fa3dce49a-1920x1000.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "Goldman Sachs has retracted its forecast of no Fed rate hike next week, becoming the last major bank to do so. An economist suggests that the impending Federal Reserve rate increase is primarily influenced by Wall Street dynamics rather than inflation concerns.",
+    "importance": 1,
     "classified": true
   },
   {
