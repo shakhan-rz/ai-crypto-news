@@ -24,18 +24,6 @@
     "classified": true
   },
   {
-    "title": "India starts tokenizing $620 billion corporate bond market with digital rupee settlement",
-    "link": "https://www.coindesk.com/markets/2026/09/11/india-starts-tokenizing-usd620-billion-corporate-bond-market-with-digital-rupee-settlement",
-    "pubDate": "Fri, 11 Sep 2026 05:13:15 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "SEBI’s Demat 2.0 pilot turns corporate bonds into digital tokens and settles payment through the RBI’s wholesale digital rupee, with secondary trading and retail access expected in later phases.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/a3eceb8aeec24d03372ed17e149a9e6c5b546972-2304x1296.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "India has launched a pilot program to tokenize its $620 billion corporate bond market through SEBI's Demat 2.0, converting corporate bonds into digital tokens. Payments for these tokens will be settled using the RBI’s wholesale digital rupee, with secondary trading and retail access planned for later stages.",
-    "importance": 9,
-    "classified": true
-  },
-  {
     "title": "Anthropic chief urges slowdown in AI development to safer pace",
     "link": "https://cointelegraph.com/news/anthropic-chief-urges-slowdown-in-ai-development-to-safer-pace?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "pubDate": "Sun, 13 Sep 2026 11:09:54 +0000",
@@ -581,6 +569,17 @@
     "importance": 5
   },
   {
+    "title": "Mexican authorities raid hidden crypto mine, suspecting power theft and money laundering",
+    "link": "https://www.theblock.co/news/ecosystems/2026-09-13-mexican-authorities-raid-hidden-crypto-mine-suspecting-power-theft-and-money-laundering-414564",
+    "pubDate": "Sun, 13 Sep 2026 18:29:23 +0000",
+    "source": "The Block",
+    "category": "crypto",
+    "content": "Reuters reported that the site was the fourth crypto farm discovered in the area since early 2025, near a local hydroelectric dam.",
+    "image": "https://www.tbstat.com/wp/uploads/2024/07/20240711_BitcoinMining_News_3-1200x675.jpg",
+    "summary": "",
+    "importance": 5
+  },
+  {
     "title": "Revolut says customer KYC, Bitcoin transaction data exposed after fake request from gov’t domain",
     "link": "https://www.theblock.co/news/business/2026-09-12-revolut-says-customer-kyc-bitcoin-transaction-data-exposed-after-fake-request-from-govt-domain-414516",
     "pubDate": "Sat, 12 Sep 2026 18:57:08 +0000",
@@ -764,17 +763,6 @@
     "category": "crypto",
     "content": "The resulting benchmark is less than half Google's previously reported level, though the two approaches use different accounting methods.",
     "image": "https://www.tbstat.com/wp/uploads/2026/05/20260511_Quantum_News_4-1200x675.jpg",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "Nasdaq to invest $100 million in Kraken parent Payward as firms expand partnership",
-    "link": "https://www.theblock.co/news/deals/2026-09-10-nasdaq-to-invest-100-million-in-kraken-parent-payward-as-firms-expand-partnership-414120",
-    "pubDate": "Thu, 10 Sep 2026 12:53:22 +0000",
-    "source": "The Block",
-    "category": "crypto",
-    "content": "Nasdaq Ventures agreed to invest $100 million in Kraken parent Payward, expanding their tokenized equity infrastructure partnership.",
-    "image": "https://www.tbstat.com/wp/uploads/2025/09/nasdaq-listing-1200x675.jpg",
     "summary": "",
     "importance": 5
   },
@@ -999,6 +987,17 @@
     "importance": 5
   },
   {
+    "title": "What’s behind the AI industry’s latest warnings of doom?",
+    "link": "https://techcrunch.com/2026/09/13/whats-behind-the-ai-industrys-latest-warnings-of-doom/",
+    "pubDate": "Sun, 13 Sep 2026 19:40:15 +0000",
+    "source": "TechCrunch AI",
+    "category": "ai",
+    "content": "On Equity, we discussed the AI industry's latest debate about whether it poses an existential threat to humanity.",
+    "image": "",
+    "summary": "",
+    "importance": 5
+  },
+  {
     "title": "Obama urges Democrats to have a ‘clear plan’ for AI safeguards",
     "link": "https://techcrunch.com/2026/09/13/obama-urges-democrats-to-have-a-clear-plan-for-ai-safeguards/",
     "pubDate": "Sun, 13 Sep 2026 16:30:00 +0000",
@@ -1197,13 +1196,13 @@
     "importance": 5
   },
   {
-    "title": "AI agents are flooding public services with new requests",
-    "link": "https://techcrunch.com/2026/09/10/ai-agents-are-flooding-public-services-with-new-requests/",
-    "pubDate": "Thu, 10 Sep 2026 14:53:50 +0000",
-    "source": "TechCrunch AI",
+    "title": "Trump and Mike Johnson think the AI industry is overreacting",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/994441/trump-mike-johnson-ai-industry-overreacting",
+    "pubDate": "2026-09-13T19:41:48.000Z",
+    "source": "The Verge AI",
     "category": "ai",
-    "content": "“The vast majority of cases we find are people who are entitled to claim for something, claiming for that thing,” the researcher told TechCrunch.",
-    "image": "",
+    "content": "Yesterday, Anthropic CEO Dario Amodei published a lengthy open letter saying it was time to \"pace the frontier\" and slow down AI development. OpenAI's Sam Altman and Elon Musk both agreed, publicly voicing their support on X. Even Alphabet's Demis Hassabis offered tentative support for Amodei's proposal. \nDonald Trump and House Speaker Mike Johnson, however, seem to think the AI executives are being overreactive and fear that a pause could lead to China outpacing the US in the AI race. According to the Financial Times, Trump said \"Look, we're leading China in AI … and, frankly, I want to keep it that way, because whoever wins AI, wins.\"\nJo …\nRead the full story at The Verge.",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STK466_ELECTION_2024_CVirginia_E.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
     "summary": "",
     "importance": 5
   },
@@ -1303,17 +1302,6 @@
     "category": "ai",
     "content": "A new feature coming to Slack will allow you to build interactive reports, polls, dashboards, presentations, microsites, and other tools directly inside a chat. With Slackforce Surfaces, you can describe to Slackbot what you need, and it will use AI to gather information from relevant conversations and connected apps, like Google Drive or Salesforce, to create it.\nOnce Slackbot creates a Surface, you can share it with colleagues and pin it to channels, allowing other people to view it, interact with it, and leave comments. In one example shared by Slack, a user asks Slackbot for help creating an arcade-themed visualization of AI token usage …\nRead the full story at The Verge.",
     "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/IMG_2464.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "Schools are catching on to Big Tech’s playbook",
-    "link": "https://www.theverge.com/policy/993308/computer-science-ai-education-coding-kids",
-    "pubDate": "2026-09-10T19:44:20.000Z",
-    "source": "The Verge AI",
-    "category": "ai",
-    "content": "It's the hot new thing in tech, and it's where all the jobs are. Students who don't learn to use it fall behind. And to help them catch up in time, its creators are graciously providing the resources and curriculum for learning it, often pro bono.\nThat's the narrative AI companies are pitching schools on right now, but according to New York Times education technology reporter Natasha Singer, it's also how the tech industry has built its influence in classrooms for the past 15 years.\nIn a new book, Coding Kids, Singer details how tech companies took a central role in promoting computers and coding skills in education, promising computer sci …\nRead the full story at The Verge.",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STK483_EDUCATION_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
     "summary": "",
     "importance": 5
   },
@@ -1586,6 +1574,18 @@
     "image": "https://www.tbstat.com/wp/uploads/2025/12/CE-1920x1080-1-1200x675.png",
     "summary": "Caroline Ellison, the former CEO of Alameda Research, has joined the nonprofit charity Manifund, a development confirmed by its cofounder Austin Chen. This marks a new professional chapter for a key figure from the firm central to the FTX collapse.",
     "importance": 2,
+    "classified": true
+  },
+  {
+    "title": "Is Clarity dead? A vibes-based analysis: State of Crypto ",
+    "link": "https://www.coindesk.com/policy/2026/09/13/is-clarity-dead-a-vibes-based-analysis-state-of-crypto",
+    "pubDate": "Sun, 13 Sep 2026 18:45:08 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "I dunno, flip a coin.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/bb0e02fe77cc6bb9eae2b1c4887014c319e9800f-4928x2772.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "This article, titled 'Is Clarity dead? A vibes-based analysis: State of Crypto,' provides no actual content or analysis beyond a dismissive 'I dunno, flip a coin.' It offers no substantial information about the state of crypto or Clarity.",
+    "importance": 1,
     "classified": true
   },
   {
