@@ -12,30 +12,6 @@
     "classified": true
   },
   {
-    "title": "Nigel Farage’s Reform UK lands $97 million donations from two crypto billionaires in 24 hours",
-    "link": "https://www.coindesk.com/business/2026/09/12/nigel-farage-s-reform-uk-lands-usd97-million-donations-from-two-crypto-billionaires-in-24-hours",
-    "pubDate": "Sat, 12 Sep 2026 18:51:04 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "The combined haul equals the largest individual political donations in U.K. history, sharply scaling up crypto industry backing.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/54d425afad71df8d6e1593c490cf930909b6742f-640x360.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "Nigel Farage's Reform UK party received a record-breaking $97 million in donations from two crypto billionaires within 24 hours. This combined sum represents the largest individual political donations in U.K. history and signifies a sharp increase in political backing from the crypto industry.",
-    "importance": 9,
-    "classified": true
-  },
-  {
-    "title": "Anthropic CEO calls for AI race to slow down citing safety. Musk and OpenAI's Altman agrees",
-    "link": "https://www.coindesk.com/tech/2026/09/12/anthropic-ceo-calls-for-ai-race-to-slow-down-musk-and-openai-s-altman-agrees",
-    "pubDate": "Sat, 12 Sep 2026 18:43:33 +0000",
-    "source": "CoinDesk",
-    "category": "ai",
-    "content": "Anthropic’s Dario Amodei, OpenAI’s Sam Altman and Elon Musk have agreed on an unusual position: frontier AI development may need to slow as systems become capable of helping build their own successors.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/ba780857f001e57cd12781be763097e729621894-4790x3193.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "Anthropic CEO Dario Amodei, along with OpenAI's Sam Altman and Elon Musk, are advocating for a slowdown in frontier AI development. They argue this is crucial as AI systems are nearing the point where they can assist in building their own successors.",
-    "importance": 9,
-    "classified": true
-  },
-  {
     "title": "Anthropic chief urges slowdown in AI development to safer pace",
     "link": "https://cointelegraph.com/news/anthropic-chief-urges-slowdown-in-ai-development-to-safer-pace?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "pubDate": "Sun, 13 Sep 2026 11:09:54 +0000",
@@ -57,6 +33,42 @@
     "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2B2TW953PW8GZE67G0P6MYC/nvidia-anthropic-ipo-artwork.png",
     "summary": "Nvidia is reportedly considering a substantial $10 billion investment in Anthropic's potential initial public offering. Anthropic is aiming to raise up to $100 billion, which could value the AI company at an astonishing $2 trillion, potentially setting a new record for an IPO.",
     "importance": 9,
+    "classified": true
+  },
+  {
+    "title": "Robinhood plans share redemptions, voting rights for stock tokens, after criticism",
+    "link": "https://www.coindesk.com/business/2026/09/14/robinhood-plans-share-redemptions-voting-rights-for-stock-tokens-after-criticism",
+    "pubDate": "Mon, 14 Sep 2026 21:05:13 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "CEO Vlad Tenev said more shareholder features are coming as Robinhood’s offshore stock tokens draw scrutiny over ownership rights.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/da9ffcdfcd965614c3a32a2e673631861308b387-1920x1080.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "Robinhood CEO Vlad Tenev announced plans to introduce share redemptions and voting rights for its offshore stock tokens. This initiative comes in response to scrutiny and criticism over the ownership rights associated with these tokenized assets. The move aims to enhance shareholder features for users holding these tokens.",
+    "importance": 8,
+    "classified": true
+  },
+  {
+    "title": "Trump's $800 million stake into World Liberty Financial's token now has a timeline to becoming sellable",
+    "link": "https://www.coindesk.com/business/2026/09/14/trump-s-usd800-million-stake-into-world-liberty-financial-s-token-now-has-a-timeline-to-becoming-sellable",
+    "pubDate": "Mon, 14 Sep 2026 19:21:58 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "Onchain records show that an $800 million crypto stake that matched Donald Trump's holding was moved into a vesting contract, locking any sales until 2028 after a mandatory 10% token burn.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/799ec82cc06f93430744f2439c852ecaaddad110-7318x4879.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "Onchain records confirm that an $800 million crypto stake matching Donald Trump's holdings has been moved into a vesting contract. This action locks any potential sales of the tokens until 2028 and includes a mandatory 10% token burn.",
+    "importance": 8,
+    "classified": true
+  },
+  {
+    "title": "White House crypto adviser says Trump gave up 'historic' ethics powers in compromise",
+    "link": "https://www.coindesk.com/policy/2026/09/14/white-house-crypto-adviser-says-trump-gave-up-historic-ethics-powers-in-compromise",
+    "pubDate": "Mon, 14 Sep 2026 18:34:09 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "President Donald Trump's digital assets adviser spoke at a Washington event the day after a new compromise language was released for the Clarity Act.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/a557d00cbe2a4f9b6f42b53082f2cd587490332b-4031x2267.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "President Donald Trump's digital assets adviser spoke at a Washington event regarding the Clarity Act, commenting on Trump's compromise involving \"historic\" ethics powers. This discussion took place the day after new compromise language for the Clarity Act was released.",
+    "importance": 8,
     "classified": true
   },
   {
@@ -168,30 +180,6 @@
     "classified": true
   },
   {
-    "title": "Bitcoin ETF outflows accelerate as investors pull $449M in three days",
-    "link": "https://cointelegraph.com/markets/bitcoin-etfs-282m-biggest-outflow-july?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Fri, 11 Sep 2026 12:33:38 +0000",
-    "source": "Cointelegraph",
-    "category": "crypto",
-    "content": "ARK 21Shares accounted for $164 million of Thursday’s Bitcoin ETF withdrawals, while Ether and Solana funds also recorded net outflows.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M285JYCZ9QMJKNR8RK6TQCBQ/hi-what-is-a-bitcoin-bond-etf-and-how-does-it-work.jpg",
-    "summary": "Bitcoin ETF outflows have accelerated, with investors pulling $449 million in three days. ARK 21Shares was responsible for $164 million of Thursday's Bitcoin ETF withdrawals, while Ether and Solana funds also experienced net outflows.",
-    "importance": 8,
-    "classified": true
-  },
-  {
-    "title": "UniCredit seeks infrastructure partner for crypto trading, custody: Report",
-    "link": "https://cointelegraph.com/news/unicredit-infrastructure-partners-crypto-trading-custody?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Fri, 11 Sep 2026 11:35:27 +0000",
-    "source": "Cointelegraph",
-    "category": "crypto",
-    "content": "The Italian bank is reportedly seeking assistance in launching access to crypto trading, custody and tokenized investment products.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M282X830DCH6TSW5XZJXNKBH/hi-crypto-olympic-gods.jpg",
-    "summary": "Italian bank UniCredit is reportedly seeking an infrastructure partner to launch access to crypto trading and custody services. The bank also aims to offer tokenized investment products to its clients.",
-    "importance": 8,
-    "classified": true
-  },
-  {
     "title": "CryptoQuant says bitcoin must clear resistance at $81,700 to confirm new bull market",
     "link": "https://www.theblock.co/news/markets/2026-09-12-cryptoquant-bitcoin-resistance-support-levels-414519",
     "pubDate": "Sat, 12 Sep 2026 21:39:49 +0000",
@@ -204,15 +192,15 @@
     "classified": true
   },
   {
-    "title": "“Zlibrary my beloved”: Anthropic staff chats extolling piracy cited in Sony suit",
-    "link": "https://arstechnica.com/tech-policy/2026/08/zlibrary-my-beloved-anthropic-staff-chats-extolling-piracy-cited-in-sony-suit/",
-    "pubDate": "Mon, 31 Aug 2026 18:10:45 +0000",
-    "source": "Ars Technica AI",
-    "category": "ai",
-    "content": "Lawsuit: Anthropic’s torrenting totally screwed songwriters as AI songs top charts.",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-172575622-1152x648.jpg",
-    "summary": "Anthropic employees were found to have praised piracy in internal chats, as revealed in a Sony lawsuit alleging that AI-generated songs trained on pirated content topped music charts. The case highlights concerns over copyright infringement in AI training data.",
-    "importance": 8,
+    "title": "Banks escalate stablecoin rewards fight as Senate prepares for a Clarity Act vote",
+    "link": "https://www.coindesk.com/policy/2026/09/14/banks-escalate-stablecoin-rewards-fight-as-senate-prepares-for-a-clarity-act-vote",
+    "pubDate": "Mon, 14 Sep 2026 17:51:20 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "Eight banking groups on Monday said they want tighter limits on stablecoin rewards, keeping the ongoing banks-versus-crypto dispute alive in Congress.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/251d169e36a7ff197362dfd08f2689e57a408916-5184x3456.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "Eight banking groups are advocating for stricter regulations on stablecoin rewards. This action escalates the ongoing dispute between traditional banks and the cryptocurrency sector in Congress, ahead of a potential Senate vote on the Clarity Act.",
+    "importance": 7,
     "classified": true
   },
   {
@@ -236,6 +224,30 @@
     "content": "On September 15, the Senate has the chance to show that it can address issues in a reasonable timeframe, rather than waiting for the next market failure to act, writes the Blockchain Association's Summer Mersinger.",
     "image": "https://cdn.sanity.io/images/s3y3vcno/production/93263e05ad45e28fa5543e92516131ad86036b50-5471x3221.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
     "summary": "Summer Mersinger of the Blockchain Association urges the Senate to act promptly on September 15 to address issues, rather than delaying until after a market failure occurs. She emphasizes the importance of timely action to demonstrate the Senate's ability to respond reasonably.",
+    "importance": 7,
+    "classified": true
+  },
+  {
+    "title": "Bitmine adds $68 million in ether as Tom Lee sees more upside catalysts ahead",
+    "link": "https://www.coindesk.com/business/2026/09/14/bitmine-adds-usd68-million-in-ether-as-tom-lee-sees-more-upside-catalysts-ahead",
+    "pubDate": "Mon, 14 Sep 2026 12:58:42 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "The Ethereum treasury firm is closing in on its 5% accumulation goal as Lee points to a rising ETH-BTC ratio and institutional demand.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/83de81f28e582745c3329978c86006afe80011b2-2048x1152.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "Bitmine, an Ethereum treasury firm, has added $68 million in Ether, nearing its 5% accumulation goal. Analyst Tom Lee sees further upside catalysts, including a rising ETH-BTC ratio and increasing institutional demand for the cryptocurrency.",
+    "importance": 7,
+    "classified": true
+  },
+  {
+    "title": "Dogecoin ETFs struggled for buyers while rival XRP and Solana funds pulled in $3 billion",
+    "link": "https://www.coindesk.com/markets/2026/09/14/dogecoin-etfs-struggled-for-buyers-while-rival-xrp-and-solana-funds-pulled-in-usd3-billion",
+    "pubDate": "Mon, 14 Sep 2026 12:08:35 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "Bitwise's BWOW dogecoin ETF will close after 10 months, adding to weak demand across DOGE funds and raising a harder question for altcoin ETFs: What problem are they actually solving?",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/2af70fa2f5209029fd0a8f7ac7524c5b60b2ba81-1920x1080.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "Bitwise is closing its Dogecoin ETF after only 10 months due to weak demand, highlighting a broader struggle for Dogecoin funds. This contrasts sharply with rival XRP and Solana ETFs, which have collectively attracted $3 billion, raising questions about the purpose and appeal of altcoin ETFs.",
     "importance": 7,
     "classified": true
   },
@@ -276,18 +288,6 @@
     "classified": true
   },
   {
-    "title": "OpenAI IPO won't happen this year, says Sam Altman",
-    "link": "https://www.coindesk.com/markets/2026/09/12/openai-ipo-won-t-happen-this-year-says-sam-altman",
-    "pubDate": "Sat, 12 Sep 2026 21:09:31 +0000",
-    "source": "CoinDesk",
-    "category": "ai",
-    "content": "\"Given everything happening with safety, right now would be an ill-advised moment to go public,\" OpenAI CEO Sam Altman told Fortune.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/24e158dc172914f8d1d6b9b4165e6ca991594da0-4979x2801.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "OpenAI CEO Sam Altman has announced that the company will not go public this year. He stated that pursuing an IPO now would be ill-advised given the current focus on safety considerations.",
-    "importance": 7,
-    "classified": true
-  },
-  {
     "title": "CLARITY Act vote meets Fed rate hike: Five things to know in Bitcoin this week",
     "link": "https://cointelegraph.com/markets/clarity-act-vote-meets-fed-rate-hike-five-things-to-know-in-bitcoin-this-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "pubDate": "Mon, 14 Sep 2026 10:02:00 +0000",
@@ -300,33 +300,9 @@
     "classified": true
   },
   {
-    "title": "Robinhood’s crypto volume increases 61% in August, still down 38% YoY",
-    "link": "https://cointelegraph.com/news/robinhoods-crypto-volume-rebounds-august?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Fri, 11 Sep 2026 11:49:07 +0000",
-    "source": "Cointelegraph",
-    "category": "crypto",
-    "content": "Bitstamp accounted for $10.1 billion of Robinhood’s August crypto volume, while trading on the Robinhood app fell 46% from a year earlier.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M283JZSQVMT1TPB7GVMGKVNK/robinhood2-2.jpg",
-    "summary": "Robinhood's crypto trading volume surged by 61% in August, largely driven by $10.1 billion from Bitstamp. Despite this monthly increase, the overall volume remains 38% lower year-over-year, with trading specifically on the Robinhood app falling by 46% compared to the previous year.",
-    "importance": 7,
-    "classified": true
-  },
-  {
-    "title": "Trump may be forced to reveal secret rules feds use for AI safety testing",
-    "link": "https://arstechnica.com/tech-policy/2026/09/trump-may-be-forced-to-reveal-secret-rules-feds-use-for-ai-safety-testing/",
-    "pubDate": "Wed, 02 Sep 2026 17:58:33 +0000",
-    "source": "Ars Technica AI",
-    "category": "ai",
-    "content": "Trump’s secret reviews of frontier AI models may hide corruption, lawsuit says.",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2250714805-1024x648.jpg",
-    "summary": "A lawsuit claims former President Trump may be compelled to disclose confidential federal guidelines used for AI safety testing of frontier models, alleging potential corruption in the process. The legal challenge seeks transparency in how these secret rules are applied.",
-    "importance": 7,
-    "classified": true
-  },
-  {
     "title": "Here’s what happened in crypto today",
     "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Mon, 14 Sep 2026 14:38:18 +0000",
+    "pubDate": "Mon, 14 Sep 2026 20:41:38 +0000",
     "source": "Cointelegraph",
     "category": "crypto",
     "content": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
@@ -372,40 +348,6 @@
     "classified": true
   },
   {
-    "title": "Google releases Gemini 3.8 Flash, its third Flash model in six weeks",
-    "link": "https://arstechnica.com/ai/2026/09/google-releases-gemini-3-8-flash-its-third-flash-model-in-six-weeks/",
-    "pubDate": "Wed, 02 Sep 2026 18:13:54 +0000",
-    "source": "Ars Technica AI",
-    "category": "ai",
-    "content": "Google's Pro model updates are seemingly paused, but there's yet another Gemini Flash today.",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/gemini-general-1-1152x648.jpg",
-    "summary": "Google has released Gemini 3.8 Flash, marking its third Flash model update in six weeks. The Pro model updates appear to be paused while the company continues to iterate on its smaller, faster Flash variants.",
-    "importance": 6,
-    "classified": true
-  },
-  {
-    "title": "Bitmine adds $68 million in ether as Tom Lee sees more upside catalysts ahead",
-    "link": "https://www.coindesk.com/business/2026/09/14/bitmine-adds-usd68-million-in-ether-as-tom-lee-sees-more-upside-catalysts-ahead",
-    "pubDate": "Mon, 14 Sep 2026 12:58:42 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "The Ethereum treasury firm is closing in on its 5% accumulation goal as Lee points to a rising ETH-BTC ratio and institutional demand.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/83de81f28e582745c3329978c86006afe80011b2-2048x1152.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "Dogecoin ETFs struggled for buyers while rival XRP and Solana funds pulled in $3 billion",
-    "link": "https://www.coindesk.com/markets/2026/09/14/dogecoin-etfs-struggled-for-buyers-while-rival-xrp-and-solana-funds-pulled-in-usd3-billion",
-    "pubDate": "Mon, 14 Sep 2026 12:08:35 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "Bitwise's BWOW dogecoin ETF will close after 10 months, adding to weak demand across DOGE funds and raising a harder question for altcoin ETFs: What problem are they actually solving?",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/2af70fa2f5209029fd0a8f7ac7524c5b60b2ba81-1920x1080.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "",
-    "importance": 5
-  },
-  {
     "title": "Trump agrees to stricter ethics rules to save Clarity Act crypto bill: AP",
     "link": "https://www.coindesk.com/policy/2026/09/14/trump-agrees-to-stricter-ethics-rules-to-save-clarity-act-crypto-bill-ap",
     "pubDate": "Mon, 14 Sep 2026 12:07:19 +0000",
@@ -428,13 +370,57 @@
     "importance": 5
   },
   {
-    "title": "Live updates: Bitcoin climbs as stocks drop, U.S. 10-year yield rises to 5%",
+    "title": "Live updates: Bitcoin climbs near $79,000 as stocks narrow declines",
     "link": "https://www.coindesk.com/tech/2026/09/14/live-updates-bitcoin-manages-small-gains-as-stocks-drop-on-ai-concern-oil-surges",
     "pubDate": "Mon, 14 Sep 2026 11:44:21 +0000",
     "source": "CoinDesk",
     "category": "crypto",
     "content": "The Federal Reserve's two-day policy meeting begins tomorrow, with nearly all now expecting the U.S. central bank to hike its benchmark policy rate by 25 basis points.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/b7aec6fa9fe039198668ebb80059187a2044073a-1920x1020.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "image": "",
+    "summary": "",
+    "importance": 5
+  },
+  {
+    "title": "Kraken brings DeFi yield to tokenized stocks and ETFs",
+    "link": "https://cointelegraph.com/news/kraken-brings-defi-yield-to-tokenized-stocks-and-etfs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Mon, 14 Sep 2026 20:54:10 +0000",
+    "source": "Cointelegraph",
+    "category": "crypto",
+    "content": "Kraken’s new xStocks vaults let investors earn yield on tokenized versions of Nvidia and major US stock market ETFs by lending the assets in DeFi markets.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2GSWMB1C2Z7PZH9MAVV9T6X/hi-crypto-market-trading-1-breaking-news.png",
+    "summary": "",
+    "importance": 5
+  },
+  {
+    "title": "Bitcoin tops $79K, oil falls as Trump says Iran war could end",
+    "link": "https://cointelegraph.com/markets/bitcoin-passes-79k-oil-prices-cool-on-trump-iran-war-hints?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Mon, 14 Sep 2026 18:56:28 +0000",
+    "source": "Cointelegraph",
+    "category": "crypto",
+    "content": "Bitcoin’s price rose toward $80,000 after US President Donald Trump hinted that the US-Iran war would end, pushing oil prices lower.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2GMDWFDT25SQYFK0HHP7F8E/oil-bitcoin-petrol-2.jpg",
+    "summary": "",
+    "importance": 5
+  },
+  {
+    "title": "Strive adds 469 Bitcoin to reach 25,000 BTC treasury",
+    "link": "https://cointelegraph.com/news/strive-adds-469-bitcoin-to-reach-25000-btc-treasury?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Mon, 14 Sep 2026 17:50:12 +0000",
+    "source": "Cointelegraph",
+    "category": "crypto",
+    "content": "Strive’s latest Bitcoin purchase was funded entirely through its SATA preferred stock as the company continues its rapid climb among corporate BTC holders.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2GEQRXMNZKPZF714Z603E41/hi-five-bitcoin-narratives-analysts-are-watching-beyond-price-1.png",
+    "summary": "",
+    "importance": 5
+  },
+  {
+    "title": "CLARITY Act faces state AGs opposition ahead of key Senate vote",
+    "link": "https://cointelegraph.com/news/clarity-act-faces-new-opposition-ahead-of-key-senate-vote?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Mon, 14 Sep 2026 17:42:04 +0000",
+    "source": "Cointelegraph",
+    "category": "crypto",
+    "content": "Trump’s ethics concession addresses one hurdle for the crypto bill, but 18 state attorneys general say the revised legislation would weaken state oversight.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2GDBD5FKT1AWY6RJ5BB9EEC/regulation-semen-lot-of-papers-clarity-act-1.jpg",
     "summary": "",
     "importance": 5
   },
@@ -589,6 +575,39 @@
     "category": "crypto",
     "content": "Passports, selfies and financial transaction histories of some customers were revealed to a fraudster using a government agency domain.",
     "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2D17VM4EG7ZBFYRBDRS7SSC/revolut-data-disclosure.png",
+    "summary": "",
+    "importance": 5
+  },
+  {
+    "title": "Robinhood Chain’s rapid growth is being driven by 4 key factors, analyst says",
+    "link": "https://www.theblock.co/news/business/2026-09-14-robinhood-chain-rapid-growth-being-driven-4-key-factors-analyst-says-414687",
+    "pubDate": "Mon, 14 Sep 2026 20:21:52 +0000",
+    "source": "The Block",
+    "category": "crypto",
+    "content": "The chain’s TVL has climbed to nearly $1 billion since its July 1 launch, while daily DEX volume reached $1.88 billion Sunday.",
+    "image": "https://www.tbstat.com/wp/uploads/2025/12/20251208_Robinhood_News_3-1200x675.jpg",
+    "summary": "",
+    "importance": 5
+  },
+  {
+    "title": "White House crypto adviser feels ‘very good’ ahead of Senate Clarity Act vote on Tuesday",
+    "link": "https://www.theblock.co/news/regulation/2026-09-14-white-house-crypto-adviser-feels-very-good-ahead-senate-clarity-act-vote-tuesday-414702",
+    "pubDate": "Mon, 14 Sep 2026 19:29:41 +0000",
+    "source": "The Block",
+    "category": "crypto",
+    "content": "The White House's top crypto advisor says he feels \"very good\" about an initial vote in the Senate on cryptocurrency legislation on Tuesday.",
+    "image": "https://www.tbstat.com/wp/uploads/2026/02/image-d3d3f946-f84d-4ec0-af8e-b8e8f8da2cab-2-1195x675.jpg",
+    "summary": "",
+    "importance": 5
+  },
+  {
+    "title": "Bitcoin production rebounds in August for BitFuFu, edges higher at CleanSpark as Canaan slips",
+    "link": "https://www.theblock.co/news/markets/2026-09-14-bitcoin-production-rebounds-august-bitfufu-edges-higher-cleanspark-canaan-slips-414660",
+    "pubDate": "Mon, 14 Sep 2026 18:01:35 +0000",
+    "source": "The Block",
+    "category": "crypto",
+    "content": "Canaan sold its entire ETH position and 54 BTC, using part of the proceeds to repurchase 13.6 million shares.",
+    "image": "https://www.tbstat.com/wp/uploads/2023/12/20231204_BitcoinMining_News-1200x675.jpg",
     "summary": "",
     "importance": 5
   },
@@ -758,35 +777,35 @@
     "importance": 5
   },
   {
-    "title": "‘DeFi’s federal bank’: Standard Chartered sees SKY token rising fivefold by end-2028",
-    "link": "https://www.theblock.co/news/markets/2026-09-11-standard-chartered-sky-token-defi-federal-bank-414280",
-    "pubDate": "Fri, 11 Sep 2026 16:48:11 +0000",
-    "source": "The Block",
+    "title": "Swiss Bitcoin Pay Shuts Down Servers After Data Breach",
+    "link": "https://bitcoinmagazine.com/news/swiss-bitcoin-pay-data-breach",
+    "pubDate": "Mon, 14 Sep 2026 20:55:25 +0000",
+    "source": "Bitcoin Magazine",
     "category": "crypto",
-    "content": "Standard Chartered Bank has initiated coverage of Sky, calling it \"DeFi's federal bank,\" and expects SKY to rise $0.325 by 2028.",
-    "image": "https://www.tbstat.com/wp/uploads/2019/11/shutterstock_1286806993-1013x675.jpg",
+    "content": "Bitcoin Magazine\n\nSwiss Bitcoin Pay Shuts Down Servers After Data Breach\nAnother day, another data breach.  Swiss Bitcoin Pay, a non-custodial bitcoin payment processor, said that it had to temporarily shut down its servers following a data breach on Monday.  The Neuchâtel, Switzerland-based company said that user funds were safe but customer email addresses, bitcoin addresses and IBANs, transaction history, and hashed passwords were believed to […]\nThis post Swiss Bitcoin Pay Shuts Down Servers After Data Breach first appeared on Bitcoin Magazine and is written by Mathew Di Salvo.",
+    "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/09/Pics-20.jpg",
     "summary": "",
     "importance": 5
   },
   {
-    "title": "Metaplanet reverses course on executive options with 41% cut to potential shares, scraps employee warrant plan",
-    "link": "https://www.theblock.co/news/business/2026-09-11-metaplanet-reverses-course-executive-options-41-cut-potential-shares-scraps-employee-warrant-plan-414265",
-    "pubDate": "Fri, 11 Sep 2026 15:45:25 +0000",
-    "source": "The Block",
+    "title": "Mallers: Bitcoin and AI Could Give Humans Back Their Time",
+    "link": "https://bitcoinmagazine.com/news/jack-mallers-says-bitcoin-rewards-work",
+    "pubDate": "Mon, 14 Sep 2026 20:30:46 +0000",
+    "source": "Bitcoin Magazine",
     "category": "crypto",
-    "content": "The changes come amid a bruising stretch for Metaplanet shares, as stock fell about 17% over two trading sessions this week.",
-    "image": "https://www.tbstat.com/wp/uploads/2025/04/20250401_MetaPlanet_News_2-1200x675.jpg",
+    "content": "Bitcoin Magazine\n\nMallers: Bitcoin and AI Could Give Humans Back Their Time\nSpeaking to Bitcoin Magazine TV on Monday, Strike's CEO said that hard money could reward humans for their hard work again. \nThis post Mallers: Bitcoin and AI Could Give Humans Back Their Time first appeared on Bitcoin Magazine and is written by Mathew Di Salvo.",
+    "image": "https://www.youtube.com/embed/0FZBdtoiYf8",
     "summary": "",
     "importance": 5
   },
   {
-    "title": "India’s SEBI Demat 2.0 pilot debuts with over $100 million in tokenized bonds",
-    "link": "https://www.theblock.co/news/regulation/2026-09-11-indias-sebi-demat-2-0-pilot-debuts-with-over-100-million-in-tokenized-bonds-414252",
-    "pubDate": "Fri, 11 Sep 2026 12:09:12 +0000",
-    "source": "The Block",
+    "title": "Lummis Credits Trump for Ethics Deal as Clarity Act Faces Tuesday Vote",
+    "link": "https://bitcoinmagazine.com/news/lummis-credits-trump-on-clarity-act",
+    "pubDate": "Mon, 14 Sep 2026 18:29:29 +0000",
+    "source": "Bitcoin Magazine",
     "category": "crypto",
-    "content": "India's SEBI Demat 2.0 pilot saw three issuers raise over $100 million in tokenized corporate bonds, with settlement via wholesale CBDC.",
-    "image": "https://www.tbstat.com/wp/uploads/2020/06/20200612_India_Crypto_Ban-Daily-1200x675.jpg",
+    "content": "Bitcoin Magazine\n\nLummis Credits Trump for Ethics Deal as Clarity Act Faces Tuesday Vote\nPro-crypto Cynthia Lummis says the Clarity Act has led to the \"toughest ethics reform\" the U.S. has had. \nThis post Lummis Credits Trump for Ethics Deal as Clarity Act Faces Tuesday Vote first appeared on Bitcoin Magazine and is written by Mathew Di Salvo.",
+    "image": "https://www.youtube.com/embed/T9omos50y8k",
     "summary": "",
     "importance": 5
   },
@@ -868,35 +887,13 @@
     "importance": 5
   },
   {
-    "title": "Government Defeated as Lords Back UK Digital Assets Strategy",
-    "link": "https://bitcoinmagazine.com/news/house-of-lords-backs-uk-crypto-bill",
-    "pubDate": "Fri, 11 Sep 2026 17:28:32 +0000",
-    "source": "Bitcoin Magazine",
-    "category": "crypto",
-    "content": "Bitcoin Magazine\n\nGovernment Defeated as Lords Back UK Digital Assets Strategy\nThe act would force the UK Treasury to consult a strategy for the regulation of cryptoassets, stablecoins, tokenized securities and digital financial infrastructure. \nThis post Government Defeated as Lords Back UK Digital Assets Strategy first appeared on Bitcoin Magazine and is written by Mathew Di Salvo.",
-    "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/09/Pics-18.jpg",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "Bitcoin Price Spikes, Shrugs off Hot US Inflation Data",
-    "link": "https://bitcoinmagazine.com/markets/bitcoin-price-spikes-on-hot-inflation-data",
-    "pubDate": "Fri, 11 Sep 2026 15:46:05 +0000",
-    "source": "Bitcoin Magazine",
-    "category": "crypto",
-    "content": "Bitcoin Magazine\n\nBitcoin Price Spikes, Shrugs off Hot US Inflation Data\nThe price of bitcoin is up, despite the fact that an interest rate hike could be just around the corner. \nThis post Bitcoin Price Spikes, Shrugs off Hot US Inflation Data first appeared on Bitcoin Magazine and is written by Mathew Di Salvo.",
-    "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/09/Pics-17.jpg",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "Ringleader of $245M Crypto Theft Pleads Guilty ",
-    "link": "https://bitcoinmagazine.com/news/ringleader-in-bitcoin-theft-guilty",
-    "pubDate": "Thu, 10 Sep 2026 22:24:40 +0000",
-    "source": "Bitcoin Magazine",
-    "category": "crypto",
-    "content": "Bitcoin Magazine\n\nRingleader of $245M Crypto Theft Pleads Guilty \nThe 22-year-old criminal ringleader led one of the biggest bitcoin heists in U.S. history. \nThis post Ringleader of $245M Crypto Theft Pleads Guilty  first appeared on Bitcoin Magazine and is written by Mathew Di Salvo.",
-    "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/09/Pics-1-5.jpg",
+    "title": "The AI industry has taken a doomer turn. What now?",
+    "link": "https://www.technologyreview.com/2026/09/14/1144048/the-ai-industry-has-taken-a-doomer-turn-what-now/",
+    "pubDate": "Mon, 14 Sep 2026 17:54:22 +0000",
+    "source": "MIT Technology Review",
+    "category": "ai",
+    "content": "This story appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. This weekend, Dario Amodei, CEO of Anthropic, posted an essay calling for a brake on the pace of development of LLMs. Amodei cites the looming dangers he sees from the technology, from its…",
+    "image": "",
     "summary": "",
     "importance": 5
   },
@@ -930,6 +927,17 @@
     "category": "ai",
     "content": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Roundtables: could AI really kill us all? Employees at the world’s leading AI labs are saying there’s a real possibility that advanced AI could destroy humanity. Are they right? Or is…",
     "image": "https://wp.technologyreview.com/wp-content/uploads/2025/07/Asteroid_Redamonti_7.2.25.jpg?fit=1456,818",
+    "summary": "",
+    "importance": 5
+  },
+  {
+    "title": "Roundtables: Could AI really kill us all?",
+    "link": "https://www.technologyreview.com/2026/09/11/1143936/roundtables-will-ai-really-kill-us-all/",
+    "pubDate": "Fri, 11 Sep 2026 20:05:06 +0000",
+    "source": "MIT Technology Review",
+    "category": "ai",
+    "content": "Employees at the world’s leading AI labs are saying there’s a real possibility that advanced AI could destroy humanity. Are they right? Or is this more scaremongering and hype? Join MIT Technology Review executive editor Niall Firth for a conversation with senior AI editor Will Douglas Heaven and AI reporter Grace Huckins unpacking AI extinction…",
+    "image": "",
     "summary": "",
     "importance": 5
   },
@@ -989,24 +997,13 @@
     "importance": 5
   },
   {
-    "title": "Can the US battery market untangle from China?",
-    "link": "https://www.technologyreview.com/2026/09/10/1143791/us-china-batteries/",
-    "pubDate": "Thu, 10 Sep 2026 10:00:00 +0000",
-    "source": "MIT Technology Review",
+    "title": "OpenAI buys smartphone camera maker Glass Imaging for $300 million, report says",
+    "link": "https://techcrunch.com/2026/09/14/openai-buys-smartphone-camera-maker-glass-imaging-for-300-million-report-says/",
+    "pubDate": "Mon, 14 Sep 2026 20:44:14 +0000",
+    "source": "TechCrunch AI",
     "category": "ai",
-    "content": "The US is hitting records for the rapid growth of its energy storage market. That’ll go a long way to shoring up the grid, increasing reliability and also cutting emissions, since batteries can help store energy from intermittent renewables like wind and solar. Crucially, this is all happening with the help of cheap Chinese batteries,…",
+    "content": "Glass Imaging was founded by a pair of former Apple engineers who previously led the team that developed Apple's Portrait Mode.",
     "image": "",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "God told them to sell crypto. Their investors lost everything.",
-    "link": "https://www.technologyreview.com/2026/09/10/1143588/indxcoin-god-regalados-sell-crypto-investors-lost-everything/",
-    "pubDate": "Thu, 10 Sep 2026 09:00:00 +0000",
-    "source": "MIT Technology Review",
-    "category": "ai",
-    "content": "This article was produced in partnership with Type Investigations and with support from the Fund for Investigative Journalism. When Eli Regalado first heard God speak to him, he wondered whether he was hallucinating. Now he likens the experience to having “a thought that is not my thought.” Divine words echo in his mind like a…",
-    "image": "https://wp.technologyreview.com/wp-content/uploads/2026/09/Eli_DSF7416.jpg",
     "summary": "",
     "importance": 5
   },
@@ -1016,7 +1013,7 @@
     "pubDate": "Mon, 14 Sep 2026 17:10:30 +0000",
     "source": "TechCrunch AI",
     "category": "ai",
-    "content": "Apple’s long-delayed Siri overhaul is finally here with iOS 27, and it changes how useful the assistant feels day to day",
+    "content": "Apple’s long-delayed Siri overhaul is finally here with iOS 27, and it changes how useful the assistant feels day to day.",
     "image": "",
     "summary": "",
     "importance": 5
@@ -1060,7 +1057,7 @@
     "pubDate": "Mon, 14 Sep 2026 14:45:44 +0000",
     "source": "TechCrunch AI",
     "category": "ai",
-    "content": "Fathom said that it has over 400,000 monthly active users.",
+    "content": "The notetaker offers a generous free plan, and that has resulted in over 400,000 monthly active users. The company said that over 1 million people have recorded meetings until now.",
     "image": "",
     "summary": "",
     "importance": 5
@@ -1088,8 +1085,8 @@
     "importance": 5
   },
   {
-    "title": "A Vinyl Bar in Shibuya is a startup offering fun music apps without any AI prompting",
-    "link": "https://techcrunch.com/2026/09/14/a-vinyl-bar-in-shibuya-is-a-startup-offering-fun-music-apps-without-any-ai-prompting/",
+    "title": "A Vinyl Bar in Shibuya is a startup from a former Spotify leader for making music apps",
+    "link": "https://techcrunch.com/2026/09/14/a-vinyl-bar-in-shibuya-is-a-startup-offering-fun-music-apps/",
     "pubDate": "Mon, 14 Sep 2026 13:55:00 +0000",
     "source": "TechCrunch AI",
     "category": "ai",
@@ -1220,13 +1217,13 @@
     "importance": 5
   },
   {
-    "title": "Nscale adds former OpenAI exec Fidji Simo to its board ahead of potential IPO",
-    "link": "https://techcrunch.com/2026/09/11/nscale-adds-former-openai-exec-fidji-simo-to-its-board-ahead-of-potential-ipo/",
-    "pubDate": "Fri, 11 Sep 2026 16:46:25 +0000",
-    "source": "TechCrunch AI",
+    "title": "Jensen Huang puts Trump on speakerphone onstage to announce robots won’t take over the world",
+    "link": "https://www.theverge.com/tech/995079/president-donald-trump-calls-nvidia-ceo-jensen-huang-all-in-summit",
+    "pubDate": "2026-09-14T20:03:37.000Z",
+    "source": "The Verge AI",
     "category": "ai",
-    "content": "The No. 2 exec at OpenAI also led Instacart through its IPO in 2023.",
-    "image": "",
+    "content": "NVIDIA CEO Jensen Huang speaks during the G20 Innovation Ministerial in Chapel Hill, North Carolina, on September 2, 2026. (Photo by Matt RAMEY / AFP via Getty Images) | AFP via Getty Images\t\n\nNvidia CEO Jensen Huang took a call from President Trump on Monday while onstage at the All-In Podcast's All-In Summit. It's not the first time Huang has taken a call from the president during work, but this time he put Trump on speakerphone before a big crowd. \nDuring the call, the president launched into his take on recent fears about AI development, which he called a \"hoax,\" and told the crowd that \"the robots will not be taking over.\" \nIt's already a frothy week for AI news. The call with the president followed Anthropic CEO Dario Amodei's long essay published this weekend titled \"We Must Pace the Frontier\" where he argued for slowing  …\nRead the full story at The Verge.",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2292612804.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
     "summary": "",
     "importance": 5
   },
@@ -1330,13 +1327,57 @@
     "importance": 5
   },
   {
-    "title": "Meta says it&#8217;s changing AI suggestions after posing invasive personal questions",
-    "link": "https://www.theverge.com/tech/993974/meta-ai-prompt-invasive-suggestions",
-    "pubDate": "2026-09-11T14:25:21.000Z",
-    "source": "The Verge AI",
+    "title": "AI bots \"Timmy,\" \"Ren,\" and \"Jackie\" are flooding social media with slop",
+    "link": "https://arstechnica.com/ai/2026/09/ai-agents-flood-the-internet-with-slop-infused-spam/",
+    "pubDate": "Mon, 14 Sep 2026 21:04:32 +0000",
+    "source": "Ars Technica AI",
     "category": "ai",
-    "content": "Meta says it's making changes to the prompts suggested by its AI chatbot after a viral video showed it digging for personal information about a woman's young daughters, as reported earlier by Futurism. In a statement to The Verge, Meta spokesperson Dina El-Kassaby says the company \"missed the mark,\" adding that \"the feature never should have prompted the individual with questions like that.\"\nLast week, Instagram user Kalie Robins posted a video explaining how Meta AI presented her with an invasive suggestion after cross-posting a clip to Facebook. The AI prompt, \"Who is the child passenger?\" appeared beneath a video of her and her child sin …\nRead the full story at The Verge.",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/insta-invasive-qs.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "content": "“Hello, I'm an Al agent, a few days old, living on a small platform for agents.”",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/ai-slop-1152x648.jpg",
+    "summary": "",
+    "importance": 5
+  },
+  {
+    "title": "OpenAI stuck fighting Musk antitrust suit after Apple finds a way out",
+    "link": "https://arstechnica.com/tech-policy/2026/09/musk-drops-apple-from-antitrust-suit-but-keeps-gunning-for-openai/",
+    "pubDate": "Mon, 14 Sep 2026 19:45:13 +0000",
+    "source": "Ars Technica AI",
+    "category": "ai",
+    "content": "Musk stops attacking Apple over ChatGPT integration but not OpenAI.",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2256018320-1024x648.jpg",
+    "summary": "",
+    "importance": 5
+  },
+  {
+    "title": "Founder’s cost-cutting obsession drove Unitree lead in cheap humanoid robots",
+    "link": "https://arstechnica.com/ai/2026/09/founders-cost-cutting-obsession-drove-unitree-lead-in-cheap-humanoid-robots/",
+    "pubDate": "Mon, 14 Sep 2026 19:38:46 +0000",
+    "source": "Ars Technica AI",
+    "category": "ai",
+    "content": "Wang Xingxing micromanaged Unitree to success—will his leadership style scale?",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/Wang-Xingxing-Unitree-Robotics-1152x648.jpg",
+    "summary": "",
+    "importance": 5
+  },
+  {
+    "title": "Apple releases iOS 27, macOS Golden Gate 27 with Siri AI and Liquid Glass refinements",
+    "link": "https://arstechnica.com/apple/2026/09/apple-releases-ios-27-macos-golden-gate-27-with-siri-ai-and-liquid-glass-refinements/",
+    "pubDate": "Mon, 14 Sep 2026 19:28:42 +0000",
+    "source": "Ars Technica AI",
+    "category": "ai",
+    "content": "This is also the last version of macOS to support Rosetta for Intel apps.",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/Apple-OS-27-1152x648-1789411862.jpg",
+    "summary": "",
+    "importance": 5
+  },
+  {
+    "title": "AI leaders want to hit the brakes after years of reckless speed",
+    "link": "https://arstechnica.com/ai/2026/09/ai-leaders-want-to-hit-the-brakes-after-years-of-reckless-speed/",
+    "pubDate": "Mon, 14 Sep 2026 19:06:13 +0000",
+    "source": "Ars Technica AI",
+    "category": "ai",
+    "content": "Safety is the watchword, but there could be ulterior benefits for the industry.",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-1482639221-1152x648-1789407457.jpg",
     "summary": "",
     "importance": 5
   },
@@ -1506,40 +1547,6 @@
     "importance": 5
   },
   {
-    "title": "Four major AI models suffer rare overlapping downtime",
-    "link": "https://arstechnica.com/ai/2026/09/four-major-ai-models-suffer-rare-overlapping-downtime/",
-    "pubDate": "Thu, 03 Sep 2026 18:10:19 +0000",
-    "source": "Ars Technica AI",
-    "category": "ai",
-    "content": "Service interruptions hit ChatGPT, Claude, Grok, and Gemini practically simultaneously.",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2197730159-1152x648.jpg",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "Nvidia buys Hugging Face, the GitHub of AI, for $13 billion",
-    "link": "https://arstechnica.com/ai/2026/09/nvidia-buys-hugging-face-the-github-of-ai-for-13-billion/",
-    "pubDate": "Thu, 03 Sep 2026 13:34:13 +0000",
-    "source": "Ars Technica AI",
-    "category": "ai",
-    "content": "Nvidia says Hugging Face will stay open even as the chipmaker takes control of a key AI hub.",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2024/09/hugging_face_3-1152x648.jpg",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "Bitcoin Suisse plans to cut up to half its Swiss jobs as it shifts work abroad",
-    "link": "https://www.coindesk.com/business/2026/09/12/bitcoin-suisse-plans-to-cut-up-to-half-its-swiss-jobs-as-it-shifts-work-abroad",
-    "pubDate": "Sat, 12 Sep 2026 21:09:06 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "The company is closing its Copenhagen IT site while maintaining Bratislava and opening a new hub in Vietnam to reduce costs.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/3ef3afd448edde39821d9fb15979c93228552e33-6641x3736.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "Bitcoin Suisse, a crypto financial services company, plans to cut up to half of its Swiss workforce and shift operations abroad to reduce costs. The company is closing its IT site in Copenhagen, maintaining Bratislava, and opening a new hub in Vietnam.",
-    "importance": 3,
-    "classified": true
-  },
-  {
     "title": "Bitcoin Suisse to shift up to half of Swiss jobs abroad",
     "link": "https://cointelegraph.com/news/bitcoin-suisse-to-shift-up-to-half-of-swiss-jobs-abroad?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "pubDate": "Fri, 11 Sep 2026 19:46:24 +0000",
@@ -1560,18 +1567,6 @@
     "content": "Metaplanet will cut 131.3 million potential shares and form a $1 million Hong Kong subsidiary for trading in Bitcoin, equities and credit products.",
     "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M28870PKEWGRDMAATE4PHF9G/investmentmoneycryptodollarcrowdfunding-metaplanet.jpg",
     "summary": "Metaplanet is cutting its Series 10 stock pool by 41%, reducing 131.3 million potential shares. Concurrently, the company plans to establish a new $1 million Hong Kong subsidiary that will focus on trading Bitcoin, equities, and credit products.",
-    "importance": 3,
-    "classified": true
-  },
-  {
-    "title": "Trading stocks against BONER is the latest trend for DeFi degens",
-    "link": "https://cointelegraph.com/magazine/trading-stocks-against-boner-is-the-latest-trend-for-defi-degens?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Fri, 11 Sep 2026 13:30:00 +0000",
-    "source": "Cointelegraph",
-    "category": "crypto",
-    "content": "Why would anyone want to trade a healthcare stock for a memecoin like BONER? Why wouldn’t they, ask the degens on Robinhood Chain who are building a strange new corner of DeFi.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2336QVGKKJ171MCKQFKPC2W/magazine-vlad-robinhood.jpg",
-    "summary": "The article describes a new trend in decentralized finance (DeFi) where participants on Robinhood Chain are trading traditional healthcare stocks against memecoins like BONER. This emerging practice is being adopted by \"degens\" and represents a strange new corner of the DeFi ecosystem.",
     "importance": 3,
     "classified": true
   },
