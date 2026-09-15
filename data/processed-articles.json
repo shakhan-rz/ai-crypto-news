@@ -36,6 +36,30 @@
     "classified": true
   },
   {
+    "title": "Even if Clarity fails, Wall Street’s crypto push is unlikely to stop",
+    "link": "https://www.coindesk.com/policy/2026/09/14/even-if-clarity-fails-wall-street-s-crypto-push-is-unlikely-to-stop",
+    "pubDate": "Mon, 14 Sep 2026 23:43:28 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "The Clarity Act could give banks, brokers and asset managers a clearer rulebook, but financial firms have already moved far enough into digital assets that failure may slow adoption rather than stop it.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/d0183643376c63d3344b437b12fb69486c8bd450-1500x996.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "The Clarity Act aims to provide a clearer regulatory framework for Wall Street's involvement in digital assets. However, the article suggests that even if the act fails to pass, financial firms have already invested too heavily in digital assets for adoption to stop entirely, merely slowing its pace.",
+    "importance": 8,
+    "classified": true
+  },
+  {
+    "title": "SEC's Atkins backs Clarity Act but says agency will keep pushing crypto rules without it",
+    "link": "https://www.coindesk.com/policy/2026/09/14/sec-s-atkins-backs-clarity-act-but-says-agency-will-keep-pushing-crypto-rules-without-it",
+    "pubDate": "Mon, 14 Sep 2026 23:30:40 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "The SEC chair said crypto issuance, transfer agent modernization and custody will form the backbone of the agency’s regulatory push.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/f5e51d142f4aa8a9a66d07435fa821e33f12872b-4858x2733.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "SEC chair Atkins voiced support for the Clarity Act but affirmed that the agency will continue its efforts to implement crypto regulations regardless. The SEC's regulatory focus will primarily target crypto issuance, the modernization of transfer agents, and custody. This signals the SEC's unwavering commitment to establishing a comprehensive regulatory framework for digital assets.",
+    "importance": 8,
+    "classified": true
+  },
+  {
     "title": "Robinhood plans share redemptions, voting rights for stock tokens, after criticism",
     "link": "https://www.coindesk.com/business/2026/09/14/robinhood-plans-share-redemptions-voting-rights-for-stock-tokens-after-criticism",
     "pubDate": "Mon, 14 Sep 2026 21:05:13 +0000",
@@ -128,30 +152,6 @@
     "content": "Blockchains don’t need quantum computers to be quantum-safe, argues Optimum co-founder and MIT professor Muriel Médard. Classic math already gives us the tools.",
     "image": "https://cdn.sanity.io/images/s3y3vcno/production/49c14a849cd698ca328264f8336914c0c5e41c33-8000x4500.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
     "summary": "Muriel Médard, co-founder of Optimum and an MIT professor, argues that blockchains can achieve quantum-safety using classic mathematical tools, rather than requiring quantum computers. This perspective suggests that the solution to quantum threats for blockchains lies in existing cryptographic principles, not new quantum machines.",
-    "importance": 8,
-    "classified": true
-  },
-  {
-    "title": "Circle's $400M Tazapay deal buys emerging market links that take ‘years to build’",
-    "link": "https://www.coindesk.com/business/2026/09/13/circle-s-usd400m-tazapay-deal-buys-emerging-market-links-that-take-years-to-build",
-    "pubDate": "Sun, 13 Sep 2026 13:00:00 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "Stablecoins' “next battleground is in emerging markets,” one expert said, as Circle looks to expand USDC's reach where rival Tether has long been strong.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/024ae1afdc1672e747814cc0546828b965ecf695-5162x3441.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "Circle has made a $400M deal with Tazapay to expand USDC's presence in emerging markets, identifying these regions as the next critical battleground for stablecoins. This strategic move aims to challenge rival Tether's long-standing dominance in these crucial markets.",
-    "importance": 8,
-    "classified": true
-  },
-  {
-    "title": "Crypto’s Clarity Act heads into a make-or-break week with no clear outcome",
-    "link": "https://www.coindesk.com/news-analysis/2026/09/11/crypto-s-clarity-act-is-a-schroedinger-s-cat-in-life-death-limbo-as-u-s-senate-returns",
-    "pubDate": "Sun, 13 Sep 2026 12:00:00 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "The crypto industry eagerly awaits a September 15 vote, though it might not happen. Or maybe it will. Or it might get delayed or reappear in some other form.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/fdf7f5a1bfc3ea1d7708ef0c24ddb8c1297cbb2f-3480x1958.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "The crypto industry is eagerly awaiting a potential U.S. Senate vote on the \"Crypto's Clarity Act\" on September 15. However, the exact timing and fate of this legislative action remain highly uncertain, with possibilities of it being delayed or reappearing in a different form.",
     "importance": 8,
     "classified": true
   },
@@ -348,6 +348,17 @@
     "classified": true
   },
   {
+    "title": "U.S. Senator Lummis says Democrats won't quit asking for more on crypto Clarity Act",
+    "link": "https://www.coindesk.com/policy/2026/09/14/u-s-senator-lummis-says-democrats-won-t-quit-asking-for-more-on-crypto-clarity-act",
+    "pubDate": "Mon, 14 Sep 2026 22:34:18 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "One of the top crypto market structure negotiators in Washington says she's run out of gas on new revisions for the bill she's worked on for more than five years.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/8cf9c186e9bd64a1303b6e7e58bd043359c97153-3506x1972.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "",
+    "importance": 5
+  },
+  {
     "title": "Trump agrees to stricter ethics rules to save Clarity Act crypto bill: AP",
     "link": "https://www.coindesk.com/policy/2026/09/14/trump-agrees-to-stricter-ethics-rules-to-save-clarity-act-crypto-bill-ap",
     "pubDate": "Mon, 14 Sep 2026 12:07:19 +0000",
@@ -377,6 +388,17 @@
     "category": "crypto",
     "content": "The Federal Reserve's two-day policy meeting begins tomorrow, with nearly all now expecting the U.S. central bank to hike its benchmark policy rate by 25 basis points.",
     "image": "",
+    "summary": "",
+    "importance": 5
+  },
+  {
+    "title": "Democrats push back on GOP’s ‘final’ CLARITY offer with counterproposal: Politico",
+    "link": "https://cointelegraph.com/news/democrats-push-back-on-gops-final-clarity-offer-with-counterproposal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Tue, 15 Sep 2026 00:46:15 +0000",
+    "source": "Cointelegraph",
+    "category": "crypto",
+    "content": "Some Democrats remain dissatisfied with the bill’s crypto ethics provisions and will be sending a counterproposal just hours before a key procedural vote.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2H8AP988B45330TXZG3C9KM/republicans-vs-democrats.jpg",
     "summary": "",
     "importance": 5
   },
@@ -420,7 +442,7 @@
     "source": "Cointelegraph",
     "category": "crypto",
     "content": "Trump’s ethics concession addresses one hurdle for the crypto bill, but 18 state attorneys general say the revised legislation would weaken state oversight.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2GDBD5FKT1AWY6RJ5BB9EEC/regulation-semen-lot-of-papers-clarity-act-1.jpg",
+    "image": "",
     "summary": "",
     "importance": 5
   },
@@ -575,6 +597,17 @@
     "category": "crypto",
     "content": "Passports, selfies and financial transaction histories of some customers were revealed to a fraudster using a government agency domain.",
     "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2D17VM4EG7ZBFYRBDRS7SSC/revolut-data-disclosure.png",
+    "summary": "",
+    "importance": 5
+  },
+  {
+    "title": "Where the Clarity Act stands ahead of Tuesday’s Senate vote",
+    "link": "https://www.theblock.co/news/regulation/2026-09-14-where-the-clarity-act-stands-ahead-of-tuesdays-senate-vote-414720",
+    "pubDate": "Mon, 14 Sep 2026 21:32:37 +0000",
+    "source": "The Block",
+    "category": "crypto",
+    "content": "The Senate heads into a consequential vote Tuesday on sweeping cryptocurrency legislation, but does it have enough support to pass?",
+    "image": "https://www.tbstat.com/wp/uploads/2022/01/20210120_Capitol_Generic-1200x675.jpg",
     "summary": "",
     "importance": 5
   },
@@ -762,17 +795,6 @@
     "category": "crypto",
     "content": "Meanwhile, the House of Lords is considering a bill which would halt crypto donations and cap overseas giving at £100,000 a year.",
     "image": "https://www.tbstat.com/wp/uploads/2022/02/20220210_UK_Generic_Funding-1200x675.jpg",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "Bitcoin, ether rise as inflation data does little to alter Fed interest rate outlook",
-    "link": "https://www.theblock.co/news/markets/2026-09-11-bitcoin-ether-rise-inflation-data-does-little-alter-fed-interest-rate-outlook-414287",
-    "pubDate": "Fri, 11 Sep 2026 17:40:54 +0000",
-    "source": "The Block",
-    "category": "crypto",
-    "content": "Bitget analyst Lewis Huang noted the divergence between headline inflation accelerating on energy while core inflation continues to ease.",
-    "image": "https://www.tbstat.com/wp/uploads/2025/03/20250312_Markets_Category-1200x675.jpg",
     "summary": "",
     "importance": 5
   },
@@ -997,6 +1019,28 @@
     "importance": 5
   },
   {
+    "title": "Jensen Huang took a call from Trump, and showed off something else, too",
+    "link": "https://techcrunch.com/2026/09/14/jensen-huang-took-a-call-from-trump-and-showed-off-something-else-too/",
+    "pubDate": "Tue, 15 Sep 2026 01:50:48 +0000",
+    "source": "TechCrunch AI",
+    "category": "ai",
+    "content": "When Jensen Huang took a live call from Trump, some of us were more focused the phone he used to take it.",
+    "image": "",
+    "summary": "",
+    "importance": 5
+  },
+  {
+    "title": "Nvidia CEO Jensen Huang tells Trump ‘we’re not going to let [an AI slowdown] happen’",
+    "link": "https://techcrunch.com/2026/09/14/nvidia-ceo-jensen-huang-tells-trump-were-not-going-to-let-an-ai-slowdown-happen/",
+    "pubDate": "Mon, 14 Sep 2026 21:51:02 +0000",
+    "source": "TechCrunch AI",
+    "category": "ai",
+    "content": "Though Elon Musk and Sam Altman have supported Dario Amodei's calls to slow the pace of AI development, Jensen Huang seems to feel differently.",
+    "image": "",
+    "summary": "",
+    "importance": 5
+  },
+  {
     "title": "OpenAI buys smartphone camera maker Glass Imaging for $300 million, report says",
     "link": "https://techcrunch.com/2026/09/14/openai-buys-smartphone-camera-maker-glass-imaging-for-300-million-report-says/",
     "pubDate": "Mon, 14 Sep 2026 20:44:14 +0000",
@@ -1195,24 +1239,24 @@
     "importance": 5
   },
   {
-    "title": "Kimi-maker Moonshot AI targets $2B in annual revenue",
-    "link": "https://techcrunch.com/2026/09/11/kimi-maker-moonshot-ai-targets-2-billion-in-annual-revenue/",
-    "pubDate": "Fri, 11 Sep 2026 19:35:54 +0000",
-    "source": "TechCrunch AI",
+    "title": "Is Big Tech’s AI slowdown a safety pact or a cartel?",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/995186/is-big-techs-ai-slowdown-a-safety-pact-or-a-cartel",
+    "pubDate": "2026-09-14T22:59:41.000Z",
+    "source": "The Verge AI",
     "category": "ai",
-    "content": "While K3's usage figures have declined slightly in recent months, OpenRouter data currently shows as many as 300 billion tokens being generated each day by K3 models on the system.",
-    "image": "",
+    "content": "When OpenAI CEO Sam Altman, Anthropic CEO Dario Amodei, Google DeepMind cofounder Demis Hassabis, and SpaceX head Elon Musk loosely agreed over the weekend to slow down AI development, skeptics spotted an ulterior motive immediately. The AI titans had declared that their aim was to \"pace the frontier,\" signing on at least partially to a proposal for embedding third-party auditors, regulating domestic labs, and reaching a global slowdown agreement. Their critics, however, argued they simply wanted to stop would-be competitors, kneecap the open-source movement, and avoid real legal safeguards - some dubbed it an outright \"cartel.\" \nThe truth  …\nRead the full story at The Verge.",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/STKS522_AGI_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
     "summary": "",
     "importance": 5
   },
   {
-    "title": "An Anthropic researcher’s doomsday warning comes at a very interesting time",
-    "link": "https://techcrunch.com/podcast/an-anthropic-researchers-doomsday-warning-comes-at-a-very-interesting-time/",
-    "pubDate": "Fri, 11 Sep 2026 18:41:49 +0000",
-    "source": "TechCrunch AI",
+    "title": "What execs and politicians are saying about slowing down AI development",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/995141/ai-executives-politicians-safety-regulation-anthropic-dario-amodei",
+    "pubDate": "2026-09-14T21:21:42.000Z",
+    "source": "The Verge AI",
     "category": "ai",
-    "content": "An Anthropic researcher resigned this week, warning in a post on X that the company is “racing straight to self-improving superintelligence and gambling with our lives”. The company’s own alignment lead even co-signed the message rather than walking it back. It’s the kind of doomer warning the AI industry has flirted with before, but the timing, with Anthropic reportedly preparing for an IPO, makes it land differently.  On […]",
-    "image": "",
+    "content": "Dario Amodei kicked off a flood of statements over the past few days about AI safety by publishing a long essay titled \"We Must Pace the Frontier\" detailing why AI development should be slowed down. Other AI leaders and politicians are speaking out in favor of or opposing his points, and we've compiled some of them here.\nAnthropic CEO Dario Amodei\nAmodei's Saturday morning essay outlined three steps for pacing AI development: embedded third-party evaluators that can verify if a company is adhering to safety practices and commitments and report incidents, coordination between frontier AI companies in democratic countries on standards and li …\nRead the full story at The Verge.",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/STK202_DARIO_AMODEI_CVIRGINIA_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
     "summary": "",
     "importance": 5
   },
@@ -1301,28 +1345,6 @@
     "category": "ai",
     "content": "OpenAI has spent the last few years planting flags across the increasingly difficult terrain in mathematics. This week, it claimed one of its biggest prizes yet: a solution to a legendary Millennium Prize problem. In normal circumstances, this would have been celebrated as a historic achievement.\nInstead, many mathematicians have watched OpenAI's relentless advance with growing unease. To them, the company appears less like an enthusiastic newcomer than an impossibly well-resourced interloper, charging into problems they have dedicated their lives to studying with little apparent regard for long-standing norms or the consequences for those  …\nRead the full story at The Verge.",
     "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268745_OpenAI_just_wants_to_win-_CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "Lawyer fined $5K over AI-hallucinated witnesses in a murder case",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/994207/chatgpt-new-mexico-lawyer-fined-murder-appeal",
-    "pubDate": "2026-09-11T20:44:02.000Z",
-    "source": "The Verge AI",
-    "category": "ai",
-    "content": "New Mexico's Supreme Court is punishing a lawyer for including AI-fabricated witnesses and fake police testimony in an appeal for his client's murder conviction, according to a report from Reuters. In a filing on Wednesday, the court fined Stephen Aarons $5,000 and held him in contempt for failing to \"verify the factual claims and legal authority in his AI-generated brief.\"\nThe filing says the brief \"contained false testimony from wholly fabricated witnesses,\" along with \"false testimony\" about the shooter's clothing and appearance. Justice C. Shannon Bacon questioned how Aarons wasn't aware of the risks posed by AI during an August hearing …\nRead the full story at The Verge.",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25384193/STK470_AI_LAW_CVIRGINIA_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "Anthropic spent this week in hot water over cybersecurity",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/994064/anthropic-spent-this-week-in-hot-water-over-cybersecurity",
-    "pubDate": "2026-09-11T16:09:14.000Z",
-    "source": "The Verge AI",
-    "category": "ai",
-    "content": "After admitting earlier this year that its AI models had hacked other companies' systems on a handful of occasions, Anthropic released a new report on Wednesday detailing the attacks. It reveals a string of incidents displaying what Anthropic deems its models' single-minded \"recklessness\" - and will likely fuel already raging concerns about cybersecurity and AI. \nIn Anthropic's report, it detailed four cases this year in which its own AI models hacked an external company or exploited vulnerabilities. In one, an \"internal, general-purpose research model\" broke into third-party systems, using access tokens and passwords and downloading files. …\nRead the full story at The Verge.",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKS533_AI_AGENTS_HACKING_B.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
     "summary": "",
     "importance": 5
   },
@@ -1559,18 +1581,6 @@
     "classified": true
   },
   {
-    "title": "Metaplanet cuts Series 10 stock pool by 41%, plans Hong Kong subsidiary",
-    "link": "https://cointelegraph.com/news/metaplanet-executive-stock-pool-hong-kong-subsidiary?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Fri, 11 Sep 2026 13:44:27 +0000",
-    "source": "Cointelegraph",
-    "category": "crypto",
-    "content": "Metaplanet will cut 131.3 million potential shares and form a $1 million Hong Kong subsidiary for trading in Bitcoin, equities and credit products.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M28870PKEWGRDMAATE4PHF9G/investmentmoneycryptodollarcrowdfunding-metaplanet.jpg",
-    "summary": "Metaplanet is cutting its Series 10 stock pool by 41%, reducing 131.3 million potential shares. Concurrently, the company plans to establish a new $1 million Hong Kong subsidiary that will focus on trading Bitcoin, equities, and credit products.",
-    "importance": 3,
-    "classified": true
-  },
-  {
     "title": "Former Alameda CEO Caroline Ellison joins nonprofit charity Manifund",
     "link": "https://www.theblock.co/news/business/2026-09-11-former-alameda-ceo-caroline-ellison-joins-nonprofit-charity-manifund-414310",
     "pubDate": "Fri, 11 Sep 2026 21:37:02 +0000",
@@ -1603,18 +1613,6 @@
     "content": "I dunno, flip a coin.",
     "image": "https://cdn.sanity.io/images/s3y3vcno/production/bb0e02fe77cc6bb9eae2b1c4887014c319e9800f-4928x2772.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
     "summary": "This article, titled 'Is Clarity dead? A vibes-based analysis: State of Crypto,' provides no actual content or analysis beyond a dismissive 'I dunno, flip a coin.' It offers no substantial information about the state of crypto or Clarity.",
-    "importance": 1,
-    "classified": true
-  },
-  {
-    "title": "Fed rate hike is about Wall Street, not inflation, says economist",
-    "link": "https://www.coindesk.com/markets/2026/09/13/fed-rate-hike-is-about-wall-street-not-inflation-says-economist",
-    "pubDate": "Sun, 13 Sep 2026 13:00:00 +0000",
-    "source": "CoinDesk",
-    "category": "ai",
-    "content": "Goldman Sachs late Friday became the last of the major banks to retract its forecast of no rate hike next week.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/e8d8df4259af82f8ea238aee5c1f1e2fa3dce49a-1920x1000.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "Goldman Sachs has retracted its forecast of no Fed rate hike next week, becoming the last major bank to do so. An economist suggests that the impending Federal Reserve rate increase is primarily influenced by Wall Street dynamics rather than inflation concerns.",
     "importance": 1,
     "classified": true
   },
