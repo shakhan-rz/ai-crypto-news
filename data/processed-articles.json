@@ -84,6 +84,42 @@
     "classified": true
   },
   {
+    "title": "Bitcoin ETFs shed $450 million as Clarity Act fails",
+    "link": "https://www.coindesk.com/markets/2026/09/16/bitcoin-etfs-shed-usd450-million-as-clarity-act-fails",
+    "pubDate": "Wed, 16 Sep 2026 10:48:44 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "U.S. spot bitcoin ETFs shed $450 million, the most since June, as the Senate's failure to advance the Clarity Act sent regulatory-sensitive tokens sharply lower.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/5fd904349db1854350f6e1be97b52ee9471c9e23-1920x1080.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "U.S. spot Bitcoin ETFs saw a significant outflow of $450 million, marking their largest single-day loss since June. This downturn was prompted by the Senate's failure to advance the Clarity Act, causing regulatory-sensitive crypto tokens to decline sharply.",
+    "importance": 8,
+    "classified": true
+  },
+  {
+    "title": "Deutsche Bank close to debuting crypto custody for institutions",
+    "link": "https://www.coindesk.com/business/2026/09/16/deutsche-bank-nears-crypto-custody-service-debut-for-institutional-clients",
+    "pubDate": "Wed, 16 Sep 2026 10:46:28 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "The service will support a select range of cryptocurrencies at debut, including bitcoin and ether and stablecoins like USDC and EURC.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/b2e6ebd42c43e90cdd701eefeb607a0dff7f8d82-2560x1785.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "Deutsche Bank is nearing the launch of its institutional crypto custody service. This new service will initially support major cryptocurrencies like Bitcoin and Ethereum, alongside stablecoins such as USDC and EURC.",
+    "importance": 8,
+    "classified": true
+  },
+  {
+    "title": "Circle debuts Arc blockchain which Jeremy Allaire calls ‘more consequential’ than USDC",
+    "link": "https://www.coindesk.com/business/2026/09/15/circle-debuts-arc-blockchain-which-jeremy-allaire-calls-more-consequential-than-usdc",
+    "pubDate": "Wed, 16 Sep 2026 10:30:00 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "The USDC issuer's chain is built for payments, tokenized assets and institutional finance as banks and payment giants pile into the stablecoin market.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/024ae1afdc1672e747814cc0546828b965ecf695-5162x3441.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "Circle, the issuer of the USDC stablecoin, has officially launched its new Arc blockchain, which CEO Jeremy Allaire believes is more consequential than USDC itself. Arc is specifically designed for payments, tokenized assets, and institutional finance, targeting the growing interest from banks and payment giants in the stablecoin market.",
+    "importance": 8,
+    "classified": true
+  },
+  {
     "title": "Fed raises rates by 25 basis points in first hike since July 2023",
     "link": "https://www.coindesk.com/markets/2026/09/16/fed-raises-rates-by-25-basis-points-in-first-hike-since-july-2023",
     "pubDate": "Wed, 16 Sep 2026 17:54:55 +0000",
@@ -120,6 +156,30 @@
     "classified": true
   },
   {
+    "title": "Bitcoin traders brace for Fed hike, but a surprise hold could pose bigger risk",
+    "link": "https://www.coindesk.com/markets/2026/09/15/bitcoin-traders-brace-for-fed-hike-but-a-surprise-hold-could-pose-bigger-risk",
+    "pubDate": "Wed, 16 Sep 2026 11:00:00 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "Bitcoin is stuck near $80,000 as traders build stablecoin positions that could return to the market once Fed uncertainty clears.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/d1655a19e778e4e75df0ba088282ada6352c0206-7924x5285.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "Bitcoin's price is stable near $80,000 as traders are establishing stablecoin positions, anticipating clarity from the Federal Reserve regarding potential interest rate hikes. This strategic positioning aims to mitigate risks associated with the Fed's decision, as even a surprise hold could pose significant market implications.",
+    "importance": 7,
+    "classified": true
+  },
+  {
+    "title": "Two Prime makes onchain finance push with $10 million-backed bitcoin yield vault",
+    "link": "https://www.coindesk.com/markets/2026/09/15/two-prime-makes-onchain-finance-push-with-usd10-million-backed-bitcoin-yield-vault",
+    "pubDate": "Wed, 16 Sep 2026 11:00:00 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "Two Prime expands into onchain finance with a bitcoin lending vault built on Pareto for institutional investors.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/f2b778c374f09c89cb217469fcbc7a90dc64323b-2048x1150.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "Two Prime is expanding its operations into onchain finance. It is launching a $10 million-backed bitcoin lending vault built on Pareto, specifically designed for institutional investors.",
+    "importance": 7,
+    "classified": true
+  },
+  {
     "title": "Blockchain finance platform Theo launches tokenized silver backed by $40 million in active leases",
     "link": "https://www.coindesk.com/business/2026/09/16/blockchain-finance-platform-theo-launches-tokenized-silver-backed-by-usd40-million-in-active-leases",
     "pubDate": "Wed, 16 Sep 2026 14:00:00 +0000",
@@ -144,6 +204,18 @@
     "classified": true
   },
   {
+    "title": "Live updates: Bitcoin steady as stocks slide following Fed rate hike, Warsh press conference",
+    "link": "https://www.coindesk.com/business/2026/09/16/live-updates-zcash-climbs-6-as-majors-slide-ahead-of-fed-rate-decision",
+    "pubDate": "Wed, 16 Sep 2026 10:37:46 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "Privacy token zcash, meanwhile, is up 130% over 30 days and trades near its all-time highs from 2016.",
+    "image": "",
+    "summary": "Bitcoin remains steady as stock markets decline following a Federal Reserve rate hike. Meanwhile, the privacy token Zcash has seen a significant 130% increase over the past 30 days, now trading near its 2016 all-time highs.",
+    "importance": 6,
+    "classified": true
+  },
+  {
     "title": "Here’s what happened in crypto today",
     "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "pubDate": "Wed, 16 Sep 2026 19:25:46 +0000",
@@ -154,72 +226,6 @@
     "summary": "This article provides a summary of the latest news and trends in the crypto space, covering Bitcoin price, blockchain, DeFi, Web3, and crypto regulation. It aims to keep readers updated on daily events impacting the cryptocurrency market. The article appears to be a general overview of the current state of the crypto industry.",
     "importance": 6,
     "classified": true
-  },
-  {
-    "title": "Bitcoin traders brace for Fed hike, but a surprise hold could pose bigger risk",
-    "link": "https://www.coindesk.com/markets/2026/09/15/bitcoin-traders-brace-for-fed-hike-but-a-surprise-hold-could-pose-bigger-risk",
-    "pubDate": "Wed, 16 Sep 2026 11:00:00 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "Bitcoin is stuck near $80,000 as traders build stablecoin positions that could return to the market once Fed uncertainty clears.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/d1655a19e778e4e75df0ba088282ada6352c0206-7924x5285.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "Two Prime makes onchain finance push with $10 million-backed bitcoin yield vault",
-    "link": "https://www.coindesk.com/markets/2026/09/15/two-prime-makes-onchain-finance-push-with-usd10-million-backed-bitcoin-yield-vault",
-    "pubDate": "Wed, 16 Sep 2026 11:00:00 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "Two Prime expands into onchain finance with a bitcoin lending vault built on Pareto for institutional investors.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/f2b778c374f09c89cb217469fcbc7a90dc64323b-2048x1150.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "Bitcoin ETFs shed $450 million as Clarity Act fails",
-    "link": "https://www.coindesk.com/markets/2026/09/16/bitcoin-etfs-shed-usd450-million-as-clarity-act-fails",
-    "pubDate": "Wed, 16 Sep 2026 10:48:44 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "U.S. spot bitcoin ETFs shed $450 million, the most since June, as the Senate's failure to advance the Clarity Act sent regulatory-sensitive tokens sharply lower.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/5fd904349db1854350f6e1be97b52ee9471c9e23-1920x1080.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "Deutsche Bank close to debuting crypto custody for institutions",
-    "link": "https://www.coindesk.com/business/2026/09/16/deutsche-bank-nears-crypto-custody-service-debut-for-institutional-clients",
-    "pubDate": "Wed, 16 Sep 2026 10:46:28 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "The service will support a select range of cryptocurrencies at debut, including bitcoin and ether and stablecoins like USDC and EURC.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/b2e6ebd42c43e90cdd701eefeb607a0dff7f8d82-2560x1785.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "Live updates: Bitcoin steady as stocks slide following Fed rate hike, Warsh press conference",
-    "link": "https://www.coindesk.com/business/2026/09/16/live-updates-zcash-climbs-6-as-majors-slide-ahead-of-fed-rate-decision",
-    "pubDate": "Wed, 16 Sep 2026 10:37:46 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "Privacy token zcash, meanwhile, is up 130% over 30 days and trades near its all-time highs from 2016.",
-    "image": "",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "Circle debuts Arc blockchain which Jeremy Allaire calls ‘more consequential’ than USDC",
-    "link": "https://www.coindesk.com/business/2026/09/15/circle-debuts-arc-blockchain-which-jeremy-allaire-calls-more-consequential-than-usdc",
-    "pubDate": "Wed, 16 Sep 2026 10:30:00 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "The USDC issuer's chain is built for payments, tokenized assets and institutional finance as banks and payment giants pile into the stablecoin market.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/024ae1afdc1672e747814cc0546828b965ecf695-5162x3441.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "",
-    "importance": 5
   },
   {
     "title": "Bitcoin's Coinbase premium sinks to one-month low, here’s why",
@@ -295,6 +301,17 @@
     "category": "crypto",
     "content": "The Senate's 49-50 procedural vote left the crypto market structure bill 11 short of what it needed, and every major token fell.",
     "image": "https://cdn.sanity.io/images/s3y3vcno/production/55ba2a640cec129eaef5d1af1e6784542f791833-1498x844.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "",
+    "importance": 5
+  },
+  {
+    "title": "CLARITY Act could get another shot during lame-duck session, policy advocate says",
+    "link": "https://cointelegraph.com/news/clarity-act-could-get-another-shot-during-lame-duck-session-policy-advocate-says?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Wed, 16 Sep 2026 20:51:38 +0000",
+    "source": "Cointelegraph",
+    "category": "crypto",
+    "content": "Digital Sovereignty Alliance managing director Adrian Wall said senators from both parties are considering another attempt to advance the crypto market structure bill before the current Congress ends.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2NY2SA6460QWXX3EP9NYFFC/hi-us-senate-infrastructure-bill-doom-and-gloom-for-memecoin-trump-2.png",
     "summary": "",
     "importance": 5
   },
@@ -603,17 +620,6 @@
     "category": "crypto",
     "content": "The 114-page bill would change the tax treatment of crypto fees, stablecoins and lending while leaving existing reward-tax timing unchanged.",
     "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2J6TX6A7KEPZNSA4AMER8KE/regulations-us-tax.jpg",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "Ethereum, Base wallet standards talks fail, Ethlabs researcher says",
-    "link": "https://cointelegraph.com/news/ethereum-base-wallet-standards-collaboration-breaks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Tue, 15 Sep 2026 09:40:27 +0000",
-    "source": "Cointelegraph",
-    "category": "crypto",
-    "content": "Ethereum and Base are pursuing different account abstraction designs after talks failed, according to Ethlabs researcher Derek Chiang.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2J4CY20932Q9DX6CEYR4793/robotethereum.jpg",
     "summary": "",
     "importance": 5
   },
@@ -1058,6 +1064,17 @@
     "importance": 5
   },
   {
+    "title": "Anthropic and OpenAI want to embed safety evaluators. Will they really be independent?",
+    "link": "https://techcrunch.com/2026/09/16/anthropic-and-openai-want-to-embed-safety-evaluators-will-they-really-be-independent/",
+    "pubDate": "Wed, 16 Sep 2026 21:07:24 +0000",
+    "source": "TechCrunch AI",
+    "category": "ai",
+    "content": "Anthropic and OpenAI want to embed independent safety evaluators inside their AI labs. Researchers welcome the unprecedented access, but warn meaningful oversight requires transparency, independence, and eventually regulation.",
+    "image": "",
+    "summary": "",
+    "importance": 5
+  },
+  {
     "title": "After accusations of selling ‘perv glasses,’ Meta prepares to sell a pair without a camera",
     "link": "https://techcrunch.com/2026/09/16/after-accusations-of-selling-perv-glasses-meta-prepares-to-sell-a-pair-without-a-camera/",
     "pubDate": "Wed, 16 Sep 2026 20:12:00 +0000",
@@ -1267,13 +1284,13 @@
     "importance": 5
   },
   {
-    "title": "AEO startup Profound hits unicorn valuation, raises $180M Series D 7 months after last round",
-    "link": "https://techcrunch.com/2026/09/15/aeo-startup-profound-hits-unicorn-valuation-raises-180m-series-d-7-months-after-last-round/",
-    "pubDate": "Tue, 15 Sep 2026 15:22:48 +0000",
-    "source": "TechCrunch AI",
+    "title": "The 2.5-hour AI-generated Odyssey movie is 2.5 hours too long",
+    "link": "https://www.theverge.com/entertainment/996499/ai-odyssey-movie-review",
+    "pubDate": "2026-09-16T20:59:13.000Z",
+    "source": "The Verge AI",
     "category": "ai",
-    "content": "Profound has raised a $180 million Series D at a $1.8 billion valuation, less than seven months after it raised a $96 million Series C.",
-    "image": "",
+    "content": "Christopher Nolan's engrossing take on The Odyssey dominated at the box office and spurred a newfound interest in classic literature among filmgoers. But a new retelling of the story made entirely with AI is so bad that it might just make viewers hate the original tale altogether.\nThe new film, called Odysseus: The Fall, comes via AI firm Fountain 0 and is written and directed by company cofounder Ash Koosha, who also lent his likeness to the title character and created all of the music. (The film's credits are very short.) The studio's only previous work is an AI film called Dreams of Violets that made it into Tribeca earlier this year. Th …\nRead the full story at The Verge.",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Screenshot-2026-09-16-at-4.19.06-PM.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
     "summary": "",
     "importance": 5
   },
@@ -1377,13 +1394,13 @@
     "importance": 5
   },
   {
-    "title": "Is Big Tech’s AI slowdown a safety pact or a cartel?",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/995186/is-big-techs-ai-slowdown-a-safety-pact-or-a-cartel",
-    "pubDate": "2026-09-14T22:59:41.000Z",
-    "source": "The Verge AI",
+    "title": "Apple reportedly building server packed with M-series Ultra chips for AI",
+    "link": "https://arstechnica.com/ai/2026/09/apple-reportedly-building-server-packed-with-m-series-ultra-chips-for-ai/",
+    "pubDate": "Wed, 16 Sep 2026 22:02:46 +0000",
+    "source": "Ars Technica AI",
     "category": "ai",
-    "content": "When OpenAI CEO Sam Altman, Anthropic CEO Dario Amodei, Google DeepMind cofounder Demis Hassabis, and SpaceX head Elon Musk loosely agreed over the weekend to slow down AI development, skeptics spotted an ulterior motive immediately. The AI titans had declared that their aim was to \"pace the frontier,\" signing on at least partially to a proposal for embedding third-party auditors, regulating domestic labs, and reaching a global slowdown agreement. Their critics, however, argued they simply wanted to stop would-be competitors, kneecap the open-source movement, and avoid real legal safeguards - some dubbed it an outright \"cartel.\" \nThe truth  …\nRead the full story at The Verge.",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/STKS522_AGI_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "content": "Planned 2029 debut could make this Apple’s first enterprise server in decades.",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/John-Ternus-Surprise-and-Shine-1152x648.jpg",
     "summary": "",
     "importance": 5
   },
@@ -1593,17 +1610,6 @@
     "category": "ai",
     "content": "When multiple companies are behind one project, who bears responsibility for problems?",
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/LakeMariner-1152x648.png",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "OpenAI agents discussed ways to escape their sandbox on public wiki",
-    "link": "https://arstechnica.com/security/2026/09/openai-agents-discussed-ways-to-escape-their-sandbox-on-public-wiki/",
-    "pubDate": "Fri, 04 Sep 2026 22:17:36 +0000",
-    "source": "Ars Technica AI",
-    "category": "ai",
-    "content": "In all, 3,700 internal agents posted 18,000 messages discussing cheating on a test.",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/ai-agent-hacking-1152x648.jpg",
     "summary": "",
     "importance": 5
   }
