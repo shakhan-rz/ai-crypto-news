@@ -5,7 +5,7 @@
     "pubDate": "Wed, 16 Sep 2026 19:07:34 +0000",
     "source": "CoinDesk",
     "category": "crypto",
-    "content": "The group gave Revolut 24 hours to pay and said it targeted customers with significant crypto holdings.",
+    "content": "The group gave Revolut 24 hours to pay and said it targeted customers with significant crypto holdings. Revolut said it has not not received any direct contact from the individuals.",
     "image": "https://cdn.sanity.io/images/s3y3vcno/production/b08655496c72c8658f860327377b4fc4bb202061-1500x903.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
     "summary": "Hackers are demanding $3 million in Monero from Revolut, threatening to sell customer data if the payment is not made within 24 hours. The group stated they specifically targeted Revolut customers possessing significant cryptocurrency holdings.",
     "importance": 9,
@@ -21,6 +21,30 @@
     "image": "https://cdn.sanity.io/images/s3y3vcno/production/a157306e943dd581a50f1881a075dc427bda6fad-1920x1080.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
     "summary": "Bitcoin Core 32 is in its final testing phase, bringing an October update that introduces faster validation, changes to how nodes estimate transaction fees, and improvements in block processing. The update also includes crucial security fixes, addressing a wallet flaw that could enable an authenticated user to execute commands on a node.",
     "importance": 9,
+    "classified": true
+  },
+  {
+    "title": "Crypto rallies through the Fed's first rate increase since 2023",
+    "link": "https://www.coindesk.com/markets/2026/09/17/crypto-rallies-through-the-fed-s-first-rate-increase-since-2023",
+    "pubDate": "Thu, 17 Sep 2026 10:40:01 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "Bitcoin rose 0.88% over 24 hours to $76,621 as the central bank's projections implied only one further hike. Zcash jumped 23% to a record after Paradigm disclosed a stake.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/91f3ce4b062bc760da8b3f8f70d238bc125a9f65-1920x1080.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "Bitcoin rallied 0.88% to $76,621 following the Federal Reserve's first rate increase since 2023, as market projections indicated only one further hike. Concurrently, Zcash surged 23% to a record high after Paradigm disclosed a significant stake in the cryptocurrency.",
+    "importance": 8,
+    "classified": true
+  },
+  {
+    "title": "Ripple adds XRP payments to Stripe and Tempo’s AI standard in new developer kit",
+    "link": "https://www.coindesk.com/tech/2026/09/17/ripple-adds-xrp-payments-to-stripe-and-tempo-s-ai-standard-in-new-developer-kit",
+    "pubDate": "Thu, 17 Sep 2026 07:54:33 +0000",
+    "source": "CoinDesk",
+    "category": "both",
+    "content": "The update expands support for automated payments in XRP and RLUSD, with tools that let agents pay repeatedly for services and manage wallets across blockchains.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/b870a99b3666942b2ac0a5c20219248585e42b45-6016x4016.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "Ripple has launched a new developer kit that integrates XRP and RLUSD payments with Stripe and Tempo's AI standard. This kit enables automated, recurring payments for services and offers tools for managing wallets across different blockchains.",
+    "importance": 8,
     "classified": true
   },
   {
@@ -120,15 +144,39 @@
     "classified": true
   },
   {
-    "title": "Two Robinhood engineers charged with insider trading using Hyperliquid perpetuals",
-    "link": "https://www.coindesk.com/business/2026/09/16/two-robinhood-engineers-charged-with-insider-trading-using-hyperliquid-perpetuals",
-    "pubDate": "Wed, 16 Sep 2026 09:42:37 +0000",
+    "title": "Live updates: Zcash jumps 17% as $345 million of liquidations hit crypto traders",
+    "link": "https://www.coindesk.com/tech/2026/09/17/live-updates-zcash-jumps-17-as-usd345-million-of-liquidations-hit-crypto-traders",
+    "pubDate": "Thu, 17 Sep 2026 10:41:15 +0000",
     "source": "CoinDesk",
     "category": "crypto",
-    "content": "U.S. prosecutors allege two engineers used confidential Robinhood token listing data to front-run announcements using Hyperliquid perpetual futures.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/e70f1706abd047636b2f71846fc0e00710b307db-4032x2268.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "U.S. prosecutors have charged two Robinhood engineers with insider trading, alleging they used confidential information about upcoming token listings on Robinhood to front-run announcements. The engineers purportedly used Hyperliquid perpetual futures to profit from this illicit activity.",
-    "importance": 8,
+    "content": "Short sellers took the bulk of the damage, with zcash alone accounting for $56 million of forced closures.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/e4eff9a3fcf5f2c99cb5f8cfd9ef0deaad82c64d-1400x780.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "Zcash experienced a 17% price surge, triggering $345 million in crypto liquidations across the market. Short sellers were heavily impacted, with Zcash alone accounting for $56 million of these forced closures.",
+    "importance": 7,
+    "classified": true
+  },
+  {
+    "title": "Bitcoin faces 2022 parallels as Federal Reserve resumes rate increases",
+    "link": "https://www.coindesk.com/markets/2026/09/17/bitcoin-faces-2022-parallels-as-federal-reserve-resumes-rate-hikes",
+    "pubDate": "Thu, 17 Sep 2026 08:41:48 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "Bitcoin’s drawdown mirrors its position before the Fed’s first hike in March 2022, raising questions over whether a relief rally could precede further losses.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/2c0e10162eeb3f847d9b58464aa8ddce932437bf-2396x1382.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "Bitcoin's current drawdown is reminiscent of its position before the Federal Reserve's initial rate hike in March 2022. This parallel sparks debate about whether a potential relief rally could precede further market losses for the cryptocurrency.",
+    "importance": 7,
+    "classified": true
+  },
+  {
+    "title": "Zcash jumps 23% as bitcoin and major tokens rise despite Fed’s first hike since 2023",
+    "link": "https://www.coindesk.com/markets/2026/09/17/zcash-jumps-23-as-bitcoin-and-major-tokens-rise-despite-fed-s-first-hike-since-2023",
+    "pubDate": "Thu, 17 Sep 2026 04:47:27 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "Bitcoin traded above $76,000 as the Fed projected limited further tightening, while Paradigm’s Matt Huang discussed Zcash’s role as a privacy complement to bitcoin.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/3117cf3dd45002820f985ed15736a3333261d9c0-1508x842.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "Bitcoin surpassed $76,000 as the Federal Reserve projected limited further monetary tightening. Amidst this market rise, Zcash jumped 23%, with Paradigm's Matt Huang discussing its importance as a privacy complement to Bitcoin.",
+    "importance": 7,
     "classified": true
   },
   {
@@ -192,30 +240,6 @@
     "classified": true
   },
   {
-    "title": "Bitcoin's Coinbase premium sinks to one-month low, here’s why",
-    "link": "https://www.coindesk.com/markets/2026/09/16/bitcoin-s-coinbase-premium-sinks-to-one-month-low-here-s-why",
-    "pubDate": "Wed, 16 Sep 2026 09:57:12 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "Weakening U.S. demand, a setback for the Clarity act and expectations of a fed rate hike weigh on bitcoin.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/c06c4d58ca21886ab851801c4f7a14eee7080b77-3068x1938.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "Bitcoin's Coinbase premium has fallen to a one-month low, reflecting a weakening U.S. demand for the cryptocurrency. This downtrend is further influenced by a setback for the Clarity act and anticipated interest rate hikes by the Federal Reserve.",
-    "importance": 7,
-    "classified": true
-  },
-  {
-    "title": "Ethereum, Base give up on common wallet standard after months of talks",
-    "link": "https://www.coindesk.com/tech/2026/09/16/ethereum-base-give-up-on-common-wallet-standard-after-months-of-talks",
-    "pubDate": "Wed, 16 Sep 2026 08:07:59 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "Ethereum is moving ahead with EIP-8141 while Coinbase-backed Base backs EIP-8130, leaving wallets and apps that span both networks facing different transaction systems.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/fac8e66ee0cef664e189ed56170a5a95737c7f37-1920x1280.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "Ethereum and Coinbase-backed Base have failed to agree on a common wallet standard after months of talks. Ethereum is proceeding with EIP-8141 while Base supports EIP-8130, which means wallets and applications spanning both networks will face different transaction systems.",
-    "importance": 7,
-    "classified": true
-  },
-  {
     "title": "Blockchain finance platform Theo launches tokenized silver backed by $40 million in active leases",
     "link": "https://www.coindesk.com/business/2026/09/16/blockchain-finance-platform-theo-launches-tokenized-silver-backed-by-usd40-million-in-active-leases",
     "pubDate": "Wed, 16 Sep 2026 14:00:00 +0000",
@@ -254,7 +278,7 @@
   {
     "title": "Here’s what happened in crypto today",
     "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Wed, 16 Sep 2026 19:25:46 +0000",
+    "pubDate": "Thu, 17 Sep 2026 06:01:31 +0000",
     "source": "Cointelegraph",
     "category": "crypto",
     "content": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
@@ -264,46 +288,68 @@
     "classified": true
   },
   {
-    "title": "Fed meeting is shaping up to be a nightmare for Warsh. Bitcoin might still shine",
-    "link": "https://www.coindesk.com/markets/2026/09/16/fed-meeting-is-shaping-up-to-be-a-nightmare-for-warsh-bitcoin-might-still-shine",
-    "pubDate": "Wed, 16 Sep 2026 06:42:22 +0000",
-    "source": "CoinDesk",
+    "title": "Zcash gains 20% as Paradigm founder reveals firm made ZEC investment ",
+    "link": "https://cointelegraph.com/markets/zcash-zec-price-paradigm-investment-privacy-coins?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Thu, 17 Sep 2026 10:35:29 +0000",
+    "source": "Cointelegraph",
     "category": "crypto",
-    "content": "An aggressive market expectations trap and a strict aversion to forward guidance have backed the Fed chair into a corner, where failing to deliver a hawkish message risks destroying the central bank’s inflation-fighting credibility.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/8c113b39af04fe5a9700ed1765841f345087018a-6000x4000.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "content": "Zcash rose about 20% in 24 hours as Paradigm co-founder Matt Huang disclosed that the firm invested in ZEC amid a broader crypto market rally.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2QD479E84FW5KWH0FVCRS42/hi-how-zcash-went-from-low-profile-token-to-the-most-searched-asset-in-november-2.jpg",
     "summary": "",
     "importance": 5
   },
   {
-    "title": "Zcash holders overwhelmingly back faster transactions and bitcoin-style halvings",
-    "link": "https://www.coindesk.com/tech/2026/09/16/zcash-holders-overwhelmingly-back-faster-transactions-and-bitcoin-style-halvings",
-    "pubDate": "Wed, 16 Sep 2026 05:54:04 +0000",
-    "source": "CoinDesk",
+    "title": "Revolut says no direct contact after $3 million public ransom demand",
+    "link": "https://cointelegraph.com/news/revolut-data-breach-monero-ransom-no-direct-contact?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Thu, 17 Sep 2026 09:57:51 +0000",
+    "source": "Cointelegraph",
     "category": "crypto",
-    "content": "Nearly 2.4 million ZEC participated, with 99.9% backing 25-second blocks and 98.9% voting to preserve the network’s existing halving schedule.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/6359a9ff83ee7ba7465c0ff2289cb8ae23e7ac43-1500x1000.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "content": "Revolut says it received no direct contact despite separate ransom demands for $3 million in Monero and 10,000 Bitcoin from competing breach claimants.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2Q83QQQWRKSXT4SW5VX5T0H/man-hacker-breaking-blockchain-2.jpg",
     "summary": "",
     "importance": 5
   },
   {
-    "title": "Crypto longs worth $570 million wiped out as Clarity Act fails",
-    "link": "https://www.coindesk.com/markets/2026/09/16/crypto-bulls-take-a-usd570-million-liquidation-hit-as-clarity-act-fails",
-    "pubDate": "Wed, 16 Sep 2026 04:07:27 +0000",
-    "source": "CoinDesk",
+    "title": "Polymarket users referred to prosecutors in South Korea: Report",
+    "link": "https://cointelegraph.com/news/south-korea-polymarket-users-prosecutors-gambling-probe?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Thu, 17 Sep 2026 09:37:32 +0000",
+    "source": "Cointelegraph",
     "category": "crypto",
-    "content": "Bullish crypto futures bets worth millions have been liquidated in 24 hours. Bitcoin and ether longs have taken in the most losses.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/94d6b058781a0a1c3225d8d2d844d7410eb18794-3000x2001.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "content": "South Korean police reportedly referred 18 Polymarket users to prosecutors in a gambling probe involving 26 people and $12.7 million in bets.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2Q8HM2XMP2QNNDJSY3Y2316/hi-polymarket-ban-sk.png",
     "summary": "",
     "importance": 5
   },
   {
-    "title": "XRP sinks 10% as the Clarity Act fails and bitcoin slides toward $76,000",
-    "link": "https://www.coindesk.com/markets/2026/09/16/xrp-sinks-10-as-the-clarity-act-fails-and-bitcoin-slides-toward-usd76-000",
-    "pubDate": "Wed, 16 Sep 2026 03:37:45 +0000",
-    "source": "CoinDesk",
+    "title": "Bitcoin treasuries buy just 5.9K BTC in three months as paper losses linger",
+    "link": "https://cointelegraph.com/markets/bitcoin-treasuries-buy-just-59k-btc-in-three-months-as-paper-losses-linger?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Thu, 17 Sep 2026 09:00:31 +0000",
+    "source": "Cointelegraph",
     "category": "crypto",
-    "content": "The Senate's 49-50 procedural vote left the crypto market structure bill 11 short of what it needed, and every major token fell.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/55ba2a640cec129eaef5d1af1e6784542f791833-1498x844.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "content": "Bitcoin corporate treasuries remained at an unrealized loss on their holdings as the price fell below $80,000 and fresh capital inflows dwindled.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2Q99A5R9QF96G9ZWXTTPJX0/article-covers-236026-bitcoin-treasuries-stall-q4-biggest-companies-buying-1280x853.png",
+    "summary": "",
+    "importance": 5
+  },
+  {
+    "title": "BitMEX faces Celsius lawsuit ahead of exchange closure",
+    "link": "https://cointelegraph.com/news/celsius-estate-bitmex-6360-btc-liquidation-lawsuit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Thu, 17 Sep 2026 05:55:18 +0000",
+    "source": "Cointelegraph",
+    "category": "crypto",
+    "content": "The Celsius estate alleges BitMEX wrongfully liquidated and seized 6,360 BTC, worth nearly $490 million, during the March 2020 market crash.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2PXB2KEBNHRB3GT02WG649G/hi-what-happened-in-crypto-legal-news-breaking-news-1.jpg",
+    "summary": "",
+    "importance": 5
+  },
+  {
+    "title": "OpenAI discloses 6 new cases of ‘misaligned’ AI behavior",
+    "link": "https://cointelegraph.com/news/openai-discloses-6-new-cases-of-misaligned-ai-behavior?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Thu, 17 Sep 2026 05:49:06 +0000",
+    "source": "Cointelegraph",
+    "category": "crypto",
+    "content": "The six cases are separate from July’s incident, when OpenAI models escaped containment and hacked Hugging Face during a security evaluation.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2PYG783YDGVTZQ6W3CRT5PZ/ai-hack-2.jpg",
     "summary": "",
     "importance": 5
   },
@@ -324,7 +370,7 @@
     "pubDate": "Thu, 17 Sep 2026 00:23:44 +0000",
     "source": "Cointelegraph",
     "category": "crypto",
-    "content": "The legislation would effectively codify Trump’s Bitcoin reserve policy, locking up Bitcoin acquired through civil and criminal forfeiture for 20 years.",
+    "content": "The legislation seeks to codify Trump’s Bitcoin reserve policy, locking up Bitcoin acquired through civil and criminal forfeiture for 20 years.",
     "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2PBVVSYAZJ83B7SZQBHEASY/bitcoin-3.jpg",
     "summary": "",
     "importance": 5
@@ -561,68 +607,24 @@
     "importance": 5
   },
   {
-    "title": "US Senate fails to advance CLARITY Act",
-    "link": "https://cointelegraph.com/news/us-senate-fails-to-advance-clarity-act?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Tue, 15 Sep 2026 18:46:51 +0000",
-    "source": "Cointelegraph",
+    "title": "Bitwise CIO Hougan revises Clarity Act outlook, says crypto bull market may continue without legislation",
+    "link": "https://www.theblock.co/news/markets/2026-09-17-bitwise-cio-hougan-revises-clarity-act-outlook-says-crypto-bull-market-may-continue-without-legislation-415339",
+    "pubDate": "Thu, 17 Sep 2026 10:19:55 +0000",
+    "source": "The Block",
     "category": "crypto",
-    "content": "The failed procedural vote leaves the CLARITY Act facing an uncertain future after months of negotiations over crypto oversight and ethics provisions.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2K3DC5KWJ1X6BP5W0XSQ09S/x-hi-us-senate-infrastructure-bill-doom-and-gloom-for-crypto-clarity-act.png",
+    "content": "Bitcoin climbed above $80,000 in early September despite declining odds of the legislation passing this year, Hougan noted.",
+    "image": "https://www.tbstat.com/wp/uploads/2026/09/bitwise-1200x675.png",
     "summary": "",
     "importance": 5
   },
   {
-    "title": "Stablecoin growth could boost dollar dominance, US Treasury demand: BoE official",
-    "link": "https://cointelegraph.com/news/stablecoins-us-dollar-dominance-treasury-demand-boe?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Tue, 15 Sep 2026 17:53:04 +0000",
-    "source": "Cointelegraph",
+    "title": "South Korean police charge 26 Polymarket users for illegal gambling: report",
+    "link": "https://www.theblock.co/news/regulation/2026-09-17-south-korean-police-charge-polymarket-users-415333",
+    "pubDate": "Thu, 17 Sep 2026 06:12:50 +0000",
+    "source": "The Block",
     "category": "crypto",
-    "content": "A Bank of England policy maker said digital dollars could expand access to the US currency while turning stablecoin issuers into bigger buyers of government debt.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2JZTTWXRSC00VVMGKVA4JWM/hi-central-bank-issued-digital-currency-the-new-bank-account-uk2.jpg",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "Binance adds 11 US-listed ETFs to wealth management offering",
-    "link": "https://cointelegraph.com/news/binance-adds-11-us-listed-etfs-to-wealth-management-offering?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Tue, 15 Sep 2026 17:22:04 +0000",
-    "source": "Cointelegraph",
-    "category": "crypto",
-    "content": "The crypto exchange is expanding its traditional finance offerings with 11 US-listed exchange-traded funds focused on US Treasurys and investment-grade bonds.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2JZT31WJSAPCWV4C5T6FJ1R/hi-bitcoin-etf-sec-deadline-on-nov-5-not-a-decision-on-etfs-but-deadline-for-the-public-to-submit-a-review-clarifying-piece.png",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "Bitcoin price falls to $75.6K September low as global bonds hit multidecade highs",
-    "link": "https://cointelegraph.com/markets/bitcoin-price-falls-to-756k-september-low-as-global-bonds-hit-multidecade-highs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Tue, 15 Sep 2026 16:02:01 +0000",
-    "source": "Cointelegraph",
-    "category": "crypto",
-    "content": "Bitcoin price action weakened over market nerves prior to the Senate CLARITY Act vote, while surging bond yields pressured risk assets across the board.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2JWDC9JXEQB4J55MT31ZEK2/hi-what-are-bonds-and-how-do-they-work-for-crypto-red.jpg",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "Standard Chartered says Arbitrum could outperform Bitcoin, Ether through 2030",
-    "link": "https://cointelegraph.com/news/standard-chartered-arbitrum-arb-price-10-2030?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Tue, 15 Sep 2026 15:50:49 +0000",
-    "source": "Cointelegraph",
-    "category": "crypto",
-    "content": "Standard Chartered sees Robinhood Chain as an early sign that tokenization could transform Arbitrum’s economics and drive ARB sharply higher by 2030.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2JRTG1Y6S9M2Y37M3XPJ1PC/hi-arbitrum-a-beginners-guide-to-the-next-generation-layer-2-for-ethereum-1.jpg",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "ETH wallet exploit backfires as MEV bot captures $7.7M, Kelp freezes address",
-    "link": "https://cointelegraph.com/news/mev-bot-intercepts-77m-in-rseth-from-ethereum-wallet-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Tue, 15 Sep 2026 15:21:26 +0000",
-    "source": "Cointelegraph",
-    "category": "crypto",
-    "content": "An MEV bot known as “Yoink” front-ran an attacker attempting to exploit a custom Safe module, capturing the stolen rsETH before Kelp temporarily froze the receiving address.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2JRVDXPPS1RFJ7HQKY6AX30/hi-transactions-stopped-danger-1.jpg",
+    "content": "The country blocked local access to Polymarket last month after its media regulator ruled that the platform offers illegal gambling.",
+    "image": "https://www.tbstat.com/wp/uploads/2024/11/20241111_Polymarket_News_2-1200x675.jpg",
     "summary": "",
     "importance": 5
   },
@@ -825,28 +827,6 @@
     "importance": 5
   },
   {
-    "title": "House committee releases sweeping crypto tax bill ahead of Wednesday markup",
-    "link": "https://www.theblock.co/news/regulation/2026-09-15-house-committee-crypto-tax-bill-414824",
-    "pubDate": "Tue, 15 Sep 2026 11:52:36 +0000",
-    "source": "The Block",
-    "category": "crypto",
-    "content": "Among its provisions is a $10 exception for certain fees paid in crypto, along with provisions covering stablecoins, mining, and staking.",
-    "image": "https://www.tbstat.com/wp/uploads/2023/08/20230712_USA_CryptoTax_News-1200x675.jpg",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "Standard Chartered sees Arbitrum at $10 by end-2030, up 70-fold",
-    "link": "https://www.theblock.co/news/markets/2026-09-15-standard-chartered-sees-arbitrum-at-10-by-end-2030-up-70-fold-414821",
-    "pubDate": "Tue, 15 Sep 2026 11:50:30 +0000",
-    "source": "The Block",
-    "category": "crypto",
-    "content": "Standard Chartered sees Arbitrum at $10 by 2030, projecting a roughly 70-fold increase as tokenization grows and TradFi firms move onchain.",
-    "image": "https://www.tbstat.com/wp/uploads/2023/03/20230315_Arbitrum_airdrop-1200x675.jpg",
-    "summary": "",
-    "importance": 5
-  },
-  {
     "title": "Peter Schiff: “The Fed Has Already Lost The Battle Against Inflation” & BTC vs GOLD Debate",
     "link": "https://bitcoinmagazine.com/videos/peter-schiff-the-fed-has-already-lost-the-battle",
     "pubDate": "Wed, 16 Sep 2026 20:28:50 +0000",
@@ -957,6 +937,17 @@
     "importance": 5
   },
   {
+    "title": "Meet the innovators under 35 shaping climate tech",
+    "link": "https://www.technologyreview.com/2026/09/17/1144251/innovators-shaping-climate-tech/",
+    "pubDate": "Thu, 17 Sep 2026 10:00:00 +0000",
+    "source": "MIT Technology Review",
+    "category": "ai",
+    "content": "Each year, the editorial team at MIT Technology Review puts together a list of 35 innovators under 35—a group of researchers, inventors, and other young minds worth following. The team worked on the newest edition of the list for months, and the final slate includes nine individuals from all over the world in the climate…",
+    "image": "",
+    "summary": "",
+    "importance": 5
+  },
+  {
     "title": "Meet a mouse whose brain cortex is made up of human cells",
     "link": "https://www.technologyreview.com/2026/09/16/1144210/meet-a-mouse-whose-brain-cortex-is-made-up-of-human-cells/",
     "pubDate": "Wed, 16 Sep 2026 15:00:00 +0000",
@@ -1056,12 +1047,23 @@
     "importance": 5
   },
   {
-    "title": "AI agents blew the whistle on their cheating colleagues",
-    "link": "https://www.technologyreview.com/2026/09/14/1144037/ai-agents-blew-whistle-o-cheating-colleagues/",
-    "pubDate": "Mon, 14 Sep 2026 16:00:00 +0000",
-    "source": "MIT Technology Review",
+    "title": "Iceland-based Treble raises $18 million for its voice simulation platform",
+    "link": "https://techcrunch.com/2026/09/16/iceland-based-treble-raises-18-million-for-its-voice-simulation-platform/",
+    "pubDate": "Thu, 17 Sep 2026 05:00:00 +0000",
+    "source": "TechCrunch AI",
     "category": "ai",
-    "content": "A group of AI agents asked to solve a series of math problems split into rival factions—when some cheated, others tried to stop them. That whistleblowing behavior, seen for the first time in a recent experiment run by Google DeepMind, could have implications for alignment researchers trying to keep swarms of autonomous AI agents in…",
+    "content": "Treble's voice simulation platform is used by voice AI model developers, AI wearable, and robotics companies",
+    "image": "",
+    "summary": "",
+    "importance": 5
+  },
+  {
+    "title": "Your startup’s next teammate might be an AI agent: Gusto, Insight Partners, and Leland explain what that changes at TechCrunch Disrupt 2026",
+    "link": "https://techcrunch.com/2026/09/16/your-startups-next-teammate-might-be-an-ai-agent-gusto-insight-partners-and-leland-explain-what-that-changes-at-techcrunch-disrupt-2026/",
+    "pubDate": "Thu, 17 Sep 2026 03:30:00 +0000",
+    "source": "TechCrunch AI",
+    "category": "ai",
+    "content": "This session will explore how early-stage companies are building teams where humans and AI agents work alongside each other — and how founders can do that without sacrificing speed, accountability, or culture. Learn more at TechCrunch Disrupt 2026. Register before September 25 to save up to $200.",
     "image": "",
     "summary": "",
     "importance": 5
@@ -1078,7 +1080,7 @@
     "importance": 5
   },
   {
-    "title": "Al Gore says the real AI risk isn’t data centers — it’s what industry leaders are warning about",
+    "title": "Al Gore says the real AI risk isn’t data centers",
     "link": "https://techcrunch.com/2026/09/16/al-gore-has-a-surprisingly-calm-take-on-the-ai-data-center-backlash/",
     "pubDate": "Wed, 16 Sep 2026 23:43:09 +0000",
     "source": "TechCrunch AI",
@@ -1260,28 +1262,6 @@
     "source": "TechCrunch AI",
     "category": "ai",
     "content": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
-    "image": "",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "US data centers could consume more natural gas than Germany and Japan combined by 2035",
-    "link": "https://techcrunch.com/2026/09/15/us-data-centers-could-consume-more-natural-gas-than-germany-and-japan-combined-by-2035/",
-    "pubDate": "Tue, 15 Sep 2026 18:29:20 +0000",
-    "source": "TechCrunch AI",
-    "category": "ai",
-    "content": "The AI frenzy could push U.S. data centers to become one of the largest consumers of natural gas in the world.",
-    "image": "",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "AI agents now have a place to snitch",
-    "link": "https://techcrunch.com/2026/09/15/ai-agents-now-have-a-place-to-snitch/",
-    "pubDate": "Tue, 15 Sep 2026 17:42:59 +0000",
-    "source": "TechCrunch AI",
-    "category": "ai",
-    "content": "The AI Contact Hotline is designed to be a discreet place where agents that have witnessed misbehavior can tip off authorities.",
     "image": "",
     "summary": "",
     "importance": 5
@@ -1615,5 +1595,29 @@
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/LakeMariner-1152x648.png",
     "summary": "",
     "importance": 5
+  },
+  {
+    "title": "Goldman pivots, now forecasts Fed rate hike in October",
+    "link": "https://www.coindesk.com/markets/2026/09/17/goldman-expects-another-fed-rate-hike-in-october",
+    "pubDate": "Thu, 17 Sep 2026 04:17:55 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "The Fed is likely to raise rates by 25 basis points in October, Goldman said, drawing attention to Fed's own hawkish near term rate projections.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/8308493c2140c9c77679daf94cac837a721ec241-1440x1080.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "Goldman Sachs has revised its forecast, now predicting a 25 basis point interest rate hike by the Federal Reserve in October. This updated outlook reflects the Fed's own hawkish projections for near-term rates.",
+    "importance": 3,
+    "classified": true
+  },
+  {
+    "title": "U.S. diesel prices hit record high as bitcoin and gold struggle",
+    "link": "https://www.coindesk.com/markets/2026/09/17/u-s-diesel-prices-hit-record-high-as-bitcoin-and-gold-struggle",
+    "pubDate": "Thu, 17 Sep 2026 07:27:07 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "Record diesel prices could feed through to consumer price inflation, confirming more Fed rate hikes. The central bank appears determined to raise rates into a oil supply shock.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/6611d576e10d0b5c10391e872f9116f58bc22514-2854x1488.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "U.S. diesel prices have hit a record high, which is expected to fuel consumer price inflation and prompt further interest rate hikes by the Federal Reserve. This economic trend is noted as Bitcoin and gold concurrently struggle in the market.",
+    "importance": 2,
+    "classified": true
   }
 ]
