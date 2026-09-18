@@ -60,6 +60,18 @@
     "classified": true
   },
   {
+    "title": "DHS’s predictive policing is unconstitutional, un-American and should be stopped",
+    "link": "https://www.coindesk.com/opinion/2026/09/18/dhs-s-predictive-policing-is-unconstitutional-un-american-and-should-be-stopped",
+    "pubDate": "Fri, 18 Sep 2026 13:00:00 +0000",
+    "source": "CoinDesk",
+    "category": "both",
+    "content": "Targeting Americans based on what their spending habits can tell us about their politics is an abuse of our financial system, writes Coin Center’s Laz Pieper.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/c5f29d956f8c68dcb1e876203b0d49558b374ae5-5083x3453.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "An article by Coin Center's Laz Pieper argues that the Department of Homeland Security's (DHS) use of predictive policing, which analyzes Americans' spending habits to infer political leanings, is unconstitutional and an abuse of the financial system. It calls for an immediate halt to this practice. The author asserts that targeting citizens based on financial data is fundamentally un-American.",
+    "importance": 8,
+    "classified": true
+  },
+  {
     "title": "Ethereum confirms Glamsterdam dates, but warns 'fake' builders could stall the chain",
     "link": "https://www.coindesk.com/tech/2026/09/18/ethereum-confirms-glamsterdam-dates-but-warns-fake-builders-could-stall-the-chain",
     "pubDate": "Fri, 18 Sep 2026 05:23:29 +0000",
@@ -144,30 +156,6 @@
     "classified": true
   },
   {
-    "title": "Crypto rallies through the Fed's first rate increase since 2023",
-    "link": "https://www.coindesk.com/markets/2026/09/17/crypto-rallies-through-the-fed-s-first-rate-increase-since-2023",
-    "pubDate": "Thu, 17 Sep 2026 10:40:01 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "Bitcoin rose 0.88% over 24 hours to $76,621 as the central bank's projections implied only one further hike. Zcash jumped 23% to a record after Paradigm disclosed a stake.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/91f3ce4b062bc760da8b3f8f70d238bc125a9f65-1920x1080.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "Bitcoin rallied 0.88% to $76,621 following the Federal Reserve's first rate increase since 2023, as market projections indicated only one further hike. Concurrently, Zcash surged 23% to a record high after Paradigm disclosed a significant stake in the cryptocurrency.",
-    "importance": 8,
-    "classified": true
-  },
-  {
-    "title": "Ripple adds XRP payments to Stripe and Tempo’s AI standard in new developer kit",
-    "link": "https://www.coindesk.com/tech/2026/09/17/ripple-adds-xrp-payments-to-stripe-and-tempo-s-ai-standard-in-new-developer-kit",
-    "pubDate": "Thu, 17 Sep 2026 07:54:33 +0000",
-    "source": "CoinDesk",
-    "category": "both",
-    "content": "The update expands support for automated payments in XRP and RLUSD, with tools that let agents pay repeatedly for services and manage wallets across blockchains.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/b870a99b3666942b2ac0a5c20219248585e42b45-6016x4016.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "Ripple has launched a new developer kit that integrates XRP and RLUSD payments with Stripe and Tempo's AI standard. This kit enables automated, recurring payments for services and offers tools for managing wallets across different blockchains.",
-    "importance": 8,
-    "classified": true
-  },
-  {
     "title": "CFTC expands regulatory relief for passive trading software providers",
     "link": "https://cointelegraph.com/news/cftc-expands-regulatory-relief-for-passive-trading-software-providers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "pubDate": "Thu, 17 Sep 2026 19:30:48 +0000",
@@ -200,30 +188,6 @@
     "content": "Stablecoin payments company dtcpay completed a $25 million Series A funding round with a strategic investment from Japan’s SBI Group.",
     "image": "https://cdn.sanity.io/images/s3y3vcno/production/7d7fa3eb980a963484b88dc6e702539fda68b6b7-1280x853.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
     "summary": "Stablecoin payments company dtcpay has successfully closed a $25 million Series A funding round. The funding round included a strategic investment from Japan's SBI Group.",
-    "importance": 7,
-    "classified": true
-  },
-  {
-    "title": "Live updates: Bitcoin edges higher as Nasdaq climbs 1.7% in wake of Fed rate hike",
-    "link": "https://www.coindesk.com/tech/2026/09/17/live-updates-zcash-jumps-17-as-usd345-million-of-liquidations-hit-crypto-traders",
-    "pubDate": "Thu, 17 Sep 2026 10:41:15 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "The SEC debuted its long-awaited \"innovation exemption,\" providing a roadmap for blockchain-based venues to offer tokenized securities.",
-    "image": "",
-    "summary": "Zcash experienced a 17% price surge, triggering $345 million in crypto liquidations across the market. Short sellers were heavily impacted, with Zcash alone accounting for $56 million of these forced closures.",
-    "importance": 7,
-    "classified": true
-  },
-  {
-    "title": "Bitcoin faces 2022 parallels as Federal Reserve resumes rate increases",
-    "link": "https://www.coindesk.com/markets/2026/09/17/bitcoin-faces-2022-parallels-as-federal-reserve-resumes-rate-hikes",
-    "pubDate": "Thu, 17 Sep 2026 08:41:48 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "Bitcoin’s drawdown mirrors its position before the Fed’s first hike in March 2022, raising questions over whether a relief rally could precede further losses.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/2c0e10162eeb3f847d9b58464aa8ddce932437bf-2396x1382.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "Bitcoin's current drawdown is reminiscent of its position before the Federal Reserve's initial rate hike in March 2022. This parallel sparks debate about whether a potential relief rally could precede further market losses for the cryptocurrency.",
     "importance": 7,
     "classified": true
   },
@@ -300,18 +264,6 @@
     "classified": true
   },
   {
-    "title": "How Circle’s institutional Arc blockchain got taken over by memecoins on day one",
-    "link": "https://www.coindesk.com/business/2026/09/17/circle-launched-a-corporate-l2-backed-by-blackrock-but-traders-immediately-turned-it-into-a-memecoin-casino",
-    "pubDate": "Thu, 17 Sep 2026 11:42:22 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "Circle blockchain Arc's first day was dominated by memecoins, and the traders behind them had already moved on by Thursday morning.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/b32479120dd050a14c67caa0141f255818bdf3a8-1920x1080.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "Circle's new institutional Arc blockchain was unexpectedly dominated by memecoin trading on its first day of launch. Traders behind these memecoins quickly moved off the platform by the following morning, highlighting an initial challenge for the new blockchain.",
-    "importance": 6,
-    "classified": true
-  },
-  {
     "title": "Here’s what happened in crypto today",
     "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "pubDate": "Fri, 18 Sep 2026 06:00:00 +0000",
@@ -336,6 +288,72 @@
     "classified": true
   },
   {
+    "title": "ECB President Christine Lagarde intervened to block Binance’s EU MiCA license: WSJ",
+    "link": "https://www.coindesk.com/policy/2026/09/18/ecb-president-christine-lagarde-intervened-to-block-binance-s-eu-mica-license-wsj",
+    "pubDate": "Fri, 18 Sep 2026 12:57:06 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "Although the ECB holds no formal licensing authority under MiCA, high-level intervention led Greece to stall an application that regulators had previously deemed complete, the Journal said.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/26cccb22ec392aed75fa716d72a469596e1faf75-6048x4032.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "",
+    "importance": 5
+  },
+  {
+    "title": "Zcash targets November upgrade to make private payments up to three times faster",
+    "link": "https://www.coindesk.com/tech/2026/09/18/zcash-targets-november-upgrade-to-make-private-payments-up-to-three-times-faster",
+    "pubDate": "Fri, 18 Sep 2026 12:50:01 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "NU7 would reduce block times to 25 seconds while setting aside at least 60% of transaction fees to supplement mining rewards beginning in 2031.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/837700a2c31b20bd836c2e16853b6d25f4e30f7f-5400x3600.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "",
+    "importance": 5
+  },
+  {
+    "title": "XRP on the brink of a golden cross as focus switches to altcoins",
+    "link": "https://www.coindesk.com/daybook-us/2026/09/18/xrp-on-the-brink-of-a-golden-cross-as-focus-switches-to-altcoins",
+    "pubDate": "Fri, 18 Sep 2026 11:15:00 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "Your day-ahead look for Sept. 18, 2026",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/835ea4daddfdc629af7a5d1bf07c9510cb5baea1-2854x1488.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "",
+    "importance": 5
+  },
+  {
+    "title": "Layer-2 and DeFi tokens lead broad crypto advance as post-Fed hike nerves fade",
+    "link": "https://www.coindesk.com/markets/2026/09/18/layer-2-and-defi-tokens-lead-broad-crypto-advance-as-post-fed-hike-nerves-fade",
+    "pubDate": "Fri, 18 Sep 2026 10:33:05 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "Starknet and arbitrum gained more than 17% while the 10-year Treasury yield slipped back below 5%, with 98 of CoinDesk 100 constituents advancing.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/836ed3bca786c37ab6d40c3c8e2936188ef5cc4c-1920x1080.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "",
+    "importance": 5
+  },
+  {
+    "title": "Bitcoin weathers September storm as rate hikes and Clarity act setback test bulls",
+    "link": "https://www.coindesk.com/markets/2026/09/18/bitcoin-weathers-september-storm-as-rate-hikes-and-clarity-act-setback-test-bulls",
+    "pubDate": "Fri, 18 Sep 2026 10:07:33 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "Bitcoin is down just 1.5% in its historically weakest month and remains on track for its first quarterly gain in a year, despite rising rates, surging oil and a stronger dollar.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/993df2e2bfe6457f309bb7771a210877078feee1-1534x969.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "",
+    "importance": 5
+  },
+  {
+    "title": "Live updates: HYPE leads altcoin rally as bitcoin recovers toward $78,000",
+    "link": "https://www.coindesk.com/tech/2026/09/18/live-updates-hype-leads-altcoin-rally-as-bitcoin-recovers-toward-usd78-000",
+    "pubDate": "Fri, 18 Sep 2026 09:49:51 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "Bitcoin recovered from $75,972 overnight to just below $78,000, a third straight day of gains.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/3c5d2212c2fb46850adb51bad1ac78de5e73f26b-1490x844.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "",
+    "importance": 5
+  },
+  {
     "title": "Ether and XRP ETFs post outflows as crypto majors move higher",
     "link": "https://www.coindesk.com/markets/2026/09/18/ether-and-xrp-etfs-post-outflows-as-bitcoin-moves-above-usd77-000",
     "pubDate": "Fri, 18 Sep 2026 04:49:17 +0000",
@@ -358,16 +376,81 @@
     "importance": 5
   },
   {
-    "title": "Zcash miner Fortitude names former Hut 8 chief Jaime Leverton CEO ahead of Nasdaq deal",
-    "link": "https://www.coindesk.com/business/2026/09/17/zcash-miner-fortitude-names-former-hut-8-chief-jaime-leverton-ceo-ahead-of-nasdaq-deal",
-    "pubDate": "Thu, 17 Sep 2026 12:00:00 +0000",
-    "source": "CoinDesk",
+    "title": "Ethereum Institutional signals support for Ethlabs’ motion to reduce Ethereum block times",
+    "link": "https://cointelegraph.com/news/ethereum-institutional-support-ethlabs-reduce-ethereum-block-times?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Fri, 18 Sep 2026 12:40:04 +0000",
+    "source": "Cointelegraph",
     "category": "crypto",
-    "content": "Leverton will lead the DCG-owned mining company as it pursues a public listing through its proposed merger with HeartSciences.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/54bd04de039305784bf732dce245207bcc75ba21-7008x3942.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "Zcash miner Fortitude has appointed Jaime Leverton, formerly the chief of Hut 8, as its new CEO. This leadership change comes as the DCG-owned company prepares for a public listing on Nasdaq through its proposed merger with HeartSciences.",
-    "importance": 5,
-    "classified": true
+    "content": "The non-profit signaled support for reducing Ethereum block times, citing increasing institutional activity moving onto the smart-contract network.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2T7NKWN03KJ6ZDTP8T7YWSJ/hi-ethereum-classic-under-the-regulatory-spotlight.jpg",
+    "summary": "",
+    "importance": 5
+  },
+  {
+    "title": "HYPE hits record above $90 as Hyperliquid launches manual borrowing",
+    "link": "https://cointelegraph.com/markets/hype-ath-above-90-hyperliquid-manual-borrowing-lending?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Fri, 18 Sep 2026 11:54:24 +0000",
+    "source": "Cointelegraph",
+    "category": "crypto",
+    "content": "HYPE hit a record $90.92 after Hyperliquid opened manual borrowing, letting users borrow stablecoins against HYPE and Bitcoin collateral.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2T42CNV25QSYE1M3WVJM8MM/11111111.png",
+    "summary": "",
+    "importance": 5
+  },
+  {
+    "title": "Dragonfly’s Qureshi calls for end to Zcash dev fund after 2028",
+    "link": "https://cointelegraph.com/news/dragonflys-qureshi-end-zcash-dev-fund-2028?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Fri, 18 Sep 2026 11:22:24 +0000",
+    "source": "Cointelegraph",
+    "category": "crypto",
+    "content": "Industry watchers are debating the fate of the Zcash development fund after the ZEC token’s rally pushed its value above $95 million.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2T25M0MFG1XWDPQYKESEV30/hi-why-zec-fell-40-even-after-zcash-patched-a-shielded-pool-bug.jpg",
+    "summary": "",
+    "importance": 5
+  },
+  {
+    "title": "Bitcoin adds to bull-market hopes as price metric prints fourth-ever bullish cross",
+    "link": "https://cointelegraph.com/markets/bitcoin-adds-to-bull-market-hopes-as-price-metric-prints-fourth-ever-bullish-cross?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Fri, 18 Sep 2026 10:46:17 +0000",
+    "source": "Cointelegraph",
+    "category": "crypto",
+    "content": "The Fisher Transform indicator produced a rare crossover for only the fourth time in Bitcoin’s history.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1XA5XHGVP1S4E8DGH0JJ4XZ/sponsor-screen-traid2.jpg",
+    "summary": "",
+    "importance": 5
+  },
+  {
+    "title": "Stablecoin payments firm dtcpay closes $25M round with SBI backing",
+    "link": "https://cointelegraph.com/news/dtcpay-25m-series-a-sbi-stablecoin-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Fri, 18 Sep 2026 09:14:03 +0000",
+    "source": "Cointelegraph",
+    "category": "crypto",
+    "content": "Dtcpay plans to expand its merchant network and payment products after completing a $25 million Series A backed by Japan’s SBI Group.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2SW0NN1AJCM8SBK7NYC8PRK/hi-crypto-negotiation-1.jpg",
+    "summary": "",
+    "importance": 5
+  },
+  {
+    "title": "Binance brushes off Lagarde MiCA speculation, reaffirms Europe commitment",
+    "link": "https://cointelegraph.com/news/binance-cites-speculation-report-ecb-chief-mica-intervention?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Fri, 18 Sep 2026 08:50:38 +0000",
+    "source": "Cointelegraph",
+    "category": "crypto",
+    "content": "Binance declined to address reports of ECB intervention in its Greek MiCA bid, saying it remains committed to securing authorization in Europe.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2STMBSK2VDWAGTJC3MX17R7/europe-binance-1.jpg",
+    "summary": "",
+    "importance": 5
+  },
+  {
+    "title": "Bitcoin cycle bottom may already be in at $58K, says analyst James Check",
+    "link": "https://cointelegraph.com/markets/bitcoin-cycle-bottom-58k-james-check?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Fri, 18 Sep 2026 08:47:20 +0000",
+    "source": "Cointelegraph",
+    "category": "crypto",
+    "content": "Onchain analyst James Check says Bitcoin may have bottomed near $58,000 after two capitulations and warns against anchoring to an October low.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2SN22TNQ4C3YHZG80V0QR6A/bitcoin-domination-token-altcoin.jpg",
+    "summary": "",
+    "importance": 5
   },
   {
     "title": "World launches self-custodial ‘super app’ World Money",
@@ -513,79 +596,13 @@
     "importance": 5
   },
   {
-    "title": "Bitcoin absorbs Fed rate hike as officials see more tightening",
-    "link": "https://cointelegraph.com/markets/bitcoin-absorbs-fed-rate-hike-as-officials-see-more-tightening?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Thu, 17 Sep 2026 02:52:08 +0000",
-    "source": "Cointelegraph",
+    "title": "Kevin O’Leary is buying crypto again, says major stock exchange adoption is the ‘watershed moment’ to watch",
+    "link": "https://www.theblock.co/news/business/2026-09-18-kevin-oleary-is-buying-crypto-again-says-major-stock-exchange-adoption-is-the-watershed-moment-to-watch-415491",
+    "pubDate": "Fri, 18 Sep 2026 10:08:42 +0000",
+    "source": "The Block",
     "category": "crypto",
-    "content": "Bitcoin showed little immediate reaction to the Fed’s first rate increase since 2023, but 16 of 18 officials expect at least one more hike before the end of the year.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2PM955XFQTW2Q74Q14WCFR2/fed.jpg",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "US lawmakers advance bill to lock Trump’s Bitcoin reserve into law",
-    "link": "https://cointelegraph.com/news/us-bitcoin-reserve-bill-passes-house-committee?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Thu, 17 Sep 2026 00:23:44 +0000",
-    "source": "Cointelegraph",
-    "category": "crypto",
-    "content": "The legislation seeks to codify Trump’s Bitcoin reserve policy, locking up Bitcoin acquired through civil and criminal forfeiture for 20 years.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2PBVVSYAZJ83B7SZQBHEASY/bitcoin-3.jpg",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "USDT payments feature in Polish energy giant’s failed $230M oil deal: FT",
-    "link": "https://cointelegraph.com/news/usdt-payments-polish-energy-giants-failed-230m-oil-deal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Wed, 16 Sep 2026 21:00:00 +0000",
-    "source": "Cointelegraph",
-    "category": "crypto",
-    "content": "Tether’s USDT stablecoin was part of a failed oil trade that reportedly cost a Polish energy giant $230 million in late 2023.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2JGJQHSGWT0JCBGJ8YAJD8X/oil-tether-blockchain-sky-platform-production.jpg",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "CLARITY Act could get another shot during lame-duck session, policy advocate says",
-    "link": "https://cointelegraph.com/news/clarity-act-could-get-another-shot-during-lame-duck-session-policy-advocate-says?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Wed, 16 Sep 2026 20:51:38 +0000",
-    "source": "Cointelegraph",
-    "category": "crypto",
-    "content": "Digital Sovereignty Alliance managing director Adrian Wall said senators from both parties are considering another attempt to advance the crypto market structure bill before the current Congress ends.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2NY2SA6460QWXX3EP9NYFFC/hi-us-senate-infrastructure-bill-doom-and-gloom-for-memecoin-trump-2.png",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "UK FCA sets crypto authorization guidance ahead of September application window",
-    "link": "https://cointelegraph.com/news/uk-fca-sets-crypto-authorization-guidance-ahead-of-september-application-window?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Wed, 16 Sep 2026 19:19:23 +0000",
-    "source": "Cointelegraph",
-    "category": "crypto",
-    "content": "The FCA’s new guidance outlines which crypto activities may require authorization as firms prepare for the UK’s incoming digital asset regulatory regime.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2NRTRQVV5H9VDTT43R1701S/hi-united-kingdom-making-strides-on-crypto-regulation-fca.jpg",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "US House tax committee advances crypto tax overhaul in 38–5 vote",
-    "link": "https://cointelegraph.com/news/house-tax-committee-advances-crypto-tax-overhaul-in-385-vote?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Wed, 16 Sep 2026 18:01:55 +0000",
-    "source": "Cointelegraph",
-    "category": "crypto",
-    "content": "A bipartisan House committee vote advanced legislation that would reshape federal tax rules for stablecoins, staking, crypto lending and digital asset transactions.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2NKZPXXHGWMSP41E47Q6TRZ/hi-more-irs-crypto-reporting-more-danger.jpg",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "Anchorage expands institutional custody to Etherlink, tokenized uranium",
-    "link": "https://cointelegraph.com/news/anchorage-digital-brings-tokenized-uranium-custody-to-federally-chartered-crypto-bank?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Wed, 16 Sep 2026 16:03:35 +0000",
-    "source": "Cointelegraph",
-    "category": "crypto",
-    "content": "Anchorage Digital Bank added custody support for Etherlink and several Etherlink-based assets, including xU3O8, a token representing physical uranium.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2NDB0Z3PMHZBGW6VE69Z32A/coin-crypto-silver.png",
+    "content": "Kevin O'Leary says he is buying crypto again and watching for a major stock exchange to adopt a blockchain network.",
+    "image": "https://www.tbstat.com/wp/uploads/2022/04/Screen-Shot-2022-04-06-at-1.40.50-PM-1184x675.png",
     "summary": "",
     "importance": 5
   },
@@ -799,17 +816,6 @@
     "importance": 5
   },
   {
-    "title": "JPMorgan says Clarity Act ‘not fully dead,’ but passage window ‘extremely narrow’",
-    "link": "https://www.theblock.co/news/regulation/2026-09-16-jpmorgan-clarity-act-crypto-bill-415280",
-    "pubDate": "Wed, 16 Sep 2026 17:01:22 +0000",
-    "source": "The Block",
-    "category": "crypto",
-    "content": "The Clarity Act is \"not fully dead,\" but the window for passing the crypto bill this year is now \"extremely narrow,\" JPMorgan said.",
-    "image": "https://www.tbstat.com/wp/uploads/2024/05/20240501_JpMorgan_News_2-1200x673.jpg",
-    "summary": "",
-    "importance": 5
-  },
-  {
     "title": "Dan Hillery: Digital Credit Could Rival BTC’s $1.5 Trillion Market Cap",
     "link": "https://bitcoinmagazine.com/videos/dan-hillery-digital-credit-could-rival-btcs-1-5-trillion-market-cap",
     "pubDate": "Fri, 18 Sep 2026 00:57:38 +0000",
@@ -920,6 +926,39 @@
     "importance": 5
   },
   {
+    "title": "The Download: AI’s extinction risk and bioweapons threat",
+    "link": "https://www.technologyreview.com/2026/09/18/1142577/the-download-ai-extinction-threat-bioweapons/",
+    "pubDate": "Fri, 18 Sep 2026 12:10:00 +0000",
+    "source": "MIT Technology Review",
+    "category": "ai",
+    "content": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Could AI really kill us all? Your questions, answered On Wednesday, MIT Technology Review hosted a live Roundtables event that asked the question many seem to be asking right now: could…",
+    "image": "https://wp.technologyreview.com/wp-content/uploads/2024/12/MM10211_240711_05211.jpg?w=840",
+    "summary": "",
+    "importance": 5
+  },
+  {
+    "title": "Could AI really kill us all? Your questions, answered.",
+    "link": "https://www.technologyreview.com/2026/09/18/1144435/could-ai-really-kill-us-all-your-questions-answered/",
+    "pubDate": "Fri, 18 Sep 2026 11:29:22 +0000",
+    "source": "MIT Technology Review",
+    "category": "ai",
+    "content": "On Wednesday, MIT Technology Review hosted a live Roundtables event for subscribers that asked the question everyone’s asking right now: Could AI really kill us all? But attendees had so many more questions than we had time to answer in the 30 minute session. So we asked our senior AI editor Will Douglas Heaven and…",
+    "image": "",
+    "summary": "",
+    "importance": 5
+  },
+  {
+    "title": "The specter of AI-enabled bioweapons is a wake-up call for biotech",
+    "link": "https://www.technologyreview.com/2026/09/18/1144329/the-specter-of-ai-enabled-bioweapons-is-a-wake-up-call-for-biotech/",
+    "pubDate": "Fri, 18 Sep 2026 09:00:00 +0000",
+    "source": "MIT Technology Review",
+    "category": "ai",
+    "content": "In recent weeks, leaders of some of the biggest AI companies have warned that the very tech they are developing is dangerous. Last weekend, Anthropic CEO Dario Amodei argued that AI carries serious risk and that progress should be slowed. OpenAI CEO Sam Altman responded on X: “I agree with Dario that we need to pace the…",
+    "image": "",
+    "summary": "",
+    "importance": 5
+  },
+  {
     "title": "The Download: mice with part-human brains and climate tech innovators",
     "link": "https://www.technologyreview.com/2026/09/17/1144314/the-download-mice-part-human-brains-climate-tech-innovators/",
     "pubDate": "Thu, 17 Sep 2026 12:10:00 +0000",
@@ -993,39 +1032,6 @@
     "category": "ai",
     "content": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The AI industry has taken a doomer turn. What now? AI chiefs Dario Amodei, Sam Altman, Elon Musk, and Demis Hassabis are suddenly all in agreement: the latest generation of LLMs…",
     "image": "https://wp.technologyreview.com/wp-content/uploads/2025/04/skin.spread.jpg?w=840",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "AI models need more data about biology, and OpenAI is paying to create it",
-    "link": "https://www.technologyreview.com/2026/09/15/1144129/ai-models-need-more-data-about-biology-and-openai-is-paying-to-create-it/",
-    "pubDate": "Tue, 15 Sep 2026 12:00:00 +0000",
-    "source": "MIT Technology Review",
-    "category": "ai",
-    "content": "Last year Ruxandra Teslo, a policy analyst who focuses on clinical trials, posted an idea for supercharging medical AI systems: Use data from failed biotech companies. By bidding at their bankruptcy proceedings, she proposed, it might be possible to obtain detailed regulatory filings, manufacturing strategies, and safety data—types of information usually considered trade secrets. She…",
-    "image": "",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "What’s at stake in AI’s trillion-dollar gamble",
-    "link": "https://www.technologyreview.com/2026/09/15/1144028/ai-infrastructure-boom-investment-bubble-risk/",
-    "pubDate": "Tue, 15 Sep 2026 10:00:00 +0000",
-    "source": "MIT Technology Review",
-    "category": "ai",
-    "content": "When Jessica Wachter, a finance professor at the University of Pennsylvania’s Wharton School, wanted to assess AI’s impact on the economy over the next few years, she faced a long list of business and technical uncertainties. So she started with what she calls a “remarkable fact” that is not in question: A handful of so-called…",
-    "image": "https://wp.technologyreview.com/wp-content/uploads/2026/09/h_16492684.jpg?w=840",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "The AI industry has taken a doomer turn. What now?",
-    "link": "https://www.technologyreview.com/2026/09/14/1144048/the-ai-industry-has-taken-a-doomer-turn-what-now/",
-    "pubDate": "Mon, 14 Sep 2026 17:54:22 +0000",
-    "source": "MIT Technology Review",
-    "category": "ai",
-    "content": "This story appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. This weekend, Dario Amodei, CEO of Anthropic, posted an essay calling for a brake on the pace of development of LLMs. Amodei cites the looming dangers he sees from the technology, from its…",
-    "image": "",
     "summary": "",
     "importance": 5
   },
@@ -1250,6 +1256,17 @@
     "importance": 5
   },
   {
+    "title": "Flash floods can strike without warning — this new technology could change that",
+    "link": "https://www.theverge.com/science/997083/flash-flood-warning-tacls-satellite-machine-learning",
+    "pubDate": "2026-09-18T11:00:00.000Z",
+    "source": "The Verge AI",
+    "category": "ai",
+    "content": "On the morning of June 9th, Laura Lin was working from her home in Lanesville, a rural southern Indiana town about 15 miles from the Kentucky border. She was on a Zoom call, unaware that the heavy rain outside was beginning to flood her yard. \n\"I look over to where the barn is over there, and I see pieces of my wood floating, and I was like, 'What?' And I immediately was like, 'I have to go.' Close my laptop, and I get my kids up, and I'm like, 'Something's wrong,'\" Lin recalls.\nLin and her family got out safely and sheltered at a neighbor's house, but Lanesville got over 8 inches of rain within just a few hours that day, way over the thre …\nRead the full story at The Verge.",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268746_new_technology_could_change_how_we_predict_flash_floods_for_good_CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "summary": "",
+    "importance": 5
+  },
+  {
     "title": "The AI Superintelligence Slowdown",
     "link": "https://www.theverge.com/ai-artificial-intelligence/996923/ai-safety-slow-openai-anthropic",
     "pubDate": "2026-09-17T19:28:24.000Z",
@@ -1345,17 +1362,6 @@
     "category": "ai",
     "content": "According to The Information, Apple is planning to get back into the server game and might just pair up with Nvidia to make it happen. Apple retired its Xserve line in 2011 and has largely left enterprise machines to other manufacturers since. But the growing demand for compute power as the AI industry continues to expand has apparently led the company to believe there is an opening for its powerful but efficient ARM-based M processors. Its Mac Mini and Mac Studio have proven popular with AI developers, which has led to shortages.\nThe server product, whether it's called Xserve or something else, likely won't debut until 2029. Word is that i …\nRead the full story at The Verge.",
     "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STK071_APPLE_I.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "Google will now let any AI agent run your smart home",
-    "link": "https://www.theverge.com/tech/996310/google-home-mcp-integration-agentic-ai-smart-home-price-release-date",
-    "pubDate": "2026-09-16T17:00:00.000Z",
-    "source": "The Verge AI",
-    "category": "ai",
-    "content": "Google is inviting third-party agents, including Claude and Open Claw, into Google Home. | Photo by Jennifer Pattison Tuohy / The Verge\t\n\nGoogle is opening up its smart home to AI agents, letting tools like Claude and Open Claw access and control your connected devices and analyze your home's data using the standardized Model Context Protocol. \nGoogle Home MCP is a new integration that lets third-party AI agents control and monitor your smart home and act on your behalf. It \"allows any AI agents that support MCP, including Google Antigravity, Claude, Hermes or Open Claw, to securely work with all of the devices and event history in your Google Home ecosystem,\" Taylor Lehman, group product manager at Google Home & Nest, said in a blog post.\nAccording to Lehman, Home MCP integ …\nRead the full story at The Verge.",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gemini-for-home.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
     "summary": "",
     "importance": 5
   },
@@ -1612,18 +1618,6 @@
     "content": "",
     "image": "https://cdn.sanity.io/images/s3y3vcno/production/9052ffe1b38183c086273c6f263b678678736d69-6000x4000.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
     "summary": "The news article's content is empty, so a detailed summary of its discussion points is not possible. However, its title, 'Crypto for Advisors: Beyond bitcoin and ether', indicates a focus on diverse cryptocurrency investments for financial advisors, extending beyond Bitcoin and Ethereum.",
-    "importance": 1,
-    "classified": true
-  },
-  {
-    "title": "Optimism creeps back into crypto, with the 2022 test still to come",
-    "link": "https://www.coindesk.com/daybook-us/2026/09/17/optimism-creeps-back-into-crypto-with-the-2022-test-still-to-come",
-    "pubDate": "Thu, 17 Sep 2026 11:19:09 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "Your day-ahead look for Sept. 17, 2026",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/ef11a5cc0617168c1ce14a276d6d7d85c7a882ad-8087x4549.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "The provided article is a placeholder for a 'day-ahead look' dated September 17, 2026. Its title suggests a return of optimism to the crypto market, anticipating a significant '2022 test,' but no specific details are provided within the content.",
     "importance": 1,
     "classified": true
   }
