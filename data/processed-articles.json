@@ -1,5 +1,17 @@
 [
   {
+    "title": "Iran’s Strait of Hormuz toll booth ran through a bitcoin exchange, U.S. says",
+    "link": "https://www.coindesk.com/policy/2026/09/18/iran-s-strait-of-hormuz-toll-booth-ran-through-a-bitcoin-exchange-u-s-says",
+    "pubDate": "Fri, 18 Sep 2026 06:52:23 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "The U.S. Treasury sanctioned BitBank, a Tehran exchange it says moved hundreds of millions of dollars in bitcoin to the Revolutionary Guards and handled payments collected from ships buying passage through the world’s most important oil chokepoint.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/ea6e0ec4cd84026d0707ce39424079748bd5f9fb-3449x2300.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "The U.S. Treasury sanctioned BitBank, a Tehran-based exchange, for allegedly moving hundreds of millions of dollars in bitcoin to Iran's Revolutionary Guards. The exchange is also accused of handling payments collected from ships for passage through the Strait of Hormuz, linking cryptocurrency to geopolitical financing and illicit activities.",
+    "importance": 9,
+    "classified": true
+  },
+  {
     "title": "Real stocks are finally coming on blockchain. Here’s how the SEC wants it to work",
     "link": "https://www.coindesk.com/business/2026/09/17/real-stocks-are-finally-coming-on-blockchain-here-s-how-the-sec-wants-it-to-work",
     "pubDate": "Thu, 17 Sep 2026 21:47:22 +0000",
@@ -36,15 +48,27 @@
     "classified": true
   },
   {
-    "title": "Group behind Revolut data breach demands $3 million in Monero, threaten to sell customer data",
-    "link": "https://www.coindesk.com/markets/2026/09/16/revolut-hackers-demand-usd3-million-in-monero-threaten-to-sell-customer-data",
-    "pubDate": "Wed, 16 Sep 2026 19:07:34 +0000",
+    "title": "US sanctions Iran’s BitBank, saying it processes ‘Hormuz Safe’ Bitcoin payments",
+    "link": "https://cointelegraph.com/news/us-sanctions-irans-bitbank-saying-it-processes-hormuz-safe-bitcoin-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Fri, 18 Sep 2026 01:33:54 +0000",
+    "source": "Cointelegraph",
+    "category": "crypto",
+    "content": "US Treasury says the Iranian exchange processed payments received through Iran’s Strait of Hormuz maritime scheme and helped move hundreds of millions of dollars in Bitcoin to the IRGC.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2S256YQ45ANHSRCNHS5BZ56/bitbank.jpg",
+    "summary": "The US Treasury has sanctioned Iran's BitBank cryptocurrency exchange. This action was taken because BitBank allegedly processed \"Hormuz Safe\" Bitcoin payments and facilitated the transfer of hundreds of millions of dollars in Bitcoin to Iran's Islamic Revolutionary Guard Corps (IRGC).",
+    "importance": 9,
+    "classified": true
+  },
+  {
+    "title": "Ethereum confirms Glamsterdam dates, but warns 'fake' builders could stall the chain",
+    "link": "https://www.coindesk.com/tech/2026/09/18/ethereum-confirms-glamsterdam-dates-but-warns-fake-builders-could-stall-the-chain",
+    "pubDate": "Fri, 18 Sep 2026 05:23:29 +0000",
     "source": "CoinDesk",
     "category": "crypto",
-    "content": "The group gave Revolut 24 hours to pay and said it targeted customers with significant crypto holdings. Revolut said it has not not received any direct contact from the individuals.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/b08655496c72c8658f860327377b4fc4bb202061-1500x903.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "Hackers are demanding $3 million in Monero from Revolut, threatening to sell customer data if the payment is not made within 24 hours. The group stated they specifically targeted Revolut customers possessing significant cryptocurrency holdings.",
-    "importance": 9,
+    "content": "Free test ether lets fake builders outbid rivals and withhold transaction payloads, while client teams get half the usual review time before Sepolia.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/c18c9af8ef94bcbc9a17fac89a01b83bfc76fd8f-5472x3648.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "Ethereum is encountering a problem on its testnet where \"fake builders\" are leveraging free test ether to outbid legitimate rivals and withhold transaction payloads, which could potentially stall the chain. This issue is emerging as client teams have reduced their review time in preparation for the Sepolia update.",
+    "importance": 8,
     "classified": true
   },
   {
@@ -144,27 +168,39 @@
     "classified": true
   },
   {
-    "title": "Celsius sues BitMEX for $495 million over 2020 crash liquidations",
-    "link": "https://www.coindesk.com/business/2026/09/16/celsius-sues-bitmex-for-usd495-million-over-2020-crash-liquidations",
-    "pubDate": "Wed, 16 Sep 2026 17:34:04 +0000",
-    "source": "CoinDesk",
+    "title": "CFTC expands regulatory relief for passive trading software providers",
+    "link": "https://cointelegraph.com/news/cftc-expands-regulatory-relief-for-passive-trading-software-providers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Thu, 17 Sep 2026 19:30:48 +0000",
+    "source": "Cointelegraph",
     "category": "crypto",
-    "content": "The estate is chasing 6,360 BTC lost in the Covid crash — a leveraged long position that sits awkwardly with the lender's delta-neutral marketing.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/60aebd54ba86be12588505ff7b7b03b2e32c2fa1-1200x807.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "Celsius's estate is suing BitMEX for $495 million (6,360 BTC) over liquidations that occurred during the 2020 Covid crash. The lawsuit highlights a leveraged long position taken by Celsius, which contradicts its advertised delta-neutral strategy.",
+    "content": "The US regulator’s move could make it easier for crypto wallets and other apps to offer access to regulated derivatives and prediction markets without registering as introducing brokers.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2RCXR1ZF4MGZQYC31CCHQC8/paper-document-man-office-cftc-2.jpg",
+    "summary": "The US Commodity Futures Trading Commission (CFTC) has expanded regulatory relief for passive trading software providers. This change could allow crypto wallets and other applications to offer access to regulated derivatives and prediction markets more easily, without needing to register as introducing brokers.",
     "importance": 8,
     "classified": true
   },
   {
-    "title": "U.S. House's tax committee advances crypto tax bill in wake of Clarity Act loss",
-    "link": "https://www.coindesk.com/policy/2026/09/16/u-s-house-s-tax-committee-advances-crypto-tax-bill-in-wake-of-clarity-act-loss",
-    "pubDate": "Wed, 16 Sep 2026 16:21:44 +0000",
+    "title": "SEC grants temporary exemption for tokenized US stock trading",
+    "link": "https://cointelegraph.com/news/sec-temporary-exemption-tokenized-us-stock-trading?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Thu, 17 Sep 2026 13:34:17 +0000",
+    "source": "Cointelegraph",
+    "category": "crypto",
+    "content": "The SEC’s Innovation Exemption allows limited tokenized US stock trading on onchain venues with trading caps and transparency requirements.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2QQZ3RZHH74529R6BGMH1T9/hi-who-is-mark-uyeda-trumps-new-face-for-the-sec.jpg",
+    "summary": "The SEC has granted an Innovation Exemption, temporarily allowing limited trading of tokenized US stocks on onchain venues. This exemption comes with specific conditions, including trading caps and transparency requirements.",
+    "importance": 8,
+    "classified": true
+  },
+  {
+    "title": "SBI Group backs payments firm dtcpay in $25 million funding round",
+    "link": "https://www.coindesk.com/markets/2026/09/18/sbi-group-backs-payments-firm-dtcpay-in-usd25-million-funding-round",
+    "pubDate": "Fri, 18 Sep 2026 07:37:32 +0000",
     "source": "CoinDesk",
     "category": "crypto",
-    "content": "The Digital Asset Tax Certainty Act would ease complicated tax burdens for everyday use of cryptocurrencies, though Trump's industry ties spurred some pushback.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/00c315459375cb1046e10cb7540bafa9dfe690b4-3761x2456.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "A U.S. House tax committee has advanced the Digital Asset Tax Certainty Act, aiming to simplify tax burdens for everyday cryptocurrency use. This legislative move follows the loss of the Clarity Act and has faced some pushback due to former President Trump's industry ties.",
-    "importance": 8,
+    "content": "Stablecoin payments company dtcpay completed a $25 million Series A funding round with a strategic investment from Japan’s SBI Group.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/7d7fa3eb980a963484b88dc6e702539fda68b6b7-1280x853.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "Stablecoin payments company dtcpay has successfully closed a $25 million Series A funding round. The funding round included a strategic investment from Japan's SBI Group.",
+    "importance": 7,
     "classified": true
   },
   {
@@ -192,27 +228,75 @@
     "classified": true
   },
   {
-    "title": "Zcash jumps 23% as bitcoin and major tokens rise despite Fed’s first hike since 2023",
-    "link": "https://www.coindesk.com/markets/2026/09/17/zcash-jumps-23-as-bitcoin-and-major-tokens-rise-despite-fed-s-first-hike-since-2023",
-    "pubDate": "Thu, 17 Sep 2026 04:47:27 +0000",
-    "source": "CoinDesk",
+    "title": "Zcash targets November for NU7 mainnet upgrade with 25-second blocks",
+    "link": "https://cointelegraph.com/news/zcash-nu7-november-mainnet-activation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Fri, 18 Sep 2026 04:51:29 +0000",
+    "source": "Cointelegraph",
     "category": "crypto",
-    "content": "Bitcoin traded above $76,000 as the Fed projected limited further tightening, while Paradigm’s Matt Huang discussed Zcash’s role as a privacy complement to bitcoin.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/3117cf3dd45002820f985ed15736a3333261d9c0-1508x842.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "Bitcoin surpassed $76,000 as the Federal Reserve projected limited further monetary tightening. Amidst this market rise, Zcash jumped 23%, with Paradigm's Matt Huang discussing its importance as a privacy complement to Bitcoin.",
+    "content": "NU7 will cut Zcash block times to 25 seconds and preserve its halving schedule, with testnet activation planned for Oct. 6.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2SBV8SBEEFJVCB357QGD89N/nu7-zec.png",
+    "summary": "Zcash is planning its NU7 mainnet upgrade for November, which will reduce block times to 25 seconds while preserving its current halving schedule. Testnet activation for this upgrade is scheduled for October 6.",
     "importance": 7,
     "classified": true
   },
   {
-    "title": "Fed raises rates by 25 basis points in first hike since July 2023",
-    "link": "https://www.coindesk.com/markets/2026/09/16/fed-raises-rates-by-25-basis-points-in-first-hike-since-july-2023",
-    "pubDate": "Wed, 16 Sep 2026 17:54:55 +0000",
+    "title": "Cardano’s IOG warns users to avoid YouTube channel amid apparent hijack",
+    "link": "https://cointelegraph.com/news/cardanos-iog-warns-users-to-avoid-youtube-channel-amid-giveaway-scam?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Fri, 18 Sep 2026 04:11:40 +0000",
+    "source": "Cointelegraph",
+    "category": "both",
+    "content": "Input Output Group told users to avoid its YouTube channel after it began livestreaming a suspected AI-manipulated Charles Hoskinson video promising to “double your wealth.”",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2SB5M6KX3T9RG1MJHYSDDBH/youtube.jpg",
+    "summary": "Cardano's Input Output Group (IOG) warned users to avoid its YouTube channel after it was apparently hijacked. The compromised channel began livestreaming a suspected AI-manipulated video of Charles Hoskinson, promising to \"double your wealth\" in a clear scam attempt. This incident highlights ongoing security risks for public figures and organizations in the crypto space.",
+    "importance": 7,
+    "classified": true
+  },
+  {
+    "title": "North Korea drives onchain malware surge, CoinEx shuts: Asia Express",
+    "link": "https://cointelegraph.com/magazine/north-korea-drives-onchain-malware-surge-coinex-shuts-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Thu, 17 Sep 2026 23:49:23 +0000",
+    "source": "Cointelegraph",
+    "category": "crypto",
+    "content": "North Korea and Iran account for the majority of onchain malware, while Malaysia has been named among the most crypto curious Islamic nations.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2RR0R87D4ZNY7FB45GN96P2/magazineasia-expressriver.jpg",
+    "summary": "North Korea and Iran are responsible for the majority of onchain malware activities. Additionally, Malaysia has been identified as one of the most crypto-curious Islamic nations.",
+    "importance": 7,
+    "classified": true
+  },
+  {
+    "title": "WisdomTree, MoonPay team up to expand US access to tokenized money market fund",
+    "link": "https://cointelegraph.com/news/wisdomtree-moonpay-team-up-to-expand-us-access-to-tokenized-money-market-fund?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Thu, 17 Sep 2026 17:31:12 +0000",
+    "source": "Cointelegraph",
+    "category": "crypto",
+    "content": "MoonPay plans to use WisdomTree’s $1.2 billion WTGXX tokenized fund as part of its stablecoin reserves while helping expand access to US investors.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2R5J17NDWSVXF414T1MASHP/hi-why-weisdomtree-needs-a-stablecoin.png",
+    "summary": "WisdomTree and MoonPay have partnered to expand US investor access to tokenized money market funds. MoonPay plans to integrate WisdomTree's $1.2 billion WTGXX tokenized fund into its stablecoin reserves, aiming to facilitate broader adoption and liquidity within the crypto ecosystem.",
+    "importance": 7,
+    "classified": true
+  },
+  {
+    "title": "OG.com cleared by SEC to offer single-stock futures, says Crypto.com CEO",
+    "link": "https://cointelegraph.com/news/ogcom-cleared-sec-stock-futures-cryptocom-ceo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Thu, 17 Sep 2026 13:35:57 +0000",
+    "source": "Cointelegraph",
+    "category": "crypto",
+    "content": "Crypto.com’s CEO said its sister exchange was cleared to offer US access to single-stock perpetual futures, as the latest platform to bridge TradFi and digital assets.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2QQC5X3Z7N19JN9MSH4SD45/hi-cryptocom-is-granted-conditional-approval-for-bank-trust-charter-1.jpg",
+    "summary": "OG.com, a sister exchange to Crypto.com, has been cleared by the SEC to offer US access to single-stock perpetual futures. This development positions the platform as a new bridge between traditional finance and digital assets.",
+    "importance": 7,
+    "classified": true
+  },
+  {
+    "title": "Corporate treasuries bought just 5,900 bitcoin in 3 months. Other demand signals look weak, too.",
+    "link": "https://www.coindesk.com/markets/2026/09/18/corporate-treasuries-bought-just-5-900-bitcoin-in-3-months-other-demand-signals-look-weak-too",
+    "pubDate": "Fri, 18 Sep 2026 05:43:21 +0000",
     "source": "CoinDesk",
     "category": "crypto",
-    "content": "The widely expected move places the U.S. Federal Reserve's benchmark fed funds rate range at 3.75%-4.0%.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/91249261c4cf7e9e62ee5838d44d8d8de8253080-1920x1000.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "The U.S. Federal Reserve implemented a 25 basis point rate hike, bringing its benchmark fed funds rate to 3.75%-4.0%. This widely anticipated move is the first increase since July 2023.",
-    "importance": 7,
+    "content": "Corporate treasuries bought just 5,900 bitcoin in three months, while broader demand signals remain weak.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/945127549bc4106cc0730befcad887387473e052-3096x2072.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "Corporate treasuries acquired a modest 5,900 bitcoin over the past three months. This low purchasing volume signals broader weak demand for the cryptocurrency.",
+    "importance": 6,
     "classified": true
   },
   {
@@ -230,7 +314,7 @@
   {
     "title": "Here’s what happened in crypto today",
     "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Thu, 17 Sep 2026 20:44:00 +0000",
+    "pubDate": "Fri, 18 Sep 2026 06:00:00 +0000",
     "source": "Cointelegraph",
     "category": "crypto",
     "content": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
@@ -238,6 +322,40 @@
     "summary": "This article provides a summary of the latest news and trends in the crypto space, covering Bitcoin price, blockchain, DeFi, Web3, and crypto regulation. It aims to keep readers updated on daily events impacting the cryptocurrency market. The article appears to be a general overview of the current state of the crypto industry.",
     "importance": 6,
     "classified": true
+  },
+  {
+    "title": "Bitcoin coils near $76.5K as US stocks rebound from Fed rate hike",
+    "link": "https://cointelegraph.com/markets/bitcoin-coils-near-765k-as-us-stocks-rebound-from-fed-rate-hike?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Thu, 17 Sep 2026 16:22:23 +0000",
+    "source": "Cointelegraph",
+    "category": "crypto",
+    "content": "Bitcoin made modest daily gains as US stocks saw upside in the aftermath of the US Federal Reserve’s first interest-rate hike since July 2023.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2R2Q54WS905SXC3VAXKD1PM/hi-what-will-sp-500-wager-predictions-look.jpg",
+    "summary": "Bitcoin experienced modest daily gains, mirroring a rebound in US stocks. This movement occurred in the aftermath of the US Federal Reserve's recent interest-rate hike, the first since July 2023.",
+    "importance": 6,
+    "classified": true
+  },
+  {
+    "title": "Ether and XRP ETFs post outflows as crypto majors move higher",
+    "link": "https://www.coindesk.com/markets/2026/09/18/ether-and-xrp-etfs-post-outflows-as-bitcoin-moves-above-usd77-000",
+    "pubDate": "Fri, 18 Sep 2026 04:49:17 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "Ether funds shed money for a third straight session even as the token rose, while every major gained and zcash extended its run.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/18c064c6413091acaad8ec6ad59dfc258ff93092-1340x748.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "",
+    "importance": 5
+  },
+  {
+    "title": "Bank of Japan raises interest rates by 25 basis points. Bitcoin tops $77,000",
+    "link": "https://www.coindesk.com/markets/2026/09/17/boj-rate-hike",
+    "pubDate": "Fri, 18 Sep 2026 03:03:38 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "The yen declined and BTC rose after the BOJ hiked rates to the highest level in 31 years.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/1d87eabe2ada7e5c5fb5014805876879c803feba-3388x2472.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "",
+    "importance": 5
   },
   {
     "title": "Zcash miner Fortitude names former Hut 8 chief Jaime Leverton CEO ahead of Nasdaq deal",
@@ -252,57 +370,13 @@
     "classified": true
   },
   {
-    "title": "Optimism creeps back into crypto, with the 2022 test still to come",
-    "link": "https://www.coindesk.com/daybook-us/2026/09/17/optimism-creeps-back-into-crypto-with-the-2022-test-still-to-come",
-    "pubDate": "Thu, 17 Sep 2026 11:19:09 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "Your day-ahead look for Sept. 17, 2026",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/ef11a5cc0617168c1ce14a276d6d7d85c7a882ad-8087x4549.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "US sanctions Iran’s BitBank, saying it processes ‘Hormuz Safe’ Bitcoin payments",
-    "link": "https://cointelegraph.com/news/us-sanctions-irans-bitbank-saying-it-processes-hormuz-safe-bitcoin-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Fri, 18 Sep 2026 01:33:54 +0000",
+    "title": "World launches self-custodial ‘super app’ World Money",
+    "link": "https://cointelegraph.com/news/world-launches-self-custodial-super-app-world-money?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Fri, 18 Sep 2026 03:40:28 +0000",
     "source": "Cointelegraph",
     "category": "crypto",
-    "content": "US Treasury says the Iranian exchange processed payments received through Iran’s Strait of Hormuz maritime scheme and helped move hundreds of millions of dollars in Bitcoin to the IRGC.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2S256YQ45ANHSRCNHS5BZ56/bitbank.jpg",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "North Korea drives onchain malware surge, CoinEx shuts: Asia Express",
-    "link": "https://cointelegraph.com/magazine/north-korea-drives-onchain-malware-surge-coinex-shuts-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Thu, 17 Sep 2026 23:49:23 +0000",
-    "source": "Cointelegraph",
-    "category": "crypto",
-    "content": "North Korea and Iran account for the majority of onchain malware, while Malaysia has been named among the most crypto curious Islamic nations.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2RR0R87D4ZNY7FB45GN96P2/magazineasia-expressriver.jpg",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "CFTC expands regulatory relief for passive trading software providers",
-    "link": "https://cointelegraph.com/news/cftc-expands-regulatory-relief-for-passive-trading-software-providers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Thu, 17 Sep 2026 19:30:48 +0000",
-    "source": "Cointelegraph",
-    "category": "crypto",
-    "content": "The US regulator’s move could make it easier for crypto wallets and other apps to offer access to regulated derivatives and prediction markets without registering as introducing brokers.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2RCXR1ZF4MGZQYC31CCHQC8/paper-document-man-office-cftc-2.jpg",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "WisdomTree, MoonPay team up to expand US access to tokenized money market fund",
-    "link": "https://cointelegraph.com/news/wisdomtree-moonpay-team-up-to-expand-us-access-to-tokenized-money-market-fund?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Thu, 17 Sep 2026 17:31:12 +0000",
-    "source": "Cointelegraph",
-    "category": "crypto",
-    "content": "MoonPay plans to use WisdomTree’s $1.2 billion WTGXX tokenized fund as part of its stablecoin reserves while helping expand access to US investors.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2R5J17NDWSVXF414T1MASHP/hi-why-weisdomtree-needs-a-stablecoin.png",
+    "content": "World Money is rolling out across more than 150 countries, combining stablecoin payments, digital asset rewards and trading in a self-custodial app.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2S9HGXJ2F33PMBZSJ22CVNG/world-app.jpg",
     "summary": "",
     "importance": 5
   },
@@ -318,17 +392,6 @@
     "importance": 5
   },
   {
-    "title": "Bitcoin coils near $76.5K as US stocks rebound from Fed rate hike",
-    "link": "https://cointelegraph.com/markets/bitcoin-coils-near-765k-as-us-stocks-rebound-from-fed-rate-hike?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Thu, 17 Sep 2026 16:22:23 +0000",
-    "source": "Cointelegraph",
-    "category": "crypto",
-    "content": "Bitcoin made modest daily gains as US stocks saw upside in the aftermath of the US Federal Reserve’s first interest-rate hike since July 2023.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2R2Q54WS905SXC3VAXKD1PM/hi-what-will-sp-500-wager-predictions-look.jpg",
-    "summary": "",
-    "importance": 5
-  },
-  {
     "title": "Zcash miner Fortitude taps former Hut 8 CEO to lead ahead of public listing",
     "link": "https://cointelegraph.com/news/former-hut-8-ceo-jaime-leverton-to-lead-zcash-miner-fortitude-ahead-of-nasdaq-listing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "pubDate": "Thu, 17 Sep 2026 15:58:33 +0000",
@@ -336,28 +399,6 @@
     "category": "crypto",
     "content": "Former Hut 8 CEO Jaime Leverton will take the helm at Fortitude as the Zcash-focused miner expands its operations and moves toward a planned public listing.",
     "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2QZ8PA38PE2N6K2QE0N13TT/hi-top-5-biggest-mining-farms-zcash-2.jpg",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "OG.com cleared by SEC to offer single-stock futures, says Crypto.com CEO",
-    "link": "https://cointelegraph.com/news/ogcom-cleared-sec-stock-futures-cryptocom-ceo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Thu, 17 Sep 2026 13:35:57 +0000",
-    "source": "Cointelegraph",
-    "category": "crypto",
-    "content": "Crypto.com’s CEO said its sister exchange was cleared to offer US access to single-stock perpetual futures, as the latest platform to bridge TradFi and digital assets.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2QQC5X3Z7N19JN9MSH4SD45/hi-cryptocom-is-granted-conditional-approval-for-bank-trust-charter-1.jpg",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "SEC grants temporary exemption for tokenized US stock trading",
-    "link": "https://cointelegraph.com/news/sec-temporary-exemption-tokenized-us-stock-trading?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Thu, 17 Sep 2026 13:34:17 +0000",
-    "source": "Cointelegraph",
-    "category": "crypto",
-    "content": "The SEC’s Innovation Exemption allows limited tokenized US stock trading on onchain venues with trading caps and transparency requirements.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2QQZ3RZHH74529R6BGMH1T9/hi-who-is-mark-uyeda-trumps-new-face-for-the-sec.jpg",
     "summary": "",
     "importance": 5
   },
@@ -549,35 +590,13 @@
     "importance": 5
   },
   {
-    "title": "Coinbase faces greater fallout from CLARITY Act setback: Saxo",
-    "link": "https://cointelegraph.com/news/coinbase-clarity-act-exposure-saxo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Wed, 16 Sep 2026 15:52:17 +0000",
-    "source": "Cointelegraph",
+    "title": "Stablecoin payments firm dtcpay closes $25 million Series A with SBI Group investment",
+    "link": "https://www.theblock.co/news/business/2026-09-18-dtcpay-series-a-sbi-group-415483",
+    "pubDate": "Fri, 18 Sep 2026 05:29:10 +0000",
+    "source": "The Block",
     "category": "crypto",
-    "content": "A strategist at the Danish bank said Coinbase has more at stake in the CLARITY setback because its trading business is directly exposed to US market-structure rules.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2NBVNQWMFT4B98DXZHZWR69/c-man-reading-a-news-paper-coinbase.jpg",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "Bitcoin awaits Fed rate decision below $76K as analysis discounts ‘dovish surprise’ odds",
-    "link": "https://cointelegraph.com/markets/bitcoin-awaits-fed-rate-decision-below-76k-as-analysis-discounts-dovish-surprise-odds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Wed, 16 Sep 2026 15:30:49 +0000",
-    "source": "Cointelegraph",
-    "category": "crypto",
-    "content": "Bitcoin price support materialized around $68,000 as markets saw a 93% chance of the Fed hiking rates by 0.25% on Wednesday.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2NDCKGG8297RQRGC1PX6SV9/hi-impact-of-fed-interest-rates-on-crypto-holders.jpg",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "Revolut ID thefts highlight KYC’s dangers: Here’s how to fix it",
-    "link": "https://cointelegraph.com/magazine/revolut-id-thefts-highlight-kycs-dangers-heres-how-to-fix-it?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Wed, 16 Sep 2026 13:30:00 +0000",
-    "source": "Cointelegraph",
-    "category": "crypto",
-    "content": "Zero-knowledge technology could let companies verify who you are without storing your identity documents. So why isn’t it already standard practice?",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M27YNMN0B998XM580ZT1ETJS/magazine-pinkdrainer.jpg",
+    "content": "The fresh capital enables it to scale product suite and merchant network, including a revamped business portal for enterprise clients.",
+    "image": "https://www.tbstat.com/wp/uploads/2025/04/20250411_Funding_News_3-1200x675.jpg",
     "summary": "",
     "importance": 5
   },
@@ -787,17 +806,6 @@
     "category": "crypto",
     "content": "The Clarity Act is \"not fully dead,\" but the window for passing the crypto bill this year is now \"extremely narrow,\" JPMorgan said.",
     "image": "https://www.tbstat.com/wp/uploads/2024/05/20240501_JpMorgan_News_2-1200x673.jpg",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "Bernstein says Clarity Act failure allows stablecoin rewards on idle balances to continue, expects ‘swift’ SEC and CFTC rulemaking",
-    "link": "https://www.theblock.co/news/regulation/2026-09-16-bernstein-says-clarity-act-failure-allows-stablecoin-rewards-on-idle-balances-to-continue-expects-swift-sec-and-cftc-rulemaking-415263",
-    "pubDate": "Wed, 16 Sep 2026 12:47:59 +0000",
-    "source": "The Block",
-    "category": "crypto",
-    "content": "Bernstein expects the SEC and CFTC to drive crypto rulemaking after Senate lawmakers failed to advance Clarity Act legislation.",
-    "image": "https://www.tbstat.com/wp/uploads/2026/06/Clarity-Act-Learn-1074x675.jpg",
     "summary": "",
     "importance": 5
   },
@@ -1572,6 +1580,18 @@
     "importance": 5
   },
   {
+    "title": "Solana speeds up blocks by 17%, but transaction capacity stays the same",
+    "link": "https://www.coindesk.com/tech/2026/09/18/solana-speeds-up-blocks-by-17-but-transaction-capacity-stays-the-same",
+    "pubDate": "Fri, 18 Sep 2026 06:16:57 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "The network is cutting its target slot time to 250 milliseconds, giving apps fresher blockchain data and validators shorter control windows while reducing the amount of work allowed in each slot.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/54c0f3b41e62df4cdf774aab4c7d68c64e5e976c-1920x1080.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "Solana is reducing its target slot time by 17% to 250 milliseconds, speeding up block production. This change provides applications with fresher blockchain data and validators with shorter control windows. However, the network's overall transaction capacity remains the same as the amount of work allowed per slot has been reduced.",
+    "importance": 4,
+    "classified": true
+  },
+  {
     "title": "The Ondo Finance succession crisis gets messier as Kathleen Allman’s daughter alleges ‘dementia’, alcoholism and reckless spending",
     "link": "https://www.coindesk.com/business/2026/09/17/the-ondo-finance-succession-crisis-gets-messier-as-kathleen-allman-s-daughter-alleges-dementia-alcoholism-and-reckless-spending",
     "pubDate": "Thu, 17 Sep 2026 21:28:35 +0000",
@@ -1584,30 +1604,6 @@
     "classified": true
   },
   {
-    "title": "Goldman pivots, now forecasts Fed rate hike in October",
-    "link": "https://www.coindesk.com/markets/2026/09/17/goldman-expects-another-fed-rate-hike-in-october",
-    "pubDate": "Thu, 17 Sep 2026 04:17:55 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "The Fed is likely to raise rates by 25 basis points in October, Goldman said, drawing attention to Fed's own hawkish near term rate projections.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/8308493c2140c9c77679daf94cac837a721ec241-1440x1080.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "Goldman Sachs has revised its forecast, now predicting a 25 basis point interest rate hike by the Federal Reserve in October. This updated outlook reflects the Fed's own hawkish projections for near-term rates.",
-    "importance": 3,
-    "classified": true
-  },
-  {
-    "title": "U.S. diesel prices hit record high as bitcoin and gold struggle",
-    "link": "https://www.coindesk.com/markets/2026/09/17/u-s-diesel-prices-hit-record-high-as-bitcoin-and-gold-struggle",
-    "pubDate": "Thu, 17 Sep 2026 07:27:07 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "Record diesel prices could feed through to consumer price inflation, confirming more Fed rate hikes. The central bank appears determined to raise rates into a oil supply shock.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/6611d576e10d0b5c10391e872f9116f58bc22514-2854x1488.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "U.S. diesel prices have hit a record high, which is expected to fuel consumer price inflation and prompt further interest rate hikes by the Federal Reserve. This economic trend is noted as Bitcoin and gold concurrently struggle in the market.",
-    "importance": 2,
-    "classified": true
-  },
-  {
     "title": "Crypto for Advisors: Beyond bitcoin and ether",
     "link": "https://www.coindesk.com/coindesk-indices/2026/09/17/crypto-for-advisors-beyond-bitcoin-and-ether",
     "pubDate": "Thu, 17 Sep 2026 14:57:11 +0000",
@@ -1616,6 +1612,18 @@
     "content": "",
     "image": "https://cdn.sanity.io/images/s3y3vcno/production/9052ffe1b38183c086273c6f263b678678736d69-6000x4000.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
     "summary": "The news article's content is empty, so a detailed summary of its discussion points is not possible. However, its title, 'Crypto for Advisors: Beyond bitcoin and ether', indicates a focus on diverse cryptocurrency investments for financial advisors, extending beyond Bitcoin and Ethereum.",
+    "importance": 1,
+    "classified": true
+  },
+  {
+    "title": "Optimism creeps back into crypto, with the 2022 test still to come",
+    "link": "https://www.coindesk.com/daybook-us/2026/09/17/optimism-creeps-back-into-crypto-with-the-2022-test-still-to-come",
+    "pubDate": "Thu, 17 Sep 2026 11:19:09 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "Your day-ahead look for Sept. 17, 2026",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/ef11a5cc0617168c1ce14a276d6d7d85c7a882ad-8087x4549.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "The provided article is a placeholder for a 'day-ahead look' dated September 17, 2026. Its title suggests a return of optimism to the crypto market, anticipating a significant '2022 test,' but no specific details are provided within the content.",
     "importance": 1,
     "classified": true
   }
