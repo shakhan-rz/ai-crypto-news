@@ -1,5 +1,17 @@
 [
   {
+    "title": "Robinhood Chain fees collapse 97% even as transactions stay near record highs",
+    "link": "https://www.coindesk.com/business/2026/09/19/robinhood-chain-fees-collapse-97-even-as-transactions-stay-near-record-highs",
+    "pubDate": "Sat, 19 Sep 2026 12:00:00 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "Seven-day average fees fell 82% while transaction counts slipped 6%, with about $1.5 billion a day still changing hands.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/1211fc9879a33b0b70483520c67b5a4029d8abf3-6000x3999.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "Robinhood Chain has experienced a significant collapse in its fees, with a 97% reduction and the seven-day average fees falling by 82%. This dramatic drop occurred despite transaction counts remaining near record highs, only slipping by 6%. The platform continues to handle a substantial volume, with approximately $1.5 billion in daily transactions.",
+    "importance": 9,
+    "classified": true
+  },
+  {
     "title": "ECB President Christine Lagarde intervened to block Binance’s EU MiCA license: WSJ",
     "link": "https://www.coindesk.com/policy/2026/09/18/ecb-president-christine-lagarde-intervened-to-block-binance-s-eu-mica-license-wsj",
     "pubDate": "Fri, 18 Sep 2026 12:57:06 +0000",
@@ -84,6 +96,18 @@
     "classified": true
   },
   {
+    "title": "Why Wall Street giants build tokenization money for institutions, not regular consumers",
+    "link": "https://www.coindesk.com/business/2026/09/15/why-wall-street-giants-build-tokenization-money-for-institutions-not-regular-consumers",
+    "pubDate": "Sat, 19 Sep 2026 12:00:00 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "JPMorgan and Citi move billions in tokenized deposits, but only among their branches. A U.K. challenger bank is about to do something neither has done.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/b18ee53b50842f9ee6f7eb1059651463c7e51c9a-765x430.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "JPMorgan and Citi are actively moving billions in tokenized deposits internally between their branches, demonstrating significant institutional use of blockchain technology. A UK challenger bank is set to expand tokenization beyond these internal operations, potentially marking a pivotal moment in the broader adoption of tokenized assets within finance.",
+    "importance": 8,
+    "classified": true
+  },
+  {
     "title": "CFTC sends crypto rules to White House to review as Congress stalls on Clarity Act",
     "link": "https://www.coindesk.com/policy/2026/09/18/cftc-sends-crypto-rules-to-white-house-to-review-as-congress-stalls-on-clarity-act",
     "pubDate": "Fri, 18 Sep 2026 15:16:37 +0000",
@@ -132,6 +156,18 @@
     "classified": true
   },
   {
+    "title": "Bank of Japan raises interest rates by 25 basis points. Bitcoin tops $77,000",
+    "link": "https://www.coindesk.com/markets/2026/09/17/boj-rate-hike",
+    "pubDate": "Fri, 18 Sep 2026 03:03:38 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "The yen declined and BTC rose after the BOJ hiked rates to the highest level in 31 years.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/1d87eabe2ada7e5c5fb5014805876879c803feba-3388x2472.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "The Bank of Japan raised interest rates by 25 basis points to a 31-year high, which led to a decline in the yen. Concurrently, Bitcoin surged past $77,000 following this economic policy change.",
+    "importance": 8,
+    "classified": true
+  },
+  {
     "title": "Kevin O’Leary says Congress will revisit Clarity early next year as crypto tax bill advances",
     "link": "https://www.coindesk.com/policy/2026/09/17/kevin-o-leary-says-congress-will-revisit-clarity-by-second-quarter-as-crypto-tax-bill-advances",
     "pubDate": "Thu, 17 Sep 2026 18:40:38 +0000",
@@ -156,26 +192,26 @@
     "classified": true
   },
   {
-    "title": "Clarity Act failure may hamper U.S. crypto as industry seeks legal clarity elsewhere",
-    "link": "https://www.coindesk.com/policy/2026/09/17/crypto-industry-leaders-debate-who-the-winners-and-losers-of-the-clarity-act-vote-failure-are",
-    "pubDate": "Thu, 17 Sep 2026 14:50:58 +0000",
-    "source": "CoinDesk",
+    "title": "Bastion wins conditional OCC approval for national trust bank charter",
+    "link": "https://cointelegraph.com/news/bastion-wins-conditional-occ-approval-for-national-trust-bank-charter?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Sat, 19 Sep 2026 11:47:29 +0000",
+    "source": "Cointelegraph",
     "category": "crypto",
-    "content": "The U.S. is likely to lose out to foreign markets in the short term, but SEC and CFTC rules will help underpin the industry.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/822b54f142ab14b2c15954a87529a4bed9d926aa-5107x3405.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "The failure of the Clarity Act is likely to hamper the U.S. crypto industry, potentially causing it to lose out to foreign markets in the short term. Despite this, future SEC and CFTC rules are anticipated to eventually provide a crucial foundation for the industry.",
+    "content": "Bastion Platforms National Trust Company will offer stablecoin custody and wallets, payment infrastructure and white-label issuance from a single federally regulated entity.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2WQCDKA6YPC5SXBN3P1FPAN/hi-cryptocom-is-granted-conditional-approval-for-bank-trust-charter1.png",
+    "summary": "Bastion Platforms National Trust Company has received conditional approval from the OCC for a national trust bank charter. This allows them to offer federally regulated stablecoin custody, wallets, payment infrastructure, and white-label issuance from a single entity.",
     "importance": 8,
     "classified": true
   },
   {
-    "title": "Ratings giant S&P Global acquires OpenZeppelin in tokenized finance risk push",
-    "link": "https://www.coindesk.com/business/2026/09/17/ratings-giant-s-and-p-global-acquires-openzeppelin-in-tokenized-finance-risk-push",
-    "pubDate": "Thu, 17 Sep 2026 13:15:21 +0000",
-    "source": "CoinDesk",
+    "title": "Hong Kong jails former banker over $1.6B false credit, cryptocurrency bribes: Report",
+    "link": "https://cointelegraph.com/news/hong-kong-jails-former-banker-over-16b-false-credit-cryptocurrency-bribes-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Sat, 19 Sep 2026 07:50:58 +0000",
+    "source": "Cointelegraph",
     "category": "crypto",
-    "content": "Building on its recent market-data investment in Kaiko, S&P Global’s latest purchase targets the technological risks facing banks and asset managers onchain.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/8124d5817232e2a5c9bb3d2dd20a5d30b0f10d51-1264x711.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "S&P Global, a major ratings giant, has acquired OpenZeppelin, a prominent blockchain security firm. This strategic move, following an earlier investment in Kaiko, aims to address and mitigate the technological risks faced by banks and asset managers operating in the tokenized finance and on-chain sectors.",
+    "content": "Former banking official gets four years in prison over false letters of credit and accepting $470,000 in cryptocurrency bribes.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2WA562VCY2PY1P3DW1N862B/hi-time-to-switch-license-hong-kong.png",
+    "summary": "A former banking official in Hong Kong has been sentenced to four years in prison for his involvement in a $1.6 billion false letters of credit scheme. He was also convicted of accepting $470,000 in cryptocurrency bribes as part of the illicit activities.",
     "importance": 8,
     "classified": true
   },
@@ -324,6 +360,18 @@
     "classified": true
   },
   {
+    "title": "'The orange tie stays': Michael Saylor responds to venture capitalist's bitcoin obituary",
+    "link": "https://www.coindesk.com/markets/2026/09/19/the-orange-tie-stays-michael-saylor-responds-to-venture-capitalist-s-bitcoin-obituary",
+    "pubDate": "Sat, 19 Sep 2026 12:13:57 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "\"Bitcoin feels like the CD in the age of Spotify, the DVD in the age of Netflix,\" wrote Jason Calacanis.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/a63acd47852ba011bc655fb44db8d5af16180542-3024x4032.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "Michael Saylor responded to venture capitalist Jason Calacanis's recent 'bitcoin obituary,' where Calacanis compared Bitcoin to outdated technologies like CDs and DVDs. Saylor's 'orange tie stays' remark signifies his continued strong belief in Bitcoin despite such criticism.",
+    "importance": 6,
+    "classified": true
+  },
+  {
     "title": "Corporate treasuries bought just 5,900 bitcoin in 3 months. Other demand signals look weak, too.",
     "link": "https://www.coindesk.com/markets/2026/09/18/corporate-treasuries-bought-just-5-900-bitcoin-in-3-months-other-demand-signals-look-weak-too",
     "pubDate": "Fri, 18 Sep 2026 05:43:21 +0000",
@@ -358,17 +406,6 @@
     "summary": "Bitcoin experienced modest daily gains, mirroring a rebound in US stocks. This movement occurred in the aftermath of the US Federal Reserve's recent interest-rate hike, the first since July 2023.",
     "importance": 6,
     "classified": true
-  },
-  {
-    "title": "Bank of Japan raises interest rates by 25 basis points. Bitcoin tops $77,000",
-    "link": "https://www.coindesk.com/markets/2026/09/17/boj-rate-hike",
-    "pubDate": "Fri, 18 Sep 2026 03:03:38 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "The yen declined and BTC rose after the BOJ hiked rates to the highest level in 31 years.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/1d87eabe2ada7e5c5fb5014805876879c803feba-3388x2472.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "",
-    "importance": 5
   },
   {
     "title": "Coinbase files to bring single-stock perpetual futures to US market",
@@ -565,28 +602,6 @@
     "category": "crypto",
     "content": "S&P Global agreed to buy OpenZeppelin, which says its smart contracts have facilitated more than $37 trillion in value transfers.",
     "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2QNBNVRQ7TMRW88EK0EQ7P2/world-sp-global-rating.jpg",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "Crypto adoption blooming in Germany, while UK is falling ‘behind,’ says CoinShares researcher",
-    "link": "https://cointelegraph.com/news/crypto-adoption-blooming-germany-uk-behind-researcher?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Thu, 17 Sep 2026 12:34:11 +0000",
-    "source": "Cointelegraph",
-    "category": "crypto",
-    "content": "German crypto adoption is progressing through family offices and wealth managers, while the UK’s retail-facing cryptocurrency market remains “nascent,” according to the researcher.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2QHYX57TFPR50NZSRV98AR3/hi-german-crypto-ecosystem-2021.jpg",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "State hackers drive 420% surge in onchain malware, Chainalysis finds",
-    "link": "https://cointelegraph.com/news/onchain-malware-writes-surge-420-north-korea-iran-chainalysis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Thu, 17 Sep 2026 12:00:00 +0000",
-    "source": "Cointelegraph",
-    "category": "crypto",
-    "content": "North Korea-linked hackers used Tron, Aptos and BNB Chain to maintain malware infrastructure, while suspected Iran-linked actors embedded directions in Bitcoin transactions.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2Q1V7Y2B3HA6PVR8ATX73RC/nk-iran.png",
     "summary": "",
     "importance": 5
   },
@@ -1614,18 +1629,6 @@
     "image": "https://cdn.sanity.io/images/s3y3vcno/production/80c70565576dca57e467a9c505945531db3c6631-1452x817.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
     "summary": "The estranged daughter of 77-year-old Kathleen Allman has petitioned a Hawaiian court for a limited conservatorship over her parents' stake in Ondo Finance. She alleges her mother suffers from 'dementia', alcoholism, and reckless spending, seeking to protect her parents' share of her brother's interest in the company.",
     "importance": 3,
-    "classified": true
-  },
-  {
-    "title": "Crypto for Advisors: The case for diversifying beyond bitcoin and ether",
-    "link": "https://www.coindesk.com/coindesk-indices/2026/09/17/crypto-for-advisors-beyond-bitcoin-and-ether",
-    "pubDate": "Thu, 17 Sep 2026 14:57:11 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/9052ffe1b38183c086273c6f263b678678736d69-6000x4000.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "The news article's content is empty, so a detailed summary of its discussion points is not possible. However, its title, 'Crypto for Advisors: Beyond bitcoin and ether', indicates a focus on diverse cryptocurrency investments for financial advisors, extending beyond Bitcoin and Ethereum.",
-    "importance": 1,
     "classified": true
   }
 ]
