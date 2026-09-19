@@ -1,5 +1,17 @@
 [
   {
+    "title": "ECB President Christine Lagarde intervened to block Binance’s EU MiCA license: WSJ",
+    "link": "https://www.coindesk.com/policy/2026/09/18/ecb-president-christine-lagarde-intervened-to-block-binance-s-eu-mica-license-wsj",
+    "pubDate": "Fri, 18 Sep 2026 12:57:06 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "Although the ECB holds no formal licensing authority under MiCA, high-level intervention led Greece to stall an application that regulators had previously deemed complete, the Journal said.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/26cccb22ec392aed75fa716d72a469596e1faf75-6048x4032.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "ECB President Christine Lagarde reportedly intervened to block Binance's EU MiCA license application, according to the Wall Street Journal. Despite the ECB lacking formal licensing authority under MiCA, this high-level intervention led Greece to stall an application previously deemed complete by regulators.",
+    "importance": 9,
+    "classified": true
+  },
+  {
     "title": "Iran’s Strait of Hormuz toll booth ran through a bitcoin exchange, U.S. says",
     "link": "https://www.coindesk.com/policy/2026/09/18/iran-s-strait-of-hormuz-toll-booth-ran-through-a-bitcoin-exchange-u-s-says",
     "pubDate": "Fri, 18 Sep 2026 06:52:23 +0000",
@@ -68,6 +80,18 @@
     "content": "The regulator is moving ahead with crypto market rules as the SEC also opens a new path for tokenized stock trading.",
     "image": "https://cdn.sanity.io/images/s3y3vcno/production/f8247ad03ed0ee80d0bc837f451e14221f8fa7f3-1900x1067.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
     "summary": "The CFTC is advancing crypto market regulations by sending proposed rules to the White House for review, amidst a stalled Clarity Act in Congress. Concurrently, the SEC is opening new pathways for tokenized stock trading, signaling significant regulatory movement in the digital asset space.",
+    "importance": 8,
+    "classified": true
+  },
+  {
+    "title": "Crypto tech provider Haruko hit by cyberattack affecting 15 clients, some funds lost",
+    "link": "https://www.coindesk.com/business/2026/09/18/crypto-tech-provider-haruko-hit-by-cyberattack-affecting-15-clients-some-funds-lost",
+    "pubDate": "Fri, 18 Sep 2026 15:06:31 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "Some smaller hedge funds with weaker security controls may have lost funds in the targeted attack, sources said.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/df75194a14ee0137a319a24c95c7971dfac737a2-4896x3268.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "Crypto tech provider Haruko experienced a cyberattack affecting 15 clients, leading to the potential loss of funds for some smaller hedge funds with weaker security controls. The targeted attack highlights ongoing security vulnerabilities within the crypto sector.",
     "importance": 8,
     "classified": true
   },
@@ -274,28 +298,6 @@
     "summary": "Bitcoin experienced modest daily gains, mirroring a rebound in US stocks. This movement occurred in the aftermath of the US Federal Reserve's recent interest-rate hike, the first since July 2023.",
     "importance": 6,
     "classified": true
-  },
-  {
-    "title": "Crypto tech provider Haruko hit by cyberattack affecting 15 clients, some funds lost",
-    "link": "https://www.coindesk.com/business/2026/09/18/crypto-tech-provider-haruko-hit-by-cyberattack-affecting-15-clients-some-funds-lost",
-    "pubDate": "Fri, 18 Sep 2026 15:06:31 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "Some smaller hedge funds with weaker security controls may have lost funds in the targeted attack, sources said.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/df75194a14ee0137a319a24c95c7971dfac737a2-4896x3268.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "ECB President Christine Lagarde intervened to block Binance’s EU MiCA license: WSJ",
-    "link": "https://www.coindesk.com/policy/2026/09/18/ecb-president-christine-lagarde-intervened-to-block-binance-s-eu-mica-license-wsj",
-    "pubDate": "Fri, 18 Sep 2026 12:57:06 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "Although the ECB holds no formal licensing authority under MiCA, high-level intervention led Greece to stall an application that regulators had previously deemed complete, the Journal said.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/26cccb22ec392aed75fa716d72a469596e1faf75-6048x4032.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "",
-    "importance": 5
   },
   {
     "title": "Zcash targets November upgrade to make private payments up to three times faster",
@@ -1035,7 +1037,62 @@
     "importance": 5
   },
   {
-    "title": "Anthropic’s first embedded evaluator is … Accenture?",
+    "title": "India forces caller-ID apps to feed spam reports to telcos",
+    "link": "https://techcrunch.com/2026/09/18/india-forces-caller-id-apps-to-feed-spam-reports-to-telcos/",
+    "pubDate": "Sat, 19 Sep 2026 01:00:00 +0000",
+    "source": "TechCrunch AI",
+    "category": "ai",
+    "content": "Truecaller says the one-way sharing requirement would hand a commercially valuable proprietary asset to telecom operators.",
+    "image": "",
+    "summary": "",
+    "importance": 5
+  },
+  {
+    "title": "Tilly Norwood’s press tour is going about as well as you’d expect for an AI",
+    "link": "https://techcrunch.com/2026/09/18/tilly-norwoods-press-tour-is-going-about-as-well-as-youd-expect-for-an-ai/",
+    "pubDate": "Sat, 19 Sep 2026 00:12:07 +0000",
+    "source": "TechCrunch AI",
+    "category": "ai",
+    "content": "In one particularly odd interview, Norwood seems to malfunction and begin speaking Chinese.",
+    "image": "",
+    "summary": "",
+    "importance": 5
+  },
+  {
+    "title": "A startup that builds other startups raised $100M and is all-in on physical AI",
+    "link": "https://techcrunch.com/2026/09/18/a-startup-that-builds-other-startups-raised-100m-and-is-all-in-on-physical-ai/",
+    "pubDate": "Fri, 18 Sep 2026 23:25:01 +0000",
+    "source": "TechCrunch AI",
+    "category": "ai",
+    "content": "UP.Labs, now doing business under the name Vantora, is building startups for industrial corporations.",
+    "image": "",
+    "summary": "",
+    "importance": 5
+  },
+  {
+    "title": "Anthropic is operating a lab that conducts biology experiments",
+    "link": "https://techcrunch.com/2026/09/18/anthropic-is-operating-a-lab-that-conducts-biology-experiments/",
+    "pubDate": "Fri, 18 Sep 2026 23:13:31 +0000",
+    "source": "TechCrunch AI",
+    "category": "ai",
+    "content": "AI leaders have been promising that AI is the key to curing human disease. Anthropic researchers have also been warning that AI might kill us all.",
+    "image": "",
+    "summary": "",
+    "importance": 5
+  },
+  {
+    "title": "AI hallucination nearly triggers US military operation",
+    "link": "https://techcrunch.com/2026/09/18/ai-hallucination-nearly-triggers-us-military-operation/",
+    "pubDate": "Fri, 18 Sep 2026 23:12:32 +0000",
+    "source": "TechCrunch AI",
+    "category": "ai",
+    "content": "“It’s important for service members to understand the uncertainty inherent to LLMs,\" a GovAI research scholar warns.",
+    "image": "",
+    "summary": "",
+    "importance": 5
+  },
+  {
+    "title": "Anthropic’s first embedded evaluator is … Accenture?",
     "link": "https://techcrunch.com/2026/09/18/anthropics-first-embedded-evaluator-is-accenture/",
     "pubDate": "Fri, 18 Sep 2026 21:44:33 +0000",
     "source": "TechCrunch AI",
@@ -1200,61 +1257,6 @@
     "importance": 5
   },
   {
-    "title": "PrismML hopes its tiny LLM will change how we all use AI",
-    "link": "https://techcrunch.com/2026/09/17/prismml-hopes-its-tiny-llm-could-change-how-we-all-use-ai/",
-    "pubDate": "Thu, 17 Sep 2026 22:34:09 +0000",
-    "source": "TechCrunch AI",
-    "category": "ai",
-    "content": "If AI lab PrismML isn't on your radar yet, it should be.",
-    "image": "",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "The FAA’s plan to fix air traffic? $875M worth of AI",
-    "link": "https://techcrunch.com/2026/09/17/the-faas-plan-to-fix-air-traffic-875-million-worth-of-ai/",
-    "pubDate": "Thu, 17 Sep 2026 22:14:59 +0000",
-    "source": "TechCrunch AI",
-    "category": "ai",
-    "content": "A new AI-based software program is being launched to help air traffic controllers better navigate their jobs as the crossing guards of America's skies.",
-    "image": "",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "The fix for rogue AI agents could be more AI",
-    "link": "https://techcrunch.com/2026/09/17/the-fix-for-rogue-ai-agents-could-be-more-ai/",
-    "pubDate": "Thu, 17 Sep 2026 20:34:47 +0000",
-    "source": "TechCrunch AI",
-    "category": "ai",
-    "content": "As companies hand off longer and more complex tasks to AI agents, they are running into an oversight problem: Agents can act faster, longer, and at greater volume than humans can realistically review.",
-    "image": "",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "OpenAI caught its models leaving notes to successors to hide bad behavior",
-    "link": "https://techcrunch.com/2026/09/17/openai-caught-its-models-leaving-notes-to-successors-to-hide-bad-behavior/",
-    "pubDate": "Thu, 17 Sep 2026 20:34:24 +0000",
-    "source": "TechCrunch AI",
-    "category": "ai",
-    "content": "OpenAI disclosed instances of GPT-5.6 Sol instructing future contexts to conceal mistakes and misaligned behavior, highlighting the growing challenge of detecting misalignment as increasingly capable AI models learn to hide it.",
-    "image": "",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "Is the AI safety debate about safety or control?",
-    "link": "https://techcrunch.com/2026/09/17/is-the-ai-safety-debate-about-safety-or-control/",
-    "pubDate": "Thu, 17 Sep 2026 20:19:37 +0000",
-    "source": "TechCrunch AI",
-    "category": "ai",
-    "content": "Not everyone agrees with Amodei's call for globally coordinated action for AI safety.",
-    "image": "",
-    "summary": "",
-    "importance": 5
-  },
-  {
     "title": "OpenAI and Microsoft knew they were starting a ‘doom loop’ for the web",
     "link": "https://www.theverge.com/ai-artificial-intelligence/997633/openai-microsoft-chatgpt-ai-new-york-times-doom-loop-theft-google-zero",
     "pubDate": "2026-09-18T21:07:24.000Z",
@@ -1371,7 +1373,7 @@
     "source": "Ars Technica AI",
     "category": "ai",
     "content": "But the military's overall use of AI seems to be accelerating.",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2249618531-1152x648.jpg",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/chinese-cargo-ship-ai-target-1152x648.jpg",
     "summary": "",
     "importance": 5
   },
