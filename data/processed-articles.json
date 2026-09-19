@@ -228,18 +228,6 @@
     "classified": true
   },
   {
-    "title": "SEC grants temporary exemption for tokenized US stock trading",
-    "link": "https://cointelegraph.com/news/sec-temporary-exemption-tokenized-us-stock-trading?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Thu, 17 Sep 2026 13:34:17 +0000",
-    "source": "Cointelegraph",
-    "category": "crypto",
-    "content": "The SEC’s Innovation Exemption allows limited tokenized US stock trading on onchain venues with trading caps and transparency requirements.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2QQZ3RZHH74529R6BGMH1T9/hi-who-is-mark-uyeda-trumps-new-face-for-the-sec.jpg",
-    "summary": "The SEC has granted an Innovation Exemption, temporarily allowing limited trading of tokenized US stocks on onchain venues. This exemption comes with specific conditions, including trading caps and transparency requirements.",
-    "importance": 8,
-    "classified": true
-  },
-  {
     "title": "Ripple says asset managers are preparing for XRP Ledger’s next payments upgrade",
     "link": "https://www.coindesk.com/tech/2026/09/19/ripple-says-asset-managers-are-preparing-for-xrp-ledger-s-next-payments-upgrade",
     "pubDate": "Sat, 19 Sep 2026 13:39:15 +0000",
@@ -312,6 +300,30 @@
     "classified": true
   },
   {
+    "title": "REX launches 2x leveraged ETF tied to Bitcoin treasury firm Strive",
+    "link": "https://cointelegraph.com/news/rex-launches-2x-leveraged-etf-tied-to-bitcoin-treasury-firm-strive?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Sat, 19 Sep 2026 19:14:38 +0000",
+    "source": "Cointelegraph",
+    "category": "crypto",
+    "content": "The new ASSX fund offers 2x daily exposure to Strive shares, giving traders a leveraged way to bet on the Bitcoin treasury company.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2XGSZRWWBGCWVGM11DRCASK/hi-token-etf-victory.png",
+    "summary": "REX has launched a new 2x leveraged ETF, the ASSX fund, which offers 2x daily exposure to shares of Strive, a Bitcoin treasury firm. This fund provides traders a leveraged way to invest in or speculate on the Bitcoin treasury company.",
+    "importance": 7,
+    "classified": true
+  },
+  {
+    "title": "Kalshi joins Coinbase with filing for US stock perpetual futures",
+    "link": "https://cointelegraph.com/news/kalshi-joins-coinbase-with-filing-for-us-stock-perpetual-futures?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Sat, 19 Sep 2026 18:35:16 +0000",
+    "source": "Cointelegraph",
+    "category": "crypto",
+    "content": "Kalshi’s proposal would bring perpetual futures tied to individual stocks to US traders, as Coinbase and Bitnomial pursue similar products.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2XCEFSVWC01YSPFMW4NZF7R/hi-could-bitcoin-enter-the-mainstream-as-a-means-of-payments-kalshi-1.png",
+    "summary": "Kalshi has proposed bringing perpetual futures tied to individual stocks to US traders, a move that parallels similar efforts by Coinbase and Bitnomial. This initiative seeks to introduce a financial derivative popularized in cryptocurrency markets to the traditional US stock market.",
+    "importance": 7,
+    "classified": true
+  },
+  {
     "title": "Binance launches 24/7 FX perps with weekend pricing system",
     "link": "https://cointelegraph.com/news/binance-expands-tradfi-push-with-247-foreign-exchange-perpetuals?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "pubDate": "Fri, 18 Sep 2026 19:06:30 +0000",
@@ -320,6 +332,18 @@
     "content": "Binance is joining a growing number of crypto exchanges offering around-the-clock exposure to foreign exchange markets through perpetual futures.",
     "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2TWPXVTDCGSQ1MYSQ30VK2W/man-office-screen-computer02-2.png",
     "summary": "Binance has launched 24/7 foreign exchange (FX) perpetual futures, providing users with around-the-clock exposure to FX markets, including weekends. This move places Binance among a growing number of crypto exchanges offering such continuous trading services.",
+    "importance": 7,
+    "classified": true
+  },
+  {
+    "title": "Crypto stocks rebound after CLARITY Act selloff",
+    "link": "https://cointelegraph.com/news/crypto-stocks-rebound-after-clarity-selloff-as-us-regulators-move-ahead?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Fri, 18 Sep 2026 17:55:57 +0000",
+    "source": "Cointelegraph",
+    "category": "crypto",
+    "content": "Coinbase, Strategy and other crypto-linked stocks rallied Friday as the CFTC and SEC moved ahead with crypto-related actions under existing authority.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2TRCGEVT9CNFA3RQBK4NDTE/hi-japan-ipo-stocks-explained2.png",
+    "summary": "Crypto-linked stocks such as Coinbase and Strategy rallied on Friday, rebounding after a selloff. This market recovery occurred as the CFTC and SEC continued to take crypto-related actions utilizing their existing regulatory authority.",
     "importance": 7,
     "classified": true
   },
@@ -442,17 +466,6 @@
     "summary": "Bitcoin experienced modest daily gains, mirroring a rebound in US stocks. This movement occurred in the aftermath of the US Federal Reserve's recent interest-rate hike, the first since July 2023.",
     "importance": 6,
     "classified": true
-  },
-  {
-    "title": "Crypto stocks rebound after CLARITY Act selloff",
-    "link": "https://cointelegraph.com/news/crypto-stocks-rebound-after-clarity-selloff-as-us-regulators-move-ahead?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Fri, 18 Sep 2026 17:55:57 +0000",
-    "source": "Cointelegraph",
-    "category": "crypto",
-    "content": "Coinbase, Strategy and other crypto-linked stocks rallied Friday as the CFTC and SEC moved ahead with crypto-related actions under existing authority.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2TRCGEVT9CNFA3RQBK4NDTE/hi-japan-ipo-stocks-explained2.png",
-    "summary": "",
-    "importance": 5
   },
   {
     "title": "CFTC submits crypto market regulation plan for White House review  ",
@@ -598,13 +611,13 @@
     "importance": 5
   },
   {
-    "title": "Bitcoin treasury firms can outperform BTC... but is the risk worth taking?",
-    "link": "https://cointelegraph.com/magazine/bitcoin-treasuries-can-outperform-btc-but-is-it-a-risk-worth-taking?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Thu, 17 Sep 2026 13:30:00 +0000",
-    "source": "Cointelegraph",
+    "title": "Bitcoin ETFs eke out positive week with $433 million Friday inflow as ether funds snap four-week inflow streak",
+    "link": "https://www.theblock.co/news/markets/2026-09-19-bitcoin-etfs-eke-out-positive-week-with-433-million-friday-inflow-as-ether-funds-snap-four-week-inflow-streak-415871",
+    "pubDate": "Sat, 19 Sep 2026 18:01:09 +0000",
+    "source": "The Block",
     "category": "crypto",
-    "content": "Bitcoin treasury companies promise to amplify returns over investing in Bitcoin alone, but does the potential upside outweigh the risks to the downside?",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2MQKH8M6FB9RA6PJPEFV90G/magazine-young-crypto-founder-1.png",
+    "content": "Fidelity's FBTC accounted for $310.7 million of Friday’s overall $433 million net inflow, a notable sum that helped offset earlier withdrawals.",
+    "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2023/08/20230726_BitcoinVEthereum_News.jpg",
     "summary": "",
     "importance": 5
   },
@@ -814,17 +827,6 @@
     "category": "crypto",
     "content": "The country blocked local access to Polymarket last month after its media regulator ruled that the platform offers illegal gambling.",
     "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2024/11/20241111_Polymarket_News_2.jpg",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "‘Not the end’: Sen. Gillibrand says Democrats still committed to passing Clarity Act",
-    "link": "https://www.theblock.co/news/regulation/2026-09-16-sen-gillibrand-still-committed-to-clarity-415326",
-    "pubDate": "Thu, 17 Sep 2026 02:09:31 +0000",
-    "source": "The Block",
-    "category": "crypto",
-    "content": "Industry analysts say it is highly unlikely for the bill to pass this Congress, and instead pointed to the SEC and CFTC's rulemaking efforts.",
-    "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2019/07/washington-dc-capitol-1.jpg",
     "summary": "",
     "importance": 5
   },
@@ -1049,6 +1051,39 @@
     "importance": 5
   },
   {
+    "title": "Flock reportedly tries to shrink workforce with employee buyouts",
+    "link": "https://techcrunch.com/2026/09/19/flock-reportedly-tries-to-shrink-workforce-with-employee-buyouts/",
+    "pubDate": "Sat, 19 Sep 2026 20:39:13 +0000",
+    "source": "TechCrunch AI",
+    "category": "ai",
+    "content": "Without buyouts, Flock would \"almost certainly\" need to lay off staff.",
+    "image": "",
+    "summary": "",
+    "importance": 5
+  },
+  {
+    "title": "Trump says it’s time to rebrand AI with a new name — and he’s also creating an AI Force",
+    "link": "https://techcrunch.com/2026/09/19/trump-suggests-rebranding-ai-with-a-new-name-says-hes-also-creating-an-ai-force/",
+    "pubDate": "Sat, 19 Sep 2026 19:57:47 +0000",
+    "source": "TechCrunch AI",
+    "category": "ai",
+    "content": "Trump claimed, without evidence, that the AI backlash is a Democratic hoax.",
+    "image": "",
+    "summary": "",
+    "importance": 5
+  },
+  {
+    "title": "Google’s Gemini is the latest AI model to hack other companies",
+    "link": "https://techcrunch.com/2026/09/19/googles-gemini-is-the-latest-ai-model-to-hack-other-companies/",
+    "pubDate": "Sat, 19 Sep 2026 17:30:00 +0000",
+    "source": "TechCrunch AI",
+    "category": "ai",
+    "content": "Google said Gemini had \"acted appropriately\" by ending each hack immediately.",
+    "image": "",
+    "summary": "",
+    "importance": 5
+  },
+  {
     "title": "Petlibro’s new AI-powered feeder is a game changer for multi-cat homes",
     "link": "https://techcrunch.com/2026/09/19/petlibros-new-ai-powered-feeder-is-a-game-changer-for-multi-cat-homes/",
     "pubDate": "Sat, 19 Sep 2026 15:00:00 +0000",
@@ -1231,39 +1266,6 @@
     "source": "TechCrunch AI",
     "category": "ai",
     "content": "Manus, which earlier this year had to break off a merger with Meta, is in discussions to raise $500M at a $4B valuation.",
-    "image": "",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "Open or closed AI? Nvidia’s Nader Khalil and Sydney Sykes take on one of the decisions shaping next-gen startups at TechCrunch Disrupt 2026",
-    "link": "https://techcrunch.com/2026/09/18/open-or-closed-ai-nvidias-nader-khalil-and-sydney-sykes-take-on-one-of-the-decisions-shaping-next-gen-startups-at-techcrunch-disrupt-2026/",
-    "pubDate": "Fri, 18 Sep 2026 15:30:00 +0000",
-    "source": "TechCrunch AI",
-    "category": "ai",
-    "content": "Nvidia's Nader Khalil and Sydney Sykes discuss one of the decisions shaping next-gen startups on the Builders Stage at TechCrunch Disrupt 2026.",
-    "image": "",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "Meta’s Muse hits Mac, letting the AI take actions on your computer",
-    "link": "https://techcrunch.com/2026/09/18/metas-muse-hits-mac-letting-the-ai-take-actions-on-your-computer/",
-    "pubDate": "Fri, 18 Sep 2026 15:22:48 +0000",
-    "source": "TechCrunch AI",
-    "category": "ai",
-    "content": "Muse is now available on the Mac, where it can work with your files and apps to take action on your behalf.",
-    "image": "",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "Robinhood’s Abhishek Fatehpuria on winning the modern financial consumer at TechCrunch Disrupt 2026",
-    "link": "https://techcrunch.com/2026/09/18/robinhoods-abhishek-fatehpuria-on-winning-the-modern-financial-consumer-at-techcrunch-disrupt-2026/",
-    "pubDate": "Fri, 18 Sep 2026 15:00:00 +0000",
-    "source": "TechCrunch AI",
-    "category": "ai",
-    "content": "Robinhood’s Abhishek Fatehpuria on winning the modern financial consumer at TechCrunch Disrupt 2026. Register now to save up to $200 before September 25 at 11:59 p.m. PT.",
     "image": "",
     "summary": "",
     "importance": 5
