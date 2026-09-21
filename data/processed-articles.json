@@ -1,5 +1,41 @@
 [
   {
+    "title": "Bitcoin's 44% gain in third quarter teases full-blown crypto bull run",
+    "link": "https://www.coindesk.com/daybook-us/2026/09/21/bitcoin-s-44-gain-in-third-quarter-teases-full-blown-crypto-bull-run",
+    "pubDate": "Mon, 21 Sep 2026 11:36:11 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "Your day-ahead look for Sept. 21, 2026",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/eab60955ba93e8536f337c1f5fdd3e3c0327575b-5616x3744.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "The article's title suggests that Bitcoin achieved a 44% gain in the third quarter, potentially signaling the start of a full-blown cryptocurrency bull run. The body of the article, however, is merely a placeholder labeled \"Your day-ahead look for Sept. 21, 2026\".",
+    "importance": 9,
+    "classified": true
+  },
+  {
+    "title": "ECB deploys Pontes platform to settle wholesale tokenized assets in central-bank money",
+    "link": "https://www.coindesk.com/business/2026/09/21/ecb-deploys-pontes-platform-to-settle-wholesale-tokenized-assets-in-central-bank-money",
+    "pubDate": "Mon, 21 Sep 2026 11:18:55 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "The EU central bank's new wholesale platform connects DLT market infrastructure to its payment rails, separate from the retail digital euro pilot planned for 2027.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/26cccb22ec392aed75fa716d72a469596e1faf75-6048x4032.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "The European Central Bank (ECB) has launched its new Pontes platform to settle wholesale tokenized assets using central-bank money. This initiative connects Distributed Ledger Technology (DLT) market infrastructure with the ECB's payment rails, operating separately from the planned retail digital euro pilot in 2027.",
+    "importance": 9,
+    "classified": true
+  },
+  {
+    "title": "Bitcoin hits $85,000 as short squeeze forces out $648 million of bearish bets",
+    "link": "https://www.coindesk.com/markets/2026/09/21/bitcoin-hits-usd85-000-as-short-squeeze-forces-out-usd648-million-of-bearish-bets",
+    "pubDate": "Mon, 21 Sep 2026 10:30:00 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "Open interest climbed 7.59% to $156 billion even as positions were closed out, a sign traders are chasing the move rather than stepping back.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/3575c3207ed2bc2bd87c51cc10597661852223cf-1920x1080.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "Bitcoin's price soared to $85,000, causing a massive short squeeze that liquidated $648 million in bearish bets. Despite closures, open interest increased, indicating traders are actively chasing the market's upward momentum.",
+    "importance": 9,
+    "classified": true
+  },
+  {
     "title": "Robinhood Chain fees collapse 97% even as transactions stay near record highs",
     "link": "https://www.coindesk.com/business/2026/09/19/robinhood-chain-fees-collapse-97-even-as-transactions-stay-near-record-highs",
     "pubDate": "Sat, 19 Sep 2026 12:00:00 +0000",
@@ -24,30 +60,6 @@
     "classified": true
   },
   {
-    "title": "Live updates: Bitcoin climbs over $80,000 as crypto shakes off Clarity failure and higher interest rates",
-    "link": "https://www.coindesk.com/tech/2026/09/18/live-updates-hype-leads-altcoin-rally-as-bitcoin-recovers-toward-usd78-000",
-    "pubDate": "Fri, 18 Sep 2026 09:49:51 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "Another central bank hiked rates overnight, this time the Bank of Japan. The move failed to halt the slide in the yen.",
-    "image": "",
-    "summary": "Bitcoin has reportedly surged past $80,000, demonstrating resilience in the cryptocurrency market. This climb occurred despite challenges like the failure of \"Clarity\" and the Bank of Japan's overnight interest rate hike, which also saw the yen's value decline.",
-    "importance": 9,
-    "classified": true
-  },
-  {
-    "title": "Iran’s Strait of Hormuz toll booth ran through a bitcoin exchange, U.S. says",
-    "link": "https://www.coindesk.com/policy/2026/09/18/iran-s-strait-of-hormuz-toll-booth-ran-through-a-bitcoin-exchange-u-s-says",
-    "pubDate": "Fri, 18 Sep 2026 06:52:23 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "The U.S. Treasury sanctioned BitBank, a Tehran exchange it says moved hundreds of millions of dollars in bitcoin to the Revolutionary Guards and handled payments collected from ships buying passage through the world’s most important oil chokepoint.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/ea6e0ec4cd84026d0707ce39424079748bd5f9fb-3449x2300.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "The U.S. Treasury sanctioned BitBank, a Tehran-based exchange, for allegedly moving hundreds of millions of dollars in bitcoin to Iran's Revolutionary Guards. The exchange is also accused of handling payments collected from ships for passage through the Strait of Hormuz, linking cryptocurrency to geopolitical financing and illicit activities.",
-    "importance": 9,
-    "classified": true
-  },
-  {
     "title": "North Korean fake recruiters infect 30K devices, steal $10.7M in crypto",
     "link": "https://cointelegraph.com/news/north-korean-fake-recruiters-infect-30k-devices-steal-107m-in-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "pubDate": "Mon, 21 Sep 2026 01:42:53 +0000",
@@ -56,18 +68,6 @@
     "content": "North Korean cyber group WaterPlum targeted developers with fake jobs at crypto, AI and NFT companies, infecting at least 30,000 devices across more than 100 countries.",
     "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M30SCR3TXMTSM58MCQ6E0A8X/north-korea-it.jpg",
     "summary": "The North Korean cyber group WaterPlum infected over 30,000 devices across more than 100 countries by luring developers with fake job offers from crypto, AI, and NFT companies. This sophisticated phishing campaign resulted in the theft of $10.7 million in cryptocurrency.",
-    "importance": 9,
-    "classified": true
-  },
-  {
-    "title": "US sanctions Iran’s BitBank, saying it processes ‘Hormuz Safe’ Bitcoin payments",
-    "link": "https://cointelegraph.com/news/us-sanctions-irans-bitbank-saying-it-processes-hormuz-safe-bitcoin-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Fri, 18 Sep 2026 01:33:54 +0000",
-    "source": "Cointelegraph",
-    "category": "crypto",
-    "content": "US Treasury says the Iranian exchange processed payments received through Iran’s Strait of Hormuz maritime scheme and helped move hundreds of millions of dollars in Bitcoin to the IRGC.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2S256YQ45ANHSRCNHS5BZ56/bitbank.jpg",
-    "summary": "The US Treasury has sanctioned Iran's BitBank cryptocurrency exchange. This action was taken because BitBank allegedly processed \"Hormuz Safe\" Bitcoin payments and facilitated the transfer of hundreds of millions of dollars in Bitcoin to Iran's Islamic Revolutionary Guard Corps (IRGC).",
     "importance": 9,
     "classified": true
   },
@@ -180,30 +180,6 @@
     "classified": true
   },
   {
-    "title": "Ethereum confirms Glamsterdam dates, but warns 'fake' builders could stall the chain",
-    "link": "https://www.coindesk.com/tech/2026/09/18/ethereum-confirms-glamsterdam-dates-but-warns-fake-builders-could-stall-the-chain",
-    "pubDate": "Fri, 18 Sep 2026 05:23:29 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "Free test ether lets fake builders outbid rivals and withhold transaction payloads, while client teams get half the usual review time before Sepolia.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/c18c9af8ef94bcbc9a17fac89a01b83bfc76fd8f-5472x3648.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "Ethereum is encountering a problem on its testnet where \"fake builders\" are leveraging free test ether to outbid legitimate rivals and withhold transaction payloads, which could potentially stall the chain. This issue is emerging as client teams have reduced their review time in preparation for the Sepolia update.",
-    "importance": 8,
-    "classified": true
-  },
-  {
-    "title": "Bank of Japan raises interest rates by 25 basis points. Bitcoin tops $77,000",
-    "link": "https://www.coindesk.com/markets/2026/09/17/boj-rate-hike",
-    "pubDate": "Fri, 18 Sep 2026 03:03:38 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "The yen declined and BTC rose after the BOJ hiked rates to the highest level in 31 years.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/1d87eabe2ada7e5c5fb5014805876879c803feba-3388x2472.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "The Bank of Japan raised interest rates by 25 basis points to a 31-year high, which led to a decline in the yen. Concurrently, Bitcoin surged past $77,000 following this economic policy change.",
-    "importance": 8,
-    "classified": true
-  },
-  {
     "title": "Trump says US will form ‘AI Force’ and appoint AI czar: Reports",
     "link": "https://cointelegraph.com/news/trump-says-us-will-form-ai-force-and-appoint-ai-czar-reports?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "pubDate": "Sun, 20 Sep 2026 12:00:52 +0000",
@@ -300,30 +276,6 @@
     "classified": true
   },
   {
-    "title": "Binance brushes off Lagarde MiCA speculation, reaffirms Europe commitment",
-    "link": "https://cointelegraph.com/news/binance-cites-speculation-report-ecb-chief-mica-intervention?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Fri, 18 Sep 2026 08:50:38 +0000",
-    "source": "Cointelegraph",
-    "category": "crypto",
-    "content": "Binance declined to address reports of ECB intervention in its Greek MiCA bid, saying it remains committed to securing authorization in Europe.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2STMBSK2VDWAGTJC3MX17R7/europe-binance-1.jpg",
-    "summary": "Binance has declined to comment on reports regarding alleged European Central Bank intervention in its application for MiCA authorization in Greece. The cryptocurrency exchange reaffirmed its commitment to securing regulatory approval across Europe.",
-    "importance": 8,
-    "classified": true
-  },
-  {
-    "title": "CFTC expands regulatory relief for passive trading software providers",
-    "link": "https://cointelegraph.com/news/cftc-expands-regulatory-relief-for-passive-trading-software-providers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Thu, 17 Sep 2026 19:30:48 +0000",
-    "source": "Cointelegraph",
-    "category": "crypto",
-    "content": "The US regulator’s move could make it easier for crypto wallets and other apps to offer access to regulated derivatives and prediction markets without registering as introducing brokers.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2RCXR1ZF4MGZQYC31CCHQC8/paper-document-man-office-cftc-2.jpg",
-    "summary": "The US Commodity Futures Trading Commission (CFTC) has expanded regulatory relief for passive trading software providers. This change could allow crypto wallets and other applications to offer access to regulated derivatives and prediction markets more easily, without needing to register as introducing brokers.",
-    "importance": 8,
-    "classified": true
-  },
-  {
     "title": "Visa to close Crossmint memecoin rewards loophole following The Block investigation: report",
     "link": "https://www.theblock.co/news/regulation/2026-09-19-visa-to-close-crossmint-memecoin-rewards-loophole-following-the-block-investigation-report-415866",
     "pubDate": "Sat, 19 Sep 2026 15:11:22 +0000",
@@ -333,6 +285,18 @@
     "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/08/memecoin-creditcard.jpg",
     "summary": "Visa is reportedly set to close a loophole next week concerning memecoin rewards facilitated by Crossmint, following an investigation by The Block. While Crossmint-powered memecoin sales remain active, Visa's grace period for this mechanism is coming to an end.",
     "importance": 8,
+    "classified": true
+  },
+  {
+    "title": "X sues its own users for running a fake bitcoin news bot farm",
+    "link": "https://www.coindesk.com/markets/2026/09/21/x-sues-its-won-users-for-running-a-fake-bitcoin-news-bot-farm",
+    "pubDate": "Mon, 21 Sep 2026 10:15:44 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "X has sued Vivek Kumar Sen and Zmyang Sherpa for running fake bitcoin headline accounts to fraudulently earn creator rewards from the platform.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/7c54bf644dec9210bbe26574de285f82261c7471-2560x1700.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "X has sued Vivek Kumar Sen and Zmyang Sherpa for operating fake bitcoin headline accounts on its platform. The lawsuit alleges that these users fraudulently earned creator rewards through their bot farm.",
+    "importance": 7,
     "classified": true
   },
   {
@@ -368,54 +332,6 @@
     "content": "NU7 would reduce block times to 25 seconds while setting aside at least 60% of transaction fees to supplement mining rewards beginning in 2031.",
     "image": "https://cdn.sanity.io/images/s3y3vcno/production/837700a2c31b20bd836c2e16853b6d25f4e30f7f-5400x3600.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
     "summary": "Zcash is planning a November upgrade, NU7, to significantly speed up private payments by reducing block times to 25 seconds. This update will also allocate at least 60% of transaction fees to supplement mining rewards starting in 2031.",
-    "importance": 7,
-    "classified": true
-  },
-  {
-    "title": "Layer-2 and DeFi tokens lead broad crypto advance as post-Fed hike nerves fade",
-    "link": "https://www.coindesk.com/markets/2026/09/18/layer-2-and-defi-tokens-lead-broad-crypto-advance-as-post-fed-hike-nerves-fade",
-    "pubDate": "Fri, 18 Sep 2026 10:33:05 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "Starknet and arbitrum gained more than 17% while the 10-year Treasury yield slipped back below 5%, with 98 of CoinDesk 100 constituents advancing.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/836ed3bca786c37ab6d40c3c8e2936188ef5cc4c-1920x1080.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "Layer-2 and DeFi tokens, including Starknet and Arbitrum which gained over 17%, led a broad cryptocurrency market advance. This occurred as post-Fed hike anxieties subsided and the 10-year Treasury yield fell below 5%, with 98 of CoinDesk 100 constituents also advancing.",
-    "importance": 7,
-    "classified": true
-  },
-  {
-    "title": "Bitcoin weathers September storm as rate hikes and Clarity act setback test bulls",
-    "link": "https://www.coindesk.com/markets/2026/09/18/bitcoin-weathers-september-storm-as-rate-hikes-and-clarity-act-setback-test-bulls",
-    "pubDate": "Fri, 18 Sep 2026 10:07:33 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "Bitcoin is down just 1.5% in its historically weakest month and remains on track for its first quarterly gain in a year, despite rising rates, surging oil and a stronger dollar.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/993df2e2bfe6457f309bb7771a210877078feee1-1534x969.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "Bitcoin has shown remarkable resilience in September, a historically weak month, dipping only 1.5%. Despite macroeconomic headwinds like rising interest rates and a strong dollar, Bitcoin is on track for its first quarterly gain in a year.",
-    "importance": 7,
-    "classified": true
-  },
-  {
-    "title": "SBI Group backs payments firm dtcpay in $25 million funding round",
-    "link": "https://www.coindesk.com/markets/2026/09/18/sbi-group-backs-payments-firm-dtcpay-in-usd25-million-funding-round",
-    "pubDate": "Fri, 18 Sep 2026 07:37:32 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "Stablecoin payments company dtcpay completed a $25 million Series A funding round with a strategic investment from Japan’s SBI Group.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/7d7fa3eb980a963484b88dc6e702539fda68b6b7-1280x853.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "Stablecoin payments company dtcpay has successfully closed a $25 million Series A funding round. The funding round included a strategic investment from Japan's SBI Group.",
-    "importance": 7,
-    "classified": true
-  },
-  {
-    "title": "Ether and XRP ETFs post outflows as crypto majors move higher",
-    "link": "https://www.coindesk.com/markets/2026/09/18/ether-and-xrp-etfs-post-outflows-as-bitcoin-moves-above-usd77-000",
-    "pubDate": "Fri, 18 Sep 2026 04:49:17 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "Ether funds shed money for a third straight session even as the token rose, while every major gained and zcash extended its run.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/18c064c6413091acaad8ec6ad59dfc258ff93092-1340x748.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "Ether and XRP exchange-traded funds (ETFs) experienced outflows for a third consecutive session, even as Ether's token price increased. Despite these outflows from major funds, other cryptocurrencies saw gains, with Zcash extending its rally.",
     "importance": 7,
     "classified": true
   },
@@ -504,51 +420,15 @@
     "classified": true
   },
   {
-    "title": "Zcash targets November for NU7 mainnet upgrade with 25-second blocks",
-    "link": "https://cointelegraph.com/news/zcash-nu7-november-mainnet-activation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Fri, 18 Sep 2026 04:51:29 +0000",
-    "source": "Cointelegraph",
+    "title": "Perp futures linked to 'bitcoin VIX' debut on Hyperliquid",
+    "link": "https://www.coindesk.com/markets/2026/09/21/perp-futures-linked-to-bitcoin-vix-debut-on-hyperliquid",
+    "pubDate": "Mon, 21 Sep 2026 11:30:00 +0000",
+    "source": "CoinDesk",
     "category": "crypto",
-    "content": "NU7 will cut Zcash block times to 25 seconds and preserve its halving schedule, with testnet activation planned for Oct. 6.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2SBV8SBEEFJVCB357QGD89N/nu7-zec.png",
-    "summary": "Zcash is planning its NU7 mainnet upgrade for November, which will reduce block times to 25 seconds while preserving its current halving schedule. Testnet activation for this upgrade is scheduled for October 6.",
-    "importance": 7,
-    "classified": true
-  },
-  {
-    "title": "Cardano’s IOG warns users to avoid YouTube channel amid apparent hijack",
-    "link": "https://cointelegraph.com/news/cardanos-iog-warns-users-to-avoid-youtube-channel-amid-giveaway-scam?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Fri, 18 Sep 2026 04:11:40 +0000",
-    "source": "Cointelegraph",
-    "category": "both",
-    "content": "Input Output Group told users to avoid its YouTube channel after it began livestreaming a suspected AI-manipulated Charles Hoskinson video promising to “double your wealth.”",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2SB5M6KX3T9RG1MJHYSDDBH/youtube.jpg",
-    "summary": "Cardano's Input Output Group (IOG) warned users to avoid its YouTube channel after it was apparently hijacked. The compromised channel began livestreaming a suspected AI-manipulated video of Charles Hoskinson, promising to \"double your wealth\" in a clear scam attempt. This incident highlights ongoing security risks for public figures and organizations in the crypto space.",
-    "importance": 7,
-    "classified": true
-  },
-  {
-    "title": "World launches self-custodial ‘super app’ World Money",
-    "link": "https://cointelegraph.com/news/world-launches-self-custodial-super-app-world-money?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Fri, 18 Sep 2026 03:40:28 +0000",
-    "source": "Cointelegraph",
-    "category": "crypto",
-    "content": "World Money is rolling out across more than 150 countries, combining stablecoin payments, digital asset rewards and trading in a self-custodial app.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2S9HGXJ2F33PMBZSJ22CVNG/world-app.jpg",
-    "summary": "World Money has launched a new self-custodial 'super app' globally across more than 150 countries. This platform integrates stablecoin payments, digital asset rewards, and trading functionalities within a single application.",
-    "importance": 7,
-    "classified": true
-  },
-  {
-    "title": "North Korea drives onchain malware surge, CoinEx shuts: Asia Express",
-    "link": "https://cointelegraph.com/magazine/north-korea-drives-onchain-malware-surge-coinex-shuts-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Thu, 17 Sep 2026 23:49:23 +0000",
-    "source": "Cointelegraph",
-    "category": "crypto",
-    "content": "North Korea and Iran account for the majority of onchain malware, while Malaysia has been named among the most crypto curious Islamic nations.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2RR0R87D4ZNY7FB45GN96P2/magazineasia-expressriver.jpg",
-    "summary": "North Korea and Iran are responsible for the majority of onchain malware activities. Additionally, Malaysia has been identified as one of the most crypto-curious Islamic nations.",
-    "importance": 7,
+    "content": "Deployed via Kinetiq's Markets frontend and led by Volmex CEO Cole Kennelly, Hyperliquid's new BVIV perpetuals let traders easily go long or short on 30-day bitcoin volatility.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/d107334cc6651d7b9ebd1efc12c22ecb3f170d14-2108x1488.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "Hyperliquid has launched new BVIV perpetual futures, enabling traders to easily go long or short on 30-day bitcoin volatility. These perpetuals, deployed via Kinetiq's Markets frontend, were spearheaded by Volmex CEO Cole Kennelly.",
+    "importance": 6,
     "classified": true
   },
   {
@@ -564,14 +444,14 @@
     "classified": true
   },
   {
-    "title": "Corporate treasuries bought just 5,900 bitcoin in 3 months. Other demand signals look weak, too.",
-    "link": "https://www.coindesk.com/markets/2026/09/18/corporate-treasuries-bought-just-5-900-bitcoin-in-3-months-other-demand-signals-look-weak-too",
-    "pubDate": "Fri, 18 Sep 2026 05:43:21 +0000",
-    "source": "CoinDesk",
+    "title": "Here’s what happened in crypto today",
+    "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Mon, 21 Sep 2026 04:44:48 +0000",
+    "source": "Cointelegraph",
     "category": "crypto",
-    "content": "Corporate treasuries bought just 5,900 bitcoin in three months, while broader demand signals remain weak.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/945127549bc4106cc0730befcad887387473e052-3096x2072.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "Corporate treasuries acquired a modest 5,900 bitcoin over the past three months. This low purchasing volume signals broader weak demand for the cryptocurrency.",
+    "content": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg",
+    "summary": "This article provides a summary of the latest news and trends in the crypto space, covering Bitcoin price, blockchain, DeFi, Web3, and crypto regulation. It aims to keep readers updated on daily events impacting the cryptocurrency market. The article appears to be a general overview of the current state of the crypto industry.",
     "importance": 6,
     "classified": true
   },
@@ -584,18 +464,6 @@
     "content": "VanEck said Metaplanet’s executive equity exposure remains well above its digital asset treasury peers, even after the company cut its potential share pool by 41%.",
     "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2X3YT6NGAV29VGER3AJRNFW/hi-metaplanet-seeks-bitcoin-1.jpg",
     "summary": "VanEck has criticized Metaplanet regarding its executive equity exposure, stating that it remains significantly higher than its digital asset treasury peers. This criticism comes despite Metaplanet's recent 41% reduction in its potential share pool for executive compensation.",
-    "importance": 6,
-    "classified": true
-  },
-  {
-    "title": "Here’s what happened in crypto today",
-    "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Fri, 18 Sep 2026 21:00:00 +0000",
-    "source": "Cointelegraph",
-    "category": "crypto",
-    "content": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg",
-    "summary": "This article provides a summary of the latest news and trends in the crypto space, covering Bitcoin price, blockchain, DeFi, Web3, and crypto regulation. It aims to keep readers updated on daily events impacting the cryptocurrency market. The article appears to be a general overview of the current state of the crypto industry.",
     "importance": 6,
     "classified": true
   },
@@ -636,24 +504,178 @@
     "classified": true
   },
   {
+    "title": "Hana Bank issues South Korea’s first digital bond using Euroclear’s blockchain",
+    "link": "https://www.coindesk.com/business/2026/09/21/hana-bank-issues-south-korea-s-first-digital-bond-using-euroclear-s-blockchain",
+    "pubDate": "Mon, 21 Sep 2026 08:49:59 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "South Korea's second-largest bank’s $100 million foreign-currency bond blockchain issuance shortened settlement time to the same day from three to five business days.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/6ca0c5227db16e3f89f1df6c7b19698cc547c9f6-3192x1772.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "",
+    "importance": 5
+  },
+  {
+    "title": "Live updates: Bitcoin hits $85,000 as short liquidations hit $300 million in an hour",
+    "link": "https://www.coindesk.com/business/2026/09/21/live-updates-bitcoin-rises-above-usd82-000-as-falling-oil-lifts-risk-assets",
+    "pubDate": "Mon, 21 Sep 2026 08:39:26 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "Crypto majors climbed alongside equity futures on Monday, with Monero's XMR up 13%, as Brent fell for a fourth straight session and traders positioned ahead of a Trump-Xi summit later this week.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/5ac197997d19deeeb890818c2d4d59588cf6dbf6-1508x840.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "",
+    "importance": 5
+  },
+  {
+    "title": "Kalshi faces ‘fake crypto volume’ allegations as critic flags identical $5,500 trades",
+    "link": "https://www.coindesk.com/markets/2026/09/21/kalshi-s-crypto-chief-responds-to-fake-crypto-volume-allegations-as-critic-flags-identical-usd5-500-trades",
+    "pubDate": "Mon, 21 Sep 2026 06:20:47 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "A trader alleged on X that Kalshi is inflating trading volumes in its ether perpetual futures.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/c40d5f7a29038a7748b4582036df3580ffcd359f-2768x1848.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "",
+    "importance": 5
+  },
+  {
+    "title": "Bitcoin rises above $81,000, while NEAR jumps 23% on Zcash swap traffic",
+    "link": "https://www.coindesk.com/markets/2026/09/21/bitcoin-rises-above-usd81-000-while-near-jumps-23-on-zcash-swap-traffic",
+    "pubDate": "Mon, 21 Sep 2026 04:03:43 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "Bitcoin extended a slow climb through the Asian session while regional equities and U.S. stock futures rose on progress in trade talks between Washington and Beijing.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/836022e61beb061b3b2bfa45f7533380ab7c91f0-1514x848.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "",
+    "importance": 5
+  },
+  {
+    "title": "Bitcoin’s price has cleared a key hurdle that has historically preceded major bull runs",
+    "link": "https://www.coindesk.com/markets/2026/09/21/bitcoin-s-price-has-cleared-a-key-hurdle-that-has-historically-preceded-major-bull-runs",
+    "pubDate": "Mon, 21 Sep 2026 03:56:23 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "Bitcoin's price has topped its 50-week average for the first time in 45 weeks, a major bullish signal.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/3ca320c0730a76a824973a2dc7c675fa4bf6d736-6075x4050.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "",
+    "importance": 5
+  },
+  {
+    "title": "ECB launches Pontes to settle tokenized assets without stablecoins",
+    "link": "https://cointelegraph.com/news/eurosystem-central-bank-money-tokenized-finance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Mon, 21 Sep 2026 11:27:00 +0000",
+    "source": "Cointelegraph",
+    "category": "crypto",
+    "content": "Pontes will expand its services and operating hours gradually, with full implementation expected by 2028 and more participants set to join.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M31SZBB8Q9BGS5MAPPJDRVD8/hi-the-digital-token-how-it-will-impact-the-current-financial-system-ecb-2.jpg",
+    "summary": "",
+    "importance": 5
+  },
+  {
+    "title": "NEAR jumps nearly 80% in a week as Intents volume nears $30B",
+    "link": "https://cointelegraph.com/markets/near-price-surge-intents-zcash-privacy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Mon, 21 Sep 2026 10:52:35 +0000",
+    "source": "Cointelegraph",
+    "category": "crypto",
+    "content": "Near expanded privacy features for traders as NEAR Intents recorded $29.3 billion in cumulative volume, including swaps involving Zcash.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M31MSKT8NTKD155T7WXJ3KCF/hi-why-privacy-is-the-main-issue-of-our-time.jpg",
+    "summary": "",
+    "importance": 5
+  },
+  {
+    "title": "BTC price nears eight-month high above $85K: Five things to know in Bitcoin this week",
+    "link": "https://cointelegraph.com/markets/btc-price-nears-eight-month-high-above-85k-five-things-to-know-in-bitcoin-this-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Mon, 21 Sep 2026 10:15:51 +0000",
+    "source": "Cointelegraph",
+    "category": "crypto",
+    "content": "Bitcoin hit $85,000 for the first time since January as markets focused on cooling oil prices.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M31Q8BFZ8GX28390FWKSDR14/hi-why-i-am-cynically-bullish-about-the-bitcoin-4.jpg",
+    "summary": "",
+    "importance": 5
+  },
+  {
+    "title": "X sues Bitcoin account operators over alleged $278K payout fraud",
+    "link": "https://cointelegraph.com/news/x-lawsuit-bitcoin-accounts-alleged-scheme?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Mon, 21 Sep 2026 09:35:25 +0000",
+    "source": "Cointelegraph",
+    "category": "crypto",
+    "content": "X alleges six Bitcoin-focused accounts coordinated posts and engagement to inflate creator payouts, with claimed and projected losses of at least $378,000.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M31EVJ5N046HYVF5DZ25S5DK/x-formerly-twitter.jpg",
+    "summary": "",
+    "importance": 5
+  },
+  {
+    "title": "ZetaChain holders approve plan to wind down L1, move ZETA to Solana",
+    "link": "https://cointelegraph.com/news/zetachain-shutdown-zeta-solana-migration?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Mon, 21 Sep 2026 07:31:47 +0000",
+    "source": "Cointelegraph",
+    "category": "crypto",
+    "content": "ZetaChain plans to wind down its Cosmos-based layer 1 and migrate ZETA to Solana, joining other crypto projects moving away from standalone chains.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M31CC3ZSTPD82ESPKWZW2VAR/migration.png",
+    "summary": "",
+    "importance": 5
+  },
+  {
+    "title": "Bank of Korea launches 24-hour won settlement pilot for foreign investors",
+    "link": "https://cointelegraph.com/news/bank-korea-won-settlement-pilot?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Mon, 21 Sep 2026 06:41:23 +0000",
+    "source": "Cointelegraph",
+    "category": "crypto",
+    "content": "The Bank of Korea’s new network will let foreign investors settle won transactions during business hours in their home countries.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M319R3JF98CG6WKRPGXHA151/sk-cbdc.png",
+    "summary": "",
+    "importance": 5
+  },
+  {
+    "title": "Bitcoin reclaims 50-week moving average as analysts eye end of bear market",
+    "link": "https://cointelegraph.com/markets/bitcoin-reclaims-50-week-moving-average-is-the-bear-market-over?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Mon, 21 Sep 2026 04:29:59 +0000",
+    "source": "Cointelegraph",
+    "category": "crypto",
+    "content": "Bitcoin’s move above its 50-week moving average has historically marked the end of bear markets, but analysts say one weekly close isn’t enough to confirm a new bull run.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M313HQ80FRZDHTGSS9YGGJSR/bitcoin-weekly-close.jpg",
+    "summary": "",
+    "importance": 5
+  },
+  {
+    "title": "Hana Bank taps Euroclear blockchain for $100M bond issuance: Report ",
+    "link": "https://cointelegraph.com/news/hana-bank-euroclear-blockchain-100m-bond?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Mon, 21 Sep 2026 04:27:32 +0000",
+    "source": "Cointelegraph",
+    "category": "crypto",
+    "content": "The five-year digital bond reportedly shortened settlement from three to five business days to the same day using Euroclear’s blockchain infrastructure.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M310AVAYEMVP188717499P0H/sk-hana.png",
+    "summary": "",
+    "importance": 5
+  },
+  {
     "title": "Who needs CLARITY anyway? ARB could see 70X increase: Hodler’s Digest",
     "link": "https://cointelegraph.com/magazine/who-needs-clarity-anyway-arb-could-see-70x-increase-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "pubDate": "Sun, 20 Sep 2026 23:37:39 +0000",
     "source": "Cointelegraph",
     "category": "crypto",
-    "content": "Crypto missed out CLARITY, but tokenized stocks were legalized and the Bitcoin Reserve advanced. Meanwhile Standard Chartered says Arbitrum’s price could increase 70 times by 2030.",
+    "content": "Crypto missed out on CLARITY, but tokenized stocks were legalized and the Bitcoin Reserve advanced. Meanwhile Standard Chartered says Arbitrum’s price could increase 70 times by 2030.",
     "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M30EAE44F9E8Z0P8M1SEBDSD/magazine-cover-collage-sept-21.png",
     "summary": "",
     "importance": 5
   },
   {
-    "title": "Bitcoin cycle bottom may already be in at $58K, says analyst James Check",
-    "link": "https://cointelegraph.com/markets/bitcoin-cycle-bottom-58k-james-check?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Fri, 18 Sep 2026 08:47:20 +0000",
-    "source": "Cointelegraph",
+    "title": "Bitcoin taps $85,000 for first time since January as crypto short liquidations surge",
+    "link": "https://www.theblock.co/news/markets/2026-09-21-bitcoin-taps-85000-for-first-time-since-january-as-crypto-short-liquidations-surge-415905",
+    "pubDate": "Mon, 21 Sep 2026 10:56:54 +0000",
+    "source": "The Block",
     "category": "crypto",
-    "content": "Onchain analyst James Check says Bitcoin may have bottomed near $58,000 after two capitulations and warns against anchoring to an October low.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2SN22TNQ4C3YHZG80V0QR6A/bitcoin-domination-token-altcoin.jpg",
+    "content": "CoinGlass recorded at least $750 million in crypto liquidations over 24 hours, most of them short positions.",
+    "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2024/01/20240111_Bitcoin_News_1.jpg",
+    "summary": "",
+    "importance": 5
+  },
+  {
+    "title": "X sues UK duo over alleged $277K crypto account payout fraud",
+    "link": "https://www.theblock.co/news/regulation/2026-09-21-x-sues-uk-duo-over-alleged-277k-crypto-account-payout-fraud-415889",
+    "pubDate": "Mon, 21 Sep 2026 09:24:27 +0000",
+    "source": "The Block",
+    "category": "crypto",
+    "content": "X alleges two UK users manipulated crypto-focused accounts to obtain $277,000 through its creator revenue-sharing program.",
+    "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2021/10/20220414_Elon.jpg",
     "summary": "",
     "importance": 5
   },
@@ -819,28 +841,6 @@
     "category": "crypto",
     "content": "The SEC released its 'innovation exemption,' positioning the measure as a response to the Senate's failure to advance crypto legislation.",
     "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2025/01/20250109_Paul-Atkins_News.jpg",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "Crypto.com registers with SEC for single-stock futures, plans US stock perps",
-    "link": "https://www.theblock.co/news/business/2026-09-17-crypto-com-registers-with-sec-for-single-stock-futures-plans-us-stock-perps-415355",
-    "pubDate": "Thu, 17 Sep 2026 12:41:53 +0000",
-    "source": "The Block",
-    "category": "crypto",
-    "content": "CEO Kris Marszalek said the company is also working with the SEC and CFTC to offer single-stock perpetual futures in the U.S.",
-    "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/09/cryptocom.jpg",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "Grayscale’s Pandl still sees bitcoin’s $58K low as the bottom, gives clients ‘green light’",
-    "link": "https://www.theblock.co/news/markets/2026-09-17-grayscales-pandl-still-sees-bitcoins-58k-low-as-the-bottom-gives-clients-green-light-415346",
-    "pubDate": "Thu, 17 Sep 2026 11:47:30 +0000",
-    "source": "The Block",
-    "category": "crypto",
-    "content": "Grayscale's Zach Pandl maintains bitcoin bottomed near $58,000 as the firm gives clients a \"green light\" to allocate.",
-    "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/09/bitcoin.jpg",
     "summary": "",
     "importance": 5
   },
@@ -1285,7 +1285,29 @@
     "importance": 5
   },
   {
-    "title": "No one is surprised that Nvidia&#8217;s Jensen Huang thinks AI fears are overblown.",
+    "title": "UN says AI safeguards can’t wait for certainty",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/998090/un-ai-panel-hugging-face-hack-precautionary-principle",
+    "pubDate": "2026-09-21T10:18:06.000Z",
+    "source": "The Verge AI",
+    "category": "ai",
+    "content": "The United Nations logo at the UN headquarters in New York. | Getty Images\t\n\nGovernments need to rein in increasingly capable AI agents before their risks are fully understood, a United Nations scientific panel warned in the global organization's first major assessment of OpenAI's hack of Hugging Face earlier this year.\nThe report cements AI's place on the global diplomatic agenda this week as leaders gather in New York for the UN General Assembly and the US and China hold talks on AI. Last week, UN secretary general António Guterres called on governments to cooperate on addressing the threats posed by AI, warning that \"the world cannot afford a race to the bottom on AI safety.\"\nIt is the first thematic brief from  …\nRead the full story at The Verge.",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2234546269.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "summary": "",
+    "importance": 5
+  },
+  {
+    "title": "Amazon doesn’t trust Meta’s Muse AI agent",
+    "link": "https://www.theverge.com/tech/998078/amazon-blocks-meta-muse-ai-agent-shopping",
+    "pubDate": "2026-09-21T09:21:47.000Z",
+    "source": "The Verge AI",
+    "category": "ai",
+    "content": "Meta's Muse AI agent has been blocked from shopping Amazon on behalf of its users, GeekWire reports. A popup message started appearing on Sunday for Muse users saying that \"continued access by an unauthorized AI agent violates Amazon's Conditions of Use, to which our customers have agreed.\"\nAccording to GeekWire, Meta didn't notify Amazon that Muse would access its store. Amazon also expressed privacy and security concerns over Muse failing to identify itself when it browses, and seemingly capturing customer credentials.\n\"We think it's fairly straightforward that third-party applications that offer to make purchases on behalf of customers  …\nRead the full story at The Verge.",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/Amazon_Prime_Illo.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "summary": "",
+    "importance": 5
+  },
+  {
+    "title": "No one is surprised that Nvidia’s Jensen Huang thinks AI fears are overblown",
     "link": "https://www.theverge.com/ai-artificial-intelligence/997936/nvidia-jensen-huang-ai-fears-overblown",
     "pubDate": "2026-09-20T18:50:18.000Z",
     "source": "The Verge AI",
@@ -1369,28 +1391,6 @@
     "category": "ai",
     "content": "Recently unsealed court documents in the New York Times' case against OpenAI and Microsoft are pretty damning. The companies' own documentation warned that it was starting a \"doom loop\" that would damage the web, characterized its scraping of data to train its models as the \"largest theft of labor in human history,\" and that it made a \"complete mockery of the idea of fair use.\"\nMany of the most eye-catching quotes from the document come from Microsoft's Director of Applied Science, Brent Hecht. Though, the company has tried to distance itself from Hecht's assertions. Microsoft spokesperson Alex Haurek told The Verge that \"These comments ref …\nRead the full story at The Verge.",
     "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKS534_AI_DOOMSDAY2_B.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "Virginia governor creates an AI task force and moves to restrain data centers",
-    "link": "https://www.theverge.com/policy/997573/virginia-governor-spanberger-data-center-ai-task-force",
-    "pubDate": "2026-09-18T18:29:17.000Z",
-    "source": "The Verge AI",
-    "category": "ai",
-    "content": "Virginia Gov. Abigail Spanberger ordered the state government to take steps that could empower local communities to have a larger say in data center development and slow down approvals in a state that is already home to the data center capital of the world.\nExecutive Order 22 bans executive branch officials from signing nondisclosure agreements for data center projects, requires expedited noise regulations, and requires a review of backup-generation operations used by data centers, among other requirements. The order also establishes an AI task force responsible for evaluating how the state government can address risks to Virginians like wo …\nRead the full story at The Verge.",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2295948062.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "Gavin Newsom is pushing for an AI kill switch",
-    "link": "https://www.theverge.com/policy/997516/california-governor-newsom-ai-kill-switch",
-    "pubDate": "2026-09-18T17:04:51.000Z",
-    "source": "The Verge AI",
-    "category": "ai",
-    "content": "California Gov. Gavin Newsom (D) is positioning the state to take the lead on AI oversight, including the potential to mandate a \"kill switch\" for frontier models, with a new executive order issued Friday. \nNewsom's order directs the state to convene a group of experts that will deliver recommendations within two months on how to strengthen AI safety measures in state law. Newsom wants the group to consider how the state could require AI companies to embed independent verification groups onsite for regular audits, make their transparency reports and risk assessments subject to standards of independent auditors, create a \"kill switch\" that's …\nRead the full story at The Verge.",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2292819671.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
     "summary": "",
     "importance": 5
   },
@@ -1615,26 +1615,14 @@
     "importance": 5
   },
   {
-    "title": "XRP on the brink of a golden cross as focus switches to altcoins",
-    "link": "https://www.coindesk.com/daybook-us/2026/09/18/xrp-on-the-brink-of-a-golden-cross-as-focus-switches-to-altcoins",
-    "pubDate": "Fri, 18 Sep 2026 11:15:00 +0000",
+    "title": "Crypto enjoys bullish bounce post-Fed rate hike: Crypto Week Ahead",
+    "link": "https://www.coindesk.com/markets/2026/09/21/crypto-week-ahead",
+    "pubDate": "Mon, 21 Sep 2026 09:12:42 +0000",
     "source": "CoinDesk",
     "category": "crypto",
-    "content": "Your day-ahead look for Sept. 18, 2026",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/835ea4daddfdc629af7a5d1bf07c9510cb5baea1-2854x1488.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "This article briefly notes that the cryptocurrency XRP is approaching a 'golden cross,' a bullish technical indicator often watched by traders. It also highlights a broader shift in market attention towards altcoins within the cryptocurrency ecosystem. The content is presented as a day-ahead look for September 18, 2026.",
-    "importance": 4,
-    "classified": true
-  },
-  {
-    "title": "Solana speeds up blocks by 17%, but transaction capacity stays the same",
-    "link": "https://www.coindesk.com/tech/2026/09/18/solana-speeds-up-blocks-by-17-but-transaction-capacity-stays-the-same",
-    "pubDate": "Fri, 18 Sep 2026 06:16:57 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "The network is cutting its target slot time to 250 milliseconds, giving apps fresher blockchain data and validators shorter control windows while reducing the amount of work allowed in each slot.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/54c0f3b41e62df4cdf774aab4c7d68c64e5e976c-1920x1080.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "Solana is reducing its target slot time by 17% to 250 milliseconds, speeding up block production. This change provides applications with fresher blockchain data and validators with shorter control windows. However, the network's overall transaction capacity remains the same as the amount of work allowed per slot has been reduced.",
+    "content": "Your look at what's coming in the week starting Sept. 21.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/af5533562893e00a029eaace0996b96eacade301-1905x1072.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "The crypto market experienced a bullish bounce following a Federal Reserve rate hike. This article provides a forward-looking overview for the crypto industry in the week starting September 21st.",
     "importance": 4,
     "classified": true
   },
