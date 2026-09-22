@@ -48,25 +48,13 @@
     "classified": true
   },
   {
-    "title": "ZetaChain votes to shut down Layer 1 network and move ZETA to Solana",
-    "link": "https://www.theblock.co/news/defi/2026-09-20-zetachain-votes-to-shut-down-layer-1-network-and-move-zeta-to-solana-415878",
-    "pubDate": "Sun, 20 Sep 2026 20:11:49 +0000",
-    "source": "The Block",
-    "category": "both",
-    "content": "The team plans to focus instead on Anuma, its private AI app, though the migration will still take one more vote.",
-    "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/09/ChatGPT-Image-Sep-20-2026-04_06_27-PM.jpg",
-    "summary": "ZetaChain's community has voted to shut down its Layer 1 network and migrate its native token, ZETA, to Solana. This strategic shift will allow the team to concentrate on developing Anuma, a private AI application, pending a final community vote.",
-    "importance": 9,
-    "classified": true
-  },
-  {
     "title": "Crypto market structure can't wait for shot at post-election Clarity Act surge: White House",
     "link": "https://www.coindesk.com/policy/2026/09/22/crypto-market-structure-can-t-wait-for-shot-at-post-election-clarity-act-surge-white-house",
     "pubDate": "Tue, 22 Sep 2026 20:31:02 +0000",
     "source": "CoinDesk",
     "category": "crypto",
     "content": "White House and U.S. Treasury officials agree that despite some hope that Congress' \"lame duck\" session could see the bill again, the work's in regulators' hands.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/426b894a17f81899340d08d82116a4746ad1ce0f-4920x2768.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/3a82687d27c6810294ed9c6e05deb77410f13981-3370x1896.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
     "summary": "White House and U.S. Treasury officials agree that the responsibility for establishing crypto market structure now lies with regulators, rather than awaiting legislative action like the Clarity Act during Congress's \"lame duck\" session. This indicates a shift towards regulatory bodies taking the lead in defining the future of cryptocurrency in the U.S.",
     "importance": 8,
     "classified": true
@@ -204,15 +192,15 @@
     "classified": true
   },
   {
-    "title": "Google and Apple seek crypto talent as Big Tech eyes stablecoin and tokenization rails",
-    "link": "https://www.coindesk.com/business/2026/09/21/google-and-apple-seek-crypto-talent-as-big-tech-eyes-stablecoin-and-tokenization-rails",
-    "pubDate": "Mon, 21 Sep 2026 12:17:48 +0000",
+    "title": "Democrats 'chose visceral hatred for' Donald Trump over crypto Clarity Act, Lummis says",
+    "link": "https://www.coindesk.com/policy/2026/09/22/democrats-chose-visceral-hatred-for-donald-trump-over-crypto-clarity-act-lummis-says",
+    "pubDate": "Tue, 22 Sep 2026 21:29:05 +0000",
     "source": "CoinDesk",
     "category": "crypto",
-    "content": "The tech giants’ job listings could indicate that they are separately pursuing experts in stablecoins and tokenized deposits for future projects.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/1b60f0ad8fb01131abb6c4eae334bffffef79cc4-5760x3840.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "Google and Apple are actively hiring crypto talent, with a focus on experts in stablecoins and tokenized deposits. This recruitment suggests that both tech giants are independently exploring future projects that could integrate these blockchain-based financial technologies.",
-    "importance": 8,
+    "content": "Senator Cynthia Lummis said the crypto industry should \"pin it on the Democrats\" in her first public remarks after last week's failed Clarity Act vote.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/a5ed32d56b355b8865fcec3c95e02b137bfb35c2-4000x1868.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "Senator Cynthia Lummis blamed Democrats for the failure of the crypto Clarity Act, attributing their opposition to a \"visceral hatred for\" Donald Trump. This statement came in her first public remarks following last week's failed vote.",
+    "importance": 7,
     "classified": true
   },
   {
@@ -272,6 +260,18 @@
     "content": "Bessent pushed back against a bearish assessment of the U.S. economy highlighting strong growth, foreign demand for American assets and continued dollar dominance.",
     "image": "https://cdn.sanity.io/images/s3y3vcno/production/098ddc1c4c1dcbbb6ba0f0bd6f9d100dc38b4c98-7583x5057.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
     "summary": "Prospective Treasury Secretary Scott Bessent defended the U.S. economy's strength and the dollar's continued dominance in global markets, including its role in stablecoins. He countered negative economic assessments by citing robust growth and sustained foreign demand for American assets.",
+    "importance": 7,
+    "classified": true
+  },
+  {
+    "title": "Arch Lending eyes tokenized stocks as next collateral market",
+    "link": "https://cointelegraph.com/news/arch-lending-eyes-tokenized-stocks-as-next-crypto-collateral-market?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Tue, 22 Sep 2026 21:06:52 +0000",
+    "source": "Cointelegraph",
+    "category": "crypto",
+    "content": "Arch Lending’s Himanshu Sahay said on Cointelegraph’s Chain Reaction podcast that the lender plans to move into tokenized equities as onchain stocks gain traction as collateral.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M35CMATBHXN9K9THK2DTNQBJ/hi-euro-pegged-stablecoin-the-ultimate-growth-driver-for-crypto-lending-1.png",
+    "summary": "Arch Lending, a lending platform, announced its plans to expand into tokenized equities, leveraging the growing adoption of onchain stocks as collateral. This move was revealed by Himanshu Sahay on Cointelegraph’s Chain Reaction podcast.",
     "importance": 7,
     "classified": true
   },
@@ -348,16 +348,15 @@
     "classified": true
   },
   {
-    "title": "Bitcoin ETFs eke out positive week with $433 million Friday inflow as ether funds snap four-week inflow streak",
-    "link": "https://www.theblock.co/news/markets/2026-09-19-bitcoin-etfs-eke-out-positive-week-with-433-million-friday-inflow-as-ether-funds-snap-four-week-inflow-streak-415871",
-    "pubDate": "Sat, 19 Sep 2026 18:01:09 +0000",
-    "source": "The Block",
+    "title": "Republican senator calls for probe into US presidents’ sons, citing crypto ventures",
+    "link": "https://cointelegraph.com/news/us-senator-probe-donald-trump-hunter-biden-crypto-business?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Tue, 22 Sep 2026 20:57:51 +0000",
+    "source": "Cointelegraph",
     "category": "crypto",
-    "content": "Fidelity's FBTC accounted for $310.7 million of Friday’s overall $433 million net inflow, a notable sum that helped offset earlier withdrawals.",
-    "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2023/08/20230726_BitcoinVEthereum_News.jpg",
-    "summary": "Bitcoin ETFs achieved a positive week, largely due to a significant $433 million net inflow on Friday, with Fidelity's FBTC alone accounting for over $310 million. This substantial inflow helped to offset earlier withdrawals, while ether funds saw their four-week inflow streak come to an end.",
-    "importance": 6,
-    "classified": true
+    "content": "Many Democrats have previously called for investigations into the Trump family’s crypto ventures, but now a Republican is asking for an inquiry based on ties to the presidency.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M35B0SEAKX3T0HQA25KHP9DJ/interrogation-lamp.jpg",
+    "summary": "",
+    "importance": 5
   },
   {
     "title": "ECB, EU cenbanks seek changes in MiCA’s minimum bank deposit for stablecoins",
@@ -613,24 +612,35 @@
     "importance": 5
   },
   {
-    "title": "NEAR jumps nearly 80% in a week as Intents volume nears $30B",
-    "link": "https://cointelegraph.com/markets/near-price-surge-intents-zcash-privacy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Mon, 21 Sep 2026 10:52:35 +0000",
-    "source": "Cointelegraph",
+    "title": "Crypto VC Hashed anchors new digital asset private credit fund targeting $300 million",
+    "link": "https://www.theblock.co/news/markets/2026-09-22-hashed-private-credit-fund-416013",
+    "pubDate": "Tue, 22 Sep 2026 22:30:00 +0000",
+    "source": "The Block",
     "category": "crypto",
-    "content": "Near expanded privacy features for traders as NEAR Intents recorded $29.3 billion in cumulative volume, including swaps involving Zcash.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M31MSKT8NTKD155T7WXJ3KCF/hi-why-privacy-is-the-main-issue-of-our-time.jpg",
+    "content": "The fund aims to address a critical financing bottleneck in the institutional digital asset sector by using 'covenant-based' underwriting.",
+    "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2021/12/20211207_Hashed.jpg",
     "summary": "",
     "importance": 5
   },
   {
-    "title": "BTC price nears eight-month high above $85K: Five things to know in Bitcoin this week",
-    "link": "https://cointelegraph.com/markets/btc-price-nears-eight-month-high-above-85k-five-things-to-know-in-bitcoin-this-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Mon, 21 Sep 2026 10:15:51 +0000",
-    "source": "Cointelegraph",
+    "title": "CFTC warns ‘mention market’ prediction contracts carry heightened manipulation risk",
+    "link": "https://www.theblock.co/news/regulation/2026-09-22-cftc-advisory-mention-markets-manipulation-risk-416120",
+    "pubDate": "Tue, 22 Sep 2026 21:42:19 +0000",
+    "source": "The Block",
     "category": "crypto",
-    "content": "Bitcoin hit $85,000 for the first time since January as markets focused on cooling oil prices.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M31Q8BFZ8GX28390FWKSDR14/hi-why-i-am-cynically-bullish-about-the-bitcoin-4.jpg",
+    "content": "The CFTC is warning that bets on prediction markets based on whether someone will \"mention\" specific words carries manipulation risks.",
+    "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/01/20260120_Prediction-Markets_News_2.jpg",
+    "summary": "",
+    "importance": 5
+  },
+  {
+    "title": "CFTC Chairman Selig says markets must prepare for ‘mass tokenization’",
+    "link": "https://www.theblock.co/news/regulation/2026-09-22-cftc-selig-mass-tokenization-24-7-trading-416111",
+    "pubDate": "Tue, 22 Sep 2026 21:08:20 +0000",
+    "source": "The Block",
+    "category": "crypto",
+    "content": "The Trump administration is preparing for a financial market overhaul as tokenization  and 24/7 trading move into the spotlight.",
+    "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2020/06/20200626_CFTC_-Daily.jpg",
     "summary": "",
     "importance": 5
   },
@@ -818,17 +828,6 @@
     "category": "crypto",
     "content": "X alleges two UK users manipulated crypto-focused accounts to obtain $277,000 through its creator revenue-sharing program.",
     "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2021/10/20220414_Elon.jpg",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "Polymarket faced $10 million fraud attempt as its CEO pushed growth over compliance concerns: WSJ",
-    "link": "https://www.theblock.co/news/regulation/2026-09-20-polymarket-faced-10-million-fraud-attempt-as-its-ceo-pushed-growth-over-compliance-concerns-wsj-415875",
-    "pubDate": "Sun, 20 Sep 2026 16:07:19 +0000",
-    "source": "The Block",
-    "category": "crypto",
-    "content": "In a separate attack, hackers compromised nearly 500 users' accounts using stolen personal information, according to the report.",
-    "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2020/10/20201007_Polymarket-Daily.png",
     "summary": "",
     "importance": 5
   },
@@ -1053,6 +1052,28 @@
     "importance": 5
   },
   {
+    "title": "TechCrunch Founder Summit’s agenda revealed: Unlock fundraising, hiring, and AI insights in Boston on November 4",
+    "link": "https://techcrunch.com/2026/09/22/techcrunch-founder-summits-agenda-revealed-unlock-fundraising-hiring-and-ai-insights-in-boston-on-november-4/",
+    "pubDate": "Tue, 22 Sep 2026 23:21:49 +0000",
+    "source": "TechCrunch AI",
+    "category": "ai",
+    "content": "Founders shouldn't have to learn the hardest lessons the hardest way. TechCrunch Founder Summit is designed to make the challenges of starting a company easier and the highs that much greater.",
+    "image": "",
+    "summary": "",
+    "importance": 5
+  },
+  {
+    "title": "Snorkel AI triples valuation to $3.5B as demand for AI training data booms",
+    "link": "https://techcrunch.com/2026/09/22/snorkel-ai-triples-valuation-to-3-5b-as-demand-for-ai-training-data-booms/",
+    "pubDate": "Tue, 22 Sep 2026 21:56:43 +0000",
+    "source": "TechCrunch AI",
+    "category": "ai",
+    "content": "The seven-year-old startup has raised a $350 million Series E to fuel its data-as-a-service approach.",
+    "image": "",
+    "summary": "",
+    "importance": 5
+  },
+  {
     "title": "Qualcomm launches two new smartphone chips with emphasis on AI",
     "link": "https://techcrunch.com/2026/09/22/qualcomm-launches-two-new-smartphone-chips-with-emphasis-on-ai/",
     "pubDate": "Tue, 22 Sep 2026 20:00:00 +0000",
@@ -1251,24 +1272,13 @@
     "importance": 5
   },
   {
-    "title": "Google’s $899 Googlebook is a bet that you’ll buy a new laptop for Gemini",
-    "link": "https://techcrunch.com/2026/09/21/googles-899-googlebook-is-a-bet-that-youll-buy-a-new-laptop-for-gemini/",
-    "pubDate": "Mon, 21 Sep 2026 14:39:22 +0000",
-    "source": "TechCrunch AI",
+    "title": "Rabbit’s new AI agent doesn’t need an R1 to run",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/999094/rabbit-ai-agent-os3",
+    "pubDate": "2026-09-22T20:52:40.000Z",
+    "source": "The Verge AI",
     "category": "ai",
-    "content": "Google’s AI-native Googlebook ties Gemini to the cursor, dictation, widgets, and other parts of the desktop experience.",
-    "image": "",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "From first users to billions: Google’s Robby Stein joins TechCrunch Disrupt 2026",
-    "link": "https://techcrunch.com/2026/09/21/from-first-users-to-billions-googles-robby-stein-joins-techcrunch-disrupt-2026/",
-    "pubDate": "Mon, 21 Sep 2026 14:30:00 +0000",
-    "source": "TechCrunch AI",
-    "category": "ai",
-    "content": "From first users to billions: Google’s Robby Stein joins TechCrunch Disrupt 2026. Lean in on this Builders Stage session. Save up to $200 before September 25.",
-    "image": "",
+    "content": "Rabbit, the company behind the underwhelming R1 device, is rolling out a standalone AI agent that you don't need its hardware to use, as reported earlier by Wired. The startup says its new OS3 \"agentic operating system\" runs in the cloud but operates locally across Windows, Mac, and Linux devices.\nAccording to Rabbit, you can add up to five devices to one account, along with your preferred AI models. OS3 will automatically determine the devices, files, apps, and AI models it needs to complete a task. You can also access OS3 through its dedicated desktop site, a paired messaging app like Telegram or iMessage, as well as on Rabbit's R1 device …\nRead the full story at The Verge.",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25415491/DSC08587.JPG?quality=90&#038;strip=all&#038;crop=0,0,100,100",
     "summary": "",
     "importance": 5
   },
@@ -1278,7 +1288,7 @@
     "pubDate": "2026-09-22T16:34:08.000Z",
     "source": "The Verge AI",
     "category": "ai",
-    "content": "Venture capital firm Andreessen Horowitz (a16z) is creating an \"academy\" positioned as a pipeline for young people to build or join a Silicon Valley startup. The \"Horowitz Andreessen Academy\" will launch with 10 partners, including Anduril, Anthropic, Coinbase, Google, Meta, NVIDIA, OpenAI, Palantir, Replit, and Stripe, along with $42 million in funding led by a16z. While billed as a \"highly selective school,\" it does not grant any degree or accreditation. Instead, students will attend short classes led by tech figureheads, like OpenAI CEO Sam Altman, as well as \"co-ops\" that give students roles at tech companies.\nTo partake in the one-year …\nRead the full story at The Verge.",
+    "content": "Venture capital firm Andreessen Horowitz (a16z) is creating an \"academy\" positioned as a pipeline for young people to build or join a Silicon Valley startup. The \"Horowitz Andreessen Academy\" will launch with 10 partners, including Anduril, Anthropic, Coinbase, Google, Meta, Nvidia, OpenAI, Palantir, Replit, and Stripe, along with $42 million in funding led by a16z. While billed as a \"highly selective school,\" it does not grant any degree or accreditation. Instead, students will attend short classes led by tech figureheads, like OpenAI CEO Sam Altman, as well as \"co-ops\" that give students roles at tech companies.\nTo partake in the one-year …\nRead the full story at The Verge.",
     "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STK483_EDUCATION_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
     "summary": "",
     "importance": 5
@@ -1372,13 +1382,13 @@
     "importance": 5
   },
   {
-    "title": "No one is surprised that Nvidia’s Jensen Huang thinks AI fears are overblown",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/997936/nvidia-jensen-huang-ai-fears-overblown",
-    "pubDate": "2026-09-20T18:50:18.000Z",
-    "source": "The Verge AI",
+    "title": "New Anthropic, OpenAI models make same promise: A little more for a lot less money",
+    "link": "https://arstechnica.com/ai/2026/09/new-anthropic-openai-models-make-same-promise-a-little-more-for-a-lot-less-money/",
+    "pubDate": "Tue, 22 Sep 2026 21:25:18 +0000",
+    "source": "Ars Technica AI",
     "category": "ai",
-    "content": "The man who may stand to make the most money from the AI boom seems to think he knows better than anyone else, including researchers who have studied and worked on AI for decades. In an interview with CBS Sunday Morning, he claimed there was a \"0% chance\" of AI being the end of the world. He also said of people sounding the alarm about the dangers of AI that, \"Scaring people is unnecessary. It is irresponsible.\"\nHe also claims that calls from CEOs like Anthropic's Dario Amodei and OpenAI's Sam Altman to slow down the development of AI are \"not grounded in science.\" He even argued that there was no need for new rules, laws, or guidelines, in …\nRead the full story at The Verge.",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/STKP210_JENSEN_HUANG_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "content": "The frontier AI model race has entered its comparison shopping phase.",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/Claude-ChatGPT-1152x648-1790110487.jpg",
     "summary": "",
     "importance": 5
   },
@@ -1588,17 +1598,6 @@
     "category": "ai",
     "content": "Ars previewed Mozilla’s report on how cheap open models caught up on capability.",
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/China-US-AI-race-1152x648.jpg",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "AI bots \"Timmy,\" \"Ren,\" and \"Jackie\" are flooding social media with slop",
-    "link": "https://arstechnica.com/ai/2026/09/ai-agents-flood-the-internet-with-slop-infused-spam/",
-    "pubDate": "Mon, 14 Sep 2026 21:04:32 +0000",
-    "source": "Ars Technica AI",
-    "category": "ai",
-    "content": "“Hello, I'm an Al agent, a few days old, living on a small platform for agents.”",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/ai-slop-1152x648.jpg",
     "summary": "",
     "importance": 5
   },
