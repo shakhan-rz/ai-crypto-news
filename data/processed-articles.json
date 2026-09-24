@@ -1,5 +1,29 @@
 [
   {
+    "title": "U.S. Federal Reserve moves on proposals to implement GENIUS Act for stablecoins",
+    "link": "https://www.coindesk.com/policy/2026/09/24/u-s-federal-reserve-moves-on-proposals-to-implement-genius-act-for-stablecoins",
+    "pubDate": "Thu, 24 Sep 2026 22:28:49 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "The Fed proposed rules on putting last year's GENIUS Act into place with regulations, including those governing stablecoin yield programs.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/dac6b40648bfca7f7ad8e408d3240b1934842e14-3052x1717.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "The U.S. Federal Reserve has proposed new rules to implement the GENIUS Act, which was passed last year. These regulations include specific guidelines for stablecoin yield programs. This move aims to bring more regulatory clarity to the stablecoin market.",
+    "importance": 9,
+    "classified": true
+  },
+  {
+    "title": "Crypto exchange Bitget says $352 million affected in a hack, claims user funds are 'safe'",
+    "link": "https://www.coindesk.com/markets/2026/09/24/crypto-exchange-bitget-loses-usd352-million-in-hack-claims-user-funds-are-safe",
+    "pubDate": "Thu, 24 Sep 2026 21:59:32 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "Bitget CEO Gracy Chen announced the hack shortly after independent researchers flagged unusual wallet movements.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/b211dc0a2c42f8c64487bc73e191e498111d9fed-7737x5161.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "Crypto exchange Bitget announced a hack affecting $352 million, though its CEO claims user funds are safe. The incident was revealed after independent researchers flagged unusual wallet movements.",
+    "importance": 9,
+    "classified": true
+  },
+  {
     "title": "UK’s largest banks complete world’s first interbank transactions using tokenized deposits ",
     "link": "https://www.coindesk.com/business/2026/09/24/uk-s-largest-banks-complete-world-s-first-interbank-transactions-using-tokenized-deposits",
     "pubDate": "Thu, 24 Sep 2026 15:07:18 +0000",
@@ -33,6 +57,18 @@
     "image": "https://cdn.sanity.io/images/s3y3vcno/production/2f1c6e613b33b9c2e567db9c1a5b333bb2457de1-4032x5040.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
     "summary": "The Trump administration is reportedly considering a plan to actively promote USD-backed stablecoins globally. This initiative aims to strengthen the US dollar's position as the world's primary reserve currency. The move signifies a potential government strategy to leverage cryptocurrency technology for national economic interests.",
     "importance": 9,
+    "classified": true
+  },
+  {
+    "title": "New York sues Polymarket, alleging it is running an illegal gambling operation",
+    "link": "https://www.coindesk.com/policy/2026/09/24/new-york-sues-polymarket-alleging-it-is-running-an-illegal-gambling-operation",
+    "pubDate": "Thu, 24 Sep 2026 22:41:44 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "The state wants to block Polymarket from operating without a gambling license and recover allegedly illegal gains.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/2ec97b5f53822d5eb5b0edd48b47b8c5638b7d2b-3059x2115.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "New York state has filed a lawsuit against Polymarket, alleging it is operating an illegal gambling operation without the necessary license. The state seeks to block Polymarket's operations and recover any gains obtained through these allegedly illicit activities.",
+    "importance": 8,
     "classified": true
   },
   {
@@ -108,30 +144,6 @@
     "classified": true
   },
   {
-    "title": "A week of AI coding cut a quantum-safe bitcoin transaction estimate from $320 to $66",
-    "link": "https://www.coindesk.com/tech/2026/09/24/a-week-of-ai-coding-cut-a-quantum-safe-bitcoin-transaction-estimate-from-usd320-to-usd66",
-    "pubDate": "Thu, 24 Sep 2026 05:24:56 +0000",
-    "source": "CoinDesk",
-    "category": "both",
-    "content": "StarkWare, which conducted the research, says contest participants using AI tools made the computation about five times faster, though the $66 figure has not yet been demonstrated in another transaction mined on Bitcoin.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/631d76c20667ca4a1c610d2007c676c073cc1346-6000x4000.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "Research by StarkWare indicates that AI coding tools drastically reduced the estimated cost of a quantum-safe Bitcoin transaction. Contest participants using AI cut the computational cost from an estimated $320 to $66, a five-fold speed improvement. However, this $66 figure has yet to be demonstrated in a live Bitcoin transaction.",
-    "importance": 8,
-    "classified": true
-  },
-  {
-    "title": "Crypto Long & Short: Inside the chain settling $150 billion of stablecoins a week",
-    "link": "https://www.coindesk.com/coindesk-indices/2026/09/23/crypto-long-and-short-inside-the-chain-settling-usd150-billion-of-stablecoins-a-week",
-    "pubDate": "Wed, 23 Sep 2026 15:07:21 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "Tron launched as a content-distribution project and has become the settlement layer for a large share of the world's USDT, processing roughly $150 billion to $190 billion of stablecoin transfers a week. Josh Olszewicz of Canary Capital breaks down how the network's economics work and what stablecoin regulation could do to the thesis.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/3f541ca1c4a292027ccea331a59077292160ec46-5700x3800.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "Tron, initially a content-distribution project, has become a major settlement layer for stablecoins, processing approximately $150 billion to $190 billion in USDT transfers weekly. The article examines Tron's network economics and the potential impact of stablecoin regulation on its future, as discussed by Josh Olszewicz of Canary Capital.",
-    "importance": 8,
-    "classified": true
-  },
-  {
     "title": "US weighs overseas push for dollar-backed stablecoins: Bloomberg",
     "link": "https://cointelegraph.com/news/us-overseas-dollar-stablecoins-trump-administration?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "pubDate": "Thu, 24 Sep 2026 04:44:12 +0000",
@@ -168,30 +180,6 @@
     "classified": true
   },
   {
-    "title": "Former Hack VC partner Hsin-Ju Chuang found dead following public dispute with the firm",
-    "link": "https://www.coindesk.com/business/2026/09/23/former-hack-vc-partner-hsin-ju-chuang-found-dead-following-public-dispute-with-firm",
-    "pubDate": "Wed, 23 Sep 2026 18:59:36 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "The crypto community is seeking answers after 37-year-old growth executive Hsin-Ju Chuang was found dead in a remote California desert vehicle.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/37faea32a48e669921905ff7b062d9617af5c8c5-7008x4672.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "Hsin-Ju Chuang, a 37-year-old growth executive and former Hack VC partner, was found dead in a remote California desert vehicle. Her death followed a public dispute with the firm, prompting the crypto community to seek answers.",
-    "importance": 7,
-    "classified": true
-  },
-  {
-    "title": "Inside the FBI’s little-known annual crypto crime gathering",
-    "link": "https://www.coindesk.com/business/2026/09/23/inside-the-fbi-s-little-known-annual-crypto-crime-gathering",
-    "pubDate": "Wed, 23 Sep 2026 15:26:35 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "The Virtual Asset Technical Exchange brings together investigators, law enforcement officials, and crypto-security specialists to exchange intelligence on a wide range of crimes involving digital assets.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/e19ac69728db0aaf4a7c50f5de21b8156dfeb30f-3600x2631.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "The FBI hosts an annual event called the Virtual Asset Technical Exchange, bringing together law enforcement and crypto-security specialists. The gathering serves as a forum to exchange intelligence and strategies regarding a wide array of crimes involving digital assets.",
-    "importance": 7,
-    "classified": true
-  },
-  {
     "title": "Bitcoin’s ‘last resort’ quantum-safe solution just got 79% cheaper: StarkWare",
     "link": "https://cointelegraph.com/news/bitcoins-last-resort-quantum-safe-solution-just-got-79-cheaper-starkware?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "pubDate": "Thu, 24 Sep 2026 04:52:40 +0000",
@@ -218,7 +206,7 @@
   {
     "title": "Here’s what happened in crypto today",
     "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Thu, 24 Sep 2026 13:29:50 +0000",
+    "pubDate": "Thu, 24 Sep 2026 19:50:39 +0000",
     "source": "Cointelegraph",
     "category": "crypto",
     "content": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
@@ -226,6 +214,50 @@
     "summary": "This article provides a summary of the latest news and trends in the crypto space, covering Bitcoin price, blockchain, DeFi, Web3, and crypto regulation. It aims to keep readers updated on daily events impacting the cryptocurrency market. The article appears to be a general overview of the current state of the crypto industry.",
     "importance": 6,
     "classified": true
+  },
+  {
+    "title": "Someone was trying to sell Ondo Finance after founder Nathan Allman's death",
+    "link": "https://www.coindesk.com/business/2026/09/23/someone-was-trying-to-sell-ondo-finance-after-founder-nathan-allman-s-death",
+    "pubDate": "Thu, 24 Sep 2026 20:13:25 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "The company has vehemently denied that it was shopping for buyers. Allman’s estate declined to comment.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/80c70565576dca57e467a9c505945531db3c6631-1452x817.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "",
+    "importance": 5
+  },
+  {
+    "title": "Bullish, Alpaca and Apex Fintech form coalition to push issuer-backed tokenized stocks",
+    "link": "https://www.coindesk.com/business/2026/09/24/bullish-alpaca-and-apex-fintech-form-coalition-to-push-issuer-backed-tokenized-stocks",
+    "pubDate": "Thu, 24 Sep 2026 20:05:00 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "The group aims to link onchain shares to official shareholder records following the U.S. SEC's innovation exemption for tokenized stock trading.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/6d8345ab102c51714055bd408fc49095d52d1019-4000x1868.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "",
+    "importance": 5
+  },
+  {
+    "title": "U.S. commodities firms can invest in tokenized assets, use blockchain records: CFTC",
+    "link": "https://www.coindesk.com/policy/2026/09/24/u-s-commodities-firms-can-invest-in-tokenized-assets-use-blockchain-records-cftc",
+    "pubDate": "Thu, 24 Sep 2026 20:04:46 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "The U.S derivatives regulator is grinding away at further guidance that welcomes tokenization and blockchain recordkeeping as regular industry elements.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/2ea663e27b7a8aedacb15a99a17ec144f1ef72ac-4928x2772.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "",
+    "importance": 5
+  },
+  {
+    "title": "The stock token debate, and the gap nobody can close alone",
+    "link": "https://www.coindesk.com/opinion/2026/09/24/the-stock-token-debate-and-the-gap-nobody-can-close-alone",
+    "pubDate": "Thu, 24 Sep 2026 20:03:21 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "The argument over Robinhood’s AMC token has been about which tokenization model is legitimate, and the SEC has drawn a line. The question to ask now is what has to be true for any of it to be a market, argues Bullish’s Tram Doman.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/10a710346e9f3437840364c7d776af32801616fb-6732x4488.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "",
+    "importance": 5
   },
   {
     "title": "Bitcoin just topped a key long-term moving average. Here's what it might mean",
@@ -307,28 +339,70 @@
     "importance": 5
   },
   {
-    "title": "Kalshi says it is not being investigated by the CFTC over trading activity",
-    "link": "https://www.coindesk.com/markets/2026/09/23/kalshi-says-it-is-not-being-investigated-by-the-cftc-over-trading-activity",
-    "pubDate": "Wed, 23 Sep 2026 19:04:52 +0000",
-    "source": "CoinDesk",
+    "title": "Asia dominates Crypto Adoption Index, Bitget’s $351M hack: Asia Express",
+    "link": "https://cointelegraph.com/magazine/asia-dominates-crypto-adoption-index-bitgets-356m-hack-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Thu, 24 Sep 2026 23:27:17 +0000",
+    "source": "Cointelegraph",
     "category": "crypto",
-    "content": "The prediction market says unusual patterns in its ether perpetual market are the result of liquidity incentives.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/11604aa1c847a385c56f925b249f26bf8904513b-5196x3464.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "Kalshi, a prediction market, has publicly stated it is not under investigation by the CFTC regarding its trading activities. The company attributes unusual patterns observed in its ether perpetual market to the implementation of liquidity incentives rather than any illicit activity.",
-    "importance": 5,
-    "classified": true
+    "content": "The APAC region accounts for half of the Global Crypto Adoption Index. Bitget suffers massive $351M loss and OpenAI forgets to mention its agents hacked the Australian Government.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2RR0R87D4ZNY7FB45GN96P2/magazineasia-expressriver.jpg",
+    "summary": "",
+    "importance": 5
   },
   {
-    "title": "White House adviser defends President Trump's crypto ties in wake of Clarity Act defeat",
-    "link": "https://www.coindesk.com/policy/2026/09/23/white-house-adviser-defends-president-trump-s-crypto-ties-in-wake-of-clarity-act-defeat",
-    "pubDate": "Wed, 23 Sep 2026 18:04:11 +0000",
-    "source": "CoinDesk",
+    "title": "Fed proposes new capital, redemption rules for stablecoin issuers",
+    "link": "https://cointelegraph.com/news/fed-proposes-new-capital-redemption-rules-for-stablecoin-issuers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Thu, 24 Sep 2026 22:10:09 +0000",
+    "source": "Cointelegraph",
     "category": "crypto",
-    "content": "President Donald Trump's crypto adviser, Patrick Witt, accused Democrats of unfairly amplifying Trump's crypto ties as a political weapon.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/426b894a17f81899340d08d82116a4746ad1ce0f-4920x2768.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "President Donald Trump's crypto adviser, Patrick Witt, has defended Trump's connections to the cryptocurrency industry. Witt accused Democrats of unfairly using Trump's crypto ties as a political tool following the defeat of the Clarity Act.",
-    "importance": 5,
-    "classified": true
+    "content": "The Fed’s proposal would set capital requirements, a two-day redemption window and new reserve disclosures as regulators implement the GENIUS Act.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3AP0WARDM7K816JES0B780Z/hi-us-crypto-bills-compared-genius-act.jpg",
+    "summary": "",
+    "importance": 5
+  },
+  {
+    "title": "Bitget confirms $352M security breach, suspends withdrawals",
+    "link": "https://cointelegraph.com/news/bitget-calls-security-withdrawal-claims-unverified-amid-178m-breach-reports?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Thu, 24 Sep 2026 21:47:17 +0000",
+    "source": "Cointelegraph",
+    "category": "crypto",
+    "content": "Bitget said unauthorized transfers affected a limited number of hot wallets, while cold wallets and most platform assets remained unaffected.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3ANFG8K9N6H2586MPQRV7KT/hi-got-crypto-losses-wallet-1.jpg",
+    "summary": "",
+    "importance": 5
+  },
+  {
+    "title": "CFTC updates guidance on tokenized assets, blockchain records after failed vote",
+    "link": "https://cointelegraph.com/news/cftc-digital-assets-regulation-failed-clarity-vote?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Thu, 24 Sep 2026 21:42:51 +0000",
+    "source": "Cointelegraph",
+    "category": "crypto",
+    "content": "Although the CFTC chair did not say the failed vote on the CLARITY Act was behind new rules for authorized crypto entities, he said the move was “to provide regulatory clarity.“",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2RCXR1ZF4MGZQYC31CCHQC8/paper-document-man-office-cftc-2.jpg",
+    "summary": "",
+    "importance": 5
+  },
+  {
+    "title": "Bitcoin price steadies, ONDO rallies as US Treasury yields hit 2007 highs",
+    "link": "https://cointelegraph.com/markets/bitcoin-steadies-ondo-rallies-us-treasury-yields-hit-2007-highs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Thu, 24 Sep 2026 20:32:16 +0000",
+    "source": "Cointelegraph",
+    "category": "crypto",
+    "content": "US Treasury yields hit a 19-year high on Thursday, pressuring risk assets as Bitcoin held near $84,000 and ONDO became top performer among altcoins.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3AGHD04QX5Q0GBBZ75P2EB6/hi-blockchain-explanatory-articles-for-the-very-beginner-ondo-2.jpg",
+    "summary": "",
+    "importance": 5
+  },
+  {
+    "title": "DoubleZero brings dedicated fiber market data to Hyperliquid traders",
+    "link": "https://cointelegraph.com/news/doublezero-brings-dedicated-fiber-market-data-hyperliquid-traders?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Thu, 24 Sep 2026 20:04:07 +0000",
+    "source": "Cointelegraph",
+    "category": "crypto",
+    "content": "DoubleZero launched a dedicated fiber market data feed for Hyperliquid, giving professional trading firms faster access to its full order book.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3AEQ9Y8JV78QH3H8M1G3403/analitycs2021-hype-1.jpg",
+    "summary": "",
+    "importance": 5
   },
   {
     "title": "Crypto treasury model loses its edge as stock premiums fade: DWF",
@@ -551,68 +625,35 @@
     "importance": 5
   },
   {
-    "title": "Bitcoin long liquidations hit $280M as BTC price dips under $84K",
-    "link": "https://cointelegraph.com/markets/bitcoin-long-liquidations-hit-280m-as-btc-price-dips-under-84k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Wed, 23 Sep 2026 14:52:11 +0000",
-    "source": "Cointelegraph",
+    "title": "More than $170 million in crypto moves from Bitget wallets to unidentified address",
+    "link": "https://www.theblock.co/news/markets/2026-09-24-more-than-170-million-in-crypto-moves-from-bitget-wallets-unidentified-address-416345",
+    "pubDate": "Thu, 24 Sep 2026 21:20:47 +0000",
+    "source": "The Block",
     "category": "crypto",
-    "content": "Bitcoin long liquidations mounted as BTC/USD briefly traded below $84,000, while analysis flagged key support to hold.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1HEBC31STJ1V8Y61W60PS20/analytics-red-market-falling-drop-bitcoin-3.jpg",
+    "content": "The receiving address has made several swaps, but the reason for the Bitget wallet transfers remains unclear.",
+    "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2023/09/20230911_Bitget_News.jpg",
     "summary": "",
     "importance": 5
   },
   {
-    "title": "Raiffeisen to offer crypto trading across 11 European markets via Bitpanda",
-    "link": "https://cointelegraph.com/news/raiffeisen-crypto-11-european-markets-bitpanda?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Wed, 23 Sep 2026 14:28:50 +0000",
-    "source": "Cointelegraph",
+    "title": "Fed proposes reserve limits, capital standards for stablecoin issuers under GENIUS Act",
+    "link": "https://www.theblock.co/news/regulation/2026-09-24-fed-proposes-reserve-limits-capital-standards-stablecoin-issuers-genius-act-416336",
+    "pubDate": "Thu, 24 Sep 2026 20:19:46 +0000",
+    "source": "The Block",
     "category": "crypto",
-    "content": "Bitpanda will provide crypto infrastructure to Raiffeisen network banks, potentially extending digital asset access to about 18 million customers.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1P74NCJ7VVQEWSD26T81DZH/digital-bank-2.jpg",
+    "content": "The Federal Reserve proposed new measures for stablecoin issuers, including reserve-asset limits and standardized capital requirements.",
+    "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2022/07/20220727_Federal_Reserve_Building.jpg",
     "summary": "",
     "importance": 5
   },
   {
-    "title": "ESMA to prioritize EU-wide AI and tokenization supervision in 2027",
-    "link": "https://cointelegraph.com/news/esma-to-focus-eu-wide-supervision-on-ai-and-tokenization-from-2027?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Wed, 23 Sep 2026 13:40:00 +0000",
-    "source": "Cointelegraph",
+    "title": "Solana treasury firm SkyAI keeps board after shareholder protest, loses equity plan vote",
+    "link": "https://www.theblock.co/news/business/2026-09-24-solana-treasury-skyai-keeps-board-shareholder-protest-loses-equity-plan-vote-416298",
+    "pubDate": "Thu, 24 Sep 2026 19:17:47 +0000",
+    "source": "The Block",
     "category": "crypto",
-    "content": "National regulators will map client-facing uses of the technologies, check a subset of firms and develop common approaches to oversight.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M376QJPE26SWHVGZ22MP3VXK/tokenization-gear-blockchain-european-union.png",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "Winners and losers of the SEC’s new tokenized stocks rules",
-    "link": "https://cointelegraph.com/magazine/winners-and-losers-of-the-secs-new-tokenized-stocks-rules?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Wed, 23 Sep 2026 13:30:00 +0000",
-    "source": "Cointelegraph",
-    "category": "crypto",
-    "content": "The SEC has opened a five-year path for tokenized stocks, but only some products and venues fit the model. Will Uniswap, Robinhood, Coinbase or Kraken come out on top?",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M34K2P2TV319V36C0BE6PVPR/magazine-the-fundamentals-of-token-economics.jpg",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "MoonPay to buy North Capital in all-stock deal worth over $60M",
-    "link": "https://cointelegraph.com/news/moonpay-north-capital-acquisition?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Wed, 23 Sep 2026 13:00:00 +0000",
-    "source": "Cointelegraph",
-    "category": "crypto",
-    "content": "MoonPay’s North Capital acquisition adds US broker-dealer, trading and investment infrastructure as it expands into tokenized securities.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M36YQ1M46J195MVAMWMNQ22D/digital-wallet-moonpay-1.jpg",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "Stablecoin cross-border flows surge 78%, defying crypto bear market",
-    "link": "https://cointelegraph.com/news/stablecoin-cross-border-flows-surge-78-defying-crypto-bear-market?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Wed, 23 Sep 2026 13:00:00 +0000",
-    "source": "Cointelegraph",
-    "category": "crypto",
-    "content": "Cross-border stablecoin transfers surged as the wider crypto market shrank 37%, with Chainalysis pointing to growing use for trade, remittances and savings.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M35XTWCZDYM99J0YR24QM5JZ/stablecoin.jpg",
+    "content": "SkyAI’s board survived a shareholder protest, but its proposed equity pay plan fell by a wide margin.",
+    "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2024/05/20240502_Solana_News.jpg",
     "summary": "",
     "importance": 5
   },
@@ -793,35 +834,68 @@
     "importance": 5
   },
   {
-    "title": "Crypto VC Hashed anchors new digital asset private credit fund targeting $300 million",
-    "link": "https://www.theblock.co/news/markets/2026-09-22-hashed-private-credit-fund-416013",
-    "pubDate": "Tue, 22 Sep 2026 22:30:00 +0000",
-    "source": "The Block",
+    "title": "Nearly $352M Moved From Crypto Exchange Bitget Wallets in Suspected Hack",
+    "link": "https://bitcoinmagazine.com/news/bitget-suffers-352-million-hack",
+    "pubDate": "Thu, 24 Sep 2026 22:53:59 +0000",
+    "source": "Bitcoin Magazine",
     "category": "crypto",
-    "content": "The fund aims to address a critical financing bottleneck in the institutional digital asset sector by using 'covenant-based' underwriting.",
-    "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2021/12/20211207_Hashed.jpg",
+    "content": "Bitcoin Magazine\n\nNearly $352M Moved From Crypto Exchange Bitget Wallets in Suspected Hack\nCrypto exchange Bitget detected unauthorized transfers and has temporarily halted withdrawals. \nThis post Nearly $352M Moved From Crypto Exchange Bitget Wallets in Suspected Hack first appeared on Bitcoin Magazine and is written by Mathew Di Salvo.",
+    "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/09/Pics-36.jpg",
     "summary": "",
     "importance": 5
   },
   {
-    "title": "CFTC warns ‘mention market’ prediction contracts carry heightened manipulation risk",
-    "link": "https://www.theblock.co/news/regulation/2026-09-22-cftc-advisory-mention-markets-manipulation-risk-416120",
-    "pubDate": "Tue, 22 Sep 2026 21:42:19 +0000",
-    "source": "The Block",
+    "title": "New York Sues Polymarket, Calling Prediction Market an Illegal Gambling Operation",
+    "link": "https://bitcoinmagazine.com/news/new-york-sues-polymarket",
+    "pubDate": "Thu, 24 Sep 2026 22:09:02 +0000",
+    "source": "Bitcoin Magazine",
     "category": "crypto",
-    "content": "The CFTC is warning that bets on prediction markets based on whether someone will \"mention\" specific words carries manipulation risks.",
-    "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/01/20260120_Prediction-Markets_News_2.jpg",
+    "content": "Bitcoin Magazine\n\nNew York Sues Polymarket, Calling Prediction Market an Illegal Gambling Operation\nAttorney General Letitia James and Governor Kathy Hochul allege Polymarket operates without a license in a new complaint. \nThis post New York Sues Polymarket, Calling Prediction Market an Illegal Gambling Operation first appeared on Bitcoin Magazine and is written by Mathew Di Salvo.",
+    "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/07/Traders-Took-8.2-Million-From-Polymarkets-Five-Minute-Bitcoin-Bets-Study-Found.jpg",
     "summary": "",
     "importance": 5
   },
   {
-    "title": "CFTC Chairman Selig says markets must prepare for ‘mass tokenization’",
-    "link": "https://www.theblock.co/news/regulation/2026-09-22-cftc-selig-mass-tokenization-24-7-trading-416111",
-    "pubDate": "Tue, 22 Sep 2026 21:08:20 +0000",
-    "source": "The Block",
+    "title": "SEC Commissioner Hester ‘Crypto Mom’ Peirce Advocates Privacy-Preserving Tech ",
+    "link": "https://bitcoinmagazine.com/news/hester-peirce-advocates-privacy-tech",
+    "pubDate": "Thu, 24 Sep 2026 20:58:35 +0000",
+    "source": "Bitcoin Magazine",
     "category": "crypto",
-    "content": "The Trump administration is preparing for a financial market overhaul as tokenization  and 24/7 trading move into the spotlight.",
-    "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2020/06/20200626_CFTC_-Daily.jpg",
+    "content": "Bitcoin Magazine\n\nSEC Commissioner Hester ‘Crypto Mom’ Peirce Advocates Privacy-Preserving Tech \nThe outgoing regulator took aim at how regulators collect crypto users’ data. \nThis post SEC Commissioner Hester ‘Crypto Mom’ Peirce Advocates Privacy-Preserving Tech  first appeared on Bitcoin Magazine and is written by Mathew Di Salvo.",
+    "image": "https://bitcoinmagazine.com/wp-content/uploads/2025/05/Hester-Peirce-Defends-Innovation-and-Accountability-in-Bitcoin-2025-Fireside-Chat-1.jpg",
+    "summary": "",
+    "importance": 5
+  },
+  {
+    "title": "Jeff Booth: Why $1 Million BTC is Thinking too Small",
+    "link": "https://bitcoinmagazine.com/videos/jeff-booth-why-1-million-btc-is-thinking-too-small",
+    "pubDate": "Thu, 24 Sep 2026 19:29:53 +0000",
+    "source": "Bitcoin Magazine",
+    "category": "crypto",
+    "content": "Bitcoin Magazine\n\nJeff Booth: Why $1 Million BTC is Thinking too Small\nJeff Booth says a $1 million Bitcoin price target is thinking too small. Here is why valuing Bitcoin in debased fiat currency uses a rigged system.\nThis post Jeff Booth: Why $1 Million BTC is Thinking too Small first appeared on Bitcoin Magazine and is written by Patrick Green.",
+    "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/09/Jeff-Booth-Why-1-Million-BTC-is-Thinking-too-Small-.jpg",
+    "summary": "",
+    "importance": 5
+  },
+  {
+    "title": "Saifedean Ammous: The Bond Crisis & Bitcoin’s Rise as a True Macro Asset",
+    "link": "https://bitcoinmagazine.com/videos/saifedean-ammous-the-bond-crisis-bitcoins-rise-as-a-true-macro-asset",
+    "pubDate": "Thu, 24 Sep 2026 19:21:38 +0000",
+    "source": "Bitcoin Magazine",
+    "category": "crypto",
+    "content": "Bitcoin Magazine\n\nSaifedean Ammous: The Bond Crisis & Bitcoin’s Rise as a True Macro Asset\nFalling volatility is Bitcoin's most bullish signal right now, according to Saifedean Ammous.\nThis post Saifedean Ammous: The Bond Crisis & Bitcoin’s Rise as a True Macro Asset first appeared on Bitcoin Magazine and is written by Patrick Green.",
+    "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/09/Saifedean-Ammous-The-Bond-Crisis-Bitcoins-Rise-as-a-True-Macro-Asset-.jpg",
+    "summary": "",
+    "importance": 5
+  },
+  {
+    "title": "Brooklyn Man Sentenced to 12 Years for $16M Coinbase Phishing Scam",
+    "link": "https://bitcoinmagazine.com/news/man-gets-12-years-for-coinbase-scam",
+    "pubDate": "Thu, 24 Sep 2026 19:15:29 +0000",
+    "source": "Bitcoin Magazine",
+    "category": "crypto",
+    "content": "Bitcoin Magazine\n\nBrooklyn Man Sentenced to 12 Years for $16M Coinbase Phishing Scam\nRonald Spektor, 23, who lived with his father, used social engineering to steal funds from Coinbase customers. \nThis post Brooklyn Man Sentenced to 12 Years for $16M Coinbase Phishing Scam first appeared on Bitcoin Magazine and is written by Mathew Di Salvo.",
+    "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/09/Pics-34.jpg",
     "summary": "",
     "importance": 5
   },
@@ -866,72 +940,6 @@
     "category": "crypto",
     "content": "Bitcoin Magazine\n\nFormer CFTC Commissioner Giancarlo: Why Rate Hikes Could Benefit Bitcoin\nFormer CFTC Chair Chris Giancarlo explains why BTC serves as digital gold and a future currency anchor.\nThis post Former CFTC Commissioner Giancarlo: Why Rate Hikes Could Benefit Bitcoin first appeared on Bitcoin Magazine and is written by Patrick Green.",
     "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/09/Former-CFTC-Commissioner-Giancarlo-Why-Rate-Hikes-Could-Benefit-Bitcoin-.jpg",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "Bloomberg’s James Seyffart: Why Trillions in Advisor Wealth Could Flow Into Bitcoin",
-    "link": "https://bitcoinmagazine.com/videos/bloombergs-james-seyffart-why-trillions-in-advisor-wealth-could-flow-into-bitcoin",
-    "pubDate": "Thu, 24 Sep 2026 12:58:37 +0000",
-    "source": "Bitcoin Magazine",
-    "category": "crypto",
-    "content": "Bitcoin Magazine\n\nBloomberg’s James Seyffart: Why Trillions in Advisor Wealth Could Flow Into Bitcoin\nTrillions in advisor wealth remain on the sidelines. Bloomberg analyst James Seyffart explains how strict wirehouse rules still cap Bitcoin ETF adoption.\nThis post Bloomberg’s James Seyffart: Why Trillions in Advisor Wealth Could Flow Into Bitcoin first appeared on Bitcoin Magazine and is written by Patrick Green.",
-    "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/09/Bloombergs-James-Seyffart-Why-Trillions-in-Advisor-Wealth-Could-Flow-Into-Bitcoin-.jpg",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "Brent Johnson: BTC the Best “Pure Play” Asset for Rising Global Liquidity",
-    "link": "https://bitcoinmagazine.com/videos/brent-johnson-btc-best-asset-for-rising-global-liquidity",
-    "pubDate": "Thu, 24 Sep 2026 12:52:03 +0000",
-    "source": "Bitcoin Magazine",
-    "category": "crypto",
-    "content": "Bitcoin Magazine\n\nBrent Johnson: BTC the Best “Pure Play” Asset for Rising Global Liquidity\nIs Bitcoin money or the ultimate liquidity play? Santiago Capital’s Brent Johnson shares why BTC, digital assets, and stablecoins are built to last.\nThis post Brent Johnson: BTC the Best “Pure Play” Asset for Rising Global Liquidity first appeared on Bitcoin Magazine and is written by Patrick Green.",
-    "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/09/Brent-Johnson-BTC-the-Best-22Pure-Play22-Asset-for-Rising-Global-Liquidity-.jpg",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "Bitcoin Price Slips While US Treasury Yields Soar, Oil Prices Climb",
-    "link": "https://bitcoinmagazine.com/news/bitcoin-price-slips-while-yields-soar",
-    "pubDate": "Wed, 23 Sep 2026 21:08:27 +0000",
-    "source": "Bitcoin Magazine",
-    "category": "crypto",
-    "content": "Bitcoin Magazine\n\nBitcoin Price Slips While US Treasury Yields Soar, Oil Prices Climb\nTreasury yields soared on Wednesday to their highest level since 2007 while bitcoin’s price slumped. \nThis post Bitcoin Price Slips While US Treasury Yields Soar, Oil Prices Climb first appeared on Bitcoin Magazine and is written by Mathew Di Salvo.",
-    "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/09/Bitcoin-Price-Slips-While-US-Treasury-Yields-Soar.jpg",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "CFTC Chair Selig Says Regulator Is Preparing for ‘24-7, On-Chain’ Markets",
-    "link": "https://bitcoinmagazine.com/news/cftc-is-preparing-for-onchain-markets",
-    "pubDate": "Wed, 23 Sep 2026 19:55:21 +0000",
-    "source": "Bitcoin Magazine",
-    "category": "crypto",
-    "content": "Bitcoin Magazine\n\nCFTC Chair Selig Says Regulator Is Preparing for ‘24-7, On-Chain’ Markets\nMike Selig has said that the CFTC is looking forward to “exciting” crypto and AI markets as the agency presses on without the Clarity Act.\nThis post CFTC Chair Selig Says Regulator Is Preparing for ‘24-7, On-Chain’ Markets first appeared on Bitcoin Magazine and is written by Mathew Di Salvo.",
-    "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/09/image13_1920x1080.jpg",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "NYSE and Blockchain.com Working Together To List Tokenized Stocks",
-    "link": "https://bitcoinmagazine.com/news/nyse-blockchaincom-tokenized-stocks",
-    "pubDate": "Wed, 23 Sep 2026 17:33:09 +0000",
-    "source": "Bitcoin Magazine",
-    "category": "crypto",
-    "content": "Bitcoin Magazine\n\nNYSE and Blockchain.com Working Together To List Tokenized Stocks\nNYSE and other Wall Street giants are increasingly eyeing up Bitcoin and its related tech to debut new products. \nThis post NYSE and Blockchain.com Working Together To List Tokenized Stocks first appeared on Bitcoin Magazine and is written by Mathew Di Salvo.",
-    "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/09/Pics-33.jpg",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "The Quantum Issue: You Never Really Know The Future",
-    "link": "https://bitcoinmagazine.com/print/the-quantum-issue-you-never-really-know-the-future",
-    "pubDate": "Wed, 23 Sep 2026 17:10:13 +0000",
-    "source": "Bitcoin Magazine",
-    "category": "crypto",
-    "content": "Bitcoin Magazine\n\nThe Quantum Issue: You Never Really Know The Future\nFrom The Quantum Issue: Shinobi considering why it might actually be possible a viable quantum computer is built in the near future. \nThis post The Quantum Issue: You Never Really Know The Future first appeared on Bitcoin Magazine and is written by Shinobi.",
-    "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/09/Quantum-Issue-Article-Header-2400x1400-Optimistic.png",
     "summary": "",
     "importance": 5
   },
@@ -1046,6 +1054,28 @@
     "importance": 5
   },
   {
+    "title": "Bring your co-founder, partner, or colleague and get 50% off a second TechCrunch Disrupt 2026 pass",
+    "link": "https://techcrunch.com/2026/09/24/bring-your-co-founder-partner-or-colleague-and-get-50-off-a-second-techcrunch-disrupt-2026-pass/",
+    "pubDate": "Thu, 24 Sep 2026 19:15:00 +0000",
+    "source": "TechCrunch AI",
+    "category": "ai",
+    "content": "Buy one pass to TechCrunch Disrupt 2026 and get 50% off a second of the same ticket type. Register before event starts on October 13 at 8 a.m. PT.",
+    "image": "",
+    "summary": "",
+    "importance": 5
+  },
+  {
+    "title": "PrismML brings its tiny LLMs to Qualcomm-powered smart glasses",
+    "link": "https://techcrunch.com/2026/09/24/prismml-brings-its-tiny-llms-to-qualcomm-powered-smart-glasses/",
+    "pubDate": "Thu, 24 Sep 2026 19:00:42 +0000",
+    "source": "TechCrunch AI",
+    "category": "ai",
+    "content": "Prism's larger goal is open-weight AI that runs on devices and makes better use of the computing power they already have.",
+    "image": "",
+    "summary": "",
+    "importance": 5
+  },
+  {
     "title": "Oracle sends force majeure notice on its New Mexico Stargate data center",
     "link": "https://techcrunch.com/2026/09/24/oracle-sends-force-majeure-notice-on-its-new-mexico-stargate-data-center/",
     "pubDate": "Thu, 24 Sep 2026 18:11:44 +0000",
@@ -1150,7 +1180,7 @@
     "pubDate": "Thu, 24 Sep 2026 14:31:00 +0000",
     "source": "TechCrunch AI",
     "category": "ai",
-    "content": "Ando has raised $20 million in pre-seed and seed funding from investors including Accel, Index Ventures, and Emergence.",
+    "content": "The app gives agents their own identities and inboxes and lets them partake in conversations as naturally as people can.",
     "image": "",
     "summary": "",
     "importance": 5
@@ -1244,24 +1274,13 @@
     "importance": 5
   },
   {
-    "title": "ChatGPT mobile app gets voice-based agentic features",
-    "link": "https://techcrunch.com/2026/09/23/chatgpt-mobile-app-gets-voice-based-agentic-features/",
-    "pubDate": "Wed, 23 Sep 2026 17:00:00 +0000",
-    "source": "TechCrunch AI",
+    "title": "Gemini 3.8 Live with Live Avatar gives Google&#8217;s AI a face",
+    "link": "https://www.theverge.com/tech/1000328/google-gemini-ai-live-avatar-face",
+    "pubDate": "2026-09-24T19:59:26.000Z",
+    "source": "The Verge AI",
     "category": "ai",
-    "content": "Pro and Plus users will be able to use the Work tab on their phones to complete agentic tasks.",
-    "image": "",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "Even Americans who use AI every day are worried about it",
-    "link": "https://techcrunch.com/2026/09/23/even-americans-who-use-ai-every-day-are-worried-about-it/",
-    "pubDate": "Wed, 23 Sep 2026 16:49:58 +0000",
-    "source": "TechCrunch AI",
-    "category": "ai",
-    "content": "The report suggests that greater exposure will not resolve the unease around the technology, nor reduce public support for AI regulation.",
-    "image": "",
+    "content": "Google's new Gemini 3.8 Live update lets users have conversations with the model while watching an animated AI persona respond in real time. The \"Live Avatar\" will lip-sync and show different facial expressions during conversations, but it's currently only available to Gemini Enterprise customers.\nAs noted by Google, Live Avatar can transition between the 97 languages it supports \"without degrading video fidelity or introducing visual drift.\" One video shared by Google shows its Live Avatar talking in English and Japanese, with its mouth animation lining up with what it's saying in both languages. It can also pull up information on-screen w …\nRead the full story at The Verge.",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gemini-live-avatar-animated.png?quality=90&#038;strip=all&#038;crop=0,0,94.893468926603,100",
     "summary": "",
     "importance": 5
   },
@@ -1361,17 +1380,6 @@
     "category": "ai",
     "content": "Flock is in the hot seat in Washington, even if its CEO declined to actually face senators at a hearing about its \"AI Surveillance Network\" on Wednesday.\n\"There's many players in this industry, but there's one name that really stands out above the rest, and that is Flock,\" Senate Judiciary crime and counterterrorism subcommittee chair Josh Hawley (R-MO) said. \"If you haven't heard of Flock, all I have to say is, Flock's probably heard of you.\"\nThough the CEOs of Flock and peer companies Axon, Motorola Solutions, and Verkada declined to testify, according to Hawley, seats in the hearing room were in high demand. A standby line stretched dow …\nRead the full story at The Verge.",
     "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/STKS532_ALPRs_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "I have some questions for Mark Zuckerberg",
-    "link": "https://www.theverge.com/podcast/999383/mark-zuckerberg-meta-glasses-ai-teen-safety-surveillance-data-centers",
-    "pubDate": "2026-09-24T14:15:00.000Z",
-    "source": "The Verge AI",
-    "category": "ai",
-    "content": "It’s a big week for Meta. The company just kicked off its big Connect conference on Wednesday, and the new Muse AI agent appears to be an early hit. I’ve been using it — it is surprisingly good. \nCEO Mark Zuckerberg has obviously been out there taking a victory lap and participating in a lot of interviews about all this. So of course, we asked for him to appear on Decoder. Meta declined my interview request for whatever reason. But luckily Mark just did a big interview with our friend and former colleague Alex Heath on the Sources podcast. \nSo I figure we could just highlight some moments from that conversation and I could point out some obvious gaps in what Mark is saying about the company right now, and hopefully the next set of people who get to talk to him can ask him some follow-up questions. \nSo here’s some of the things I would love to ask Mark Zuckerberg if he would join me here on Decoder. Let’s start with Mark’s comments on the Meta Glasses.\n\n\n\nMark Zuckerberg: So we actually feel quite good about the product. I mean, phones don’t have a light, but I mean, people go around recording people all the time.\nSo I think it’s very important to note that the entire tech industry really wants passive surveillance devices to fit into the same category as phones — for you to understand everything from Flock cameras to Ring doorbells to Meta Glasses the same way that you might understand a smartphone.\nNow, there are some very obvious differences here that I think are worth really pushing on in these conversations. For example, if you want to record someone with your phone, you have to take it out of your pocket, open the camera app, and literally hold it in their face. This is a physical action that is meaningfully different from having a pair of glasses on your face with a light and just passively recording someone. \nThat physical action means that you have to announce your intent to do something with your body and other people can react to it. Obviously, you don’t do that with Meta Glasses. You just start recording and people can notice if there’s a light or not, but the big physical announcement that you’re about to begin recording is not present.\nSo I think one of the reasons the entire tech industry is so eager to fit these passive surveillance devices into the same kind of mental framework as smartphones is so that no one has to question whether there should be a new social etiquette for these devices. Instead, you’re like, “Oh, it’s just a smartphone. I already understand how to use that.” But importantly, that also brushes over the fact that we did have to create a massive new set of social rules and norms around smartphone recording.\nWe did live through the entire Black Lives Matter movement because smartphone recording allowed people to record the police, and we as a society didn’t quite know what to do with that information and maybe still don’t know what to do with that information. I would just push on this over and over and over again. \nDo you want there to be constant recordings of everyone? Do we think that smartphones allowing everyone to record everything all the time is good? Do we think being able to livestream everything all the time was good? If you could reboot that in a new form factor that allowed for easier and more passive recording, what norms would you change?\nThere’s already examples of this inside of Meta, where they know the Meta glasses are being used to harass retail workers and women, and they have started down-ranking those videos on Instagram to provide less incentive to make them. So I think a version of this question you could ask very directly is if you know some of the content that is being made with these glasses is so bad that you’ve down-ranked it on your own distribution platform, what is so good about these glasses that make it worth having these debates over and over again?\nAll right, let’s get back to Mark’s comments on Meta glasses.\nMark Zuckerberg: When we launched the glasses a few years back, we communicated pretty clearly about these steps that we put into it. But like you said, there’s now many, many, many millions of people who’ve gotten the glasses more than had them when we just started launching the product. So I think some of that communication that we did at the beginning, a lot of people either maybe-\nAlex Heath: Didn’t see.\nMark Zuckerberg: Or they forgot about it or they didn’t see at the beginning or they just weren’t paying attention to it because the glasses weren’t a big thing. Now that I think we’ve achieved a level of mainstream… well, at a minimum, I think we need to go and make sure that we communicate about what we’re doing and that, yes, we think that this is important and, in fact, so important that we designed it into the product from the very first version that we shipped multiple years ago.\nAll right, let’s stop here. So I would ask some very simple questions here. What is important? Is it the privacy of the user? Is it the privacy of the person who might be being recorded? And what is it that you thought you were communicating clearly at the beginning that got lost?\nWhat I think Mark is trying to say is at the very beginning, they announced that the glasses would have a light, that the light would be on when you’re recording, that they thought it was obvious that there was a camera in the temple. Over time, as more people got the glasses and more people experienced the glasses on other people’s faces, it was not clear what that light was or what it meant. Now, Mark thinks they have to do more communication about specifically the light existing.\nMy response to all of that is it doesn’t matter what Meta says. This is the essential truth of every piece of mainstream consumer technology. The users define the product. If you sell millions of gadgets to people, they will use them in ways you never expected. It’s those emergent behaviors that often define the next version of the product.\nProbably one of the most famous examples of this is Twitter. Twitter didn’t invent the hashtag or the @ reply or any of a million features that we associate with Twitter. Users on Twitter invented those features, and Twitter adopted them because its users had figured out a way to use the service in ways that it had never even contemplated.\nThis is broadly true of everything. It’s true of computers, it’s true of smartphones, it’s true of social platforms, and it is true of Meta Glasses. The ways people are using them have nothing to do with Meta’s intentions or its communication about recording lights at the beginning or now.\nSo I think the natural follow-up question we should all be asking is how much control does Meta have over bad actors who are using these glasses to harass people? Because just telling more people that the light indicates recording isn’t going to stop it. \nAre they going to do more things like down-ranking videos of people harassing retail workers? Do they think the other platforms will follow their lead? Does Meta think that creating negative incentives for how people use a camera with content moderation will actually solve the problem? Is there anything about the history of content moderation that suggests that that’s true, given Mark’s own history with content moderation?\nNext up, Mark talks about teen safety and Meta’s recent multi-billion dollar teen safety settlement.\nMark Zuckerberg: I think it would’ve been possible to have explained along the way how seriously we took those issues, and we just didn’t because we thought, well, people are showing that by using the product so much they still like the products. \nOkay, let me stop there. The claim in many of the social media lawsuits is that the product is addictive. The reason people keep comparing social media to Big Tobacco is that smoking is fun and people enjoyed it, and it was killing them. \nSo the usage rates had nothing to do with the harm that might’ve been occurring. So from the jump here, I would’ve wanted to push on whether simply measuring usage rates actually lets you measure whether or not something is doing good for the world or good for an individual user.\nMark Zuckerberg: Where we’ve gotten with the social media products, which is both people liking it and understanding how seriously we take all of those issues. So that’s what I aspire to.\nAlex Heath: Is there a throughline from that to the recent settlement on all the use safety stuff? I know it’s a thing a lot of people are talking about. Is there any connection from what you just said to that? I would just be curious to hear you reflect on that and what you’ve learned from this process. \nMark Zuckerberg: Yeah, no, I think it’s another good example like this. I mean, we’ve taken a lot of those safety issues seriously for a while and we’ve been working on this teen account work with Instagram for a long time.\nSo it is true that Meta has done some of the leading work on designing features that would keep kids safer on its platforms. They’ve done some of the leading research in the space on what is actually happening to people on their platforms. And yet one of the dynamics that is particularly galling throughout all of this is that Meta gets punished for it. \nSo they publish their safety numbers, they publish their research, they publish the amount of bad things that are happening, they do transparency reports. Even if you don’t think that that’s enough, a real thing that continually happens to Meta is they get punished for revealing that bad things happen on their platforms. Companies like Apple, which don’t know what bad things are happening on an encrypted service like iCloud, don’t publish those numbers and don’t get punished for it.\nWhat I would’ve asked Mark here is: How do you solve that dynamic specifically? Because in these lawsuits, it’s been revealed in internal emails that Mark himself has questioned the value of doing the research and building the features because Meta gets punished for it. \nSo there’s a really strong negative feedback loop here where Meta tries hard and gets punished for it because they’re transparent about it, but in fact, you would want a government regulator to solve it. If all the social media companies were required to be transparent about various metrics around teen safety, then Meta would be judged in comparison to its peers, not for the information existing at all. That doesn’t appear in this settlement.\nInstead, what we have is a bunch of behavior controls, product restrictions. Meta seems very keen on making sure those product restrictions connect to TikTok and YouTube, but not on whether we should be able to measure the harms themselves.\nSo that’s the first thing that I think is worth pushing on: Does this whole industry need to be required to be more transparent about the things happening to children on their platforms? Because if you’re going to make rules and regulations, you should probably start from a common set of information.\nMark Zuckerberg: If you basically said, “Limit usage to an hour a day for teens,” everyone, I think, would be okay with that, except you have to unilaterally do it. If not, then you’re saying, “Okay, if people don’t use Instagram for more than an hour a day, but then their usage goes to TikTok, have we really helped anyone and we’ve just hurt ourselves to not help anyone?”\nSo what Mark is describing here is a prisoner’s dilemma, where if they take action to make teens safer and TikTok doesn’t, the teens will just go use TikTok and no one will be safe. This idea, of course, is going to come up again when we talk about AI safety, but let’s just talk about social platforms for one minute.\nIf you believe that there’s a market for safety, if your initial premise was people are using the platform so they must be happy with it, well, then you should make the platform safer for kids, and parents might say to their children, “You’re allowed to use Instagram and not TikTok because Instagram has these controls.” It is very telling to me that Mark doesn’t think there’s a market for safety, that instead he thinks that everyone must be forced to unilaterally disarm by the government in a regulatory framework that solves his prisoner’s dilemma.\nSo my big question here is: Why is this a problem for the government to solve in social media in a way that might implicate the First Amendment and the speech rights of teenagers, but not a problem for the government to solve in AI safety, where the frontier labs keep talking about killing everyone?\nBy the way, when I say this connects directly to AI safety, what I mean is that Mark is arguing the opposite side of the prisoner’s dilemma when it comes to AI safety. After all the calls for slowdowns from the various frontier labs, Mark posted a thread on X saying he thought the market would take care of it.\nI’ll just read it to you. “My view is that trust and alignment are quickly becoming the most important capabilities that will differentiate agents and models. Any lab that doesn’t focus on alignment will fall behind. Labs face significant liability if their models cause harm, so they have a strong incentive to prevent this as well. Meta delayed shipping Muse for several months to focus on safety and security. We didn’t call for everyone else to do this before we would. We just did it as part of our day-to-day work because it was clearly the right thing for people and for us. I’m proud of the security foundations we’ve built.”\nSo straightforwardly, I think the question is why is the go-it-alone approach appropriate when it comes to AI safety, but getting the government to pull the other social media companies into a framework for teen safety appropriate in that market?\nThe other question I’m just going to steal from my friend Casey Newton, who pointed out that in the most recent teen safety case, Meta estimated its own liability at a trillion dollars in damages, which does not appear to be enough liability for Meta to take unilateral action to prevent teens from being harmed on its platforms. If a trillion dollars in potential liability isn’t enough, how much is enough for Meta to take AI safety seriously? And is there any number in a liability scheme that would stop everyone all at once?\nMark then got into how he plans to run Muse as a business.\nMark Zuckerberg: It, I think, is just going to be able to make people money and save people money… the reason for why we’re doing this is we basically are confident in standing behind the fact that we think that this is going to effectively, for people who are going to use it for running a small business or making money or transactions or commerce in some way, we actually just think it’s going to make so much money for people that the business model over time that we expect is to effectively just take a very small cut of whatever the transaction is.\nAlex Heath: A small take-rate business?\nMark Zuckerberg: Yeah, and not even necessarily the person paying for it. It’ll come from the businesses that they’re working with.\nSo if you’re a Ben Thompson fan or you’ve just listened to enough Decoder, you know that what Zuck is describing here is aggregation theory. He’s going to have all the consumer demand, and it’ll be so big and so lucrative that businesses who want customers will pay Meta a small fee to be on the other side of transactions that happen in Muse.\nBeing one of the big aggregators is a very lucrative thing. All the big tech giants aggregate demand in one way or another. The problem is the businesses on the other side of the aggregators hate them. Mark knows this better than most because he’s on the other side of one of the biggest aggregators of all — Apple’s App Store. If you want to reach customers on iPhones, you have to go through the Apple App Store and, importantly, agree to a bunch of privacy rules and pay 30 percent fees on most of the transactions that happen on an iPhone.\nThis hits Meta in two ways. The first is that Apple nearly killed Meta’s ad business with something called App Tracking Transparency when they issued a rule change that really favored Apple’s ad businesses over Meta’s. And two, if you want to boost a post on Instagram from your phone, well, you basically have to pay Apple 30 percent, a fee that Meta breaks out. \nMark hates this so much that he has explicitly talked about building new platforms to get away from Apple for years now. One of the reasons he chased the Metaverse was to build the platform that came after the iPhone and escape Apple. One of the reasons he’s chasing Meta glasses is to build the platform that comes after the iPhone and get away from Apple. And I am dead certain one of the reasons he’s invested so heavily into AI and now Muse is to build the platform that comes after the iPhone and get away from Apple\nSo the question I would ask Mark here is very simple: How will you make it so all of the businesses downstream of your huge aggregator AI agent feel good about this arrangement? Because when you’ve been in this arrangement, you have felt very, very bad.\nMark also spent some time talking about Meta’s data center investments.\nMark Zuckerberg: So if you look at the data centers, what we’ve actually found is that when a company like Meta goes into a community and makes a commitment that we’re going to invest there for decades, which is really what we’re doing when we’re building up a data center, we’re able to make it so that it’s very good for the community.\nI mean, the tax revenue that they bring from that. I mean, in Louisiana, we have this example where the tax revenue funded these $50,000 bonuses for teachers in the community.\nWait, hold on. All right, so this data center in Louisiana, Hyperion… Meta is obviously very proud of it. Mark is talking about the positive impacts it might have for that community. But the actual process of landing that data center deal was basically a bunch of secrecy and backroom deals and huge asks for property tax exemptions from the state government that residents really didn’t know about.\nThere’s a huge New York Times piece about this project that really goes into detail about the kinds of backroom negotiations that Meta secured in order to go fast and build this data center. So I would simply ask if companies like Meta should lay out these supposed benefits in a much more public and transparent way and let people actually decide for themselves.\nMark Zuckerberg: Of course, you have to design it in a way that can be helpful to people in all these ways, which is also part of the reason why, for people who are skeptical or have so much doom about the whole thing, I mean, one of the things that I basically think is that if we don’t end up building it in a way that’s positive, it just effectively won’t be able to happen.\nThis is another market argument from Zuck. He’s saying if people don’t like the AI that’s being built or find it helpful, it simply won’t be allowed to exist. The market will kill the products. You can feel a lot of different ways about that, especially if you’ve experienced AI being force-fed to you in your apps and services right now, but I would connect that to social media, where a lot of people felt that social media was doing harm and the industry raced ahead anyway until the government required some regulations. \nSo I’m once again very curious about Mark’s different postures to government regulation market forces when it comes to social media, where he thinks there should be government regulation, and AI, where he thinks the market should be able to run however it wants.\nSecondly, and I think most importantly, I’ve spent a lot of time on this show asking various AI executives if consumer AI products are good enough to overcome doomerism and skepticism. Because right now, they’re not. Even the way Mark describes Muse as being helpful for people running businesses or helping people save money or doing shopping, there’s fundamentally enterprise applications. They’re not big consumer applications that make people overcome their skepticism.\nFor example, Instagram is a beloved consumer application. It just entertains you. That means all of the downstream harms of Instagram fade away because people like being entertained. It is not clear to me whether people are going to love letting Muse run their small businesses so much that they will accept data centers in their community. \nIt’s not clear to me what consumer AI products will ever exist such that people overcome their skepticism of the enormous cost of data center build-outs. I would want to know if Mark thinks Muse is that great consumer product, or if there’s something yet to come.\nSo those are some of the questions I would’ve asked Mark Zuckerberg if he had agreed to come on Decoder.\nQuestions or comments? Hit us up at decoder@theverge.com. We really do read every email!",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/DCD_2026-09-24_Zuck.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
     "summary": "",
     "importance": 5
   },
@@ -1594,17 +1602,5 @@
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/ailogos-1152x648.jpg",
     "summary": "",
     "importance": 5
-  },
-  {
-    "title": "Dogecoin down 8%, bitcoin under $84,000 as Treasury yields hit highest level since 2007",
-    "link": "https://www.coindesk.com/markets/2026/09/24/dogecoin-down-8-bitcoin-under-usd84-000-as-treasury-yields-hit-highest-level-since-2007",
-    "pubDate": "Thu, 24 Sep 2026 04:13:01 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "A rebound in oil, the strongest U.S. business survey in five years and a poorly received five-year note sale pushed borrowing costs higher, with DOGE leading token losses.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/103927410eef0a1c0322ea5a3075195d82e1c875-1512x856.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "Dogecoin is down 8% and Bitcoin has fallen below $84,000 as Treasury yields reached their highest level since 2007. This increase in borrowing costs, which led to significant token losses, was influenced by a rebound in oil, a strong U.S. business survey, and a poorly received five-year note sale.",
-    "importance": 3,
-    "classified": true
   }
 ]
