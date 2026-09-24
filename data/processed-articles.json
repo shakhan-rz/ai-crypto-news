@@ -1,5 +1,17 @@
 [
   {
+    "title": "Trump administration weighs a global stablecoin plan to cement dollar's dominance",
+    "link": "https://www.coindesk.com/markets/2026/09/24/trump-administration-weighs-a-global-stablecoin-plan-to-cement-dollar-s-dominance",
+    "pubDate": "Thu, 24 Sep 2026 06:33:23 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "Washington is a mulling plan to actively promote USD-backed stablecoins worldwide in a bid to cement the greenback's global reserve status.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/2f1c6e613b33b9c2e567db9c1a5b333bb2457de1-4032x5040.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "The Trump administration is reportedly considering a plan to actively promote USD-backed stablecoins globally. This initiative aims to strengthen the US dollar's position as the world's primary reserve currency. The move signifies a potential government strategy to leverage cryptocurrency technology for national economic interests.",
+    "importance": 9,
+    "classified": true
+  },
+  {
     "title": "Solana starts testing upgrade that could cut finality from 12.8 seconds to 150 milliseconds",
     "link": "https://www.coindesk.com/tech/2026/09/23/solana-starts-testing-upgrade-that-could-cut-finality-from-12-8-seconds-to-150-milliseconds",
     "pubDate": "Wed, 23 Sep 2026 05:16:22 +0000",
@@ -12,15 +24,15 @@
     "classified": true
   },
   {
-    "title": "Canada’s six largest banks explore tokenized Canadian dollar deposits",
-    "link": "https://cointelegraph.com/news/canada-six-largest-banks-explore-tokenized-canadian-dollar-deposits?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Tue, 22 Sep 2026 19:56:48 +0000",
-    "source": "Cointelegraph",
-    "category": "crypto",
-    "content": "The country’s largest financial institutions are exploring tokenized deposits for interbank payments, just weeks after regulators clarified how they should be treated.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M357GAH1CKA4TWB0W8FEC9YF/hi-how-central-banks-are-testing-blockchain-based-monetary-policy-bank-of-america.png",
-    "summary": "Canada's six largest banks are exploring the use of tokenized Canadian dollar deposits for interbank payments. This move follows recent regulatory clarifications regarding the treatment of such deposits.",
-    "importance": 9,
+    "title": "A week of AI coding cut a quantum-safe bitcoin transaction estimate from $320 to $66",
+    "link": "https://www.coindesk.com/tech/2026/09/24/a-week-of-ai-coding-cut-a-quantum-safe-bitcoin-transaction-estimate-from-usd320-to-usd66",
+    "pubDate": "Thu, 24 Sep 2026 05:24:56 +0000",
+    "source": "CoinDesk",
+    "category": "both",
+    "content": "StarkWare, which conducted the research, says contest participants using AI tools made the computation about five times faster, though the $66 figure has not yet been demonstrated in another transaction mined on Bitcoin.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/631d76c20667ca4a1c610d2007c676c073cc1346-6000x4000.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "Research by StarkWare indicates that AI coding tools drastically reduced the estimated cost of a quantum-safe Bitcoin transaction. Contest participants using AI cut the computational cost from an estimated $320 to $66, a five-fold speed improvement. However, this $66 figure has yet to be demonstrated in a live Bitcoin transaction.",
+    "importance": 8,
     "classified": true
   },
   {
@@ -144,26 +156,26 @@
     "classified": true
   },
   {
-    "title": "Next for the U.S. SEC: Agency's chief crypto counsel illuminates path for custody",
-    "link": "https://www.coindesk.com/policy/2026/09/22/next-for-the-u-s-sec-agency-s-chief-crypto-counsel-illuminates-path-for-custody",
-    "pubDate": "Tue, 22 Sep 2026 15:21:28 +0000",
-    "source": "CoinDesk",
+    "title": "US weighs overseas push for dollar-backed stablecoins: Bloomberg",
+    "link": "https://cointelegraph.com/news/us-overseas-dollar-stablecoins-trump-administration?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Thu, 24 Sep 2026 04:44:12 +0000",
+    "source": "Cointelegraph",
     "category": "crypto",
-    "content": "Taylor Lindman, the top lawyer on the agency's Crypto Task Force, says the SEC is trying to get firms comfortable with blockchain technology and crypto assets.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/939b6b67f35bbb821b8c37878c4f64afeeb3108a-3545x1994.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "Taylor Lindman, the chief crypto counsel for the U.S. SEC's Crypto Task Force, stated that the agency is actively working to help firms become comfortable with blockchain technology and crypto assets. This indicates the SEC's efforts to illuminate a path for custody and facilitate greater adoption within the regulatory framework.",
+    "content": "The reported initiative could involve private-sector companies and several US agencies as Washington looks to expand the international use of dollar-backed stablecoins.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M38V1DJT1AP7MTJB9PYYTZWN/usa.png",
+    "summary": "The US government is reportedly considering an initiative to promote the international adoption of dollar-backed stablecoins. This push would involve private-sector companies and several US agencies, with the aim of expanding the global use of these digital assets.",
     "importance": 8,
     "classified": true
   },
   {
-    "title": "European central banks push to expand stablecoin yield ban to crypto lending and staking",
-    "link": "https://www.coindesk.com/policy/2026/09/22/european-central-banks-push-to-expand-stablecoin-yield-ban-to-crypto-lending-and-staking",
-    "pubDate": "Tue, 22 Sep 2026 14:32:59 +0000",
-    "source": "CoinDesk",
+    "title": "Kalshi says CFTC hasn’t contacted it over ‘unusual’ $5B trading activity",
+    "link": "https://cointelegraph.com/news/kalshi-says-cftc-hasnt-contacted-it-over-unusual-5b-trading-activity?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Thu, 24 Sep 2026 00:53:09 +0000",
+    "source": "Cointelegraph",
     "category": "crypto",
-    "content": "Central bankers argue that indirect yield structures blur the line between electronic payment tokens and commercial bank deposits, distorting financial system competition.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/f345c7f333b3a15d015ff97d1ff55ff3908e078d-1352x924.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "European central banks are advocating to expand the ban on stablecoin yields to also include crypto lending and staking activities. They contend that these indirect yield structures blur the distinction between electronic payment tokens and commercial bank deposits. This blurring is seen as a distortion of competition within the established financial system.",
+    "content": "Kalshi said nearly $5 billion in similarly sized Ether perpetual trades reflected its liquidity incentive programs and rejected allegations that the activity was wash trading.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M38EA0GXHXMVK685ARK2NNWH/trading-1.jpg",
+    "summary": "Kalshi stated that nearly $5 billion in unusual Ether perpetual trades were due to its liquidity incentive programs, rejecting allegations of wash trading. The company also confirmed that the CFTC has not yet contacted them regarding this activity.",
     "importance": 8,
     "classified": true
   },
@@ -252,6 +264,18 @@
     "classified": true
   },
   {
+    "title": "Bitcoin’s ‘last resort’ quantum-safe solution just got 79% cheaper: StarkWare",
+    "link": "https://cointelegraph.com/news/bitcoins-last-resort-quantum-safe-solution-just-got-79-cheaper-starkware?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Thu, 24 Sep 2026 04:52:40 +0000",
+    "source": "Cointelegraph",
+    "category": "crypto",
+    "content": "A weeklong optimization challenge cut the estimated GPU cost of preparing an experimental quantum-resistant Bitcoin transaction to under $67, potentially making the “last-resort measure” a little easier on the wallet.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M38W53G3D9PCVSK370XGZSNS/quantum-chip.jpg",
+    "summary": "An optimization challenge led by StarkWare successfully reduced the estimated GPU cost for preparing an experimental quantum-resistant Bitcoin transaction by 79%, bringing it under $67. This significant cost reduction makes a potential \"last-resort\" security measure for Bitcoin against future quantum threats more economically feasible.",
+    "importance": 7,
+    "classified": true
+  },
+  {
     "title": "Arch Lending eyes tokenized stocks as next collateral market",
     "link": "https://cointelegraph.com/news/arch-lending-eyes-tokenized-stocks-as-next-crypto-collateral-market?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "pubDate": "Tue, 22 Sep 2026 21:06:52 +0000",
@@ -276,38 +300,14 @@
     "classified": true
   },
   {
-    "title": "Bitcoin, ether perpetual volumes on Kalshi are dominated by an unusual, repetitive trade, data shows",
-    "link": "https://www.coindesk.com/markets/2026/09/21/bitcoin-ether-perpetual-volumes-on-kalshi-are-dominated-by-an-unusual-repetitive-trade-data-shows",
-    "pubDate": "Tue, 22 Sep 2026 12:32:15 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "CoinDesk found one $5,499 trade size accounting for 57% of sampled ether-perpetual volume, while recurring $2,500 and $5,000 trade sizes made up 54% of sampled bitcoin-perpetual volume.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/4e50c9195dba15e6ee82b37a243ee05c82ea6b97-6960x4640.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "Data from CoinDesk reveals that specific, repetitive trade sizes are dominating perpetual volumes for Bitcoin and Ether on the Kalshi platform. An unusual $5,499 trade size accounted for 57% of sampled ether-perpetual volume, while recurring $2,500 and $5,000 trade sizes made up 54% of sampled bitcoin-perpetual volume.",
-    "importance": 6,
-    "classified": true
-  },
-  {
     "title": "Here’s what happened in crypto today",
     "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Wed, 23 Sep 2026 19:39:24 +0000",
+    "pubDate": "Thu, 24 Sep 2026 05:23:34 +0000",
     "source": "Cointelegraph",
     "category": "crypto",
     "content": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
     "image": "https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg",
     "summary": "This article provides a summary of the latest news and trends in the crypto space, covering Bitcoin price, blockchain, DeFi, Web3, and crypto regulation. It aims to keep readers updated on daily events impacting the cryptocurrency market. The article appears to be a general overview of the current state of the crypto industry.",
-    "importance": 6,
-    "classified": true
-  },
-  {
-    "title": "Zcash gets first European ETP following US ETF launch",
-    "link": "https://cointelegraph.com/news/21shares-zcash-etp-europe-etherfi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Tue, 22 Sep 2026 16:21:44 +0000",
-    "source": "Cointelegraph",
-    "category": "crypto",
-    "content": "21shares listed physically backed ZEC and ETHFI products on Euronext Paris and Amsterdam, as issuers broaden their offerings beyond major cryptocurrencies.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1XWJSJ8XM9PBWB2HGFX3KCS/zcash-rally-etf-grayscale-privacy-coins.jpg",
-    "summary": "21shares has listed physically backed Zcash (ZEC) and ETHFI exchange-traded products (ETPs) on Euronext Paris and Amsterdam. This development marks the first European ETP for Zcash, reflecting a broader trend of issuers expanding their cryptocurrency product offerings beyond just major digital assets.",
     "importance": 6,
     "classified": true
   },
@@ -334,17 +334,6 @@
     "summary": "President Donald Trump's crypto adviser, Patrick Witt, has defended Trump's connections to the cryptocurrency industry. Witt accused Democrats of unfairly using Trump's crypto ties as a political tool following the defeat of the Clarity Act.",
     "importance": 5,
     "classified": true
-  },
-  {
-    "title": "Kalshi says CFTC hasn’t contacted it over ‘unusual’ $5B trading activity",
-    "link": "https://cointelegraph.com/news/kalshi-says-cftc-hasnt-contacted-it-over-unusual-5b-trading-activity?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Thu, 24 Sep 2026 00:53:09 +0000",
-    "source": "Cointelegraph",
-    "category": "crypto",
-    "content": "Kalshi said nearly $5 billion in similarly sized Ether perpetual trades reflected its liquidity incentive programs and rejected allegations that the activity was wash trading.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M38EA0GXHXMVK685ARK2NNWH/trading-1.jpg",
-    "summary": "",
-    "importance": 5
   },
   {
     "title": "Ex-SEC acting chair: Agency dropped crypto cases to avoid issues with credibility",
@@ -1150,23 +1139,23 @@
     "importance": 5
   },
   {
-    "title": "StrictlyVC at TechCrunch Disrupt 2026: Inside the changing rules of venture capital",
-    "link": "https://techcrunch.com/2026/09/23/strictlyvc-at-techcrunch-disrupt-2026-inside-the-changing-rules-of-venture-capital/",
-    "pubDate": "Wed, 23 Sep 2026 14:30:00 +0000",
-    "source": "TechCrunch AI",
-    "category": "ai",
-    "content": "StrictlyVC joins TechCrunch Disrupt 2026 to discuss the changing VC landscape thanks to AI. Get your Investor Pass to join these exclusive sessions. Save $200 before September 25 at 11:59 p.m. PT.",
-    "image": "",
-    "summary": "",
-    "importance": 5
-  },
-  {
     "title": "YouTube releases new AI features for creators within its Studio app",
     "link": "https://techcrunch.com/2026/09/23/youtube-releases-new-ai-features-for-creators-within-its-studio-app/",
     "pubDate": "Wed, 23 Sep 2026 14:30:00 +0000",
     "source": "TechCrunch AI",
     "category": "ai",
     "content": "YouTube is adding new features to generate ideas and monitor the performance of thumbnails.",
+    "image": "",
+    "summary": "",
+    "importance": 5
+  },
+  {
+    "title": "StrictlyVC at TechCrunch Disrupt 2026: Inside the changing rules of venture capital",
+    "link": "https://techcrunch.com/2026/09/23/strictlyvc-at-techcrunch-disrupt-2026-inside-the-changing-rules-of-venture-capital/",
+    "pubDate": "Wed, 23 Sep 2026 14:30:00 +0000",
+    "source": "TechCrunch AI",
+    "category": "ai",
+    "content": "StrictlyVC joins TechCrunch Disrupt 2026 to discuss the changing VC landscape thanks to AI. Get your Investor Pass to join these exclusive sessions. Save $200 before September 25 at 11:59 p.m. PT.",
     "image": "",
     "summary": "",
     "importance": 5
@@ -1610,6 +1599,18 @@
     "image": "https://cdn.sanity.io/images/s3y3vcno/production/b804d97a1858ee40b7d0fa8713daab4042685a80-1920x1080.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
     "summary": "Bitcoin is consolidating near $86,000, and Brent crude oil prices have fallen below $100. While many CoinDesk 100 constituents were down, Bitcoin Cash notably surged 32% over 24 hours following news of a CME futures listing.",
     "importance": 4,
+    "classified": true
+  },
+  {
+    "title": "Dogecoin down 8%, bitcoin under $84,000 as Treasury yields hit highest level since 2007",
+    "link": "https://www.coindesk.com/markets/2026/09/24/dogecoin-down-8-bitcoin-under-usd84-000-as-treasury-yields-hit-highest-level-since-2007",
+    "pubDate": "Thu, 24 Sep 2026 04:13:01 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "A rebound in oil, the strongest U.S. business survey in five years and a poorly received five-year note sale pushed borrowing costs higher, with DOGE leading token losses.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/103927410eef0a1c0322ea5a3075195d82e1c875-1512x856.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "Dogecoin is down 8% and Bitcoin has fallen below $84,000 as Treasury yields reached their highest level since 2007. This increase in borrowing costs, which led to significant token losses, was influenced by a rebound in oil, a strong U.S. business survey, and a poorly received five-year note sale.",
+    "importance": 3,
     "classified": true
   },
   {
