@@ -60,15 +60,27 @@
     "classified": true
   },
   {
-    "title": "UK’s largest banks complete world’s first interbank transactions using tokenized deposits ",
-    "link": "https://www.coindesk.com/business/2026/09/24/uk-s-largest-banks-complete-world-s-first-interbank-transactions-using-tokenized-deposits",
-    "pubDate": "Thu, 24 Sep 2026 15:07:18 +0000",
+    "title": "SEC Commissioner Hester Peirce to leave post on Oct. 2",
+    "link": "https://cointelegraph.com/news/sec-commissioner-hester-peirce-to-leave-post-on-oct-2?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Sat, 26 Sep 2026 09:02:22 +0000",
+    "source": "Cointelegraph",
+    "category": "crypto",
+    "content": "Peirce, known as “Crypto Mom,” served on the SEC for about eight years, including as director of the Crypto Task Force.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3EF3D5VFWA1TXNZDN794WQV/hester-peirce-sec-1.jpg",
+    "summary": "SEC Commissioner Hester Peirce, known as “Crypto Mom” for her supportive stance on digital assets, is scheduled to depart from her post on October 2nd. She served approximately eight years on the SEC, including as director of the Crypto Task Force, making her a significant figure in cryptocurrency regulation.",
+    "importance": 9,
+    "classified": true
+  },
+  {
+    "title": "Bitcoin could soon get Zcash-style 'shielded' privacy without changing its rules",
+    "link": "https://www.coindesk.com/tech/2026/09/26/bitcoin-could-soon-get-zcash-style-shielded-privacy-without-changing-its-rules",
+    "pubDate": "Sat, 26 Sep 2026 04:02:13 +0000",
     "source": "CoinDesk",
     "category": "crypto",
-    "content": "Barclays, NatWest, and HSBC and others used tokenized deposits for remortgages and a marketplace-payment test, taking bank-issued digital cash beyond a single institution.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/6a55120319f442a7083bbe28359db7f277af29df-5745x3830.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "The UK's largest banks, including Barclays, NatWest, and HSBC, successfully completed the world's first interbank transactions using tokenized deposits. These landmark transactions involved remortgages and a marketplace payment test, signifying a major advancement in extending bank-issued digital cash beyond single institutions.",
-    "importance": 9,
+    "content": "Researchers have mapped out private bitcoin-denominated transfers that run alongside Bitcoin, but the system still lacks a finished way to lock up real BTC and release it again.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/bb91f522b50463896027288e6037d9a39f937ae2-5472x3648.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "Researchers are developing a system for private, Zcash-style transactions that can run alongside Bitcoin without requiring changes to its core rules. This innovation aims to bring enhanced privacy to Bitcoin-denominated transfers, though a complete solution for securely locking and releasing real BTC within this system is still under development.",
+    "importance": 8,
     "classified": true
   },
   {
@@ -168,26 +180,14 @@
     "classified": true
   },
   {
-    "title": "Crypto casino Duelbits goes offline after $7 million hot wallet hack",
-    "link": "https://www.coindesk.com/business/2026/09/24/crypto-casino-duelbits-goes-offline-after-usd7m-hot-wallet-hack",
-    "pubDate": "Thu, 24 Sep 2026 15:48:20 +0000",
-    "source": "CoinDesk",
+    "title": "CFTC sues Cash FX, alleges $950M crypto-linked forex scheme",
+    "link": "https://cointelegraph.com/news/cftc-sues-cash-fx-alleges-950m-crypto-linked-forex-scheme?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Sat, 26 Sep 2026 06:59:29 +0000",
+    "source": "Cointelegraph",
     "category": "crypto",
-    "content": "Attackers drained Duelbits' hot wallets across four blockchains; about $6 million in stolen funds now sits in a single Ethereum address.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/70172f53cfba9b4db9ca138599dd8ee6f4d188da-1920x1080.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "Crypto casino Duelbits has gone offline after attackers drained its hot wallets, stealing approximately $7 million across four blockchains. Around $6 million of the stolen funds have reportedly been consolidated into a single Ethereum address.",
-    "importance": 8,
-    "classified": true
-  },
-  {
-    "title": "Bitcoin’s bear markets are getting milder. Bull markets may be next",
-    "link": "https://www.coindesk.com/markets/2026/09/24/bitcoin-s-bear-markets-are-getting-milder-the-bull-markets-may-be-next",
-    "pubDate": "Thu, 24 Sep 2026 15:26:34 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "Bitcoin’s latest bear market was milder than past crashes as ETFs, institutional investors and a maturing market reshape its cycles.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/b18259d0df35543019d1ba0311d7775aec49d301-6000x4000.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "Bitcoin's latest bear market was notably milder than previous crashes, suggesting a shift in its market cycles. This moderation is driven by the introduction of ETFs, increasing institutional investor participation, and the overall maturation of the cryptocurrency market.",
+    "content": "The CFTC claimed that Cash FX engaged in minimal forex trading and misappropriated most of the participant funds.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3E7R5YFBEX21VBGW5MY4472/hi-how-can-transform-government-sector-cftc.jpg",
+    "summary": "The CFTC has filed a lawsuit against Cash FX, alleging a $950 million crypto-linked forex scheme. The regulator claims Cash FX engaged in minimal forex trading and instead misappropriated the majority of participant funds.",
     "importance": 8,
     "classified": true
   },
@@ -252,6 +252,18 @@
     "classified": true
   },
   {
+    "title": "Solana’s 150-millisecond settlement upgrade reaches second public test network",
+    "link": "https://www.coindesk.com/tech/2026/09/26/solana-s-150-millisecond-settlement-upgrade-reaches-second-public-test-network",
+    "pubDate": "Sat, 26 Sep 2026 05:00:00 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "Alpenglow is running on both public test networks, giving application teams a place to check their software before the live blockchain switches.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/54c0f3b41e62df4cdf774aab4c7d68c64e5e976c-1920x1080.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "Solana's Alpenglow upgrade, which aims to enable 150-millisecond settlements, has been deployed to its second public test network. This allows application teams to test their software in a live environment before the main blockchain officially switches over.",
+    "importance": 7,
+    "classified": true
+  },
+  {
     "title": "Circle and Tether step in to freeze hacker wallet after massive Bitget crypto heist",
     "link": "https://www.coindesk.com/markets/2026/09/25/circle-and-tether-step-in-to-freeze-hacker-wallet-after-massive-bitget-crypto-heist",
     "pubDate": "Fri, 25 Sep 2026 14:41:53 +0000",
@@ -312,6 +324,18 @@
     "classified": true
   },
   {
+    "title": "Another appeals court rules against prediction market provider Kalshi, says sports contracts are subject to state regulations",
+    "link": "https://www.coindesk.com/policy/2026/09/25/another-appeals-court-rules-against-prediction-market-provider-kalshi-says-sports-contracts-are-subject-to-state-regulations",
+    "pubDate": "Fri, 25 Sep 2026 21:17:30 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "A Sixth Circuit Court of Appeals panel ruled that prediction markets' sports-related events contracts are not swaps, and therefore aren't subject to federal regulatory oversight.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/cd68dbf11ea2b03847eb5020d28aec70f8c83de4-2321x1306.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "A US appeals court has ruled against prediction market provider Kalshi, stating that sports-related event contracts are not 'swaps' and thus fall outside federal regulatory oversight. This decision means such contracts are subject to state regulations rather than federal ones.",
+    "importance": 6,
+    "classified": true
+  },
+  {
     "title": "Blockchain Association sees leadership shift shortly after crypto Clarity Act fizzles",
     "link": "https://www.coindesk.com/policy/2026/09/25/blockchain-association-sees-leadership-shift-shortly-after-crypto-clarity-act-fizzles",
     "pubDate": "Fri, 25 Sep 2026 20:01:05 +0000",
@@ -334,17 +358,6 @@
     "summary": "This article provides a summary of the latest news and trends in the crypto space, covering Bitcoin price, blockchain, DeFi, Web3, and crypto regulation. It aims to keep readers updated on daily events impacting the cryptocurrency market. The article appears to be a general overview of the current state of the crypto industry.",
     "importance": 6,
     "classified": true
-  },
-  {
-    "title": "Another appeals court rules against prediction market provider Kalshi, says sports contracts are subject to state regulations",
-    "link": "https://www.coindesk.com/policy/2026/09/25/another-appeals-court-rules-against-prediction-market-provider-kalshi-says-sports-contracts-are-subject-to-state-regulations",
-    "pubDate": "Fri, 25 Sep 2026 21:17:30 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "A Sixth Circuit Court of Appeals panel ruled that prediction markets' sports-related events contracts are not swaps, and therefore aren't subject to federal regulatory oversight.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/cd68dbf11ea2b03847eb5020d28aec70f8c83de4-2321x1306.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "",
-    "importance": 5
   },
   {
     "title": "Bond volatility surges while bitcoin and Wall Street stay calm",
@@ -587,28 +600,6 @@
     "category": "crypto",
     "content": "The France-based semiconductor company has fully unwound a Bitcoin treasury that once held more than 3,200 BTC as more firms scale back crypto holdings.",
     "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3A44DGGE4E3FZMH613C6EH3/hi-limit-order-protocols-offer-more-flexibility-and-efficiency-to-traders.jpg",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "SoFi tie-up shows stablecoins can provide alternative blockchain settlement rail",
-    "link": "https://cointelegraph.com/news/sofi-moves-25b-card-program-to-stablecoin-settlement-with-mastercard?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Thu, 24 Sep 2026 15:57:00 +0000",
-    "source": "Cointelegraph",
-    "category": "crypto",
-    "content": "SoFi dives deeper into payments as it moves its entire card program to blockchain-based settlement using its SoFiUSD stablecoin, with more than $25 billion in expected annualized volume.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3518SYSJ7A5FP4GPX8VM1S8/hi-what-is-the-significance-of-the-statement-that-cbdc-and-stablecoins-can-co-exist.png",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "New York sues Polymarket over alleged illegal gambling business",
-    "link": "https://cointelegraph.com/news/new-york-polymarket-illegal-gambling-operation-lawsuit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Thu, 24 Sep 2026 15:27:29 +0000",
-    "source": "Cointelegraph",
-    "category": "crypto",
-    "content": "The action filed by state lawmakers followed a similar lawsuit against prediction markets company Kalshi in July that alleged the platform was running an illegal gambling operation.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M39Y31J42742R275K5880DRD/hi-new-york-lawsuit.png",
     "summary": "",
     "importance": 5
   },
@@ -1053,12 +1044,23 @@
     "importance": 5
   },
   {
+    "title": "At Meta Connect, the company’s smart glasses were everywhere",
+    "link": "https://techcrunch.com/2026/09/25/at-meta-connect-the-companys-smart-glasses-were-everywhere/",
+    "pubDate": "Sat, 26 Sep 2026 01:08:57 +0000",
+    "source": "TechCrunch AI",
+    "category": "ai",
+    "content": "The company behind Facebook and Instagram wants to keep consumers connected to the digital world via its ever-growing line of smart glasses.",
+    "image": "",
+    "summary": "",
+    "importance": 5
+  },
+  {
     "title": "Crusoe abandons $1.25B plan to use Boom turbines at AI data centers",
     "link": "https://techcrunch.com/2026/09/25/crusoe-abandons-1-25b-plan-to-use-boom-turbines-at-ai-data-centers/",
     "pubDate": "Fri, 25 Sep 2026 23:11:10 +0000",
     "source": "TechCrunch AI",
     "category": "ai",
-    "content": "Boom Supersonic CEO Blake Scholl said its new stationary power plants were no longer in Crusoe's near-term plans.",
+    "content": "Boom Supersonic CEO Blake Scholl said the company's new stationary power plants were no longer in Crusoe's near-term plans.",
     "image": "",
     "summary": "",
     "importance": 5
@@ -1262,17 +1264,6 @@
     "importance": 5
   },
   {
-    "title": "Oracle sends force majeure notice on its New Mexico Stargate data center",
-    "link": "https://techcrunch.com/2026/09/24/oracle-sends-force-majeure-notice-on-its-new-mexico-stargate-data-center/",
-    "pubDate": "Thu, 24 Sep 2026 18:11:44 +0000",
-    "source": "TechCrunch AI",
-    "category": "ai",
-    "content": "The notice would allow Oracle to delay payments should the facility miss its 2028 target to come online.",
-    "image": "",
-    "summary": "",
-    "importance": 5
-  },
-  {
     "title": "Meta makes the Muse filesystem even more accessible",
     "link": "https://www.theverge.com/ai-artificial-intelligence/1000784/meta-muse-filesystem",
     "pubDate": "2026-09-25T16:49:53.000Z",
@@ -1383,7 +1374,7 @@
     "importance": 5
   },
   {
-    "title": "Court rules Trump can blacklist Anthropic for refusing to enable Claude features",
+    "title": "Court rules Pentagon can blacklist Anthropic for refusing to enable Claude features",
     "link": "https://arstechnica.com/tech-policy/2026/09/court-rules-trump-can-blacklist-anthropic-for-refusing-to-enable-claude-features/",
     "pubDate": "Fri, 25 Sep 2026 21:36:20 +0000",
     "source": "Ars Technica AI",
@@ -1601,6 +1592,18 @@
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/gemini-general-5-1152x648.jpg",
     "summary": "",
     "importance": 5
+  },
+  {
+    "title": "XRP Ledger’s Batch upgrade slips to Oct. 9 after validator support resets",
+    "link": "https://www.coindesk.com/tech/2026/09/26/xrp-ledger-s-batch-upgrade-slips-to-oct-9-after-validator-support-resets",
+    "pubDate": "Sat, 26 Sep 2026 04:30:00 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "The feature would let users bundle up to eight transactions, including asset-and-payment transfers, but a brief drop below the network’s 80% support threshold restarted its two-week activation clock.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/af945cfdd3152f9ebc96d44f89ccafea550ccb57-5760x3840.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "The XRP Ledger's Batch upgrade, which allows users to bundle up to eight transactions, has been delayed to October 9th. This postponement occurred because validator support briefly dropped below the required 80% threshold, resetting its two-week activation countdown.",
+    "importance": 4,
+    "classified": true
   },
   {
     "title": "IBIT options price trading more calmly after Bitcoin rebound",
