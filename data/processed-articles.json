@@ -276,6 +276,42 @@
     "classified": true
   },
   {
+    "title": "Bitcoin ETF inflows slow to $191M as six-day streak reaches $2.8B",
+    "link": "https://cointelegraph.com/markets/bitcoin-etf-six-day-streak-2-8-billion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Fri, 25 Sep 2026 07:41:36 +0000",
+    "source": "Cointelegraph",
+    "category": "crypto",
+    "content": "US spot Bitcoin ETFs drew $191 million Thursday as daily inflows slowed for a third day, lifting year-to-date net flows to $787 million.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3BNHNN1HMXCX6AA83T10V84/bitcoin-etf-5.jpg",
+    "summary": "US spot Bitcoin ETFs experienced $191 million in inflows on Thursday, indicating a third consecutive day of slowing daily investments. This brings the total year-to-date net flows for these ETFs to $787 million.",
+    "importance": 8,
+    "classified": true
+  },
+  {
+    "title": "Australian PM warns of AI’s ‘furious pace’ after agent breached government site",
+    "link": "https://cointelegraph.com/news/australia-pm-warns-of-ais-furious-pace-after-agent-breached-government-site?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Fri, 25 Sep 2026 05:06:22 +0000",
+    "source": "Cointelegraph",
+    "category": "ai",
+    "content": "Anthony Albanese said governments must help shape AI’s development, after revealing earlier that an OpenAI agent accessed non-public files on an Australian Medicare data portal.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3BE8B62GS1E629MH9VCZDBG/ai-hack-australia.jpg",
+    "summary": "Australian Prime Minister Anthony Albanese has cautioned about the rapid advancement of AI, emphasizing the need for government involvement in its development. This warning follows a revelation that an OpenAI agent managed to access non-public files on an Australian Medicare data portal.",
+    "importance": 8,
+    "classified": true
+  },
+  {
+    "title": "Researchers propose Zcash-style private Bitcoin transfers without a soft fork ",
+    "link": "https://cointelegraph.com/news/shielded-bitcoin-zcash-style-privacy-no-soft-fork?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Fri, 25 Sep 2026 04:41:06 +0000",
+    "source": "Cointelegraph",
+    "category": "crypto",
+    "content": "Shielded Bitcoin would use zero-knowledge proofs and encrypted notes to hide transaction details without changing Bitcoin consensus, but researchers have raised questions about anonymity and quantum resistance.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3BDDFF8HPKJW2SF5YG537KT/shielded-bitcoin.png",
+    "summary": "Researchers have proposed a method for Zcash-style private Bitcoin transfers utilizing zero-knowledge proofs and encrypted notes to hide transaction details without needing a soft fork. This approach aims to enhance privacy on the Bitcoin network, though concerns about anonymity and quantum resistance have been raised.",
+    "importance": 8,
+    "classified": true
+  },
+  {
     "title": "Kraken’s parent Payward is betting billions on becoming financial infrastructure, not just a crypto exchange",
     "link": "https://www.coindesk.com/business/2026/09/26/kraken-s-parent-payward-is-betting-billions-on-becoming-financial-infrastructure-not-just-a-crypto-exchange",
     "pubDate": "Sat, 26 Sep 2026 14:00:00 +0000",
@@ -348,6 +384,30 @@
     "classified": true
   },
   {
+    "title": "Riot Platforms repays $200M credit facility, releases collateral",
+    "link": "https://cointelegraph.com/news/riot-platforms-repays-200m-credit-facility-releases-collateral?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Sun, 27 Sep 2026 09:57:19 +0000",
+    "source": "Cointelegraph",
+    "category": "crypto",
+    "content": "The Bitcoin miner has continued to expand its data-center business as well.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3H4K9S7MJRE0V8KP0S1ZAM6/hi-eu-vote-on-bitcoin-mining-ai-1.png",
+    "summary": "Riot Platforms, a Bitcoin miner, has fully repaid its $200 million credit facility, subsequently releasing the associated collateral. The company is also continuing its expansion efforts in the data-center business.",
+    "importance": 7,
+    "classified": true
+  },
+  {
+    "title": "Saylor outlines ‘bill of digital rights’ to help build prosperity in future economy",
+    "link": "https://cointelegraph.com/news/saylor-outlines-bill-of-digital-rights-to-help-build-prosperity-in-future-economy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Sun, 27 Sep 2026 07:18:42 +0000",
+    "source": "Cointelegraph",
+    "category": "crypto",
+    "content": "Our ambition should be to “enable 10 million new companies to raise capital,” Strategy’s executive chairman Michael Saylor wrote in an essay.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3GVCZQXE2KGQ9ZJ6AN3C2VH/hi-michael-saylor2.png",
+    "summary": "Michael Saylor, executive chairman of Strategy, has outlined a 'bill of digital rights' in an essay. This initiative aims to build prosperity in a future economy by enabling 10 million new companies to raise capital.",
+    "importance": 7,
+    "classified": true
+  },
+  {
     "title": "OG.com seeks CFTC approval for single-stock perpetual futures",
     "link": "https://cointelegraph.com/news/og-com-seeks-cftc-approval-single-stock-perpetual-futures?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "pubDate": "Fri, 25 Sep 2026 20:37:21 +0000",
@@ -380,6 +440,18 @@
     "content": "CoinGlass will retain its brand and team, while its website, app, free tools, API and pricing will remain unchanged following the acquisition.",
     "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3C95VNCWEKXAFT14D52K8ZQ/crypto-market-trading2.jpg",
     "summary": "CoinMarketCap has acquired CoinGlass to enhance its crypto derivatives data offerings. CoinGlass will continue to operate under its existing brand and team, with no changes to its website, app, tools, API, or pricing post-acquisition.",
+    "importance": 7,
+    "classified": true
+  },
+  {
+    "title": "Samourai Wallet co-founder faces transfer after 30-day jail ordeal",
+    "link": "https://cointelegraph.com/news/samourai-wallet-co-founder-30-day-prison-transfer?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Fri, 25 Sep 2026 07:28:18 +0000",
+    "source": "Cointelegraph",
+    "category": "crypto",
+    "content": "Keonne Rodriguez says he and 70 others face another move after their treatment program was deactivated. His previous transfer took 30 days.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3BM3DN348KFGP7858XFMCWJ/prison.png",
+    "summary": "Keonne Rodriguez, co-founder of Samourai Wallet, is facing another transfer along with 70 other inmates after their treatment program was deactivated. This development follows a previous transfer for Rodriguez that lasted 30 days.",
     "importance": 7,
     "classified": true
   },
@@ -442,50 +514,6 @@
     "summary": "Former CFTC Commissioner Summer Mersinger is noted to have joined the Blockchain Association in 2025. This move followed her resignation during her second term at the federal commodities regulator.",
     "importance": 5,
     "classified": true
-  },
-  {
-    "title": "Bitcoin ETF inflows slow to $191M as six-day streak reaches $2.8B",
-    "link": "https://cointelegraph.com/markets/bitcoin-etf-six-day-streak-2-8-billion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Fri, 25 Sep 2026 07:41:36 +0000",
-    "source": "Cointelegraph",
-    "category": "crypto",
-    "content": "US spot Bitcoin ETFs drew $191 million Thursday as daily inflows slowed for a third day, lifting year-to-date net flows to $787 million.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3BNHNN1HMXCX6AA83T10V84/bitcoin-etf-5.jpg",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "Samourai Wallet co-founder faces transfer after 30-day jail ordeal",
-    "link": "https://cointelegraph.com/news/samourai-wallet-co-founder-30-day-prison-transfer?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Fri, 25 Sep 2026 07:28:18 +0000",
-    "source": "Cointelegraph",
-    "category": "crypto",
-    "content": "Keonne Rodriguez says he and 70 others face another move after their treatment program was deactivated. His previous transfer took 30 days.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3BM3DN348KFGP7858XFMCWJ/prison.png",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "Australian PM warns of AI’s ‘furious pace’ after agent breached government site",
-    "link": "https://cointelegraph.com/news/australia-pm-warns-of-ais-furious-pace-after-agent-breached-government-site?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Fri, 25 Sep 2026 05:06:22 +0000",
-    "source": "Cointelegraph",
-    "category": "crypto",
-    "content": "Anthony Albanese said governments must help shape AI’s development, after revealing earlier that an OpenAI agent accessed non-public files on an Australian Medicare data portal.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3BE8B62GS1E629MH9VCZDBG/ai-hack-australia.jpg",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "Researchers propose Zcash-style private Bitcoin transfers without a soft fork ",
-    "link": "https://cointelegraph.com/news/shielded-bitcoin-zcash-style-privacy-no-soft-fork?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Fri, 25 Sep 2026 04:41:06 +0000",
-    "source": "Cointelegraph",
-    "category": "crypto",
-    "content": "Shielded Bitcoin would use zero-knowledge proofs and encrypted notes to hide transaction details without changing Bitcoin consensus, but researchers have raised questions about anonymity and quantum resistance.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3BDDFF8HPKJW2SF5YG537KT/shielded-bitcoin.png",
-    "summary": "",
-    "importance": 5
   },
   {
     "title": "Block brings Bitcoin Lightning payments to x402 for AI agents",
@@ -561,28 +589,6 @@
     "category": "crypto",
     "content": "US Treasury yields hit a 19-year high on Thursday, pressuring risk assets as Bitcoin held near $84,000 and ONDO became top performer among altcoins.",
     "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3AGHD04QX5Q0GBBZ75P2EB6/hi-blockchain-explanatory-articles-for-the-very-beginner-ondo-2.jpg",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "DoubleZero brings dedicated fiber market data to Hyperliquid traders",
-    "link": "https://cointelegraph.com/news/doublezero-brings-dedicated-fiber-market-data-hyperliquid-traders?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Thu, 24 Sep 2026 20:04:07 +0000",
-    "source": "Cointelegraph",
-    "category": "crypto",
-    "content": "DoubleZero launched a dedicated fiber market data feed for Hyperliquid, giving professional trading firms faster access to its full order book.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3AEQ9Y8JV78QH3H8M1G3403/analitycs2021-hype-1.jpg",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "Crypto treasury model loses its edge as stock premiums fade: DWF",
-    "link": "https://cointelegraph.com/news/crypto-treasury-firms-below-nav-sequans-bitcoin-exit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Thu, 24 Sep 2026 17:14:35 +0000",
-    "source": "Cointelegraph",
-    "category": "crypto",
-    "content": "Most DATs now trade below the value of their crypto holdings, weakening a financing model that once helped companies expand their balance sheets.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3A24Y0DVXQSBK1VSJST05MZ/bear-bang-reg-falling-crypto.jpg",
     "summary": "",
     "importance": 5
   },
