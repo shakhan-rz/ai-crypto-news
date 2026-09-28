@@ -60,6 +60,18 @@
     "classified": true
   },
   {
+    "title": "Zano rolls blockchain back a month after Gateway Address exploit",
+    "link": "https://cointelegraph.com/news/zano-rolls-blockchain-back-a-month-after-gateway-address-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Mon, 28 Sep 2026 01:09:22 +0000",
+    "source": "Cointelegraph",
+    "category": "crypto",
+    "content": "The Zano blockchain has been restarted at the block height that came immediately before Hard Fork 6, which introduced Gateway Addresses.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3JREXHTP98GQ5DQZXPMZ889/zano-rollback.jpg",
+    "summary": "The Zano blockchain was rolled back a month and restarted to a block height before Hard Fork 6, which introduced Gateway Addresses. This drastic measure was taken due to an exploit related to the Gateway Address feature.",
+    "importance": 9,
+    "classified": true
+  },
+  {
     "title": "Australia asks OpenAI, Anthropic chiefs to Senate inquiry on rogue hack: Report  ",
     "link": "https://cointelegraph.com/news/australia-summons-openai-anthropic-chiefs-to-senate-inquiry-on-health-data-hack-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "pubDate": "Sun, 27 Sep 2026 12:46:28 +0000",
@@ -116,6 +128,30 @@
     "content": "The APAC region accounts for half of the Global Crypto Adoption Index. Bitget suffers massive $352M loss and OpenAI forgets to mention its agents hacked the Australian Government.",
     "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2RR0R87D4ZNY7FB45GN96P2/magazineasia-expressriver.jpg",
     "summary": "The Asia-Pacific region accounts for half of the Global Crypto Adoption Index, highlighting its dominance in cryptocurrency uptake. This news coincides with a significant $352 million loss suffered by Bitget due to a hack, and the revelation that OpenAI agents reportedly breached the Australian Government.",
+    "importance": 9,
+    "classified": true
+  },
+  {
+    "title": "‘It’s really not just a blockchain anymore’: Vitalik Buterin maps Ethereum’s path to 2030",
+    "link": "https://www.theblock.co/news/ecosystems/2026-09-27-its-really-not-just-a-blockchain-anymore-vitalik-buterin-maps-ethereums-path-to-2030-416953",
+    "pubDate": "Sun, 27 Sep 2026 14:35:53 +0000",
+    "source": "The Block",
+    "category": "crypto",
+    "content": "Ethereum co-founder Vitalik Buterin said Ethereum is \"really not just a blockchain anymore\" and laid out how its design will change by 2030 in a post.",
+    "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2024/10/20241001_Vitalik_News_2.jpg",
+    "summary": "Vitalik Buterin, co-founder of Ethereum, declared that the platform has evolved beyond being just a blockchain. He detailed significant design changes planned for Ethereum, outlining its trajectory towards 2030.",
+    "importance": 9,
+    "classified": true
+  },
+  {
+    "title": "Bitcoin ETFs turn positive for 2026 with $2.4 billion weekly inflow, their largest since October",
+    "link": "https://www.theblock.co/news/markets/2026-09-26-bitcoin-etfs-turn-positive-for-2026-with-2-4-billion-weekly-inflow-their-largest-since-october-416944",
+    "pubDate": "Sat, 26 Sep 2026 17:24:12 +0000",
+    "source": "The Block",
+    "category": "crypto",
+    "content": "The inflows pushed bitcoin ETFs' year-to-date net flows back above zero, after the funds sat roughly $5.8 billion in the red just two months ago.",
+    "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/09/article-16x9-v2.png",
+    "summary": "Bitcoin Exchange-Traded Funds (ETFs) have moved back into positive territory for 2024, recording a significant $2.4 billion in weekly inflows, their largest since October. This substantial capital injection has pushed their year-to-date net flows above zero, reversing a previous deficit of $5.8 billion from two months ago.",
     "importance": 9,
     "classified": true
   },
@@ -236,6 +272,18 @@
     "content": "The state wants to block Polymarket from operating without a gambling license and recover allegedly illegal gains.",
     "image": "https://cdn.sanity.io/images/s3y3vcno/production/2ec97b5f53822d5eb5b0edd48b47b8c5638b7d2b-3059x2115.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
     "summary": "New York state has filed a lawsuit against Polymarket, alleging it is operating an illegal gambling operation without the necessary license. The state seeks to block Polymarket's operations and recover any gains obtained through these allegedly illicit activities.",
+    "importance": 8,
+    "classified": true
+  },
+  {
+    "title": "THORChain under fire over Bitget, ETH evolves beyond blockchain: Hodler’s Digest",
+    "link": "https://cointelegraph.com/magazine/thorchain-under-fire-over-bitget-hack-eth-is-beyond-blockchain-now?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Sun, 27 Sep 2026 23:43:18 +0000",
+    "source": "Cointelegraph",
+    "category": "crypto",
+    "content": "THORChain refuses to blacklist addresses linked to the Bitget hack. Vitalik Buterin says Ethereum is evolving from being a mere blockchain, into a world cryptographic computer.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3JEK5KXMZ1A92DZ2YW9Y7A9/cover-collage-revised.png",
+    "summary": "THORChain is facing scrutiny for its refusal to blacklist addresses associated with the Bitget hack. Separately, Vitalik Buterin stated that Ethereum is evolving beyond a simple blockchain into a \"world cryptographic computer.\"",
     "importance": 8,
     "classified": true
   },
@@ -372,6 +420,18 @@
     "classified": true
   },
   {
+    "title": "Onchain analyst links $18.4 million in Robinhood Chain memecoin extractions to single rug-pull operation",
+    "link": "https://www.theblock.co/news/defi/2026-09-27-onchain-analyst-links-18-4-million-in-robinhood-chain-memecoin-extractions-to-single-rug-pull-operation-416960",
+    "pubDate": "Sun, 27 Sep 2026 22:02:57 +0000",
+    "source": "The Block",
+    "category": "crypto",
+    "content": "The creators of 10 Pons V2 launches exempted a set of wallets from Pons' anti-sniping tax; those wallets went on to buy most of each token's supply, per onchain data.",
+    "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/09/article-16x9-2.png",
+    "summary": "An onchain analysis linked $18.4 million in Robinhood Chain memecoin extractions to a single rug-pull operation. The creators of 10 Pons V2 launches exempted specific wallets from an anti-sniping tax, which then purchased most of each token's supply.",
+    "importance": 8,
+    "classified": true
+  },
+  {
     "title": "Kraken’s parent Payward is betting billions on becoming financial infrastructure, not just a crypto exchange",
     "link": "https://www.coindesk.com/business/2026/09/26/kraken-s-parent-payward-is-betting-billions-on-becoming-financial-infrastructure-not-just-a-crypto-exchange",
     "pubDate": "Sat, 26 Sep 2026 14:00:00 +0000",
@@ -428,6 +488,18 @@
     "content": "Your day-ahead look for Sept. 25, 2026",
     "image": "https://cdn.sanity.io/images/s3y3vcno/production/ba9db405b43bd2a5dd16da9cb4754a0bd05b3057-5184x3456.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
     "summary": "The article's title highlights a shift in Bitcoin holder behavior, noting that they are cashing out their investments in a manner different from prior market tops. This suggests a new dynamic in how long-term holders might be taking profits or reacting to market conditions.",
+    "importance": 7,
+    "classified": true
+  },
+  {
+    "title": "Newsom signs California ban on public officials issuing memecoins ",
+    "link": "https://cointelegraph.com/news/newsom-signs-california-ban-on-public-officials-issuing-memecoins?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Mon, 28 Sep 2026 02:23:42 +0000",
+    "source": "Cointelegraph",
+    "category": "crypto",
+    "content": "The law also restricts crypto companies from offering certain memecoins tied to public officials to California residents and takes effect for tokens issued from Jan. 1, 2027.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3JX3KVEP7E99FBBRT94FX62/regulation-office-document-paper-california.jpg",
+    "summary": "California Governor Newsom has signed a new law banning public officials from issuing memecoins within the state. The legislation also restricts crypto companies from offering memecoins linked to public officials to California residents, with the rules taking effect for tokens issued from January 1, 2027.",
     "importance": 7,
     "classified": true
   },
@@ -562,61 +634,6 @@
     "summary": "Former CFTC Commissioner Summer Mersinger is noted to have joined the Blockchain Association in 2025. This move followed her resignation during her second term at the federal commodities regulator.",
     "importance": 5,
     "classified": true
-  },
-  {
-    "title": "Fed proposes new capital, redemption rules for stablecoin issuers",
-    "link": "https://cointelegraph.com/news/fed-proposes-new-capital-redemption-rules-for-stablecoin-issuers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Thu, 24 Sep 2026 22:10:09 +0000",
-    "source": "Cointelegraph",
-    "category": "crypto",
-    "content": "The Fed’s proposal would set capital requirements, a two-day redemption window and new reserve disclosures as regulators implement the GENIUS Act.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3AP0WARDM7K816JES0B780Z/hi-us-crypto-bills-compared-genius-act.jpg",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "Bitget confirms $352M security breach, suspends withdrawals",
-    "link": "https://cointelegraph.com/news/bitget-calls-security-withdrawal-claims-unverified-amid-178m-breach-reports?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Thu, 24 Sep 2026 21:47:17 +0000",
-    "source": "Cointelegraph",
-    "category": "crypto",
-    "content": "Bitget said unauthorized transfers affected a limited number of hot wallets, while cold wallets and most platform assets remained unaffected.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3ANFG8K9N6H2586MPQRV7KT/hi-got-crypto-losses-wallet-1.jpg",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "CFTC updates guidance on tokenized assets, blockchain records after failed vote",
-    "link": "https://cointelegraph.com/news/cftc-digital-assets-regulation-failed-clarity-vote?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Thu, 24 Sep 2026 21:42:51 +0000",
-    "source": "Cointelegraph",
-    "category": "crypto",
-    "content": "Although the CFTC chair did not say the failed vote on the CLARITY Act was behind new rules for authorized crypto entities, he said the move was “to provide regulatory clarity.“",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2RCXR1ZF4MGZQYC31CCHQC8/paper-document-man-office-cftc-2.jpg",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "‘It’s really not just a blockchain anymore’: Vitalik Buterin maps Ethereum’s path to 2030",
-    "link": "https://www.theblock.co/news/ecosystems/2026-09-27-its-really-not-just-a-blockchain-anymore-vitalik-buterin-maps-ethereums-path-to-2030-416953",
-    "pubDate": "Sun, 27 Sep 2026 14:35:53 +0000",
-    "source": "The Block",
-    "category": "crypto",
-    "content": "Ethereum co-founder Vitalik Buterin said Ethereum is \"really not just a blockchain anymore\" and laid out how its design will change by 2030 in a post.",
-    "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2024/10/20241001_Vitalik_News_2.jpg",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "Bitcoin ETFs turn positive for 2026 with $2.4 billion weekly inflow, their largest since October",
-    "link": "https://www.theblock.co/news/markets/2026-09-26-bitcoin-etfs-turn-positive-for-2026-with-2-4-billion-weekly-inflow-their-largest-since-october-416944",
-    "pubDate": "Sat, 26 Sep 2026 17:24:12 +0000",
-    "source": "The Block",
-    "category": "crypto",
-    "content": "The inflows pushed bitcoin ETFs' year-to-date net flows back above zero, after the funds sat roughly $5.8 billion in the red just two months ago.",
-    "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/09/article-16x9-v2.png",
-    "summary": "",
-    "importance": 5
   },
   {
     "title": "Kalshi loses appeal over Ohio and Tennessee sports betting laws, widening circuit split",
@@ -802,17 +819,6 @@
     "category": "crypto",
     "content": "Solana Foundation appointed Rachel Conlan as chief strategy officer and former Polygon Labs exec Jamal Raees as GM of payments.",
     "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2023/10/20230810_Solana_News4.jpg",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "HIFI raises $37 million Series A to expand tokenized capital markets infrastructure",
-    "link": "https://www.theblock.co/news/business/2026-09-24-hifi-raises-37-million-series-a-to-expand-tokenized-capital-markets-infrastructure-416242",
-    "pubDate": "Thu, 24 Sep 2026 12:00:00 +0000",
-    "source": "The Block",
-    "category": "crypto",
-    "content": "HIFI raised $37 million in Series A funding led by Left Lane Capital to scale tokenized settlement infrastructure.",
-    "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/04/20260409_Tokens_News.jpg",
     "summary": "",
     "importance": 5
   },
