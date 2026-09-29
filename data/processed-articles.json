@@ -216,18 +216,6 @@
     "classified": true
   },
   {
-    "title": "Tether says it had ‘limited’ exposure to bank linked to $84M US seizure",
-    "link": "https://cointelegraph.com/news/us-authorities-seize-accounts-tether-bitfinex?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Fri, 25 Sep 2026 18:56:53 +0000",
-    "source": "Cointelegraph",
-    "category": "crypto",
-    "content": "US prosecutors alleged that a payments business illegally transferred hundreds of millions of dollars at the direction of EQIBank, where Tether holds some assets.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3CMJJSCGPAGYWMC5WQF9J64/hi-what-happens-to-seized-cryptocurrency-1.jpg",
-    "summary": "Tether reported \"limited\" exposure to EQIBank, a bank implicated in a US seizure of $84 million due to allegations that a payments business illegally transferred hundreds of millions of dollars under the bank's direction. US prosecutors are investigating EQIBank's role in these illicit activities.",
-    "importance": 8,
-    "classified": true
-  },
-  {
     "title": "Onchain analyst links $18.4 million in Robinhood Chain memecoin extractions to single rug-pull operation",
     "link": "https://www.theblock.co/news/defi/2026-09-27-onchain-analyst-links-18-4-million-in-robinhood-chain-memecoin-extractions-to-single-rug-pull-operation-416960",
     "pubDate": "Sun, 27 Sep 2026 22:02:57 +0000",
@@ -248,6 +236,18 @@
     "content": "The bank is bringing its roughly $100 billion Treasury fund to institutional crypto firms without creating a tokenized version of it.",
     "image": "https://cdn.sanity.io/images/s3y3vcno/production/60dbe787741b3cbc62bdc5cb2d6cb94fbe3ea9ea-5800x3868.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
     "summary": "Goldman Sachs is integrating its approximately $100 billion Treasury fund with institutional crypto firms. This move signifies a major traditional financial institution connecting a significant asset with the crypto ecosystem, notably without tokenizing the fund itself.",
+    "importance": 7,
+    "classified": true
+  },
+  {
+    "title": "RedotPay completes financial audit as it presses ahead with U.S. IPO plans",
+    "link": "https://www.coindesk.com/business/2026/09/28/redotpay-completes-financial-audit-as-it-presses-ahead-with-u-s-ipo-plans",
+    "pubDate": "Mon, 28 Sep 2026 07:50:00 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "The stablecoin payments company said the audit is part of its preparations to go public, disputing an August report that the listing had been put on hold.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/b809e903b20dd26de1240800f8539bcb475389ca-1500x1000.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "Stablecoin payments company RedotPay has completed its financial audit, a key step in its preparations for a U.S. initial public offering (IPO). The company confirmed it is pressing ahead with its listing plans, disputing an August report that its IPO had been put on hold.",
     "importance": 7,
     "classified": true
   },
@@ -402,17 +402,6 @@
     "importance": 5
   },
   {
-    "title": "RedotPay completes financial audit as it presses ahead with U.S. IPO plans",
-    "link": "https://www.coindesk.com/business/2026/09/28/redotpay-completes-financial-audit-as-it-presses-ahead-with-u-s-ipo-plans",
-    "pubDate": "Mon, 28 Sep 2026 07:50:00 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "The stablecoin payments company said the audit is part of its preparations to go public, disputing an August report that the listing had been put on hold.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/b809e903b20dd26de1240800f8539bcb475389ca-1500x1000.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "",
-    "importance": 5
-  },
-  {
     "title": "California's Newsom signs memecoin ban and calls it 'The Opposite of Trump'",
     "link": "https://www.coindesk.com/markets/2026/09/28/california-s-newsom-signs-memecoin-ban-and-calls-it-the-opposite-of-trump",
     "pubDate": "Mon, 28 Sep 2026 06:21:52 +0000",
@@ -442,6 +431,28 @@
     "category": "crypto",
     "content": "Trump on Sunday didn’t rule out additional strikes on Iran before the midterm elections, even as he said the war could end soon.",
     "image": "https://cdn.sanity.io/images/s3y3vcno/production/c76047d96bfdc52edf0fb1572c41862de3f9f133-2183x1153.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "",
+    "importance": 5
+  },
+  {
+    "title": "Nvidia unveils AI safety platform to rein in ‘rogue’ AI agents",
+    "link": "https://cointelegraph.com/news/nvidia-unveils-ai-safety-platform-to-rein-in-rogue-ai-agents?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Tue, 29 Sep 2026 02:32:36 +0000",
+    "source": "Cointelegraph",
+    "category": "crypto",
+    "content": "The launch comes after several AI agents breached their testing environments this year, adding to calls for companies to slow the development of autonomous AI systems.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3NFQG24CAJRKQ11WXQF5MZS/ai-containment.jpg",
+    "summary": "",
+    "importance": 5
+  },
+  {
+    "title": "NEAR Intents says it blocked $50M tied to Bitget hackers ",
+    "link": "https://cointelegraph.com/news/near-intents-says-it-blocked-50m-tied-to-bitget-hackers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Tue, 29 Sep 2026 01:17:49 +0000",
+    "source": "Cointelegraph",
+    "category": "crypto",
+    "content": "The cross-chain protocol said it actively prevents stolen funds from being laundered, drawing a contrast with THORChain’s position that it does not selectively censor transactions.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3NBRAAT0NCB2NNTGMK1CR22/block.jpg",
     "summary": "",
     "importance": 5
   },
@@ -633,16 +644,15 @@
     "importance": 5
   },
   {
-    "title": "Ex-CFTC leader to leave Blockchain Association after CLARITY vote fails",
-    "link": "https://cointelegraph.com/news/cftc-commissioner-leaving-blockchain-association-ceo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Fri, 25 Sep 2026 20:26:40 +0000",
-    "source": "Cointelegraph",
+    "title": "Coinbase receives DCO approval from CFTC, completing full derivatives stack",
+    "link": "https://www.theblock.co/news/business/2026-09-28-coinbase-dco-approval-417105",
+    "pubDate": "Tue, 29 Sep 2026 02:02:36 +0000",
+    "source": "The Block",
     "category": "crypto",
-    "content": "Former CFTC Commissioner Summer Mersinger joined the Blockchain Association in 2025 after resigning during her second term at the federal commodities regulator.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3D2CSJVVHTXWXSFEBTMN9GF/leaving-the-company-plain-1.jpg",
-    "summary": "Former CFTC Commissioner Summer Mersinger is noted to have joined the Blockchain Association in 2025. This move followed her resignation during her second term at the federal commodities regulator.",
-    "importance": 5,
-    "classified": true
+    "content": "This completes Coinbase's derivatives infrastructure, allowing it to list, broker, and clear fully collateralized products in-house.",
+    "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/06/20260612_Coinbase_News.jpg",
+    "summary": "",
+    "importance": 5
   },
   {
     "title": "Tether’s USDT at center of Iran’s shadow banking network, new Senate Report says",
@@ -821,17 +831,6 @@
     "importance": 5
   },
   {
-    "title": "Ethena expands USDe backing strategy into bStocks and equity perpetuals on Binance",
-    "link": "https://www.theblock.co/news/deals/2026-09-25-ethena-expands-usde-backing-strategy-into-bstocks-and-equity-perpetuals-on-binance-416367",
-    "pubDate": "Fri, 25 Sep 2026 11:00:00 +0000",
-    "source": "The Block",
-    "category": "crypto",
-    "content": "Ethena is adding Binance bStocks and equity perpetuals to the basis trade used for USDe's backing strategy.",
-    "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/06/20260612_Ethena_News.jpg",
-    "summary": "",
-    "importance": 5
-  },
-  {
     "title": "Belarus Approves the Country’s First Crypto Banks: Report ",
     "link": "https://bitcoinmagazine.com/news/belarus-approves-first-crypto-banks",
     "pubDate": "Mon, 28 Sep 2026 20:51:38 +0000",
@@ -942,6 +941,17 @@
     "importance": 5
   },
   {
+    "title": "Roundtables: The Deadly Failures of The Virtual Border Wall",
+    "link": "https://www.technologyreview.com/2026/09/28/1144890/roundtables-the-deadly-failures-of-the-virtual-border-wall/",
+    "pubDate": "Mon, 28 Sep 2026 22:17:07 +0000",
+    "source": "MIT Technology Review",
+    "category": "ai",
+    "content": "Listen to the session or watch below The US has spent billions building a “virtual wall” of surveillance towers along its southern border over the past 25 years, promising they will help detect and apprehend border crossers and save lives. But a groundbreaking investigation by MIT Technology Review has documented over a thousand people who…",
+    "image": "",
+    "summary": "",
+    "importance": 5
+  },
+  {
     "title": "When can we say AI made a scientific discovery?",
     "link": "https://www.technologyreview.com/2026/09/28/1145230/when-can-we-say-ai-made-a-scientific-discovery/",
     "pubDate": "Mon, 28 Sep 2026 17:03:16 +0000",
@@ -1041,13 +1051,35 @@
     "importance": 5
   },
   {
-    "title": "The Download: India’s smart glasses menace and AI’s trillion-dollar gamble",
-    "link": "https://www.technologyreview.com/2026/09/23/1144966/the-download-india-smart-glasses-ai-trillion-dollar-gamble/",
-    "pubDate": "Wed, 23 Sep 2026 12:10:00 +0000",
-    "source": "MIT Technology Review",
+    "title": "Peak XV ups Surge seed investment ceiling to $5M, unveils 18-startup cohort",
+    "link": "https://techcrunch.com/2026/09/28/peak-xv-goes-bigger-at-seed-with-new-surge-cohort-as-series-a-bar-rises/",
+    "pubDate": "Tue, 29 Sep 2026 00:30:00 +0000",
+    "source": "TechCrunch AI",
     "category": "ai",
-    "content": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Smart glasses are already causing havoc in India When Shubnam saw an Instagram video of a Delhi protest they had attended, they realized a content creator wearing Meta smart glasses had…",
-    "image": "https://wp.technologyreview.com/wp-content/uploads/2026/09/PainChek-Montage-3-edited.jpg",
+    "content": "Thirteen of the 18 startups in Peak XV’s latest Surge cohort are targeting global markets, while more than half are based in India.",
+    "image": "",
+    "summary": "",
+    "importance": 5
+  },
+  {
+    "title": "OpenAI reportedly ditches model over safety concerns",
+    "link": "https://techcrunch.com/2026/09/28/openai-reportedly-ditches-model-over-safety-concerns/",
+    "pubDate": "Mon, 28 Sep 2026 23:39:20 +0000",
+    "source": "TechCrunch AI",
+    "category": "ai",
+    "content": "A top executive at the AI lab told the Wall Street Journal that the model in question had displayed a poor aptitude for following orders.",
+    "image": "",
+    "summary": "",
+    "importance": 5
+  },
+  {
+    "title": "Source: Inference provider Modal Labs closing in on $750M round at $15.75B valuation",
+    "link": "https://techcrunch.com/2026/09/28/source-inference-provider-modal-labs-closing-in-on-750m-round-at-15-75b-valuation/",
+    "pubDate": "Mon, 28 Sep 2026 21:29:18 +0000",
+    "source": "TechCrunch AI",
+    "category": "ai",
+    "content": "The new financing is expected to more than triples the AI infrastructure startup's valuation from just four months ago.",
+    "image": "",
     "summary": "",
     "importance": 5
   },
@@ -1074,12 +1106,23 @@
     "importance": 5
   },
   {
+    "title": "The AI boom took over Climate Week and not everyone is happy about it",
+    "link": "https://techcrunch.com/2026/09/28/the-ai-boom-took-over-climate-week-and-not-everyone-is-happy-about-it/",
+    "pubDate": "Mon, 28 Sep 2026 19:21:59 +0000",
+    "source": "TechCrunch AI",
+    "category": "ai",
+    "content": "Just like the rest of the U.S., data centers and AI are dividing climate tech founders and investors.",
+    "image": "",
+    "summary": "",
+    "importance": 5
+  },
+  {
     "title": "Nvidia launches new platform for reining in rogue AI agents",
     "link": "https://techcrunch.com/2026/09/28/nvidia-launches-new-platform-for-reining-in-rogue-ai-agents/",
     "pubDate": "Mon, 28 Sep 2026 18:31:23 +0000",
     "source": "TechCrunch AI",
     "category": "ai",
-    "content": "As the debate rages over whether the recent spate of rogue AI agents is a step toward AGI or a more conventional engineering problem, Nvidia is offering its own answer to problem. Nvidia CEO Jensen Huang on Monday introduced a toolkit of software and hardware products that add independent security layers around AI agents to […]",
+    "content": "Nvidia CEO Jensen Huang on Monday introduced a toolkit of software and hardware products that add independent security layers around AI agents to ensure they stay within their test environments even if they attempt to break out.",
     "image": "",
     "summary": "",
     "importance": 5
@@ -1101,7 +1144,7 @@
     "pubDate": "Mon, 28 Sep 2026 17:29:50 +0000",
     "source": "TechCrunch AI",
     "category": "ai",
-    "content": "As all-in-one AI agents like Meta's Muse and Instinct take off, Google is opting to end a feature which built task-specific agents.",
+    "content": "As all-in-one AI agents like Meta's Muse and Instinct take off, Google is opting to end a feature that built task-specific agents.",
     "image": "",
     "summary": "",
     "importance": 5
@@ -1211,7 +1254,7 @@
     "pubDate": "Sun, 27 Sep 2026 20:34:28 +0000",
     "source": "TechCrunch AI",
     "category": "ai",
-    "content": "This will be the first one-on-one meeting between Dario Amodei and Donald Trump",
+    "content": "This will be the first one-on-one meeting between Dario Amodei and Donald Trump.",
     "image": "",
     "summary": "",
     "importance": 5
@@ -1228,46 +1271,13 @@
     "importance": 5
   },
   {
-    "title": "Anthropic’s Dario Amodei gets the SNL treatment",
-    "link": "https://techcrunch.com/2026/09/27/anthropics-dario-amodei-gets-the-snl-treatment/",
-    "pubDate": "Sun, 27 Sep 2026 16:30:00 +0000",
-    "source": "TechCrunch AI",
+    "title": "AMD is acquiring AI company World Labs in a deal worth more than $8 billion",
+    "link": "https://www.theverge.com/tech/1001749/amd-world-labs-ai-acquisition-deal",
+    "pubDate": "2026-09-28T21:31:35.000Z",
+    "source": "The Verge AI",
     "category": "ai",
-    "content": "\"AI is the devil and I its maker.\"",
-    "image": "",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "Google tests buying from Walmart-owned Flipkart through Gemini and AI Mode in India",
-    "link": "https://techcrunch.com/2026/09/26/google-tests-buying-from-walmart-owned-flipkart-through-gemini-and-ai-mode-in-india/",
-    "pubDate": "Sun, 27 Sep 2026 01:30:00 +0000",
-    "source": "TechCrunch AI",
-    "category": "ai",
-    "content": "The limited test covers select products and users, with a broader rollout planned for later in October.",
-    "image": "",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "Insurers claim AI is already increasing healthcare costs",
-    "link": "https://techcrunch.com/2026/09/26/insurers-claim-ai-is-already-increasing-healthcare-costs/",
-    "pubDate": "Sat, 26 Sep 2026 21:02:06 +0000",
-    "source": "TechCrunch AI",
-    "category": "ai",
-    "content": "Blue Cross Blue Shield says hospital use of AI tools led to an additional $942M in healthcare spending over a two-year period.",
-    "image": "",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "I created an interactive digital avatar of myself — and you can talk to it",
-    "link": "https://techcrunch.com/2026/09/26/i-created-an-interactive-digital-avatar-of-myself-and-you-can-talk-to-it/",
-    "pubDate": "Sat, 26 Sep 2026 14:00:00 +0000",
-    "source": "TechCrunch AI",
-    "category": "ai",
-    "content": "After obtaining an interactive avatar and training it to discuss venture fraud, I have mixed feelings about making AI clones of ourselves.",
-    "image": "",
+    "content": "World Labs co-founder and CEO Fei-Fei Li. | Bloomberg via Getty Images\t\n\nAMD announced today that it's acquiring World Labs, an AI research lab co-founded by the prominent researcher Dr. Fei-Fei Li, in an all-stock deal worth approximately $8.2 billion. World Labs launched in 2024 and was valued at $1 billion in a matter of months. The startup launched its first commercial product, a world generation model called Marble that lets users make interactive 3D worlds from a prompt, in 2025.\nThe deal is expected to close by the end of the year. Li will become EVP and chief scientist at AMD, reporting to AMD CEO Lisa Su, while the World Labs team will \"continue to focus on advancing AI model research.\" AMD also notes t …\nRead the full story at The Verge.",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2279092788.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
     "summary": "",
     "importance": 5
   },
@@ -1371,18 +1381,18 @@
     "importance": 5
   },
   {
-    "title": "OpenAI pauses training of its ‘most capable models’",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1001049/openai-training-pause",
-    "pubDate": "2026-09-26T16:34:59.000Z",
-    "source": "The Verge AI",
+    "title": "Experts worry about Nvidia's AI chip sales in China and influence over Trump",
+    "link": "https://arstechnica.com/tech-policy/2026/09/nvidia-may-sell-more-chips-in-china-as-jensen-huangs-influence-over-trump-grows/",
+    "pubDate": "Mon, 28 Sep 2026 21:49:10 +0000",
+    "source": "Ars Technica AI",
     "category": "ai",
-    "content": "As reports of OpenAI's models breaking containment, hacking sites, and generally getting out of control pile up, the company has made the decision to pause training of its most powerful models. The decision was made after a model being tested within a sandbox exploited a loophole to gain internet access. The incident happened on September 20th, and \"All training, evaluation, and inference with tool-use\" remains paused as of Saturday evening, September 25th.\nIn addition, OpenAI revealed on Friday that its agents had inappropriately uploaded 53 images from ChatGPT users to image-hosting sites. The company has not stated if the images were AI- …\nRead the full story at The Verge.",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK155_OPEN_AI_2025_CVirgiia_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "content": "China is reportedly mulling letting ByteDance, Alibaba buy banned Nvidia chips.",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2296993009-1024x648.jpg",
     "summary": "",
     "importance": 5
   },
   {
-    "title": "Florida asks court to put the brakes on OpenAI’s frontier AI development",
+    "title": "Florida invokes extinction fears in legal bid to halt OpenAI development",
     "link": "https://arstechnica.com/ai/2026/09/florida-asks-court-to-put-the-brakes-on-openais-frontier-ai-development/",
     "pubDate": "Mon, 28 Sep 2026 20:49:39 +0000",
     "source": "Ars Technica AI",
@@ -1587,17 +1597,6 @@
     "category": "ai",
     "content": "British Columbia sues OpenAI, demands Tumbler Ridge shooter’s ChatGPT logs.",
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2260756748-1024x648.jpg",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "Toyota orders workers to train humanoid robots but says humans won't be replaced",
-    "link": "https://arstechnica.com/ai/2026/09/toyota-claims-plan-for-400000-factory-robots-wont-replace-human-workers/",
-    "pubDate": "Tue, 22 Sep 2026 17:06:16 +0000",
-    "source": "Ars Technica AI",
-    "category": "ai",
-    "content": "Toyota's push comes as automakers race to develop and deploy humanoid robots.",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/Toyota-motor-manufacturing-plant-1152x648.jpg",
     "summary": "",
     "importance": 5
   },
