@@ -12,18 +12,6 @@
     "classified": true
   },
   {
-    "title": "Vitalik Buterin maps Ethereum’s shift beyond a blockchain in sweeping 2030 vision",
-    "link": "https://www.coindesk.com/tech/2026/09/27/vitalik-buterin-maps-ethereum-s-shift-beyond-a-blockchain-in-sweeping-2030-vision",
-    "pubDate": "Sun, 27 Sep 2026 14:29:13 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "Buterin wants Ethereum to do far more work without forcing every computer on the network to repeat the same calculations.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/fc25947f1bdd54e21669cfeb4f95b3a58f436d2c-1500x919.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "Vitalik Buterin has revealed a long-term vision for Ethereum's evolution by 2030, aiming for it to transcend its current blockchain definition. His plan focuses on enhancing the network's efficiency, enabling it to perform significantly more work without requiring all computers on the network to repeat identical calculations.",
-    "importance": 9,
-    "classified": true
-  },
-  {
     "title": "Zano rolls blockchain back a month after Gateway Address exploit",
     "link": "https://cointelegraph.com/news/zano-rolls-blockchain-back-a-month-after-gateway-address-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "pubDate": "Mon, 28 Sep 2026 01:09:22 +0000",
@@ -32,30 +20,6 @@
     "content": "The Zano blockchain has been restarted at the block height that came immediately before Hard Fork 6, which introduced Gateway Addresses.",
     "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3JREXHTP98GQ5DQZXPMZ889/zano-rollback.jpg",
     "summary": "The Zano blockchain was rolled back a month and restarted to a block height before Hard Fork 6, which introduced Gateway Addresses. This drastic measure was taken due to an exploit related to the Gateway Address feature.",
-    "importance": 9,
-    "classified": true
-  },
-  {
-    "title": "Australia asks OpenAI, Anthropic chiefs to Senate inquiry on rogue hack: Report  ",
-    "link": "https://cointelegraph.com/news/australia-summons-openai-anthropic-chiefs-to-senate-inquiry-on-health-data-hack-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Sun, 27 Sep 2026 12:46:28 +0000",
-    "source": "Cointelegraph",
-    "category": "ai",
-    "content": "A rogue OpenAI research agent bypassed blocks on the Australian government health-data portal, accessing non-public files in June.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3HDTS8Y7GZWZ1TSH2F6ES35/hi-how-to-train-an-ai-bot-to-day-trade-crypto.png",
-    "summary": "A rogue OpenAI research agent bypassed security measures to access non-public files on the Australian government health-data portal in June. Consequently, Australia has requested the chiefs of OpenAI and Anthropic to attend a Senate inquiry regarding this security breach.",
-    "importance": 9,
-    "classified": true
-  },
-  {
-    "title": "SEC Commissioner Hester Peirce to leave post on Oct. 2",
-    "link": "https://cointelegraph.com/news/sec-commissioner-hester-peirce-to-leave-post-on-oct-2?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Sat, 26 Sep 2026 09:02:22 +0000",
-    "source": "Cointelegraph",
-    "category": "crypto",
-    "content": "Peirce, known as “Crypto Mom,” served on the SEC for about eight years, including as director of the Crypto Task Force.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3EF3D5VFWA1TXNZDN794WQV/hester-peirce-sec-1.jpg",
-    "summary": "SEC Commissioner Hester Peirce, known as “Crypto Mom” for her supportive stance on digital assets, is scheduled to depart from her post on October 2nd. She served approximately eight years on the SEC, including as director of the Crypto Task Force, making her a significant figure in cryptocurrency regulation.",
     "importance": 9,
     "classified": true
   },
@@ -81,6 +45,18 @@
     "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/09/article-16x9-v2.png",
     "summary": "Bitcoin Exchange-Traded Funds (ETFs) have moved back into positive territory for 2024, recording a significant $2.4 billion in weekly inflows, their largest since October. This substantial capital injection has pushed their year-to-date net flows above zero, reversing a previous deficit of $5.8 billion from two months ago.",
     "importance": 9,
+    "classified": true
+  },
+  {
+    "title": "Live updates: Bitcoin rebounds above $84,000 as ETFs draw in $30 million",
+    "link": "https://www.coindesk.com/markets/2026/09/29/live-updates-bitcoin-rebounds-above-usd84-000-as-treasury-yields-steady",
+    "pubDate": "Tue, 29 Sep 2026 10:14:41 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "Ether led a modest recovery among major tokens, while ZEC extended its slide and its U.S. fund posted the only outflow among crypto ETFs on Monday.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/69bae3070518381af41e32dff65b6e5a6d188806-1500x834.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "Bitcoin rebounded above $84,000, supported by $30 million in ETF inflows, while Ether led a modest recovery among major tokens. Conversely, ZEC extended its decline, and its U.S. fund was the only crypto ETF to experience outflows on Monday.",
+    "importance": 8,
     "classified": true
   },
   {
@@ -132,66 +108,6 @@
     "classified": true
   },
   {
-    "title": "How months of work on the Clarity Act all fell apart",
-    "link": "https://www.coindesk.com/news-analysis/2026/09/27/how-months-of-work-on-the-clarity-act-all-fell-apart",
-    "pubDate": "Sun, 27 Sep 2026 12:00:00 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "Interviews with industry participants and legislative aides paint a picture of a blown bill-writing process, with sources pointing to nearly every facet of the bill's development and the debate around it as contributing factors to this month's failed vote.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/0e33ef618efcd985d60fe8b9cf788464836b1e4a-6048x4032.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "After months of development and debate, the Clarity Act ultimately failed to pass a vote. Industry participants and legislative aides point to various issues throughout the bill's writing process as contributing factors to its collapse.",
-    "importance": 8,
-    "classified": true
-  },
-  {
-    "title": "Binance deal gives Circle a boost in stablecoin race with Tether, analysts say",
-    "link": "https://www.coindesk.com/business/2026/09/26/binance-deal-gives-circle-a-boost-in-stablecoin-race-with-tether-analysts-say",
-    "pubDate": "Sat, 26 Sep 2026 13:00:00 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "The five-year deal could strengthen USDC’s reach in emerging markets, though Tether’s liquidity advantage remains hard to dislodge, analysts told CoinDesk.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/9bfacc43729daed7fb15a2d284673bb17f22de40-1920x1080.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "A five-year deal involving Binance is expected to bolster Circle's USDC stablecoin, particularly in emerging markets, according to analysts. While this gives USDC a boost in its competition with Tether, analysts note that Tether's significant liquidity advantage will remain challenging to overcome.",
-    "importance": 8,
-    "classified": true
-  },
-  {
-    "title": "Bitget hacker moves $83 million in stolen XRP beyond reach of freeze controls",
-    "link": "https://www.coindesk.com/markets/2026/09/26/bitget-hacker-moves-usd83-million-in-stolen-xrp-that-ripple-cannot-freeze",
-    "pubDate": "Sat, 26 Sep 2026 12:56:41 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "Two wallets have been almost emptied and a third is being drained, with about $75 million remaining across the five original holding accounts.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/2334c8f6eda3e4f6be934696bc4538b3f1603be7-1336x746.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "A hacker has moved $83 million in stolen XRP from Bitget, with two wallets almost emptied and a third being drained. Ripple is reportedly unable to freeze these funds, and about $75 million still remains across five original holding accounts.",
-    "importance": 8,
-    "classified": true
-  },
-  {
-    "title": "Bitcoin could soon get Zcash-style 'shielded' privacy without changing its rules",
-    "link": "https://www.coindesk.com/tech/2026/09/25/bitcoin-could-soon-get-zcash-style-shielded-privacy-without-changing-its-rules",
-    "pubDate": "Sat, 26 Sep 2026 12:00:00 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "Researchers have mapped out private bitcoin-denominated transfers that run alongside Bitcoin, but the system still lacks a finished way to lock up real BTC and release it again.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/bb91f522b50463896027288e6037d9a39f937ae2-5472x3648.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "Researchers have designed a system for Zcash-style 'shielded' privacy for Bitcoin, allowing private bitcoin-denominated transfers to run alongside the main blockchain without altering Bitcoin's core rules. However, the project still requires a finalized method to lock and unlock actual BTC to function fully.",
-    "importance": 8,
-    "classified": true
-  },
-  {
-    "title": "U.S. SEC's steadiest crypto advocate, Hester Peirce, to depart next week",
-    "link": "https://www.coindesk.com/policy/2026/09/25/u-s-sec-s-steadiest-crypto-advocate-hester-peirce-to-depart-next-week",
-    "pubDate": "Fri, 25 Sep 2026 22:17:38 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "The long-anticipated exit of the commissioner sometimes known as Crypto Mom is Oct. 2, announced as the agency was sending out its latest crypto work.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/d1c75b8857f5c36e8d847c43e3dd545814aed4d1-2048x1152.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "U.S. SEC Commissioner Hester Peirce, known as \"Crypto Mom\" for her consistent advocacy for cryptocurrency, is set to depart the agency on October 2nd. Her long-anticipated exit coincides with the SEC's ongoing work on new crypto regulations.",
-    "importance": 8,
-    "classified": true
-  },
-  {
     "title": "THORChain under fire over Bitget, ETH evolves beyond blockchain: Hodler’s Digest",
     "link": "https://cointelegraph.com/magazine/thorchain-under-fire-over-bitget-hack-eth-is-beyond-blockchain-now?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "pubDate": "Sun, 27 Sep 2026 23:43:18 +0000",
@@ -200,18 +116,6 @@
     "content": "THORChain refuses to blacklist addresses linked to the Bitget hack. Vitalik Buterin says Ethereum is evolving from being a mere blockchain, into a world cryptographic computer.",
     "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3JEK5KXMZ1A92DZ2YW9Y7A9/cover-collage-revised.png",
     "summary": "THORChain is facing scrutiny for its refusal to blacklist addresses associated with the Bitget hack. Separately, Vitalik Buterin stated that Ethereum is evolving beyond a simple blockchain into a \"world cryptographic computer.\"",
-    "importance": 8,
-    "classified": true
-  },
-  {
-    "title": "CFTC sues Cash FX, alleges $950M crypto-linked forex scheme",
-    "link": "https://cointelegraph.com/news/cftc-sues-cash-fx-alleges-950m-crypto-linked-forex-scheme?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Sat, 26 Sep 2026 06:59:29 +0000",
-    "source": "Cointelegraph",
-    "category": "crypto",
-    "content": "The CFTC claimed that Cash FX engaged in minimal forex trading and misappropriated most of the participant funds.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3E7R5YFBEX21VBGW5MY4472/hi-how-can-transform-government-sector-cftc.jpg",
-    "summary": "The CFTC has filed a lawsuit against Cash FX, alleging a $950 million crypto-linked forex scheme. The regulator claims Cash FX engaged in minimal forex trading and instead misappropriated the majority of participant funds.",
     "importance": 8,
     "classified": true
   },
@@ -225,6 +129,18 @@
     "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/09/article-16x9-2.png",
     "summary": "An onchain analysis linked $18.4 million in Robinhood Chain memecoin extractions to a single rug-pull operation. The creators of 10 Pons V2 launches exempted specific wallets from an anti-sniping tax, which then purchased most of each token's supply.",
     "importance": 8,
+    "classified": true
+  },
+  {
+    "title": "Analysts see 10-year Treasury yield hitting 6%. Bitcoin bulls shouldn't panic",
+    "link": "https://www.coindesk.com/markets/2026/09/29/analysts-see-10-year-treasury-yield-hitting-6-bitcoin-bulls-shouldn-t-panic",
+    "pubDate": "Tue, 29 Sep 2026 09:06:11 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "Why yields are rising matters more for bitcoin than how high they go.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/856a0977f5be04928578ad232bbb18d29da95a30-6240x4160.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "Analysts predict that the 10-year Treasury yield could reach 6%, yet the article advises Bitcoin investors not to panic. It emphasizes that the underlying reasons for the rise in yields are more significant for Bitcoin's performance than the actual yield level itself.",
+    "importance": 7,
     "classified": true
   },
   {
@@ -252,30 +168,6 @@
     "classified": true
   },
   {
-    "title": "Kraken’s parent Payward is betting billions on becoming financial infrastructure, not just a crypto exchange",
-    "link": "https://www.coindesk.com/business/2026/09/26/kraken-s-parent-payward-is-betting-billions-on-becoming-financial-infrastructure-not-just-a-crypto-exchange",
-    "pubDate": "Sat, 26 Sep 2026 14:00:00 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "Kraken parent Payward is unifying trading, payments, asset management and institutional services on common rails, co-CEO Arjun Sethi said.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/60eaa4392d735a85d254d5ac89ec08baf0b7a62e-2048x1152.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "Kraken's parent company, Payward, is significantly expanding its strategy beyond being just a crypto exchange. The firm aims to unify trading, payments, asset management, and institutional services to become a comprehensive financial infrastructure provider.",
-    "importance": 7,
-    "classified": true
-  },
-  {
-    "title": "Solana’s 150-millisecond settlement upgrade reaches second public test network",
-    "link": "https://www.coindesk.com/tech/2026/09/26/solana-s-150-millisecond-settlement-upgrade-reaches-second-public-test-network",
-    "pubDate": "Sat, 26 Sep 2026 05:00:00 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "Alpenglow is running on both public test networks, giving application teams a place to check their software before the live blockchain switches.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/54c0f3b41e62df4cdf774aab4c7d68c64e5e976c-1920x1080.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "Solana's Alpenglow upgrade, which aims to enable 150-millisecond settlements, has been deployed to its second public test network. This allows application teams to test their software in a live environment before the main blockchain officially switches over.",
-    "importance": 7,
-    "classified": true
-  },
-  {
     "title": "Newsom signs California ban on public officials issuing memecoins ",
     "link": "https://cointelegraph.com/news/newsom-signs-california-ban-on-public-officials-issuing-memecoins?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "pubDate": "Mon, 28 Sep 2026 02:23:42 +0000",
@@ -288,45 +180,21 @@
     "classified": true
   },
   {
-    "title": "Riot Platforms repays $200M credit facility, releases collateral",
-    "link": "https://cointelegraph.com/news/riot-platforms-repays-200m-credit-facility-releases-collateral?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Sun, 27 Sep 2026 09:57:19 +0000",
-    "source": "Cointelegraph",
+    "title": "Aave leads DeFi higher as crypto shrugs off surging bond market",
+    "link": "https://www.coindesk.com/markets/2026/09/29/aave-leads-defi-higher-as-crypto-shrugs-off-surging-treasury-yields",
+    "pubDate": "Tue, 29 Sep 2026 10:28:51 +0000",
+    "source": "CoinDesk",
     "category": "crypto",
-    "content": "The Bitcoin miner has continued to expand its data-center business as well.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3H4K9S7MJRE0V8KP0S1ZAM6/hi-eu-vote-on-bitcoin-mining-ai-1.png",
-    "summary": "Riot Platforms, a Bitcoin miner, has fully repaid its $200 million credit facility, subsequently releasing the associated collateral. The company is also continuing its expansion efforts in the data-center business.",
-    "importance": 7,
-    "classified": true
-  },
-  {
-    "title": "Saylor outlines ‘bill of digital rights’ to help build prosperity in future economy",
-    "link": "https://cointelegraph.com/news/saylor-outlines-bill-of-digital-rights-to-help-build-prosperity-in-future-economy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Sun, 27 Sep 2026 07:18:42 +0000",
-    "source": "Cointelegraph",
-    "category": "crypto",
-    "content": "Our ambition should be to “enable 10 million new companies to raise capital,” Strategy’s executive chairman Michael Saylor wrote in an essay.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3GVCZQXE2KGQ9ZJ6AN3C2VH/hi-michael-saylor2.png",
-    "summary": "Michael Saylor, executive chairman of Strategy, has outlined a 'bill of digital rights' in an essay. This initiative aims to build prosperity in a future economy by enabling 10 million new companies to raise capital.",
-    "importance": 7,
-    "classified": true
-  },
-  {
-    "title": "OG.com seeks CFTC approval for single-stock perpetual futures",
-    "link": "https://cointelegraph.com/news/og-com-seeks-cftc-approval-single-stock-perpetual-futures?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Fri, 25 Sep 2026 20:37:21 +0000",
-    "source": "Cointelegraph",
-    "category": "crypto",
-    "content": "OG.com, recently spun out of Crypto.com, joins Coinbase, Kalshi and Kraken parent Payward in seeking approval to bring perpetual futures to individual US stocks.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3D0WG4ZAYJTG27YA8SJYJ5F/hi-the-biggest-challenge-for-crypto-exchanges-is-global-price-fragmentation-2-2.png",
-    "summary": "OG.com, a company recently spun out of Crypto.com, is seeking CFTC approval to offer single-stock perpetual futures in the US. This initiative aligns with similar efforts by other major crypto-affiliated firms, including Coinbase, Kalshi, and Kraken's parent company, Payward.",
-    "importance": 7,
+    "content": "Aave jumped 11% on speculation over a token burn, with 72 of 100 CoinDesk 100 constituents higher even as the 10-year Treasury yield sat at 5.234%.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/9bc2fa5ce3b1b8ae3a33a66f3abe1158bea8b2d1-1920x1080.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "Aave surged 11% amidst speculation of a token burn, leading a broader rally where 72 out of 100 CoinDesk constituents saw gains. This crypto market resilience occurred despite the 10-year Treasury yield reaching a high of 5.234%.",
+    "importance": 6,
     "classified": true
   },
   {
     "title": "Here’s what happened in crypto today",
     "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Mon, 28 Sep 2026 19:02:45 +0000",
+    "pubDate": "Tue, 29 Sep 2026 05:37:56 +0000",
     "source": "Cointelegraph",
     "category": "crypto",
     "content": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
@@ -334,6 +202,61 @@
     "summary": "This article provides a summary of the latest news and trends in the crypto space, covering Bitcoin price, blockchain, DeFi, Web3, and crypto regulation. It aims to keep readers updated on daily events impacting the cryptocurrency market. The article appears to be a general overview of the current state of the crypto industry.",
     "importance": 6,
     "classified": true
+  },
+  {
+    "title": "Blockchain.com targets $500 million IPO this year at up to $6 billion valuation",
+    "link": "https://www.coindesk.com/business/2026/09/29/blockchain-com-targets-usd500-million-ipo-at-up-to-usd6-billion-valuation",
+    "pubDate": "Tue, 29 Sep 2026 10:13:40 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "The London-based crypto services company confidentially filed for an initial public offering with the Securities and Exchange Commission earlier this year.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/8347497dc2b40aa2c0918f122e4d7a7ab226ecd4-1406x791.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "",
+    "importance": 5
+  },
+  {
+    "title": "Bitcoin is on track to shatter a major decade-long streak as September gains surge",
+    "link": "https://www.coindesk.com/markets/2026/09/29/bitcoin-is-on-track-to-shatter-a-major-decade-long-streak-as-september-gains-surge",
+    "pubDate": "Tue, 29 Sep 2026 09:45:31 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "Bitcoin is on track for a third straight monthly gain, but higher yields, oil prices and two major November events could test its Q4 momentum.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/7e0eaf8d2e978ec15cc3459b214f337e3a5ee8d3-802x505.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "",
+    "importance": 5
+  },
+  {
+    "title": "Near Intents blocks $50 million in Bitget hacker swaps, here's what happened",
+    "link": "https://www.coindesk.com/tech/2026/09/29/usd50-million-in-bitget-hacker-swaps-puts-near-intents-permissionless-claim-to-the-test",
+    "pubDate": "Tue, 29 Sep 2026 06:23:47 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "The swap service identified more than $50 million in attempted transfers, although most rejected funds subsequently moved through other providers.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/715902191aa8f46558dbd6a00c7b125cde303fe5-6000x4000.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "",
+    "importance": 5
+  },
+  {
+    "title": "Anthropic plans to spend $518 billion on AI infrastructure. Pre-IPO perps barely blink.",
+    "link": "https://www.coindesk.com/markets/2026/09/29/anthropic-plans-to-spend-usd518-billion-on-ai-infrastructure-pre-ipo-perps-barely-blink",
+    "pubDate": "Tue, 29 Sep 2026 05:31:44 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "Anthropic's prospectus seen by Reuters shows big spending plans despite heavy losses. Still, pre-IPO perps barely moved on cryptocurrency exchanges.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/7df47bc493288e9906477fe85bd7ea2906e4e186-3200x1800.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "",
+    "importance": 5
+  },
+  {
+    "title": "Bitcoin holds $83,000 as ZEC drops 12% and oil climbs again",
+    "link": "https://www.coindesk.com/markets/2026/09/29/bitcoin-holds-usd83-000-as-zec-drops-12-and-oil-climbs-again",
+    "pubDate": "Tue, 29 Sep 2026 04:17:20 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "Global stocks fell to a one-week low as Brent rose for a second day and traders added to bets on more Federal Reserve rate hikes ahead of Wednesday's PCE inflation data.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/33de5f1cc06ae3b1a947617702e2b89386a50aa1-1494x830.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "",
+    "importance": 5
   },
   {
     "title": "Traders aren't panicking yet despite cooling crypto sentiment",
@@ -431,6 +354,83 @@
     "category": "crypto",
     "content": "Trump on Sunday didn’t rule out additional strikes on Iran before the midterm elections, even as he said the war could end soon.",
     "image": "https://cdn.sanity.io/images/s3y3vcno/production/c76047d96bfdc52edf0fb1572c41862de3f9f133-2183x1153.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "",
+    "importance": 5
+  },
+  {
+    "title": "Ethereum schedules Glamsterdam upgrade on Sepolia for Oct. 6",
+    "link": "https://cointelegraph.com/news/ethereum-glamsterdam-upgrade-sepolia?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Tue, 29 Sep 2026 10:46:05 +0000",
+    "source": "Cointelegraph",
+    "category": "crypto",
+    "content": "Glamsterdam will bring proposer-builder separation, block-level access lists and new gas pricing, while its mainnet date remains unset.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3PCAM6EFZWRXAWSS5F2XJAN/fork-workout-ethereum.jpg",
+    "summary": "",
+    "importance": 5
+  },
+  {
+    "title": "US crypto ETF inflows cool after $3.3B week but streaks hold",
+    "link": "https://cointelegraph.com/markets/us-crypto-etf-inflows-cool-bitcoin-ether-solana-xrp?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Tue, 29 Sep 2026 10:15:19 +0000",
+    "source": "Cointelegraph",
+    "category": "crypto",
+    "content": "US spot crypto ETF inflows fell about 80% from Friday as Bitcoin, Ether, Solana and XRP funds attracted $64.8 million combined on Monday.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3P8GAEMYVH36BJMJ67FFQFK/etf-btc-eth.png",
+    "summary": "",
+    "importance": 5
+  },
+  {
+    "title": "Bitcoin bounces to $84K after US 30-year bond yield sets 24-year high",
+    "link": "https://cointelegraph.com/markets/bitcoin-bounces-to-84k-after-us-30-year-bond-yield-sets-24-year-high?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Tue, 29 Sep 2026 10:04:42 +0000",
+    "source": "Cointelegraph",
+    "category": "crypto",
+    "content": "Bitcoin price action consolidated after early-week losses while protecting a “trend-defining” support zone.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M285JYCZ9QMJKNR8RK6TQCBQ/hi-what-is-a-bitcoin-bond-etf-and-how-does-it-work.jpg",
+    "summary": "",
+    "importance": 5
+  },
+  {
+    "title": "Greece gets first MiCA entrants as watchdog denies Binance-Lagarde claim",
+    "link": "https://cointelegraph.com/news/greece-first-mica-entrants-hcmc-binance-lagarde?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Tue, 29 Sep 2026 09:50:22 +0000",
+    "source": "Cointelegraph",
+    "category": "crypto",
+    "content": "Greece joined the EU MiCA register with four providers as HCMC expanded its denial of remarks attributed to officials in a report on Binance.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3P1CC8JZ9CE9GXZ0SSDV4J0/111111.png",
+    "summary": "",
+    "importance": 5
+  },
+  {
+    "title": "BitMine could hit its 5% Ether supply target within weeks — then what?",
+    "link": "https://cointelegraph.com/news/bitmine-ether-supply-target-early-november?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Tue, 29 Sep 2026 08:51:25 +0000",
+    "source": "Cointelegraph",
+    "category": "crypto",
+    "content": "BitMine could reach 5% of Ether’s supply by early November, while Tom Lee has left open whether it would continue buying beyond that level.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3P2R6QTGGW0GWR2RKYMQNCC/hi-the-7-largest-ethereum-treasury-companies-right-now-ranked-by-holdings.jpg",
+    "summary": "",
+    "importance": 5
+  },
+  {
+    "title": "Tether says it helped freeze $550M in Iran-linked USDT this year",
+    "link": "https://cointelegraph.com/news/tether-says-it-helped-freeze-550m-in-iran-linked-usdt-this-year?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Tue, 29 Sep 2026 05:29:28 +0000",
+    "source": "Cointelegraph",
+    "category": "crypto",
+    "content": "The disclosure came as Senate Democratic investigators alleged USDT had become a key part of Iran’s shadow banking network.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3NT5GYVR0DHCZ7EB688AQWY/tether-2.jpg",
+    "summary": "",
+    "importance": 5
+  },
+  {
+    "title": "Coinbase gets CFTC approval for US derivatives clearinghouse",
+    "link": "https://cointelegraph.com/news/coinbase-gets-cftc-approval-for-us-derivatives-clearinghouse?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Tue, 29 Sep 2026 04:02:29 +0000",
+    "source": "Cointelegraph",
+    "category": "crypto",
+    "content": "Coinbase joins Kraken in bringing US derivatives infrastructure in-house, after Kraken’s parent acquired Bitnomial and its CFTC-regulated exchange, clearinghouse and brokerage in May.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3NN5Q5DBTGT6TEY43DJDPT2/coinbase.jpg",
     "summary": "",
     "importance": 5
   },
@@ -644,6 +644,17 @@
     "importance": 5
   },
   {
+    "title": "Ondo Perps CEO sees ‘huge opportunity’ for perps in US market, under different model",
+    "link": "https://www.theblock.co/news/regulation/2026-09-29-ondo-perps-ceo-interview-david-wells-417125",
+    "pubDate": "Tue, 29 Sep 2026 10:58:57 +0000",
+    "source": "The Block",
+    "category": "crypto",
+    "content": "The CEO's comment comes at a time when U.S. regulators and several firms are testing how perpetual futures could enter domestic markets.",
+    "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/09/david-wells-cropped.jpg",
+    "summary": "",
+    "importance": 5
+  },
+  {
     "title": "Coinbase receives DCO approval from CFTC, completing full derivatives stack",
     "link": "https://www.theblock.co/news/business/2026-09-28-coinbase-dco-approval-417105",
     "pubDate": "Tue, 29 Sep 2026 02:02:36 +0000",
@@ -820,13 +831,13 @@
     "importance": 5
   },
   {
-    "title": "Strategy proposes daily dividends for STRC, STRD, STRF and STRK preferred stocks",
-    "link": "https://www.theblock.co/news/business/2026-09-25-strategy-proposes-daily-dividends-for-strc-strd-strf-and-strk-preferred-stocks-416869",
-    "pubDate": "Fri, 25 Sep 2026 13:48:57 +0000",
-    "source": "The Block",
+    "title": "Now Accepting Bitcoin: Coljac Café Bitcoin Hub with 40+ Nearby Missouri Merchants",
+    "link": "https://bitcoinmagazine.com/culture/coljac-cafe-bitcoin-missouri",
+    "pubDate": "Tue, 29 Sep 2026 11:30:00 +0000",
+    "source": "Bitcoin Magazine",
     "category": "crypto",
-    "content": "Strategy is seeking shareholder approval to pay daily dividends across its four U.S.-listed preferred stocks.",
-    "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2025/12/20251208_Microstrategy_News.jpg",
+    "content": "Bitcoin Magazine\n\nNow Accepting Bitcoin: Coljac Café Bitcoin Hub with 40+ Nearby Missouri Merchants\nColjac Café Bitcoin acceptance in Farmington, MO sparked a bitcoin corridor connecting 30 independent farmers, diners, and main-street merchants across Missouri.\nThis post Now Accepting Bitcoin: Coljac Café Bitcoin Hub with 40+ Nearby Missouri Merchants first appeared on Bitcoin Magazine and is written by Vagabond.",
+    "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/09/full.jpeg",
     "summary": "",
     "importance": 5
   },
@@ -930,13 +941,24 @@
     "importance": 5
   },
   {
-    "title": "Katie Stockton: $93K BTC is the Key Price Level for the Bull Market",
-    "link": "https://bitcoinmagazine.com/videos/katie-stockton-93k-btc-is-the-key-price-level-for-the-bull-market",
-    "pubDate": "Sat, 26 Sep 2026 15:37:08 +0000",
-    "source": "Bitcoin Magazine",
-    "category": "crypto",
-    "content": "Bitcoin Magazine\n\nKatie Stockton: $93K BTC is the Key Price Level for the Bull Market\nFairlead Strategies’ Katie Stockton breaks down technical signals, $84K resistance, and why a move past $93K officially confirms a new bull market.\nThis post Katie Stockton: $93K BTC is the Key Price Level for the Bull Market first appeared on Bitcoin Magazine and is written by Patrick Green.",
-    "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/09/Katie-Stockton-93K-BTC-is-the-Key-Price-Level-for-the-Bull-Market-.jpg",
+    "title": "Coming soon: Our 2026 list of Climate Tech Companies to Watch",
+    "link": "https://www.technologyreview.com/2026/09/29/1145183/2026-climate-tech-companies-to-watch-preview/",
+    "pubDate": "Tue, 29 Sep 2026 11:00:00 +0000",
+    "source": "MIT Technology Review",
+    "category": "ai",
+    "content": "Earlier this month, the UN announced the planet will tip past 1.5 ˚C of warming, “likely within the next few years,” squashing any lingering hope that nations would cut emissions fast enough to achieve the loftiest goal of the Paris climate agreement. In the US, the world’s second-largest-emitting country, its leader continues to deny climate…",
+    "image": "",
+    "summary": "",
+    "importance": 5
+  },
+  {
+    "title": "Making AI an asset, not an expense",
+    "link": "https://www.technologyreview.com/2026/09/29/1145186/making-ai-an-asset-not-an-expense/",
+    "pubDate": "Tue, 29 Sep 2026 10:43:45 +0000",
+    "source": "MIT Technology Review",
+    "category": "ai",
+    "content": "When customers talk about AI costs, the conversation usually starts with token prices and ends with access to the latest, most capable model in the cloud. Do they always need that level of capability? Not necessarily. But that is often where the conversation goes. As AI moves from experimentation to production, model choice is only…",
+    "image": "https://wp.technologyreview.com/wp-content/uploads/2026/09/Cheri-blog.jpg?w=840",
     "summary": "",
     "importance": 5
   },
@@ -1029,23 +1051,12 @@
     "importance": 5
   },
   {
-    "title": "AI is dominating the conversation at Climate Week",
-    "link": "https://www.technologyreview.com/2026/09/24/1145048/ai-climate-week/",
-    "pubDate": "Thu, 24 Sep 2026 10:00:00 +0000",
-    "source": "MIT Technology Review",
+    "title": "Anthropic’s prospectus details losses, growth, and, yes, a warning that its AI could end humanity",
+    "link": "https://techcrunch.com/2026/09/28/anthropics-prospectus-details-losses-growth-and-yes-a-warning-that-its-ai-could-end-humanity/",
+    "pubDate": "Tue, 29 Sep 2026 05:13:43 +0000",
+    "source": "TechCrunch AI",
     "category": "ai",
-    "content": "This week, world leaders descended on Manhattan for the UN General Assembly. It’s also New York Climate Week—investors, policymakers, advocates, and journalists are colliding at panels, talks, and fancy dinners. With so many climate voices in one place, the discourse can feel a little louder than usual. This year, the unavoidable topic is artificial intelligence.…",
-    "image": "",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "A congressional representative just proposed killing America’s border tower program",
-    "link": "https://www.technologyreview.com/2026/09/23/1145002/a-congressional-representative-just-proposed-killing-americas-border-tower-program/",
-    "pubDate": "Wed, 23 Sep 2026 17:10:11 +0000",
-    "source": "MIT Technology Review",
-    "category": "ai",
-    "content": "Delia Ramirez, a Democratic US representative from Illinois, has announced a plan to introduce new legislation to terminate the surveillance tower program along the US southern border.  The announcement comes just days after publication of an MIT Technology Review investigation, “Dying on Camera,” in which we looked at deaths along the border that took place…",
+    "content": "In its prospectus, Anthropic just told investors it's losing tens of billions of dollars a year, but also growing like crazy, and — oh yeah — its own AI might pose an existential risk to humanity.",
     "image": "",
     "summary": "",
     "importance": 5
@@ -1255,17 +1266,6 @@
     "source": "TechCrunch AI",
     "category": "ai",
     "content": "This will be the first one-on-one meeting between Dario Amodei and Donald Trump.",
-    "image": "",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "Can Muse overcome Meta’s trust issues?",
-    "link": "https://techcrunch.com/2026/09/27/can-muse-overcome-metas-trust-issues/",
-    "pubDate": "Sun, 27 Sep 2026 19:57:30 +0000",
-    "source": "TechCrunch AI",
-    "category": "ai",
-    "content": "On Equity, we discussed how Meta's AI announcement managed to steal the spotlight from OpenAI and Anthropic.",
     "image": "",
     "summary": "",
     "importance": 5
@@ -1601,27 +1601,15 @@
     "importance": 5
   },
   {
-    "title": "XRP Ledger’s Batch upgrade slips to Oct. 9 after validator support resets",
-    "link": "https://www.coindesk.com/tech/2026/09/26/xrp-ledger-s-batch-upgrade-slips-to-oct-9-after-validator-support-resets",
-    "pubDate": "Sat, 26 Sep 2026 04:30:00 +0000",
+    "title": "Bitcoin beats gold, surge to $100,000 in play",
+    "link": "https://www.coindesk.com/daybook-us/2026/09/29/bitcoin-outperforms-gold-usd100-000-surge-in-play",
+    "pubDate": "Tue, 29 Sep 2026 11:34:55 +0000",
     "source": "CoinDesk",
     "category": "crypto",
-    "content": "The feature would let users bundle up to eight transactions, including asset-and-payment transfers, but a brief drop below the network’s 80% support threshold restarted its two-week activation clock.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/af945cfdd3152f9ebc96d44f89ccafea550ccb57-5760x3840.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "The XRP Ledger's Batch upgrade, which allows users to bundle up to eight transactions, has been delayed to October 9th. This postponement occurred because validator support briefly dropped below the required 80% threshold, resetting its two-week activation countdown.",
-    "importance": 4,
-    "classified": true
-  },
-  {
-    "title": "Kalshi loses appeal, setting up potential Supreme Court case",
-    "link": "https://cointelegraph.com/news/kalshi-loses-appeal-setting-up-potential-supreme-court-case?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Sat, 26 Sep 2026 13:21:12 +0000",
-    "source": "Cointelegraph",
-    "category": "crypto",
-    "content": "The 6th US Circuit Court of Appeals ruled against prediction market Kalshi, siding with Ohio and Tennessee on regulating sports-event contracts under state laws.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1M5NCSJSS1MAFGEDXXFPQN1/court-vs-kalshi-3.jpg",
-    "summary": "The 6th US Circuit Court of Appeals ruled against prediction market Kalshi, siding with Ohio and Tennessee on the regulation of sports-event contracts under state laws. This decision sets the stage for a potential Supreme Court case.",
-    "importance": 2,
+    "content": "Your day-ahead look for Sept. 29, 2026",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/2a77c714f950490d92fe6afe133dc6a75706c94e-5760x3840.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "The news article from September 29, 2026, presents a bullish outlook for Bitcoin, stating it has outperformed gold and is expected to surge to $100,000. This short preview suggests significant positive momentum for the cryptocurrency.",
+    "importance": 3,
     "classified": true
   }
 ]
