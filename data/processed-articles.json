@@ -36,6 +36,18 @@
     "classified": true
   },
   {
+    "title": "Robinhood adds AI agents, perps and weekend trading in push to win active traders",
+    "link": "https://www.coindesk.com/markets/2026/09/29/robinhood-adds-ai-agents-perps-and-weekend-trading-in-push-to-win-active-traders",
+    "pubDate": "Tue, 29 Sep 2026 23:00:00 +0000",
+    "source": "CoinDesk",
+    "category": "both",
+    "content": "The brokerage is expanding its trading hours and adding leveraged crypto products and automated trading tools to attract more active investors.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/a92db287f1805105761bc517860540b2fdd5b741-2600x1302.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "Robinhood is expanding its offerings by adding AI agents, leveraged crypto products like perps, and weekend trading. This initiative, which also includes extended trading hours and automated trading tools, aims to attract more active investors to the brokerage.",
+    "importance": 8,
+    "classified": true
+  },
+  {
     "title": "Cboe, S&P Dow Jones may explore tokenized options contracts under extended licensing deal",
     "link": "https://www.coindesk.com/business/2026/09/29/cboe-s-and-p-dow-jones-may-explore-tokenized-options-contracts-under-extended-licensing-deal",
     "pubDate": "Tue, 29 Sep 2026 18:21:07 +0000",
@@ -80,6 +92,18 @@
     "content": "The London-based crypto services company confidentially filed for an initial public offering with the Securities and Exchange Commission earlier this year.",
     "image": "https://cdn.sanity.io/images/s3y3vcno/production/8347497dc2b40aa2c0918f122e4d7a7ab226ecd4-1406x791.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
     "summary": "Blockchain.com, a London-based crypto services company, is aiming for a $500 million initial public offering this year. The company confidentially filed for the IPO with the Securities and Exchange Commission earlier this year, targeting a valuation of up to $6 billion.",
+    "importance": 8,
+    "classified": true
+  },
+  {
+    "title": "Near Intents blocks $50 million in Bitget hacker swaps, here's what happened",
+    "link": "https://www.coindesk.com/tech/2026/09/29/usd50-million-in-bitget-hacker-swaps-puts-near-intents-permissionless-claim-to-the-test",
+    "pubDate": "Tue, 29 Sep 2026 06:23:47 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "The swap service identified more than $50 million in attempted transfers, although most rejected funds subsequently moved through other providers.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/715902191aa8f46558dbd6a00c7b125cde303fe5-6000x4000.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "Near Intents successfully blocked over $50 million in attempted swaps by the Bitget hacker, preventing the immediate laundering of stolen funds through their service. However, most of the rejected funds were subsequently moved through other swap providers, indicating a partial success in hindering the hacker.",
     "importance": 8,
     "classified": true
   },
@@ -218,7 +242,7 @@
   {
     "title": "Here’s what happened in crypto today",
     "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Tue, 29 Sep 2026 13:08:04 +0000",
+    "pubDate": "Tue, 29 Sep 2026 19:42:02 +0000",
     "source": "Cointelegraph",
     "category": "crypto",
     "content": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
@@ -226,17 +250,6 @@
     "summary": "This article provides a summary of the latest news and trends in the crypto space, covering Bitcoin price, blockchain, DeFi, Web3, and crypto regulation. It aims to keep readers updated on daily events impacting the cryptocurrency market. The article appears to be a general overview of the current state of the crypto industry.",
     "importance": 6,
     "classified": true
-  },
-  {
-    "title": "Near Intents blocks $50 million in Bitget hacker swaps, here's what happened",
-    "link": "https://www.coindesk.com/tech/2026/09/29/usd50-million-in-bitget-hacker-swaps-puts-near-intents-permissionless-claim-to-the-test",
-    "pubDate": "Tue, 29 Sep 2026 06:23:47 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "The swap service identified more than $50 million in attempted transfers, although most rejected funds subsequently moved through other providers.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/715902191aa8f46558dbd6a00c7b125cde303fe5-6000x4000.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "",
-    "importance": 5
   },
   {
     "title": "Anthropic plans to spend $518 billion on AI infrastructure. Pre-IPO perps barely blink.",
@@ -257,8 +270,9 @@
     "category": "crypto",
     "content": "Global stocks fell to a one-week low as Brent rose for a second day and traders added to bets on more Federal Reserve rate hikes ahead of Wednesday's PCE inflation data.",
     "image": "https://cdn.sanity.io/images/s3y3vcno/production/33de5f1cc06ae3b1a947617702e2b89386a50aa1-1494x830.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "",
-    "importance": 5
+    "summary": "Bitcoin is reported to be holding at $83,000, while the cryptocurrency Zcash (ZEC) experienced a 12% decline. This crypto market activity occurred within a broader context of global stock market declines, rising oil prices, and increasing anticipation of further Federal Reserve rate hikes.",
+    "importance": 5,
+    "classified": true
   },
   {
     "title": "Traders aren't panicking yet despite cooling crypto sentiment",
@@ -316,13 +330,35 @@
     "importance": 5
   },
   {
-    "title": "Caution builds in the bitcoin market even as prices stay well above summer lows",
-    "link": "https://www.coindesk.com/markets/2026/09/28/bitcoin-bears-pay-to-bet-on-further-declines-as-futures-positions-near-yearly-lows",
-    "pubDate": "Mon, 28 Sep 2026 09:29:34 +0000",
-    "source": "CoinDesk",
+    "title": "Crypto regulation at SEC, CFTC to come down to 3 commissioners following key resignation",
+    "link": "https://cointelegraph.com/news/us-sec-cftc-crypto-regulation-few-commissioners?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Tue, 29 Sep 2026 19:59:43 +0000",
+    "source": "Cointelegraph",
     "category": "crypto",
-    "content": "Overall demand for leveraged exposure remains weak, marked by sliding futures open interest. The capital that's still in the market appears skewed toward bearish positions.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/babb8de4595496b1a7326290dc7d02a14313e72b-3200x1800.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "content": "Seven commissioner seats at the SEC and CFTC will be empty after Friday, leaving only a few leaders at financial regulators to oversee aspects of the $3 trillion crypto industry.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3Q8PHD13FEXXYRXMDQWSRRZ/regulations-sec-cftc.png",
+    "summary": "",
+    "importance": 5
+  },
+  {
+    "title": "OpenAI valuation could hit $1.4T in new funding round: Report",
+    "link": "https://cointelegraph.com/news/openai-30-billion-funding-round-1-4-trillion-valuation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Tue, 29 Sep 2026 19:55:49 +0000",
+    "source": "Cointelegraph",
+    "category": "crypto",
+    "content": "OpenAI is reportedly seeking another $30 billion from investors as the ChatGPT developer pushes its long-awaited public market debut into 2027.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3QA1RE3EPA6Q9FXEB536BXF/hi-where-to-discuss-chatgpt.jpg",
+    "summary": "",
+    "importance": 5
+  },
+  {
+    "title": "Kakaopay partners with Dinari, Ondo to explore tokenized Korean stocks",
+    "link": "https://cointelegraph.com/news/kakaopay-securities-dinari-ondo-tokenized-korean-stocks-push?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Tue, 29 Sep 2026 19:49:53 +0000",
+    "source": "Cointelegraph",
+    "category": "crypto",
+    "content": "Kakaopay Securities is working with Dinari and Ondo Finance to explore tokenizing Korean-listed equities and expanding their availability to investors in international markets.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3Q9BFYJ1K3ZGM26SMYW5A0G/hi-south-korea-staking-lending-service.jpg",
     "summary": "",
     "importance": 5
   },
@@ -613,39 +649,6 @@
     "importance": 5
   },
   {
-    "title": "Hong Kong regulators expand financial reporting oversight to licensed crypto firms",
-    "link": "https://cointelegraph.com/news/hong-kong-sfc-afrc-crypto-financial-reporting-mou?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Mon, 28 Sep 2026 09:58:31 +0000",
-    "source": "Cointelegraph",
-    "category": "crypto",
-    "content": "The SFC and AFRC signed a new MoU extending financial reporting, audit and compliance cooperation to licensed virtual asset service providers.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3KPPZ3K6FD8803AJAP84ZNZ/hk-flag.png",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "Scammers steal $2M in ETH as fake GIWA network fools DYORSWAP",
-    "link": "https://cointelegraph.com/news/fake-giwa-blockchain-scam-drains-2m-eth?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Mon, 28 Sep 2026 09:19:50 +0000",
-    "source": "Cointelegraph",
-    "category": "crypto",
-    "content": "DYORSWAP said it paid more than 200 ETH in compensation, while Upbit operator Dunamu’s GIWA warned that its mainnet had not launched.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3KJTCBBBDP28G69E25NG96Q/fake-giwa.png",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "Bitcoin drops under $83K as liquidity hunting keeps bulls from targeting yearly open",
-    "link": "https://cointelegraph.com/markets/bitcoin-drops-under-83k-as-liquidity-hunting-keeps-bulls-from-targeting-yearly-open?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Mon, 28 Sep 2026 09:03:20 +0000",
-    "source": "Cointelegraph",
-    "category": "crypto",
-    "content": "Bitcoin joined US stock futures in dropping on Monday after US president Donald Trump did not commit to permanently halting strikes on Iran.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3KK0Y54WJHFMWNR7WW9P8FT/hi-crypto-trading-basics-a-beginners-guide-to-cryptocurrency-order-types1-4.jpg",
-    "summary": "",
-    "importance": 5
-  },
-  {
     "title": "CryptoQuant says bitcoin correction could be near as traders’ unrealized profit hits 21-month high",
     "link": "https://www.theblock.co/news/markets/2026-09-29-cryptoquant-says-bitcoin-correction-could-near-traders-unrealized-profit-21-month-high-417206",
     "pubDate": "Tue, 29 Sep 2026 19:14:47 +0000",
@@ -833,6 +836,50 @@
     "importance": 5
   },
   {
+    "title": "Bitget Customers Withdraw Over 4,000 Bitcoins in One Hour Following $388M Hack",
+    "link": "https://bitcoinmagazine.com/news/bitget-customers-withdraw-4000-bitcoins",
+    "pubDate": "Tue, 29 Sep 2026 21:14:45 +0000",
+    "source": "Bitcoin Magazine",
+    "category": "crypto",
+    "content": "Bitcoin Magazine\n\nBitget Customers Withdraw Over 4,000 Bitcoins in One Hour Following $388M Hack\nBitget this week resumed customer withdrawals and within one hour, users had taken over 4,000 bitcoins off the exchange. \nThis post Bitget Customers Withdraw Over 4,000 Bitcoins in One Hour Following $388M Hack first appeared on Bitcoin Magazine and is written by Mathew Di Salvo.",
+    "image": "https://www.youtube.com/embed/iaVk1j-_ebc",
+    "summary": "",
+    "importance": 5
+  },
+  {
+    "title": "Bitwise Head of Research: Sovereigns Selling Gold for Bitcoin | Ryan Rasmussen",
+    "link": "https://bitcoinmagazine.com/videos/bitwise-head-of-research-sovereigns-selling-gold-for-bitcoin-ryan-rasmussen",
+    "pubDate": "Tue, 29 Sep 2026 20:54:37 +0000",
+    "source": "Bitcoin Magazine",
+    "category": "crypto",
+    "content": "Bitcoin Magazine\n\nBitwise Head of Research: Sovereigns Selling Gold for Bitcoin | Ryan Rasmussen\nBitwise’s Ryan Rasmussen breaks down institutional crypto adoption, revealing why pensions and sovereign funds bought the dip from $125K to $60K.\nThis post Bitwise Head of Research: Sovereigns Selling Gold for Bitcoin | Ryan Rasmussen first appeared on Bitcoin Magazine and is written by Patrick Green.",
+    "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/09/Bitwise-Head-of-Research-Sovereigns-Selling-Gold-for-Bitcoin-Ryan-Rasmussen-.jpg",
+    "summary": "",
+    "importance": 5
+  },
+  {
+    "title": "Tracy Shuchart: BTC & the Commodities Supercycle",
+    "link": "https://bitcoinmagazine.com/videos/tracy-shuchart-btc-the-commodities-supercycle",
+    "pubDate": "Tue, 29 Sep 2026 20:49:46 +0000",
+    "source": "Bitcoin Magazine",
+    "category": "crypto",
+    "content": "Bitcoin Magazine\n\nTracy Shuchart: BTC & the Commodities Supercycle\nTracy Shuchart breaks down Strait of Hormuz oil disruptions, warning that GCC output losses and crack spreads signal a worsening winter energy pinch.\nThis post Tracy Shuchart: BTC & the Commodities Supercycle first appeared on Bitcoin Magazine and is written by Patrick Green.",
+    "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/09/Tracy-Shuchart-BTC-the-Commodities-Supercycle-.jpg",
+    "summary": "",
+    "importance": 5
+  },
+  {
+    "title": "Dan Tapiero: “We’ve Begun a Bull Phase” in Bitcoin",
+    "link": "https://bitcoinmagazine.com/videos/dan-tapiero-weve-begun-a-bull-phase-in-bitcoin",
+    "pubDate": "Tue, 29 Sep 2026 20:42:58 +0000",
+    "source": "Bitcoin Magazine",
+    "category": "crypto",
+    "content": "Bitcoin Magazine\n\nDan Tapiero: “We’ve Begun a Bull Phase” in Bitcoin\nDan Tapiero reveals why a new bull phase has begun, pointing to core revenue growth across stablecoins, tokenization, and Hyperliquid.\nThis post Dan Tapiero: “We’ve Begun a Bull Phase” in Bitcoin first appeared on Bitcoin Magazine and is written by Patrick Green.",
+    "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/09/Dan-Tapiero-22Weve-Begun-a-Bull-Phase22-in-Bitcoin-.jpg",
+    "summary": "",
+    "importance": 5
+  },
+  {
     "title": "HANetf Debuts Euro-Hedged Bitcoin Fund in World First",
     "link": "https://bitcoinmagazine.com/news/hanetf-debuts-bitcoin-euro-etf",
     "pubDate": "Tue, 29 Sep 2026 19:08:47 +0000",
@@ -895,50 +942,6 @@
     "category": "crypto",
     "content": "Bitcoin Magazine\n\nSolari Capital Founder Scaramucci: Betting on Bitcoin & Exponential Technology\nAJ Scaramucci reveals Solari Capital’s $350M launch and breaks down his “programmable reality” thesis across AI, biotech, and Bitcoin debasement.\nThis post Solari Capital Founder Scaramucci: Betting on Bitcoin & Exponential Technology first appeared on Bitcoin Magazine and is written by Patrick Green.",
     "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/09/maxresdefault-1.jpg",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "Hunter Biden on Bitcoin, Operation Chokepoint 2.0, and $LAPTOP",
-    "link": "https://bitcoinmagazine.com/videos/hunter-biden-on-bitcoin-operation-chokepoint-2-0-and-laptop",
-    "pubDate": "Tue, 29 Sep 2026 13:21:28 +0000",
-    "source": "Bitcoin Magazine",
-    "category": "crypto",
-    "content": "Bitcoin Magazine\n\nHunter Biden on Bitcoin, Operation Chokepoint 2.0, and $LAPTOP\nHunter Biden explains why $LAPTOP crashed 98% post-launch, blaming a DEX market maker liquidity failure, and shares his long-term Bitcoin price prediction.\nThis post Hunter Biden on Bitcoin, Operation Chokepoint 2.0, and $LAPTOP first appeared on Bitcoin Magazine and is written by Patrick Green.",
-    "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/09/Hunter-Biden-on-Bitcoin-Operation-Chokepoint-2.0-and-LAPTOP-.jpg",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "Gary Cardone: Wall Street Is Taking Over Bitcoin — For Good",
-    "link": "https://bitcoinmagazine.com/videos/gary-cardone-wall-street-is-taking-over-bitcoin-for-good",
-    "pubDate": "Tue, 29 Sep 2026 13:16:14 +0000",
-    "source": "Bitcoin Magazine",
-    "category": "crypto",
-    "content": "Bitcoin Magazine\n\nGary Cardone: Wall Street Is Taking Over Bitcoin — For Good\nGary Cardone explains why Bitcoin shrugs off regulatory setbacks, why $75K is holding firm, and why he’d welcome a brief dip into the low $70s to buy more.\nThis post Gary Cardone: Wall Street Is Taking Over Bitcoin — For Good first appeared on Bitcoin Magazine and is written by Patrick Green.",
-    "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/09/Gary-Cardone-Wall-Street-Is-Taking-Over-Bitcoin-—-For-Good-.jpg",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "Dr. Pippa Malmgren: Investing in Bitcoin in the Age of Abundance",
-    "link": "https://bitcoinmagazine.com/videos/dr-pippa-malmgren-investing-in-bitcoin-in-the-age-of-abundance",
-    "pubDate": "Tue, 29 Sep 2026 13:10:38 +0000",
-    "source": "Bitcoin Magazine",
-    "category": "crypto",
-    "content": "Bitcoin Magazine\n\nDr. Pippa Malmgren: Investing in Bitcoin in the Age of Abundance\nDr. Pippa Malmgren breaks down why the US–Greenland deal is really about the space race, satellite tracking, and missile defense in the Arctic.\nThis post Dr. Pippa Malmgren: Investing in Bitcoin in the Age of Abundance first appeared on Bitcoin Magazine and is written by Patrick Green.",
-    "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/09/Dr.-Pippa-Malmgren-Investing-in-Bitcoin-in-the-Age-of-Abundance-.jpg",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "Now Accepting Bitcoin: Coljac Café Bitcoin Hub with 40+ Nearby Missouri Merchants",
-    "link": "https://bitcoinmagazine.com/culture/coljac-cafe-bitcoin-missouri",
-    "pubDate": "Tue, 29 Sep 2026 11:30:00 +0000",
-    "source": "Bitcoin Magazine",
-    "category": "crypto",
-    "content": "Bitcoin Magazine\n\nNow Accepting Bitcoin: Coljac Café Bitcoin Hub with 40+ Nearby Missouri Merchants\nColjac Café Bitcoin acceptance in Farmington, MO sparked a bitcoin corridor connecting 30 independent farmers, diners, and main-street merchants across Missouri.\nThis post Now Accepting Bitcoin: Coljac Café Bitcoin Hub with 40+ Nearby Missouri Merchants first appeared on Bitcoin Magazine and is written by Vagabond.",
-    "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/09/full.jpeg",
     "summary": "",
     "importance": 5
   },
@@ -1053,6 +1056,50 @@
     "importance": 5
   },
   {
+    "title": "America.gov gets really weird when you ask it about Minecraft, but it’s not a glitch",
+    "link": "https://techcrunch.com/2026/09/29/america-gov-gets-really-weird-when-you-ask-it-about-minecraft-but-its-not-a-glitch/",
+    "pubDate": "Tue, 29 Sep 2026 23:30:55 +0000",
+    "source": "TechCrunch AI",
+    "category": "ai",
+    "content": "For the sake of national security, it's a relief to learn that America.gov is not hallucinating to the point that it's penning lengthy poetry.",
+    "image": "",
+    "summary": "",
+    "importance": 5
+  },
+  {
+    "title": "The internet is convinced Elon Musk’s xAI trolled OpenAI’s ‘Dots’ launch",
+    "link": "https://techcrunch.com/2026/09/29/the-internet-is-convinced-elon-musks-xai-trolled-openais-dots-launch/",
+    "pubDate": "Tue, 29 Sep 2026 22:20:59 +0000",
+    "source": "TechCrunch AI",
+    "category": "ai",
+    "content": "Before OpenAI launched its new AI agent, Dots, on Tuesday, Elon Musk's xAI had already acquired the domain name \"dot.com,\" which now redirects to the Grok chatbot download page.",
+    "image": "",
+    "summary": "",
+    "importance": 5
+  },
+  {
+    "title": "OpenAI’s latest features take direct aim at the app store model",
+    "link": "https://techcrunch.com/2026/09/29/openais-latest-features-take-direct-aim-at-the-app-store-model/",
+    "pubDate": "Tue, 29 Sep 2026 20:15:47 +0000",
+    "source": "TechCrunch AI",
+    "category": "ai",
+    "content": "OpenAI is building out the pieces of an alternative to the traditional app store model, turning ChatGPT into a place where software can be discovered and used by people and AI agents alike.",
+    "image": "",
+    "summary": "",
+    "importance": 5
+  },
+  {
+    "title": "OpenAI repotedly in talks to raise $30B round at $1.4T valuation",
+    "link": "https://techcrunch.com/2026/09/29/openai-repotedly-in-talks-to-raise-30b-round-at-1-4t-valuation/",
+    "pubDate": "Tue, 29 Sep 2026 19:52:37 +0000",
+    "source": "TechCrunch AI",
+    "category": "ai",
+    "content": "The new round is anticipated to be the company's last before its delayed 2027 public debut.",
+    "image": "",
+    "summary": "",
+    "importance": 5
+  },
+  {
     "title": "Here’s why OpenAI is absent from Nvidia’s industry-wide effort to end rogue AI agents",
     "link": "https://techcrunch.com/2026/09/29/heres-why-openai-is-absent-from-nvidias-industry-wide-effort-to-end-rogue-ai-agents/",
     "pubDate": "Tue, 29 Sep 2026 18:35:00 +0000",
@@ -1069,7 +1116,7 @@
     "pubDate": "Tue, 29 Sep 2026 17:45:51 +0000",
     "source": "TechCrunch AI",
     "category": "ai",
-    "content": "OpenAI's newly announced suite of office features puts it into mor direct competition with more traditional software companies.",
+    "content": "OpenAI's newly announced suite of office features puts it into more direct competition with more traditional software companies.",
     "image": "",
     "summary": "",
     "importance": 5
@@ -1080,7 +1127,7 @@
     "pubDate": "Tue, 29 Sep 2026 17:20:00 +0000",
     "source": "TechCrunch AI",
     "category": "ai",
-    "content": "Wabi is repositioning its prompt-based app builder as a personal AI agent that can create interfaces on demand, combining chat, apps and ongoing tasks.",
+    "content": "Wabi is repositioning its prompt-based app builder as a personal AI agent that can create interfaces on demand, combining chat, apps, and ongoing tasks.",
     "image": "",
     "summary": "",
     "importance": 5
@@ -1097,12 +1144,23 @@
     "importance": 5
   },
   {
-    "title": "OpenAI expands ChatGPT’s plugins with app-like interfaces and automations",
+    "title": "OpenAI gives Codex reusable cloud environments that work across devices",
+    "link": "https://techcrunch.com/2026/09/29/openai-gives-codex-reusable-cloud-environments-that-work-across-devices/",
+    "pubDate": "Tue, 29 Sep 2026 17:15:00 +0000",
+    "source": "TechCrunch AI",
+    "category": "ai",
+    "content": "OpenAI is expanding Codex with reusable cloud development environments, a revamped CLI with voice controls, new code review tools, and a security-focused product for scanning repositories and preparing fixes.",
+    "image": "",
+    "summary": "",
+    "importance": 5
+  },
+  {
+    "title": "OpenAI expands ChatGPT’s plug-ins with app-like interfaces and automations",
     "link": "https://techcrunch.com/2026/09/29/openai-expands-chatgpts-plugins-with-app-like-interfaces-and-automations/",
     "pubDate": "Tue, 29 Sep 2026 17:15:00 +0000",
     "source": "TechCrunch AI",
     "category": "ai",
-    "content": "OpenAI is expanding ChatGPT plugins with dedicated sidebar homes, interactive panels, file viewers, improved discovery, and support for automations.",
+    "content": "OpenAI is expanding ChatGPT plug-ins with dedicated sidebar homes, interactive panels, file viewers, improved discovery, and support for automations.",
     "image": "",
     "summary": "",
     "importance": 5
@@ -1113,18 +1171,7 @@
     "pubDate": "Tue, 29 Sep 2026 17:15:00 +0000",
     "source": "TechCrunch AI",
     "category": "ai",
-    "content": "OpenAI says GPT-6.1 Sol delivers significant improvements over GPT-6 Sol across complex professional tasks, including code writing and debugging, document understanding, and executing multi-step business workflows.",
-    "image": "",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "OpenAI gives Codex reusable cloud environments that work across devices",
-    "link": "https://techcrunch.com/2026/09/29/openai-gives-codex-reusable-cloud-environments-that-work-across-devices/",
-    "pubDate": "Tue, 29 Sep 2026 17:15:00 +0000",
-    "source": "TechCrunch AI",
-    "category": "ai",
-    "content": "OpenAI is expanding Codex with reusable cloud development environments, a revamped CLI with voice controls, new code review tools and a security-focused product for scanning repositories and preparing fixes.",
+    "content": "OpenAI says GPT-6.1 Sol delivers significant improvements over GPT-6 Sol across complex professional tasks, including code writing and debugging, document understanding, and executing multistep business workflows.",
     "image": "",
     "summary": "",
     "importance": 5
@@ -1135,7 +1182,7 @@
     "pubDate": "Tue, 29 Sep 2026 16:55:56 +0000",
     "source": "TechCrunch AI",
     "category": "ai",
-    "content": "America.gov is intended to simplify the process of navigating government bureaucracy, but language models are imperfect and remain prone to hallucinations, which could cause new issues.",
+    "content": "America.gov is intended to simplify the process of navigating government bureaucracy, but large language models are imperfect and remain prone to hallucinations, which could cause new issues.",
     "image": "",
     "summary": "",
     "importance": 5
@@ -1229,46 +1276,57 @@
     "importance": 5
   },
   {
-    "title": "Source: Inference provider Modal Labs closing in on $750M round at $15.75B valuation",
-    "link": "https://techcrunch.com/2026/09/28/source-inference-provider-modal-labs-closing-in-on-750m-round-at-15-75b-valuation/",
-    "pubDate": "Mon, 28 Sep 2026 21:29:18 +0000",
-    "source": "TechCrunch AI",
+    "title": "Trump orders US government to call AI ‘Super Intelligence’",
+    "link": "https://www.theverge.com/policy/1002468/trump-ai-superintelligence-executive-order-ai",
+    "pubDate": "2026-09-29T22:25:45.000Z",
+    "source": "The Verge AI",
     "category": "ai",
-    "content": "The new financing is expected to more than triples the AI infrastructure startup's valuation from just four months ago.",
-    "image": "",
+    "content": "Image: Carolyn Van Houten / The Washington Post via Getty Images\t\n\nThe US executive branch is no longer acknowledging the existence of \"artificial intelligence.\" Going forward, official policy websites, policy documents, and press releases will refer only to \"Super Intelligence,\" thanks to a new executive order signed by President Donald Trump.\n\"The word super is the best word of all, and it's the simplest,\" Trump said at an event announcing the launch of America.gov earlier on Tuesday, and said Chinese President Xi Jinping, who visited the White House last week, \"loves it\" too. \"We don't want to hear artificial. Because it's not artificial. It's very powerful, it's very brilliant. It's going to mostly be  …\nRead the full story at The Verge.",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2250207971.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
     "summary": "",
     "importance": 5
   },
   {
-    "title": "AMD will acquire Fei-Fei Li’s World Labs for $8.2 billion",
-    "link": "https://techcrunch.com/2026/09/28/amd-will-acquire-fei-fei-lis-world-labs-for-8-2-billion/",
-    "pubDate": "Mon, 28 Sep 2026 20:39:33 +0000",
-    "source": "TechCrunch AI",
+    "title": "Elon Musk&#8217;s AI-powered Grokipedia is updating again",
+    "link": "https://www.theverge.com/tech/1002448/elon-musk-grokipedia-ai-updating-again",
+    "pubDate": "2026-09-29T21:49:09.000Z",
+    "source": "The Verge AI",
     "category": "ai",
-    "content": "The acquisition will see World Labs founder Fei-Fei Li join AMD as executive vice president and chief scientist.",
-    "image": "",
+    "content": "Elon Musk | Image: Laura Normand / The Verge\t\n\nGrokipedia, the AI-powered online encyclopedia from SpaceXAI, appears to be updating articles once again after a months-long pause. In August, Lawfare reported that articles on Grokipedia hadn't reviewed edits since April, but the platform's live updates site is now showing various recent changes to pages - though as I write this, many are just a note that says \"recheck all references and sources.\"\nThe site seems to have become active again relatively recently. The page for President Barack Obama has a note that says it was \"Fact-checked by Grok\" two days ago, and the page for Elon Musk was fact-checked while I was writing this, within the  …\nRead the full story at The Verge.",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/STK171_VRG_Illo_16_Normand_ElonMusk_16.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
     "summary": "",
     "importance": 5
   },
   {
-    "title": "Shopify opens checkout to browser-based AI agents",
-    "link": "https://techcrunch.com/2026/09/28/shopify-opens-checkout-to-browser-based-ai-agents/",
-    "pubDate": "Mon, 28 Sep 2026 19:33:57 +0000",
-    "source": "TechCrunch AI",
+    "title": "AI researchers put out videos saying superintelligence is ‘exactly as dangerous as it sounds’",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1002238/openai-google-anthropic-ai-researchers-safety-interviews",
+    "pubDate": "2026-09-29T17:35:03.000Z",
+    "source": "The Verge AI",
     "category": "ai",
-    "content": "Shopify is expanding WebMCP support to checkout, allowing browser-based AI agents to update order details and complete purchases with a buyer’s authorization.",
-    "image": "",
+    "content": "\"The chance of human extinction is about a coin flip, in my view,\" Geoffrey Irving, a former OpenAI and Google DeepMind employee, said in a new interview. It's one of a dozen interviews with AI researchers, including current and former employees at OpenAI, Google, and Anthropic. Palisade Research, which says it's a nonprofit studying AIs' capabilities and motivations, collected and launched the interviews on frominside.ai. \nSeveral of the researchers joined Irving in warning about the possibility AI could drive humans extinct. Neel Nanda, a Google DeepMind research scientist, said there's \"at least a 10 percent chance that it causes human e …\nRead the full story at The Verge.",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STK485_STK414_AI_SAFETY_B.webp?quality=90&#038;strip=all&#038;crop=0,0,100,100",
     "summary": "",
     "importance": 5
   },
   {
-    "title": "The AI boom took over Climate Week and not everyone is happy about it",
-    "link": "https://techcrunch.com/2026/09/28/the-ai-boom-took-over-climate-week-and-not-everyone-is-happy-about-it/",
-    "pubDate": "Mon, 28 Sep 2026 19:21:59 +0000",
-    "source": "TechCrunch AI",
+    "title": "OpenAI launches Dots, its Muse competitor",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1002033/openai-dots-launch-muse-competitor",
+    "pubDate": "2026-09-29T17:15:00.000Z",
+    "source": "The Verge AI",
     "category": "ai",
-    "content": "Just like the rest of the U.S., data centers and AI are dividing climate tech founders and investors.",
-    "image": "",
+    "content": "Like Muse, OpenAI’s Dots are represented by cute, customizable avatars. | Image: OpenAI\t\n\nOpenAI is responding to Meta's buzzy Muse AI with agentic helpers of its own: Dots. During its DevDay keynote on Tuesday, OpenAI announced that Dots will serve as always-on AI assistants that can \"do nearly anything\" across connected apps in the background while learning your preferences over time.\nThe company's capable GPT-6 Astra model powers Dots, which use their own cloud computer to access a web browser and more than 4,000 supported apps. You can interact with a Dot through a text-message-like interface that's similar to the one offered by Muse, as well as hop on a voice call with it from ChatGPT on the web, desktop, or mobile. Dots ca …\nRead the full story at The Verge.",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Dots-Hero-Image.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "summary": "",
+    "importance": 5
+  },
+  {
+    "title": "Protesters gather at OpenAI’s DevDay",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1002201/openai-sam-altman-openai-devday-protests-ice-data-centers",
+    "pubDate": "2026-09-29T17:12:27.000Z",
+    "source": "The Verge AI",
+    "category": "ai",
+    "content": "On Tuesday, OpenAI's annual DevDay event began with protests, flyers, and chants. \"Sam Altman, get off it, put people over profit,\" said a group of protesters marching in a circle in front of a series of signs that spelled out \"PEOPLE OVER PROFIT.\" \nMore than a dozen organizations came together to sponsor a rally outside the entrance to the event venue at San Francisco's Fort Mason, including Bay Resistance, Tech Workers Coalition, Service Employees International Union, San Francisco Rising, and the San Francisco Labor Council. A large orange sign read \"Drop the ICE contract.\" Multiple people dressed in cardboard robot costumes waved cardbo …\nRead the full story at The Verge.",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/IMG_3019.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
     "summary": "",
     "importance": 5
   },
@@ -1278,7 +1336,7 @@
     "pubDate": "2026-09-29T16:00:00.000Z",
     "source": "The Verge AI",
     "category": "ai",
-    "content": "It’s OpenAI’s turn in the fall tech events calendar. The company is hosting its annual DevDay on September 29th in San Francisco, starting with a live keynote featuring CEO Sam Altman. The company is teasing “20+ launches” with Altman saying that “we have found a new thing,”, and rumors suggest it could launch a consumer AI agent to rival Meta’s Muse. The keynote begins at 1PM ET / 10AM ET, and you can watch it on OpenAI’s website or on YouTube.\nDevDay is happening at a tumultuous moment for OpenAI. The AI industry has been rocked by revelations of agents hacking outside companies, including OpenAI’s own models, which breached Hugging Face earlier this year. The hacks kicked off a broader conversation about a potential AI development slowdown. So in addition to new products, Altman and others at OpenAI could use DevDay to discuss the company’s latest stance on AI safety as well.\nYou can follow all of our coverage of DevDay 2026 right here.\n\n\n\t\t\t\t\t\nOpenAI’s AI agents need to catch up\n\t\t\t\nOpenAI’s DevDay 2026 has a date.",
+    "content": "It’s OpenAI’s turn in the fall tech events calendar. The company is hosting its annual DevDay on September 29th in San Francisco, and during a live keynote featuring CEO Sam Altman, it revealed several notable updates, including Dots, its AI agent product that rivals Meta’s recently-launched Muse. However, unlike Muse, which is available for free, Dots will initially be available to paid subscribers of ChatGPT Pro, Business Premium, and Enterprise. The company also revealed its GPT-6.1 Sol model, said that ChatGPT now has 1.2 billion users per week, and announced a new ChatGPT Pro plan that costs $500 per month.\nDevDay is happening at a tumultuous moment for OpenAI. The AI industry has been rocked by revelations of agents hacking outside companies, including OpenAI’s own models, which breached Hugging Face earlier this year. The hacks kicked off a broader conversation about a potential AI development slowdown.\nYou can follow all of our coverage of DevDay 2026 right here.\n\n\n\t\t\t\t\t\nOpenAI plans to bring Dots to consumers, too.\n\t\t\t\nChatGPT now has 1.2 billion weekly users, OpenAI says.\n\t\t\t\nOpenAI launches Dots, its Muse competitor\n\t\t\t\nOpenAI is adding a $500 / month ChatGPT Pro tier.\n\t\t\t\nProtesters gather at OpenAI’s DevDay\n\t\t\t\nOpenAI’s AI agents need to catch up\n\t\t\t\nOpenAI’s DevDay 2026 has a date.",
     "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STK201_SAM_ALTMAN_CVIRGINIA2A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
     "summary": "",
     "importance": 5
@@ -1328,57 +1386,24 @@
     "importance": 5
   },
   {
-    "title": "OpenAI’s AI agents need to catch up",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1001590/openai-devday-2026-aeon-ai-agent",
-    "pubDate": "2026-09-28T18:45:00.000Z",
-    "source": "The Verge AI",
+    "title": "Protests against OpenAI get increasingly creative",
+    "link": "https://arstechnica.com/ai/2026/09/what-iceberg-bay-area-artists-target-openai-with-titanic-themed-protest-art/",
+    "pubDate": "Tue, 29 Sep 2026 21:52:58 +0000",
+    "source": "Ars Technica AI",
     "category": "ai",
-    "content": "OpenAI popularized the modern generative AI chatbot, but as its 2026 DevDay event approaches, it's fallen behind in one of the industry's hottest categories: continuously running, consumer-facing AI agents. On Tuesday, it will likely try to capture the lead in that race. Rumors abound that OpenAI will release its own AI agent, dubbed Aeon - its answer to Meta's Muse, SpaceX's Grok Bot, OpenClaw, and many more. \nAeon could have a shot at success, but to beat the competition, it would need to pull together the best features of several different agent platforms. The ideal system would be as useful as the open-source OpenClaw, as cheap and easy …\nRead the full story at The Verge.",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/STKP221_GREG_BROCKMAN2.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "content": "New sculpture depicts AI leaders escaping a sinking ship.",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/IMG_0886-1152x648.jpg",
     "summary": "",
     "importance": 5
   },
   {
-    "title": "AI is supercharging hacking, and your local hospitals and banks aren’t ready",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1001427/ai-is-supercharging-hacking-and-your-local-hospitals-and-banks-arent-ready",
-    "pubDate": "2026-09-28T18:30:00.000Z",
-    "source": "The Verge AI",
+    "title": "AMD acquires World Labs AI startup, upping the ante against Nvidia",
+    "link": "https://arstechnica.com/ai/2026/09/amd-acquires-world-labs-ai-pioneer-fei-fei-lis-world-models-startup/",
+    "pubDate": "Tue, 29 Sep 2026 21:14:49 +0000",
+    "source": "Ars Technica AI",
     "category": "ai",
-    "content": "In March, Janice Malone began getting calls about suspicious activity from her nonprofit organization, Vivian's Door. Vivian's Door, headquartered in Alabama, typically provided training, resources, and community to underserved and minority-owned businesses. The work sometimes put it in close contact with these companies' financial data, which was stored on its systems. But suddenly, concerned callers from all over the world warned they'd been getting emails \"begging for money\" - which she hadn't sent.\nThe organization's third-party IT team pulled its systems offline for three days while they investigated the issue and plugged up the vulner …\nRead the full story at The Verge.",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25299205/STK453_Privacy_D_CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "Florida seeks a ban on ChatGPT acting like a person",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1001527/chatgpt-florida-ban-first-person-human-attributes-kids",
-    "pubDate": "2026-09-28T17:00:23.000Z",
-    "source": "The Verge AI",
-    "category": "ai",
-    "content": "Florida Attorney General James Uthmeier is calling for a judge to block OpenAI from \"giving ChatGPT false human attributes,\" a few months after Florida sued the AI company over safety concerns. According to Uthmeier, users are lulled into a false sense of security by the AI bot, as \"ChatGPT's use of language, including first-person pronouns and output that mimics emotion, deceptively suggests to users that it is a trustworthy 'friend.'\" All of this happens to increase engagement and contribute to OpenAI's training data, convincing users to rely on ChatGPT more even as its pursuit of engagement makes it potentially less trustworthy, claims Ut …\nRead the full story at The Verge.",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK149_AI_01.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "OpenAI keeps bulldozing mathematicians",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1001477/openai-math-advisory-group",
-    "pubDate": "2026-09-28T17:00:00.000Z",
-    "source": "The Verge AI",
-    "category": "ai",
-    "content": "In a chaotic few months, OpenAI has demonstrated it can do two things with remarkable consistency: make impressive breakthroughs in mathematics, then colossally screw up announcing them. OpenAI is now trying to do better. Somehow, it has botched that too. \nOpenAI's latest attempt to repair fractured relations with a mathematical community it has repeatedly alienated is to consult a new independent advisory group of elite practitioners. But mathematicians speaking to The Verge, including one of the group's members, describe a messy and confusing affair bearing many of the hallmarks of OpenAI's previous rushed forays into mathematics, suggest …\nRead the full story at The Verge.",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/VRG_OpenAIMAthBulldozer_Parkin.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "Walmart won’t hike prices based on your shopping history, CEO says",
-    "link": "https://www.theverge.com/tech/1001492/walmart-dynamic-pricing-digital-shelf-labels",
-    "pubDate": "2026-09-28T16:44:57.000Z",
-    "source": "The Verge AI",
-    "category": "ai",
-    "content": "Walmart says it won't change product prices based on your personal information or the time of day, as reported earlier by The Wall Street Journal. In a letter to customers, Walmart CEO John Furner writes that the company's switch to digital shelf labels is meant to save store associates time, rather than dynamically change prices.\n\"Your income, shopping history, urgency or what we think you could pay won't change the price,\" Furner writes. \"And whether you're buying groceries or electronics on a hot afternoon or in a sudden rush for an item, it's never a reason to charge you more.\" Furner adds that it won't use conversations with its Sparky …\nRead the full story at The Verge.",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2289554785.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "content": "The deal, which is expected to close by year's end, is worth $8.2 billion.",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/AMD-World-Labs-1152x648-1790711860.jpg",
     "summary": "",
     "importance": 5
   },
@@ -1577,28 +1602,6 @@
     "category": "ai",
     "content": "Trump focus on winning “AI race” may deter China from sharing safety intel.",
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/china-vs-us-ai-race-1152x648.jpg",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "XPRIZE Wildfire winners spotted fires within 10 min—but couldn’t stop them",
-    "link": "https://arstechnica.com/gadgets/2026/09/xprize-wildfire-winners-spotted-fires-within-10-min-but-couldnt-stop-them/",
-    "pubDate": "Wed, 23 Sep 2026 20:28:42 +0000",
-    "source": "Ars Technica AI",
-    "category": "ai",
-    "content": "$11M competition showed wildfire detection is still easier than stopping fires.",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/Andurils-fire-retardant-balls-explode-on-fire-target-1152x648.jpg",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "YouTube promises custom feeds and a lot more AI later this year",
-    "link": "https://arstechnica.com/gadgets/2026/09/youtube-promises-custom-feeds-and-a-lot-more-ai-later-this-year/",
-    "pubDate": "Wed, 23 Sep 2026 19:35:53 +0000",
-    "source": "Ars Technica AI",
-    "category": "ai",
-    "content": "YouTube's next year could change the content you see with a big focus on AI and livestreams.",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/made-on-youtube-2026.png",
     "summary": "",
     "importance": 5
   },
