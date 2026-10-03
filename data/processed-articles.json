@@ -36,6 +36,18 @@
     "classified": true
   },
   {
+    "title": "Crypto job postings triple to over 1,200 in September, but applications fall",
+    "link": "https://www.coindesk.com/business/2026/10/03/crypto-job-postings-triple-to-over-1-200-in-september-but-applications-fall",
+    "pubDate": "Sat, 03 Oct 2026 16:00:00 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "Finance, engineering and trading led hiring demand, while Bitcoin, Ethereum and Solana were the most frequently requested blockchain skills.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/0bd7d25adab19bae569a11ac843bb6b058835c49-1920x1080.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "Crypto job postings significantly tripled to over 1,200 in September, indicating a robust demand for talent within the sector. Despite this surge in available positions, the number of applications for these roles has reportedly fallen. The primary areas driving this hiring demand were finance, engineering, and trading, with Bitcoin, Ethereum, and Solana being the most sought-after blockchain skills.",
+    "importance": 8,
+    "classified": true
+  },
+  {
     "title": "Cathie Wood says smart investors need to start watching where AI agents spend money",
     "link": "https://www.coindesk.com/markets/2026/10/01/cathie-wood-says-smart-investors-need-to-start-watching-where-ai-agents-spend-money",
     "pubDate": "Sat, 03 Oct 2026 15:00:00 +0000",
@@ -144,18 +156,6 @@
     "classified": true
   },
   {
-    "title": "Citigroup raises 12-month bitcoin target to $113,000 as ETF inflows resume",
-    "link": "https://www.coindesk.com/markets/2026/10/01/citigroup-raises-12-month-bitcoin-target-to-usd113-000-as-etf-inflows-resume",
-    "pubDate": "Thu, 01 Oct 2026 09:59:30 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "Citi also raised its 12-month target for ether from from $2,240 to $3,028.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/9a0bc0c257509cbf3765bdb9b9028b2b1bec9a96-5621x3848.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "Citigroup has significantly raised its 12-month price target for Bitcoin to $113,000, citing resumed ETF inflows. The bank also increased its 12-month target for Ether from $2,240 to $3,028.",
-    "importance": 8,
-    "classified": true
-  },
-  {
     "title": "NEAR Intents recovers entire stolen $3.8M after ultimatum to exploiter",
     "link": "https://cointelegraph.com/news/near-intents-recovers-entire-stolen-38m-after-ultimatum-to-exploiter?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "pubDate": "Sat, 03 Oct 2026 11:59:10 +0000",
@@ -188,6 +188,54 @@
     "content": "A Lloyds survey found that faster payments and settlement are the most significant perceived benefits of tokenization, as the UK builds infrastructure for tokenized finance.",
     "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M3YKMQ9ZKPKNFEAPV81NBPWJ/blockchainweek2020uk1.png",
     "summary": "A Lloyds survey indicates that 71% of UK finance leaders expect tokenization to significantly reshape financial services. They view faster payments and settlement as the primary benefits, as the UK continues to develop infrastructure for tokenized finance.",
+    "importance": 8,
+    "classified": true
+  },
+  {
+    "title": "‘Euro stablecoin isn’t enough’: EU issuers make case for USD tokens",
+    "link": "https://cointelegraph.com/news/euro-stablecoin-not-enough-eu-case-usd-tokens?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Fri, 02 Oct 2026 14:12:48 +0000",
+    "source": "Cointelegraph",
+    "category": "crypto",
+    "content": "European issuers say Europe cannot ignore demand for dollar stablecoins as businesses seek USD liquidity for global payments and settlement.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M3YC9K50TRYWAJRWVJW83TNN/euro-and-dollar-characters-1.png",
+    "summary": "European stablecoin issuers advocate for the necessity of USD stablecoins in Europe, arguing that a Euro stablecoin alone is insufficient. They emphasize the significant demand from businesses for USD liquidity to facilitate global payments and settlements, asserting that Europe must address this need.",
+    "importance": 8,
+    "classified": true
+  },
+  {
+    "title": "Furious debate about THORChain vs NEAR shows idealism has limits",
+    "link": "https://cointelegraph.com/magazine/furious-debate-about-thorchain-vs-near-shows-idealism-has-limits?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Fri, 02 Oct 2026 13:30:00 +0000",
+    "source": "Cointelegraph",
+    "category": "crypto",
+    "content": "The furious debate over Bitget’s $387.7M of hacked funds comes down to whether ideals around “permissionless and decentralized” tech means never intervening — even if you could.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M3V8TZXTY569YW4G499PZ1BJ/magazine-bi-weekly-cybersecurity2.jpg",
+    "summary": "A debate has erupted following Bitget's $387.7 million hack, centering on the conflict between the ideals of permissionless and decentralized technology and the practicality of intervention. The discussion explores whether fundamental principles should always prohibit action, even when feasible.",
+    "importance": 8,
+    "classified": true
+  },
+  {
+    "title": "Circle urges EU to revise stablecoin reserve rules in MiCA review",
+    "link": "https://cointelegraph.com/news/circle-eu-stablecoin-reserve-rules-mica-review?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Fri, 02 Oct 2026 12:25:56 +0000",
+    "source": "Cointelegraph",
+    "category": "crypto",
+    "content": "Circle wants the EU to replace mandatory bank-deposit minimums with more flexible liquidity rules and preserve cross-border stablecoin issuance.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M3Y90SKJ0JH2780Z7C0JS7NK/hi-money-or-assets-how-different-gvnts-define-stablecoin-eu.jpg",
+    "summary": "Circle is urging the European Union to revise its stablecoin reserve rules within the MiCA framework. The company advocates for replacing mandatory bank-deposit minimums with more flexible liquidity regulations and seeks to ensure the preservation of cross-border stablecoin issuance.",
+    "importance": 8,
+    "classified": true
+  },
+  {
+    "title": "BNB Chain crosses $1B in tokenized stocks, ETFs as market hits $3.7B",
+    "link": "https://cointelegraph.com/markets/bnb-chain-1-billion-tokenized-assets-market-3-7-billion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Fri, 02 Oct 2026 11:40:21 +0000",
+    "source": "Cointelegraph",
+    "category": "crypto",
+    "content": "Tokenized stocks and ETFs on BNB Chain reached $1.1 billion as the broader market climbed to $3.7 billion, putting the network’s share at roughly 30%.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M3Y404AJBW7P5AXPAFDB86VV/sponsor-screen-traid-bnb-chain.jpg",
+    "summary": "Tokenized stocks and ETFs on BNB Chain have reached $1.1 billion, securing approximately 30% of the broader market. The overall market for tokenized securities has climbed to $3.7 billion, highlighting significant growth in this sector.",
     "importance": 8,
     "classified": true
   },
@@ -394,50 +442,6 @@
     "summary": "Illinois has agreed to a six-month delay for its controversial 0.2% crypto tax, pushing the effective date to July 1, provided the court approves the deal. This agreement allows both the state and the crypto industry to focus on the ongoing legal dispute regarding the tax's legality.",
     "importance": 5,
     "classified": true
-  },
-  {
-    "title": "‘Euro stablecoin isn’t enough’: EU issuers make case for USD tokens",
-    "link": "https://cointelegraph.com/news/euro-stablecoin-not-enough-eu-case-usd-tokens?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Fri, 02 Oct 2026 14:12:48 +0000",
-    "source": "Cointelegraph",
-    "category": "crypto",
-    "content": "European issuers say Europe cannot ignore demand for dollar stablecoins as businesses seek USD liquidity for global payments and settlement.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M3YC9K50TRYWAJRWVJW83TNN/euro-and-dollar-characters-1.png",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "Furious debate about THORChain vs NEAR shows idealism has limits",
-    "link": "https://cointelegraph.com/magazine/furious-debate-about-thorchain-vs-near-shows-idealism-has-limits?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Fri, 02 Oct 2026 13:30:00 +0000",
-    "source": "Cointelegraph",
-    "category": "crypto",
-    "content": "The furious debate over Bitget’s $387.7M of hacked funds comes down to whether ideals around “permissionless and decentralized” tech means never intervening — even if you could.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M3V8TZXTY569YW4G499PZ1BJ/magazine-bi-weekly-cybersecurity2.jpg",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "Circle urges EU to revise stablecoin reserve rules in MiCA review",
-    "link": "https://cointelegraph.com/news/circle-eu-stablecoin-reserve-rules-mica-review?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Fri, 02 Oct 2026 12:25:56 +0000",
-    "source": "Cointelegraph",
-    "category": "crypto",
-    "content": "Circle wants the EU to replace mandatory bank-deposit minimums with more flexible liquidity rules and preserve cross-border stablecoin issuance.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M3Y90SKJ0JH2780Z7C0JS7NK/hi-money-or-assets-how-different-gvnts-define-stablecoin-eu.jpg",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "BNB Chain crosses $1B in tokenized stocks, ETFs as market hits $3.7B",
-    "link": "https://cointelegraph.com/markets/bnb-chain-1-billion-tokenized-assets-market-3-7-billion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Fri, 02 Oct 2026 11:40:21 +0000",
-    "source": "Cointelegraph",
-    "category": "crypto",
-    "content": "Tokenized stocks and ETFs on BNB Chain reached $1.1 billion as the broader market climbed to $3.7 billion, putting the network’s share at roughly 30%.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M3Y404AJBW7P5AXPAFDB86VV/sponsor-screen-traid-bnb-chain.jpg",
-    "summary": "",
-    "importance": 5
   },
   {
     "title": "Bitcoin treasuries may struggle to match Strategy, says Ammous",
@@ -1012,6 +1016,28 @@
     "importance": 5
   },
   {
+    "title": "Amazon responds to data center backlash, says it no longer uses NDAs",
+    "link": "https://techcrunch.com/2026/10/03/amazon-responds-to-data-center-backlash-says-it-no-longer-uses-ndas/",
+    "pubDate": "Sat, 03 Oct 2026 18:43:57 +0000",
+    "source": "TechCrunch AI",
+    "category": "ai",
+    "content": "The CEO of Amazon Web Services tried to push back against widespread suspicion of data centers.",
+    "image": "",
+    "summary": "",
+    "importance": 5
+  },
+  {
+    "title": "OpenAI safety employee resigns, claiming the company’s ‘culture is broken’",
+    "link": "https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken/",
+    "pubDate": "Sat, 03 Oct 2026 16:30:01 +0000",
+    "source": "TechCrunch AI",
+    "category": "ai",
+    "content": "By his own admission, David Robinson is “something of a cliché”: an employee at a leading AI company who issues a dire warning while resigning from their job.",
+    "image": "",
+    "summary": "",
+    "importance": 5
+  },
+  {
     "title": "All the AI agents that can live in your text messages ",
     "link": "https://techcrunch.com/2026/10/03/all-the-ai-agents-that-can-live-in-your-text-messages/",
     "pubDate": "Sat, 03 Oct 2026 14:00:00 +0000",
@@ -1210,24 +1236,13 @@
     "importance": 5
   },
   {
-    "title": "Shopify debuts Canvas, a way to build online stores by chatting with AI",
-    "link": "https://techcrunch.com/2026/10/01/shopify-debuts-canvas-a-way-to-build-online-stores-by-chatting-with-ai/",
-    "pubDate": "Thu, 01 Oct 2026 16:44:35 +0000",
-    "source": "TechCrunch AI",
+    "title": "Capcom is preparing for a ‘future where we create games together with AI’",
+    "link": "https://www.theverge.com/games/1004418/capcom-ai-game-development",
+    "pubDate": "2026-10-03T16:49:10.000Z",
+    "source": "The Verge AI",
     "category": "ai",
-    "content": "Shopify’s new Canvas site builder lets merchants create and customize their online stores by chatting with its AI agent Sidekick, while watching the changes happen in real time.",
-    "image": "",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "Brian Chesky interview: AI agents need their own operating system",
-    "link": "https://techcrunch.com/2026/10/01/brian-chesky-interview-ai-agents-need-their-own-operating-system/",
-    "pubDate": "Thu, 01 Oct 2026 15:12:00 +0000",
-    "source": "TechCrunch AI",
-    "category": "ai",
-    "content": "Brian Chesky on making Airbnb agent-friendly, the state of consumer AI, and why the world needs an AI-native operating system.",
-    "image": "",
+    "content": "Capcom's Pragmata might be all about the horrors of AI, but in practice the studio doesn't seem so down on the tech. During the Capcom Open Conference RE: 2026 programmer Satoshi Ishida gave a presentation with the mouthful of a title: \"The Outlook and Future of the REX Project, Further Evolving the RE Engine for the Next Generation.\" During the talk he laid out the challenges facing studios producing games at the scale of Resident Evil, which can make even simple tasks extremely time consuming. The solution Ishida said is \"successfully integrating AI technology into development workflows.\"\nCapcom has said previously that it will not use AI …\nRead the full story at The Verge.",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/RE9_SS_08.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
     "summary": "",
     "importance": 5
   },
@@ -1327,17 +1342,6 @@
     "category": "ai",
     "content": "Amazon is calling for people to support AI data center projects, or risk irreparable harm to the US economy and national security. In a more than 3,000 word blog posted today, Amazon web services CEO Matt Garman pushed back on public concerns around the impact that data centers may have on jobs, power demands, and the environment, saying \"our nation can't afford to lose\" the race for AI dominance.\n\"With any change, there will be important questions raised, but there will also be misinformation and outright lies, and in the age of social media and 24/7 news, myths take hold faster than ever before,\" said Garman. \"In fact, this build out is s …\nRead the full story at The Verge.",
     "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STKS528_DATA_CENTERS_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "AI music maker Suno now generates spoken words",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1003925/suno-speech-ai-voice-feature-beta-availability",
-    "pubDate": "2026-10-02T09:42:19.000Z",
-    "source": "The Verge AI",
-    "category": "ai",
-    "content": "Suno is branching out from the world of AI music, launching a new feature that generates spoken voices based on scripts or prompted descriptions. Speech is now available in public beta across Suno's web and mobile platforms, and allows you to simultaneously generate voiceovers and background music to accompany them.\n\"Music will always be at the heart of Suno and what we build. At the same time, our vision has always extended to other forms of human expression,\" Suno chief product officer, Jack Brody, said in the announcement. \"Today, we're expanding what's possible in Suno with Speech: the first audio model that generates voice and music to …\nRead the full story at The Verge.",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Suno-AI-voices.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
     "summary": "",
     "importance": 5
   },
@@ -1586,18 +1590,6 @@
     "classified": true
   },
   {
-    "title": "Bitcoin kicks off new quarter in the old $82,000-$85,000 price range",
-    "link": "https://www.coindesk.com/markets/2026/10/01/bitcoin-kicks-off-new-quarter-in-the-old-usd82-000-usd85-000-price-range",
-    "pubDate": "Thu, 01 Oct 2026 10:38:04 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "Prices briefly topped $85,000 on Wednesday after weaker-than-expected U.S. inflation cooled bets on Fed rate hikes, But bulls couldn’t hold the move and spot ETFs didn’t help.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/bb51e416cc3b9516e4d1e13657783b557d7f17c7-2806x1018.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "Bitcoin began the new quarter trading within its established $82,000-$85,000 price range. Despite briefly surpassing $85,000 following weaker U.S. inflation data that dampened Federal Reserve rate hike expectations, bulls were unable to maintain the upward momentum, and spot ETFs did not contribute to sustaining the rally.",
-    "importance": 3,
-    "classified": true
-  },
-  {
     "title": "America at a crossroads: Commissioner Peirce’s parting challenge",
     "link": "https://www.coindesk.com/opinion/2026/10/01/america-at-a-crossroads-commissioner-peirce-s-parting-challenge",
     "pubDate": "Fri, 02 Oct 2026 13:22:19 +0000",
@@ -1607,6 +1599,18 @@
     "image": "https://cdn.sanity.io/images/s3y3vcno/production/d74fff0a557caad0b099c56a8e403b375c1441b3-8192x5464.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
     "summary": "Will Schwartz, a policy associate at the Blockchain Association, urges the continuation of Commissioner Peirce's mission, framing it as a 'parting challenge' for America. The brief piece, however, does not provide specifics about the mission or the issues at hand.",
     "importance": 2,
+    "classified": true
+  },
+  {
+    "title": "Payments firm OpenPayd targets year-end Nasdaq listing to fund U.S. expansion and acquisitions",
+    "link": "https://www.coindesk.com/business/2026/10/03/openpayd-targets-year-end-nasdaq-listing-to-fund-u-s-expansion-and-acquisitions",
+    "pubDate": "Sat, 03 Oct 2026 16:00:00 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "CEO Iana Dimitrova said OpenPayd aims to launch in the U.S. by April 2027 and is eyeing deals to add licenses and technology.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/26685777b02289720baed417998ab31c5110fd17-1920x1080.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "Payments firm OpenPayd aims for a year-end Nasdaq listing to secure funding for its expansion into the U.S. market and potential acquisitions. The company plans to launch in the U.S. by April 2027, actively seeking deals to obtain licenses and technology.",
+    "importance": 1,
     "classified": true
   },
   {
