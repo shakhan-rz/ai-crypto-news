@@ -36,6 +36,18 @@
     "classified": true
   },
   {
+    "title": "SEC proposes framework allowing investment advisers, funds to self-custody crypto",
+    "link": "https://www.theblock.co/news/regulation/2026-10-01-sec-proposes-crypto-custody-rule-investment-advisers-funds-417498",
+    "pubDate": "Thu, 01 Oct 2026 21:00:53 +0000",
+    "source": "The Block",
+    "category": "crypto",
+    "content": "SEC proposed a crypto framework for investment advisers & funds, allowing self-custody in some cases & state trust companies as custodians.",
+    "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2023/09/20230814_TheSEC_News2.jpg",
+    "summary": "The SEC has proposed a new framework for investment advisers and funds regarding cryptocurrency custody. This framework would permit self-custody of digital assets in specific situations and allow state trust companies to serve as custodians. This move aims to provide regulatory clarity for institutions holding crypto.",
+    "importance": 9,
+    "classified": true
+  },
+  {
     "title": "The Clarity Act stalled. Bankers aren’t hitting the brakes yet on crypto dealmaking",
     "link": "https://www.coindesk.com/business/2026/10/04/the-clarity-act-stalled-crypto-dealmakers-aren-t-hitting-the-brakes-yet",
     "pubDate": "Sun, 04 Oct 2026 13:00:00 +0000",
@@ -396,6 +408,18 @@
     "classified": true
   },
   {
+    "title": "Ethereum Foundation launches zkAPI to let users pay for AI models without revealing identity",
+    "link": "https://www.theblock.co/news/defi/2026-10-01-ethereum-foundation-launches-zkapi-417504",
+    "pubDate": "Fri, 02 Oct 2026 00:22:58 +0000",
+    "source": "The Block",
+    "category": "both",
+    "content": "Users deposit funds into an Ethereum vault and authorize spending with zero-knowledge proofs, so the API provider can't link requests to a payer.",
+    "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/10/image-1790891524107.png",
+    "summary": "The Ethereum Foundation has launched a zkAPI that allows users to pay for AI models while preserving their anonymity. Users deposit funds into an Ethereum vault and authorize spending using zero-knowledge proofs, preventing API providers from linking payment requests to their identity.",
+    "importance": 8,
+    "classified": true
+  },
+  {
     "title": "Crypto poured years into new products. The next challenge is keeping users",
     "link": "https://www.coindesk.com/business/2026/10/04/crypto-poured-years-into-new-products-the-next-challenge-is-keeping-users",
     "pubDate": "Sun, 04 Oct 2026 14:00:00 +0000",
@@ -480,6 +504,18 @@
     "classified": true
   },
   {
+    "title": "Former SEC boss made AI Czar, Bitcoin may hit $600K this cycle: Hodler’s Digest",
+    "link": "https://cointelegraph.com/magazine/former-sec-boss-made-ai-czar-bitcoin-may-hit-600k-this-cycle-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Sun, 04 Oct 2026 22:31:12 +0000",
+    "source": "Cointelegraph",
+    "category": "both",
+    "content": "Roman Storm and the XRP army aren’t happy former SEC boss Jay Clayton is Trump’s new AI czar, Peter Brandt flips bullish and says Bitcoin may reach as high as $600K by 2029.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M44CDHE2CKEJ0000STF6RMVM/october-2-collage-cover.png",
+    "summary": "Former SEC Chair Jay Clayton's appointment as Trump's AI czar has drawn criticism from Roman Storm and the XRP community. Meanwhile, analyst Peter Brandt has expressed a bullish outlook on Bitcoin, forecasting a potential rise to $600K by 2029.",
+    "importance": 7,
+    "classified": true
+  },
+  {
     "title": "European crypto users have ‘more faith’ in regulated firms under MiCA: Bitpanda co-CEO",
     "link": "https://cointelegraph.com/news/mica-strengthened-retail-trust-regulated-crypto-exchanges-bitpanda-ceo-says?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "pubDate": "Fri, 02 Oct 2026 20:40:47 +0000",
@@ -560,18 +596,6 @@
     "content": "Porsche is winding down its Web3 project and Pioneers Circle community as trading activity in its 911 NFT collection falls sharply from early levels.",
     "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M3XVQ90NXXBKZTRCV3S58R4J/porsche-panamera.jpg",
     "summary": "Porsche is discontinuing its Web3 project and Pioneers Circle community less than four years after its launch. The decision was prompted by a significant decline in trading activity for its 911 NFT collection from early levels.",
-    "importance": 7,
-    "classified": true
-  },
-  {
-    "title": "NEAR Intents says it’s identified the hacker, gives 48-hour ultimatum",
-    "link": "https://cointelegraph.com/news/near-intents-says-its-identified-the-hacker-gives-48-hour-ultimatum?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Fri, 02 Oct 2026 02:02:13 +0000",
-    "source": "Cointelegraph",
-    "category": "crypto",
-    "content": "“We have identified you, sir,” NEAR Intents general manager Alex Shevchenko said on Friday after the protocol was hacked for $3.8 million.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M3X5BHCXH6SN25VJD4G0A2MX/hacker.jpg",
-    "summary": "NEAR Intents, a protocol that recently suffered a $3.8 million hack, announced through its general manager Alex Shevchenko that they have identified the perpetrator. The team has given the hacker a 48-hour ultimatum following the incident.",
     "importance": 7,
     "classified": true
   },
@@ -670,28 +694,6 @@
     "summary": "BitGo CEO Mike Belshe warned that Clarity's failure exposed capital markets to systemic risks potentially worse than Lehman Brothers. He attributed this danger to a single firm combining exchange, brokerage, and custody functions, creating a dangerous concentration of financial power.",
     "importance": 5,
     "classified": true
-  },
-  {
-    "title": "Ethereum Foundation launches zkAPI to let users pay for AI models without revealing identity",
-    "link": "https://www.theblock.co/news/defi/2026-10-01-ethereum-foundation-launches-zkapi-417504",
-    "pubDate": "Fri, 02 Oct 2026 00:22:58 +0000",
-    "source": "The Block",
-    "category": "crypto",
-    "content": "Users deposit funds into an Ethereum vault and authorize spending with zero-knowledge proofs, so the API provider can't link requests to a payer.",
-    "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/10/image-1790891524107.png",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "SEC proposes framework allowing investment advisers, funds to self-custody crypto",
-    "link": "https://www.theblock.co/news/regulation/2026-10-01-sec-proposes-crypto-custody-rule-investment-advisers-funds-417498",
-    "pubDate": "Thu, 01 Oct 2026 21:00:53 +0000",
-    "source": "The Block",
-    "category": "crypto",
-    "content": "SEC proposed a crypto framework for investment advisers & funds, allowing self-custody in some cases & state trust companies as custodians.",
-    "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2023/09/20230814_TheSEC_News2.jpg",
-    "summary": "",
-    "importance": 5
   },
   {
     "title": "Hyperliquid Policy Center, Circle press EU on perps and stablecoin reserves in MiCA review",
@@ -815,17 +817,6 @@
     "importance": 5
   },
   {
-    "title": "When the Banks Don’t Work, Bitcoin Does: Cornell University’s Adoption Index",
-    "link": "https://bitcoinmagazine.com/news/when-banks-dont-work-bitcoin-does-cornell",
-    "pubDate": "Fri, 02 Oct 2026 19:15:58 +0000",
-    "source": "Bitcoin Magazine",
-    "category": "crypto",
-    "content": "Bitcoin Magazine\n\nWhen the Banks Don’t Work, Bitcoin Does: Cornell University’s Adoption Index\nCornell University spoke to 25,880 people about using bitcoin. While many don't understand the tech in depth, it's proving useful for some. \nThis post When the Banks Don’t Work, Bitcoin Does: Cornell University’s Adoption Index first appeared on Bitcoin Magazine and is written by Mathew Di Salvo.",
-    "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/09/Pics-1-1.jpg",
-    "summary": "",
-    "importance": 5
-  },
-  {
     "title": "South Africa’s Absa Becomes First Bank on the Continent to Custody Bitcoin: Report",
     "link": "https://bitcoinmagazine.com/news/absa-first-african-bank-to-custody-bitcoin",
     "pubDate": "Fri, 02 Oct 2026 18:12:28 +0000",
@@ -910,6 +901,17 @@
     "category": "crypto",
     "content": "Bitcoin Magazine\n\nSazmining Launches the Wild Sats Club, a Loyalty Program That Discounts Mining Management Fees as Customer Hashrate Grows\nSazmining, a Bitcoin Mining as a Service company founded in 2020 and led by CEO and Co-Founder Kent Halliburton, today launched the Wild Sats Club, a loyalty program with four tiers that lowers the management fee customers pay as their petahash under management grows. The program is open to existing and new customers starting today. \nThis post Sazmining Launches the Wild Sats Club, a Loyalty Program That Discounts Mining Management Fees as Customer Hashrate Grows first appeared on Bitcoin Magazine and is written by Bitcoin Magazine.",
     "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/10/Release-1988-image-safe.jpeg",
+    "summary": "",
+    "importance": 5
+  },
+  {
+    "title": "Jack Dorsey’s Block Launches Campaign To Get People Spending Bitcoin ",
+    "link": "https://bitcoinmagazine.com/news/block-launches-bitcoin-campaign",
+    "pubDate": "Thu, 01 Oct 2026 20:15:36 +0000",
+    "source": "Bitcoin Magazine",
+    "category": "crypto",
+    "content": "Bitcoin Magazine\n\nJack Dorsey’s Block Launches Campaign To Get People Spending Bitcoin \nBlock has launched a campaign to get people on a Bitcoin standard. \nThis post Jack Dorsey’s Block Launches Campaign To Get People Spending Bitcoin  first appeared on Bitcoin Magazine and is written by Mathew Di Salvo.",
+    "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/10/screenshot_281_1920x1080-1.jpg",
     "summary": "",
     "importance": 5
   },
@@ -1020,6 +1022,17 @@
     "category": "ai",
     "content": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Coming soon: our 2026 list of Climate Tech Companies to Watch With the planet nearing 1.5 °C of warming, climate policies being unraveled, and Big Tech backpedaling on its climate ambitions,…",
     "image": "https://wp.technologyreview.com/wp-content/uploads/2026/05/260511-drug-manufacturing-space-hero.jpg?fit=2128,1196",
+    "summary": "",
+    "importance": 5
+  },
+  {
+    "title": "Google froze its open source bug bounty program due to a ‘significant rise’ in AI submissions",
+    "link": "https://techcrunch.com/2026/10/04/google-froze-its-open-source-bug-bounty-program-due-to-a-significant-rise-in-ai-submissions/",
+    "pubDate": "Sun, 04 Oct 2026 20:31:07 +0000",
+    "source": "TechCrunch AI",
+    "category": "ai",
+    "content": "AI slop seems to be overwhelming bug bounty programs.",
+    "image": "",
     "summary": "",
     "importance": 5
   },
@@ -1228,17 +1241,6 @@
     "source": "TechCrunch AI",
     "category": "ai",
     "content": "Google launched its first advanced chip into orbit to pave the way for space data centers.",
-    "image": "",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "OpenAI cuts ties with 3 safety researchers, WSJ reports",
-    "link": "https://techcrunch.com/2026/10/01/openai-cuts-ties-with-three-safety-researchers-wsj-reports/",
-    "pubDate": "Thu, 01 Oct 2026 18:14:42 +0000",
-    "source": "TechCrunch AI",
-    "category": "ai",
-    "content": "OpenAI has parted ways with three safety researchers after an internal investigation found they mishandled sensitive company information, report says.",
     "image": "",
     "summary": "",
     "importance": 5
