@@ -12,6 +12,18 @@
     "classified": true
   },
   {
+    "title": "El Salvador receives $138 million from IMF after Bitcoin waivers granted",
+    "link": "https://cointelegraph.com/news/el-salvador-receives-138-million-from-imf-after-bitcoin-waivers-granted?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Sun, 04 Oct 2026 09:39:51 +0000",
+    "source": "Cointelegraph",
+    "category": "crypto",
+    "content": "Efforts will continue to reduce the state’s involvement in Bitcoin-related activities and to strengthen crypto‑asset regulation and governance, the IMF said.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M434D7ZXME5ND5M2XADZCGVE/hi-how-bitcoin-is-transforming-lives-in-el-salvador.png",
+    "summary": "El Salvador has received a $138 million disbursement from the International Monetary Fund (IMF) following the granting of Bitcoin waivers. The IMF stated that El Salvador is expected to continue reducing state involvement in Bitcoin activities and strengthen crypto-asset regulation and governance.",
+    "importance": 9,
+    "classified": true
+  },
+  {
     "title": "Trump is expected to appoint Jay Clayton as new AI czar: Reports",
     "link": "https://cointelegraph.com/news/trump-is-expected-to-appoint-jay-clayton-as-new-ai-czar-reports?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "pubDate": "Sat, 03 Oct 2026 07:06:08 +0000",
@@ -24,14 +36,14 @@
     "classified": true
   },
   {
-    "title": "Trump to host 3rd ‘exclusive’ memecoin event amid corruption claims",
-    "link": "https://cointelegraph.com/news/donald-trump-memecoin-dinner-corruption-claims?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Thu, 01 Oct 2026 21:00:11 +0000",
+    "title": "SEC moves to clear custody hurdle for advisers offering crypto ",
+    "link": "https://cointelegraph.com/news/sec-moves-to-clear-custody-hurdle-for-advisers-offering-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Fri, 02 Oct 2026 01:07:08 +0000",
     "source": "Cointelegraph",
     "category": "crypto",
-    "content": "The president is scheduled to appear at his golf club in Washington, DC, at a Nov. 22 dinner for his top 185 memecoin holders, following similar events in May 2025 and April 2026.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M3WEDVQV08N86T96EE7QKVBP/trump-and-memecoin.jpg",
-    "summary": "Donald Trump is scheduled to host his third exclusive memecoin event on November 22 at his Washington, DC golf club. This dinner is for his top 185 memecoin holders and follows similar past events, occurring amidst allegations of corruption.",
+    "content": "Custody requirements have kept some investment advisers from offering certain crypto to clients, a regulatory hurdle the SEC’s proposal could remove.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1XP9EEWDQ84ZSGS1X5SFP19/hi-sbuidl-blackrocks-tokenized-treasury-fund.jpg",
+    "summary": "The SEC has introduced a proposal designed to ease custody requirements, which could remove a significant regulatory hurdle for investment advisers. This change would enable these advisers to offer certain cryptocurrencies to their clients, potentially expanding the integration of digital assets into traditional financial services.",
     "importance": 9,
     "classified": true
   },
@@ -152,6 +164,18 @@
     "content": "The popular cross-chain trading system said Friday the exploiter returned all stolen assets a day later a bug affected deposits and withdrawals across several networks.",
     "image": "https://cdn.sanity.io/images/s3y3vcno/production/5844591d4fc53908b4ecc1fda0511af88a269620-6024x4024.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
     "summary": "NEAR Intents, a prominent cross-chain trading system, was hit by a $3.8 million exploit due to a bug impacting deposits and withdrawals across various networks. The system has committed to reimbursing all losses sustained by affected users. This incident adds to the ongoing series of hacks experienced by the cryptocurrency industry throughout the current year.",
+    "importance": 8,
+    "classified": true
+  },
+  {
+    "title": "Russia’s Finance Ministry pays wages in digital rubles for first time",
+    "link": "https://cointelegraph.com/news/russias-finance-ministry-pays-wages-in-digital-rubles-for-first-time?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Sun, 04 Oct 2026 07:16:53 +0000",
+    "source": "Cointelegraph",
+    "category": "crypto",
+    "content": "Work on the introduction of the digital ruble to the budget process is being carried out by the Bank of Russia together with the Ministry of Finance.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M42W4H59F8TR0F58VVB4T7YG/russia-kremlin-moscow-red-square-digital-rouble-ruble-national-cryptocurrency.png",
+    "summary": "Russia's Finance Ministry has paid wages in digital rubles for the first time, marking a notable step in the country's adoption of its Central Bank Digital Currency (CBDC). This effort is a collaboration between the Bank of Russia and the Ministry of Finance to integrate the digital ruble into the national budget process.",
     "importance": 8,
     "classified": true
   },
@@ -312,6 +336,30 @@
     "classified": true
   },
   {
+    "title": "Core Lightning warns attackers are targeting unpatched nodes",
+    "link": "https://cointelegraph.com/news/core-lightning-urges-upgrade-amid-reports-attackers-targeting-unpatched-nodes?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Fri, 02 Oct 2026 04:18:43 +0000",
+    "source": "Cointelegraph",
+    "category": "crypto",
+    "content": "Node operators running version 26.06.7 or earlier were told to upgrade immediately.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M3XCTY0H5CWTX6KGY7GT99ER/lightning-network.jpg",
+    "summary": "Core Lightning has issued an urgent warning to node operators running versions 26.06.7 or earlier, advising them to upgrade immediately. This alert comes as attackers are reportedly targeting unpatched nodes, posing a significant security risk.",
+    "importance": 8,
+    "classified": true
+  },
+  {
+    "title": "Ethereum’s zkAPI brings privacy-preserving API payments to mainnet",
+    "link": "https://cointelegraph.com/news/ethereum-zkapi-private-api-payments-mainnet?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Fri, 02 Oct 2026 03:34:25 +0000",
+    "source": "Cointelegraph",
+    "category": "crypto",
+    "content": "Ethereum’s zkAPI is now live on mainnet, turning an earlier zero-knowledge API payment proposal into a working implementation for private, prepaid access.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M3X972EWX5K7AHE6FH5F9MX3/privacy-ai.png",
+    "summary": "Ethereum's zkAPI has officially launched on the mainnet, providing a working implementation for privacy-preserving API payments. This system allows for private, prepaid access to APIs by utilizing zero-knowledge technology.",
+    "importance": 8,
+    "classified": true
+  },
+  {
     "title": "China warns foreign spies about crypto, Singapore dominates Asia: Asia Express",
     "link": "https://cointelegraph.com/magazine/china-claims-crypto-used-by-spies-singapore-dominates-asian-crypto-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "pubDate": "Thu, 01 Oct 2026 23:17:47 +0000",
@@ -320,18 +368,6 @@
     "content": "Singapore’s crypto economy grows 55%, South Korea set to make crypto market makers legal, and Chinese spy ministry warns would-be foreign spies it’s watching the blockchain.",
     "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M3WVGY0BWCZXBWJ212RM1CMX/magazineasia-expresshighway.jpg",
     "summary": "Singapore's crypto economy has seen a significant 55% growth, while South Korea is moving towards legalizing crypto market makers. Concurrently, China's spy ministry issued a warning to foreign intelligence, indicating its surveillance of blockchain activities.",
-    "importance": 8,
-    "classified": true
-  },
-  {
-    "title": "Evernorth clears shareholder vote ahead of Nasdaq debut with 473M XRP treasury",
-    "link": "https://cointelegraph.com/news/evernorth-clears-shareholder-vote-ahead-nasdaq-debut-473m-xrp-treasury?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Thu, 01 Oct 2026 21:07:45 +0000",
-    "source": "Cointelegraph",
-    "category": "crypto",
-    "content": "Evernorth expects to begin trading on Nasdaq under the ticker XRPN after its SPAC merger closes, with an XRP treasury worth roughly $710 million at current prices.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M3WJGXZ9FFQTSYAEBHHG5A8X/hi-types-of-consensus-mechanisms-in-blockchain.png",
-    "summary": "Evernorth has successfully cleared its shareholder vote and is preparing for its Nasdaq debut under the ticker XRPN after a SPAC merger. The company is set to launch with a substantial XRP treasury valued at approximately $710 million at current market prices.",
     "importance": 8,
     "classified": true
   },
@@ -504,6 +540,18 @@
     "classified": true
   },
   {
+    "title": "NEAR Intents says it’s identified the hacker, gives 48-hour ultimatum",
+    "link": "https://cointelegraph.com/news/near-intents-says-its-identified-the-hacker-gives-48-hour-ultimatum?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Fri, 02 Oct 2026 02:02:13 +0000",
+    "source": "Cointelegraph",
+    "category": "crypto",
+    "content": "“We have identified you, sir,” NEAR Intents general manager Alex Shevchenko said on Friday after the protocol was hacked for $3.8 million.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M3X5BHCXH6SN25VJD4G0A2MX/hacker.jpg",
+    "summary": "NEAR Intents, a protocol that recently suffered a $3.8 million hack, announced through its general manager Alex Shevchenko that they have identified the perpetrator. The team has given the hacker a 48-hour ultimatum following the incident.",
+    "importance": 7,
+    "classified": true
+  },
+  {
     "title": "Here’s what happened in crypto today",
     "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "pubDate": "Sat, 03 Oct 2026 12:20:00 +0000",
@@ -550,50 +598,6 @@
     "summary": "Illinois has agreed to a six-month delay for its controversial 0.2% crypto tax, pushing the effective date to July 1, provided the court approves the deal. This agreement allows both the state and the crypto industry to focus on the ongoing legal dispute regarding the tax's legality.",
     "importance": 5,
     "classified": true
-  },
-  {
-    "title": "Core Lightning warns attackers are targeting unpatched nodes",
-    "link": "https://cointelegraph.com/news/core-lightning-urges-upgrade-amid-reports-attackers-targeting-unpatched-nodes?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Fri, 02 Oct 2026 04:18:43 +0000",
-    "source": "Cointelegraph",
-    "category": "crypto",
-    "content": "Node operators running version 26.06.7 or earlier were told to upgrade immediately.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M3XCTY0H5CWTX6KGY7GT99ER/lightning-network.jpg",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "Ethereum’s zkAPI brings privacy-preserving API payments to mainnet",
-    "link": "https://cointelegraph.com/news/ethereum-zkapi-private-api-payments-mainnet?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Fri, 02 Oct 2026 03:34:25 +0000",
-    "source": "Cointelegraph",
-    "category": "crypto",
-    "content": "Ethereum’s zkAPI is now live on mainnet, turning an earlier zero-knowledge API payment proposal into a working implementation for private, prepaid access.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M3X972EWX5K7AHE6FH5F9MX3/privacy-ai.png",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "NEAR Intents says it’s identified the hacker, gives 48-hour ultimatum",
-    "link": "https://cointelegraph.com/news/near-intents-says-its-identified-the-hacker-gives-48-hour-ultimatum?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Fri, 02 Oct 2026 02:02:13 +0000",
-    "source": "Cointelegraph",
-    "category": "crypto",
-    "content": "“We have identified you, sir,” NEAR Intents general manager Alex Shevchenko said on Friday after the protocol was hacked for $3.8 million.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M3X5BHCXH6SN25VJD4G0A2MX/hacker.jpg",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "SEC moves to clear custody hurdle for advisers offering crypto ",
-    "link": "https://cointelegraph.com/news/sec-moves-to-clear-custody-hurdle-for-advisers-offering-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Fri, 02 Oct 2026 01:07:08 +0000",
-    "source": "Cointelegraph",
-    "category": "crypto",
-    "content": "Custody requirements have kept some investment advisers from offering certain crypto to clients, a regulatory hurdle the SEC’s proposal could remove.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1XP9EEWDQ84ZSGS1X5SFP19/hi-sbuidl-blackrocks-tokenized-treasury-fund.jpg",
-    "summary": "",
-    "importance": 5
   },
   {
     "title": "Drift opens exploit recovery claims with initial payouts of just over 1% of user losses",
