@@ -360,30 +360,6 @@
     "classified": true
   },
   {
-    "title": "Core Lightning warns attackers are targeting unpatched nodes",
-    "link": "https://cointelegraph.com/news/core-lightning-urges-upgrade-amid-reports-attackers-targeting-unpatched-nodes?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Fri, 02 Oct 2026 04:18:43 +0000",
-    "source": "Cointelegraph",
-    "category": "crypto",
-    "content": "Node operators running version 26.06.7 or earlier were told to upgrade immediately.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M3XCTY0H5CWTX6KGY7GT99ER/lightning-network.jpg",
-    "summary": "Core Lightning has issued an urgent warning to node operators running versions 26.06.7 or earlier, advising them to upgrade immediately. This alert comes as attackers are reportedly targeting unpatched nodes, posing a significant security risk.",
-    "importance": 8,
-    "classified": true
-  },
-  {
-    "title": "Ethereum’s zkAPI brings privacy-preserving API payments to mainnet",
-    "link": "https://cointelegraph.com/news/ethereum-zkapi-private-api-payments-mainnet?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Fri, 02 Oct 2026 03:34:25 +0000",
-    "source": "Cointelegraph",
-    "category": "crypto",
-    "content": "Ethereum’s zkAPI is now live on mainnet, turning an earlier zero-knowledge API payment proposal into a working implementation for private, prepaid access.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M3X972EWX5K7AHE6FH5F9MX3/privacy-ai.png",
-    "summary": "Ethereum's zkAPI has officially launched on the mainnet, providing a working implementation for privacy-preserving API payments. This system allows for private, prepaid access to APIs by utilizing zero-knowledge technology.",
-    "importance": 8,
-    "classified": true
-  },
-  {
     "title": "ECB outlines three models for putting central bank money onchain",
     "link": "https://www.theblock.co/news/regulation/2026-10-02-ecb-outlines-three-models-for-putting-central-bank-money-onchain-417552",
     "pubDate": "Fri, 02 Oct 2026 10:17:39 +0000",
@@ -500,6 +476,18 @@
     "content": "The euro is losing ground versus the greenback as spiking French bond yields revive memories of the European sovereign debt crisis.",
     "image": "",
     "summary": "Bitcoin is reported to be flat near $84,000 after closing its best quarter, possibly referring to 2024. This occurs amidst a dip in interest rates, anticipating tomorrow's key U.S. employment report.",
+    "importance": 7,
+    "classified": true
+  },
+  {
+    "title": "Safe investor asks Swiss watchdog to intervene in governance dispute",
+    "link": "https://cointelegraph.com/news/safe-investor-asks-swiss-watchdog-to-intervene-in-governance-dispute?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Mon, 05 Oct 2026 03:12:21 +0000",
+    "source": "Cointelegraph",
+    "category": "crypto",
+    "content": "Greenfield Capital said it sought changes to Safe Ecosystem Foundation’s board for months before turning to the Swiss regulator.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M450M7X1NSRM61WXEJS579ZE/governance.jpg",
+    "summary": "Greenfield Capital, an investor in Safe, has asked a Swiss regulator to intervene in a governance dispute with the Safe Ecosystem Foundation’s board. This action follows months of unsuccessful attempts by Greenfield to implement changes to the foundation's leadership.",
     "importance": 7,
     "classified": true
   },
@@ -682,6 +670,17 @@
     "summary": "Bitcoin has surged past $86,000, rising roughly 3% in October, as traders await the release of September's U.S. jobs report. This price increase occurs despite broader markets experiencing pressure from rising bond yields and a stronger dollar.",
     "importance": 5,
     "classified": true
+  },
+  {
+    "title": "Zcash gets a Washington lobbyist to push crypto policy",
+    "link": "https://cointelegraph.com/news/zcash-gets-a-washington-lobbyist-to-push-crypto-policy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Mon, 05 Oct 2026 00:35:34 +0000",
+    "source": "Cointelegraph",
+    "category": "crypto",
+    "content": "The newly registered lobbying operation lists the CLARITY Act and two digital asset tax proposals among the issues it plans to lobby on in Washington.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M44PCPNQJ0FDJMVNEEJEXBKG/zcash-1.jpg",
+    "summary": "",
+    "importance": 5
   },
   {
     "title": "BitGo CEO says Clarity’s failure left capital markets exposed to risk potentially worse than Lehman",
