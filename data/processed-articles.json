@@ -60,18 +60,6 @@
     "classified": true
   },
   {
-    "title": "Trump expected to appoint Jay Clayton as new AI czar: Reports",
-    "link": "https://cointelegraph.com/news/trump-is-expected-to-appoint-jay-clayton-as-new-ai-czar-reports?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Sat, 03 Oct 2026 07:09:00 +0000",
-    "source": "Cointelegraph",
-    "category": "ai",
-    "content": "US intel chief Clayton may be asked to also oversee AI innovation and development along with “self policing” tech CEOs.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M408YEEABFWBFJG6GQ567JX7/hi-china-own-ai.png",
-    "summary": "Former US intel chief Jay Clayton is expected to be appointed by Donald Trump as the new 'AI czar'. In this role, he would be responsible for overseeing AI innovation and development, working alongside tech CEOs on self-policing efforts.",
-    "importance": 9,
-    "classified": true
-  },
-  {
     "title": "Spot bitcoin ETFs log $2.7 billion in September inflows as institutional demand holds",
     "link": "https://www.theblock.co/news/markets/2026-10-02-spot-bitcoin-etfs-september-inflows-417547",
     "pubDate": "Fri, 02 Oct 2026 05:50:41 +0000",
@@ -81,6 +69,18 @@
     "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/09/article-16x9-v2.png",
     "summary": "US spot bitcoin ETFs recorded significant net inflows of $2.65 billion in September, marking their second-largest monthly inflow since October 2025. This indicates sustained institutional demand for bitcoin investment products.",
     "importance": 9,
+    "classified": true
+  },
+  {
+    "title": "Solana Foundation unveils a program to settle institutional trades in seconds. JPMorgan gave input",
+    "link": "https://www.coindesk.com/markets/2026/10/06/solana-foundation-unveils-a-program-to-settle-institutional-trades-in-seconds-with-jpmorgan-s-inputs",
+    "pubDate": "Tue, 06 Oct 2026 04:23:45 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "Solana Foundation launched an open-source program that lets institutions settle trades in seconds, not days. JPMorgan provided key inputs.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/4caf34246416f1020ad3fc1aaa25373b18a9161f-5760x3240.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "The Solana Foundation has launched an open-source program designed to enable institutional trades to settle in mere seconds, a significant improvement over traditional multi-day settlement periods. JPMorgan Chase provided key input during the development of this new initiative. This program aims to boost efficiency for institutional participants utilizing the Solana blockchain.",
+    "importance": 8,
     "classified": true
   },
   {
@@ -132,6 +132,42 @@
     "classified": true
   },
   {
+    "title": "Kraken operator Payward and Singapore Gulf Bank partner for 24/7 institutional crypto settlement",
+    "link": "https://www.coindesk.com/business/2026/10/05/kraken-operator-payward-and-singapore-gulf-bank-platform-for-24-7-institutional-crypto-settlement",
+    "pubDate": "Mon, 05 Oct 2026 09:26:24 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "The two firms will initially roll out the digital assets settlement service to select institutional clients in Asia and the Gulf region with around-the-clock U.S. dollar settlement.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/60eaa4392d735a85d254d5ac89ec08baf0b7a62e-2048x1152.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "Kraken operator Payward has partnered with Singapore Gulf Bank to launch a 24/7 institutional crypto settlement service. This service will initially cater to select institutional clients in Asia and the Gulf region, providing around-the-clock U.S. dollar settlement for digital assets.",
+    "importance": 8,
+    "classified": true
+  },
+  {
+    "title": "Bitcoin is about to get a major bullish signal it hasn't had in over a year",
+    "link": "https://www.coindesk.com/markets/2026/10/05/bitcoin-is-about-to-get-a-major-bullish-signal-it-hasn-t-had-in-over-a-year",
+    "pubDate": "Mon, 05 Oct 2026 06:57:40 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "Key price averages are on the verge of confirming a major bullish configuration for the first time in over a year.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/785b3947c42ad4577051876ccd979470df357367-1600x1114.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "Bitcoin is on the verge of confirming a major bullish configuration based on key price averages, a signal it hasn't received in over a year. This development suggests a significant positive trend for the cryptocurrency.",
+    "importance": 8,
+    "classified": true
+  },
+  {
+    "title": "Joint venture of OKX and NYSE parent ICE files for 24/7 tokenized U.S. stock trading",
+    "link": "https://www.coindesk.com/markets/2026/10/05/okx-and-nyse-s-owner-file-for-round-the-clock-tokenized-trading-in-u-s-stocks",
+    "pubDate": "Mon, 05 Oct 2026 04:45:03 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "OKXICE, the joint venture of OKX and ICE, plans to launch tokenized U.S. stocks under SEC's new innovation exemption.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/cd4279f03bab73f6b5b9819d7342d6d6132dde54-674x489.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "OKXICE, a joint venture between cryptocurrency exchange OKX and NYSE parent company ICE, has filed to offer 24/7 tokenized U.S. stock trading. This new offering will operate under the SEC's recently introduced innovation exemption.",
+    "importance": 8,
+    "classified": true
+  },
+  {
     "title": "The Clarity Act stalled. Bankers aren’t hitting the brakes yet on crypto dealmaking",
     "link": "https://www.coindesk.com/business/2026/10/04/the-clarity-act-stalled-crypto-dealmakers-aren-t-hitting-the-brakes-yet",
     "pubDate": "Sun, 04 Oct 2026 13:00:00 +0000",
@@ -152,18 +188,6 @@
     "content": "Finance, engineering and trading led hiring demand, while Bitcoin, Ethereum and Solana were the most frequently requested blockchain skills.",
     "image": "https://cdn.sanity.io/images/s3y3vcno/production/0bd7d25adab19bae569a11ac843bb6b058835c49-1920x1080.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
     "summary": "Crypto job postings significantly tripled to over 1,200 in September, indicating a robust demand for talent within the sector. Despite this surge in available positions, the number of applications for these roles has reportedly fallen. The primary areas driving this hiring demand were finance, engineering, and trading, with Bitcoin, Ethereum, and Solana being the most sought-after blockchain skills.",
-    "importance": 8,
-    "classified": true
-  },
-  {
-    "title": "Cathie Wood says smart investors need to start watching where AI agents spend money",
-    "link": "https://www.coindesk.com/markets/2026/10/01/cathie-wood-says-smart-investors-need-to-start-watching-where-ai-agents-spend-money",
-    "pubDate": "Sat, 03 Oct 2026 15:00:00 +0000",
-    "source": "CoinDesk",
-    "category": "ai",
-    "content": "As AI agents evolve from answering questions to spending real money, investors and tech giants are scrambling to control the financial networks powering machine-driven commerce.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/cb41936ab0c9767ce6de085eb8b95a680f9dc9ac-6000x4161.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "Cathie Wood emphasizes that investors should start monitoring where AI agents spend money, as these agents are evolving to make real financial transactions. This transition from answering questions to spending funds is leading investors and tech giants to compete for control over the financial networks that will power machine-driven commerce.",
     "importance": 8,
     "classified": true
   },
@@ -200,18 +224,6 @@
     "content": "The exploiter returned the entire sum to NEAR Intents after being identified and given 48 hours to respond.",
     "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M40T1J9CWEBBB07G6QG02X27/hi-5-greatest-hacks-in-the-cryptocurrency-industry.png",
     "summary": "NEAR Intents successfully recovered the entire $3.8 million in stolen funds after identifying the exploiter. The perpetrator returned the full sum within a 48-hour ultimatum period.",
-    "importance": 8,
-    "classified": true
-  },
-  {
-    "title": "Community banks sue OCC over trust bank charters of crypto firms",
-    "link": "https://cointelegraph.com/news/community-banks-sue-occ-over-trust-bank-charters-of-crypto-firms?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Sat, 03 Oct 2026 09:28:00 +0000",
-    "source": "Cointelegraph",
-    "category": "crypto",
-    "content": "Community banking group’s lawsuit claims OCC has overstepped its mandate from Congress.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M40GZ6STY7R8TJPNFCZ17PJ8/courtroom-court-lawsuit-justice-jurisdiction-breaking-news-3.png",
-    "summary": "A community banking group has filed a lawsuit against the Office of the Comptroller of the Currency (OCC). The suit challenges the OCC's decision to grant trust bank charters to crypto firms, alleging the regulatory body has overstepped its mandate from Congress.",
     "importance": 8,
     "classified": true
   },
@@ -276,6 +288,18 @@
     "classified": true
   },
   {
+    "title": "Ethereum investors are stuck in a two-week staking exit line. Here's why.",
+    "link": "https://www.coindesk.com/tech/2026/10/05/ethereum-has-a-25-day-wait-to-start-staking-with-nearly-1-5-million-eth-in-line",
+    "pubDate": "Mon, 05 Oct 2026 06:40:29 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "Ether waiting to enter staking has fallen by more than a quarter since early September, while the exit queue hit its longest of 2026.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/93f1e7de5c99aa4b545a0e06b9902b4328b2eea6-1324x732.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "Ethereum investors are currently experiencing a two-week wait to exit staking, as the exit queue has reached its longest point in 2026. This occurs while the waiting line to enter Ether staking has dropped by over 25% since early September.",
+    "importance": 7,
+    "classified": true
+  },
+  {
     "title": "Crypto poured years into new products. The next challenge is keeping users",
     "link": "https://www.coindesk.com/business/2026/10/04/crypto-poured-years-into-new-products-the-next-challenge-is-keeping-users",
     "pubDate": "Sun, 04 Oct 2026 14:00:00 +0000",
@@ -308,30 +332,6 @@
     "content": "Roman Storm and the XRP army aren’t happy former SEC boss Jay Clayton is Trump’s new AI czar, Peter Brandt flips bullish and says Bitcoin may reach as high as $600K by 2029.",
     "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M44CDHE2CKEJ0000STF6RMVM/october-2-collage-cover.png",
     "summary": "Former SEC Chair Jay Clayton's appointment as Trump's AI czar has drawn criticism from Roman Storm and the XRP community. Meanwhile, analyst Peter Brandt has expressed a bullish outlook on Bitcoin, forecasting a potential rise to $600K by 2029.",
-    "importance": 7,
-    "classified": true
-  },
-  {
-    "title": "European crypto users have ‘more faith’ in regulated firms under MiCA: Bitpanda co-CEO",
-    "link": "https://cointelegraph.com/news/mica-strengthened-retail-trust-regulated-crypto-exchanges-bitpanda-ceo-says?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Fri, 02 Oct 2026 20:40:47 +0000",
-    "source": "Cointelegraph",
-    "category": "crypto",
-    "content": "Speaking on Cointelegraph’s Chain Reaction, Christian Trummer said MiCA has increased trust in regulated platforms and called for stricter enforcement against noncompliant firms.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M3Z204Z5E8HCQ1YYBGG9YAK4/hi-self-custody-of-cryptocurrencies-is-your-own-wallet-really-safer-for-private-investors.png",
-    "summary": "Bitpanda co-CEO Christian Trummer stated that European crypto users have increased trust in regulated firms under MiCA, an observation made during Cointelegraph’s Chain Reaction. Trummer also called for stricter enforcement against noncompliant firms to further bolster confidence in the regulated crypto sector.",
-    "importance": 7,
-    "classified": true
-  },
-  {
-    "title": "$4.2B crypto bank Anchorage Digital cuts 17% of workforce: Report",
-    "link": "https://cointelegraph.com/news/anchorage-digital-cuts-workforce-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Fri, 02 Oct 2026 18:41:17 +0000",
-    "source": "Cointelegraph",
-    "category": "crypto",
-    "content": "The reported cuts come as Anchorage expands its institutional footprint, including stablecoin issuance and a $100 million investment from Tether.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M3YXTXPJFKWR2XDKAZGD2DR2/layoffs-fired-human-resource-hr-leaving-quit-1.jpg",
-    "summary": "Anchorage Digital, a crypto bank valued at $4.2 billion, has reportedly cut 17% of its workforce. These layoffs occur even as the company expands its institutional services, including stablecoin issuance, and recently received a $100 million investment from Tether.",
     "importance": 7,
     "classified": true
   },
@@ -384,6 +384,18 @@
     "classified": true
   },
   {
+    "title": "Zcash’s 25-second blocks go live on public testnet ahead of schedule",
+    "link": "https://www.coindesk.com/tech/2026/10/05/zcash-s-25-second-blocks-go-live-on-public-testnet-ahead-of-schedule",
+    "pubDate": "Mon, 05 Oct 2026 04:41:35 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "NU7 cuts the target block time from 75 seconds to 25, giving exchanges, wallets and developers a live rehearsal before a planned November mainnet launch.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/6359a9ff83ee7ba7465c0ff2289cb8ae23e7ac43-1500x1000.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "Zcash's NU7 update, which significantly reduces the target block time from 75 to 25 seconds, has gone live on its public testnet ahead of schedule. This allows exchanges, wallets, and developers to rehearse before the planned mainnet launch in November.",
+    "importance": 6,
+    "classified": true
+  },
+  {
     "title": "Here’s what happened in crypto today",
     "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "pubDate": "Mon, 05 Oct 2026 19:25:00 +0000",
@@ -408,61 +420,6 @@
     "classified": true
   },
   {
-    "title": "Kraken operator Payward and Singapore Gulf Bank partner for 24/7 institutional crypto settlement",
-    "link": "https://www.coindesk.com/business/2026/10/05/kraken-operator-payward-and-singapore-gulf-bank-platform-for-24-7-institutional-crypto-settlement",
-    "pubDate": "Mon, 05 Oct 2026 09:26:24 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "The two firms will initially roll out the digital assets settlement service to select institutional clients in Asia and the Gulf region with around-the-clock U.S. dollar settlement.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/60eaa4392d735a85d254d5ac89ec08baf0b7a62e-2048x1152.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "Bitcoin is about to get a major bullish signal it hasn't had in over a year",
-    "link": "https://www.coindesk.com/markets/2026/10/05/bitcoin-is-about-to-get-a-major-bullish-signal-it-hasn-t-had-in-over-a-year",
-    "pubDate": "Mon, 05 Oct 2026 06:57:40 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "Key price averages are on the verge of confirming a major bullish configuration for the first time in over a year.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/785b3947c42ad4577051876ccd979470df357367-1600x1114.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "Ethereum investors are stuck in a two-week staking exit line. Here's why.",
-    "link": "https://www.coindesk.com/tech/2026/10/05/ethereum-has-a-25-day-wait-to-start-staking-with-nearly-1-5-million-eth-in-line",
-    "pubDate": "Mon, 05 Oct 2026 06:40:29 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "Ether waiting to enter staking has fallen by more than a quarter since early September, while the exit queue hit its longest of 2026.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/93f1e7de5c99aa4b545a0e06b9902b4328b2eea6-1324x732.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "Joint venture of OKX and NYSE parent ICE files for 24/7 tokenized U.S. stock trading",
-    "link": "https://www.coindesk.com/markets/2026/10/05/okx-and-nyse-s-owner-file-for-round-the-clock-tokenized-trading-in-u-s-stocks",
-    "pubDate": "Mon, 05 Oct 2026 04:45:03 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "OKXICE, the joint venture of OKX and ICE, plans to launch tokenized U.S. stocks under SEC's new innovation exemption.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/cd4279f03bab73f6b5b9819d7342d6d6132dde54-674x489.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "Zcash’s 25-second blocks go live on public testnet ahead of schedule",
-    "link": "https://www.coindesk.com/tech/2026/10/05/zcash-s-25-second-blocks-go-live-on-public-testnet-ahead-of-schedule",
-    "pubDate": "Mon, 05 Oct 2026 04:41:35 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "NU7 cuts the target block time from 75 seconds to 25, giving exchanges, wallets and developers a live rehearsal before a planned November mainnet launch.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/6359a9ff83ee7ba7465c0ff2289cb8ae23e7ac43-1500x1000.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "summary": "",
-    "importance": 5
-  },
-  {
     "title": "Bitcoin zooms toward $87,000, nearly setting an eight-month high, then reverses",
     "link": "https://www.coindesk.com/markets/2026/10/05/bitcoin-zooms-toward-usd87-000-nearly-setting-an-eight-month-high-then-reverses",
     "pubDate": "Mon, 05 Oct 2026 04:23:25 +0000",
@@ -481,6 +438,50 @@
     "category": "crypto",
     "content": "Ether beat bitcoin in the third quarter, but its market liquidity got thinner, according to Coingecko.",
     "image": "https://cdn.sanity.io/images/s3y3vcno/production/865e0a79557ab206724c582c19cacad0159fa27f-3846x2552.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "summary": "",
+    "importance": 5
+  },
+  {
+    "title": "Rain seeks US trust bank charter days after OCC sued over crypto charters ",
+    "link": "https://cointelegraph.com/news/rain-seeks-us-trust-bank-charter-days-after-occ-sued-over-crypto-charters?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Tue, 06 Oct 2026 03:45:40 +0000",
+    "source": "Cointelegraph",
+    "category": "crypto",
+    "content": "Rain joins a growing queue of crypto firms seeking federal trust charters, while community banks have just asked a court to overturn the OCC rules underpinning them.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M47MM9N9Y60BVJ238FEJ8R23/bank.jpg",
+    "summary": "",
+    "importance": 5
+  },
+  {
+    "title": "OKX eyes emerging markets with yield-offering stablecoin savings and payments app",
+    "link": "https://cointelegraph.com/news/okx-money-stablecoin-savings-payments-emerging-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Tue, 06 Oct 2026 03:40:00 +0000",
+    "source": "Cointelegraph",
+    "category": "crypto",
+    "content": "OKX Money lets users hold, send and spend dollar-backed stablecoins, with qualifying USDG balances earning up to 10% APY.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M45MMRBBBCCYARXBC1TB2KW8/coins-analytics-new-stablecoin.jpg",
+    "summary": "",
+    "importance": 5
+  },
+  {
+    "title": "Chinese crime network laundered over $1B for Lazarus: ZachXBT",
+    "link": "https://cointelegraph.com/news/chinese-crime-network-laundered-over-1b-for-lazarus-zachxbt?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Tue, 06 Oct 2026 01:47:24 +0000",
+    "source": "Cointelegraph",
+    "category": "crypto",
+    "content": "ZachXBT says he infiltrated the network by posing as a customer, gaining information that helped trace funds from the $1.5 billion Bybit hack.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M47E98M7WF0617YMCEA467EH/laundering.jpg",
+    "summary": "",
+    "importance": 5
+  },
+  {
+    "title": "Crypto PAC announces support for 32 House candidates in US midterms",
+    "link": "https://cointelegraph.com/news/crypto-pac-fairshake-house-endorsements-us-midterms?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Mon, 05 Oct 2026 21:42:30 +0000",
+    "source": "Cointelegraph",
+    "category": "crypto",
+    "content": "Fairshake said it would financially back 32 House candidates who all voted in favor of the CLARITY market structure bill in 2025, as the legislation remains in limbo in the Senate.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M46WXGBMXWCHCDF4G7K9W92T/hi-crypto-for-america-cryptocurrencies-in-campaign-finance-2.jpg",
     "summary": "",
     "importance": 5
   },
@@ -787,7 +788,7 @@
     "pubDate": "Mon, 05 Oct 2026 08:42:20 +0000",
     "source": "The Block",
     "category": "crypto",
-    "content": "There are currently two ETF applications tied to INJ — the 21Shares Injective ETF and the Canary Staked INJ ETF.",
+    "content": "There are currently three INJ ETF applications: the 21Shares Injective ETF, the Canary Staked INJ ETF, and the REX-Osprey INJ Staking ETF.",
     "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/10/eric-chen-2.jpg",
     "summary": "",
     "importance": 5
@@ -1256,6 +1257,17 @@
     "importance": 5
   },
   {
+    "title": "Gemini Call for Me might tell your mom you&#8217;re running late",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1005177/google-gemini-call-for-me-expansion-rumors",
+    "pubDate": "2026-10-05T23:09:55.000Z",
+    "source": "The Verge AI",
+    "category": "ai",
+    "content": "Google may be expanding its \"Call for Me\" AI feature beyond business calls so you can use it to send messages to friends and family. Android Authority reports finding a \"Gemini Calling\" introductory screen in an APK teardown with examples that include \"Call Mom and tell her I will be 15 minutes late\" and \"Call John and ask if he is coming for dinner.\" \nBased on those examples, even with this expansion, Gemini would likely be limited to basic, text message-like calls. While Google's AI might not automate an entire catch-up phone call with your relatives, it could deliver quick messages to people who prefer a phone call, miss texts often, or  …\nRead the full story at The Verge.",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Google-Pixel-11-Pro-Photos-of-Phone-7.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "summary": "",
+    "importance": 5
+  },
+  {
     "title": "This startup is issuing AI-generated acne prescriptions",
     "link": "https://www.theverge.com/ai-artificial-intelligence/1005075/nolla-health-acne-ai-prescriptions",
     "pubDate": "2026-10-05T20:14:57.000Z",
@@ -1355,13 +1367,13 @@
     "importance": 5
   },
   {
-    "title": "Our minds aren’t equipped to handle AI",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1003794/ai-education-computational-model-thought",
-    "pubDate": "2026-10-05T10:00:00.000Z",
-    "source": "The Verge AI",
+    "title": "MCP for agent-to-agent comms may be the riskiest protocol you've never heard of",
+    "link": "https://arstechnica.com/security/2026/10/vulnerability-in-agents-from-google-and-others-exposes-structural-flaw-in-mcp/",
+    "pubDate": "Mon, 05 Oct 2026 22:26:35 +0000",
+    "source": "Ars Technica AI",
     "category": "ai",
-    "content": "Norbert Wiener, godfather of cybernetics, once said, \"The thought of every age is reflected in its technique.\" For the past century, our thought has been reflected in our computers, including by those in the AI industry. Google's Demis Hassabis calls the brain \"a biological approximation to a Turing machine.\" Elon Musk puts it more bluntly, declaring that \"people should just think of the brain as a biological computer.\" (Musk's brain often worries me.)\nBut humans are more complex than a straightforward comparison to computers gives us credit for - and far more than most of the AI industry seems to appreciate. And as their products push e …\nRead the full story at The Verge.",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268726_Cognitive_hotdogs_PENEKOI_115fb1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "content": "Trust gaps in the new protocol spread malicious prompts from one agent to another.",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/ai-agents-1152x648.jpg",
     "summary": "",
     "importance": 5
   },
@@ -1571,17 +1583,6 @@
     "category": "ai",
     "content": "Similar performance, security trade-offs also seen in current public models.",
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-1822585391-1152x648.jpg",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "Anthropic’s IPO pitch includes a warning about human extinction",
-    "link": "https://arstechnica.com/ai/2026/09/anthropics-ipo-pitch-includes-a-warning-about-human-extinction/",
-    "pubDate": "Tue, 29 Sep 2026 14:10:00 +0000",
-    "source": "Ars Technica AI",
-    "category": "ai",
-    "content": "The Claude maker warns its own models could resist shutdowns and cause catastrophic harm.",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/claudebyanthropic-1024x648.jpg",
     "summary": "",
     "importance": 5
   },
