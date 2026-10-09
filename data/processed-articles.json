@@ -1,6 +1,6 @@
 [
   {
-    "title": "U.S. government moves $1 billion in bitcoin from Bitfinex hack wallet, no sale indicated",
+    "title": "U.S. government moves $1 billion in bitcoin tied to Bitfinex hack, with no sign of sale",
     "link": "https://www.coindesk.com/business/2026/10/08/u-s-government-moves-usd1-billion-in-bitcoin-from-bitfinex-hack-wallet-no-sale-indicated",
     "pubDate": "Thu, 08 Oct 2026 15:43:04 +0000",
     "source": "CoinDesk",
@@ -36,6 +36,18 @@
     "classified": true
   },
   {
+    "title": "Bitcoin and ether holders urged to enter ‘bunker mode’ against possible AI attacks",
+    "link": "https://www.coindesk.com/tech/2026/10/08/bitcoin-and-ether-holders-urged-to-prepare-bunker-mode-against-possible-ai-attacks",
+    "pubDate": "Thu, 08 Oct 2026 11:47:16 +0000",
+    "source": "CoinDesk",
+    "category": "both",
+    "content": "Ethereum researchers warned AI could break the signatures guarding bitcoin, ether and the tokens built on them \"in months, not years\" in the worst case, well before quantum computers arrive.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/422bf0c58d3c5d984b8ee7f8a379b85250db7bc2-6016x4016.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "summary": "Ethereum researchers have warned that AI could potentially compromise the cryptographic signatures safeguarding Bitcoin, Ether, and other tokens within months, a threat appearing well before quantum computers. They urged crypto holders to enter 'bunker mode' in response to this severe and immediate security risk.",
+    "importance": 9,
+    "classified": true
+  },
+  {
     "title": "Samsung integrates USDC to overhaul cross-border remittances for 82 million Galaxy users",
     "link": "https://www.coindesk.com/tech/2026/10/08/solana-partners-with-samsung-to-integrate-usdc-in-82-million-phones",
     "pubDate": "Thu, 08 Oct 2026 08:39:23 +0000",
@@ -60,6 +72,18 @@
     "classified": true
   },
   {
+    "title": "Securitize brings Apple, Nvidia and Tesla to Solana, with NYSE trading in the works",
+    "link": "https://www.coindesk.com/business/2026/10/08/securitize-brings-apple-nvidia-and-tesla-to-solana-with-nyse-trading-in-the-works",
+    "pubDate": "Thu, 08 Oct 2026 13:06:24 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "Tokenized shares in the mega-caps will first trade on Securitize's Solana-based platform, with further plans to expand them to NYSE and OKXICE digital venues, the firm said.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/0df058fe321b648948d8a5b690588aaafbb157fe-2048x1152.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "summary": "Securitize is launching tokenized shares of major companies like Apple, Nvidia, and Tesla, initially trading on its Solana-based platform. The firm plans to expand these tokenized securities to traditional exchanges like the NYSE and digital venues such as OKXICE.",
+    "importance": 8,
+    "classified": true
+  },
+  {
     "title": "Ripple is earning fees financing leveraged stock bets, a business long run by banks",
     "link": "https://www.coindesk.com/markets/2026/10/08/ripple-is-earning-fees-financing-leveraged-stock-bets-a-business-long-run-by-banks",
     "pubDate": "Thu, 08 Oct 2026 06:17:13 +0000",
@@ -68,18 +92,6 @@
     "content": "The crypto company's $1.25 billion acquisition of Hidden Road has opened a corner of Wall Street where funds pay to amplify daily moves in stocks such as Nvidia and Sandisk.",
     "image": "https://cdn.sanity.io/images/s3y3vcno/production/b870a99b3666942b2ac0a5c20219248585e42b45-6016x4016.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
     "summary": "Ripple, a prominent cryptocurrency company, has ventured into financing leveraged stock bets through its $1.25 billion acquisition of Hidden Road. This move allows Ripple to earn fees from funds amplifying daily stock movements, entering a sector traditionally dominated by banks.",
-    "importance": 8,
-    "classified": true
-  },
-  {
-    "title": "Wells Fargo in talks with Kraken parent Payward for crypto trading liquidity",
-    "link": "https://www.coindesk.com/business/2026/10/05/wells-fargo-in-talks-with-kraken-parent-payward-for-crypto-trading-liquidity",
-    "pubDate": "Wed, 07 Oct 2026 18:59:32 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "The discussions would see Payward supply liquidity for crypto trading as major banks deepen their involvement in digital assets.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/ed683cdb87684e6ca349d6f2efd15060d7dd27d5-5196x3464.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-    "summary": "Wells Fargo, a major traditional bank, is reportedly in discussions with Payward, the parent company of crypto exchange Kraken, to secure liquidity for crypto trading. This development signals an increasing involvement of traditional financial institutions in the digital asset market.",
     "importance": 8,
     "classified": true
   },
@@ -120,6 +132,18 @@
     "classified": true
   },
   {
+    "title": "NUVA brings U.S. residential mortgage credit to offshore investors ",
+    "link": "https://www.coindesk.com/business/2026/10/08/nuva-brings-u-s-residential-mortgage-credit-to-offshore-investors",
+    "pubDate": "Thu, 08 Oct 2026 11:36:25 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "The company's HOME token gives eligible investors exposure to a vault of U.S. home equity lines of credit starting from 1 USDC and targets a 7% annual yield.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/b856b1afb247f8082e69a19b53267a84038a907e-3000x2001.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "summary": "NUVA is launching a HOME token, enabling eligible offshore investors to access U.S. residential mortgage credit. This token provides exposure to a vault of U.S. home equity lines of credit, starting from 1 USDC and targeting a 7% annual yield.",
+    "importance": 7,
+    "classified": true
+  },
+  {
     "title": "Standard Chartered to expand institutional crypto and RWA custody to Singapore",
     "link": "https://www.coindesk.com/business/2026/10/08/standard-chartered-singapore-dives-into-crypto-stablecoins-and-tokenized-assets-custody",
     "pubDate": "Thu, 08 Oct 2026 09:32:13 +0000",
@@ -156,21 +180,9 @@
     "classified": true
   },
   {
-    "title": "Crypto news site Cointelegraph seeks buyer after web traffic plunges",
-    "link": "https://www.coindesk.com/business/2026/10/07/crypto-news-site-cointelegraph-seeks-buyer-after-web-traffic-plunges",
-    "pubDate": "Thu, 08 Oct 2026 00:35:24 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "The amount of money the crypto media firm has been shopping itself for was not revealed.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/69ed00cb4ec4e063082ec14eff25a2ceaf999315-1500x901.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-    "summary": "Major crypto news site Cointelegraph is reportedly seeking a buyer due to a significant plunge in its web traffic. The specific amount the crypto media firm is being shopped for has not been disclosed.",
-    "importance": 7,
-    "classified": true
-  },
-  {
     "title": "Here’s what happened in crypto today",
     "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Thu, 08 Oct 2026 12:58:01 +0000",
+    "pubDate": "Thu, 08 Oct 2026 18:29:33 +0000",
     "source": "Cointelegraph",
     "category": "crypto",
     "content": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
@@ -180,46 +192,24 @@
     "classified": true
   },
   {
-    "title": "NFL joins pushback against prediction markets as U.S. Supreme Court asked to act",
-    "link": "https://www.coindesk.com/policy/2026/10/08/nfl-joins-pushback-against-prediction-markets-as-u-s-supreme-court-asked-to-act",
-    "pubDate": "Thu, 08 Oct 2026 18:06:41 +0000",
+    "title": "Top Democrat among Senate investigators probes ties between Cantor Fitzgerald, Tether",
+    "link": "https://www.coindesk.com/policy/2026/10/08/top-democrat-among-senate-investigators-probes-ties-between-cantor-fitzgerald-tether",
+    "pubDate": "Thu, 08 Oct 2026 21:22:58 +0000",
     "source": "CoinDesk",
     "category": "crypto",
-    "content": "In opposition to federal oversight of the prediction markets, the National Football League has sided with states, Gary Gensler and one of the authors of the relevant law.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/459994f24f35f95aa2218e1300d30d2f1ea94875-4982x3323.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "content": "As Democrats steadily rise in their potential to take back a Senate majority, Senator Richard Blumenthal is digging into Tether's U.S. financial partnership.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/0d4750d3f8f3c81400ccc4e2d27b12458bbf99db-4928x2772.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
     "summary": "",
     "importance": 5
   },
   {
-    "title": "Securitize brings Apple, Nvidia and Tesla to Solana, with NYSE trading in the works",
-    "link": "https://www.coindesk.com/business/2026/10/08/securitize-brings-apple-nvidia-and-tesla-to-solana-with-nyse-trading-in-the-works",
-    "pubDate": "Thu, 08 Oct 2026 13:06:24 +0000",
+    "title": "Wall Street's tokenization boom could have bigger winners than bitcoin and ether, Citrini says",
+    "link": "https://www.coindesk.com/markets/2026/10/08/wall-street-s-tokenization-boom-could-have-bigger-winners-than-bitcoin-and-ether-citrini-says",
+    "pubDate": "Thu, 08 Oct 2026 19:46:15 +0000",
     "source": "CoinDesk",
     "category": "crypto",
-    "content": "Tokenized shares in the mega-caps will first trade on Securitize's Solana-based platform, with further plans to expand them to NYSE and OKXICE digital venues, the firm said.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/0df058fe321b648948d8a5b690588aaafbb157fe-2048x1152.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "Bitcoin and ether holders urged to enter ‘bunker mode’ against possible AI attacks",
-    "link": "https://www.coindesk.com/tech/2026/10/08/bitcoin-and-ether-holders-urged-to-prepare-bunker-mode-against-possible-ai-attacks",
-    "pubDate": "Thu, 08 Oct 2026 11:47:16 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "Ethereum researchers warned AI could break the signatures guarding bitcoin, ether and the tokens built on them \"in months, not years\" in the worst case, well before quantum computers arrive.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/422bf0c58d3c5d984b8ee7f8a379b85250db7bc2-6016x4016.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "NUVA brings U.S. residential mortgage credit to offshore investors ",
-    "link": "https://www.coindesk.com/business/2026/10/08/nuva-brings-u-s-residential-mortgage-credit-to-offshore-investors",
-    "pubDate": "Thu, 08 Oct 2026 11:36:25 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "The company's HOME token gives eligible investors exposure to a vault of U.S. home equity lines of credit starting from 1 USDC and targets a 7% annual yield.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/b856b1afb247f8082e69a19b53267a84038a907e-3000x2001.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "content": "The research firm sees tokenized stocks, bonds and loans creating new markets for trading and lending, with fee-generating platforms and companies poised to benefit.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/d0183643376c63d3344b437b12fb69486c8bd450-1500x996.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
     "summary": "",
     "importance": 5
   },
@@ -246,12 +236,12 @@
     "importance": 5
   },
   {
-    "title": "Live updates: Bitcoin breaks lower from recent trading range, sliding back to $81,000",
+    "title": "Live updates: Bitcoin pulls off worst levels late in Thursday session",
     "link": "https://www.coindesk.com/markets/2026/10/08/live-news-risk-assets-under-pressure-as-bond-selloff-and-oil-rally-intensify",
     "pubDate": "Thu, 08 Oct 2026 10:44:47 +0000",
     "source": "CoinDesk",
     "category": "crypto",
-    "content": "Rising Treasury yields, surging energy prices and a stronger dollar weigh on bitcoin and tech, while silver falls below $59 an ounce.",
+    "content": "Crypto markets tumbled on Thursday, with cryptography fears, rising oil prices and interest rates, and the one-year anniversary of last October's flash crash on traders' radar.",
     "image": "",
     "summary": "",
     "importance": 5
@@ -297,6 +287,61 @@
     "category": "crypto",
     "content": "Bitcoin has slipped under a level FxPro says opens a \"quick path to $80,000.\" Brent crude climbed above $102 and pushed Treasury yields back toward their highest since 2002.",
     "image": "https://cdn.sanity.io/images/s3y3vcno/production/e864b63cbc1532f3391371548a539304d9f3c2f9-1510x838.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "summary": "",
+    "importance": 5
+  },
+  {
+    "title": "Cantor Fitzgerald faces Senate Democrat’s probe over Tether ties  ",
+    "link": "https://cointelegraph.com/news/cantor-fitzgerald-faces-senate-democrats-probe-over-tether-ties?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Fri, 09 Oct 2026 00:46:27 +0000",
+    "source": "Cointelegraph",
+    "category": "crypto",
+    "content": "The letter follows a report by the Democratic investigators last month alleging Tether’s USDT has become a key tool for Iran’s shadow banking network.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4F1W4R51W8W7BPK0508NAMP/investigation.jpg",
+    "summary": "",
+    "importance": 5
+  },
+  {
+    "title": "China’s P2P stablecoin wallets surge 43x, Korea’s $450B crypto economy: Asia Express",
+    "link": "https://cointelegraph.com/magazine/chinas-p2p-stablecoin-wallets-surge-43x-koreas-450b-crypto-economy-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Thu, 08 Oct 2026 22:35:00 +0000",
+    "source": "Cointelegraph",
+    "category": "crypto",
+    "content": "Despite ongoing bans, China has seen a big surge in peer-to-peer stablecoin use. New figures show South Korea’s $450B crypto economy is the largest in East Asia.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M26Q2WGDD8GDA5QMCWQF3GB3/magazineasia-expresssnow.jpg",
+    "summary": "",
+    "importance": 5
+  },
+  {
+    "title": "Securitize stock jumps over 10% after launching tokenized US equities on Solana",
+    "link": "https://cointelegraph.com/news/securitize-stock-jumps-launching-tokenized-us-equities-solana?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Thu, 08 Oct 2026 19:31:38 +0000",
+    "source": "Cointelegraph",
+    "category": "crypto",
+    "content": "Securitize’s new offering gives eligible investors access to tokenized shares of 12 US companies, with dividend and voting rights and plans for round-the-clock trading.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4EEEA4K0X2GAJFKB9A8T56C/hi-how-ondo-finance-plans-to-bring-tokenized-us-stocks-to-solana-3.png",
+    "summary": "",
+    "importance": 5
+  },
+  {
+    "title": "NFL backs New Jersey authorities in SCOTUS petition over Kalshi ",
+    "link": "https://cointelegraph.com/news/nfl-new-jersey-supreme-court-kalshi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Thu, 08 Oct 2026 19:17:18 +0000",
+    "source": "Cointelegraph",
+    "category": "crypto",
+    "content": "According to the league, Kalshi and other prediction markets “threaten game integrity” because many event contracts are “highly susceptible to manipulation.”",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4E1T9RDDQM4RHT8VGKG97F0/hi-nfl-players-choosing-crypto-over-cash2.jpg",
+    "summary": "",
+    "importance": 5
+  },
+  {
+    "title": "Netflix drops trailer for series based on FTX’s SBF and Caroline Ellison",
+    "link": "https://cointelegraph.com/news/netflix-series-ftx-sam-bankman-fried-caroline-ellison?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Thu, 08 Oct 2026 18:17:35 +0000",
+    "source": "Cointelegraph",
+    "category": "crypto",
+    "content": "Sam Bankman-Fried remains in federal prison following his 2023 conviction, while Caroline Ellison was released in January.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4E9874D134FZFY2WSZBNXKY/hi-from-ellison-to-bankman-fried.png",
     "summary": "",
     "importance": 5
   },
@@ -565,57 +610,13 @@
     "importance": 5
   },
   {
-    "title": "Bitcoin price drops to $82.7K October low as bond sell-off resumes on Iran nerves",
-    "link": "https://cointelegraph.com/markets/bitcoin-price-drops-to-827k-october-low-as-bond-sell-off-resumes-on-iran-nerves?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Wed, 07 Oct 2026 15:06:14 +0000",
-    "source": "Cointelegraph",
+    "title": "JPMorgan estimates $50 billion has flowed into crypto this year as momentum improves into Q4",
+    "link": "https://www.theblock.co/news/markets/2026-10-08-jpmorgan-crypto-inflows-50-billion-etf-futures-q4-418115",
+    "pubDate": "Thu, 08 Oct 2026 18:46:59 +0000",
+    "source": "The Block",
     "category": "crypto",
-    "content": "Bitcoin fell below $83,000 to reach month-to-date lows as stocks reversed after all-time highs and bond yields spiked higher.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4BEBEZ7QSY6YC27Z3G1WAYE/oil-bitcoin-petrol-iran-3.jpg",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "Chasing 100x tokens is game of ‘irrational exuberance,’ says Polymarket CEO ",
-    "link": "https://cointelegraph.com/news/chasing-100x-tokens-irrational-exuberance-polymarket-ceo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Wed, 07 Oct 2026 12:29:39 +0000",
-    "source": "Cointelegraph",
-    "category": "crypto",
-    "content": "Some traders are looking for more predictable prediction market opportunities, rather than playing “hot potato” with the next 100x gem, according to Polymarket’s Shayne Coplan.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4B3MMABZE2GV838GSA8JBR1/hi-crypto-market-trading-trader-breaking-news-1.jpg",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "Crypto card access doesn’t match global demand, Tangem says",
-    "link": "https://cointelegraph.com/news/crypto-card-access-doesnt-match-global-demand-tangem-says?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Wed, 07 Oct 2026 11:37:48 +0000",
-    "source": "Cointelegraph",
-    "category": "crypto",
-    "content": "Crypto card demand can be stronger where access is harder, Tangem says, as it expands its Visa payment offering, allowing users to spend from its self-custodial wallet.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4AZ46ZEWXYZR13FPY46ZHFW/hi-crypto-cards-how-are-the-sector-developing-and-what-are-the-biggest-challenges-bitcoin.jpg",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "Trump-backed WLFI plans USD1 payments for online businesses",
-    "link": "https://cointelegraph.com/news/trump-backed-wlfi-plans-usd1-payments-for-online-businesses?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Wed, 07 Oct 2026 10:26:55 +0000",
-    "source": "Cointelegraph",
-    "category": "crypto",
-    "content": "World Liberty Financial outlined plans to bring USD1 to major online platforms as Mesh announced a payments partnership scheduled to roll out this quarter.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4AX48ZNAS11326MBP7NQJ42/world-liberty-financial.jpg",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "Wall Street wealth creation model is unsustainable for most participants: Hyperliquid CEO ",
-    "link": "https://cointelegraph.com/news/wall-street-wealth-creation-unsustainable-hyperliquid-ceo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Wed, 07 Oct 2026 10:19:27 +0000",
-    "source": "Cointelegraph",
-    "category": "crypto",
-    "content": "Early Wall Street wealth-creation opportunities remain inaccessible to retail participants, but Hyperliquid’s perpetual contracts aim to democratize access, according to its CEO.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4AVRNY45PEGE0CK30V6YFFX/hi-wolf-of-wall-street-on-steroids-defi-may-be-a-bubble-but-its-making-us-stronger.jpg",
+    "content": "JPMorgan analysts estimate around $50 billion has flowed into digital assets this year, equal to an annualized pace of $66 billion.",
+    "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2024/05/20240501_JPMorgan_News.jpg",
     "summary": "",
     "importance": 5
   },
@@ -829,13 +830,35 @@
     "importance": 5
   },
   {
-    "title": "Bitcoin briefly slides below $84,000 as crypto long liquidations reach $487 million",
-    "link": "https://www.theblock.co/news/markets/2026-10-06-bitcoin-slides-crypto-long-liquidations-surge-417882",
-    "pubDate": "Wed, 07 Oct 2026 03:57:21 +0000",
-    "source": "The Block",
+    "title": "AI Coding Agents Drive Surge in Bitcoin Integration Requests: Breez",
+    "link": "https://bitcoinmagazine.com/news/ai-coding-agents-drive-bitcoin-integration",
+    "pubDate": "Thu, 08 Oct 2026 19:17:12 +0000",
+    "source": "Bitcoin Magazine",
     "category": "crypto",
-    "content": "Crypto liquidations amounted to $555.6 million over the past 24 hours, including $487.2 million in long positions, according to CoinGlass.",
-    "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/10/bitcoin.png",
+    "content": "Bitcoin Magazine\n\nAI Coding Agents Drive Surge in Bitcoin Integration Requests: Breez\nBitcoin software company Breez said demand for its developer tools has surged since AI coding agents went mainstream, with partnership inquiries rising roughly 14-fold as developers, and increasingly the agents they deploy, look to add bitcoin payments to their apps. In a company blog post, it tied the jump directly to Anthropic’s Claude Code, which […]\nThis post AI Coding Agents Drive Surge in Bitcoin Integration Requests: Breez first appeared on Bitcoin Magazine and is written by Mathew Di Salvo.",
+    "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/10/Pics-1-3.jpg",
+    "summary": "",
+    "importance": 5
+  },
+  {
+    "title": "WhiteBIT Integrates Lightning Network for Fast and Cheap Bitcoin Transactions",
+    "link": "https://bitcoinmagazine.com/news/whitebit-integrates-lightning-network",
+    "pubDate": "Thu, 08 Oct 2026 19:10:07 +0000",
+    "source": "Bitcoin Magazine",
+    "category": "crypto",
+    "content": "Bitcoin Magazine\n\nWhiteBIT Integrates Lightning Network for Fast and Cheap Bitcoin Transactions\nThe Swiss crypto exchange has onboarded the Lightning Network to help people withdraw and deposit bitcoin with ease. \nThis post WhiteBIT Integrates Lightning Network for Fast and Cheap Bitcoin Transactions first appeared on Bitcoin Magazine and is written by Mathew Di Salvo.",
+    "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/10/Pics-6.jpg",
+    "summary": "",
+    "importance": 5
+  },
+  {
+    "title": "Greece Plans Crypto Capital Gains Tax: Report",
+    "link": "https://bitcoinmagazine.com/news/greece-plans-crypto-capital-gains",
+    "pubDate": "Thu, 08 Oct 2026 18:39:39 +0000",
+    "source": "Bitcoin Magazine",
+    "category": "crypto",
+    "content": "Bitcoin Magazine\n\nGreece Plans Crypto Capital Gains Tax: Report\nGreece is planning a law to tax crypto investors’ capital gains at a rate of 15%, according to reports. According to Reuters and local media, the country’s Finance Ministry has drafted a bill with the proposal. Greece currently has no legal framework for taxing crypto. Under the draft, the first €500 (about $580) of crypto […]\nThis post Greece Plans Crypto Capital Gains Tax: Report first appeared on Bitcoin Magazine and is written by Mathew Di Salvo.",
+    "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/10/Pics-2-1.jpg",
     "summary": "",
     "importance": 5
   },
@@ -917,35 +940,13 @@
     "importance": 5
   },
   {
-    "title": "James Van Straten: BTC Bull Market Has Begun – Rotation from Gold Driver Back to $126K",
-    "link": "https://bitcoinmagazine.com/videos/james-van-straten-btc-bull-market-has-begun-rotation-from-gold-driver-back-to-126k",
-    "pubDate": "Thu, 08 Oct 2026 13:27:44 +0000",
-    "source": "Bitcoin Magazine",
-    "category": "crypto",
-    "content": "Bitcoin Magazine\n\nJames Van Straten: BTC Bull Market Has Begun – Rotation from Gold Driver Back to $126K\nWhere will Bitcoin's next rally come from? CoinDesk's James Van Straten analyzes gold rotations, equity pullbacks, and stablecoin inflows as key drivers.\nThis post James Van Straten: BTC Bull Market Has Begun – Rotation from Gold Driver Back to $126K first appeared on Bitcoin Magazine and is written by Patrick Green.",
-    "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/10/James-Van-Straten-BTC-Bull-Market-Has-Begun-Rotation-from-Gold-Driver-Back-to-126K-.jpg",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "StoneX Global Macro Director: French Bond Market Contagion & BTC Market Outlook | Vincent Deluard",
-    "link": "https://bitcoinmagazine.com/videos/stonex-global-macro-director-french-bond-market-contagion-btc-market-outlook-vincent-deluard",
-    "pubDate": "Thu, 08 Oct 2026 13:22:27 +0000",
-    "source": "Bitcoin Magazine",
-    "category": "crypto",
-    "content": "Bitcoin Magazine\n\nStoneX Global Macro Director: French Bond Market Contagion & BTC Market Outlook | Vincent Deluard\nTreasury yields and oil surge as StoneX's Vincent Deluard warns equities are next. He turns bearish on stocks post-November while staying bullish on Bitcoin.\nThis post StoneX Global Macro Director: French Bond Market Contagion & BTC Market Outlook | Vincent Deluard first appeared on Bitcoin Magazine and is written by Patrick Green.",
-    "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/10/StoneX-Global-Macro-Director-French-Bond-Market-Contagion-BTC-Market-Outlook-Vincent-Deluard-.jpg",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "Money20/20 USA 2026: How Bitcoin, Stablecoins and AI Are Reshaping the Future of Finance",
-    "link": "https://bitcoinmagazine.com/press-releases/money20-20-usa-2026-how-bitcoin-stablecoins-and-ai-are-reshaping-the-future-of-finance",
-    "pubDate": "Thu, 08 Oct 2026 13:05:59 +0000",
-    "source": "Bitcoin Magazine",
-    "category": "crypto",
-    "content": "Bitcoin Magazine\n\nMoney20/20 USA 2026: How Bitcoin, Stablecoins and AI Are Reshaping the Future of Finance\nFrom digital ownership to borderless value, Bitcoin's core innovations are reshaping how the world's top financial institutions view money.\nThis post Money20/20 USA 2026: How Bitcoin, Stablecoins and AI Are Reshaping the Future of Finance first appeared on Bitcoin Magazine and is written by Bitcoin Magazine.",
-    "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/10/money2020-2026-banner.avif",
+    "title": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
+    "link": "https://www.technologyreview.com/2026/10/08/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/",
+    "pubDate": "Fri, 09 Oct 2026 00:08:24 +0000",
+    "source": "MIT Technology Review",
+    "category": "ai",
+    "content": "Friday, October 16, 2026 Can AI design new life forms? In 2025, Stanford University PhD student Samuel King came up with a preliminary answer when he used a generative AI model to propose genetic blueprints for microscopic viruses. It isn’t yet an example of AI-generated life, but that could be next. Join senior AI reporter…",
+    "image": "",
     "summary": "",
     "importance": 5
   },
@@ -1049,12 +1050,23 @@
     "importance": 5
   },
   {
-    "title": "WeLion New Energy and its semi-solid-state batteries",
-    "link": "https://www.technologyreview.com/2026/10/06/1144987/2026-climate-tech-companies-to-watch-welion-semi-solid-state-batteries/",
-    "pubDate": "Tue, 06 Oct 2026 10:35:00 +0000",
-    "source": "MIT Technology Review",
+    "title": "Pretend you’re sitting at Elizabeth Holmes’ desk on this weirdly detailed website",
+    "link": "https://techcrunch.com/2026/10/08/pretend-youre-sitting-at-elizabeth-holmes-desk-on-this-weirdly-detailed-website/",
+    "pubDate": "Thu, 08 Oct 2026 21:00:00 +0000",
+    "source": "TechCrunch AI",
     "category": "ai",
-    "content": "WeLion New Energy is on a quest to make safer, better batteries. The company’s semi-solid-state cells could improve safety and offer greater energy density than lithium-ion batteries to power electric cars, boats, and drones. From the EVs that carry commuters home to the ships that transport goods across countries, more and more vehicles around us…",
+    "content": "With over a thousand emails, slides, texts, and documents from the United States v. Elizabeth Holmes trial, Extend engineer Bo Lau created a website that simulates what it might have been like to rifle through the Theranos founder's desk.",
+    "image": "",
+    "summary": "",
+    "importance": 5
+  },
+  {
+    "title": "Fired OpenAI safety researchers dispute misconduct claims, warn of chilling effect",
+    "link": "https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/",
+    "pubDate": "Thu, 08 Oct 2026 20:04:26 +0000",
+    "source": "TechCrunch AI",
+    "category": "ai",
+    "content": "Three fired OpenAI safety researchers dispute allegations of mishandling sensitive information, warning in an open letter that their dismissals are creating a chilling effect on the company’s AI safety culture.",
     "image": "",
     "summary": "",
     "importance": 5
@@ -1258,24 +1270,24 @@
     "importance": 5
   },
   {
-    "title": "Meta rolls out new AI tools to detect ads that secretly lead to child sexual abuse material",
-    "link": "https://techcrunch.com/2026/10/07/meta-rolls-out-new-ai-tools-to-detect-ads-that-secretly-lead-to-child-sexual-abuse-material/",
-    "pubDate": "Wed, 07 Oct 2026 16:53:46 +0000",
-    "source": "TechCrunch AI",
+    "title": "Anthropic launches free AI security scans for open-source projects",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1008521/anthropic-open-source-oss-scanner",
+    "pubDate": "2026-10-08T21:53:51.000Z",
+    "source": "The Verge AI",
     "category": "ai",
-    "content": "Meta launches new AI tools after discovering ads on its platforms that may look normal but direct users to harmful content elsewhere online.",
-    "image": "",
+    "content": "Anthropic's offering to help open-source projects track down security vulnerabilities with a new service called OSS Scanner. It says open-source projects that opt-in will get \"thorough, periodic security scans by our strongest models at no cost.\" That could mean open-source projects get alerted about possible security issues sooner, but the trade-off is that OSS Scanner's reports don't come with human review:\nThe outputs of this opt-in vulnerability scanner will be fully model-generated, without human review or triage. This will enable faster and more frequent scanning, but means that it is possible reports will be incorrect or invalid. Th …\n\nRead the full story at The Verge.",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/STKB364_CLAUDE_2_C_96d15c.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
     "summary": "",
     "importance": 5
   },
   {
-    "title": "Healthleap raises $38M for its AI that flags hospital patients who may need a closer look",
-    "link": "https://techcrunch.com/2026/10/07/healthleap-raises-38m-for-its-ai-that-flags-hospital-patients-who-may-need-a-closer-look/",
-    "pubDate": "Wed, 07 Oct 2026 15:07:08 +0000",
-    "source": "TechCrunch AI",
+    "title": "California is trying to shut down robot vs. human cage matches",
+    "link": "https://www.theverge.com/tech/1008401/california-shut-down-rek-fighting-robot-company-human",
+    "pubDate": "2026-10-08T20:06:56.000Z",
+    "source": "The Verge AI",
     "category": "ai",
-    "content": "The financing includes an $8M seed round co-led by Sequoia Capital and First Round Capital, and a $30 million Series A led by Hummingbird Ventures.",
-    "image": "",
+    "content": "The California State Athletic Commission sent a cease-and-desist letter to a startup that hosted a match between a human and a robot last month, as reported by The New York Times.\nThe fight, which took place on September 18th, pitted a human, Frankie LaPenna, against a humanoid robot owned by a tech startup, Rek, that was being piloted by a human using what the NYT described as a \"remote virtual-reality system.\" Rek says it is the \"the humanoid robot fighting league\" on its website, and the robot appears to be one from EngineAI but with a Terminator-like head swapped on top.  \nYou can watch a replay of the fight on YouTube:\n\nThe CEO of Rek …\nRead the full story at The Verge.",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Screenshot-2026-10-08-at-4.18.11-PM.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
     "summary": "",
     "importance": 5
   },
@@ -1364,28 +1376,6 @@
     "category": "ai",
     "content": "OpenAI is launching a new Intelligent UI feature in ChatGPT that allows the chatbot to answer your questions with interactive visuals. The update, which is rolling out to all users alongside GPT-6, gives ChatGPT the ability to combine a text response with diagrams, charts, forms, tappable buttons, and more.\nIn a blog post explaining the change, OpenAI says it trained GPT-6 when to generate interactive visuals over text, as well as how to format them in its response. An example shared by OpenAI shows how ChatGPT might show a diagram of a seven-speed bicycle if you ask about its design, complete with interactive buttons that highlight differe …\nRead the full story at The Verge.",
     "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Intelligent-UI.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "It appears .agent and .agi are about to be the hot new domains",
-    "link": "https://www.theverge.com/tech/1007132/icann-domains-2026-ai-agi",
-    "pubDate": "2026-10-07T18:46:16.000Z",
-    "source": "The Verge AI",
-    "category": "ai",
-    "content": "What’s in a URL anymore, really.\t\n\nFor the first time in years, the Internet Corporation for Assigned Names and Numbers - better known as ICANN - is accepting applications for new top-level domains. These are the suffixes at the end of all URLs, and you may know them as things like .com, .org, and .pizza.\nICANN just announced the 1,615 applications that have been submitted so far, from 481 different applicants. The trend will not surprise you: AI is everywhere. Ten different companies, including both Meta and OpenAI, applied for the .agent domain. Seven, including OpenAI, applied for .agi. Six, including OpenAI, applied for .asi, clearly attempting to get in on President Tru …\nRead the full story at The Verge.",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24643586/Amp_Search.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "Everything announced at Microsoft&#8217;s Surface Laptop Ultra event",
-    "link": "https://www.theverge.com/tech/1007147/microsoft-surface-laptop-ultra-windows-event-everything-announced",
-    "pubDate": "2026-10-07T18:42:22.000Z",
-    "source": "The Verge AI",
-    "category": "ai",
-    "content": "Microsoft just wrapped up a big Windows and Surface-focused keynote in San Francisco.\nThe biggest announcement was arguably the release details about the Surface Laptop Ultra, its new laptop that’s powered by Nvidia’s RTX Spark Arm-based chip. The machine will start at $2,599 for a configuration with an 8-core CPU, 24GB of RAM, and 512GB of storage, and it will be released on October 16th. The laptop also has built-in magnetic USB-C charging instead of the proprietary Surface Connect magnetic charging port. The Verge‘s Tom Warren published a deep dive all about the new laptop. Microsoft also announced that the Surface RTX Spark Dev Box, a mini PC for developers, is available for preorder for $5,999 ahead of shipping in November.\nIn addition, Microsoft shared details about some updates coming to Windows, including “Hybrid Intelligence” features that lets Copilot use files on your Windows PC to take actions and a new search experience that lets you do quick actions from the search bar.\nYou can catch up with all of our coverage from the event right here.\nFs in the chat.\n\t\t\t\nThe first Nvidia RTX Spark laptops cost up to $7,000\n\t\t\t\nMicrosoft is giving Copilot more control over Windows and your files\n\t\t\t\nThe Surface Laptop Ultra finally has a release date — and a starting price of $2,599\n\t\t\t\nSurface RTX Spark Dev Box is available for preorder for $5,999\n\t\t\t\nMicrosoft’s Surface Laptop Ultra has built-in magnetic USB-C charging\n\t\t\t\nMuse is coming to Windows.\n\t\t\t\nWindows and Surface live blog: On the ground at Microsoft’s event",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/lc-img-639ce71c-4af9-43a1-b5a1-34b6d8db35cc.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
     "summary": "",
     "importance": 5
   },
@@ -1608,5 +1598,17 @@
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2297759490-1024x648.jpg",
     "summary": "",
     "importance": 5
+  },
+  {
+    "title": "NFL joins pushback against prediction markets as U.S. Supreme Court asked to act",
+    "link": "https://www.coindesk.com/policy/2026/10/08/nfl-joins-pushback-against-prediction-markets-as-u-s-supreme-court-asked-to-act",
+    "pubDate": "Thu, 08 Oct 2026 18:06:41 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "In opposition to federal oversight of the prediction markets, the National Football League has sided with states, Gary Gensler and one of the authors of the relevant law.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/459994f24f35f95aa2218e1300d30d2f1ea94875-4982x3323.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "summary": "The National Football League (NFL) has joined states, Gary Gensler, and a law's author in opposing federal oversight of prediction markets, amidst a request for the U.S. Supreme Court to intervene. This signals significant pushback against potential federal regulation of these markets.",
+    "importance": 4,
+    "classified": true
   }
 ]
