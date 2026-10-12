@@ -24,18 +24,6 @@
     "classified": true
   },
   {
-    "title": "Sam Altman-backed bitcoin insurer Meanwhile secures $37.5 million in Bain Capital Crypto-led round",
-    "link": "https://www.coindesk.com/business/2026/10/09/sam-altman-backed-bitcoin-insurer-meanwhile-secures-usd37-5-million-in-bain-capital-crypto-led-round",
-    "pubDate": "Fri, 09 Oct 2026 09:06:00 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "Meanwhile has signed 15 brokers serving high-net worth clients across markets iSwitzerland, Singapore, Hong Kong and the UAE.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/37a1020d99f838de78640a139f98435ebafd1ad1-1280x720.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-    "summary": "Meanwhile, a bitcoin insurer supported by Sam Altman, has successfully raised $37.5 million in a funding round led by Bain Capital Crypto. The company is expanding its operations by signing 15 brokers to serve high-net-worth clients in key markets like Switzerland, Singapore, Hong Kong, and the UAE.",
-    "importance": 9,
-    "classified": true
-  },
-  {
     "title": "Ledger confirms unauthorized hardware implant, says losses may exceed $86M",
     "link": "https://cointelegraph.com/news/ledger-confirms-unauthorized-hardware-implant-losses-may-exceed-86m?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "pubDate": "Sun, 11 Oct 2026 09:05:00 +0000",
@@ -57,6 +45,42 @@
     "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4H3BG1JYYXKKGEB4KD8923P/hi-us-has-seized-iranian-crypto-1.jpg",
     "summary": "The US Treasury Department plans to seize $1 billion in cryptocurrency linked to Iran this week, as part of ongoing US sanctions against the country. This action highlights the government's efforts to enforce sanctions using digital asset seizures.",
     "importance": 9,
+    "classified": true
+  },
+  {
+    "title": "U.S. inflation, Ethereum upgrade talks: Crypto Week Ahead",
+    "link": "https://www.coindesk.com/markets/2026/10/12/u-s-inflation-ethereum-upgrade-talks-crypto-week-ahead",
+    "pubDate": "Mon, 12 Oct 2026 08:58:24 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "Your look at what's coming in the week starting Oct. 12.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/c357579ddef2051b405b9e89f8525dd02709081d-5760x3240.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "summary": "This article provides a look ahead at the week starting October 12, focusing on key events relevant to the crypto market. It highlights upcoming discussions around U.S. inflation data and ongoing talks concerning Ethereum upgrades. These topics are significant for investors and participants in the cryptocurrency space.",
+    "importance": 8,
+    "classified": true
+  },
+  {
+    "title": "Why a bug that could have threatened XRP's 100 billion supply cap stayed hidden for years",
+    "link": "https://www.coindesk.com/tech/2026/10/12/why-a-bug-that-could-have-threatened-xrp-s-100-billion-supply-cap-stayed-hidden-for-years",
+    "pubDate": "Mon, 12 Oct 2026 08:32:17 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "The XRP Ledger Foundation said normal parameters never triggered the bug that could have broken XRP's supply cap, which is why it was undetected for years.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/af945cfdd3152f9ebc96d44f89ccafea550ccb57-5760x3840.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "summary": "A bug capable of breaking XRP's 100 billion supply cap remained undetected for years because normal operating parameters never triggered it, according to the XRP Ledger Foundation. This issue could have jeopardized the fixed supply of the cryptocurrency.",
+    "importance": 8,
+    "classified": true
+  },
+  {
+    "title": "Ledger says unauthorized implant found in at least one device sold by CryptoBilis",
+    "link": "https://www.coindesk.com/tech/2026/10/12/ledger-says-unauthorized-implant-found-in-at-least-one-device-sold-by-cryptobilis",
+    "pubDate": "Mon, 12 Oct 2026 07:49:40 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "Ledger confirmed an unauthorized hardware implant in a device linked to crypto losses at CryptoBilis, a Southeast Asian reseller. The company says confirmed cases are limited and its internal systems remain unaffected.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/5607275c13867a17ff6663ed3a0586b0c4361b2b-2560x1707.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "summary": "Ledger has confirmed an unauthorized hardware implant was discovered in at least one device sold by CryptoBilis, a Southeast Asian reseller, which was linked to crypto losses. The company states that confirmed cases are limited and its internal systems remain unaffected.",
+    "importance": 8,
     "classified": true
   },
   {
@@ -204,38 +228,14 @@
     "classified": true
   },
   {
-    "title": "Dark web drug market operator sentenced to 40 years, forfeits $101 million in bitcoin",
-    "link": "https://www.coindesk.com/policy/2026/10/09/dark-web-drug-market-operator-forfeits-1-230-bitcoin-and-faces-40-years-in-prison",
-    "pubDate": "Fri, 09 Oct 2026 09:20:16 +0000",
-    "source": "CoinDesk",
+    "title": "Standard Chartered adds Ripple USD custody, eyes LMAX collateral deal ",
+    "link": "https://cointelegraph.com/news/standard-chartered-rlusd-custody-lmax-deal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Mon, 12 Oct 2026 09:30:57 +0000",
+    "source": "Cointelegraph",
     "category": "crypto",
-    "content": "A man from Virginia, who facilitated millions of drug transactions worth roughly $430 million, agreed to give up $100 million worth of BTC. His partner forfeited nearly 1,600 BTC.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/b063c17ac3fe517655237e5d48234c80c38753b9-6000x3999.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-    "summary": "A Virginia man received a 40-year sentence for operating a dark web drug market responsible for $430 million in transactions. He forfeited $101 million in Bitcoin, while his partner also forfeited nearly 1,600 BTC.",
-    "importance": 8,
-    "classified": true
-  },
-  {
-    "title": "MARA transfers $81.1 million in bitcoin to Galaxy Digital as strategy pivots to AI ",
-    "link": "https://www.coindesk.com/markets/2026/10/09/mara-transfers-usd81-1-million-in-bitcoin-to-galaxy-digital-as-strategy-pivots-to-ai",
-    "pubDate": "Fri, 09 Oct 2026 09:08:09 +0000",
-    "source": "CoinDesk",
-    "category": "both",
-    "content": "The bitcoin miner’s transfer does not confirm a sale, but comes as its treasury has fallen from 53,822 BTC in February to 35,577 BTC in August.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/bb6f6358f562f5d7eac6d507275a723688c7ec8c-720x406.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-    "summary": "Bitcoin miner MARA has transferred $81.1 million in bitcoin to Galaxy Digital, reducing its treasury holdings which have significantly decreased since February. This move is associated with a strategic pivot towards artificial intelligence, although it does not confirm a sale of the transferred assets.",
-    "importance": 8,
-    "classified": true
-  },
-  {
-    "title": "Live updates: Bitcoin slips from day's highs, set to close week with a loss",
-    "link": "https://www.coindesk.com/business/2026/10/09/live-updates-xrp-etfs-the-only-ones-in-green-as-btc-eth-zec-funds-post-outflows",
-    "pubDate": "Fri, 09 Oct 2026 06:51:32 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "Bitcoin ETFs lost $244 million on Thursday and the ZEC fund extended a run of October outflows. Bitcoin is back near $82,000 after a $1 billion liquidation.",
-    "image": "",
-    "summary": "Cryptocurrency ETFs experienced significant outflows, with Bitcoin ETFs losing $244 million on Thursday and ZEC funds continuing their October decline. Amidst a broader market downturn and a $1 billion Bitcoin liquidation, XRP ETFs were the only ones to post gains.",
+    "content": "Standard Chartered has launched custody for Ripple’s RLUSD stablecoin on the XRP Ledger and plans to let institutions use the tokens as trading collateral.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4QN28R2EHW4F96B10PK4FS6/hi-ripple-labs-rlusd-stablecoin-everything-you-need-to-know-1.jpg",
+    "summary": "Standard Chartered has launched custody services for Ripple's RLUSD stablecoin, built on the XRP Ledger. The bank also plans to enable institutions to utilize these stablecoins as trading collateral, marking a step towards broader institutional adoption within the crypto space.",
     "importance": 8,
     "classified": true
   },
@@ -312,7 +312,7 @@
     "classified": true
   },
   {
-    "title": "THORChain exec accuses Tether of temporarily freezing USDT vaults",
+    "title": "THORChain dev accuses Tether of temporarily freezing USDT vaults",
     "link": "https://cointelegraph.com/news/thorchain-tether-freezing-usdt-addresses?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "pubDate": "Fri, 09 Oct 2026 19:04:03 +0000",
     "source": "Cointelegraph",
@@ -408,6 +408,18 @@
     "classified": true
   },
   {
+    "title": "Kraken parent clears Dubai’s final hurdle for dirham trading rollout",
+    "link": "https://cointelegraph.com/news/kraken-receives-vara-approval-uae-expansion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Mon, 12 Oct 2026 09:41:17 +0000",
+    "source": "Cointelegraph",
+    "category": "crypto",
+    "content": "Payward received full market approval from Dubai’s VARA to expand its digital asset services in the UAE, building on the preliminary approval received in May.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4QPPQ7MEQR102YQ3DC7RK03/hi-overview-of-crypto-in-the-uae-kraken.jpg",
+    "summary": "Kraken's parent company, Payward, has received full market approval from Dubai's VARA, clearing the final hurdle for its operations in the UAE. This allows the company to expand its digital asset services, including dirham trading, in the region.",
+    "importance": 7,
+    "classified": true
+  },
+  {
     "title": "Justin Sun says Tron’s post-quantum cryptography has gone live on testnet",
     "link": "https://cointelegraph.com/news/justin-sun-says-trons-post-quantum-cryptography-has-gone-live-on-testnet?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "pubDate": "Sat, 10 Oct 2026 11:52:14 +0000",
@@ -420,9 +432,21 @@
     "classified": true
   },
   {
+    "title": "Bitcoin shrugs off ETF outflows to trade above $84,000 as oil falls",
+    "link": "https://www.coindesk.com/markets/2026/10/12/bitcoin-shrugs-off-etf-outflows-to-trade-above-usd84-000-as-oil-falls",
+    "pubDate": "Mon, 12 Oct 2026 04:49:30 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "Bitcoin is holding on to its weekend gains as oil trades lower. ETFs lost over $600 million in outflows last week.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/67eec2173e38b1d5355dc2ba2a2aa0f4620c070f-2169x1199.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "summary": "Bitcoin is holding onto its weekend gains, trading above $84,000, despite significant ETF outflows totaling over $600 million last week. This market performance coincides with a fall in oil prices.",
+    "importance": 6,
+    "classified": true
+  },
+  {
     "title": "Here’s what happened in crypto today",
     "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Sun, 11 Oct 2026 12:59:00 +0000",
+    "pubDate": "Mon, 12 Oct 2026 05:55:00 +0000",
     "source": "Cointelegraph",
     "category": "crypto",
     "content": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
@@ -430,6 +454,72 @@
     "summary": "This article provides a summary of the latest news and trends in the crypto space, covering Bitcoin price, blockchain, DeFi, Web3, and crypto regulation. It aims to keep readers updated on daily events impacting the cryptocurrency market. The article appears to be a general overview of the current state of the crypto industry.",
     "importance": 6,
     "classified": true
+  },
+  {
+    "title": "South Korean bank launches Bitcoin-backed business loans: Report",
+    "link": "https://cointelegraph.com/news/south-korea-jeonbuk-bank-bitcoin-backed-business-loans?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Mon, 12 Oct 2026 08:45:58 +0000",
+    "source": "Cointelegraph",
+    "category": "crypto",
+    "content": "Jeonbuk Bank reportedly began offering Bitcoin-backed loans to corporate customers, with a third-party custodian holding the cryptocurrency used as collateral.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4QKGRPPCEHYJ6JB01H5VKKA/south-korea-bank.png",
+    "summary": "",
+    "importance": 5
+  },
+  {
+    "title": "Global watchdog flags stablecoin risks, AI threats ahead of G20",
+    "link": "https://cointelegraph.com/news/fsb-stablecoin-ai-risks-g20-finance-meeting?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Mon, 12 Oct 2026 06:30:21 +0000",
+    "source": "Cointelegraph",
+    "category": "crypto",
+    "content": "The Financial Stability Board flagged cross-border stablecoin risks and AI-related cybersecurity threats while urging G20 policymakers to support stronger safeguards.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4QBHGDKZ7W5F58K506PQBRF/g20-meeting.png",
+    "summary": "",
+    "importance": 5
+  },
+  {
+    "title": "DATA Network to migrate to Sui, retire own chain ",
+    "link": "https://cointelegraph.com/news/data-network-to-migrate-to-sui-retire-its-own-chain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Mon, 12 Oct 2026 05:15:43 +0000",
+    "source": "Cointelegraph",
+    "category": "crypto",
+    "content": "The migration is backed by a $30 million investment from Sui Foundation.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4Q7JSD7Z2H5EKPCK19PNAQK/blockchain-2.jpg",
+    "summary": "",
+    "importance": 5
+  },
+  {
+    "title": "French lawmakers back reporting rule for crypto wallets over $112K  ",
+    "link": "https://cointelegraph.com/news/french-lawmakers-back-reporting-rule-for-crypto-wallets-over-112k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Mon, 12 Oct 2026 04:45:15 +0000",
+    "source": "Cointelegraph",
+    "category": "crypto",
+    "content": "Holders could face fines of up to 10,000 euros for failing to declare qualifying assets.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4Q6GWATH459W87C1BCBF448/france-tax.jpg",
+    "summary": "",
+    "importance": 5
+  },
+  {
+    "title": "XRP Ledger defends emergency patch for unlimited XRP bug",
+    "link": "https://cointelegraph.com/news/xrp-ledger-defends-emergency-patch-for-unlimited-xrp-bug?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Mon, 12 Oct 2026 01:21:29 +0000",
+    "source": "Cointelegraph",
+    "category": "crypto",
+    "content": "The XRP Ledger Foundation pushed back against claims that its emergency security patch was forced on network operators.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4PTZZ4W2YTP18XY2SMEBFG3/xrpl.jpg",
+    "summary": "",
+    "importance": 5
+  },
+  {
+    "title": "Ledger attack spreads to EU, AI finds ’18 trillion XRP’ bug: Hodler’s Digest ",
+    "link": "https://cointelegraph.com/magazine/ledger-attack-spreads-to-eu-ai-finds-18-trillion-xrp-bug-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Sun, 11 Oct 2026 22:57:53 +0000",
+    "source": "Cointelegraph",
+    "category": "crypto",
+    "content": "An user reports buying a tampered Ledger from a big retailer in Europe. Security researchers use AI to uncover a “$94 billion” XRP bug — but receive just a $250K bounty.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4PCWNDZ4KC7D9SH89H62G5A/updated-cover-collage-oct-9.png",
+    "summary": "",
+    "importance": 5
   },
   {
     "title": "Blockchain.com pursues CFTC approval for prediction markets: CNBC",
@@ -531,90 +621,46 @@
     "importance": 5
   },
   {
-    "title": "Bitcoin, Ether ETFs’ October outflows swell toward $1B",
-    "link": "https://cointelegraph.com/markets/bitcoin-ether-etfs-october-outflows-billion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Fri, 09 Oct 2026 07:34:44 +0000",
-    "source": "Cointelegraph",
+    "title": "Standard Chartered launches custody for Ripple’s RLUSD on XRP Ledger",
+    "link": "https://www.theblock.co/news/business/2026-10-12-standard-chartered-custody-ripple-rlusd-418258",
+    "pubDate": "Mon, 12 Oct 2026 09:35:21 +0000",
+    "source": "The Block",
     "category": "crypto",
-    "content": "Bitcoin ETFs lost $244 million on Thursday, while Ether funds extended their outflow streak to eight sessions, shedding $641 million.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4FQAANP3H5Z0XYV77PNYB10/hi-will-the-blockchain-stop-leaks-of-crypto.jpg",
+    "content": "The bank is working with Ripple and LMAX Group to enable RLUSD as collateral for certain LMAX products under its collateral mirroring model.",
+    "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/10/standard-chartered.png",
     "summary": "",
     "importance": 5
   },
   {
-    "title": "Crypto projects apply for Anthropic’s new frontier AI security scanner  ",
-    "link": "https://cointelegraph.com/news/crypto-projects-apply-for-anthropics-new-frontier-ai-security-scanner?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Fri, 09 Oct 2026 05:34:33 +0000",
-    "source": "Cointelegraph",
+    "title": "Former Acting Chair Caroline Pham says CFTC can regulate almost everything except ‘onions and box office receipts’",
+    "link": "https://www.theblock.co/news/regulation/2026-10-12-former-cftc-acting-chair-caroline-pham-onions-418246",
+    "pubDate": "Mon, 12 Oct 2026 04:33:57 +0000",
+    "source": "The Block",
     "category": "crypto",
-    "content": "Anthropic’s new opt-in service promises vulnerability reports from its strongest AI models, including Claude Mythos.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4FJ993JA7JTR422QAJS3TDX/hi-can-ai-bots-verify-you.jpg",
+    "content": "Pham said the CFTC's recent proposals are 'absolutely the kind of protection' needed for crypto retail traders in the United States.",
+    "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2022/10/20221003_CarolinePham2.jpg",
     "summary": "",
     "importance": 5
   },
   {
-    "title": "Trump administration outlines quantum, AI initiatives in $6B science push",
-    "link": "https://cointelegraph.com/news/trump-administration-quantum-computing-ai-6-billion-science-push?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Fri, 09 Oct 2026 05:25:27 +0000",
-    "source": "Cointelegraph",
+    "title": "Sui Foundation invests $30 million in DATA Network as AI data protocol migrates to Sui",
+    "link": "https://www.theblock.co/news/ecosystems/2026-10-11-sui-foundation-invests-30-million-data-network-418243",
+    "pubDate": "Mon, 12 Oct 2026 02:00:00 +0000",
+    "source": "The Block",
     "category": "crypto",
-    "content": "The White House outlined a $215 million quantum computing competition and $2.4 billion in AI industry commitments as concerns grow over quantum threats to cryptocurrency security.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4FG6B1R6A2XBTWZ9CFPZ8SJ/ai-and-quantum.png",
+    "content": "DATA Network is set to be upgraded to run as a protocol natively on Sui, and its independent chain will be retired.",
+    "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2024/11/20241118_Sui_News.jpg",
     "summary": "",
     "importance": 5
   },
   {
-    "title": "Thailand finalizes rules paving way for Bitcoin, Ether ETFs",
-    "link": "https://cointelegraph.com/news/thailand-finalizes-rules-paving-way-for-bitcoin-ether-etfs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Fri, 09 Oct 2026 03:08:51 +0000",
-    "source": "Cointelegraph",
+    "title": "Trader nets $1.28 million on new 1,000x exchange Papertrade by moving Hyperliquid’s ETH prices",
+    "link": "https://www.theblock.co/news/defi/2026-10-11-trader-nets-1-28-million-on-new-1000x-exchange-papertrade-by-moving-hyperliquids-eth-prices-418239",
+    "pubDate": "Sun, 11 Oct 2026 22:26:02 +0000",
+    "source": "The Block",
     "category": "crypto",
-    "content": "The rules are set to take effect next week, allowing crypto ETFs to trade exclusively on the Stock Exchange of Thailand.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4FA1413AR809PCC2V0XRTMJ/thailand.jpg",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "Cantor Fitzgerald faces Senate Democrat’s questions over Tether ties  ",
-    "link": "https://cointelegraph.com/news/cantor-fitzgerald-faces-senate-democrats-probe-over-tether-ties?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Fri, 09 Oct 2026 00:46:27 +0000",
-    "source": "Cointelegraph",
-    "category": "crypto",
-    "content": "The letter follows a report by the Democratic investigators last month alleging Tether’s USDT has become a key tool for Iran’s shadow banking network.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4F1W4R51W8W7BPK0508NAMP/investigation.jpg",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "China’s P2P stablecoin wallets surge 43x, Korea’s $450B crypto economy: Asia Express",
-    "link": "https://cointelegraph.com/magazine/chinas-p2p-stablecoin-wallets-surge-43x-koreas-450b-crypto-economy-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Thu, 08 Oct 2026 22:35:00 +0000",
-    "source": "Cointelegraph",
-    "category": "crypto",
-    "content": "Despite ongoing bans, China has seen a big surge in peer-to-peer stablecoin use. New figures show South Korea’s $450B crypto economy is the largest in East Asia.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M26Q2WGDD8GDA5QMCWQF3GB3/magazineasia-expresssnow.jpg",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "Securitize stock jumps over 10% after launching tokenized US equities on Solana",
-    "link": "https://cointelegraph.com/news/securitize-stock-jumps-launching-tokenized-us-equities-solana?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Thu, 08 Oct 2026 19:31:38 +0000",
-    "source": "Cointelegraph",
-    "category": "crypto",
-    "content": "Securitize’s new offering gives eligible investors access to tokenized shares of 12 US companies, with dividend and voting rights and plans for round-the-clock trading.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4EEEA4K0X2GAJFKB9A8T56C/hi-how-ondo-finance-plans-to-bring-tokenized-us-stocks-to-solana-3.png",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "NFL backs New Jersey authorities in SCOTUS petition over Kalshi ",
-    "link": "https://cointelegraph.com/news/nfl-new-jersey-supreme-court-kalshi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Thu, 08 Oct 2026 19:17:18 +0000",
-    "source": "Cointelegraph",
-    "category": "crypto",
-    "content": "According to the league, Kalshi and other prediction markets “threaten game integrity” because many event contracts are “highly susceptible to manipulation.”",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4E1T9RDDQM4RHT8VGKG97F0/hi-nfl-players-choosing-crypto-over-cash2.jpg",
+    "content": "The same wallet later lost $450,000 when 30 short positions were liquidated on Saturday night after staying open for more than three hours.",
+    "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/10/Copper-fluid-ribbons-frame-papertrade__clean.png",
     "summary": "",
     "importance": 5
   },
@@ -795,50 +841,6 @@
     "importance": 5
   },
   {
-    "title": "Bitcoin pulls back as analysts forecast $80,000-$90,000 Q4 trading range",
-    "link": "https://www.theblock.co/news/markets/2026-10-08-bitcoin-q4-forecast-418052",
-    "pubDate": "Thu, 08 Oct 2026 14:52:27 +0000",
-    "source": "The Block",
-    "category": "crypto",
-    "content": "Bitcoin traded near $82,000 on Thursday, with analysts at QCP expecting a fourth-quarter range of $80,000 to $90,000.",
-    "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/10/bitcoin-market.png",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "Securitize launches 1:1-backed tokenized stocks, starting with Apple, Nvidia, Strategy and more",
-    "link": "https://www.theblock.co/news/markets/2026-10-08-securitize-launches-tokenized-us-stocks-solana-418043",
-    "pubDate": "Thu, 08 Oct 2026 14:04:39 +0000",
-    "source": "The Block",
-    "category": "crypto",
-    "content": "Securitize launches tokenized US stocks on Solana, backed 1:1 by real shares with dividends and USDC settlement.",
-    "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2025/10/20251028_Secrutize_News_2.jpg",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "Crypto industry split over Justin Drake’s AI warning",
-    "link": "https://www.theblock.co/news/defi/2026-10-08-crypto-industry-split-over-justin-drakes-ai-warning-418021",
-    "pubDate": "Thu, 08 Oct 2026 10:20:00 +0000",
-    "source": "The Block",
-    "category": "crypto",
-    "content": "Crypto players disagree over Justin Drake’s AI cryptography warning, with some dismissing it while others urge proactive preparation.",
-    "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/05/20260511_Quantum_News_3.jpg",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "Standard Chartered to expand crypto custody services in Singapore",
-    "link": "https://www.theblock.co/news/business/2026-10-08-standard-chartered-crypto-custody-singapore-418017",
-    "pubDate": "Thu, 08 Oct 2026 07:55:14 +0000",
-    "source": "The Block",
-    "category": "crypto",
-    "content": "The bank said the service would extend its existing crypto custody footprint in the UAE, Luxembourg, and Hong Kong.",
-    "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2024/06/standard_chartered_news_editorial.jpg",
-    "summary": "",
-    "importance": 5
-  },
-  {
     "title": "Bitcoin Life Insurer Meanwhile Raises $37.5M as Wealthy Families Look to Pass On Their BTC",
     "link": "https://bitcoinmagazine.com/news/meanwhile-bitcoin-raises-37-million",
     "pubDate": "Sat, 10 Oct 2026 00:53:09 +0000",
@@ -949,6 +951,28 @@
     "importance": 5
   },
   {
+    "title": "Mars may be a hellhole, but the moon is not far behind",
+    "link": "https://www.technologyreview.com/2026/10/12/1145760/imagining-building-cities-on-the-moon/",
+    "pubDate": "Mon, 12 Oct 2026 09:37:02 +0000",
+    "source": "MIT Technology Review",
+    "category": "ai",
+    "content": "Welcome to the second space race. You can be forgiven for experiencing déjà vu. Last time, it was the Soviet Union and the United States vying to be the first to plant some flags. Now it’s a sprint to the lunar surface between America and China—alongside a host of varyingly friendly and rival nations—plus a…",
+    "image": "https://wp.technologyreview.com/wp-content/uploads/2026/10/Selman-MIT-MoonBase-LavaCaves.png?w=840",
+    "summary": "",
+    "importance": 5
+  },
+  {
+    "title": "The ecologist revealing the invisible networks that revive rainforests",
+    "link": "https://www.technologyreview.com/2026/10/12/1145745/daisy-dent-ecologist-revealing-invisible-networks-revive-rainforests/",
+    "pubDate": "Mon, 12 Oct 2026 09:00:00 +0000",
+    "source": "MIT Technology Review",
+    "category": "ai",
+    "content": "In a research station in central Panama, you can walk through a century of forest time, watching scrubby plots of adolescent trees give way to cathedral-­like canopies of mature growth. Forest ecologist Daisy Dent, a senior scientist at ETH Zurich, oversees this sequence of plots across the Barro Colorado Nature Monument, some of which date…",
+    "image": "",
+    "summary": "",
+    "importance": 5
+  },
+  {
     "title": "The Download: AI’s refusal problem and weight-loss drug side effects",
     "link": "https://www.technologyreview.com/2026/10/09/1146250/the-download-ai-refusal-problem-weight-loss-drug-side-effects/",
     "pubDate": "Fri, 09 Oct 2026 12:10:00 +0000",
@@ -1037,24 +1061,13 @@
     "importance": 5
   },
   {
-    "title": "Building a safer path to autonomous industrial AI",
-    "link": "https://www.technologyreview.com/2026/10/08/1144020/building-a-safer-path-to-autonomous-industrial-ai/",
-    "pubDate": "Thu, 08 Oct 2026 08:17:32 +0000",
-    "source": "MIT Technology Review",
+    "title": "Will the HomeView be Apple’s first smart home success?",
+    "link": "https://techcrunch.com/2026/10/11/will-the-homeview-be-apples-first-smart-home-success/",
+    "pubDate": "Sun, 11 Oct 2026 21:14:40 +0000",
+    "source": "TechCrunch AI",
     "category": "ai",
-    "content": "Industrial AI is entering a new phase. After decades of predictive analytics and other specialized applications, advances in foundation models, physical AI, and agentic AI are making it possible to automate more complex tasks across industrial environments. But unlike AI that operates purely in the digital world, industrial AI can interact directly with physical systems,…",
+    "content": "Over the past couple of years, we’ve seen multiple reports that Apple was working on a new smart home product, but now it seems the product has a name and a launch date.",
     "image": "",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "The Download: weight-loss drugs slowing aging and carbon dioxide batteries",
-    "link": "https://www.technologyreview.com/2026/10/07/1145895/the-download-weight-loss-drugs-slow-aging-carbon-dioxide-batteries/",
-    "pubDate": "Wed, 07 Oct 2026 12:10:00 +0000",
-    "source": "MIT Technology Review",
-    "category": "ai",
-    "content": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Weight-loss drugs show signs of slowing biological aging, say drugmakers Popular weight-loss drugs may do more than help people shed pounds. They might also slow the aging process. Drugmakers Eli Lilly…",
-    "image": "https://wp.technologyreview.com/wp-content/uploads/2026/01/Photo-2_AbsolicsInc.jpg?fit=2128,1196",
     "summary": "",
     "importance": 5
   },
@@ -1263,17 +1276,6 @@
     "source": "TechCrunch AI",
     "category": "ai",
     "content": "Ben Affleck is going viral for his deep knowledge of AI, from neural networks and transformers to open weights. The actor, who sold his AI filmmaking startup to Netflix earlier this year, is proving he's more than just a Hollywood star.",
-    "image": "",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "Popular AI leaderboard Arena nearly doubles valuation to $3.1B valuation in 10 months",
-    "link": "https://techcrunch.com/2026/10/08/popular-ai-leaderboard-arena-nearly-doubles-valuation-to-3-1b-valuation-in-10-months/",
-    "pubDate": "Thu, 08 Oct 2026 18:19:45 +0000",
-    "source": "TechCrunch AI",
-    "category": "ai",
-    "content": "The company behind the popular LMArena leaderboard has raised $200 million led by Lightspeed and Khosla, and is now measuring AI models on alignment issues such as lying.",
     "image": "",
     "summary": "",
     "importance": 5
