@@ -1,5 +1,17 @@
 [
   {
+    "title": "Coinbase, which holds 5% of all bitcoin, wants the quantum fix started now",
+    "link": "https://www.coindesk.com/tech/2026/10/14/coinbase-which-holds-5-of-all-bitcoin-wants-the-quantum-fix-started-now",
+    "pubDate": "Wed, 14 Oct 2026 05:44:51 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "Coinbase says bitcoin should start preparing for quantum computers now, with flexible addresses, a backup quantum-proof key and a separate debate over lost coins.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/6e8ed1cd0f17a1509349ad7cb7c31b8324847527-1920x1280.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "summary": "Coinbase, a major holder of Bitcoin, is urging the cryptocurrency community to begin preparing for the threat of quantum computers immediately. They propose implementing flexible addresses, establishing a backup quantum-proof key system, and initiating a discussion regarding potential lost coins.",
+    "importance": 9,
+    "classified": true
+  },
+  {
     "title": "BNY, Citadel Securities test tokenized U.S. Treasuries to speed up Wall Street financing",
     "link": "https://www.coindesk.com/business/2026/10/13/bny-citadel-securities-test-tokenized-u-s-treasuries-to-speed-up-wall-street-financing",
     "pubDate": "Tue, 13 Oct 2026 21:52:00 +0000",
@@ -24,15 +36,51 @@
     "classified": true
   },
   {
-    "title": "Ledger claims CryptoBilis cases are limited as up to $93 million is traced, $10 million frozen",
-    "link": "https://www.coindesk.com/tech/2026/10/12/ledger-claims-cryptobilis-cases-are-limited-as-up-to-usd93m-is-traced-usd10m-frozen",
-    "pubDate": "Mon, 12 Oct 2026 12:01:53 +0000",
+    "title": "Standard Chartered unlocks direct bitcoin and ether trading for affluent UAE clients",
+    "link": "https://www.coindesk.com/business/2026/10/14/standard-chartered-unlocks-direct-bitcoin-and-ether-trading-for-affluent-uae-clients",
+    "pubDate": "Wed, 14 Oct 2026 08:10:07 +0000",
     "source": "CoinDesk",
     "category": "crypto",
-    "content": "Ledger said every confirmed case involves devices sold by the Southeast Asian reseller, but critics say the hardware-wallet maker must answer for an authorized sales channel.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/e7658d2f8e815fd276766cb37fe078dcc61768ff-1740x979.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-    "summary": "Ledger has claimed that all confirmed cryptocurrency incidents, involving up to $93 million traced and $10 million frozen, are tied to hardware wallets sold by its Southeast Asian reseller, CryptoBilis. Despite Ledger's attempt to localize the issue, critics are pressing the company to take responsibility for problems originating from an authorized sales channel.",
-    "importance": 9,
+    "content": "The bank manages custody and settlement in-house via a closed-loop model, removing the need for separate crypto wallets.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/635098a63fd9f1666a72fdfb7fee8ca9adedf6a2-4032x2268.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "summary": "Standard Chartered has launched direct Bitcoin and Ethereum trading services for its affluent clients in the UAE. The bank handles custody and settlement in-house through a closed-loop model, eliminating the need for clients to manage separate crypto wallets.",
+    "importance": 8,
+    "classified": true
+  },
+  {
+    "title": "Ripple adds Stripe-owned wallets to XRP Ledger as AI payments pass 14 million",
+    "link": "https://www.coindesk.com/tech/2026/10/14/ripple-adds-stripe-owned-wallets-to-xrp-ledger-as-ai-payments-pass-14-million",
+    "pubDate": "Wed, 14 Oct 2026 05:24:12 +0000",
+    "source": "CoinDesk",
+    "category": "both",
+    "content": "The integration will let software pay for online services using XRP and RLUSD, while questions remain about how much real economic activity the transactions represent.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/260b57a4fe560b018cc5f2eb91b9df196b57dc92-3773x2122.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "summary": "Ripple has integrated Stripe-owned wallets with the XRP Ledger, enabling software to pay for online services using XRP and RLUSD. This development coincides with AI-driven payments on the ledger surpassing 14 million transactions. Questions persist regarding the true economic activity represented by these automated payments.",
+    "importance": 8,
+    "classified": true
+  },
+  {
+    "title": "Solana sets Oct. 21 for Alpenglow upgrade targeting 150-millisecond finality",
+    "link": "https://www.coindesk.com/tech/2026/10/14/solana-sets-oct-21-for-alpenglow-upgrade-targeting-150-millisecond-finality",
+    "pubDate": "Wed, 14 Oct 2026 04:11:16 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "The switch will replace Solana’s existing validator voting system, remove vote transactions from blocks and could sharply change headline transaction counts even if user activity stays flat.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/54c0f3b41e62df4cdf774aab4c7d68c64e5e976c-1920x1080.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "summary": "Solana is implementing its Alpenglow upgrade on October 21st, targeting a rapid 150-millisecond transaction finality. This update will replace the current validator voting system and remove vote transactions from blocks, which could significantly alter reported transaction counts irrespective of user activity levels.",
+    "importance": 8,
+    "classified": true
+  },
+  {
+    "title": "Bitcoin climbs toward $84,000 after Fed’s Williams sees no rate hikes in 2027",
+    "link": "https://www.coindesk.com/markets/2026/10/14/bitcoin-climbs-toward-usd84-000-after-fed-s-williams-sees-no-rate-hikes-in-2027",
+    "pubDate": "Wed, 14 Oct 2026 03:50:54 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "ZEC led a broad bounce among major tokens, and Korean chipmakers snapped a five-day losing streak ahead of Thursday’s U.S. inflation data.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/f3e63169156c07452f98787fddb16a5ef4589854-1508x848.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "summary": "Bitcoin is climbing towards $84,000, spurred by comments from the Fed's Williams indicating no interest rate hikes in 2027. This positive market sentiment also led to a broad bounce among other major tokens, including ZEC.",
+    "importance": 8,
     "classified": true
   },
   {
@@ -156,39 +204,15 @@
     "classified": true
   },
   {
-    "title": "Tokenized catastrophe bonds target the disaster-insurance gap",
-    "link": "https://www.coindesk.com/business/2026/10/12/tokenized-catastrophe-bonds-target-the-disaster-insurance-gap",
-    "pubDate": "Mon, 12 Oct 2026 15:00:00 +0000",
+    "title": "Largest Philippines crypto exchange, Coins.ph, said to face central bank regulatory action",
+    "link": "https://www.coindesk.com/policy/2026/10/13/largest-philippines-crypto-exchange-coins-ph-said-to-face-central-bank-regulatory-action",
+    "pubDate": "Wed, 14 Oct 2026 01:00:00 +0000",
     "source": "CoinDesk",
     "category": "crypto",
-    "content": "A planned Bermuda issuance would put legal ownership onchain and seek capital for disaster risks that remain costly to insure.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/37bb2f8eb17a1b00a05270229b4bac048a930f82-6000x4000.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-    "summary": "A planned Bermuda issuance aims to offer tokenized catastrophe bonds, placing legal ownership onchain. This initiative seeks to attract capital to cover disaster risks that are currently difficult and expensive to insure, addressing a significant insurance gap.",
-    "importance": 8,
-    "classified": true
-  },
-  {
-    "title": "Standard Chartered offers RLUSD custody in Dubai and plans LMAX collateral link",
-    "link": "https://www.coindesk.com/business/2026/10/12/standard-chartered-offers-rlusd-custody-in-dubai-and-plans-lmax-collateral-link",
-    "pubDate": "Mon, 12 Oct 2026 12:09:09 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "Ripple previously gave LMAX $150 million in financing to integrate RLUSD into its institutional infrastructure.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/635098a63fd9f1666a72fdfb7fee8ca9adedf6a2-4032x2268.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-    "summary": "Standard Chartered has launched custody services for RLUSD in Dubai and plans to link it with LMAX for collateral. This initiative builds on Ripple's previous $150 million financing to LMAX to integrate RLUSD into its institutional infrastructure, signaling growing institutional adoption of digital assets.",
-    "importance": 8,
-    "classified": true
-  },
-  {
-    "title": "Global financial watchdog calls for cross-border information sharing, planning for stablecoin crisis",
-    "link": "https://www.coindesk.com/policy/2026/10/12/global-financial-watchdog-calls-for-cross-border-information-sharing-planning-for-stablecoin-crisis",
-    "pubDate": "Mon, 12 Oct 2026 11:02:38 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "Coins jointly issued by multiple companies can trap reserves in one jurisdiction while redemption demands hit another, complicating cross-border crisis response.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/1a69f4a4dc7580b072baf69f08a84b53c0b7799e-1920x1281.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-    "summary": "A global financial watchdog is calling for improved cross-border information sharing and crisis planning specifically for stablecoins. The concern arises from stablecoins issued by multiple companies, which could lead to reserves being trapped in one jurisdiction while redemption demands occur in another, complicating international crisis response.",
-    "importance": 8,
+    "content": "The exchange, which has over 18 million customers, is said to have handled business transactions involving restricted offshore gaming and gambling companies.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/90725f28abbda8fc3beba48c502b8cb9cd1f93a7-1000x664.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "summary": "Coins.ph, the largest cryptocurrency exchange in the Philippines with over 18 million customers, is reportedly facing regulatory action from the central bank. This action stems from its alleged involvement in business transactions with restricted offshore gaming and gambling companies.",
+    "importance": 7,
     "classified": true
   },
   {
@@ -240,6 +264,18 @@
     "classified": true
   },
   {
+    "title": "Starknet introduces wallet privacy feature for DeFi activity",
+    "link": "https://cointelegraph.com/news/starknet-introduces-wallet-privacy-feature-for-defi-activity?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Wed, 14 Oct 2026 05:32:14 +0000",
+    "source": "Cointelegraph",
+    "category": "crypto",
+    "content": "Starknet’s Shadow Accounts allow users to obscure connections between their main wallets and DeFi activity, though transactions remain visible onchain.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4WDYJ6RECS35PSEZTD40N6J/added-starknet-logo.png",
+    "summary": "Starknet has introduced a new privacy feature called Shadow Accounts, which aims to obscure the connection between users' main wallets and their decentralized finance (DeFi) activities. While this enhances user privacy by masking wallet links, all transactions will continue to remain publicly visible on the blockchain.",
+    "importance": 7,
+    "classified": true
+  },
+  {
     "title": "Stacks' STX, a Bitcoin layer-2 token, has surged by 50% in four weeks",
     "link": "https://www.coindesk.com/daybook-us/2026/10/13/stacks-stx-a-bitcoin-layer-2-token-has-surged-by-50-in-four-weeks",
     "pubDate": "Tue, 13 Oct 2026 11:26:45 +0000",
@@ -278,7 +314,7 @@
   {
     "title": "Here’s what happened in crypto today",
     "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Tue, 13 Oct 2026 19:33:57 +0000",
+    "pubDate": "Wed, 14 Oct 2026 05:35:52 +0000",
     "source": "Cointelegraph",
     "category": "crypto",
     "content": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
@@ -288,25 +324,24 @@
     "classified": true
   },
   {
-    "title": "Bitcoin falls below $83,000 as dollar strength keeps markets on edge",
-    "link": "https://www.coindesk.com/markets/2026/10/12/bitcoin-holds-usd83-000-as-dollar-strength-keeps-markets-on-edge",
-    "pubDate": "Mon, 12 Oct 2026 11:21:11 +0000",
-    "source": "CoinDesk",
-    "category": "both",
-    "content": "Bitcoin and gold hold steady as a firm dollar and rising bond yields weigh on sentiment, while IREN secures a multiyear cloud services deal with Anthropic.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/3ba4d66673c79623624c737b9613317271fc97dc-1202x748.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-    "summary": "Bitcoin's price dipped below $83,000, as a strong dollar and rising bond yields influenced market sentiment for both Bitcoin and gold. Separately, IREN announced a multiyear cloud services deal with AI firm Anthropic.",
-    "importance": 5,
-    "classified": true
+    "title": "Fed’s Williams sees AI supply squeeze lasting beyond 2 years",
+    "link": "https://cointelegraph.com/markets/feds-williams-sees-ai-supply-squeeze-lasting-beyond-2-years?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Wed, 14 Oct 2026 05:30:10 +0000",
+    "source": "Cointelegraph",
+    "category": "crypto",
+    "content": "New York Fed President John Williams’ comments came as he reaffirmed his view that the US Federal Reserve may need to raise interest rates once more this year.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4WDVRKK44RE061434J5PYP7/hi-bitcoin-miners-as-energy-buyers-ai-1.jpg",
+    "summary": "",
+    "importance": 5
   },
   {
-    "title": "South Korea just got its first traditional bank loans backed by bitcoin",
-    "link": "https://www.coindesk.com/business/2026/10/12/south-korea-just-got-its-first-traditional-bank-loans-backed-by-bitcoin",
-    "pubDate": "Mon, 12 Oct 2026 10:57:37 +0000",
-    "source": "CoinDesk",
+    "title": "Bitwise’s Hougan says Q3 charts point to ‘crypto spring’ ",
+    "link": "https://cointelegraph.com/markets/bitwises-hougan-says-q3-charts-point-to-crypto-spring?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Wed, 14 Oct 2026 02:19:56 +0000",
+    "source": "Cointelegraph",
     "category": "crypto",
-    "content": "Loans use third-party custodians for bitcoin holdings and rely on court-ordered sales if borrowers default.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/d942a1634dad0f09e3b8e09b5f0184eaa796bc57-4240x2385.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "content": "Bitwise’s Matt Hougan said nearly every fundamental indicator that Bitwise tracks spiked sharply higher.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4W39C53K5A0QZYE5SN4HY81/spring.jpg",
     "summary": "",
     "importance": 5
   },
@@ -597,35 +632,13 @@
     "importance": 5
   },
   {
-    "title": "XRP treasury Evernorth’s shares rise 5% at Nasdaq opening print ",
-    "link": "https://cointelegraph.com/news/xrp-treasury-evernorth-rise-nasdaq-opening?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Mon, 12 Oct 2026 14:18:49 +0000",
-    "source": "Cointelegraph",
+    "title": "Coinbase lays out flexible designs as key priority for Bitcoin’s post-quantum migration",
+    "link": "https://www.theblock.co/news/ecosystems/2026-10-13-coinbase-bitcoin-post-quantum-migration-418509",
+    "pubDate": "Wed, 14 Oct 2026 02:49:34 +0000",
+    "source": "The Block",
     "category": "crypto",
-    "content": "Evernorth’s share price rose by 5% as investors welcomed the Nasdaq debut of the first pure-play XRP digital asset treasury.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4R2M78QA8KZ200MJ7SRZ0MQ/hi-how-xrps-legal-victory-turned-it-into-wall-streets-favorite-crypto-1.jpg",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "Ledger implant tests Bitcoin ETFs as safer custodial solutions than hardware wallets ",
-    "link": "https://cointelegraph.com/news/ledger-implant-bitcoin-etfs-hardware-wallets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Mon, 12 Oct 2026 14:07:00 +0000",
-    "source": "Cointelegraph",
-    "category": "crypto",
-    "content": "The discovery of an unauthorized Ledger hardware implant reignited debate on whether Bitcoin ETFs are safer than self-custodying Bitcoin via hardware wallet devices.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4R688Z9BFT3CGH1NFQ6QZ8X/hi-ledger3.jpg",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "Strategy adds 250 Bitcoin as holdings reach 848,250 BTC ",
-    "link": "https://cointelegraph.com/news/michael-saylor-strategy-250-btc-buy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Mon, 12 Oct 2026 12:31:51 +0000",
-    "source": "Cointelegraph",
-    "category": "crypto",
-    "content": "Michael Saylor’s Strategy said Bitcoin holdings reached 848,250 BTC after its latest purchase, while maintaining a $4.88 billion cash reserve.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4QZS9YXDW2XY08FHFBXVMGD/hi-how-michael-saylors-strategy-became-the-largest-bitcoin-holder-3.jpg",
+    "content": "Coinbase published priorities for Bitcoin's post-quantum transition, urging early preparation for signature upgrades and fund migration.",
+    "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/06/20260612_Coinbase_News.jpg",
     "summary": "",
     "importance": 5
   },
@@ -824,17 +837,6 @@
     "category": "crypto",
     "content": "Evernorth plans to put its XRP holdings to work through lending, liquidity provision and yield strategies.",
     "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/01/20260108_XRP_News_2.jpg",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "Morgan Stanley expects to support tokenized equities in Q1 2027, digital asset strategy head says",
-    "link": "https://www.theblock.co/news/markets/2026-10-12-morgan-stanley-tokenized-equities-q1-2027-418256",
-    "pubDate": "Mon, 12 Oct 2026 10:10:13 +0000",
-    "source": "The Block",
-    "category": "crypto",
-    "content": "Morgan Stanley is actively building the necessary infrastructure for tokenized equities while monitoring industry developments.",
-    "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/10/amy_oldenburg_morgan_stanley_1920x1080.jpg",
     "summary": "",
     "importance": 5
   },
@@ -1064,7 +1066,7 @@
     "pubDate": "Tue, 13 Oct 2026 23:13:31 +0000",
     "source": "TechCrunch AI",
     "category": "ai",
-    "content": "Max Hodak, the former president and co-founder of Neuralink, detailed on stage at TechCrunch Disrupt how his company's work with PRIMA is part of its path toward a novel brain-computer interface (BCI).",
+    "content": "Max Hodak, the former president and co-founder of Neuralink, detailed onstage at TechCrunch Disrupt how his company's work with PRIMA is part of its path toward a novel brain-computer interface (BCI).",
     "image": "",
     "summary": "",
     "importance": 5
@@ -1284,7 +1286,7 @@
     "pubDate": "2026-10-13T20:45:25.000Z",
     "source": "The Verge AI",
     "category": "ai",
-    "content": "An OpenAI engineer was arrested after the company said it discovered a \"sophisticated recording device\" hidden in one of its offices. The employee, 35-year-old Abdulrahman Alfozan, is charged with using or attempting to use a device to intercept oral communications, according to a report from The San Francisco Standard.\nOpenAI's post about the incident says it used its AI models to \"understand the device and where it had come from, identifying that a specific employee had planted it a few days earlier.\"\nAs reported by The San Francisco Standard, OpenAI found the device plugged into a TV's USB port in an executive conference room. The devic …\nRead the full story at The Verge.",
+    "content": "An OpenAI engineer was arrested after the company said it discovered a \"sophisticated recording device\" hidden in one of its offices. The employee was identified as Abdulrahman Alfozan, a 35-year-old Saudi national. Alfozan is charged with using or endeavoring to use a device to intercept oral communications, according to a press release from the Department of Justice.\nOpenAI's post about the incident says it used its AI models to \"understand the device and where it had come from, identifying that a specific employee had planted it a few days earlier.\"\nAs noted by the DOJ, OpenAI found the device plugged into a TV's USB port in an executiv …\nRead the full story at The Verge.",
     "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/STK155_OPEN_AI_CVirginia__C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
     "summary": "",
     "importance": 5
@@ -1345,7 +1347,7 @@
     "importance": 5
   },
   {
-    "title": "Actress Mia Goth says it’s ‘incomprehensible’ that Instagram allowed an AI image of her to spread",
+    "title": "It’s ‘incomprehensible’ that Instagram allowed an AI image of Mia Goth to spread, say her reps",
     "link": "https://www.theverge.com/ai-artificial-intelligence/1010277/mia-goth-instagram-ai-shirt-deepfake-divorce",
     "pubDate": "2026-10-13T16:42:51.000Z",
     "source": "The Verge AI",
