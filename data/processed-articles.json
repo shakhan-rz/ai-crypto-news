@@ -1,5 +1,17 @@
 [
   {
+    "title": "BNY, Citadel Securities test tokenized U.S. Treasuries to speed up Wall Street financing",
+    "link": "https://www.coindesk.com/business/2026/10/13/bny-citadel-securities-test-tokenized-u-s-treasuries-to-speed-up-wall-street-financing",
+    "pubDate": "Tue, 13 Oct 2026 21:52:00 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "The transaction shows how blockchain-based government bonds could help trading firms move collateral faster between settlement and financing.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/1df79087776a232721826d2559a0e7004de05895-2724x1532.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "summary": "BNY and Citadel Securities have successfully tested tokenized U.S. Treasuries, demonstrating how blockchain technology can accelerate Wall Street financing. This initiative aims to enable trading firms to move collateral more rapidly between settlement and financing using blockchain-based government bonds.",
+    "importance": 9,
+    "classified": true
+  },
+  {
     "title": "Ledger says 'spy' chip inside CryptoBilis Ledger devices transmitted wallet keys over mobile network",
     "link": "https://www.coindesk.com/tech/2026/10/13/ledger-says-spy-chip-inside-cryptobilis-ledger-devices-transmitted-wallet-keys-over-mobile-network",
     "pubDate": "Tue, 13 Oct 2026 09:27:47 +0000",
@@ -21,6 +33,18 @@
     "image": "https://cdn.sanity.io/images/s3y3vcno/production/e7658d2f8e815fd276766cb37fe078dcc61768ff-1740x979.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
     "summary": "Ledger has claimed that all confirmed cryptocurrency incidents, involving up to $93 million traced and $10 million frozen, are tied to hardware wallets sold by its Southeast Asian reseller, CryptoBilis. Despite Ledger's attempt to localize the issue, critics are pressing the company to take responsibility for problems originating from an authorized sales channel.",
     "importance": 9,
+    "classified": true
+  },
+  {
+    "title": "Strive raising $500 million to buy additional bitcoin with new preferred share class",
+    "link": "https://www.coindesk.com/markets/2026/10/13/strive-to-ipo-second-preferred-share-class-as-it-looks-to-further-build-bitcoin-treasury",
+    "pubDate": "Tue, 13 Oct 2026 23:23:05 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "SATS will offer a fixed 15% dividend yield at par and be junior to the company's existing SATA, which pays a variable rate (currently 13%).",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/2688a309ccf027625e4bf19277b7e78cfc32859f-2123x1084.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "summary": "Strive is raising $500 million through a new preferred share class, SATS, to purchase additional Bitcoin. The SATS shares will offer a fixed 15% dividend yield and be junior to the company's existing SATA shares, which currently pay a variable rate of 13%.",
+    "importance": 8,
     "classified": true
   },
   {
@@ -56,6 +80,18 @@
     "content": "The $911 billion Pittsburgh-based asset manager is teaming up with Prometheum to bring blockchain-based share classes of its funds to traditional brokerage accounts.",
     "image": "https://cdn.sanity.io/images/s3y3vcno/production/52c61d395f918e46984cfa9913df36980e210020-6054x4034.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
     "summary": "Federated Hermes, a $911 billion asset manager, is collaborating with Prometheum to introduce blockchain-based share classes of its funds into traditional brokerage accounts. This move marks the company's entry into Wall Street's growing tokenization trend, aiming to integrate digital asset technology with conventional finance.",
+    "importance": 8,
+    "classified": true
+  },
+  {
+    "title": "Russia’s largest bank Sberbank secures approval to trade crypto",
+    "link": "https://www.coindesk.com/business/2026/10/13/russia-s-largest-bank-sberbank-secures-approval-to-trade-crypto",
+    "pubDate": "Tue, 13 Oct 2026 11:02:47 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "Sberbank plans to open crypto trading to all clients Dec. 1 and is already testing BTC, ETH and USDT trades in its app.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/4431859b83445fdd3e02e984cae83412cc8949df-3264x2040.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "summary": "Russia's largest bank, Sberbank, has secured approval to offer cryptocurrency trading to its clients. The bank plans to launch this service to all clients on December 1st, following successful internal testing of BTC, ETH, and USDT trades within its application.",
     "importance": 8,
     "classified": true
   },
@@ -144,6 +180,18 @@
     "classified": true
   },
   {
+    "title": "Global financial watchdog calls for cross-border information sharing, planning for stablecoin crisis",
+    "link": "https://www.coindesk.com/policy/2026/10/12/global-financial-watchdog-calls-for-cross-border-information-sharing-planning-for-stablecoin-crisis",
+    "pubDate": "Mon, 12 Oct 2026 11:02:38 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "Coins jointly issued by multiple companies can trap reserves in one jurisdiction while redemption demands hit another, complicating cross-border crisis response.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/1a69f4a4dc7580b072baf69f08a84b53c0b7799e-1920x1281.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "summary": "A global financial watchdog is calling for improved cross-border information sharing and crisis planning specifically for stablecoins. The concern arises from stablecoins issued by multiple companies, which could lead to reserves being trapped in one jurisdiction while redemption demands occur in another, complicating international crisis response.",
+    "importance": 8,
+    "classified": true
+  },
+  {
     "title": "UK crypto trader says almost $800,000 lost in knife assault as wrench attacks proliferate",
     "link": "https://www.coindesk.com/policy/2026/10/13/why-self-custody-and-hardware-wallets-cannot-prevent-physical-crypto-extortion",
     "pubDate": "Tue, 13 Oct 2026 15:24:52 +0000",
@@ -156,6 +204,30 @@
     "classified": true
   },
   {
+    "title": "Live updates: Bitcoin trading in tight range near $83,000 ahead of key U.S. inflation data",
+    "link": "https://www.coindesk.com/markets/2026/10/13/live-updates-bitcoin-whipsaws-between-usd81-000-and-usd84-000-as-altcoins-slide",
+    "pubDate": "Tue, 13 Oct 2026 10:46:57 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "The September CPI report comes out on Wednesday, with economists expecting a sizable increase in the headline number but a softening in the core rate.",
+    "image": "",
+    "summary": "Bitcoin is currently trading in a tight range near $83,000 as the market anticipates the release of the September U.S. CPI report on Wednesday. Economists are expecting the inflation data to show a notable increase in the headline number but a moderation in the core rate.",
+    "importance": 7,
+    "classified": true
+  },
+  {
+    "title": "Bitcoin diverges from South Korean stocks as AI concerns deepen the Kospi selloff",
+    "link": "https://www.coindesk.com/markets/2026/10/13/bitcoin-diverges-from-south-korean-stocks-as-ai-concerns-deepen-the-kospi-selloff",
+    "pubDate": "Tue, 13 Oct 2026 10:38:51 +0000",
+    "source": "CoinDesk",
+    "category": "both",
+    "content": "South Korea’s chipmakers lead another sharp selloff as concerns over AI spending and Chinese competition grow, while bitcoin holds well above its summer lows.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/0065b7f88240634a0b5933a711cf9ec33a666670-1542x969.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "summary": "South Korean chipmakers are experiencing a sharp selloff driven by growing concerns over AI spending and increased competition from China. In contrast, Bitcoin has remained resilient, holding well above its summer lows despite the broader market turbulence.",
+    "importance": 7,
+    "classified": true
+  },
+  {
     "title": "Bitcoin whale that sat through the March 2020 crash moves $378 million",
     "link": "https://www.coindesk.com/markets/2026/10/13/bitcoin-whale-that-sat-through-the-march-2020-crash-moves-usd378-million",
     "pubDate": "Tue, 13 Oct 2026 05:45:10 +0000",
@@ -164,18 +236,6 @@
     "content": "A bitcoin whale that received coins days before the Covid crash and sat through it has moved millions on-chain.",
     "image": "https://cdn.sanity.io/images/s3y3vcno/production/d9c17b7c061b6a82996756c392a64b62872157fb-1280x853.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
     "summary": "A Bitcoin whale that acquired coins just days before the March 2020 Covid crash and held them since has recently moved $378 million on-chain. This significant transaction from a long-term holder is often watched closely by the crypto community for potential market implications.",
-    "importance": 7,
-    "classified": true
-  },
-  {
-    "title": "Kraken parent clears Dubai’s final hurdle for dirham trading rollout",
-    "link": "https://cointelegraph.com/news/kraken-receives-vara-approval-uae-expansion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Mon, 12 Oct 2026 09:41:17 +0000",
-    "source": "Cointelegraph",
-    "category": "crypto",
-    "content": "Payward received full market approval from Dubai’s VARA to expand its digital asset services in the UAE, building on the preliminary approval received in May.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4QPPQ7MEQR102YQ3DC7RK03/hi-overview-of-crypto-in-the-uae-kraken.jpg",
-    "summary": "Kraken's parent company, Payward, has received full market approval from Dubai's VARA, clearing the final hurdle for its operations in the UAE. This allows the company to expand its digital asset services, including dirham trading, in the region.",
     "importance": 7,
     "classified": true
   },
@@ -218,7 +278,7 @@
   {
     "title": "Here’s what happened in crypto today",
     "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Tue, 13 Oct 2026 13:26:42 +0000",
+    "pubDate": "Tue, 13 Oct 2026 19:33:57 +0000",
     "source": "Cointelegraph",
     "category": "crypto",
     "content": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
@@ -226,39 +286,6 @@
     "summary": "This article provides a summary of the latest news and trends in the crypto space, covering Bitcoin price, blockchain, DeFi, Web3, and crypto regulation. It aims to keep readers updated on daily events impacting the cryptocurrency market. The article appears to be a general overview of the current state of the crypto industry.",
     "importance": 6,
     "classified": true
-  },
-  {
-    "title": "Russia’s largest bank Sberbank secures approval to trade crypto",
-    "link": "https://www.coindesk.com/business/2026/10/13/russia-s-largest-bank-sberbank-secures-approval-to-trade-crypto",
-    "pubDate": "Tue, 13 Oct 2026 11:02:47 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "Sberbank plans to open crypto trading to all clients Dec. 1 and is already testing BTC, ETH and USDT trades in its app.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/4431859b83445fdd3e02e984cae83412cc8949df-3264x2040.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "Live updates: Bitcoin trading in tight range near $83,000 ahead of key U.S. inflation data",
-    "link": "https://www.coindesk.com/markets/2026/10/13/live-updates-bitcoin-whipsaws-between-usd81-000-and-usd84-000-as-altcoins-slide",
-    "pubDate": "Tue, 13 Oct 2026 10:46:57 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "The September CPI report comes out on Wednesday, with economists expecting a sizable increase in the headline number but a softening in the core rate.",
-    "image": "",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "Bitcoin diverges from South Korean stocks as AI concerns deepen the Kospi selloff",
-    "link": "https://www.coindesk.com/markets/2026/10/13/bitcoin-diverges-from-south-korean-stocks-as-ai-concerns-deepen-the-kospi-selloff",
-    "pubDate": "Tue, 13 Oct 2026 10:38:51 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "South Korea’s chipmakers lead another sharp selloff as concerns over AI spending and Chinese competition grow, while bitcoin holds well above its summer lows.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/0065b7f88240634a0b5933a711cf9ec33a666670-1542x969.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-    "summary": "",
-    "importance": 5
   },
   {
     "title": "Bitcoin falls below $83,000 as dollar strength keeps markets on edge",
@@ -273,17 +300,6 @@
     "classified": true
   },
   {
-    "title": "Global financial watchdog calls for cross-border information sharing, planning for stablecoin crisis",
-    "link": "https://www.coindesk.com/policy/2026/10/12/global-financial-watchdog-calls-for-cross-border-information-sharing-planning-for-stablecoin-crisis",
-    "pubDate": "Mon, 12 Oct 2026 11:02:38 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "Coins jointly issued by multiple companies can trap reserves in one jurisdiction while redemption demands hit another, complicating cross-border crisis response.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/1a69f4a4dc7580b072baf69f08a84b53c0b7799e-1920x1281.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-    "summary": "",
-    "importance": 5
-  },
-  {
     "title": "South Korea just got its first traditional bank loans backed by bitcoin",
     "link": "https://www.coindesk.com/business/2026/10/12/south-korea-just-got-its-first-traditional-bank-loans-backed-by-bitcoin",
     "pubDate": "Mon, 12 Oct 2026 10:57:37 +0000",
@@ -295,24 +311,35 @@
     "importance": 5
   },
   {
-    "title": "SWI raises $894 million to repurpose former FTX bitcoin miner Genesis Digital to AI",
-    "link": "https://www.coindesk.com/business/2026/10/12/swi-raises-usd894-million-to-repurpose-former-ftx-bitcoin-miner-genesis-digital-to-ai",
-    "pubDate": "Mon, 12 Oct 2026 10:27:00 +0000",
-    "source": "CoinDesk",
+    "title": "Ledger asks resellers to halt sales in Southeast Asia and Hong Kong",
+    "link": "https://cointelegraph.com/news/ledger-asks-resellers-to-halt-sales-in-southeast-asia-and-hong-kong?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Tue, 13 Oct 2026 23:28:19 +0000",
+    "source": "Cointelegraph",
     "category": "crypto",
-    "content": "SWI Group said it would use the proceeds from an 800 million-euro ($894 million) fundraise to transform Genesis Digital Assets, acquired from the FTX bankruptcy, from a bitcoin miner to an AI-focused data center.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/ca35baafe5c46bb4b2cfe659ffd824568e1c8cbf-3072x1534.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "content": "The wallet maker requested that devices be removed from shelves while investigators work to establish where tampering occurred.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4VRR79KQN4B5CCVR567DB5T/ledger.jpg",
     "summary": "",
     "importance": 5
   },
   {
-    "title": "Altcoins rally on thin trading as bitcoin holds below $83,500",
-    "link": "https://www.coindesk.com/markets/2026/10/12/altcoins-rally-on-thin-trading-as-bitcoin-holds-near-usd84-000",
-    "pubDate": "Mon, 12 Oct 2026 10:20:54 +0000",
-    "source": "CoinDesk",
+    "title": "Most tokenized stock trading on Solana, BNB Chain occurs outside US market hours",
+    "link": "https://cointelegraph.com/news/tokenized-stocks-after-hours-trading-solana-bnb-chain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Tue, 13 Oct 2026 19:48:06 +0000",
+    "source": "Cointelegraph",
     "category": "crypto",
-    "content": "The CoinDesk 80 has risen around 3% in 24 hours, more than double the CoinDesk 5, while spot bitcoin ETFs lost $681 million last week.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/2699cbe5b8795330150ce0d82cd49bf4bafc05a2-1920x1080.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "content": "Tokenized equities have reached nearly $3.3 billion in value as investors embrace round-the-clock access beyond Wall Street hours.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4VA9NB54GWFZ29JZYNA4293/hi-how-ripple-plans-to-bridge-crypto-and-wall-street.jpg",
+    "summary": "",
+    "importance": 5
+  },
+  {
+    "title": "Trezor reduces resellers as a ‘preventative step’ amid Ledger tampering reports",
+    "link": "https://cointelegraph.com/news/trezor-preventative-steps-wallet-tampering-reports?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Tue, 13 Oct 2026 19:07:04 +0000",
+    "source": "Cointelegraph",
+    "category": "crypto",
+    "content": "CCO Danny Sanders said he had notified certain hardware wallet resellers that they would be removed from Trezor’s list of authorized entities starting Jan. 1.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4V7NT6A2R3BAJ7Y8P67T68T/hi-wallets.jpg",
     "summary": "",
     "importance": 5
   },
@@ -603,28 +630,6 @@
     "importance": 5
   },
   {
-    "title": "Australia proposes leverage caps for crypto-settled derivatives",
-    "link": "https://cointelegraph.com/news/australia-asic-crypto-settled-cfd-protections?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Mon, 12 Oct 2026 11:41:58 +0000",
-    "source": "Cointelegraph",
-    "category": "crypto",
-    "content": "ASIC’s proposal would extend leverage limits and protections against negative balances to certain derivatives settled in digital assets.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4QWSHXW7QGDJW1DDTNHBJ0X/cfds.png",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "BTC price support holds ahead of US CPI data: Three things Bitcoin traders need to know this week",
-    "link": "https://cointelegraph.com/markets/btc-price-support-holds-ahead-of-us-cpi-data-three-things-to-know-in-bitcoin-this-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Mon, 12 Oct 2026 11:14:10 +0000",
-    "source": "Cointelegraph",
-    "category": "crypto",
-    "content": "Bitcoin traders braced for inflation-based volatility after BTC price action preserved key weekly support around $82,500.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4QV9QB149QM3MET8AFPRTTX/us-inflation-3-1280x854.webp",
-    "summary": "",
-    "importance": 5
-  },
-  {
     "title": "Ripple, Stripe-owned Privy partner to bring embedded wallets to XRP Ledger",
     "link": "https://www.theblock.co/news/business/2026-10-13-stripe-privy-ripple-xrp-ledger-wallets-418463",
     "pubDate": "Tue, 13 Oct 2026 16:00:00 +0000",
@@ -834,6 +839,116 @@
     "importance": 5
   },
   {
+    "title": "Kraken Parent Payward Wins Full Dubai License, Plans UAE Launch",
+    "link": "https://bitcoinmagazine.com/news/kraken-parent-payward-wins-full-dubai-license-plans-uae-launch",
+    "pubDate": "Tue, 13 Oct 2026 22:52:10 +0000",
+    "source": "Bitcoin Magazine",
+    "category": "crypto",
+    "content": "Bitcoin Magazine\n\nKraken Parent Payward Wins Full Dubai License, Plans UAE Launch\nKraken currently has more than 100 licenses and registrations worldwide. \nThis post Kraken Parent Payward Wins Full Dubai License, Plans UAE Launch first appeared on Bitcoin Magazine and is written by Mathew Di Salvo.",
+    "image": "https://bitcoinmagazine.com/wp-content/uploads/2025/06/Kraken-Launches-Krak-a-No-Fee-App-to-Use-and-Store-Bitcoin-and-Crypto.jpg",
+    "summary": "",
+    "importance": 5
+  },
+  {
+    "title": "Researchers Build First Working Post-Quantum Defense for Bitcoin’s Lightning Network",
+    "link": "https://bitcoinmagazine.com/news/quantum-defense-for-bitcoins-lightning",
+    "pubDate": "Tue, 13 Oct 2026 22:49:07 +0000",
+    "source": "Bitcoin Magazine",
+    "category": "crypto",
+    "content": "Bitcoin Magazine\n\nResearchers Build First Working Post-Quantum Defense for Bitcoin’s Lightning Network\nSecond-layer solutions like Lightning may also need protection from quantum computers. Here’s how a research team appears to have cracked it. \nThis post Researchers Build First Working Post-Quantum Defense for Bitcoin’s Lightning Network first appeared on Bitcoin Magazine and is written by Mathew Di Salvo.",
+    "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/10/Pics-10.jpg",
+    "summary": "",
+    "importance": 5
+  },
+  {
+    "title": "The Amount of Bitcoin on Exchanges Is Shrinking. Is a Rally Imminent?",
+    "link": "https://bitcoinmagazine.com/news/amount-of-bitcoin-exchanges-is-shrinking",
+    "pubDate": "Tue, 13 Oct 2026 17:05:39 +0000",
+    "source": "Bitcoin Magazine",
+    "category": "crypto",
+    "content": "Bitcoin Magazine\n\nThe Amount of Bitcoin on Exchanges Is Shrinking. Is a Rally Imminent?\nA CryptoQuant researcher has said that bitcoin’s supply dynamics could soon help its price.  \nThis post The Amount of Bitcoin on Exchanges Is Shrinking. Is a Rally Imminent? first appeared on Bitcoin Magazine and is written by Mathew Di Salvo.",
+    "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/10/Pics-9.jpg",
+    "summary": "",
+    "importance": 5
+  },
+  {
+    "title": "Trezor Reduces Number of Resellers Following Ledger Drainage Incident ",
+    "link": "https://bitcoinmagazine.com/news/trezor-reduces-resellers-after-ledger-mess",
+    "pubDate": "Tue, 13 Oct 2026 16:01:03 +0000",
+    "source": "Bitcoin Magazine",
+    "category": "crypto",
+    "content": "Bitcoin Magazine\n\nTrezor Reduces Number of Resellers Following Ledger Drainage Incident \nHardware manufacturer Trezor has said it is checking which vendors it works with following reports of lost funds from Ledger models. \nThis post Trezor Reduces Number of Resellers Following Ledger Drainage Incident  first appeared on Bitcoin Magazine and is written by Mathew Di Salvo.",
+    "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/10/Generic-Trezor-photo.jpg",
+    "summary": "",
+    "importance": 5
+  },
+  {
+    "title": "Strive Buys More Bitcoin, Crosses 30,000 BTC Mark ",
+    "link": "https://bitcoinmagazine.com/news/strive-buys-more-bitcoin-to-hit-30000-btc",
+    "pubDate": "Tue, 13 Oct 2026 15:48:14 +0000",
+    "source": "Bitcoin Magazine",
+    "category": "crypto",
+    "content": "Bitcoin Magazine\n\nStrive Buys More Bitcoin, Crosses 30,000 BTC Mark \nThe bitcoin treasury company is still the fifth biggest in the space. \nThis post Strive Buys More Bitcoin, Crosses 30,000 BTC Mark  first appeared on Bitcoin Magazine and is written by Mathew Di Salvo.",
+    "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/06/Strive-ASST-Holds-19864-BTC-With-No-New-Purchases-Last-Week-Balance-Sheet-Hits-141.7M-Cash-.jpg",
+    "summary": "",
+    "importance": 5
+  },
+  {
+    "title": "Alex Gladstein: How The Bitcoin-AI Convergence Impacts the Fight for Freedom",
+    "link": "https://bitcoinmagazine.com/videos/alex-gladstein-how-the-bitcoin-ai-convergence-impacts-the-fight-for-freedom",
+    "pubDate": "Tue, 13 Oct 2026 13:24:43 +0000",
+    "source": "Bitcoin Magazine",
+    "category": "crypto",
+    "content": "Bitcoin Magazine\n\nAlex Gladstein: How The Bitcoin-AI Convergence Impacts the Fight for Freedom\nAI risk isn't human extinction, says HRF’s Alex Gladstein—it’s centralized control. He explains why local, open-source AI is vital for protecting freedom.\nThis post Alex Gladstein: How The Bitcoin-AI Convergence Impacts the Fight for Freedom first appeared on Bitcoin Magazine and is written by Patrick Green.",
+    "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/10/Alex-Gladstein-How-The-Bitcoin-AI-Convergence-Impacts-the-Fight-for-Freedom-.jpg",
+    "summary": "",
+    "importance": 5
+  },
+  {
+    "title": "Matt Dines: Why a Rising Dollar is Bullish for Bitcoin",
+    "link": "https://bitcoinmagazine.com/videos/matt-dines-why-a-rising-dollar-is-bullish-for-bitcoin",
+    "pubDate": "Tue, 13 Oct 2026 13:17:03 +0000",
+    "source": "Bitcoin Magazine",
+    "category": "crypto",
+    "content": "Bitcoin Magazine\n\nMatt Dines: Why a Rising Dollar is Bullish for Bitcoin\nThe dollar and Bitcoin are both rising—a bullish sign, says Build Asset Management's Matt Dines. He breaks down the shift to a new US-led monetary order.\nThis post Matt Dines: Why a Rising Dollar is Bullish for Bitcoin first appeared on Bitcoin Magazine and is written by Patrick Green.",
+    "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/10/Matt-Dines-Why-a-Rising-Dollar-is-Bullish-for-Bitcoin-.jpg",
+    "summary": "",
+    "importance": 5
+  },
+  {
+    "title": "Now Accepting Bitcoin: Moonflower Coffee and 300+ Colorado Bitcoin Merchants",
+    "link": "https://bitcoinmagazine.com/culture/moonflower-colorado-bitcoin-merchants",
+    "pubDate": "Tue, 13 Oct 2026 11:00:00 +0000",
+    "source": "Bitcoin Magazine",
+    "category": "crypto",
+    "content": "Bitcoin Magazine\n\nNow Accepting Bitcoin: Moonflower Coffee and 300+ Colorado Bitcoin Merchants\nDelicious Bitcoin Latte at Moonflower, Steak and Eggs at Butcher Block Cafe, and Navigating 300+ Colorado Bitcoin Merchants.\nThis post Now Accepting Bitcoin: Moonflower Coffee and 300+ Colorado Bitcoin Merchants first appeared on Bitcoin Magazine and is written by Vagabond.",
+    "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/10/IMG_2059-scaled.jpg",
+    "summary": "",
+    "importance": 5
+  },
+  {
+    "title": "Moscow Exchange to Launch Bitcoin Trading, Testing Underway",
+    "link": "https://bitcoinmagazine.com/news/moscow-exchange-to-debut-bitcoin-trading",
+    "pubDate": "Mon, 12 Oct 2026 22:10:39 +0000",
+    "source": "Bitcoin Magazine",
+    "category": "crypto",
+    "content": "Bitcoin Magazine\n\nMoscow Exchange to Launch Bitcoin Trading, Testing Underway\nRussia in recent months has paved the way to allow its citizens to trade bitcoin. \nThis post Moscow Exchange to Launch Bitcoin Trading, Testing Underway first appeared on Bitcoin Magazine and is written by Mathew Di Salvo.",
+    "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/09/Pics-28.jpg",
+    "summary": "",
+    "importance": 5
+  },
+  {
+    "title": "South Korean Lender Jeonbuk Bank to Offer Bitcoin-Backed Loans",
+    "link": "https://bitcoinmagazine.com/news/south-korea-bank-offers-bitcoin-loans",
+    "pubDate": "Mon, 12 Oct 2026 22:06:36 +0000",
+    "source": "Bitcoin Magazine",
+    "category": "crypto",
+    "content": "Bitcoin Magazine\n\nSouth Korean Lender Jeonbuk Bank to Offer Bitcoin-Backed Loans\nThe South Korean bank has become the first in the country to offer the bitcoin-related service. \nThis post South Korean Lender Jeonbuk Bank to Offer Bitcoin-Backed Loans first appeared on Bitcoin Magazine and is written by Mathew Di Salvo.",
+    "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/09/Bitcoin-Kimchi-Premium-Is-Back-as-Price-Spikes-Higher-in-South-Korea.jpg",
+    "summary": "",
+    "importance": 5
+  },
+  {
     "title": "The Download: open model trade-offs and geothermal power’s promise",
     "link": "https://www.technologyreview.com/2026/10/13/1146382/the-download-open-models-trade-offs-geothermal-power/",
     "pubDate": "Tue, 13 Oct 2026 12:00:00 +0000",
@@ -939,6 +1054,61 @@
     "source": "MIT Technology Review",
     "category": "ai",
     "content": "This week my colleague Antonio Regalado had an interesting update on GLP-1 weight-loss drugs. According to research presented at an aging meeting in Boston, these drugs seem to affect at least some measures of biological age. Overweight and diabetic people who take GLP-1s have a biological age around two to three years younger than similar…",
+    "image": "",
+    "summary": "",
+    "importance": 5
+  },
+  {
+    "title": "Science Corporation implants its vision-restoring chip in its first Stargardt disease patient",
+    "link": "https://techcrunch.com/2026/10/13/science-corporation-implants-its-vision-restoring-chip-in-its-first-stargardt-disease-patient/",
+    "pubDate": "Tue, 13 Oct 2026 23:13:31 +0000",
+    "source": "TechCrunch AI",
+    "category": "ai",
+    "content": "Max Hodak, the former president and co-founder of Neuralink, detailed on stage at TechCrunch Disrupt how his company's work with PRIMA is part of its path toward a novel brain-computer interface (BCI).",
+    "image": "",
+    "summary": "",
+    "importance": 5
+  },
+  {
+    "title": "Cerebras CEO says we’re nearing a future where everyone has a personal AI assistant at home",
+    "link": "https://techcrunch.com/2026/10/13/cerebras-ceo-says-were-nearing-a-future-where-everyone-has-a-personal-ai-assistant-at-home/",
+    "pubDate": "Tue, 13 Oct 2026 23:05:34 +0000",
+    "source": "TechCrunch AI",
+    "category": "ai",
+    "content": "Cerebras CEO Andrew Feldman predicts a future where personal AI assistants become as commonplace as household appliances, running partly on local devices and partly in the cloud.",
+    "image": "",
+    "summary": "",
+    "importance": 5
+  },
+  {
+    "title": "Industrial Next wants factory robots to switch tasks in minutes, not weeks",
+    "link": "https://techcrunch.com/2026/10/13/industrial-next-wants-factory-robots-to-switch-tasks-in-minutes-not-weeks/",
+    "pubDate": "Tue, 13 Oct 2026 23:00:00 +0000",
+    "source": "TechCrunch AI",
+    "category": "ai",
+    "content": "Industrial Next helps manufacturers automate complex, delicate tasks that have traditionally required human labor.",
+    "image": "",
+    "summary": "",
+    "importance": 5
+  },
+  {
+    "title": "Cerebras CEO pushes back on AI doomsday warnings",
+    "link": "https://techcrunch.com/2026/10/13/cerebras-ceo-pushes-back-on-ai-doomsday-warnings/",
+    "pubDate": "Tue, 13 Oct 2026 22:36:59 +0000",
+    "source": "TechCrunch AI",
+    "category": "ai",
+    "content": "Cerebras CEO Andrew Feldman has a message for AI leaders spreading doomsday warnings: Maybe stop talking? At TechCrunch Disrupt, he argued that the industry's focus on AI's risks is drowning out its potential benefits.",
+    "image": "",
+    "summary": "",
+    "importance": 5
+  },
+  {
+    "title": "Judge orders OpenAI to turn over hiring records in Apple trade secrets case",
+    "link": "https://techcrunch.com/2026/10/13/judge-orders-openai-to-turn-over-hiring-records-in-apple-trade-secrets-case/",
+    "pubDate": "Tue, 13 Oct 2026 20:36:44 +0000",
+    "source": "TechCrunch AI",
+    "category": "ai",
+    "content": "A federal judge ruled that Apple can access OpenAI's interview materials involving former Apple employees, as well as private messages and testimony from key figures in the case.",
     "image": "",
     "summary": "",
     "importance": 5
@@ -1109,57 +1279,35 @@
     "importance": 5
   },
   {
-    "title": "This AI startup says it can generate permit-ready blueprints in minutes",
-    "link": "https://techcrunch.com/2026/10/12/this-ai-startup-says-it-can-generate-permit-ready-blueprints-in-minutes/",
-    "pubDate": "Mon, 12 Oct 2026 15:27:59 +0000",
-    "source": "TechCrunch AI",
+    "title": "OpenAI employee arrested for allegedly planting a bug in a conference room",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1010642/openai-employee-arrested-recording-device",
+    "pubDate": "2026-10-13T20:45:25.000Z",
+    "source": "The Verge AI",
     "category": "ai",
-    "content": "Blueprints AI, a bootstrapped startup based in Santa Monica, developed software that produces code-compliant construction blueprints from a photo, PDF, or sketch.",
-    "image": "",
+    "content": "An OpenAI engineer was arrested after the company said it discovered a \"sophisticated recording device\" hidden in one of its offices. The employee, 35-year-old Abdulrahman Alfozan, is charged with using or attempting to use a device to intercept oral communications, according to a report from The San Francisco Standard.\nOpenAI's post about the incident says it used its AI models to \"understand the device and where it had come from, identifying that a specific employee had planted it a few days earlier.\"\nAs reported by The San Francisco Standard, OpenAI found the device plugged into a TV's USB port in an executive conference room. The devic …\nRead the full story at The Verge.",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/STK155_OPEN_AI_CVirginia__C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
     "summary": "",
     "importance": 5
   },
   {
-    "title": "TechCrunch Disrupt 2026 starts tomorrow: Your final chance to secure up to $100 ticket savings",
-    "link": "https://techcrunch.com/2026/10/12/techcrunch-disrupt-2026-starts-tomorrow-your-final-chance-to-secure-up-to-100-ticket-savings/",
-    "pubDate": "Mon, 12 Oct 2026 14:00:00 +0000",
-    "source": "TechCrunch AI",
+    "title": "Shopify opens its catalog up to more AI agents",
+    "link": "https://www.theverge.com/news/1010365/shopify-opens-its-catalog-up-to-more-ai-agents",
+    "pubDate": "2026-10-13T19:42:42.000Z",
+    "source": "The Verge AI",
     "category": "ai",
-    "content": "Tomorrow at 8 a.m. PT, it all begins z— 10,000+ founders, investors, and tech operators will gather at San Francisco’s Moscone West for TechCrunch Disrupt 2026 for three days of ideas, connections, and startups shaping what comes next. This is your last 24 hours to secure ticket savings of up to $100, and get 50% off a second.",
-    "image": "",
+    "content": "CANADA - 2025/07/20: In this photo illustration, the Shopify logo is seen displayed on a smartphone screen. (Photo Illustration by Thomas Fuller/SOPA Images/LightRocket via Getty Images)\t\n\nMore AI agents will soon be able to browse and purchase from Shopify listings, marking an expansion of the company's agentic commerce ambitions.  \nShopify announced Tuesday it will let shoppers configure their AI agents to purchase products on their behalf, giving more agents access to over a billion listings in Shopify's catalog. (The catalog consists of both items on and off Shopify storefronts.) In September, Shopify announced it was partnering with Meta to allow its Muse agent to browse and purchase items on a human's behalf; now, shoppers can use any agent without a partnership integration.\nTo set up the feature, customers connect an  …\nRead the full story at The Verge.",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2225304503.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
     "summary": "",
     "importance": 5
   },
   {
-    "title": "Former Plaud exec raises $26M for AI app that listens to you in the background",
-    "link": "https://techcrunch.com/2026/10/12/former-plaud-exec-raises-26m-for-ai-app-that-listens-to-you-in-the-background/",
-    "pubDate": "Mon, 12 Oct 2026 12:47:59 +0000",
-    "source": "TechCrunch AI",
+    "title": "Xbox is officially embracing the chaos of AI-powered game ports",
+    "link": "https://www.theverge.com/news/1010406/xbox-labs-game-decompiling-emulation-exploration",
+    "pubDate": "2026-10-13T19:00:48.000Z",
+    "source": "The Verge AI",
     "category": "ai",
-    "content": "One of the core promises of AI is that the more it knows about a person, the better it will be able to assist them with tasks and make appropriate suggestions, which, if you'll believe the tech companies, requires apps and devices to listen, watch, or record users' activity all the time and gather all possible context.",
-    "image": "",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "Will the HomeView be Apple’s first smart home success?",
-    "link": "https://techcrunch.com/2026/10/11/will-the-homeview-be-apples-first-smart-home-success/",
-    "pubDate": "Sun, 11 Oct 2026 21:14:40 +0000",
-    "source": "TechCrunch AI",
-    "category": "ai",
-    "content": "Over the past couple of years, we’ve seen multiple reports that Apple was working on a new smart home product, but now it seems the product has a name and a launch date.",
-    "image": "",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "48 hours to TechCrunch Disrupt 2026 — hear directly from the people building what’s next",
-    "link": "https://techcrunch.com/2026/10/11/48-hours-to-techcrunch-disrupt-2026-hear-directly-from-the-people-building-whats-next/",
-    "pubDate": "Sun, 11 Oct 2026 19:00:00 +0000",
-    "source": "TechCrunch AI",
-    "category": "ai",
-    "content": "Less than 48 hours, TechCrunch Disrupt 2026 starts in San Francisco’s Moscone West. Save up to $100 on your pass before prices increase at the door, plus get 50% on a second pass. Or score other deals.",
-    "image": "",
+    "content": "Retro gaming is going through a wild time at the moment, thanks to decompilations and recompilations that are letting gamers port classic titles to new devices, or merge code from two different games into a single new experience. Microsoft has witnessed skateboarding being modded into Call of Duty and Halo being played in a web browser, and the company is now officially embracing the chaos of this new AI-powered era of game modding.\nMicrosoft is putting together a new Xbox Labs group to explore the rapid emergence of these mods, many of which use AI models to help modders remix games in ways we've rarely seen before. Xbox Labs will be a \"sm …\nRead the full story at The Verge.",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/xboxlabshed.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
     "summary": "",
     "importance": 5
   },
@@ -1237,39 +1385,6 @@
     "category": "ai",
     "content": "When Nvidia originally showed off DLSS 5 earlier this year, the technology immediately got branded as gen AI for video games. To gamers, Nvidia had lost the plot. I personally couldn't get over how faces were transformed using DLSS 5. The 15-year-old student from Hogwarts Legacy suddenly looked much older, and Grace from Resident Evil Requiem looked yassified.\nNow more than six months later, DLSS 5 is about to debut properly in Hogwarts Legacy, and it looks like it has been seriously toned down. Nvidia published new comparison screenshots today, where the changes to faces are as subtle as they are in NBA 2K27. Teenagers no longer look like  …\nRead the full story at The Verge.",
     "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/STK083_NVIDIA_2.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "Apple launches HomeView, its first smart display for the home",
-    "link": "https://www.theverge.com/tech/1009704/apple-homeview-smart-display-first-look",
-    "pubDate": "2026-10-13T13:00:00.000Z",
-    "source": "The Verge AI",
-    "category": "ai",
-    "content": "The HomeView is a smart speaker with a touchscreen display. It’s available in silver, starlight, rose pink, and space gray. | Image: Apple\t\n\nIt's finally here: Apple's long-rumored smart display, the Apple HomeView, has arrived. I got a first look at the device in New York City this week, and it's gorgeous. The HomeView puts a small, vibrant screen atop a speaker base for taking video calls, beautifully displaying photos, and providing information at a glance with Apple's Siri AI voice assistant. The device's square shape makes it feel less imposing than larger smart displays like Google's Nest Hub Max or Amazon's Echo Show 11, and I can see it fitting nicely on my kitchen counter - though it might be a hair too big for my bedside table.\nThe HomeView is the centerpiece of Apple' …\nRead the full story at The Verge.",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Apple-HomeView-lineup.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "Character.AI files for bankruptcy",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1009802/character-ai-files-for-bankruptcy-disney",
-    "pubDate": "2026-10-13T10:32:23.000Z",
-    "source": "The Verge AI",
-    "category": "ai",
-    "content": "Character.AI, one of the first breakout startups of the generative AI boom, has filed for bankruptcy and is selling some of its assets to Disney. The company, which builds various online bots for users to chat or roleplay with, has faced mounting scrutiny and lawsuits over the safety of its chatbots, but has continued releasing updates and products in recent months.\nIn a press release and blog post published Monday, Character said it had filed for Chapter 11 bankruptcy protection in the US to facilitate the sale of the company and its assets. \"Over the past year, we've taken meaningful steps to sustain and improve our business amid signific …\nRead the full story at The Verge.",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STK278_character_ai_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "Meta has some Wonder Full new AI models ",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1009479/meta-muse-wonder-full-ai-model",
-    "pubDate": "2026-10-12T17:00:00.000Z",
-    "source": "The Verge AI",
-    "category": "ai",
-    "content": "Meta is making up for lost time in the AI race. After launching Muse Spark, the first model from its revamped Superintelligence Labs division, and buzzy AI agent Muse, it's now launching two new models it claims can go toe-to-toe with the industry's best. \nThe new models, Muse Wonder and Muse Wonder Full, are available for Muse Code subscribers starting today. Wonder can also be accessed through the Meta Model API, Meta said. \nMeta says it eventually plans to power its Muse AI agent with Wonder, starting with subscribers, and will develop specialized models it \"can bring to everyone using Muse.\" It hasn't shared specifics or provided a tim …\nRead the full story at The Verge.",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STKB394_MUSE_AI_CVIRGINIA_D.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
     "summary": "",
     "importance": 5
   },
