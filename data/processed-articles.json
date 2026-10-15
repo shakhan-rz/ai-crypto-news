@@ -216,6 +216,18 @@
     "classified": true
   },
   {
+    "title": "Proposed 31.4% French tax on regulated stablecoins could drive crypto traders offshore",
+    "link": "https://www.coindesk.com/policy/2026/10/14/proposed-french-tax-on-regulated-stablecoins-could-drive-crypto-traders-offshore",
+    "pubDate": "Wed, 14 Oct 2026 08:48:11 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "Chainalysis' regional sales director in France Francois Volpoet warned the proposed 31.4% tax on regulated stablecoins could push traders toward unmonitored offshore channels.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/2695a675c283399d52d01fdcce43803229edb864-4256x2832.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "summary": "France is proposing a 31.4% tax on regulated stablecoins, a move that Chainalysis warns could push crypto traders toward unmonitored offshore channels. This high tax rate raises concerns about its impact on the French crypto market and the broader regulatory landscape for stablecoins.",
+    "importance": 7,
+    "classified": true
+  },
+  {
     "title": "Largest Philippines crypto exchange, Coins.ph, said to face central bank regulatory action",
     "link": "https://www.coindesk.com/policy/2026/10/13/largest-philippines-crypto-exchange-coins-ph-said-to-face-central-bank-regulatory-action",
     "pubDate": "Wed, 14 Oct 2026 01:00:00 +0000",
@@ -288,13 +300,24 @@
     "classified": true
   },
   {
-    "title": "Proposed 31.4% French tax on regulated stablecoins could drive crypto traders offshore",
-    "link": "https://www.coindesk.com/policy/2026/10/14/proposed-french-tax-on-regulated-stablecoins-could-drive-crypto-traders-offshore",
-    "pubDate": "Wed, 14 Oct 2026 08:48:11 +0000",
-    "source": "CoinDesk",
+    "title": "VanEck seeks to withdraw application for Lido staked Ether ETF",
+    "link": "https://cointelegraph.com/news/vaneck-seeks-to-withdraw-application-for-lido-staked-ether-etf?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Thu, 15 Oct 2026 01:21:52 +0000",
+    "source": "Cointelegraph",
     "category": "crypto",
-    "content": "Chainalysis' regional sales director in France Francois Volpoet warned the proposed 31.4% tax on regulated stablecoins could push traders toward unmonitored offshore channels.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/2695a675c283399d52d01fdcce43803229edb864-4256x2832.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "content": "VanEck initially filed an S-1 registration statement for the exchange-traded fund in October last year.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4YJ7E5P377C783E6HEWNS55/hi-using-proprietary-indicators-vaneck.jpg",
+    "summary": "",
+    "importance": 5
+  },
+  {
+    "title": "Polygon gains US payments licenses after closing Coinme deal",
+    "link": "https://cointelegraph.com/news/polygon-gains-us-payments-licenses-after-closing-coinme-deal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Thu, 15 Oct 2026 00:55:21 +0000",
+    "source": "Cointelegraph",
+    "category": "crypto",
+    "content": "The deal gives Polygon access to 37 money transmitter licenses and 11 state exemptions.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4YGMAKBQ7H9BQG4RR5WN0J2/polygon.jpg",
     "summary": "",
     "importance": 5
   },
@@ -581,28 +604,6 @@
     "category": "crypto",
     "content": "Bitcoin developer Paul Sztorc says Bitcoiners are lying to themselves about Lightning. Developers claim usability has improved, but questions remain over everyday adoption.",
     "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4G9K7C73KY8G43Y46W76Q1Z/magazinebig-questions-can-btc-survive-10-year.png",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "Digital cash offers ‘cash-like privacy,’ but bank data breaches threaten users: BIS",
-    "link": "https://cointelegraph.com/news/bis-digital-cash-privacy-bank-data-breaches?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Tue, 13 Oct 2026 13:17:17 +0000",
-    "source": "Cointelegraph",
-    "category": "crypto",
-    "content": "BIS said that digital cash can achieve “cash-like privacy,” however, the technology isn’t yet production-ready due to risks such as bank data breaches.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4TNNXR2NKTWJ28W4SJ53VKF/hi-goldman-sachs-and-crypto-recap-bank.jpg",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "Russia clears Sberbank for crypto trading ahead of December launch",
-    "link": "https://cointelegraph.com/news/sberbank-russia-crypto-trading-approval?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Tue, 13 Oct 2026 12:22:24 +0000",
-    "source": "Cointelegraph",
-    "category": "crypto",
-    "content": "Russia’s largest bank, Sberbank, has secured crypto exchange authorization as it prepares to offer Bitcoin, Ether and Tether USDt trading.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4TJ29HRXGHBG9K7W07M6RBV/sbernew2.jpg",
     "summary": "",
     "importance": 5
   },
@@ -1036,6 +1037,28 @@
     "importance": 5
   },
   {
+    "title": "Ricursive Intelligence is betting on AI-designed chips to help solve the compute crisis",
+    "link": "https://techcrunch.com/2026/10/14/ricursive-intelligence-is-betting-on-ai-designed-chips-to-help-solve-the-compute-crisis/",
+    "pubDate": "Thu, 15 Oct 2026 01:01:32 +0000",
+    "source": "TechCrunch AI",
+    "category": "ai",
+    "content": "The founders detailed how their startup is developing AI that can design chips, learn from each iteration, and improve subsequent designs, all with the goal of automating and accelerating the chip design process.",
+    "image": "",
+    "summary": "",
+    "importance": 5
+  },
+  {
+    "title": "Gudea leverages AI to help organizations prevent social media crises before they erupt",
+    "link": "https://techcrunch.com/2026/10/14/gudea-leverages-ai-to-help-organizations-prevent-social-media-crises-before-they-erupt/",
+    "pubDate": "Thu, 15 Oct 2026 00:00:00 +0000",
+    "source": "TechCrunch AI",
+    "category": "ai",
+    "content": "Every day, conversations unfold across social media and websites around the world. A seemingly insignificant post—whether it involves AI-generated misinformation, hate speech, or a damaging rumor—can quickly snowball into a much larger public controversy. Gudea, a company that tracks how stories and rumors spread online that describes itself as the “storm tracker for the internet,” […]",
+    "image": "",
+    "summary": "",
+    "importance": 5
+  },
+  {
     "title": "Flock CEO says its microphones detect ‘just gunshots’ — its website says different",
     "link": "https://techcrunch.com/2026/10/14/flock-ceo-says-its-microphones-detect-just-gunshots-its-website-says-different/",
     "pubDate": "Wed, 14 Oct 2026 21:30:33 +0000",
@@ -1234,28 +1257,6 @@
     "importance": 5
   },
   {
-    "title": "Google Play now lets anyone build private, vibe-coded apps that run on Android",
-    "link": "https://techcrunch.com/2026/10/13/google-play-now-supports-private-vibe-coded-apps-built-just-for-you/",
-    "pubDate": "Tue, 13 Oct 2026 17:00:00 +0000",
-    "source": "TechCrunch AI",
-    "category": "ai",
-    "content": "Google is making it easier to build and use personal Android apps created with AI, without having to make them available to everyone on the Play Store.",
-    "image": "",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "SpaceX and Google both said no. Now his software is riding a SpaceX rocket next to Google’s",
-    "link": "https://techcrunch.com/2026/10/13/satlyt-founded-by-a-former-google-and-spacex-product-manager-raises-8m-to-run-ai-on-satellites/",
-    "pubDate": "Tue, 13 Oct 2026 16:30:00 +0000",
-    "source": "TechCrunch AI",
-    "category": "ai",
-    "content": "Satlyt wants to be the Android of orbital computing, offering open software that works on many companies' satellites, versus SpaceX's closed, all-in-one iPhone-style approach.",
-    "image": "",
-    "summary": "",
-    "importance": 5
-  },
-  {
     "title": "McKinsey is making job applicants spar with a fake AI client",
     "link": "https://www.theverge.com/news/1011654/mckinsey-ai-client-interview",
     "pubDate": "2026-10-14T22:53:31.000Z",
@@ -1283,8 +1284,8 @@
     "pubDate": "2026-10-14T19:06:03.000Z",
     "source": "The Verge AI",
     "category": "ai",
-    "content": "Last week, Anthropic and OpenAI looked like they had the AI race to themselves, pulling ahead with increasingly powerful models that left their rivals in the dust. Google seemed hopelessly far behind, while Meta, despite spending billions to revive its floundering AI ambitions, had yet to establish itself as a serious contender. Even the latest models coming out of China, impressive as they were, appeared to be playing catch-up.\nThen, in the space of a few days, everything changed. Google and Meta both unveiled frontier models they claim can go toe to toe with the best from OpenAI and Anthropic. Suddenly, the race is back on - and it's anyo …\nRead the full story at The Verge.",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STK255_Google_Gemini_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "content": "Mark Zuckerberg at the Meta Connect developer conference. | Photo: Andrej Sokolow/dpa/picture alliance via Getty Images\t\n\nLast week, Anthropic and OpenAI looked like they had the AI race to themselves, pulling ahead with increasingly powerful models that left their rivals in the dust. Google seemed hopelessly far behind, while Meta, despite spending billions to revive its floundering AI ambitions, had yet to establish itself as a serious contender. Even the latest models coming out of China, impressive as they were, appeared to be playing catch-up.\nThen, in the space of a few days, everything changed. Google and Meta both unveiled frontier models they claim can go toe to toe with the best from OpenAI and Anthropic. Suddenly, the race is back on - and it's anyo …\nRead the full story at The Verge.",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2296206566.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
     "summary": "",
     "importance": 5
   },
