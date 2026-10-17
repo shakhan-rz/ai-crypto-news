@@ -36,6 +36,18 @@
     "classified": true
   },
   {
+    "title": "Satoshi-era bitcoin faces a bigger quantum threat after Google’s new Willow breakthrough",
+    "link": "https://www.coindesk.com/tech/2026/10/16/satoshi-era-bitcoin-faces-a-bigger-quantum-threat-after-google-s-new-willow-breakthrough",
+    "pubDate": "Sat, 17 Oct 2026 02:30:00 +0000",
+    "source": "CoinDesk",
+    "category": "both",
+    "content": "Google says its Willow chip can prepare the special quantum states needed for advanced calculations with about 40 times fewer errors, reducing one of the hardware bottlenecks behind any future attempt to crack bitcoin wallets.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/9f051c877190174f3a7cbc53e53d11e1620cee92-2560x1707.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "summary": "Google's new Willow quantum chip significantly reduces errors in preparing quantum states, a critical advancement for quantum computing. This breakthrough is highlighted as a potential future threat to the security of Bitcoin wallets, particularly older Satoshi-era coins, by making them more vulnerable to quantum attacks.",
+    "importance": 8,
+    "classified": true
+  },
+  {
     "title": "Circle targets 40 new markets as stablecoin demand grows globally",
     "link": "https://www.coindesk.com/business/2026/10/16/circle-targets-40-new-markets-as-stablecoin-demand-grows-globally",
     "pubDate": "Fri, 16 Oct 2026 10:54:35 +0000",
@@ -60,14 +72,26 @@
     "classified": true
   },
   {
-    "title": "Live updates: Crypto gives up some ground as AI selloff picks up steam",
+    "title": "Live updates: Bitcoin dips to $81,000 as stocks slide, VIX soars ahead of Black Monday anniversary",
     "link": "https://www.coindesk.com/markets/2026/10/16/live-updates-bitcoin-back-above-usd82-000-zec-jumps-11-as-etf-outflows-continue",
     "pubDate": "Fri, 16 Oct 2026 09:48:14 +0000",
     "source": "CoinDesk",
     "category": "both",
-    "content": "Fixed income is again catching a bid on worries about the deflating AI bubble.",
+    "content": "A Friday surge in oil prices hit already-shaky equity markets, sending the Nasdaq down more than 2%.",
     "image": "",
     "summary": "Cryptocurrency markets are seeing declines as a significant selloff is occurring in the AI sector. This AI selloff is driven by growing concerns that a potential \"AI bubble\" is deflating, leading investors to favor fixed income assets.",
+    "importance": 8,
+    "classified": true
+  },
+  {
+    "title": "MSCI approves rules that could eject Strategy, Metaplanet from equity indexes",
+    "link": "https://www.coindesk.com/markets/2026/10/16/msci-approves-rules-that-could-eject-strategy-metaplanet-from-equity-indexes",
+    "pubDate": "Fri, 16 Oct 2026 08:34:48 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "The rules proposed in August would see companies that exist mainly to hold investments as no longer eligible for index inclusion.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/536d7d5e6cfaca6de1f092a21de7b4cf4d742687-1500x750.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "summary": "MSCI has approved new rules that will make companies primarily existing to hold investments ineligible for its equity indexes. This change could lead to the removal of firms like MicroStrategy and Metaplanet, which are known for their substantial Bitcoin holdings, from these indexes.",
     "importance": 8,
     "classified": true
   },
@@ -128,18 +152,6 @@
     "content": "BlackRock's CEO says \"a moratorium of some sort\" on data center buildouts would put the U.S. in a recession.",
     "image": "https://cdn.sanity.io/images/s3y3vcno/production/7ac986e95de8943f9daaadd64fd86aee424071d3-2937x1693.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
     "summary": "BlackRock CEO Larry Fink warned that a moratorium on data center buildouts in the U.S. would trigger a recession. He also raised concerns about the nation's projected $40 trillion national debt.",
-    "importance": 8,
-    "classified": true
-  },
-  {
-    "title": "Nearly $1 billion in crypto bets liquidated as bitcoin, ether and XRP slide",
-    "link": "https://www.coindesk.com/markets/2026/10/15/nearly-usd1-billion-in-crypto-bets-liquidated-as-bitcoin-ether-and-xrp-slide",
-    "pubDate": "Thu, 15 Oct 2026 04:25:15 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "Ether accounted for nearly 60% of the forced closures across the two largest cryptocurrencies, falling roughly twice as much as bitcoin.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/6285ca18b516e7f58992440d81dd86fe7a6f6759-1000x694.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-    "summary": "Almost $1 billion in cryptocurrency bets were liquidated following a slide in Bitcoin, Ether, and XRP prices. Ether alone represented nearly 60% of these forced liquidations, dropping twice as much as Bitcoin.",
     "importance": 8,
     "classified": true
   },
@@ -288,6 +300,18 @@
     "classified": true
   },
   {
+    "title": "Crypto PACs escalate spending against Sherrod Brown in Ohio Senate race",
+    "link": "https://cointelegraph.com/news/crypto-pac-fairshake-spending-ohio-senate-race-sherrod-brown?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Fri, 16 Oct 2026 17:30:09 +0000",
+    "source": "Cointelegraph",
+    "category": "crypto",
+    "content": "At least two industry-aligned PACs have poured more than $52 million into opposing Sherrod Brown’s return to the Senate.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M52HJ9YWKB542GFBKZMAPWM1/dollars-fly-away-us-senate-1.jpg",
+    "summary": "Crypto-aligned Political Action Committees have spent over $52 million in opposition to Senator Sherrod Brown's re-election campaign in Ohio. This substantial expenditure highlights the cryptocurrency industry's growing political engagement and influence in US elections.",
+    "importance": 7,
+    "classified": true
+  },
+  {
     "title": "Judge rejects CFTC, Gemini bid to undo $5M settlement ",
     "link": "https://cointelegraph.com/news/judge-rejects-cftc-gemini-5m-settlement-reversal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "pubDate": "Fri, 16 Oct 2026 07:43:29 +0000",
@@ -326,7 +350,7 @@
   {
     "title": "Here’s what happened in crypto today",
     "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Fri, 16 Oct 2026 13:56:15 +0000",
+    "pubDate": "Fri, 16 Oct 2026 19:17:04 +0000",
     "source": "Cointelegraph",
     "category": "crypto",
     "content": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
@@ -348,17 +372,6 @@
     "classified": true
   },
   {
-    "title": "MSCI approves rules that could eject Strategy, Metaplanet from equity indexes",
-    "link": "https://www.coindesk.com/markets/2026/10/16/msci-approves-rules-that-could-eject-strategy-metaplanet-from-equity-indexes",
-    "pubDate": "Fri, 16 Oct 2026 08:34:48 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "The rules proposed in August would see companies that exist mainly to hold investments as no longer eligible for index inclusion.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/536d7d5e6cfaca6de1f092a21de7b4cf4d742687-1500x750.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-    "summary": "",
-    "importance": 5
-  },
-  {
     "title": "XRP has failed to make holders rich like bitcoin and ether. Here’s why",
     "link": "https://www.coindesk.com/markets/2026/10/16/xrp-has-failed-to-make-holders-rich-like-bitcoin-and-ether-here-s-why",
     "pubDate": "Fri, 16 Oct 2026 05:53:58 +0000",
@@ -369,17 +382,6 @@
     "summary": "The article notes that XRP has underperformed compared to Bitcoin and Ethereum, failing to make its holders rich. Unlike other major tokens that have surged past their 2017-cycle highs, XRP remains below its peak from that period.",
     "importance": 5,
     "classified": true
-  },
-  {
-    "title": "Crypto PACs escalate spending against Sherrod Brown in Ohio Senate race",
-    "link": "https://cointelegraph.com/news/crypto-pac-fairshake-spending-ohio-senate-race-sherrod-brown?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Fri, 16 Oct 2026 17:30:09 +0000",
-    "source": "Cointelegraph",
-    "category": "crypto",
-    "content": "At least two industry-aligned PACs have poured more than $52 million into opposing Sherrod Brown’s return to the Senate.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M52HJ9YWKB542GFBKZMAPWM1/dollars-fly-away-us-senate-1.jpg",
-    "summary": "",
-    "importance": 5
   },
   {
     "title": "Stablecoin remittances cost 84% less than traditional transfers, report finds ",
@@ -602,6 +604,17 @@
     "importance": 5
   },
   {
+    "title": "Strive’s bitcoin buying spree earns 27% price target hike from TD Cowen",
+    "link": "https://www.theblock.co/news/markets/2026-10-16-strives-bitcoin-buying-spree-earns-27-price-target-hike-td-cowen-418839",
+    "pubDate": "Fri, 16 Oct 2026 20:22:57 +0000",
+    "source": "The Block",
+    "category": "crypto",
+    "content": "Strive plans fresh funding for bitcoin purchases as TD Cowen sees warrant-related stock pressure easing.",
+    "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/10/Screenshot-2026-10-13-at-14.28.14.png",
+    "summary": "",
+    "importance": 5
+  },
+  {
     "title": "Coinbase to power stablecoin-backed cards for Marqeta customers",
     "link": "https://www.theblock.co/news/business/2026-10-16-coinbase-to-power-stablecoin-backed-cards-for-marqeta-customers-418833",
     "pubDate": "Fri, 16 Oct 2026 17:21:29 +0000",
@@ -811,13 +824,35 @@
     "importance": 5
   },
   {
-    "title": "Bitcoin drops below $81,000 as risk-off sentiment weighs on Asian equities",
-    "link": "https://www.theblock.co/news/markets/2026-10-15-bitcoin-drops-asian-equities-tumble-418623",
-    "pubDate": "Thu, 15 Oct 2026 04:38:48 +0000",
-    "source": "The Block",
+    "title": "Poetic Justice: Scammer Lost $5M in Bitcoin After Being Targeted by Ledger Thieves",
+    "link": "https://bitcoinmagazine.com/news/scammer-lost-bitcoin-to-ledger-thieves",
+    "pubDate": "Fri, 16 Oct 2026 22:12:36 +0000",
+    "source": "Bitcoin Magazine",
     "category": "crypto",
-    "content": "Asian equities tumbled on Thursday, with South Korea's Kospi losing 8% and Japan's Nikkei 225 declining 5% during morning trading.",
-    "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/10/bitcoin.png",
+    "content": "Bitcoin Magazine\n\nPoetic Justice: Scammer Lost $5M in Bitcoin After Being Targeted by Ledger Thieves\nChainalysis has revealed that a victim of last week’s Ledger theft was a scammer themself. \nThis post Poetic Justice: Scammer Lost $5M in Bitcoin After Being Targeted by Ledger Thieves first appeared on Bitcoin Magazine and is written by Mathew Di Salvo.",
+    "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/10/Pics-16.jpg",
+    "summary": "",
+    "importance": 5
+  },
+  {
+    "title": "BFFS26 Denver: Joseph Kelly on Bitcoin Custody and Credit; Alan Lane on Banking Lessons",
+    "link": "https://bitcoinmagazine.com/press-releases/bffs26-denver-joseph-kelly-on-bitcoin-custody-and-credit-alan-lane-on-banking-lessons",
+    "pubDate": "Fri, 16 Oct 2026 19:44:29 +0000",
+    "source": "Bitcoin Magazine",
+    "category": "crypto",
+    "content": "Bitcoin Magazine\n\nBFFS26 Denver: Joseph Kelly on Bitcoin Custody and Credit; Alan Lane on Banking Lessons\nCPAs, wealth advisors, and lenders gather in Denver for BFFS26, featuring Patrick Lowry on public-company Bitcoin treasury reserves and Wyoming Deputy Secretary of State Colin Crossman on regulatory outlook.\nThis post BFFS26 Denver: Joseph Kelly on Bitcoin Custody and Credit; Alan Lane on Banking Lessons first appeared on Bitcoin Magazine and is written by Juan Galt.",
+    "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/10/tn-1.webp",
+    "summary": "",
+    "importance": 5
+  },
+  {
+    "title": "Sazmining Now Sells Jack Dorsey’s Proto Immersion Hashboards ",
+    "link": "https://bitcoinmagazine.com/news/sazmining-now-sells-proto-hashboards",
+    "pubDate": "Fri, 16 Oct 2026 19:19:40 +0000",
+    "source": "Bitcoin Magazine",
+    "category": "crypto",
+    "content": "Bitcoin Magazine\n\nSazmining Now Sells Jack Dorsey’s Proto Immersion Hashboards \nBlock’s Proto mining hashboards are now available on Sazmining’s mining-as-a-service platform. \nThis post Sazmining Now Sells Jack Dorsey’s Proto Immersion Hashboards  first appeared on Bitcoin Magazine and is written by Mathew Di Salvo.",
+    "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/10/b7d506cc-b358-4bfd-a7fa-f948d9b6fa68.jpg",
     "summary": "",
     "importance": 5
   },
@@ -899,35 +934,13 @@
     "importance": 5
   },
   {
-    "title": "Brooklyn DA Pulls the Plug on Crypto Scam Network",
-    "link": "https://bitcoinmagazine.com/news/brooklyn-da-pulls-plug-on-crypto-scam",
-    "pubDate": "Thu, 15 Oct 2026 23:03:27 +0000",
-    "source": "Bitcoin Magazine",
-    "category": "crypto",
-    "content": "Bitcoin Magazine\n\nBrooklyn DA Pulls the Plug on Crypto Scam Network\n112 servers and 241 fake sites knocked offline in one of the largest cyber takedowns ever by a local prosecutor.\nThis post Brooklyn DA Pulls the Plug on Crypto Scam Network first appeared on Bitcoin Magazine and is written by Mathew Di Salvo.",
-    "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/10/Pics-1-5.jpg",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "Bitcoin’s Volatility Has Fallen Within S&P 500 Ranks, Study Shows",
-    "link": "https://bitcoinmagazine.com/news/bitcoins-volatility-has-fallen-study-shows",
-    "pubDate": "Thu, 15 Oct 2026 20:30:46 +0000",
-    "source": "Bitcoin Magazine",
-    "category": "crypto",
-    "content": "Bitcoin Magazine\n\nBitcoin’s Volatility Has Fallen Within S&P 500 Ranks, Study Shows\nGrayscale research shows that bitcoin’s realized volatility is in the same range as a number of S&P 500 stocks. \nThis post Bitcoin’s Volatility Has Fallen Within S&P 500 Ranks, Study Shows first appeared on Bitcoin Magazine and is written by Mathew Di Salvo.",
-    "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/10/Pics-14.jpg",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "US Hoovers up Bitcoin While the World Runs on Its Digital Dollars: Report",
-    "link": "https://bitcoinmagazine.com/news/us-keeps-buying-bitcoin-chainalysis",
-    "pubDate": "Thu, 15 Oct 2026 18:28:34 +0000",
-    "source": "Bitcoin Magazine",
-    "category": "crypto",
-    "content": "Bitcoin Magazine\n\nUS Hoovers up Bitcoin While the World Runs on Its Digital Dollars: Report\nChainalysis research shows that the U.S. is HODLing hard. \nThis post US Hoovers up Bitcoin While the World Runs on Its Digital Dollars: Report first appeared on Bitcoin Magazine and is written by Mathew Di Salvo.",
-    "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/10/US-Hoovers-up-Bitcoin-While-the-World-Runs-on-Its-Digital-Dollars.jpg",
+    "title": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
+    "link": "https://www.technologyreview.com/2026/10/16/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/",
+    "pubDate": "Fri, 16 Oct 2026 18:00:00 +0000",
+    "source": "MIT Technology Review",
+    "category": "ai",
+    "content": "Listen to the session or watch below Can AI design new life forms? In 2025, Stanford University PhD student Samuel King came up with a preliminary answer when he used a generative AI model to propose genetic blueprints for microscopic viruses. It isn’t yet an example of AI-generated life, but that could be next. Watch…",
+    "image": "",
     "summary": "",
     "importance": 5
   },
@@ -948,7 +961,7 @@
     "pubDate": "Fri, 16 Oct 2026 09:00:00 +0000",
     "source": "MIT Technology Review",
     "category": "ai",
-    "content": "Age-related macular degeneration (AMD) affects more than 5 million people around the world. And until now, no treatment could restore their vision. The PRIMA system, which was approved in Europe in July and is awaiting FDA clearance in the US, changes that. It combines a retinal implant with camera-­equipped eyeglasses to improve sight in patients…",
+    "content": "More than 5 million people around the world with age-related macular degeneration (AMD) experience atrophy in their retinas. And until now, no treatment could restore their vision. The PRIMA system, which was approved in Europe in July and is awaiting FDA clearance in the US, changes that. It combines a retinal implant with camera-­equipped eyeglasses…",
     "image": "https://wp.technologyreview.com/wp-content/uploads/2026/10/ND26-dl_mapped.png?w=840",
     "summary": "",
     "importance": 5
@@ -1031,13 +1044,13 @@
     "importance": 5
   },
   {
-    "title": "The Download: faking blood and the future of batteries",
-    "link": "https://www.technologyreview.com/2026/10/14/1146452/the-download-military-fake-blood-future-batteries/",
-    "pubDate": "Wed, 14 Oct 2026 12:10:00 +0000",
-    "source": "MIT Technology Review",
+    "title": "Replit is no longer working with Anthropic, CEO says",
+    "link": "https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/",
+    "pubDate": "Fri, 16 Oct 2026 21:22:28 +0000",
+    "source": "TechCrunch AI",
     "category": "ai",
-    "content": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The US military’s race to make fake blood In February 2007, a US military helicopter carrying blood to a field hospital was shot down in Iraq, killing all seven crew members.…",
-    "image": "https://wp.technologyreview.com/wp-content/uploads/2026/03/crawl-data2.jpg?fit=2128,1196",
+    "content": "Masad said the decision was made for a number of different reasons, including cost. Replit announced a partnership with OpenAI in August, but there was never any indication that it was no longer with Anthropic.",
+    "image": "",
     "summary": "",
     "importance": 5
   },
@@ -1251,17 +1264,6 @@
     "importance": 5
   },
   {
-    "title": "Ricursive Intelligence is betting on AI-designed chips to help solve the compute crisis",
-    "link": "https://techcrunch.com/2026/10/14/ricursive-intelligence-is-betting-on-ai-designed-chips-to-help-solve-the-compute-crisis/",
-    "pubDate": "Thu, 15 Oct 2026 01:01:32 +0000",
-    "source": "TechCrunch AI",
-    "category": "ai",
-    "content": "The founders detailed how their startup is developing AI that can design chips, learn from each iteration, and improve subsequent designs, all with the goal of automating and accelerating the chip design process.",
-    "image": "",
-    "summary": "",
-    "importance": 5
-  },
-  {
     "title": "A week with RTX Spark: everything we’ve learned using Nvidia’s new laptops",
     "link": "https://www.theverge.com/tech/1012748/nvidia-rtx-spark-windows-arm-laptops-asus-hp-lenovo-impressions",
     "pubDate": "2026-10-16T15:00:00.000Z",
@@ -1368,6 +1370,28 @@
     "category": "ai",
     "content": "Microsoft and Nvidia held a launch party for the first wave of RTX Spark laptops last week in San Francisco, where a new wave of AI PCs took center stage amid a packed crowd and a lively hands-on area. A day after the media event, I was invited to a quieter Nvidia event to hear a lot more about the new RTX Spark computing platform. While Nvidia's new laptops might look like regular Windows machines, the chips inside are Arm-based, instead of the traditional x64 architecture used by AMD and Intel. Combined with a powerful GPU, RTX Spark is designed for the future of AI, and it means a lot of work has gone into getting these laptops ready for  …\nRead the full story at The Verge.",
     "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK109_WINDOWS_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "summary": "",
+    "importance": 5
+  },
+  {
+    "title": "OpenAI models hacked a crypto wallet and breached more websites",
+    "link": "https://arstechnica.com/security/2026/10/openai-models-hacked-a-crypto-wallet-and-breached-more-websites/",
+    "pubDate": "Fri, 16 Oct 2026 20:59:01 +0000",
+    "source": "Ars Technica AI",
+    "category": "ai",
+    "content": "The actions could have resulted in criminal charges had humans been behind the keyboard.",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/ai-agents-1152x648.jpg",
+    "summary": "",
+    "importance": 5
+  },
+  {
+    "title": "“thegentlemanpervert” producing AI CSAM is a NJ prosecutor, say cops",
+    "link": "https://arstechnica.com/tech-policy/2026/10/thegentlemanpervert-producing-ai-csam-is-a-nj-prosecutor-say-cops/",
+    "pubDate": "Fri, 16 Oct 2026 20:20:07 +0000",
+    "source": "Ars Technica AI",
+    "category": "ai",
+    "content": "Discord user flagged AI CSAM, triggering arrest of New Jersey deputy AG.",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2233803629-2-1152x648.jpg",
     "summary": "",
     "importance": 5
   },
@@ -1566,28 +1590,6 @@
     "category": "ai",
     "content": "One damaged data center has supercomputers used for training Yandex’s AI model.",
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/yandex-data-center_sasovo-ryazan-russia.jpg",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "AI coding agents generate more code, but not more software",
-    "link": "https://arstechnica.com/ai/2026/10/ai-coding-agents-generate-more-code-but-not-more-software/",
-    "pubDate": "Fri, 09 Oct 2026 19:43:50 +0000",
-    "source": "Ars Technica AI",
-    "category": "ai",
-    "content": "Study finds coding efficiency gains get \"absorbed\" by human review \"bottleneck.\"",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2264559974-1152x648.jpg",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "AI disqualification yields new Nikon Small World in Motion winner",
-    "link": "https://arstechnica.com/science/2026/10/winning-nikon-small-world-in-motion-video-disqualified-for-ai-use/",
-    "pubDate": "Fri, 09 Oct 2026 18:44:06 +0000",
-    "source": "Ars Technica AI",
-    "category": "ai",
-    "content": "New winner is Nguyen Nam Nhat of Vietnam for video of a roundworm and single-celled Dileptus.",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/nikon1-1152x648.jpg",
     "summary": "",
     "importance": 5
   },
