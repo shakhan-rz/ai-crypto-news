@@ -156,14 +156,26 @@
     "classified": true
   },
   {
-    "title": "Hex founder Richard Heart arrested in Istanbul, Turkish media report",
-    "link": "https://www.coindesk.com/policy/2026/10/15/hex-founder-richard-heart-arrested-in-istanbul-turkish-media-report",
-    "pubDate": "Thu, 15 Oct 2026 09:20:57 +0000",
-    "source": "CoinDesk",
+    "title": "Circle’s Allaire says stablecoin issuer looking to enter 40 developing markets: Report",
+    "link": "https://cointelegraph.com/news/circles-allaire-says-stablecoin-issuer-looking-to-enter-40-developing-markets-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Sat, 17 Oct 2026 10:00:07 +0000",
+    "source": "Cointelegraph",
     "category": "crypto",
-    "content": "Police reportedly seized $4 million in cash and 64 luxury watches during a raid on the crypto founder's Istanbul residence.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/03e37489ed1eae296cbd07f255ddf7baed72214e-2826x1554.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-    "summary": "Richard Heart, the founder of the cryptocurrency Hex, has reportedly been arrested in Istanbul, according to Turkish media. During a raid on his residence, police allegedly seized $4 million in cash and 64 luxury watches.",
+    "content": "Markets in Southeast Asia, Latin America, Africa and the Middle East see increasing demand for stablecoins.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M20BVCME3MRSYGBFGFFS62XW/world-global-rating-circle.jpg",
+    "summary": "Circle, a leading stablecoin issuer, is reportedly planning to expand into 40 developing markets across Southeast Asia, Latin America, Africa, and the Middle East. This strategic expansion is attributed to the growing demand for stablecoins in these regions.",
+    "importance": 8,
+    "classified": true
+  },
+  {
+    "title": "Lagarde says euro-area economy is resilient, digital euro imminent",
+    "link": "https://cointelegraph.com/news/lagarde-says-euro-area-economy-is-resilient-digital-euro-imminent?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Sat, 17 Oct 2026 08:32:11 +0000",
+    "source": "Cointelegraph",
+    "category": "crypto",
+    "content": "“The digital euro will further stimulate innovation and competition in retail payments,” according to the ECB president.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M54ENNHY19CENP5ZV5HX428Z/christine-lagarde-eu.jpg",
+    "summary": "ECB President Christine Lagarde announced the euro-area economy's resilience and the imminent arrival of the digital euro. She highlighted that the digital euro is expected to significantly boost innovation and competition in retail payments.",
     "importance": 8,
     "classified": true
   },
@@ -188,6 +200,18 @@
     "content": "Ledger was contacted about tampered hardware wallets risks months before its latest security crisis, with former Mt. Gox CEO Mark Karpelès questioning its response.",
     "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M524SQBMBJKYH096V7N5FT2A/teal-security-warning.png",
     "summary": "Ledger was reportedly warned about hardware wallet tampering risks months before its latest security crisis, according to former Mt. Gox CEO Mark Karpelès. Karpelès is questioning Ledger's response to these early alerts, implying that more action should have been taken to address the vulnerabilities.",
+    "importance": 8,
+    "classified": true
+  },
+  {
+    "title": "Deutsche Bank prepares German crypto custody launch, eyes Asia: Report ",
+    "link": "https://cointelegraph.com/news/deutsche-bank-crypto-custody-expansion-asia-2027?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Fri, 16 Oct 2026 13:33:40 +0000",
+    "source": "Cointelegraph",
+    "category": "crypto",
+    "content": "Germany’s largest bank reportedly plans to expand its digital asset custody services to Asian financial centers due to the growth of the digital asset economy.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M52C27XC6AZN9X7AWRXZJ2FR/hi-world-bank-initiatives-deutsche-bank.jpg",
+    "summary": "Germany's largest bank, Deutsche Bank, is reportedly preparing to launch crypto custody services in its home country. The bank also plans to expand these digital asset custody services to key financial centers in Asia, driven by the overall growth in the digital asset economy.",
     "importance": 8,
     "classified": true
   },
@@ -225,6 +249,18 @@
     "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M501MR4NFX8WGM2DEYYC2STT/hi-could-those-who-left-mastercard-come-back3.jpg",
     "summary": "Mastercard's new Global Money Platform integrates stablecoin balances directly into traditional banking and card payments. This initiative is a major integration with BVNK and is being adopted by companies like Nuvei and Marqeta.",
     "importance": 8,
+    "classified": true
+  },
+  {
+    "title": "Banks could slow stablecoin growth by paying savers more, BIS paper finds",
+    "link": "https://www.coindesk.com/business/2026/10/14/banks-could-slow-stablecoin-growth-by-paying-savers-more-bis-paper-finds",
+    "pubDate": "Sat, 17 Oct 2026 12:00:00 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "A BIS working paper found a 1 basis point rise in U.S. bank deposit rates predicted slower stablecoin growth, cutting ten-week growth from 15% to 12%.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/1f36f4b6075554c7a225b5bdef6b7d0bb9142a62-1920x1280.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "summary": "A working paper from the Bank for International Settlements (BIS) indicates that rising U.S. bank deposit rates could slow the growth of stablecoins. The study found that a 1 basis point increase in deposit rates correlated with a reduction in stablecoin growth over a ten-week period, specifically cutting it from 15% to 12%.",
+    "importance": 7,
     "classified": true
   },
   {
@@ -348,6 +384,42 @@
     "classified": true
   },
   {
+    "title": "Solana’s Liu says Shanghai event postponed over registration surge",
+    "link": "https://cointelegraph.com/news/solana-shanghai-postponed-exceeding-event-cap?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Fri, 16 Oct 2026 11:22:47 +0000",
+    "source": "Cointelegraph",
+    "category": "crypto",
+    "content": "Solana Foundation President Lily Liu said registrations quadrupled overnight, exceeding the attendance limit registered with local authorities.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M524EEY5HWJQKSP1SCS2S1CT/hi-es-shanghai-fork-is-coming-but-it-doesnt-mean-investors-should-dump-eth.jpg",
+    "summary": "Solana Foundation President Lily Liu announced the postponement of a Solana event in Shanghai. Registrations for the event quadrupled overnight, exceeding the attendance limit registered with local authorities.",
+    "importance": 7,
+    "classified": true
+  },
+  {
+    "title": "CONNECT recap: Liquidity is tokenization’s next challenge, everyday stablecoins",
+    "link": "https://cointelegraph.com/news/connect-recap-tokenizations-next-challenge-is-building-liquidity-gsr-executive-says?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Fri, 16 Oct 2026 10:27:18 +0000",
+    "source": "Cointelegraph",
+    "category": "crypto",
+    "content": "Panelists at Cointelegraph’s Singapore CONNECT event explored opportunities in tokenized markets, the future of everyday stablecoin payments and the evolving landscape for crypto investors.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4RPYETV13NXSCMPJ7ZAB3BQ/hi-tokenizing-real-estate-in-the-united-states-crypto-market.png",
+    "summary": "Panelists at Cointelegraph's Singapore CONNECT event discussed opportunities within tokenized markets and the evolving landscape for crypto investors. They also explored the future potential of everyday stablecoin payments.",
+    "importance": 7,
+    "classified": true
+  },
+  {
+    "title": "Capital B reports $78M H1 loss driven by Bitcoin impairment charge ",
+    "link": "https://cointelegraph.com/news/capital-b-78m-h1-loss-bitcoin-impairment?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Fri, 16 Oct 2026 07:59:46 +0000",
+    "source": "Cointelegraph",
+    "category": "crypto",
+    "content": "Europe’s second-largest Bitcoin treasury raised $30 million and increased its Bitcoin holdings by 11% in the first half of 2026, despite reporting a $75 million Bitcoin impairment loss.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M51V1P8ZQ063ADC4P2T050NT/market-red-graph-falling-danger-stones-bitcoin-4.jpg",
+    "summary": "Capital B, Europe's second-largest Bitcoin treasury, reported a $78 million loss in the first half of 2026, primarily due to a $75 million Bitcoin impairment charge. This financial setback occurred despite the company successfully raising $30 million and increasing its Bitcoin holdings by 11% during the same period.",
+    "importance": 7,
+    "classified": true
+  },
+  {
     "title": "Judge rejects CFTC, Gemini bid to undo $5M settlement ",
     "link": "https://cointelegraph.com/news/judge-rejects-cftc-gemini-5m-settlement-reversal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "pubDate": "Fri, 16 Oct 2026 07:43:29 +0000",
@@ -432,39 +504,6 @@
     "classified": true
   },
   {
-    "title": "Deutsche Bank prepares German crypto custody launch, eyes Asia: Report ",
-    "link": "https://cointelegraph.com/news/deutsche-bank-crypto-custody-expansion-asia-2027?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Fri, 16 Oct 2026 13:33:40 +0000",
-    "source": "Cointelegraph",
-    "category": "crypto",
-    "content": "Germany’s largest bank reportedly plans to expand its digital asset custody services to Asian financial centers due to the growth of the digital asset economy.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M52C27XC6AZN9X7AWRXZJ2FR/hi-world-bank-initiatives-deutsche-bank.jpg",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "Solana’s Liu says Shanghai event postponed over registration surge",
-    "link": "https://cointelegraph.com/news/solana-shanghai-postponed-exceeding-event-cap?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Fri, 16 Oct 2026 11:22:47 +0000",
-    "source": "Cointelegraph",
-    "category": "crypto",
-    "content": "Solana Foundation President Lily Liu said registrations quadrupled overnight, exceeding the attendance limit registered with local authorities.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M524EEY5HWJQKSP1SCS2S1CT/hi-es-shanghai-fork-is-coming-but-it-doesnt-mean-investors-should-dump-eth.jpg",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "CONNECT recap: Liquidity is tokenization’s next challenge, everyday stablecoins",
-    "link": "https://cointelegraph.com/news/connect-recap-tokenizations-next-challenge-is-building-liquidity-gsr-executive-says?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Fri, 16 Oct 2026 10:27:18 +0000",
-    "source": "Cointelegraph",
-    "category": "crypto",
-    "content": "Panelists at Cointelegraph’s Singapore CONNECT event explored opportunities in tokenized markets, the future of everyday stablecoin payments and the evolving landscape for crypto investors.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4RPYETV13NXSCMPJ7ZAB3BQ/hi-tokenizing-real-estate-in-the-united-states-crypto-market.png",
-    "summary": "",
-    "importance": 5
-  },
-  {
     "title": "Bitcoin may seek 20-month trend line reclaim before new record highs: CryptoQuant ",
     "link": "https://cointelegraph.com/markets/bitcoin-seeks-20-month-trend-line-reclaim-before-new-record-highs-cryptoquant?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "pubDate": "Fri, 16 Oct 2026 09:22:13 +0000",
@@ -472,19 +511,9 @@
     "category": "crypto",
     "content": "Bitcoin’s market cycle signals tool showed BTC price action copying history, possibly preparing to reclaim a key moving average before testing new highs.",
     "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M51YZVQT8054R4CPX4D28190/article-covers-237235-did-bitcoin-4-year-cycle-break-is-bull-market-really-over-960x640.webp",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "Capital B reports $78M H1 loss driven by Bitcoin impairment charge ",
-    "link": "https://cointelegraph.com/news/capital-b-78m-h1-loss-bitcoin-impairment?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Fri, 16 Oct 2026 07:59:46 +0000",
-    "source": "Cointelegraph",
-    "category": "crypto",
-    "content": "Europe’s second-largest Bitcoin treasury raised $30 million and increased its Bitcoin holdings by 11% in the first half of 2026, despite reporting a $75 million Bitcoin impairment loss.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M51V1P8ZQ063ADC4P2T050NT/market-red-graph-falling-danger-stones-bitcoin-4.jpg",
-    "summary": "",
-    "importance": 5
+    "summary": "Bitcoin's market cycle signals tool indicates that BTC price action is mirroring historical trends. This suggests that Bitcoin may reclaim a key moving average before potentially reaching new record highs.",
+    "importance": 5,
+    "classified": true
   },
   {
     "title": "MSCI adopts index exclusion rules that could oust Strategy ",
@@ -560,39 +589,6 @@
     "category": "crypto",
     "content": "The HEX token’s price declined by 30% following local media reports of the Istanbul arrest of founder Richard Schueler, nearly two years after Interpol issued a “Red Notice.”",
     "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4ZPZ9PD30JJKDBJDB77AQ9B/richard-heart.jpg",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "Ledger’s answer to wallet tampering costs $849 and ships next year",
-    "link": "https://cointelegraph.com/news/ledger-new-hardware-device-asia-wallet-tampering?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Thu, 15 Oct 2026 12:00:00 +0000",
-    "source": "Cointelegraph",
-    "category": "crypto",
-    "content": "Ledger’s new Atom combines crypto wallet security with everyday apps and is expected to ship in summer 2027 as the company investigates tampered wallets sold in Asia.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4ZK037AB51TV6HMKEHD9H8G/ledger-atom-replacement.png",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "White House crypto council chief Patrick Witt steps down ",
-    "link": "https://cointelegraph.com/news/white-house-crypto-council-director-steps-down?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Thu, 15 Oct 2026 10:41:09 +0000",
-    "source": "Cointelegraph",
-    "category": "crypto",
-    "content": "Witt’s departure leaves a leadership gap at the White House Crypto Council and marks the fourth high-profile exit from the advisory group.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4ZHH4FR1YG7TKJVS5H419PK/political-tokens-into-the-white-house.jpg",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "Starknet opens vote on potential Ethereum L2 exit over quantum risks",
-    "link": "https://cointelegraph.com/news/starknet-vote-ethereum-l2-exit-post-quantum-l1?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Thu, 15 Oct 2026 10:22:00 +0000",
-    "source": "Cointelegraph",
-    "category": "crypto",
-    "content": "Starknet is asking STRK holders whether to explore becoming an independent layer-1 blockchain to reduce its dependence on Ethereum’s quantum-security upgrade timeline.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4ZFWYVQRAM56PW1PG6VCAV4/starknet.jpg",
     "summary": "",
     "importance": 5
   },
@@ -1620,6 +1616,18 @@
     "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M20FPT8H132TZGKAJWQX1YBC/hi-michael-saylors-bitcoin-obsession-how-it-all-started-1.jpg",
     "summary": "Strategy has announced it will conditionally declare daily dividends on STRC. This decision comes as STRC continues to trade below its $100 par value.",
     "importance": 4,
+    "classified": true
+  },
+  {
+    "title": "Bitget to discontinue services for some users in one-off exercise   ",
+    "link": "https://cointelegraph.com/news/bitget-to-discontinue-services-for-some-users-in-one-off-exercise?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Sat, 17 Oct 2026 07:26:57 +0000",
+    "source": "Cointelegraph",
+    "category": "crypto",
+    "content": "Bitget says user funds are safe and exchange will continue to operate during the change.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5499P2SZPHXNNS2X8W74AV7/hi-how-are-governments-implementing-the-bitget-guidelines.jpg",
+    "summary": "Bitget, a cryptocurrency exchange, has announced it will discontinue services for some users as part of a one-off exercise. The exchange reassured the community that user funds are safe and that operations will continue for other users.",
+    "importance": 3,
     "classified": true
   },
   {
