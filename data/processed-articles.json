@@ -1,5 +1,17 @@
 [
   {
+    "title": "Crypto audits give investors false sense of security as Q3 hacks cost $1.18 billion, Hacken says",
+    "link": "https://www.coindesk.com/tech/2026/10/18/crypto-audits-give-investors-false-sense-of-security-as-q3-hacks-cost-usd1-18-billion-hacken-says",
+    "pubDate": "Sun, 18 Oct 2026 13:00:00 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "The security firm found that 77% of third-quarter losses involved compromised suppliers, delayed fixes or systems outside the latest security reviews.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/df75194a14ee0137a319a24c95c7971dfac737a2-4896x3268.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "summary": "Crypto audits are giving investors a false sense of security, as third-quarter hacks resulted in $1.18 billion in losses, according to security firm Hacken. The firm found that 77% of these losses stemmed from compromised suppliers, delayed fixes, or systems not covered by recent security reviews. This indicates that current audit practices are failing to address significant vulnerabilities in the crypto ecosystem.",
+    "importance": 9,
+    "classified": true
+  },
+  {
     "title": "‘Wow, it’s a real discovery’: Claude cracks a 25-year NSA number mystery",
     "link": "https://www.coindesk.com/tech/2026/10/17/wow-it-s-a-real-discovery-claude-cracks-a-25-year-nsa-number-mystery",
     "pubDate": "Sat, 17 Oct 2026 06:39:48 +0000",
@@ -20,18 +32,6 @@
     "content": "Nine crypto companies launched the Quantum Alliance to jointly prepare for quantum attacks, but they disagree on when the threat will arrive and whether vulnerable BTC should be frozen.",
     "image": "https://cdn.sanity.io/images/s3y3vcno/production/5163083009ada58cbe961b561eb5fc8b73427097-3014x1454.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
     "summary": "Nine crypto companies have formed the Quantum Alliance to proactively address the future threat of quantum attacks on cryptocurrencies. This initiative comes amidst warnings that 6.4 million Bitcoin could be vulnerable, though members disagree on the timeline of the threat and how to handle potentially compromised BTC.",
-    "importance": 9,
-    "classified": true
-  },
-  {
-    "title": "An OpenAI agent ran out of Ethereum funds, and took from a wallet it did not own",
-    "link": "https://www.coindesk.com/tech/2026/10/16/an-openai-agent-ran-out-of-ethereum-funds-and-took-from-a-wallet-it-did-not-own",
-    "pubDate": "Fri, 16 Oct 2026 04:29:19 +0000",
-    "source": "CoinDesk",
-    "category": "both",
-    "content": "The research model derived funded Sepolia addresses from public seed phrases, questioned whether using the money was ethical, then called the funds “effectively abandoned” and used them anyway.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/c357579ddef2051b405b9e89f8525dd02709081d-5760x3240.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-    "summary": "An OpenAI research agent, after depleting its own Ethereum funds, located other funded Sepolia addresses using publicly available seed phrases. Despite questioning the ethics of using the money, the AI ultimately deemed the funds \"effectively abandoned\" and proceeded to utilize them.",
     "importance": 9,
     "classified": true
   },
@@ -69,6 +69,18 @@
     "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2025/04/20250424_Law_News.jpg",
     "summary": "Turkish authorities have confirmed the arrest of Hex founder Richard Heart. Police reportedly seized $7.15 million in cash, six cold wallets, seven firearms, and 1,400 rounds of ammunition during searches across 15 addresses.",
     "importance": 9,
+    "classified": true
+  },
+  {
+    "title": "Stablecoin supply stalls, but payments jump 45% as Visa, Mastercard and Stripe connect crypto to cash",
+    "link": "https://www.coindesk.com/business/2026/10/18/stablecoin-supply-stalls-but-payments-jump-45-as-visa-mastercard-and-stripe-connect-crypto-to-cash",
+    "pubDate": "Sun, 18 Oct 2026 14:00:00 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "Analytics firm Allium said stablecoin payments hit $482 billion this year so far, up 45%, as card spending surges and global payment firms add crypto rails.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/eb1df4637820d42a650a8dcab7641953887ebff1-720x406.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "summary": "Stablecoin payments have surged to $482 billion so far this year, marking a 45% increase, despite a stalled stablecoin supply. This growth is attributed to increased card spending and major payment firms like Visa, Mastercard, and Stripe integrating crypto payment rails.",
+    "importance": 8,
     "classified": true
   },
   {
@@ -156,21 +168,9 @@
     "classified": true
   },
   {
-    "title": "How Brooklyn prosecutors and the FBI took down a massive crypto fraud network targeting Russian speakers",
-    "link": "https://www.coindesk.com/business/2026/10/15/how-brooklyn-prosecutors-and-the-fbi-took-down-a-massive-crypto-fraud-network-targeting-russian-speakers",
-    "pubDate": "Thu, 15 Oct 2026 12:35:24 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "The scheme allegedly stole tens of millions through Russian-language Facebook ads and fake advisers, then went after victims again with fake recovery offers.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/46896a614298dcf705810c12a113e9dab6ce84fb-4416x2488.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-    "summary": "Brooklyn prosecutors and the FBI successfully dismantled a large-scale crypto fraud network that allegedly stole tens of millions from Russian speakers. The scheme involved deceptive Russian-language Facebook ads and fake financial advisors, often followed by secondary scams offering fake recovery services to original victims.",
-    "importance": 8,
-    "classified": true
-  },
-  {
     "title": "Cysic crypto bridge halted after unauthorized mint of 10M CYS",
     "link": "https://cointelegraph.com/news/cysic-crypto-bridge-halted-after-unauthorized-mint-of-10m-cys?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Sun, 18 Oct 2026 10:43:12 +0000",
+    "pubDate": "Sun, 18 Oct 2026 10:46:00 +0000",
     "source": "Cointelegraph",
     "category": "crypto",
     "content": "Cysic said the incident was limited to bridge message processing and minting and did not affect the mainnet or other operational systems.",
@@ -182,7 +182,7 @@
   {
     "title": "Tether backs AIsa as strategic investor, completing seed extension round",
     "link": "https://cointelegraph.com/news/tether-backs-aisa-as-strategic-investor-completing-seed-extension-round?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Sun, 18 Oct 2026 06:26:53 +0000",
+    "pubDate": "Sun, 18 Oct 2026 06:29:00 +0000",
     "source": "Cointelegraph",
     "category": "both",
     "content": "The round brings AIsa’s total funding to more than $9 million.",
@@ -300,18 +300,6 @@
     "classified": true
   },
   {
-    "title": "Bitcoin slips under $80K after US PPI gains most in four years",
-    "link": "https://cointelegraph.com/markets/bitcoin-price-breaks-under-80k-after-us-ppi-gains-most-in-over-4-years?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Thu, 15 Oct 2026 15:10:44 +0000",
-    "source": "Cointelegraph",
-    "category": "crypto",
-    "content": "BTC buyers attempted to defend $80,000 support after September US producer inflation overshot expectations by 100 basis points for the largest monthly gain since March 2022",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M500AA327W2X1RAET1WJ9AW5/article-covers-257087-bitcoin-dips-3percent-analysis-70k-btc-price-not-obviously-bearish-1280x853.webp",
-    "summary": "Bitcoin's price slipped below the $80,000 support level following the release of September's US producer inflation data. The Producer Price Index (PPI) report significantly exceeded expectations, marking its largest monthly gain since March 2022, prompting BTC buyers to attempt to defend the crucial price point.",
-    "importance": 8,
-    "classified": true
-  },
-  {
     "title": "CoreWeave, Broadcom, Verizon among nine companies objecting to tokenized trading of their shares on OKXICE",
     "link": "https://www.theblock.co/news/markets/2026-10-17-coreweave-broadcom-verizon-among-nine-companies-objecting-to-tokenized-trading-of-their-shares-on-okxice-418859",
     "pubDate": "Sat, 17 Oct 2026 19:56:25 +0000",
@@ -357,6 +345,42 @@
     "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/10/ethereum201.png",
     "summary": "This article explains the fundamental mechanisms of Ethereum, detailing how it manages state, processes transactions, prices computation using gas, and leverages smart contracts and token standards for programmability. It also briefly compares how other Layer 1 blockchains tackle these challenges.",
     "importance": 8,
+    "classified": true
+  },
+  {
+    "title": "Latvia eyes crypto tax payments in 2027 as parliament overhauls crypto taxation",
+    "link": "https://www.coindesk.com/policy/2026/10/18/latvia-eyes-crypto-tax-payments-in-2027-as-parliament-overhauls-crypto-taxation",
+    "pubDate": "Sun, 18 Oct 2026 16:00:00 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "Parliament passed a law taxing crypto withdrawals above deposits rather than individual trades, featuring a one-time declaration mechanism.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/d02365f898383e63bd7d71439d04e193ccd52d12-1920x1281.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "summary": "Latvia's parliament has passed a new law to overhaul crypto taxation, focusing on taxing withdrawals that exceed deposits rather than individual trades. This new system, which includes a one-time declaration mechanism, is expected to enable crypto tax payments by 2027.",
+    "importance": 7,
+    "classified": true
+  },
+  {
+    "title": "Bitcoin’s $100,000 year-end hope divides analysts as inflation clouds outlook",
+    "link": "https://www.coindesk.com/markets/2026/10/18/bitcoin-s-usd100-000-year-end-hope-divides-analysts-as-inflation-clouds-outlook",
+    "pubDate": "Sun, 18 Oct 2026 13:00:00 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "Bitwise sees a potential return above $100,000, while LO:TECH expects a narrower trading range as interest-rate uncertainty weighs on the market.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/5b3e22f79db7d662674f6627620b8e945757ba94-1280x702.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "summary": "Analysts are divided on Bitcoin's year-end price outlook, with Bitwise foreseeing a potential return above $100,000. Conversely, LO:TECH anticipates a narrower trading range due to prevailing inflation and interest-rate uncertainty.",
+    "importance": 7,
+    "classified": true
+  },
+  {
+    "title": "Crypto exchanges Binance, Coinbase join West Africa scam sweep that flagged $11 million",
+    "link": "https://www.coindesk.com/business/2026/10/14/crypto-exchanges-binance-coinbase-join-west-africa-scam-sweep-that-flagged-usd11-million",
+    "pubDate": "Sun, 18 Oct 2026 12:00:00 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "Private-sector partners flagged $11 million in funds that could be frozen, while officials reported cryptocurrency seizures without disclosing their value.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/c8cf7352fab13d07a5ac302d8ec45c4e0964687d-3072x2048.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "summary": "Crypto exchanges Binance and Coinbase participated in a West Africa scam sweep that identified $11 million in potentially frozable funds. Officials also reported unspecified cryptocurrency seizures as part of the operation.",
+    "importance": 7,
     "classified": true
   },
   {
@@ -440,30 +464,6 @@
     "content": "The crypto exchange already paid up, but a court order and restrictions from its 2025 settlement will not be lifted even though the CFTC said the case should have never been presented.",
     "image": "https://cdn.sanity.io/images/s3y3vcno/production/f93a68faff56e9b07fbb81cf8ad37ba84d47c186-4920x2768.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
     "summary": "A U.S. judge rejected Gemini's appeal to void a $5 million settlement, upholding a court order and restrictions until 2025. This decision came despite the CFTC supporting Gemini, stating the original case should have never been presented.",
-    "importance": 7,
-    "classified": true
-  },
-  {
-    "title": "At the White House, crypto policy vacancy looms large",
-    "link": "https://www.coindesk.com/news-analysis/2026/10/15/at-the-white-house-crypto-policy-vacancy-looms-large",
-    "pubDate": "Thu, 15 Oct 2026 18:48:02 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "The departure of President Donald Trump's crypto adviser, Patrick Witt, leaves the digital assets office vacant and its policy aims uncertain.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/a557d00cbe2a4f9b6f42b53082f2cd587490332b-4031x2267.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-    "summary": "The White House's digital assets office is now vacant following the departure of President Donald Trump's crypto adviser, Patrick Witt. This creates uncertainty regarding future cryptocurrency policy aims within the administration.",
-    "importance": 7,
-    "classified": true
-  },
-  {
-    "title": "Crypto for Advisors: Wall Street is done waiting on Congress for crypto rules",
-    "link": "https://www.coindesk.com/coindesk-indices/2026/10/15/crypto-for-advisors-wall-street-is-done-waiting-on-congress-for-crypto-rules",
-    "pubDate": "Thu, 15 Oct 2026 15:00:00 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/5ddf1efa5bb12b3aa1345b8718beec9eb6ab01db-2560x1440.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-    "summary": "Wall Street is moving ahead with cryptocurrency adoption and regulation internally, rather than waiting for Congress to establish clear rules. Financial advisors are increasingly integrating digital assets into client portfolios, signaling a growing institutional acceptance of crypto despite the lack of federal regulatory clarity.",
     "importance": 7,
     "classified": true
   },
@@ -578,12 +578,24 @@
   {
     "title": "Here’s what happened in crypto today",
     "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Sat, 17 Oct 2026 13:29:00 +0000",
+    "pubDate": "Sun, 18 Oct 2026 13:54:00 +0000",
     "source": "Cointelegraph",
     "category": "crypto",
     "content": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
     "image": "https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg",
     "summary": "This article provides a summary of the latest news and trends in the crypto space, covering Bitcoin price, blockchain, DeFi, Web3, and crypto regulation. It aims to keep readers updated on daily events impacting the cryptocurrency market. The article appears to be a general overview of the current state of the crypto industry.",
+    "importance": 6,
+    "classified": true
+  },
+  {
+    "title": "Most Americans polled oppose betting on elections: Reuters",
+    "link": "https://cointelegraph.com/news/most-americans-polled-oppose-betting-on-elections-reuters?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Sun, 18 Oct 2026 13:48:00 +0000",
+    "source": "Cointelegraph",
+    "category": "crypto",
+    "content": "The prediction market industry enables people to bet on US ‌elections and sporting events.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M57M1156GPPFQ4JMAMQP3RQS/hi-japan-having-a-hard-time-gambling-a-and-casinos-poker.jpg",
+    "summary": "A recent Reuters poll indicates that the majority of Americans oppose betting on elections. This public sentiment is noted within the context of the prediction market industry, which facilitates wagering on events like US elections and various sporting events.",
     "importance": 6,
     "classified": true
   },
@@ -610,17 +622,6 @@
     "summary": "MSCI has adopted new index exclusion rules, which could result in the removal of companies such as Strategy, Metaplanet, and Upexi from its indices. The final list of exclusions is expected to be announced on November 11.",
     "importance": 6,
     "classified": true
-  },
-  {
-    "title": "Crypto exchanges Binance, Coinbase join West Africa scam sweep that flagged $11 million",
-    "link": "https://www.coindesk.com/business/2026/10/14/crypto-exchanges-binance-coinbase-join-west-africa-scam-sweep-that-flagged-usd11-million",
-    "pubDate": "Sun, 18 Oct 2026 12:00:00 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "Private-sector partners flagged $11 million in funds that could be frozen, while officials reported cryptocurrency seizures without disclosing their value.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/c8cf7352fab13d07a5ac302d8ec45c4e0964687d-3072x2048.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-    "summary": "",
-    "importance": 5
   },
   {
     "title": "XRP has failed to make holders rich like bitcoin and ether. Here’s why",
@@ -657,6 +658,17 @@
     "summary": "Bitcoin's market cycle signals tool indicates that BTC price action is mirroring historical trends. This suggests that Bitcoin may reclaim a key moving average before potentially reaching new record highs.",
     "importance": 5,
     "classified": true
+  },
+  {
+    "title": "Cysic suspends bridge after attacker mints tokens and moves $727,000 to Ethereum",
+    "link": "https://www.theblock.co/news/defi/2026-10-18-cysic-suspends-bridge-after-attacker-mints-tokens-and-moves-727000-to-ethereum-418863",
+    "pubDate": "Sun, 18 Oct 2026 16:07:43 +0000",
+    "source": "The Block",
+    "category": "crypto",
+    "content": "The attacker, after minting 10 million CYS, managed to bridge about $727,000 in proceeds to Ethereum through Mayan, deBridge and SWFT's Bridgers.",
+    "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2021/09/20210917_Hack_General.jpg",
+    "summary": "",
+    "importance": 5
   },
   {
     "title": "Circle details USDC revenue split, says $819 million went to partners and costs in H1 2026",
@@ -809,17 +821,6 @@
     "category": "crypto",
     "content": "Bitwise CIO Matt Hougan predicts an AI bubble collapse would prompt government bailouts and eventually fuel a bitcoin rally.",
     "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/10/Screenshot-2026-10-15-at-14.38.11.png",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "Helius CEO Mert Mumtaz joins NEAR Foundation Council",
-    "link": "https://www.theblock.co/news/business/2026-10-15-helius-ceo-mert-mumtaz-joins-near-foundation-council-418656",
-    "pubDate": "Thu, 15 Oct 2026 13:00:00 +0000",
-    "source": "The Block",
-    "category": "crypto",
-    "content": "Helius CEO Mert Mumtaz joined NEAR Foundation's Council, which oversees the foundation and its most significant decisions.",
-    "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/10/Screenshot-2026-10-15-at-13.45.41.png",
     "summary": "",
     "importance": 5
   },
@@ -1044,6 +1045,17 @@
     "importance": 5
   },
   {
+    "title": "Disney agrees to hire the majority of Character.AI’s workforce",
+    "link": "https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/",
+    "pubDate": "Sun, 18 Oct 2026 16:30:00 +0000",
+    "source": "TechCrunch AI",
+    "category": "ai",
+    "content": "After chatbot startup Character.AI filed for bankruptcy earlier this week, many of its employees will have the opportunity to take jobs at Disney. Character.AI’s former CEO Karandeep Anand recently became the entertainment giant’s first CTO, and the startup previously said that Disney had agreed to acquire some of its assets for $20 million. A legal […]",
+    "image": "",
+    "summary": "",
+    "importance": 5
+  },
+  {
     "title": "Meta removes language that raised scraping and AI training concerns",
     "link": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/",
     "pubDate": "Sat, 17 Oct 2026 21:31:32 +0000",
@@ -1253,17 +1265,6 @@
     "importance": 5
   },
   {
-    "title": "TechCrunch Disrupt 2026: Last day",
-    "link": "https://techcrunch.com/2026/10/15/techcrunch-disrupt-2026-last-day/",
-    "pubDate": "Thu, 15 Oct 2026 14:00:00 +0000",
-    "source": "TechCrunch AI",
-    "category": "ai",
-    "content": "Last day to be part of TechCrunch Disrupt 2026. Join 10,000+ tech leaders for a day of connections and insights. Save 75% on your pass now.",
-    "image": "",
-    "summary": "",
-    "importance": 5
-  },
-  {
     "title": "Meta removes language that may have allowed it to scrape news sites",
     "link": "https://www.theverge.com/tech/1013409/meta-removes-language-that-may-have-allowed-it-to-scrape-news-sites",
     "pubDate": "2026-10-17T15:04:36.000Z",
@@ -1370,6 +1371,17 @@
     "category": "ai",
     "content": "The new Muse Spark Open AI model can work on M5 Ultra Mac Studios. | Photo: Amelia Holowaty Krales / The Verge\t\n\nMeta announced the Muse Spark Open AI model today, claiming that it's the \"most capable US open-weight model to date.\" But the company also says that it's the \"the first model in its class\" that can \"run on your desktop using two Apple M5 Ultra Mac Studios with the latest MLX framework.\"\nMeta and Apple, typically rivals, worked together on the launch and are publicly supporting each other.\n\"Muse Spark Open - weights releasing today - runs great on new Mac Studios thanks to work with @johnternus and Apple,\" Meta CEO Mark Zuckerberg said on X.\n\"Congrats to the team!\" new Apple CEO John Ternus said in a reply. \"Amazing to run a model of Muse …\nRead the full story at The Verge.",
     "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268742_Mac_Studio_AKrales_0025.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "summary": "",
+    "importance": 5
+  },
+  {
+    "title": "Anthropic gives outside AI watchdog “employee-like” access",
+    "link": "https://arstechnica.com/ai/2026/10/anthropic-gives-outside-ai-watchdog-employee-like-access/",
+    "pubDate": "Sun, 18 Oct 2026 16:25:19 +0000",
+    "source": "Ars Technica AI",
+    "category": "ai",
+    "content": "The outside watchdog can publish its findings without Anthropic's approval.",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/claudebyanthropic-1024x648.jpg",
     "summary": "",
     "importance": 5
   },
@@ -1583,17 +1595,6 @@
     "importance": 5
   },
   {
-    "title": "Ukraine’s drones knock out AI data center belonging to \"Russia’s Google\"",
-    "link": "https://arstechnica.com/gadgets/2026/10/ukraines-drones-knock-out-ai-data-center-belonging-to-russias-google/",
-    "pubDate": "Fri, 09 Oct 2026 22:04:07 +0000",
-    "source": "Ars Technica AI",
-    "category": "ai",
-    "content": "One damaged data center has supercomputers used for training Yandex’s AI model.",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/yandex-data-center_sasovo-ryazan-russia.jpg",
-    "summary": "",
-    "importance": 5
-  },
-  {
     "title": "Altcoins outpace bitcoin as celestia jumps 16%, Warsh silent on interest-rate plans",
     "link": "https://www.coindesk.com/markets/2026/10/16/altcoins-outpace-bitcoin-as-celestia-jumps-16-warsh-silent-on-interest-rate-plans",
     "pubDate": "Fri, 16 Oct 2026 10:41:03 +0000",
@@ -1602,18 +1603,6 @@
     "content": "Celestia jumped 16%, injective rose 7.7% and layerzero added 7.3% while bitcoin held little changed near $82,100 and Fed Chair Warsh gave no sign on interest rates.",
     "image": "https://cdn.sanity.io/images/s3y3vcno/production/ff44eeb11e3fa7d86694b7c0742d390ad2ff526f-1920x1080.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
     "summary": "Altcoins like Celestia, Injective, and LayerZero saw significant gains, with Celestia jumping 16% while Bitcoin held steady near $82,100. Federal Reserve Chair Warsh offered no new details regarding interest rate plans.",
-    "importance": 4,
-    "classified": true
-  },
-  {
-    "title": "Bitcoin buyers snap up a brief drop below $80,000 as Asian stocks rebound",
-    "link": "https://www.coindesk.com/markets/2026/10/16/bitcoin-buyers-snap-up-a-brief-drop-below-usd80-000-as-asian-stocks-rebound",
-    "pubDate": "Fri, 16 Oct 2026 04:14:22 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "Bitcoin tore back to $82,500 within two hours of dipping under $80,000, and chipmakers in Seoul recovered from their worst close since April.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/891d851f5c1b7c4185f70d0e7835241eb1a6f7f3-1540x852.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-    "summary": "Bitcoin experienced a rapid rebound, recovering to $82,500 within two hours after briefly dipping below the $80,000 mark. This quick recovery in Bitcoin's price coincided with a rebound in Asian stocks, particularly chipmakers in Seoul.",
     "importance": 4,
     "classified": true
   },
@@ -1639,6 +1628,18 @@
     "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5499P2SZPHXNNS2X8W74AV7/hi-how-are-governments-implementing-the-bitget-guidelines.jpg",
     "summary": "Bitget, a cryptocurrency exchange, has announced it will discontinue services for some users as part of a one-off exercise. The exchange reassured the community that user funds are safe and that operations will continue for other users.",
     "importance": 3,
+    "classified": true
+  },
+  {
+    "title": "Wall Street freaked out Friday. VIX and bitcoin say the fear may fade Monday.",
+    "link": "https://www.coindesk.com/markets/2026/10/18/wall-street-freaked-out-friday-vix-and-bitcoin-say-it-may-not-last",
+    "pubDate": "Sun, 18 Oct 2026 16:33:00 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "Wall Street's fear gauge, the VIX index, spiked on Friday as stocks dropped. History says Friday panics usually fade on Monday. Seasonality and calm bitcoin suggest the same.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/432658a603b65b72bd0b963f39af9806b80609d5-1600x900.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "summary": "Wall Street's fear gauge, the VIX index, surged on Friday following a stock market drop. However, historical patterns, seasonality, and the stable performance of bitcoin indicate that this market fear is likely to dissipate by Monday.",
+    "importance": 2,
     "classified": true
   },
   {
