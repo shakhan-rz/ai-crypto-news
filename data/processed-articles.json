@@ -312,6 +312,18 @@
     "classified": true
   },
   {
+    "title": "Cysic suspends bridge after attacker mints tokens and moves $727,000 to Ethereum",
+    "link": "https://www.theblock.co/news/defi/2026-10-18-cysic-suspends-bridge-after-attacker-mints-tokens-and-moves-727000-to-ethereum-418863",
+    "pubDate": "Sun, 18 Oct 2026 16:07:43 +0000",
+    "source": "The Block",
+    "category": "crypto",
+    "content": "The attacker, after minting 10 million CYS, managed to bridge about $727,000 in proceeds to Ethereum through Mayan, deBridge and SWFT's Bridgers.",
+    "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2021/09/20210917_Hack_General.jpg",
+    "summary": "Cysic has suspended its bridge following a security incident where an attacker minted 10 million CYS tokens. The attacker successfully moved approximately $727,000 in proceeds to the Ethereum network using multiple bridging services.",
+    "importance": 8,
+    "classified": true
+  },
+  {
     "title": "CoreWeave, Broadcom, Verizon among nine companies objecting to tokenized trading of their shares on OKXICE",
     "link": "https://www.theblock.co/news/markets/2026-10-17-coreweave-broadcom-verizon-among-nine-companies-objecting-to-tokenized-trading-of-their-shares-on-okxice-418859",
     "pubDate": "Sat, 17 Oct 2026 19:56:25 +0000",
@@ -658,17 +670,6 @@
     "summary": "Bitcoin's market cycle signals tool indicates that BTC price action is mirroring historical trends. This suggests that Bitcoin may reclaim a key moving average before potentially reaching new record highs.",
     "importance": 5,
     "classified": true
-  },
-  {
-    "title": "Cysic suspends bridge after attacker mints tokens and moves $727,000 to Ethereum",
-    "link": "https://www.theblock.co/news/defi/2026-10-18-cysic-suspends-bridge-after-attacker-mints-tokens-and-moves-727000-to-ethereum-418863",
-    "pubDate": "Sun, 18 Oct 2026 16:07:43 +0000",
-    "source": "The Block",
-    "category": "crypto",
-    "content": "The attacker, after minting 10 million CYS, managed to bridge about $727,000 in proceeds to Ethereum through Mayan, deBridge and SWFT's Bridgers.",
-    "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2021/09/20210917_Hack_General.jpg",
-    "summary": "",
-    "importance": 5
   },
   {
     "title": "Circle details USDC revenue split, says $819 million went to partners and costs in H1 2026",
@@ -1034,6 +1035,17 @@
     "importance": 5
   },
   {
+    "title": "Anthropic says it’s committing 5% of its shares to a ‘public benefit fund’",
+    "link": "https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund/",
+    "pubDate": "Sun, 18 Oct 2026 20:37:40 +0000",
+    "source": "TechCrunch AI",
+    "category": "ai",
+    "content": "Anthropic said that it will commit 5% of its shares to the fund.",
+    "image": "",
+    "summary": "",
+    "importance": 5
+  },
+  {
     "title": "Disney agrees to hire the majority of Character.AI’s workforce",
     "link": "https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/",
     "pubDate": "Sun, 18 Oct 2026 16:30:00 +0000",
@@ -1238,17 +1250,6 @@
     "source": "TechCrunch AI",
     "category": "ai",
     "content": "We'll likely learn more about how this will work at the company's upcoming \"AI & Autonomy Day\" event in December.",
-    "image": "",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "Google’s Universal Cart shopping tool launches in the US",
-    "link": "https://techcrunch.com/2026/10/15/googles-universal-cart-shopping-tool-launches-in-the-us/",
-    "pubDate": "Thu, 15 Oct 2026 14:29:33 +0000",
-    "source": "TechCrunch AI",
-    "category": "ai",
-    "content": "The new shopping tool is available in the U.S. across Google Search and the Gemini app.",
     "image": "",
     "summary": "",
     "importance": 5
