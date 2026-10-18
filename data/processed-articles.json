@@ -72,6 +72,18 @@
     "classified": true
   },
   {
+    "title": "The White House's crypto chief departs: State of Crypto ",
+    "link": "https://www.coindesk.com/policy/2026/10/18/the-white-house-s-crypto-chief-departs-state-of-crypto",
+    "pubDate": "Sun, 18 Oct 2026 18:30:00 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "Patrick Witt announced his departure from the White House last week.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/3d14ee5efae01770bbbc627c6ecb94cb0e826a8d-4027x2265.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "summary": "Patrick Witt, who served as the White House's crypto chief, announced his departure from his position last week. This news comes from the 'State of Crypto' report.",
+    "importance": 8,
+    "classified": true
+  },
+  {
     "title": "Stablecoin supply stalls, but payments jump 45% as Visa, Mastercard and Stripe connect crypto to cash",
     "link": "https://www.coindesk.com/business/2026/10/18/stablecoin-supply-stalls-but-payments-jump-45-as-visa-mastercard-and-stripe-connect-crypto-to-cash",
     "pubDate": "Sun, 18 Oct 2026 14:00:00 +0000",
@@ -624,18 +636,6 @@
     "classified": true
   },
   {
-    "title": "XRP has failed to make holders rich like bitcoin and ether. Here’s why",
-    "link": "https://www.coindesk.com/markets/2026/10/16/xrp-has-failed-to-make-holders-rich-like-bitcoin-and-ether-here-s-why",
-    "pubDate": "Fri, 16 Oct 2026 05:53:58 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "XRP remains below its 2017-cycle high while bitcoin, ether and other major tokens have surged, enriching their holders.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/38ca8bb4905288c7dc2f7d52bb714f76a4af723b-1600x900.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-    "summary": "The article notes that XRP has underperformed compared to Bitcoin and Ethereum, failing to make its holders rich. Unlike other major tokens that have surged past their 2017-cycle highs, XRP remains below its peak from that period.",
-    "importance": 5,
-    "classified": true
-  },
-  {
     "title": "Bitcoin price steadies around $82K after Fed’s Warsh avoids rate-hike hints",
     "link": "https://cointelegraph.com/markets/bitcoin-price-steadies-82k-fed-warsh-avoids-rate-hike-hints?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "pubDate": "Fri, 16 Oct 2026 15:45:43 +0000",
@@ -810,17 +810,6 @@
     "category": "crypto",
     "content": "Starknet opened a seven-day poll on Thursday asking STRK holders whether to research an independent post-quantum Layer 1.",
     "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2023/07/starknet_ethereum_layer_2-2.jpeg",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "Bitwise CIO argues bitcoin will benefit whether AI booms or busts",
-    "link": "https://www.theblock.co/news/markets/2026-10-15-bitwise-cio-argues-bitcoin-will-benefit-whether-ai-booms-or-busts-418668",
-    "pubDate": "Thu, 15 Oct 2026 14:01:06 +0000",
-    "source": "The Block",
-    "category": "crypto",
-    "content": "Bitwise CIO Matt Hougan predicts an AI bubble collapse would prompt government bailouts and eventually fuel a bitcoin rally.",
-    "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/10/Screenshot-2026-10-15-at-14.38.11.png",
     "summary": "",
     "importance": 5
   },
@@ -1050,7 +1039,7 @@
     "pubDate": "Sun, 18 Oct 2026 16:30:00 +0000",
     "source": "TechCrunch AI",
     "category": "ai",
-    "content": "After chatbot startup Character.AI filed for bankruptcy earlier this week, many of its employees will have the opportunity to take jobs at Disney. Character.AI’s former CEO Karandeep Anand recently became the entertainment giant’s first CTO, and the startup previously said that Disney had agreed to acquire some of its assets for $20 million. A legal […]",
+    "content": "The filing also says that the “vast majority” of Character.AI employees who were offered jobs at Disney accepted them. However, this is a stalking horse bid, so another company could come forward with a higher offer.",
     "image": "",
     "summary": "",
     "importance": 5
@@ -1265,6 +1254,17 @@
     "importance": 5
   },
   {
+    "title": "A woman was arrested in Philly for blocking a delivery robot",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1013541/a-woman-was-arrested-in-philly-for-blocking-a-delivery-robot",
+    "pubDate": "2026-10-18T18:28:10.000Z",
+    "source": "The Verge AI",
+    "category": "ai",
+    "content": "Carolyn Marvin was arrested and charged with disorderly conduct after blocking the path of an Uber delivery robot and refusing to get out of the way. Marvin told Philadelphia's ABC13 \"I know they're taking the jobs of human delivery workers and so, I have been protesting them whenever I saw them by standing in front of them and preventing them from going forward.\"\nPolice responded to the scene and asked Marvin to move out of the robot's way. When she refused, they placed her in cuffs and arrested her. The incident was captured on video and has now garnered considerable media attention. \nThe delivery robots have become a common sight on the …\nRead the full story at The Verge.",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/avride-uber-delivery.webp?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "summary": "",
+    "importance": 5
+  },
+  {
     "title": "Meta removes language that may have allowed it to scrape news sites",
     "link": "https://www.theverge.com/tech/1013409/meta-removes-language-that-may-have-allowed-it-to-scrape-news-sites",
     "pubDate": "2026-10-17T15:04:36.000Z",
@@ -1360,17 +1360,6 @@
     "category": "ai",
     "content": "Bluesky's Attie AI tool, which initially launched earlier this year as a way to use AI to build your own feeds, now lets you make \"small\" social apps like games, polls, and dashboards that you can then share with others as their own websites. In an interview at TechCrunch Disrupt, Bluesky CEO Toni Schneider said to think of Attie as \"social vibe coding or vibe coding for your community.\"\n\n\n\n\n\nYou can make your own Attie app by typing in a prompt. A simple poll I made about Pokémon Red and Pokémon Blue took a few minutes to generate. If you want to check out something more full-featured, the Attie website currently highlights a few examples l …\nRead the full story at The Verge.",
     "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Screenshot-2026-10-15-at-12.53.19-PM.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "Meta and Apple team up to make Muse AI models run better on Macs",
-    "link": "https://www.theverge.com/news/1012293/meta-apple-muse-spark-open-ai-model-mlx",
-    "pubDate": "2026-10-15T18:15:36.000Z",
-    "source": "The Verge AI",
-    "category": "ai",
-    "content": "The new Muse Spark Open AI model can work on M5 Ultra Mac Studios. | Photo: Amelia Holowaty Krales / The Verge\t\n\nMeta announced the Muse Spark Open AI model today, claiming that it's the \"most capable US open-weight model to date.\" But the company also says that it's the \"the first model in its class\" that can \"run on your desktop using two Apple M5 Ultra Mac Studios with the latest MLX framework.\"\nMeta and Apple, typically rivals, worked together on the launch and are publicly supporting each other.\n\"Muse Spark Open - weights releasing today - runs great on new Mac Studios thanks to work with @johnternus and Apple,\" Meta CEO Mark Zuckerberg said on X.\n\"Congrats to the team!\" new Apple CEO John Ternus said in a reply. \"Amazing to run a model of Muse …\nRead the full story at The Verge.",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268742_Mac_Studio_AKrales_0025.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
     "summary": "",
     "importance": 5
   },
@@ -1627,6 +1616,18 @@
     "content": "Bitget says user funds are safe and exchange will continue to operate during the change.",
     "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5499P2SZPHXNNS2X8W74AV7/hi-how-are-governments-implementing-the-bitget-guidelines.jpg",
     "summary": "Bitget, a cryptocurrency exchange, has announced it will discontinue services for some users as part of a one-off exercise. The exchange reassured the community that user funds are safe and that operations will continue for other users.",
+    "importance": 3,
+    "classified": true
+  },
+  {
+    "title": "Crypto.com, Novig sue Missouri over sports event contracts; Kalshi, Polymarket, Robinhood hold off",
+    "link": "https://www.theblock.co/news/regulation/2026-10-18-crypto-com-novig-sue-missouri-over-sports-event-contracts-kalshi-polymarket-robinhood-hold-off-418866",
+    "pubDate": "Sun, 18 Oct 2026 19:50:28 +0000",
+    "source": "The Block",
+    "category": "crypto",
+    "content": "Kalshi, Polymarket, Robinhood and Underdog, which also received cease-and-desist orders, have not filed suits in Missouri, according to court records.",
+    "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2022/02/20220208_Crypto_Sports_Funding.jpg",
+    "summary": "Crypto.com and Novig have filed lawsuits against Missouri concerning sports event contracts, after receiving cease-and-desist orders. Other companies, including Kalshi, Polymarket, Robinhood, and Underdog, also received these orders but have not initiated legal action in Missouri.",
     "importance": 3,
     "classified": true
   },
