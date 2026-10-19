@@ -72,6 +72,30 @@
     "classified": true
   },
   {
+    "title": "Deutsche Bank targets Asia crypto custody expansion in 2027 as German launch nears",
+    "link": "https://www.coindesk.com/business/2026/10/18/deutsche-bank-targets-asia-crypto-custody-expansion-in-2027-as-german-launch-nears",
+    "pubDate": "Mon, 19 Oct 2026 02:00:00 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "The service will initially support bitcoin, ether and the stablecoins USDC, EURC and EURAU, with the bank managing clients’ wallets and private keys.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/20b41cccd25baec46feebbec67358ee865ee71db-1920x1440.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "summary": "Deutsche Bank is preparing to launch a crypto custody service in Germany, initially supporting Bitcoin, Ether, and stablecoins like USDC, EURC, and EURAU, with the bank managing client wallets and private keys. The bank aims to expand this service to Asia by 2027.",
+    "importance": 8,
+    "classified": true
+  },
+  {
+    "title": "SEC tokenized stock framework faces issuer pushback as Broadcom, Verizon object to OKX-ICE listing",
+    "link": "https://www.coindesk.com/business/2026/10/18/sec-tokenized-stock-framework-faces-issuer-pushback-as-broadcom-verizon-object-to-okx-ice-listing",
+    "pubDate": "Sun, 18 Oct 2026 23:28:06 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "Eight more companies objected to trading on the planned OKX-ICE venue, while Nasdaq has separately said it would opt out under the SEC’s framework.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/981f113099a5d95dd101524386439043bf2a255f-6000x4000.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "summary": "Major companies including Broadcom and Verizon, along with Nasdaq, are objecting to or opting out of the SEC's proposed framework for tokenized stock. This pushback specifically concerns trading on the planned OKX-ICE venue, indicating significant resistance to the regulatory approach for tokenized securities.",
+    "importance": 8,
+    "classified": true
+  },
+  {
     "title": "The White House's crypto chief departs: State of Crypto ",
     "link": "https://www.coindesk.com/policy/2026/10/18/the-white-house-s-crypto-chief-departs-state-of-crypto",
     "pubDate": "Sun, 18 Oct 2026 18:30:00 +0000",
@@ -164,18 +188,6 @@
     "content": "A Friday surge in oil prices hit already-shaky equity markets, sending the Nasdaq down more than 2%.",
     "image": "",
     "summary": "Cryptocurrency markets are seeing declines as a significant selloff is occurring in the AI sector. This AI selloff is driven by growing concerns that a potential \"AI bubble\" is deflating, leading investors to favor fixed income assets.",
-    "importance": 8,
-    "classified": true
-  },
-  {
-    "title": "MSCI approves rules that could eject Strategy, Metaplanet from equity indexes",
-    "link": "https://www.coindesk.com/markets/2026/10/16/msci-approves-rules-that-could-eject-strategy-metaplanet-from-equity-indexes",
-    "pubDate": "Fri, 16 Oct 2026 08:34:48 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "The rules proposed in August would see companies that exist mainly to hold investments as no longer eligible for index inclusion.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/536d7d5e6cfaca6de1f092a21de7b4cf4d742687-1500x750.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-    "summary": "MSCI has approved new rules that will make companies primarily existing to hold investments ineligible for its equity indexes. This change could lead to the removal of firms like MicroStrategy and Metaplanet, which are known for their substantial Bitcoin holdings, from these indexes.",
     "importance": 8,
     "classified": true
   },
@@ -284,30 +296,6 @@
     "content": "The crypto exchange was reportedly looking to use the additional funding to regain market share following Binance’s 2023 settlement with US authorities.",
     "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M50GBDK9V1K1J9DSAGNBWX7S/us-binance.jpg",
     "summary": "Binance.US is reportedly seeking a $1 billion valuation in a potential $100 million funding round. The crypto exchange plans to use this additional capital to regain market share following Binance's 2023 settlement with US authorities.",
-    "importance": 8,
-    "classified": true
-  },
-  {
-    "title": "Sweden revisits digital krona as ECB advances digital euro plans ",
-    "link": "https://cointelegraph.com/news/sweden-riksbank-digital-krona-cbdc-legislation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Thu, 15 Oct 2026 16:49:59 +0000",
-    "source": "Cointelegraph",
-    "category": "crypto",
-    "content": "Sweden’s Riksbank has recommended that lawmakers prepare for a possible digital krona, citing concerns over foreign-currency stablecoins and the future of domestic payments.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M505KEFKPMPQ9SXKC8HEV451/stockholm-sweden.jpg",
-    "summary": "Sweden's Riksbank has recommended that lawmakers prepare for a potential digital krona, citing concerns over foreign-currency stablecoins and the future of domestic payments. This move comes as the European Central Bank continues to advance its digital euro plans, highlighting a growing trend among central banks to explore Central Bank Digital Currencies (CBDCs).",
-    "importance": 8,
-    "classified": true
-  },
-  {
-    "title": "Mastercard brings stablecoin balances into traditional banking and card payments ",
-    "link": "https://cointelegraph.com/news/mastercard-bvnk-global-money-platform-stablecoins?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Thu, 15 Oct 2026 15:46:05 +0000",
-    "source": "Cointelegraph",
-    "category": "crypto",
-    "content": "The launch of Global Money Platform marks Mastercard’s first major integration with BVNK since its August acquisition, with Nuvei and Marqeta among the first companies to adopt the platform.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M501MR4NFX8WGM2DEYYC2STT/hi-could-those-who-left-mastercard-come-back3.jpg",
-    "summary": "Mastercard's new Global Money Platform integrates stablecoin balances directly into traditional banking and card payments. This initiative is a major integration with BVNK and is being adopted by companies like Nuvei and Marqeta.",
     "importance": 8,
     "classified": true
   },
@@ -480,18 +468,6 @@
     "classified": true
   },
   {
-    "title": "U.S. judge rejects Gemini’s appeal to void $5 million settlement despite CFTC backing",
-    "link": "https://www.coindesk.com/policy/2026/10/16/u-s-judge-rejects-gemini-s-appeal-to-void-usd5-million-settlement-despite-cftc-backing",
-    "pubDate": "Fri, 16 Oct 2026 09:36:21 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "The crypto exchange already paid up, but a court order and restrictions from its 2025 settlement will not be lifted even though the CFTC said the case should have never been presented.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/f93a68faff56e9b07fbb81cf8ad37ba84d47c186-4920x2768.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-    "summary": "A U.S. judge rejected Gemini's appeal to void a $5 million settlement, upholding a court order and restrictions until 2025. This decision came despite the CFTC supporting Gemini, stating the original case should have never been presented.",
-    "importance": 7,
-    "classified": true
-  },
-  {
     "title": "Chinese suspect in $75M international crime network arrested in Bangkok",
     "link": "https://cointelegraph.com/news/chinese-suspect-in-75m-international-crime-network-arrested-in-bangkok?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "pubDate": "Sun, 18 Oct 2026 09:14:26 +0000",
@@ -648,6 +624,28 @@
     "classified": true
   },
   {
+    "title": "Qubic freezes chain after attacker drains 1.4K wallets with weak seeds",
+    "link": "https://cointelegraph.com/news/qubic-freezes-chain-after-attacker-drains-14k-wallets-with-weak-seeds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Mon, 19 Oct 2026 01:03:27 +0000",
+    "source": "Cointelegraph",
+    "category": "crypto",
+    "content": "Qubic says 87.1% of the stolen funds remain onchain and the rest were frozen at crypto exchange MEXC, as network validators prepare to vote on a recovery plan.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M58TDQ3XD133AKC254WEC04M/wallet.jpg",
+    "summary": "",
+    "importance": 5
+  },
+  {
+    "title": "Richard Heart caught ‘off-guard,’ QDay gets even closer: Hodler’s Digest",
+    "link": "https://cointelegraph.com/magazine/richard-heart-caught-with-pants-down-qday-gets-even-closer-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Sun, 18 Oct 2026 22:58:17 +0000",
+    "source": "Cointelegraph",
+    "category": "crypto",
+    "content": "HEX founder Richard Heart detained in early morning raid in Istanbul, Starknet plunges almost 50% as it votes to become an L1, and Bitwise says all signs point to Crypto Spring.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M58DKX7KCTJFZHWYSYH8DBTC/hodlers-crop.jpg",
+    "summary": "",
+    "importance": 5
+  },
+  {
     "title": "Bitcoin price steadies around $82K after Fed’s Warsh avoids rate-hike hints",
     "link": "https://cointelegraph.com/markets/bitcoin-price-steadies-82k-fed-warsh-avoids-rate-hike-hints?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "pubDate": "Fri, 16 Oct 2026 15:45:43 +0000",
@@ -670,6 +668,17 @@
     "summary": "Bitcoin's market cycle signals tool indicates that BTC price action is mirroring historical trends. This suggests that Bitcoin may reclaim a key moving average before potentially reaching new record highs.",
     "importance": 5,
     "classified": true
+  },
+  {
+    "title": "World launches World ID suite for banks, makes Zoom deepfake check generally available",
+    "link": "https://www.theblock.co/news/ecosystems/2026-10-18-world-launches-world-id-suite-banks-418869",
+    "pubDate": "Mon, 19 Oct 2026 01:10:00 +0000",
+    "source": "The Block",
+    "category": "crypto",
+    "content": "World ID for Zoom is generally available after a beta that began in April, and is designed to spot deepfaked participants on Zoom calls.",
+    "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2024/02/20240220_Wordlcoin_News.jpg",
+    "summary": "",
+    "importance": 5
   },
   {
     "title": "Circle details USDC revenue split, says $819 million went to partners and costs in H1 2026",
@@ -800,17 +809,6 @@
     "category": "crypto",
     "content": "Ripple Prime has added RWA perpetual swaps tied to equities, ETFs, metals, energy and currencies, with 24/7 trading and settlement.",
     "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/01/20260108_Ripple_News_3.jpg",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "Starknet opens seven-day vote on independent Layer 1 over quantum risks",
-    "link": "https://www.theblock.co/news/ecosystems/2026-10-15-starknet-opens-seven-day-vote-on-independent-layer-1-over-quantum-risks-418673",
-    "pubDate": "Thu, 15 Oct 2026 14:26:53 +0000",
-    "source": "The Block",
-    "category": "crypto",
-    "content": "Starknet opened a seven-day poll on Thursday asking STRK holders whether to research an independent post-quantum Layer 1.",
-    "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2023/07/starknet_ethereum_layer_2-2.jpeg",
     "summary": "",
     "importance": 5
   },
@@ -1633,12 +1631,12 @@
     "classified": true
   },
   {
-    "title": "Wall Street freaked out Friday. VIX and bitcoin say the fear may fade Monday.",
+    "title": "Wall Street freaked out Friday, but VIX and bitcoin trades say the fear may fade Monday.",
     "link": "https://www.coindesk.com/markets/2026/10/18/wall-street-freaked-out-friday-vix-and-bitcoin-say-it-may-not-last",
     "pubDate": "Sun, 18 Oct 2026 16:33:00 +0000",
     "source": "CoinDesk",
     "category": "crypto",
-    "content": "Wall Street's fear gauge, the VIX index, spiked on Friday as stocks dropped. History says Friday panics usually fade on Monday. Seasonality and calm bitcoin suggest the same.",
+    "content": "Wall Street's fear gauge, the VIX index, spiked on Friday as stocks dropped. History says Friday panics usually fade on Monday. Seasonality and calm bitcoin markets suggest the same.",
     "image": "https://cdn.sanity.io/images/s3y3vcno/production/432658a603b65b72bd0b963f39af9806b80609d5-1600x900.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
     "summary": "Wall Street's fear gauge, the VIX index, surged on Friday following a stock market drop. However, historical patterns, seasonality, and the stable performance of bitcoin indicate that this market fear is likely to dissipate by Monday.",
     "importance": 2,
