@@ -36,18 +36,6 @@
     "classified": true
   },
   {
-    "title": "Stablecoin remittances cost 84% less than traditional transfers, report finds ",
-    "link": "https://cointelegraph.com/news/stablecoin-remittances-cost-savings-traditional-transfers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Fri, 16 Oct 2026 17:21:45 +0000",
-    "source": "Cointelegraph",
-    "category": "crypto",
-    "content": "Borderless.xyz data shows major savings on cross-border business payments, with stablecoin transfers also settling faster than traditional international bank wires.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M52M2X6XQAK15HXKMTSR830M/hi-how-to-send-money-to-family-and-friends-abroad-with-cryptocurrency.jpg",
-    "summary": "A report by Borderless.xyz reveals that stablecoin remittances are significantly cheaper, costing 84% less than traditional cross-border business payments. Additionally, stablecoin transfers settle faster compared to international bank wires.",
-    "importance": 9,
-    "classified": true
-  },
-  {
     "title": "Turkey confirms Hex founder Richard Heart’s arrest, says police seized $7.15 million and six cold wallets",
     "link": "https://www.theblock.co/news/regulation/2026-10-17-turkey-confirms-hex-founder-richard-hearts-arrest-says-police-seized-7-15-million-and-six-cold-wallets-418852",
     "pubDate": "Sat, 17 Oct 2026 18:14:43 +0000",
@@ -57,6 +45,18 @@
     "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2025/04/20250424_Law_News.jpg",
     "summary": "Turkish authorities have confirmed the arrest of Hex founder Richard Heart. Police reportedly seized $7.15 million in cash, six cold wallets, seven firearms, and 1,400 rounds of ammunition during searches across 15 addresses.",
     "importance": 9,
+    "classified": true
+  },
+  {
+    "title": "Tether: Senator's investigation misses positive work that's led to lower Iran volumes",
+    "link": "https://www.coindesk.com/policy/2026/10/19/tether-senator-s-investigation-misses-positive-work-that-s-led-to-lower-iran-volumes",
+    "pubDate": "Mon, 19 Oct 2026 20:21:13 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "The stablecoin issuer's CEO, Paolo Ardoino, has been defending against accusations that the firm's stablecoins have fueled financial activity in Iran.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/90a43294bacbd032c489ab11822a38860e95f73e-4032x3024.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "summary": "Tether's CEO, Paolo Ardoino, is defending the stablecoin issuer against accusations that its stablecoins have fueled financial activity in Iran. He argues that a senator's investigation fails to acknowledge the positive work undertaken by Tether, which has led to a reduction in Iran-related transaction volumes.",
+    "importance": 8,
     "classified": true
   },
   {
@@ -80,6 +80,42 @@
     "content": "Curator-managed lending strategies are attracting institutional capital, while exposing depositors to collateral, liquidity and smart-contract risks.",
     "image": "https://cdn.sanity.io/images/s3y3vcno/production/c344e96535fc5b6afbd13a1245861a08a36bc293-2459x1383.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
     "summary": "Crypto vault deposits have surpassed $10 billion, attracting institutional capital through curator-managed lending strategies. This growth is also drawing regulatory scrutiny due to the inherent risks such as collateral, liquidity, and smart-contract vulnerabilities faced by depositors.",
+    "importance": 8,
+    "classified": true
+  },
+  {
+    "title": "Bitcoin mining offshoot Nscale loses Microsoft AI deal as power delay stretches into 2030s",
+    "link": "https://www.coindesk.com/tech/2026/10/19/bitcoin-mining-offshoot-nscale-loses-microsoft-ai-deal-as-power-delay-stretches-into-2030s",
+    "pubDate": "Mon, 19 Oct 2026 09:15:00 +0000",
+    "source": "CoinDesk",
+    "category": "both",
+    "content": "The Nvidia-backed company planned to deliver 23,000 AI chips in the U.K. next year, but its grid connection may not be ready until the 2030s.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/54bd04de039305784bf732dce245207bcc75ba21-7008x3942.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "summary": "Nscale, a company that originated from Bitcoin mining and is backed by Nvidia, has lost its AI deal with Microsoft. This setback is due to significant power grid connection delays in the U.K., which will postpone its plans to deliver 23,000 AI chips next year until the 2030s.",
+    "importance": 8,
+    "classified": true
+  },
+  {
+    "title": "Bitcoin whale moves $34 million in BTC it got in 2013 when coins traded at $131",
+    "link": "https://www.coindesk.com/markets/2026/10/19/bitcoin-whale-moves-usd34-million-in-btc-it-got-in-2013-when-coins-traded-at-usd131",
+    "pubDate": "Mon, 19 Oct 2026 06:23:16 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "A bitcoin wallet dormant since 2013 moved 411 BTC, now worth about $34 million. It is one of several long-dormant wallets to wake up recently.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/895471440497e5fc259ed27366d73f9159ef74c8-2043x925.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "summary": "A bitcoin wallet that had been dormant since 2013 recently moved 411 BTC, now valued at approximately $34 million. This movement is part of a broader trend of several long-inactive wallets becoming active again.",
+    "importance": 8,
+    "classified": true
+  },
+  {
+    "title": "Zcash developers plan a fix to keep ZEC swaps private from future quantum computers",
+    "link": "https://www.coindesk.com/tech/2026/10/19/zcash-developers-plan-a-fix-to-keep-zec-swaps-private-from-future-quantum-computers",
+    "pubDate": "Mon, 19 Oct 2026 05:23:02 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "The team behind Zakura wants every swap through NEAR Intents to get its own key, so a refund address left on NEAR’s public chain can’t expose a user’s wider payment history.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/6359a9ff83ee7ba7465c0ff2289cb8ae23e7ac43-1500x1000.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "summary": "Zcash developers, via the \"Zakura\" team, are designing a privacy fix for ZEC swaps to protect them from future quantum computers. The plan involves assigning a unique key to each swap through NEAR Intents, which will prevent a user's wider payment history from being exposed via refund addresses on NEAR's public chain.",
     "importance": 8,
     "classified": true
   },
@@ -180,18 +216,6 @@
     "classified": true
   },
   {
-    "title": "Crypto Biz: Wall Street closes at 4. Tokenized stocks keep trading ",
-    "link": "https://cointelegraph.com/news/tokenized-stocks-after-hours-trading-crypto-biz?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Fri, 16 Oct 2026 15:52:28 +0000",
-    "source": "Cointelegraph",
-    "category": "both",
-    "content": "Tokenized stocks are drawing trading activity beyond Wall Street hours, while Bitcoin miners confront costly AI expansion and new accounting rules could benefit stablecoins.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M52N5E63563HHENSDSV1NCN7/hi-how-grayscale-brought-crypto-staking-to-wall-street-for-the-first-time.jpg",
-    "summary": "Tokenized stocks are enabling trading activity beyond Wall Street hours, indicating a growing intersection between traditional finance and blockchain. Bitcoin miners are confronting significant costs associated with AI expansion, highlighting a new challenge for the crypto industry. Separately, new accounting rules are anticipated to benefit stablecoins.",
-    "importance": 8,
-    "classified": true
-  },
-  {
     "title": "Cysic suspends bridge after attacker mints tokens and moves $727,000 to Ethereum",
     "link": "https://www.theblock.co/news/defi/2026-10-18-cysic-suspends-bridge-after-attacker-mints-tokens-and-moves-727000-to-ethereum-418863",
     "pubDate": "Sun, 18 Oct 2026 16:07:43 +0000",
@@ -288,18 +312,6 @@
     "classified": true
   },
   {
-    "title": "Circle defends USDC economics as stablecoin rivals court its partners with bigger cut",
-    "link": "https://www.coindesk.com/business/2026/10/17/circle-defends-usdc-economics-as-stablecoin-rivals-court-its-partners-with-bigger-cut",
-    "pubDate": "Sun, 18 Oct 2026 01:06:35 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "Coinbase, Circle’s largest USDC partner, also backs Open USD, a rival network that passes reserve income to partners after a management fee.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/0738e13835f743ba2e3a2f26f7579b27661d1eac-4608x2592.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-    "summary": "Circle is defending the economics of its USDC stablecoin amidst growing competition from rivals like Open USD, which is backed by Coinbase. These competitors are offering partners a larger share of reserve income after management fees, posing a challenge to USDC's market position.",
-    "importance": 7,
-    "classified": true
-  },
-  {
     "title": "Chinese suspect in $75M international crime network arrested in Bangkok",
     "link": "https://cointelegraph.com/news/chinese-suspect-in-75m-international-crime-network-arrested-in-bangkok?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "pubDate": "Sun, 18 Oct 2026 09:14:26 +0000",
@@ -320,18 +332,6 @@
     "content": "Solana has had no reported mainnet outages in two years, but concentrations in stake, hosting and client software should be monitored, according to a report.",
     "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M54YYWKHSQFED5NV6YFBFNJY/hi-surviving-crypto-volatility-with-several-options-solana.jpg",
     "summary": "A recent report from Fidelity indicates Solana has demonstrated strong resilience with no mainnet outages reported in two years. Despite this, the report recommends continued observation of concentrations in stake, hosting, and client software to mitigate potential risks.",
-    "importance": 7,
-    "classified": true
-  },
-  {
-    "title": "Crypto PACs escalate spending against Sherrod Brown in Ohio Senate race",
-    "link": "https://cointelegraph.com/news/crypto-pac-fairshake-spending-ohio-senate-race-sherrod-brown?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Fri, 16 Oct 2026 17:30:09 +0000",
-    "source": "Cointelegraph",
-    "category": "crypto",
-    "content": "At least two industry-aligned PACs have poured more than $52 million into opposing Sherrod Brown’s return to the Senate.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M52HJ9YWKB542GFBKZMAPWM1/dollars-fly-away-us-senate-1.jpg",
-    "summary": "Crypto-aligned Political Action Committees have spent over $52 million in opposition to Senator Sherrod Brown's re-election campaign in Ohio. This substantial expenditure highlights the cryptocurrency industry's growing political engagement and influence in US elections.",
     "importance": 7,
     "classified": true
   },
@@ -372,9 +372,21 @@
     "classified": true
   },
   {
+    "title": "XRP Ledger is set to fix its lending code before anyone can use it",
+    "link": "https://www.coindesk.com/tech/2026/10/19/xrp-ledger-is-set-to-fix-its-lending-code-before-anyone-can-use-it",
+    "pubDate": "Mon, 19 Oct 2026 04:54:31 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "Validators have a bug-fix patch on course to go live Friday. The lending system it partly repairs is still 10 votes short of approval.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/af945cfdd3152f9ebc96d44f89ccafea550ccb57-5760x3840.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "summary": "A bug-fix patch for the XRP Ledger's lending code is scheduled to go live on Friday. This repair comes before the lending system has been fully approved, as it still requires 10 more validator votes for activation.",
+    "importance": 6,
+    "classified": true
+  },
+  {
     "title": "Here’s what happened in crypto today",
     "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Mon, 19 Oct 2026 13:19:50 +0000",
+    "pubDate": "Mon, 19 Oct 2026 20:02:30 +0000",
     "source": "Cointelegraph",
     "category": "crypto",
     "content": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
@@ -396,61 +408,6 @@
     "classified": true
   },
   {
-    "title": "Bitcoin mining offshoot Nscale loses Microsoft AI deal as power delay stretches into 2030s",
-    "link": "https://www.coindesk.com/tech/2026/10/19/bitcoin-mining-offshoot-nscale-loses-microsoft-ai-deal-as-power-delay-stretches-into-2030s",
-    "pubDate": "Mon, 19 Oct 2026 09:15:00 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "The Nvidia-backed company planned to deliver 23,000 AI chips in the U.K. next year, but its grid connection may not be ready until the 2030s.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/54bd04de039305784bf732dce245207bcc75ba21-7008x3942.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "CME’s bitcoin cash, uniswap futures, global PMIs: Crypto Week Ahead",
-    "link": "https://www.coindesk.com/markets/2026/10/19/cme-s-bitcoin-cash-uniswap-futures-global-pmis-crypto-week-ahead",
-    "pubDate": "Mon, 19 Oct 2026 09:12:39 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "Your look at what's coming in the week starting Oct. 19.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/b119fde813835a73b12fcb4cb0e3a811abe61149-1500x1021.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "Bitcoin whale moves $34 million in BTC it got in 2013 when coins traded at $131",
-    "link": "https://www.coindesk.com/markets/2026/10/19/bitcoin-whale-moves-usd34-million-in-btc-it-got-in-2013-when-coins-traded-at-usd131",
-    "pubDate": "Mon, 19 Oct 2026 06:23:16 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "A bitcoin wallet dormant since 2013 moved 411 BTC, now worth about $34 million. It is one of several long-dormant wallets to wake up recently.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/895471440497e5fc259ed27366d73f9159ef74c8-2043x925.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "Zcash developers plan a fix to keep ZEC swaps private from future quantum computers",
-    "link": "https://www.coindesk.com/tech/2026/10/19/zcash-developers-plan-a-fix-to-keep-zec-swaps-private-from-future-quantum-computers",
-    "pubDate": "Mon, 19 Oct 2026 05:23:02 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "The team behind Zakura wants every swap through NEAR Intents to get its own key, so a refund address left on NEAR’s public chain can’t expose a user’s wider payment history.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/6359a9ff83ee7ba7465c0ff2289cb8ae23e7ac43-1500x1000.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "XRP Ledger is set to fix its lending code before anyone can use it",
-    "link": "https://www.coindesk.com/tech/2026/10/19/xrp-ledger-is-set-to-fix-its-lending-code-before-anyone-can-use-it",
-    "pubDate": "Mon, 19 Oct 2026 04:54:31 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "Validators have a bug-fix patch on course to go live Friday. The lending system it partly repairs is still 10 votes short of approval.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/af945cfdd3152f9ebc96d44f89ccafea550ccb57-5760x3840.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-    "summary": "",
-    "importance": 5
-  },
-  {
     "title": "Bitcoin, Korea’s Kospi and Nasdaq futures rally as China GDP beats estimates",
     "link": "https://www.coindesk.com/markets/2026/10/19/bitcoin-korea-s-kospi-and-nasdaq-futures-rally-as-china-gdp-beats-estimates",
     "pubDate": "Mon, 19 Oct 2026 03:36:58 +0000",
@@ -458,6 +415,61 @@
     "category": "crypto",
     "content": "Bitcoin, Nasdaq futures and Asian stocks rally as stronger-than-expected China GDP and falling oil prices lift risk appetite.",
     "image": "https://cdn.sanity.io/images/s3y3vcno/production/19627b33884facfeb28d76262dc66c02511ae332-2185x1326.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "summary": "",
+    "importance": 5
+  },
+  {
+    "title": "Solana treasury firm SkyAI sells all SOL holdings, launches $201M buyback",
+    "link": "https://cointelegraph.com/news/solana-treasury-skyai-sells-all-sol-holdings-launches-201m-buyback?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Mon, 19 Oct 2026 21:04:34 +0000",
+    "source": "Cointelegraph",
+    "category": "crypto",
+    "content": "The former medical device maker has liquidated its Solana treasury and is offering to repurchase shares and warrants using its $223.8 million cash holdings.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5AYKKWE9EN0JZE01QZ6T9SW/hi-how-to-swap-tokens-between-base-and-solana.png",
+    "summary": "",
+    "importance": 5
+  },
+  {
+    "title": "Crypto PAC pours $362K into California race voters essentially decided in August",
+    "link": "https://cointelegraph.com/news/crypto-pac-california-race-voters-special-election?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Mon, 19 Oct 2026 20:22:41 +0000",
+    "source": "Cointelegraph",
+    "category": "crypto",
+    "content": "A Fairshake affiliate is supporting incumbent Aisha Wahab through ads in November, but the congresswoman already won a special election in the district.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5ABCKS2FMK83350383BZ19K/hi-the-great-tech-exodus-california-san-francisco.jpg",
+    "summary": "",
+    "importance": 5
+  },
+  {
+    "title": "Market participants weigh in on SEC’s proposed crypto regulations",
+    "link": "https://cointelegraph.com/news/public-comments-us-sec-proposed-crypto-rules?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Mon, 19 Oct 2026 19:54:38 +0000",
+    "source": "Cointelegraph",
+    "category": "crypto",
+    "content": "The financial agency is scheduled to close public comments on its ‘Regulation Crypto Assets’ proposed in August.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5APHDVZD1BGG3JK7KN10823/man-documents-sec.jpg",
+    "summary": "",
+    "importance": 5
+  },
+  {
+    "title": "Visa, Mesh partner to enable crypto spending at 175M merchant locations",
+    "link": "https://cointelegraph.com/news/visa-mesh-partner-crypto-spending-175m-merchant-locations?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Mon, 19 Oct 2026 19:16:19 +0000",
+    "source": "Cointelegraph",
+    "category": "crypto",
+    "content": "Mesh will connect crypto and stablecoin wallets to Visa’s global payment network, allowing users to spend digital assets without a separate card.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5AQTAX4CZKP1822SBZZMSMC/hi-could-those-who-left-visa-come-back.png",
+    "summary": "",
+    "importance": 5
+  },
+  {
+    "title": "Mastercard launches stablecoin risk screening for banks and payment providers ",
+    "link": "https://cointelegraph.com/news/mastercard-stablecoin-risk-screening-banks-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Mon, 19 Oct 2026 19:03:23 +0000",
+    "source": "Cointelegraph",
+    "category": "crypto",
+    "content": "The new service combines payment data and blockchain analytics to help banks detect suspicious stablecoin transactions before settlement.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5APDAY3V814QCHNF8PWJB4F/hi-how-mastercard-plans-to-settle-card-payments-with-stablecoins.jpg",
     "summary": "",
     "importance": 5
   },
@@ -649,16 +661,15 @@
     "importance": 5
   },
   {
-    "title": "Bitcoin price steadies around $82K after Fed’s Warsh avoids rate-hike hints",
-    "link": "https://cointelegraph.com/markets/bitcoin-price-steadies-82k-fed-warsh-avoids-rate-hike-hints?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Fri, 16 Oct 2026 15:45:43 +0000",
-    "source": "Cointelegraph",
+    "title": "BlackRock files for bitcoin ETF offering downside protection and upside exposure to IBIT",
+    "link": "https://www.theblock.co/news/regulation/2026-10-19-blackrock-files-bitcoin-managed-protect-etf-downside-protection-ibit-421087",
+    "pubDate": "Mon, 19 Oct 2026 22:00:53 +0000",
+    "source": "The Block",
     "category": "crypto",
-    "content": "Bitcoin held above $80,000 as South Korean tech stocks recovered from a sell-off and traders lowered their expectations for a Federal Reserve interest-rate hike.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M52N6H9GGJM3JZN42WG1X5JC/kevin-warsh-2-3-960x640.webp",
-    "summary": "Bitcoin's price stabilized above $80,000 following a recovery in South Korean tech stocks and decreased market expectations for a Federal Reserve interest-rate hike. This stability comes as Federal Reserve's Warsh reportedly avoided hints about future rate increases.",
-    "importance": 5,
-    "classified": true
+    "content": "One of the world's largest investment managers, BlackRock has filed for another bitcoin fund, marking its third tied to the asset.",
+    "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2022/10/20221005_Blackrock.jpg",
+    "summary": "",
+    "importance": 5
   },
   {
     "title": "Mesh taps Visa to let users spend crypto without a separate card",
@@ -793,13 +804,35 @@
     "importance": 5
   },
   {
-    "title": "OpenAI says research model spent another wallet’s testnet ETH without authorization on coding task",
-    "link": "https://www.theblock.co/news/business/2026-10-16-openai-says-research-model-spent-another-wallets-testnet-eth-without-authorization-on-coding-task-418798",
-    "pubDate": "Fri, 16 Oct 2026 11:34:54 +0000",
-    "source": "The Block",
+    "title": "AnchorWatch Launches Nevada Trust Company, Caps Bitcoin Custody Fees at $10,000 a Month",
+    "link": "https://bitcoinmagazine.com/news/anchorwatch-debuts-nevada-trust-company",
+    "pubDate": "Mon, 19 Oct 2026 22:28:17 +0000",
+    "source": "Bitcoin Magazine",
     "category": "crypto",
-    "content": "OpenAI's research model used another wallet's testnet ETH without permission to complete a coding task in June.",
-    "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/10/Screenshot-2026-10-16-at-12.27.53.png",
+    "content": "Bitcoin Magazine\n\nAnchorWatch Launches Nevada Trust Company, Caps Bitcoin Custody Fees at $10,000 a Month\nAnchorWatch’s AnchorWatch Trust Company has now opened its custody service. \nThis post AnchorWatch Launches Nevada Trust Company, Caps Bitcoin Custody Fees at $10,000 a Month first appeared on Bitcoin Magazine and is written by Mathew Di Salvo.",
+    "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/10/Pics-18.jpg",
+    "summary": "",
+    "importance": 5
+  },
+  {
+    "title": "The Architecture of Money: Mapping Financial Power in the Age of Bitcoin",
+    "link": "https://bitcoinmagazine.com/culture/the-architecture-of-money-mapping-financial-power-in-the-age-of-bitcoin",
+    "pubDate": "Mon, 19 Oct 2026 19:44:04 +0000",
+    "source": "Bitcoin Magazine",
+    "category": "crypto",
+    "content": "Bitcoin Magazine\n\nThe Architecture of Money: Mapping Financial Power in the Age of Bitcoin\nCarlijn Kingma, Thomas Bollen, and Martijn Jeroen van der Linden on The Waterworks of Money, the hidden structures of finance, and bitcoin's place in Europe's monetary future.\nThis post The Architecture of Money: Mapping Financial Power in the Age of Bitcoin first appeared on Bitcoin Magazine and is written by Dennis Koch.",
+    "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/10/The-Architecture-of-Money-Mapping-Financial-Power-in-the-Age-of-Bitcoin.png",
+    "summary": "",
+    "importance": 5
+  },
+  {
+    "title": "Super League Stockholders Approve Metaplanet’s 2,100 BTC Investment, Paving Way for ‘Superplanet’",
+    "link": "https://bitcoinmagazine.com/news/metaplanet-super-league-deal-approved",
+    "pubDate": "Mon, 19 Oct 2026 19:32:17 +0000",
+    "source": "Bitcoin Magazine",
+    "category": "crypto",
+    "content": "Bitcoin Magazine\n\nSuper League Stockholders Approve Metaplanet’s 2,100 BTC Investment, Paving Way for ‘Superplanet’\nJapanese bitcoin giant Metaplanet is acquiring around 96% of Nasdaq-listed Super League.\nThis post Super League Stockholders Approve Metaplanet’s 2,100 BTC Investment, Paving Way for ‘Superplanet’ first appeared on Bitcoin Magazine and is written by Mathew Di Salvo.",
+    "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/06/Metaplanet-Acquires-Siiibo-Securities-in-Push-to-Build-Bitcoin-Financial-Ecosystem.jpg",
     "summary": "",
     "importance": 5
   },
@@ -881,35 +914,13 @@
     "importance": 5
   },
   {
-    "title": "Fundstrat Analyst Sean Farrell: Bitcoin to $100k by Year End + MSTR MSCI Exclusion",
-    "link": "https://bitcoinmagazine.com/videos/fundstrat-analyst-sean-farrell-bitcoin-to-100k-by-year-end-mstr-msci-exclusion",
-    "pubDate": "Mon, 19 Oct 2026 12:22:41 +0000",
-    "source": "Bitcoin Magazine",
-    "category": "crypto",
-    "content": "Bitcoin Magazine\n\nFundstrat Analyst Sean Farrell: Bitcoin to $100k by Year End + MSTR MSCI Exclusion\nWhere is Bitcoin headed by year-end? Fundstrat's Sean Farrell sees $95K–$100K as possible, explaining bond volatility impacts and the broader regime shift.\nThis post Fundstrat Analyst Sean Farrell: Bitcoin to $100k by Year End + MSTR MSCI Exclusion first appeared on Bitcoin Magazine and is written by Patrick Green.",
-    "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/10/Fundstrat-Analyst-Sean-Farrell-Bitcoin-to-100k-by-Year-End-MSTR-MSCI-Exclusion-.jpg",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "Poetic Justice: Scammer Lost $5M in Bitcoin After Being Targeted by Ledger Thieves",
-    "link": "https://bitcoinmagazine.com/news/scammer-lost-bitcoin-to-ledger-thieves",
-    "pubDate": "Fri, 16 Oct 2026 22:12:36 +0000",
-    "source": "Bitcoin Magazine",
-    "category": "crypto",
-    "content": "Bitcoin Magazine\n\nPoetic Justice: Scammer Lost $5M in Bitcoin After Being Targeted by Ledger Thieves\nChainalysis has revealed that a victim of last week’s Ledger theft was a scammer themself. \nThis post Poetic Justice: Scammer Lost $5M in Bitcoin After Being Targeted by Ledger Thieves first appeared on Bitcoin Magazine and is written by Mathew Di Salvo.",
-    "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/10/Pics-16.jpg",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "BFFS26 Denver: Joseph Kelly on Bitcoin Custody and Credit; Alan Lane on Banking Lessons",
-    "link": "https://bitcoinmagazine.com/press-releases/bffs26-denver-joseph-kelly-on-bitcoin-custody-and-credit-alan-lane-on-banking-lessons",
-    "pubDate": "Fri, 16 Oct 2026 19:44:29 +0000",
-    "source": "Bitcoin Magazine",
-    "category": "crypto",
-    "content": "Bitcoin Magazine\n\nBFFS26 Denver: Joseph Kelly on Bitcoin Custody and Credit; Alan Lane on Banking Lessons\nCPAs, wealth advisors, and lenders gather in Denver for BFFS26, featuring Patrick Lowry on public-company Bitcoin treasury reserves and Wyoming Deputy Secretary of State Colin Crossman on regulatory outlook.\nThis post BFFS26 Denver: Joseph Kelly on Bitcoin Custody and Credit; Alan Lane on Banking Lessons first appeared on Bitcoin Magazine and is written by Juan Galt.",
-    "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/10/tn-1.webp",
+    "title": "Making the internet better for AI agents might make it worse for everyone else",
+    "link": "https://www.technologyreview.com/2026/10/19/1147186/making-the-internet-better-for-ai-agents-might-make-it-worse-for-everyone-else/",
+    "pubDate": "Mon, 19 Oct 2026 18:22:47 +0000",
+    "source": "MIT Technology Review",
+    "category": "ai",
+    "content": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Until recently, you could divide internet users into just two categories: bots and people. Websites have long allowed bots to perform automated tasks, like capturing the content of web pages, but rules…",
+    "image": "",
     "summary": "",
     "importance": 5
   },
@@ -1013,12 +1024,89 @@
     "importance": 5
   },
   {
-    "title": "Can’t bear to say goodbye to your pet? Biotech’s got you covered.",
-    "link": "https://www.technologyreview.com/2026/10/16/1146766/pet-biotech-longevity-cloning-cryonics/",
-    "pubDate": "Fri, 16 Oct 2026 09:00:00 +0000",
-    "source": "MIT Technology Review",
+    "title": "Nscale and Anthropic are reportedly in talks for yet another $45 billion compute deal",
+    "link": "https://techcrunch.com/2026/10/19/nscale-and-anthropic-are-reportedly-in-talks-for-yet-another-45-billion-compute-deal/",
+    "pubDate": "Mon, 19 Oct 2026 23:39:38 +0000",
+    "source": "TechCrunch AI",
     "category": "ai",
-    "content": "I don’t remember much about Peppy, my first and only pet cat. I can conjure the sensation of stroking her while she purred, recall how she used to get stuck in trees (just like in cartoons!), and chuckle about the time she pooed in my baby sister’s cot. That’s about it. What I do vividly…",
+    "content": "In August, Nscale and Anthropic announced a $45 billion compute deal. The two companies are reportedly discussing yet another deal of the same magnitude.",
+    "image": "",
+    "summary": "",
+    "importance": 5
+  },
+  {
+    "title": "Embedded AI evaluators won’t be an easy solution, Hugging Face’s policy chief says",
+    "link": "https://techcrunch.com/2026/10/19/embedded-ai-evaluators-wont-be-an-easy-solution-hugging-faces-policy-chief-says/",
+    "pubDate": "Mon, 19 Oct 2026 22:49:27 +0000",
+    "source": "TechCrunch AI",
+    "category": "ai",
+    "content": "AI labs have staked their reputations on model benchmarking — the supposedly neutral and accurate system of evaluations that are designed to measure whether one AI product is better than another. However, the methods behind these evaluations are complicated and still maturing, said Irene Solaiman, Hugging Face’s chief policy officer, during a discussion at TechCrunch […]",
+    "image": "",
+    "summary": "",
+    "importance": 5
+  },
+  {
+    "title": "Microsoft says AI agents are like insider threats as ‘frontier models can’t be trusted’",
+    "link": "https://techcrunch.com/2026/10/19/microsoft-says-ai-agents-are-like-insider-threats-as-frontier-models-cant-be-trusted/",
+    "pubDate": "Mon, 19 Oct 2026 22:04:28 +0000",
+    "source": "TechCrunch AI",
+    "category": "ai",
+    "content": "Microsoft wants enterprises to closely watch the agents employees use with systems not controlled by AI labs like OpenAI and Anthropic.",
+    "image": "",
+    "summary": "",
+    "importance": 5
+  },
+  {
+    "title": "Amazon is taking its biggest shot at Nvidia yet with new TorchNeuron dev tool",
+    "link": "https://techcrunch.com/2026/10/19/amazon-is-taking-its-biggest-shot-at-nvidia-yet-with-new-torchneuron-dev-tool/",
+    "pubDate": "Mon, 19 Oct 2026 20:09:24 +0000",
+    "source": "TechCrunch AI",
+    "category": "ai",
+    "content": "Amazon wants to break Nvidia’s hold on PyTorch, the free toolkit used to build most AI apps, so that more developers run their apps on alternative chips like its own.",
+    "image": "",
+    "summary": "",
+    "importance": 5
+  },
+  {
+    "title": "Hackers hit AI coding tool OpenCode, running up charges on users’ AI accounts",
+    "link": "https://techcrunch.com/2026/10/19/hackers-hit-ai-coding-tool-opencode-running-up-charges-on-users-ai-accounts/",
+    "pubDate": "Mon, 19 Oct 2026 19:28:34 +0000",
+    "source": "TechCrunch AI",
+    "category": "ai",
+    "content": "OpenCode is an open source AI coding agent that's become a popular alternative to Claude Code and Cursor. But hackers got into part of its online platform and stole some users’ API keys, and the AI tools it turned to for help kept refusing to look at the malicious code.",
+    "image": "",
+    "summary": "",
+    "importance": 5
+  },
+  {
+    "title": "Tolan snags $30M for its AI companion that helps users navigate life",
+    "link": "https://techcrunch.com/2026/10/19/tolan-snags-30m-for-its-ai-companion-that-helps-users-navigate-life/",
+    "pubDate": "Mon, 19 Oct 2026 19:00:12 +0000",
+    "source": "TechCrunch AI",
+    "category": "ai",
+    "content": "AI companion app Tolan has raised another $30 million after attracting more than 250,000 active users.",
+    "image": "",
+    "summary": "",
+    "importance": 5
+  },
+  {
+    "title": "Replika’s founder built the AI assistant she pitched at Disrupt 12 years ago",
+    "link": "https://techcrunch.com/2026/10/19/replikas-founder-built-the-ai-assistant-she-pitched-at-disrupt-12-years-ago/",
+    "pubDate": "Mon, 19 Oct 2026 18:49:04 +0000",
+    "source": "TechCrunch AI",
+    "category": "ai",
+    "content": "Eugenia Kuyda's newest startup Wabi is positioned to take advantage of an idea she had more than a decade ago. Wabi offers a personal AI assistant with a twist, free and downloadable to anyone today.",
+    "image": "",
+    "summary": "",
+    "importance": 5
+  },
+  {
+    "title": "Tenstorrent hits $6.2B valuation to scale open-weight AI chips",
+    "link": "https://techcrunch.com/2026/10/19/tenstorrent-hits-6-2b-valuation-to-scale-open-weight-ai-chips/",
+    "pubDate": "Mon, 19 Oct 2026 18:37:27 +0000",
+    "source": "TechCrunch AI",
+    "category": "ai",
+    "content": "After drawing acquisition interest earlier this year, the Nvidia challenger raised $1.5 billion to remain independent.",
     "image": "",
     "summary": "",
     "importance": 5
@@ -1029,7 +1117,7 @@
     "pubDate": "Mon, 19 Oct 2026 16:13:22 +0000",
     "source": "TechCrunch AI",
     "category": "ai",
-    "content": "Fed up with ads, tracking and sluggish interfaces, some smart TV owners are turning to AI agents to strip away bloatware and take back control of their TVs.",
+    "content": "Fed up with ads, tracking, and sluggish interfaces, some smart TV owners are turning to AI agents to strip away bloatware and take back control of their TVs.",
     "image": "",
     "summary": "",
     "importance": 5
@@ -1156,90 +1244,24 @@
     "importance": 5
   },
   {
-    "title": "Jev is Vercel’s fastest-adopted AI model ever",
-    "link": "https://techcrunch.com/2026/10/16/jev-is-vercels-fastest-adopted-ai-model-ever/",
-    "pubDate": "Fri, 16 Oct 2026 15:33:49 +0000",
-    "source": "TechCrunch AI",
+    "title": "The fossil fuel comeback is here",
+    "link": "https://www.theverge.com/science/1013954/fossil-fuel-power-infrastructure-data-centers-report",
+    "pubDate": "2026-10-19T21:48:01.000Z",
+    "source": "The Verge AI",
     "category": "ai",
-    "content": "The data comes from Vercel's AI gateway, a unified API service similar to OpenRouter.",
-    "image": "",
+    "content": "The US is building more fossil fuel infrastructure than it has in a decade while renewable energy growth slows down, a new report shows.\nElectricity demand is also climbing faster than it has in more than a decade with more data centers, factories, and electric vehicles plugging into the grid. Despite those growing demands, the Trump administration has sought to hobble the wind and solar industries in favor of fossil fuels.\nAmerica's energy landscape is already shifting as a result, according to the report published last week by the nonprofit Environmental Defense Fund and research firm Atlas Public Policy. If all the gas projects in the d …\nRead the full story at The Verge.",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25824781/STK438_CLIMATE_CHANGE_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
     "summary": "",
     "importance": 5
   },
   {
-    "title": "Mark Wahlberg on using AI in film ‘the right way’ and being open to an AI clone carrying on his legacy",
-    "link": "https://techcrunch.com/2026/10/16/mark-wahlberg-on-using-ai-in-film-the-right-way-and-being-open-to-an-ai-clone-carrying-on-his-legacy/",
-    "pubDate": "Fri, 16 Oct 2026 14:26:51 +0000",
-    "source": "TechCrunch AI",
+    "title": "CoreWeave&#8217;s debt is becoming the whole AI industry&#8217;s problem",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1014045/coreweave-stock-debt-sector-ai",
+    "pubDate": "2026-10-19T21:28:20.000Z",
+    "source": "The Verge AI",
     "category": "ai",
-    "content": "Actor and angel investor Mark Wahlberg says he's OK with using AI in filmmaking, provided it's used \"to enhance what you're doing.\"",
-    "image": "",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "Veritas expands its anti-counterfeit chip to jewelry, trophies, and fragrance bottles",
-    "link": "https://techcrunch.com/2026/10/16/veritas-is-building-a-chip-to-verify-luxury-goods/",
-    "pubDate": "Fri, 16 Oct 2026 14:00:00 +0000",
-    "source": "TechCrunch AI",
-    "category": "ai",
-    "content": "Counterfeiters are getting better at replicating brands' marks and passing off dupes, known as \"superfakes,\" as genuine items. A startup called Veritas wants to tackle the problem with its own chip that verifies goods.",
-    "image": "",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "Replit’s CEO says the future of work is the ‘self-driving company’",
-    "link": "https://techcrunch.com/2026/10/16/replits-ceo-says-the-future-of-work-is-the-self-driving-company/",
-    "pubDate": "Fri, 16 Oct 2026 12:55:09 +0000",
-    "source": "TechCrunch AI",
-    "category": "ai",
-    "content": "Replit CEO Amjad Masad envisions a future of “self-driving companies,” where AI agents handle day-to-day tasks and people focus on higher-level decisions.",
-    "image": "",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "When it came to Cal AI’s viral success, a small army of influencers paid off",
-    "link": "https://techcrunch.com/2026/10/15/when-it-came-to-cal-ais-viral-success-a-small-army-of-influencers-paid-off/",
-    "pubDate": "Thu, 15 Oct 2026 23:44:56 +0000",
-    "source": "TechCrunch AI",
-    "category": "ai",
-    "content": "The company generated over $30 million in revenue in two years and was acquired by MyFitnessPal for an undisclosed amount of money in March.",
-    "image": "",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "Meta launches an open-weight AI model that runs on Macs",
-    "link": "https://techcrunch.com/2026/10/15/meta-launches-an-open-weight-model-that-runs-on-macs/",
-    "pubDate": "Thu, 15 Oct 2026 20:04:53 +0000",
-    "source": "TechCrunch AI",
-    "category": "ai",
-    "content": "Meta and Apple have teamed up for the launch of the social media giant's newest model, Muse Spark Open, which will run locally on Apple silicon.",
-    "image": "",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "Amazon devices chief Panos Panay sees a future where AI devices replace the need to use apps",
-    "link": "https://techcrunch.com/2026/10/15/amazon-devices-chief-panos-panay-sees-a-future-where-ai-devices-replace-the-need-to-use-apps/",
-    "pubDate": "Thu, 15 Oct 2026 19:55:25 +0000",
-    "source": "TechCrunch AI",
-    "category": "ai",
-    "content": "Speaking at TechCrunch Disrupt, Amazon devices chief Panos Panay described a future where ambient AI devices work in the background, anticipating users' needs instead of waiting for commands.",
-    "image": "",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "Anthropic is letting METR researchers look under the hood with employee-level access",
-    "link": "https://techcrunch.com/2026/10/15/anthropic-is-letting-metr-researchers-look-under-the-hood-with-employee-level-access/",
-    "pubDate": "Thu, 15 Oct 2026 19:14:26 +0000",
-    "source": "TechCrunch AI",
-    "category": "ai",
-    "content": "METR will publish its own assessments of Anthropic’s risks, incidents, and practices, and the frontier AI model maker has given up the right to block them.",
-    "image": "",
+    "content": "CoreWeave had a bad week last week. Its bonds slipped into distressed territory by a common definition - when investors demand 1,000 basis points more in yield than they'd get from government bonds. Last Tuesady Chamath \"SPAC King\" Palihapitiya noticed the distressed debt, and also asked whether the AI buildout was a private credit bubble. Its shares are down more than 20 percent since Tuesday's close, which is kind of a lot! There even seemed to be some collateral damage in the market on other AI companies, too.\nNow, I have also asked if the AI industry is a bubble, but when the SPAC King echoes concerns held by a lady whose ongoing questi …\nRead the full story at The Verge.",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/Vrg_Illo_AI_Bubble.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
     "summary": "",
     "importance": 5
   },
@@ -1332,24 +1354,13 @@
     "importance": 5
   },
   {
-    "title": "ChatGPT can peek at your Chrome tabs now",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1012510/openai-chatgpt-google-chrome-tabs",
-    "pubDate": "2026-10-15T22:43:23.000Z",
-    "source": "The Verge AI",
+    "title": "Accused OpenAI spy had folder called “Saudi Gov Docs,” FBI says",
+    "link": "https://arstechnica.com/tech-policy/2026/10/accused-openai-spy-had-folder-called-saudi-gov-docs-fbi-says/",
+    "pubDate": "Mon, 19 Oct 2026 20:21:53 +0000",
+    "source": "Ars Technica AI",
     "category": "ai",
-    "content": "OpenAI's ChatGPT Atlas browser is gone, but now ChatGPT's Google Chrome extension is getting some upgrades that allow it to use the browser tabs you already have open. With the extension installed, OpenAI says ChatGPT can now view your browser tabs when you tag Chrome in ChatGPT's web or desktop app, posting a demo video showing someone asking ChatGPT to compare the three tabs they have open with sofas they're considering.\n\n\nA few big upgrades for Chrome users today! We're bringing the power of computer use to anyone who uses Chrome.\nFirst up: ChatGPT can now use your tabs in Chrome to make answers more useful and get things done for you. \nIf  …\n\n\nRead the full story at The Verge.",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Screenshot-2026-10-15-at-6.35.44-PM.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "Sega pulls Total War: Shogun 2 remaster from sale following disastrous launch",
-    "link": "https://www.theverge.com/games/1012512/sega-total-war-shogun-2-remaster-pulled",
-    "pubDate": "2026-10-15T22:35:55.000Z",
-    "source": "The Verge AI",
-    "category": "ai",
-    "content": "Sega is removing Total War: Shogun 2 - Complete Edition from storefronts following a disastrous launch where users complained about issues like bugs and upscaling that appears to have been done by AI.\nComplete Edition, a remaster of the 2011 strategy game, launched on Tuesday, and it bundled the main game and all of its DLC with promised upgrades including \"improved visuals,\" \"1440p and 4K UI scaling,\" and modernized controls. It has an \"Overwhelmingly Negative\" rating on Steam, where it has already been pulled, and posts on Reddit showcase artwork that users believe AI messed up.\n\n\n\n\n\n\"We're aware that Total War: Shogun 2 - Complete Editio …\nRead the full story at The Verge.",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/ca.com_news_thumbnailshogun2complete.png.webp?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "content": "US fears Saudi government will help ex-OpenAI engineer flee spying charges.",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2214263510-1024x648.jpg",
     "summary": "",
     "importance": 5
   },
@@ -1563,17 +1574,6 @@
     "importance": 5
   },
   {
-    "title": "Anthropic's Claude AI submitted false murder tip to Philadelphia police",
-    "link": "https://arstechnica.com/tech-policy/2026/10/anthropics-claude-ai-submitted-false-murder-tip-to-philadelphia-police/",
-    "pubDate": "Mon, 12 Oct 2026 18:21:36 +0000",
-    "source": "Ars Technica AI",
-    "category": "ai",
-    "content": "“I may have information regarding this case,\" Claude AI told Philly police.",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/claude-app-1152x648.jpg",
-    "summary": "",
-    "importance": 5
-  },
-  {
     "title": "Bitcoin extends bounce above $82,000 as stocks rebound, DeFi tokens lead altcoin gains",
     "link": "https://www.coindesk.com/markets/2026/10/19/bitcoin-extends-bounce-above-usd82-000-as-stocks-rebound-defi-tokens-lead-altcoin-gains",
     "pubDate": "Mon, 19 Oct 2026 10:26:33 +0000",
@@ -1586,18 +1586,6 @@
     "classified": true
   },
   {
-    "title": "Bitget to discontinue services for some users in one-off exercise   ",
-    "link": "https://cointelegraph.com/news/bitget-to-discontinue-services-for-some-users-in-one-off-exercise?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Sat, 17 Oct 2026 07:28:00 +0000",
-    "source": "Cointelegraph",
-    "category": "crypto",
-    "content": "Bitget says user funds are safe and exchange will continue to operate during the change.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5499P2SZPHXNNS2X8W74AV7/hi-how-are-governments-implementing-the-bitget-guidelines.jpg",
-    "summary": "Bitget, a cryptocurrency exchange, has announced it will discontinue services for some users as part of a one-off exercise. The exchange reassured the community that user funds are safe and that operations will continue for other users.",
-    "importance": 3,
-    "classified": true
-  },
-  {
     "title": "Crypto.com, Novig sue Missouri over sports event contracts; Kalshi, Polymarket, Robinhood hold off",
     "link": "https://www.theblock.co/news/regulation/2026-10-18-crypto-com-novig-sue-missouri-over-sports-event-contracts-kalshi-polymarket-robinhood-hold-off-418866",
     "pubDate": "Sun, 18 Oct 2026 19:50:28 +0000",
@@ -1607,6 +1595,18 @@
     "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2022/02/20220208_Crypto_Sports_Funding.jpg",
     "summary": "Crypto.com and Novig have filed lawsuits against Missouri concerning sports event contracts, after receiving cease-and-desist orders. Other companies, including Kalshi, Polymarket, Robinhood, and Underdog, also received these orders but have not initiated legal action in Missouri.",
     "importance": 3,
+    "classified": true
+  },
+  {
+    "title": "CME’s bitcoin cash, uniswap futures, global PMIs: Crypto Week Ahead",
+    "link": "https://www.coindesk.com/markets/2026/10/19/cme-s-bitcoin-cash-uniswap-futures-global-pmis-crypto-week-ahead",
+    "pubDate": "Mon, 19 Oct 2026 09:12:39 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "Your look at what's coming in the week starting Oct. 19.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/b119fde813835a73b12fcb4cb0e3a811abe61149-1500x1021.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "summary": "This article is an announcement for an upcoming 'Crypto Week Ahead' piece, outlining key events for the week starting October 19. It indicates coverage of CME's bitcoin cash and Uniswap futures, along with global PMIs, for the crypto community.",
+    "importance": 2,
     "classified": true
   },
   {
