@@ -72,6 +72,42 @@
     "classified": true
   },
   {
+    "title": "Ripple brings Wall Street into 24/7 stock bets, but HSBC warns markets are still thin",
+    "link": "https://www.coindesk.com/markets/2026/10/21/ripple-brings-wall-street-into-24-7-stock-bets-but-hsbc-warns-markets-are-still-thin",
+    "pubDate": "Wed, 21 Oct 2026 05:25:57 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "Institutions can trade through Ripple Prime and post RLUSD as collateral. Finding enough buyers and sellers for large positions could prove harder.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/c8c7f6825044fee913c004cc383e3b2cf0c7f787-1900x1268.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "summary": "Ripple is introducing Ripple Prime, a service that enables institutions to participate in 24/7 stock trading using its RLUSD stablecoin as collateral. However, HSBC warns that the markets for these trades are currently thin, which could pose challenges for large transactions.",
+    "importance": 8,
+    "classified": true
+  },
+  {
+    "title": "Solana’s Alpenglow, its biggest network overhaul since 2020, goes live Wednesday",
+    "link": "https://www.coindesk.com/tech/2026/10/21/solana-s-alpenglow-its-biggest-network-overhaul-since-2020-goes-live-wednesday",
+    "pubDate": "Wed, 21 Oct 2026 04:35:52 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "Alpenglow will replace the voting system Solana has used since 2020, targeting roughly 150-millisecond finality after months of testing that included a failed migration and rollback.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/2e14ef9e0ece47068da06c0d0405ba1e13c15bd8-3904x2196.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "summary": "Solana's major network overhaul, Alpenglow, is scheduled to go live, replacing the blockchain's voting system that has been in place since 2020. This significant upgrade aims to achieve a transaction finality of approximately 150 milliseconds after a period of extensive testing.",
+    "importance": 8,
+    "classified": true
+  },
+  {
+    "title": "Bitcoin hovers around $83,000 as AI earnings revive tech, ZEC jumps 11%",
+    "link": "https://www.coindesk.com/markets/2026/10/21/bitcoin-hovers-around-usd83-000-as-ai-earnings-revive-tech-zec-jumps-11",
+    "pubDate": "Wed, 21 Oct 2026 04:07:07 +0000",
+    "source": "CoinDesk",
+    "category": "both",
+    "content": "Strong results from SpaceX and Super Micro sent Asian chip stocks surging, and ZEC led crypto higher after developers set a date for its next network upgrade.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/f99e27db3acfaece32acc8d6b0dccd0e12b0fa46-1502x838.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "summary": "Bitcoin is trading around $83,000, with its movement linked to strong earnings from tech companies like Super Micro, which have boosted Asian chip stocks crucial for AI development. Meanwhile, ZEC saw an 11% jump after its developers announced a date for the next network upgrade.",
+    "importance": 8,
+    "classified": true
+  },
+  {
     "title": "U.S. CFTC sets agenda for AI forum, exploring trading and agentic finance",
     "link": "https://www.coindesk.com/policy/2026/10/20/u-s-cftc-sets-agenda-for-ai-forum-exploring-trading-and-agentic-finance",
     "pubDate": "Tue, 20 Oct 2026 21:12:21 +0000",
@@ -116,6 +152,18 @@
     "content": "Vault12 raised $17.45 million selling VGT in 2018 and says it met or dropped every promise, yet the token has never traded on a centralized exchange.",
     "image": "https://cdn.sanity.io/images/s3y3vcno/production/48b9d41fb73f3bb87ef8bdf94f1b18abcf14274e-4589x2365.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
     "summary": "Vault12 raised $17.45 million in 2018 by selling its VGT token, but despite claims of meeting all promises, the token has never traded on a centralized exchange. This problem is attributed to centralized exchanges' refusal to list legacy crypto tokens without explicit SEC immunity.",
+    "importance": 7,
+    "classified": true
+  },
+  {
+    "title": "Bitcoin risk management grows more popular as the 'just bet on price' era fades",
+    "link": "https://www.coindesk.com/daybook-us/2026/10/21/bitcoin-risk-management-grows-more-popular-as-the-just-bet-on-price-era-fades",
+    "pubDate": "Wed, 21 Oct 2026 11:15:00 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "Your day-ahead look for Oct. 21, 2026",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/da862fb7916d4885618625dfdbe53136329965d3-1920x1280.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "summary": "The article suggests that Bitcoin investors are increasingly adopting risk management practices, signaling a departure from the past era of solely betting on price. This shift indicates a growing maturity within the Bitcoin market.",
     "importance": 7,
     "classified": true
   },
@@ -168,6 +216,18 @@
     "classified": true
   },
   {
+    "title": "Zcash developers confirm November date for upgrade that triples payment speed",
+    "link": "https://www.coindesk.com/markets/2026/10/21/zcash-developers-confirm-november-date-for-upgrade-that-triples-payment-speed",
+    "pubDate": "Wed, 21 Oct 2026 08:10:12 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "The NU7 upgrade will cut the time between Zcash blocks to 25 seconds from 75 seconds. The chosen block height still has to be merged into the spec and shipped in node software.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/4c406a3e3098454cbb4f4d02cbcd26e638eb2a0e-1500x999.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "summary": "Zcash developers have confirmed their NU7 upgrade for November, which will significantly triple payment speed by reducing block time from 75 to 25 seconds. This enhancement is expected to improve transaction efficiency for the privacy-focused cryptocurrency.",
+    "importance": 7,
+    "classified": true
+  },
+  {
     "title": "OKX-ICE co-chair Andrew Cuomo calls corporate objections a ‘natural response’ to tokenized stock plans",
     "link": "https://www.coindesk.com/business/2026/10/20/okx-ice-s-andrew-cuomo-calls-issuer-objections-a-natural-response-to-tokenized-stock-plans",
     "pubDate": "Tue, 20 Oct 2026 18:26:29 +0000",
@@ -216,6 +276,18 @@
     "classified": true
   },
   {
+    "title": "A company that vouches for websites had secret keys so weak that 8 of them were cracked",
+    "link": "https://www.coindesk.com/tech/2026/10/21/a-company-that-vouches-for-websites-had-secret-keys-so-weak-that-8-of-them-were-cracked",
+    "pubDate": "Wed, 21 Oct 2026 04:11:58 +0000",
+    "source": "CoinDesk",
+    "category": "ai",
+    "content": "Eight secret keys at eMudhra, an Indian firm that vouches for websites, were compromised. This is a generic, not crypto-specific, risk.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/0f8965ca6a6c0e14d1a3edfca16d04dcc3b2aefc-1500x1125.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "summary": "Eight secret keys belonging to eMudhra, an Indian firm that validates website authenticity, were compromised due to their weak nature. This breach exposed a significant security vulnerability within the company's operations. The incident is considered a generic security risk, rather than one specific to cryptocurrency or AI technologies.",
+    "importance": 6,
+    "classified": true
+  },
+  {
     "title": "Here’s what happened in crypto today",
     "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "pubDate": "Wed, 21 Oct 2026 20:10:47 +0000",
@@ -228,68 +300,24 @@
     "classified": true
   },
   {
-    "title": "Bitcoin risk management grows more popular as the 'just bet on price' era fades",
-    "link": "https://www.coindesk.com/daybook-us/2026/10/21/bitcoin-risk-management-grows-more-popular-as-the-just-bet-on-price-era-fades",
-    "pubDate": "Wed, 21 Oct 2026 11:15:00 +0000",
-    "source": "CoinDesk",
+    "title": "PHP Foundation admits ‘structural failure’ delayed critical security fix ",
+    "link": "https://cointelegraph.com/news/php-foundation-admits-structural-failure-delayed-critical-security-fix?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Thu, 22 Oct 2026 00:44:00 +0000",
+    "source": "Cointelegraph",
     "category": "crypto",
-    "content": "Your day-ahead look for Oct. 21, 2026",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/da862fb7916d4885618625dfdbe53136329965d3-1920x1280.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "content": "Government websites and online services were disrupted after concerns about a PHP bug that could allow attackers to take control of vulnerable servers.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5GGTJWWHWMY5DQNPCZCMGFG/hi-what-is-dns-hijacking-2.jpg",
     "summary": "",
     "importance": 5
   },
   {
-    "title": "Zcash developers confirm November date for upgrade that triples payment speed",
-    "link": "https://www.coindesk.com/markets/2026/10/21/zcash-developers-confirm-november-date-for-upgrade-that-triples-payment-speed",
-    "pubDate": "Wed, 21 Oct 2026 08:10:12 +0000",
-    "source": "CoinDesk",
+    "title": "American Bankers Association: OCC’s GENIUS rules ‘undermine’ US Congress ",
+    "link": "https://cointelegraph.com/news/american-bankers-association-occ-genius-rules-stablecoins?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Wed, 21 Oct 2026 21:53:48 +0000",
+    "source": "Cointelegraph",
     "category": "crypto",
-    "content": "The NU7 upgrade will cut the time between Zcash blocks to 25 seconds from 75 seconds. The chosen block height still has to be merged into the spec and shipped in node software.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/4c406a3e3098454cbb4f4d02cbcd26e638eb2a0e-1500x999.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "Ripple brings Wall Street into 24/7 stock bets, but HSBC warns markets are still thin",
-    "link": "https://www.coindesk.com/markets/2026/10/21/ripple-brings-wall-street-into-24-7-stock-bets-but-hsbc-warns-markets-are-still-thin",
-    "pubDate": "Wed, 21 Oct 2026 05:25:57 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "Institutions can trade through Ripple Prime and post RLUSD as collateral. Finding enough buyers and sellers for large positions could prove harder.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/c8c7f6825044fee913c004cc383e3b2cf0c7f787-1900x1268.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "Solana’s Alpenglow, its biggest network overhaul since 2020, goes live Wednesday",
-    "link": "https://www.coindesk.com/tech/2026/10/21/solana-s-alpenglow-its-biggest-network-overhaul-since-2020-goes-live-wednesday",
-    "pubDate": "Wed, 21 Oct 2026 04:35:52 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "Alpenglow will replace the voting system Solana has used since 2020, targeting roughly 150-millisecond finality after months of testing that included a failed migration and rollback.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/2e14ef9e0ece47068da06c0d0405ba1e13c15bd8-3904x2196.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "A company that vouches for websites had secret keys so weak that 8 of them were cracked",
-    "link": "https://www.coindesk.com/tech/2026/10/21/a-company-that-vouches-for-websites-had-secret-keys-so-weak-that-8-of-them-were-cracked",
-    "pubDate": "Wed, 21 Oct 2026 04:11:58 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "Eight secret keys at eMudhra, an Indian firm that vouches for websites, were compromised. This is a generic, not crypto-specific, risk.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/0f8965ca6a6c0e14d1a3edfca16d04dcc3b2aefc-1500x1125.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "Bitcoin hovers around $83,000 as AI earnings revive tech, ZEC jumps 11%",
-    "link": "https://www.coindesk.com/markets/2026/10/21/bitcoin-hovers-around-usd83-000-as-ai-earnings-revive-tech-zec-jumps-11",
-    "pubDate": "Wed, 21 Oct 2026 04:07:07 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "Strong results from SpaceX and Super Micro sent Asian chip stocks surging, and ZEC led crypto higher after developers set a date for its next network upgrade.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/f99e27db3acfaece32acc8d6b0dccd0e12b0fa46-1502x838.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "content": "Banking advocacy organizations are pushing back against the OCC’s finalized rules on a stablecoin law, arguing against changes to provisions on yield.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5G2G8DNS83ZJANR3X4SZBVD/policymaker-bill-us-genius-act-1.jpg",
     "summary": "",
     "importance": 5
   },
@@ -591,24 +619,13 @@
     "importance": 5
   },
   {
-    "title": "Injective, BDACS plan Korean won stablecoin settlement for tokenized assets ",
-    "link": "https://cointelegraph.com/news/injective-bdacs-korean-won-stablecoin-tokenized-assets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Tue, 20 Oct 2026 16:47:48 +0000",
-    "source": "Cointelegraph",
+    "title": "Aerodrome and Velodrome merge to launch Aero across seven blockchain networks",
+    "link": "https://www.theblock.co/news/defi/2026-10-21-aerodrome-velodrome-merge-aero-421514",
+    "pubDate": "Thu, 22 Oct 2026 00:00:00 +0000",
+    "source": "The Block",
     "category": "crypto",
-    "content": "Injective and BDACS plan to bring won-backed stablecoin KRW1 to tokenized asset markets as South Korea develops a regulatory framework for local currency stablecoins.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5CY3MR3WZ537VDFZE18DZR5/south-korea-coin2.jpg",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "Stablecoin transfers quadruple to $891B as US banks expand adoption: Report",
-    "link": "https://cointelegraph.com/news/stablecoins-move-400m-an-hour-as-73-of-volume-occurs-outside-banking-hours-coinbase-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Tue, 20 Oct 2026 16:38:13 +0000",
-    "source": "Cointelegraph",
-    "category": "crypto",
-    "content": "Coinbase reports growing adoption by banks and businesses, even as stablecoin market capitalization remains largely unchanged over the past year.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5D18A9EH2CRG7XQSQ4MBY0Z/hi-global-standards-intergovernmental-groups-overview-of-different-bodies.png",
+    "content": "Aerodrome and Velodrome have merged to launch Aero across Ethereum mainnet, Base, Robinhood Chain, Ink, OP Mainnet, Arc, and Arbitrum.",
+    "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/10/Screenshot-2026-10-21-at-11.05.40.png",
     "summary": "",
     "importance": 5
   },
@@ -796,17 +813,6 @@
     "category": "crypto",
     "content": "OKX debuted OKX Shield in the U.S. on Tuesday, in what former New York Gov. Andrew Cuomo says is a sign of trust.",
     "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2022/09/20220928_OKX_Generic3.jpg",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "Mastercard opens early access to AI agent payments following pilots with Coinbase, Base and Cloudflare",
-    "link": "https://www.theblock.co/news/business/2026-10-20-mastercard-opens-early-access-to-ai-agent-payments-following-pilots-with-coinbase-base-and-cloudflare-421406",
-    "pubDate": "Tue, 20 Oct 2026 16:00:00 +0000",
-    "source": "The Block",
-    "category": "crypto",
-    "content": "Mastercard opened early access to Agent Pay for Machines after pilots with Coinbase, Base, Cloudflare, and other partners.",
-    "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/10/Screenshot-2026-10-20-at-15.36.27.png",
     "summary": "",
     "importance": 5
   },
@@ -1031,6 +1037,39 @@
     "importance": 5
   },
   {
+    "title": "Blackstone’s Jas Khaira says fears over AI-buildout debt are overblown",
+    "link": "https://techcrunch.com/2026/10/21/blackstones-jas-khaira-says-fears-over-ai-buildout-debt-are-overblown/",
+    "pubDate": "Wed, 21 Oct 2026 22:51:22 +0000",
+    "source": "TechCrunch AI",
+    "category": "ai",
+    "content": "Blackstone’s AI head on why the PE giant isn't panicked by market jitters.",
+    "image": "",
+    "summary": "",
+    "importance": 5
+  },
+  {
+    "title": "TechCrunch Founder Summit 2026: Everything you need to know ",
+    "link": "https://techcrunch.com/2026/10/21/techcrunch-founder-summit-2026-everything-you-need-to-know/",
+    "pubDate": "Wed, 21 Oct 2026 21:16:20 +0000",
+    "source": "TechCrunch AI",
+    "category": "ai",
+    "content": "TechCrunch Founder Summit is a full-day gathering in Boston on November 4 where founders across all stages connect with top VCs and experienced entrepreneurs to gain tactical insights on building and scaling their companies.",
+    "image": "",
+    "summary": "",
+    "importance": 5
+  },
+  {
+    "title": "Meta says Muse has over 10M users, with shopping a top activity",
+    "link": "https://techcrunch.com/2026/10/21/meta-says-muse-has-over-10m-users-with-shopping-a-top-activity/",
+    "pubDate": "Wed, 21 Oct 2026 21:14:19 +0000",
+    "source": "TechCrunch AI",
+    "category": "ai",
+    "content": "Meta Muse users are adopting the app for shopping and personal productivity, the company said during Q3 earnings. The AI app now has over 10M users.",
+    "image": "",
+    "summary": "",
+    "importance": 5
+  },
+  {
     "title": "Recursive launches Flint, a laptop coding model it says was largely built by AI",
     "link": "https://techcrunch.com/2026/10/21/recursive-launches-flint-a-laptop-coding-model-it-says-was-largely-built-by-ai/",
     "pubDate": "Wed, 21 Oct 2026 20:27:41 +0000",
@@ -1048,6 +1087,28 @@
     "source": "TechCrunch AI",
     "category": "ai",
     "content": "As Amazon blocks AI agents from shopping on its site, Walmart is taking the opposite approach, introducing new technology that lets AI agents make purchases on customers' behalf, with controls over spending and transaction approvals.",
+    "image": "",
+    "summary": "",
+    "importance": 5
+  },
+  {
+    "title": "PHP Armageddon: OpenAI, Google’s Wiz find ancient holes, panicking the internet",
+    "link": "https://techcrunch.com/2026/10/21/php-armageddon-openai-googles-wiz-find-ancient-holes-panicking-the-internet/",
+    "pubDate": "Wed, 21 Oct 2026 17:59:12 +0000",
+    "source": "TechCrunch AI",
+    "category": "ai",
+    "content": "This is the kind of security issue that was found and prevented by AI, but is also a high risk because of AI.",
+    "image": "",
+    "summary": "",
+    "importance": 5
+  },
+  {
+    "title": "Blacksmith hits unicorn valuation after Sequoia leads Series C",
+    "link": "https://techcrunch.com/2026/10/21/blacksmith-hits-unicorn-valuation-after-sequoia-leads-series-c/",
+    "pubDate": "Wed, 21 Oct 2026 17:18:27 +0000",
+    "source": "TechCrunch AI",
+    "category": "ai",
+    "content": "Blacksmith, a platform that lets companies build and test AI code more effectively, just announced a $66 million Series C round led by Sequoia that values the company at $1 billion.",
     "image": "",
     "summary": "",
     "importance": 5
@@ -1196,57 +1257,24 @@
     "importance": 5
   },
   {
-    "title": "US orders federal agencies to remove China’s DeepSeek AI from their systems",
-    "link": "https://techcrunch.com/2026/10/20/us-orders-federal-agencies-to-remove-chinas-deepseek-ai-from-their-systems/",
-    "pubDate": "Tue, 20 Oct 2026 13:07:24 +0000",
-    "source": "TechCrunch AI",
+    "title": "Data centers could erase decades of air quality gains",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1015958/data-center-pollution-rising-report",
+    "pubDate": "2026-10-21T22:33:44.000Z",
+    "source": "The Verge AI",
     "category": "ai",
-    "content": "The U.S. has ordered federal civilian agencies to remove DeepSeek products and third-party services built using its technology, citing national security concerns.",
-    "image": "",
+    "content": "A rush of new data centers could bring air pollution roaring back to levels not seen since the 2000s in Texas, which has become ground zero for the physical infrastructure behind generative AI.\nNew and proposed data centers are demanding a tremendous amount of electricity. How developers and utilities meet that demand - with gas turbines or renewable energy - will determine just how dirty things will get. So far, though, things are looking grim.\nTech companies and data center developers are devising new ways to get enough electricity, including building out their own power sources. But if all planned data center projects were to plug into  …\nRead the full story at The Verge.",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STKS528_DATA_CENTERS_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
     "summary": "",
     "importance": 5
   },
   {
-    "title": "Eka is worth $1.45B thanks to a physical AI model that has experts raving",
-    "link": "https://techcrunch.com/2026/10/20/eka-is-worth-1-45-billion-thanks-to-a-physical-ai-model-that-has-experts-raving/",
-    "pubDate": "Tue, 20 Oct 2026 13:00:00 +0000",
-    "source": "TechCrunch AI",
+    "title": "Meta to create a new class of shares to fund AI push",
+    "link": "https://www.theverge.com/tech/1015799/meta-shares-class-ai-q3-2026-earnings",
+    "pubDate": "2026-10-21T21:30:02.000Z",
+    "source": "The Verge AI",
     "category": "ai",
-    "content": "Eka Robotics may be the first robotic arm that is actually good at picking up a wide range of objects, and it is so smooth and human-like, it is wowing the industry.",
-    "image": "",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "Yelp can now call on your behalf to check wait times at a restaurant",
-    "link": "https://techcrunch.com/2026/10/20/yelp-can-now-call-on-your-behalf-to-check-wait-times-at-a-restaurant/",
-    "pubDate": "Tue, 20 Oct 2026 11:00:00 +0000",
-    "source": "TechCrunch AI",
-    "category": "ai",
-    "content": "Yelp is embedding numerous new AI features into its app that can do everything from call to check on restaurant wait times to create personalized recommendations that remember your preferences.",
-    "image": "",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "Otter AI raises $320M from General Catalyst’s growth fund for its meeting tool",
-    "link": "https://techcrunch.com/2026/10/20/otter-ai-raises-320-million-from-general-catalysts-growth-fund-for-its-meeting-tool/",
-    "pubDate": "Tue, 20 Oct 2026 11:00:00 +0000",
-    "source": "TechCrunch AI",
-    "category": "ai",
-    "content": "Otter.ai said that it will use these funds for enterprise growth, go-to-market strategy, international expansion, and product innovation.",
-    "image": "",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "Mamdani says feds have abdicated on AI, urges New Yorkers to push back",
-    "link": "https://techcrunch.com/2026/10/19/mamdani-says-feds-have-abdicated-on-ai-urges-new-yorkers-to-push-back/",
-    "pubDate": "Tue, 20 Oct 2026 01:27:03 +0000",
-    "source": "TechCrunch AI",
-    "category": "ai",
-    "content": "Mayor Zohran Mamdani said Monday night that New Yorkers must resist the narrative that an AI takeover is inevitable and demand regulations that protect the public and put power back in their hands.",
-    "image": "",
+    "content": "Meta says it's issuing a new class of shares to fund its AI initiatives. As part of its third-quarter earnings report released on Wednesday, the company says the non-voting stock will also go toward potential acquisitions and employee compensation, with trading beginning in 2027.\n\"The scale of investment required to compete, sustain growth, expand infrastructure, and pursue new strategic initiatives amidst the AI transformation taking place in the industry is significant,\" Meta says in the press release. Susan Li, Meta's chief financial officer, added during an earnings call that the new class of shares will \"expand our funding tools and gi …\nRead the full story at The Verge.",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25546023/STK043_META_CVIRGINIA_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
     "summary": "",
     "importance": 5
   },
@@ -1267,7 +1295,7 @@
     "pubDate": "2026-10-21T19:30:00.000Z",
     "source": "The Verge AI",
     "category": "ai",
-    "content": "Walmart will soon let AI agents shop on its website for you. Next month, the retail giant will allow you to connect your own AI agent to the site, with systems in place to let you approve and review purchases and set spending limits.\nThe embrace of AI agents stands in stark contrast to Amazon, which blocked Perplexity's shopping agent and Meta's Muse AI assistant. But Walmart is opening its doors to AI shoppers - as long as they follow the retailer's rules. It has outlined a set of terms for agents, saying that \"agents must not take actions beyond what the shopper intends\" and cannot change a customer's payment method. Agents also can only  …\nRead the full story at The Verge.",
+    "content": "Walmart will soon let AI agents shop on its website for you. Next month, the retail giant will allow you to use an AI agent on the site, with systems in place to let you approve and review purchases and set spending limits.\nThe embrace of AI agents stands in stark contrast to Amazon, which blocked Perplexity's shopping agent and Meta's Muse AI assistant. But Walmart is opening its doors to AI shoppers - as long as they follow the retailer's rules. It has outlined a set of terms for agents, saying that \"agents must not take actions beyond what the shopper intends\" and cannot change a customer's payment method. Agents also can only access inf …\nRead the full story at The Verge.",
     "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/gettyimages-2247092603.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
     "summary": "",
     "importance": 5
@@ -1335,28 +1363,6 @@
     "category": "ai",
     "content": "Spotify says it has removed more than 50 million songs considered AI-generated slop or spam from user recommendations over the past year. That's according to an announcement on Tuesday that says Spotify has also made changes to its recommendation system to highlight more music made by human artists.\n\"Our editors hold the same standard and don't program content identified as slop or spam,\" Spotify says. \"Since we made these changes, we've seen a marked decrease in listener concerns about this content showing up in recommendations.\" \nThough Spotify has stopped short of mandating labels on all AI tracks, it launched an \"AI Persona\" badge for  …\nRead the full story at The Verge.",
     "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23951391/STK088_VRG_Illo_N_Barclay_4_spotify.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "Adobe Lightroom mobile can now open closed eyes in photos with a simple tap",
-    "link": "https://www.theverge.com/tech/1014246/adobe-lightroom-mobile-ai-quick-action-open-eyes-closed-blink-repair",
-    "pubDate": "2026-10-20T13:06:44.000Z",
-    "source": "The Verge AI",
-    "category": "ai",
-    "content": "Adobe announced yesterday that the mobile version of Lightroom, available for iOS, iPadOS, and Android, can now open closed eyes in photos using generative AI with just a single tap. When the app detects a person, or a group of people, have their eyes closed in a photo it will automatically present users with a new Open Eyes Quick Action that appears as an icon over the image providing easy access to the new feature.\nBeing able to easily save an otherwise great photo by opening a subject's eyes has been a feature in Adobe's Photoshop Elements for nearly a decade, but as DPReview points out, Elements sources the replacement from another phot …\nRead the full story at The Verge.",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/lightroom1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "The fossil fuel comeback is here",
-    "link": "https://www.theverge.com/science/1013954/fossil-fuel-power-infrastructure-data-centers-report",
-    "pubDate": "2026-10-19T21:48:01.000Z",
-    "source": "The Verge AI",
-    "category": "ai",
-    "content": "The US is building more fossil fuel infrastructure than it has in a decade while renewable energy growth slows down, a new report shows.\nElectricity demand is also climbing faster than it has in more than a decade with more data centers, factories, and electric vehicles plugging into the grid. Despite those growing demands, the Trump administration has sought to hobble the wind and solar industries in favor of fossil fuels.\nAmerica's energy landscape is already shifting as a result, according to the report published last week by the nonprofit Environmental Defense Fund and research firm Atlas Public Policy. If all the gas projects in the d …\nRead the full story at The Verge.",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25824781/STK438_CLIMATE_CHANGE_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
     "summary": "",
     "importance": 5
   },
