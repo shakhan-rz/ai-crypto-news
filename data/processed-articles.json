@@ -1,5 +1,17 @@
 [
   {
+    "title": "Bitcoin Core changes security rules as AI makes finding code bugs dangerously easy",
+    "link": "https://www.coindesk.com/tech/2026/10/23/bitcoin-will-now-stop-hiding-bugs-an-ai-can-find-in-one-prompt",
+    "pubDate": "Fri, 23 Oct 2026 12:03:53 +0000",
+    "source": "CoinDesk",
+    "category": "both",
+    "content": "Developers merged a policy change that ends the months-long embargo for flaws a chatbot could rediscover, after a summer in which AI found hundreds of bitcoin bugs before the humans did.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/516fb9c73d621351eab5eec79a9ab7a268a7f595-1500x1000.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "summary": "Bitcoin Core developers have implemented a new security policy, ending a long-standing embargo on publicly disclosing rediscovered code flaws. This change was necessitated by AI chatbots, which have proven dangerously adept at finding hundreds of Bitcoin bugs much faster than human developers.",
+    "importance": 9,
+    "classified": true
+  },
+  {
     "title": "Senate's top Democratic investigator looking into Tether payments to Bo Hines' firm",
     "link": "https://www.coindesk.com/policy/2026/10/22/senate-s-top-democratic-investigator-looking-into-tether-payments-to-bo-hines-firm",
     "pubDate": "Thu, 22 Oct 2026 22:43:36 +0000",
@@ -24,6 +36,18 @@
     "classified": true
   },
   {
+    "title": "Live updates: Bitcoin holds above $81,000 as oil prices hit six-month high",
+    "link": "https://www.coindesk.com/markets/2026/10/23/live-updates-bitcoin-holds-above-usd81-000-as-the-ai-rout-fades-and-oil-climbs",
+    "pubDate": "Fri, 23 Oct 2026 11:13:01 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "Brent crude oil surged above $116 per barrel for the first time since late April.",
+    "image": "",
+    "summary": "The news indicates that Bitcoin is holding above the $81,000 mark. Concurrently, oil prices have seen a significant increase, with Brent crude surging past $116 per barrel, reaching a six-month high.",
+    "importance": 8,
+    "classified": true
+  },
+  {
     "title": "HSBC rolls out its first stablecoin to over 3 million everyday app users",
     "link": "https://www.coindesk.com/business/2026/10/23/hsbc-rolls-out-its-first-stablecoin-to-over-3-million-everyday-app-users",
     "pubDate": "Fri, 23 Oct 2026 10:22:56 +0000",
@@ -36,6 +60,18 @@
     "classified": true
   },
   {
+    "title": "Sweden’s central bank revives e-krona debate as stablecoins and digital euro loom",
+    "link": "https://www.coindesk.com/business/2026/10/23/sweden-s-central-bank-revives-e-krona-debate-as-stablecoins-and-digital-euro-loom",
+    "pubDate": "Fri, 23 Oct 2026 08:57:34 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "The Riksbank sees an e-krona as critical to securing national payments and monetary control.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/07c0b01c52b8b1c0aac2e6f37d5be148567cc67b-1920x1280.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "summary": "Sweden's central bank, the Riksbank, is reigniting discussions surrounding its e-krona project. The bank views the implementation of a national digital currency as crucial for maintaining control over domestic payments and monetary policy, especially with the rise of stablecoins and the looming prospect of a digital euro.",
+    "importance": 8,
+    "classified": true
+  },
+  {
     "title": "India's largest exchange denies hack after sleuths pointed to $16 million in suspicious outflows",
     "link": "https://www.coindesk.com/markets/2026/10/23/india-s-largest-exchange-denies-hack-after-blockchain-sleuths-pointed-to-usd16-million-in-suspicious-outflows",
     "pubDate": "Fri, 23 Oct 2026 08:02:35 +0000",
@@ -44,6 +80,18 @@
     "content": "CoinDCX denies its active wallets were hacked after sleuths flagged $16 million in outflows from addresses linked to the India-based exchange.",
     "image": "https://cdn.sanity.io/images/s3y3vcno/production/a3eceb8aeec24d03372ed17e149a9e6c5b546972-2304x1296.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
     "summary": "India's largest cryptocurrency exchange, CoinDCX, has denied that its active wallets were hacked. This denial comes after blockchain sleuths identified suspicious outflows totaling $16 million from addresses linked to the exchange.",
+    "importance": 8,
+    "classified": true
+  },
+  {
+    "title": "Ethereum delays Glamsterdam test after security devs flag risk to existing contracts",
+    "link": "https://www.coindesk.com/tech/2026/10/23/ethereum-delays-glamsterdam-test-after-security-devs-flag-risk-to-existing-contracts",
+    "pubDate": "Fri, 23 Oct 2026 04:59:34 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "Developers canceled Monday's Hoodi activation after researchers showed how new gas rules could let smart contracts permanently record failed operations.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/c357579ddef2051b405b9e89f8525dd02709081d-5760x3240.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "summary": "Ethereum has canceled its Hoodi test activation, part of the Glamsterdam update, after security developers identified a critical risk. Researchers found that new gas rules could enable smart contracts to permanently record failed operations, potentially impacting existing contracts.",
     "importance": 8,
     "classified": true
   },
@@ -72,42 +120,6 @@
     "classified": true
   },
   {
-    "title": "China seeks to seize 61,800 BTC tied to $5.7 billion fraud scheme",
-    "link": "https://www.coindesk.com/markets/2026/10/22/china-seeks-to-seize-61-800-btc-tied-to-usd5-7-billion-fraud-scheme",
-    "pubDate": "Thu, 22 Oct 2026 06:24:10 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "Chinese prosecutors are seeking to confiscate more than 61,800 Bitcoin tied to a $5.7 billion fraud scheme, days after a U.K. court ruled Chinese law governs victims’ claims to the coins.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/8b075d099e598ae6a929e4d56c9a2336b815d242-4709x3143.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-    "summary": "Chinese prosecutors are seeking to confiscate over 61,800 Bitcoin, valued at approximately $5.7 billion, which are tied to a massive fraud scheme. This move follows a UK court ruling that Chinese law governs the claims of victims to these digital assets.",
-    "importance": 8,
-    "classified": true
-  },
-  {
-    "title": "Solana’s biggest network change since 2020 is live. Here’s how users benefit",
-    "link": "https://www.coindesk.com/tech/2026/10/22/solana-completes-alpenglow-upgrade-here-s-what-it-means-for-users",
-    "pubDate": "Thu, 22 Oct 2026 05:24:58 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "The new voting system targets settlement in about 150 milliseconds, potentially shortening waits for payments and deposits. Users can keep their existing wallets.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/54c0f3b41e62df4cdf774aab4c7d68c64e5e976c-1920x1080.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-    "summary": "Solana has rolled out its most significant network upgrade since 2020, introducing a new voting system designed to achieve settlement times of approximately 150 milliseconds. This update is expected to accelerate payments and deposits for users, who will also retain their existing wallets.",
-    "importance": 8,
-    "classified": true
-  },
-  {
-    "title": "Bitcoin ETFs attract $1.08 billion in 3 days but it may not be enough for a steep rally",
-    "link": "https://www.coindesk.com/markets/2026/10/22/bitcoin-etfs-attract-usd1-08-billion-in-3-days-but-it-may-not-be-enough-for-a-steep-rally",
-    "pubDate": "Thu, 22 Oct 2026 04:41:59 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "Past steep rallies ran on about $235 million a day of net inflows into ETFs. The funds are yet to match that pace, according to data analyzed by CoinDesk.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/e0742713d55788f217ee9802b43c2a1cf22f5434-1600x900.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-    "summary": "Bitcoin ETFs have attracted $1.08 billion in net inflows over three days, a significant sum. However, this daily average of inflows is lower than the pace of approximately $235 million per day that fueled past steep rallies, suggesting it may not be sufficient for an immediate sharp price increase.",
-    "importance": 8,
-    "classified": true
-  },
-  {
     "title": "Dune launches real-time data feeds covering 200 onchain trading venues ",
     "link": "https://cointelegraph.com/news/dune-launches-real-time-data-feeds-covering-200-onchain-trading-venues?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "pubDate": "Thu, 22 Oct 2026 20:36:00 +0000",
@@ -129,6 +141,18 @@
     "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5J7FAXETYN97CD5E364S7XH/hi-why-texas-crypto-reserve-move-signals-a-shift-in-government-crypto-policy.jpg",
     "summary": "A PAC launched by the Winklevoss twins, co-founders of the crypto exchange Gemini, has made an $81,000 ad buy in a Texas Senate race. This move marks one of the crypto-aligned committee's initial ventures into the state, following broader trends of increased political spending by similar groups.",
     "importance": 8,
+    "classified": true
+  },
+  {
+    "title": "Robinhood sees surge in bitcoin, gold prediction markets as traders move beyond sports",
+    "link": "https://www.coindesk.com/markets/2026/10/23/robinhood-sees-surge-in-bitcoin-gold-prediction-markets-as-traders-move-beyond-sports",
+    "pubDate": "Fri, 23 Oct 2026 13:58:56 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "The company's head of futures and prediction markets said bitcoin, gold and oil contracts are among its fastest-growing prediction markets.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/9655eada3129b642b283dac1319e070000a740b5-6960x4640.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "summary": "Robinhood is experiencing a significant surge in its prediction markets for assets such as Bitcoin, gold, and oil. This growth indicates a shift in trader interest beyond traditional sports betting, with these contracts among the company's fastest-growing offerings.",
+    "importance": 7,
     "classified": true
   },
   {
@@ -230,7 +254,7 @@
   {
     "title": "Here’s what happened in crypto today",
     "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Fri, 23 Oct 2026 05:15:14 +0000",
+    "pubDate": "Fri, 23 Oct 2026 13:38:53 +0000",
     "source": "Cointelegraph",
     "category": "crypto",
     "content": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
@@ -250,28 +274,6 @@
     "summary": "Underdog is partnering with zerohash to introduce crypto deposits to its prediction markets, expected to launch later this year. This new funding option will allow eligible users to deposit digital assets around the clock.",
     "importance": 6,
     "classified": true
-  },
-  {
-    "title": "Sweden’s central bank revives e-krona debate as stablecoins and digital euro loom",
-    "link": "https://www.coindesk.com/business/2026/10/23/sweden-s-central-bank-revives-e-krona-debate-as-stablecoins-and-digital-euro-loom",
-    "pubDate": "Fri, 23 Oct 2026 08:57:34 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "The Riksbank sees an e-krona as critical to securing national payments and monetary control.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/07c0b01c52b8b1c0aac2e6f37d5be148567cc67b-1920x1280.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "Ethereum delays Glamsterdam test after security devs flag risk to existing contracts",
-    "link": "https://www.coindesk.com/tech/2026/10/23/ethereum-delays-glamsterdam-test-after-security-devs-flag-risk-to-existing-contracts",
-    "pubDate": "Fri, 23 Oct 2026 04:59:34 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "Developers canceled Monday's Hoodi activation after researchers showed how new gas rules could let smart contracts permanently record failed operations.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/c357579ddef2051b405b9e89f8525dd02709081d-5760x3240.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-    "summary": "",
-    "importance": 5
   },
   {
     "title": "Cardano holders are being asked to bet $5 million on copper hitting a new record",
@@ -296,16 +298,70 @@
     "importance": 5
   },
   {
-    "title": "XRP Ledger bug fix moved to November after validator support dipped for two hours",
-    "link": "https://www.coindesk.com/tech/2026/10/22/xrp-ledger-bug-fix-moved-to-november-after-validator-support-dipped-for-two-hours",
-    "pubDate": "Thu, 22 Oct 2026 04:36:20 +0000",
-    "source": "CoinDesk",
+    "title": "SEC flags tokenization as high-risk area in 2027 market examinations",
+    "link": "https://cointelegraph.com/news/sec-adds-tokenized-securities-to-2027-examination-priorities?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Fri, 23 Oct 2026 16:08:40 +0000",
+    "source": "Cointelegraph",
     "category": "crypto",
-    "content": "The fix lost its two-week countdown less than two days from the finish after support slipped to 26 of 35 validators. It’s now back at 31.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/b1652fc6b3b74f0a93f6349c9b655b6a575d3cf5-1260x840.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-    "summary": "An XRP Ledger bug fix has been postponed to November after validator support briefly dipped, causing the two-week countdown for its implementation to be reset. Support fell to 26 out of 35 validators before recovering to 31.",
-    "importance": 5,
-    "classified": true
+    "content": "The SEC’s latest priorities highlight tokenization as an emerging market risk, while cryptocurrencies remain absent as a standalone examination category.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5MP9HHR5PTKGP6MBRZ5FNFH/hi-irs-joins-the-j5-international-crypto-tax-enforcement-coming-next1.png",
+    "summary": "",
+    "importance": 5
+  },
+  {
+    "title": "Bitcoin seeks support above $81K as Brent crude oil hits highest level since March ",
+    "link": "https://cointelegraph.com/markets/bitcoin-seeks-support-above-81k-as-brent-crude-oil-hits-highest-level-since-march?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Fri, 23 Oct 2026 15:39:17 +0000",
+    "source": "Cointelegraph",
+    "category": "crypto",
+    "content": "Bitcoin dipped below $81,000 as stocks fell and Brent crude hit its highest level since March, leaving the 50-day moving average in focus.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5MPBY5231GNMGE2Q9V1FYVN/hi-crypto-offers-russia-no-way-out-from-western-sanctions2-1.jpg",
+    "summary": "",
+    "importance": 5
+  },
+  {
+    "title": "China targets 2030 for its national blockchain network buildout",
+    "link": "https://cointelegraph.com/news/china-2030-national-blockchain-network-buildout?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Fri, 23 Oct 2026 13:21:07 +0000",
+    "source": "Cointelegraph",
+    "category": "crypto",
+    "content": "China’s five-year digital development plan calls for wider blockchain use in trade and manufacturing alongside stronger technical standards.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5MEGNPQ3M8HRRFF6ZWNHZKK/chinese-blockchain-patents.jpg",
+    "summary": "",
+    "importance": 5
+  },
+  {
+    "title": "New York AG seeks $1.37B from NovaTech founders over Ponzi scheme",
+    "link": "https://cointelegraph.com/news/new-york-ag-novatech-founders-companies-crypto-ponzi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Fri, 23 Oct 2026 12:33:37 +0000",
+    "source": "Cointelegraph",
+    "category": "crypto",
+    "content": "The request follows an August 2025 default judgment, with the AG also announcing nearly $6 million in settlements with four promoters.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5M9W5Y4WRYGA8MNYB0WFHZF/hi-status-of-prediction-market-battle-3.jpg",
+    "summary": "",
+    "importance": 5
+  },
+  {
+    "title": "Bitcoin consolidates after 3% loss as AI fears stoke fresh stock-market weakness",
+    "link": "https://cointelegraph.com/markets/bitcoin-consolidates-after-3-loss-as-ai-fears-stoke-fresh-stock-market-weakness?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Fri, 23 Oct 2026 12:23:58 +0000",
+    "source": "Cointelegraph",
+    "category": "crypto",
+    "content": "Bitcoin price volatility cooled as stock markets battled another day of resurgent AI fears during Friday’s Asia trading session.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M51V1P8ZQ063ADC4P2T050NT/market-red-graph-falling-danger-stones-bitcoin-4.jpg",
+    "summary": "",
+    "importance": 5
+  },
+  {
+    "title": "Was crypto self-custody ever designed for beginners?",
+    "link": "https://cointelegraph.com/news/self-custody-crypto-beginners-mainstream-adoption?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Fri, 23 Oct 2026 11:47:47 +0000",
+    "source": "Cointelegraph",
+    "category": "crypto",
+    "content": "Recent hardware wallet security incidents have renewed debate over whether self-custody is suitable for beginners, as multisig and seedless designs carry their own risks.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5KXQCE4PMMZDTHNGM7946XD/hi-self-custody-of-cryptocurrencies-is-your-own-wallet-really-safer-for-private-investors.jpg",
+    "summary": "",
+    "importance": 5
   },
   {
     "title": "Cysic dangles a 10% bounty, hacker pours loot into Tornado Cash",
@@ -528,68 +584,35 @@
     "importance": 5
   },
   {
-    "title": "CoinDCX admits ‘operational losses’ after $16M wallet transfers draw scrutiny",
-    "link": "https://cointelegraph.com/news/coindcx-suspicious-outflows-wallet-compromised-2025-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Thu, 22 Oct 2026 10:53:10 +0000",
-    "source": "Cointelegraph",
+    "title": "Phantom rolls out Kalshi prediction markets to US users, says it’s ‘confident and comfortable’ amid state lawsuits",
+    "link": "https://www.theblock.co/news/markets/2026-10-23-phantom-rolls-out-kalshi-prediction-markets-us-421652",
+    "pubDate": "Fri, 23 Oct 2026 13:00:00 +0000",
+    "source": "The Block",
     "category": "crypto",
-    "content": "CoinDCX said it covered losses caused by a failed transfer process involving compromised wallets and credited all affected user accounts.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5HF5EN0WZ0ZGS5T8DTYKV1S/hi-the-perfect-storm-cybercrime-surge.jpg",
+    "content": "Phantom users will fund trades with CASH stablecoins, with market restrictions applied in Michigan, Nevada and Washington.",
+    "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2024/11/20241125_Phantom_News_2.jpg",
     "summary": "",
     "importance": 5
   },
   {
-    "title": "Bitcoin corrects below $82K after Tesla Q3 results, KOSPI falls ",
-    "link": "https://cointelegraph.com/markets/bitcoin-corrects-below-82k-after-tesla-q3-results-kospi-falls?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Thu, 22 Oct 2026 10:38:51 +0000",
-    "source": "Cointelegraph",
+    "title": "Singapore, Malaysia and Thailand central banks expand cross-border stablecoin initiative involving Ripple, Visa and Mastercard",
+    "link": "https://www.theblock.co/news/regulation/2026-10-23-singapore-malaysia-and-thailand-central-banks-expand-cross-border-stablecoin-initiative-involving-ripple-visa-and-mastercard-426492",
+    "pubDate": "Fri, 23 Oct 2026 12:55:26 +0000",
+    "source": "The Block",
     "category": "crypto",
-    "content": "Bitcoin reversed a run toward $85,000 after Tesla reported lower-than-expected capital expenditure in Q3.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5HJSXMPY51PCJ82B9PXHE2E/hi-market-correction-vs-bear-market-btc-2.jpg",
+    "content": "Malaysia and Thailand have joined Singapore's BLOOM initiative for cross-border stablecoin and tokenized deposit settlement.",
+    "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/10/Screenshot-2026-10-23-at-13.23.12.png",
     "summary": "",
     "importance": 5
   },
   {
-    "title": "Starknet voters back research into life beyond Ethereum",
-    "link": "https://cointelegraph.com/news/starknet-vote-post-quantum-l1-research-ethereum?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Thu, 22 Oct 2026 09:37:54 +0000",
-    "source": "Cointelegraph",
+    "title": "Bitcoin ETFs swing back to net outflows as $636 million in withdrawals erase previous day’s inflows",
+    "link": "https://www.theblock.co/news/markets/2026-10-23-bitcoin-etfs-swing-back-to-net-outflows-erase-previous-day-inflows-426483",
+    "pubDate": "Fri, 23 Oct 2026 11:39:45 +0000",
+    "source": "The Block",
     "category": "crypto",
-    "content": "StarkWare plans to release a draft whitepaper in November as it explores an independent, quantum-resistant blockchain.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5HD0868XDVMAEX50APTK2HS/quantum.png",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "PHP flaw draws millions of exploit attempts, Cloudflare CEO warns",
-    "link": "https://cointelegraph.com/news/cloudflare-millions-exploit-attempts-php-vulnerability-disclosure?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Thu, 22 Oct 2026 09:06:02 +0000",
-    "source": "Cointelegraph",
-    "category": "crypto",
-    "content": "Cloudflare’s Matthew Prince said the network saw thousands of exploit attempts even before the PHP vulnerability was publicly disclosed.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5HCAK0M3P221WDQM62JF33T/hi-why-address-poisoning-works-without-stealing-private-keys-1.jpg",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "Bitcoin ETFs bag another $528M, taking 3-day haul past $1B",
-    "link": "https://cointelegraph.com/markets/bitcoin-etfs-528-million-btc-tops-84k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Thu, 22 Oct 2026 07:37:32 +0000",
-    "source": "Cointelegraph",
-    "category": "crypto",
-    "content": "US spot Bitcoin ETFs drew $1.08 billion over three trading sessions to push October flows back above water.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1NJXA13RF9N1Q13C8RH5D6G/surfing-blockchain-wave-etf-1.jpg",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "Move over memecoins: Crypto ‘meme games’ coming, bagholders and all",
-    "link": "https://cointelegraph.com/news/move-over-memecoins-crypto-meme-games-coming-bagholders-and-all?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Thu, 22 Oct 2026 05:35:38 +0000",
-    "source": "Cointelegraph",
-    "category": "crypto",
-    "content": "“Plenty will be ponzis. Plenty will get exploited. Plenty will insta die. There will be ridiculous gains, and people will get absolutely f***ing rinsed,” says Illuvium co-founder Kieran Warwick.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5H1AQMX8R4G54PG9X27A71M/crypto-meme-games.jpg",
+    "content": "BlackRock's IBIT led Thursday's net outflows with $254.1 million, while four other funds also witnessed withdrawals.",
+    "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/10/Screenshot-2026-10-23-at-12.06.59.png",
     "summary": "",
     "importance": 5
   },
@@ -770,46 +793,68 @@
     "importance": 5
   },
   {
-    "title": "Aerodrome and Velodrome merge to launch Aero across seven blockchain networks",
-    "link": "https://www.theblock.co/news/defi/2026-10-21-aerodrome-velodrome-merge-aero-421514",
-    "pubDate": "Thu, 22 Oct 2026 00:00:00 +0000",
-    "source": "The Block",
+    "title": "Franklin Templeton Clears Final Hurdle For ETFs That Turn Stock Dividends Into Bitcoin",
+    "link": "https://bitcoinmagazine.com/news/franklin-templeton-clears-final-hurdle",
+    "pubDate": "Fri, 23 Oct 2026 15:40:05 +0000",
+    "source": "Bitcoin Magazine",
     "category": "crypto",
-    "content": "Aerodrome and Velodrome have merged to launch Aero across Ethereum mainnet, Base, Robinhood Chain, Ink, OP Mainnet, Arc, and Arbitrum.",
-    "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/10/Screenshot-2026-10-21-at-11.05.40.png",
+    "content": "Bitcoin Magazine\n\nFranklin Templeton Clears Final Hurdle For ETFs That Turn Stock Dividends Into Bitcoin\nFranklin Templeton, the $1.7 trillion asset manager, registered two Nasdaq-listed funds yesterday. Both launch with a 95/5 split between U.S. stocks and bitcoin, and every dividend buys more bitcoin.\nThis post Franklin Templeton Clears Final Hurdle For ETFs That Turn Stock Dividends Into Bitcoin first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
+    "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/06/Franklin-Templeton-Files-for-Two-ETFs-That-Reinvest-Stock-Dividends-Into-Bitcoin.jpg",
     "summary": "",
     "importance": 5
   },
   {
-    "title": "Robinhood single-stock perps could be a ‘strong positive’ for HOOD shares, Mizuho says",
-    "link": "https://www.theblock.co/news/business/2026-10-21-robinhood-single-stock-perpetual-futures-mizuho-survey-421639",
-    "pubDate": "Wed, 21 Oct 2026 18:54:36 +0000",
-    "source": "The Block",
+    "title": "Bank of Korea Wants Stablecoins Written Into Forex Law as Crypto Bill and Tax Fight Come to a Head",
+    "link": "https://bitcoinmagazine.com/news/bank-of-korea-crypto-bill-and-tax",
+    "pubDate": "Fri, 23 Oct 2026 14:01:41 +0000",
+    "source": "Bitcoin Magazine",
     "category": "crypto",
-    "content": "A Mizuho survey of 600+ Robinhood users finds 94% would trade single-stock perpetual futures, mostly with new money.",
-    "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2025/12/20251208_Robinhood_News_3.jpg",
+    "content": "Bitcoin Magazine\n\nBank of Korea Wants Stablecoins Written Into Forex Law as Crypto Bill and Tax Fight Come to a Head\nThe Bank of Korea told lawmakers it will draft a forex law amendment this year to regulate stablecoins as a means of payment, a plan that points to tighter cross-border controls rather than legal-tender status.\nThis post Bank of Korea Wants Stablecoins Written Into Forex Law as Crypto Bill and Tax Fight Come to a Head first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
+    "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/09/Bitcoin-Kimchi-Premium-Is-Back-as-Price-Spikes-Higher-in-South-Korea.jpg",
     "summary": "",
     "importance": 5
   },
   {
-    "title": "American Bankers Association accuses OCC of undermining Congress with final stablecoin rewards rule",
-    "link": "https://www.theblock.co/news/regulation/2026-10-21-american-bankers-association-accuses-occ-undermining-congress-stablecoin-rewards-rule-421629",
-    "pubDate": "Wed, 21 Oct 2026 17:59:36 +0000",
-    "source": "The Block",
+    "title": "Stand With Crypto Director: The Crypto Vote Will Decide the Midterms | Mason Lynaugh",
+    "link": "https://bitcoinmagazine.com/videos/stand-with-crypto-director-the-crypto-vote-will-decide-the-midterms-mason-lynaugh",
+    "pubDate": "Fri, 23 Oct 2026 13:33:32 +0000",
+    "source": "Bitcoin Magazine",
     "category": "crypto",
-    "content": "The fight between banks and crypto has reignited after a top banking regulator declined to weigh in on third-party stablecoin rewards.",
-    "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2019/07/congress-outside-alt-e1576830696475.jpg",
+    "content": "▶\n\nBitcoin Magazine\n\nStand With Crypto Director: The Crypto Vote Will Decide the Midterms | Mason Lynaugh\nAhead of midterms, Stand With Crypto's Mason Lynaugh breaks down a 3.1M-advocate push, explaining why crypto swing voters will forge the most pro-BTC Congress.\nThis post Stand With Crypto Director: The Crypto Vote Will Decide the Midterms | Mason Lynaugh first appeared on Bitcoin Magazine and is written by Patrick Green.",
+    "image": "https://img.youtube.com/vi/gA0HvXtJj-Y/hqdefault.jpg",
     "summary": "",
     "importance": 5
   },
   {
-    "title": "Dataline raises $10.6 million for decentralized data network for AI agents, plans ICO",
-    "link": "https://www.theblock.co/news/deals/2026-10-21-dataline-decentralized-data-network-ai-agents-funding-ico-421596",
-    "pubDate": "Wed, 21 Oct 2026 16:44:01 +0000",
-    "source": "The Block",
+    "title": "Parker Lewis: Bitcoin Will Settle 100% of Global Payments",
+    "link": "https://bitcoinmagazine.com/videos/parker-lewis-bitcoin-will-settle-100-of-global-payments",
+    "pubDate": "Fri, 23 Oct 2026 13:28:16 +0000",
+    "source": "Bitcoin Magazine",
     "category": "crypto",
-    "content": "The startup also plans to hold a public token sale through Uniswap's auction platform, with details expected next week.",
-    "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2025/04/20250411_Funding_News_3.jpg",
+    "content": "▶\n\nBitcoin Magazine\n\nParker Lewis: Bitcoin Will Settle 100% of Global Payments\nParker Lewis argues Bitcoin will settle all global payments as $107T in debt strains the credit system, driving merchants toward zero-fee adoption.\nThis post Parker Lewis: Bitcoin Will Settle 100% of Global Payments first appeared on Bitcoin Magazine and is written by Patrick Green.",
+    "image": "https://img.youtube.com/vi/2fwLwpDPdtU/hqdefault.jpg",
+    "summary": "",
+    "importance": 5
+  },
+  {
+    "title": "Block Releases THE Bitcoin National Ad Campaign",
+    "link": "https://bitcoinmagazine.com/videos/block-releases-the-bitcoin-national-ad-campaign",
+    "pubDate": "Fri, 23 Oct 2026 13:21:52 +0000",
+    "source": "Bitcoin Magazine",
+    "category": "crypto",
+    "content": "▶\n\nBitcoin Magazine\n\nBlock Releases THE Bitcoin National Ad Campaign\nBlock launches 'Bitcoin Does' to onboard millions. Head of Bitcoin Marketing Maria Pesce explains how the campaign focuses on real-world utility over tech.\nThis post Block Releases THE Bitcoin National Ad Campaign first appeared on Bitcoin Magazine and is written by Patrick Green.",
+    "image": "https://img.youtube.com/vi/E6capAzmJ3Q/hqdefault.jpg",
+    "summary": "",
+    "importance": 5
+  },
+  {
+    "title": "Bloomberg’s Mike McGlone: AI Risk Could Force Bitcoin Drawdown to $10,000",
+    "link": "https://bitcoinmagazine.com/videos/bloombergs-mike-mcglone-ai-risk-could-force-bitcoin-drawdown-to-10000",
+    "pubDate": "Fri, 23 Oct 2026 13:18:04 +0000",
+    "source": "Bitcoin Magazine",
+    "category": "crypto",
+    "content": "▶\n\nBitcoin Magazine\n\nBloomberg’s Mike McGlone: AI Risk Could Force Bitcoin Drawdown to $10,000\nBloomberg's Mike McGlone warns Bitcoin could drop to $10K, citing ETF exhaustion, stock correlation, Fed rate hikes, and macro headwinds across assets.\nThis post Bloomberg’s Mike McGlone: AI Risk Could Force Bitcoin Drawdown to $10,000 first appeared on Bitcoin Magazine and is written by Patrick Green.",
+    "image": "https://img.youtube.com/vi/apgtvAVmUTA/hqdefault.jpg",
     "summary": "",
     "importance": 5
   },
@@ -858,68 +903,13 @@
     "importance": 5
   },
   {
-    "title": "Utexo Opens Utexo Mint Early Access for USDT on Bitcoin Ahead of November 28 Launch",
-    "link": "https://bitcoinmagazine.com/news/utexo-opens-early-access-to-usdt-on-bitcoin-through-utexo-mint",
-    "pubDate": "Thu, 22 Oct 2026 16:26:52 +0000",
-    "source": "Bitcoin Magazine",
-    "category": "crypto",
-    "content": "Bitcoin Magazine\n\nUtexo Opens Utexo Mint Early Access for USDT on Bitcoin Ahead of November 28 Launch\nUtexo has opened Utexo Mint, letting verified professional operators test minting, confidential transfers, and redemption of USDT on Bitcoin via RGB ahead of the November 28 public launch.\nThis post Utexo Opens Utexo Mint Early Access for USDT on Bitcoin Ahead of November 28 Launch first appeared on Bitcoin Magazine and is written by Juan Galt.",
-    "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/10/tn-4.webp",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "Bitcoin Slides Towards $81,000 as Oil Above $110 Revives Rate-Hike Bets",
-    "link": "https://bitcoinmagazine.com/markets/bitcoin-slides-towards-81000",
-    "pubDate": "Thu, 22 Oct 2026 16:04:26 +0000",
-    "source": "Bitcoin Magazine",
-    "category": "crypto",
-    "content": "Bitcoin Magazine\n\nBitcoin Slides Towards $81,000 as Oil Above $110 Revives Rate-Hike Bets\nBitcoin is currently in so-called Uptober, a month when the asset is supposed to rally. But it’s being held back — at least for now. \nThis post Bitcoin Slides Towards $81,000 as Oil Above $110 Revives Rate-Hike Bets first appeared on Bitcoin Magazine and is written by Mathew Di Salvo.",
-    "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/10/Pics-21.jpg",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "Robinhood Wins Dubai License to Bring Bitcoin and Stock Trading to the Middle East in 2027",
-    "link": "https://bitcoinmagazine.com/news/robinhood-wins-dubai-license-bitcoin",
-    "pubDate": "Thu, 22 Oct 2026 15:35:01 +0000",
-    "source": "Bitcoin Magazine",
-    "category": "crypto",
-    "content": "Bitcoin Magazine\n\nRobinhood Wins Dubai License to Bring Bitcoin and Stock Trading to the Middle East in 2027\nRobinhood has won DFSA approval to offer bitcoin, crypto and stock trading with custody from a new Dubai headquarters, with launch set for 2027.\nThis post Robinhood Wins Dubai License to Bring Bitcoin and Stock Trading to the Middle East in 2027 first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
-    "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/10/Robinhood-Wins-Dubai-License-to-Bring-Bitcoin-and-Stock-Trading-to-the-Middle-East-in-2027.jpg",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "Fireblocks Denies Report of $2.5 Billion Visa Takeover Talks",
-    "link": "https://bitcoinmagazine.com/news/fireblocks-denies-report-of-visa-takeover",
-    "pubDate": "Thu, 22 Oct 2026 14:38:25 +0000",
-    "source": "Bitcoin Magazine",
-    "category": "crypto",
-    "content": "Bitcoin Magazine\n\nFireblocks Denies Report of $2.5 Billion Visa Takeover Talks\nFireblocks has denied an Axios report that Visa is in late-stage talks to acquire the crypto custody firm for about $2.5 billion.\nThis post Fireblocks Denies Report of $2.5 Billion Visa Takeover Talks first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
-    "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/10/Fireblocks-Denies-Report-of-2.5-Billion-Visa-Takeover-Talks.jpg",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "Arkham CEO on $1 Billion of U.S. Government Bitcoin Moved to “Unknown” Wallet",
-    "link": "https://bitcoinmagazine.com/videos/arkham-ceo-on-1-billion-of-u-s-government-bitcoin-moved-to-unknown-wallet",
-    "pubDate": "Thu, 22 Oct 2026 13:38:10 +0000",
-    "source": "Bitcoin Magazine",
-    "category": "crypto",
-    "content": "▶\n\nBitcoin Magazine\n\nArkham CEO on $1 Billion of U.S. Government Bitcoin Moved to “Unknown” Wallet\nA US gov wallet moved $1B in BTC. Arkham's Miguel Morel breaks down transaction trails, potential sales vs. custody transfers, and reserve policy factors.\nThis post Arkham CEO on $1 Billion of U.S. Government Bitcoin Moved to “Unknown” Wallet first appeared on Bitcoin Magazine and is written by Patrick Green.",
-    "image": "https://img.youtube.com/vi/zpNQcVVlk7w/hqdefault.jpg",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "SpaceX-Tesla Merger: Passive Flows ‘Hack’, Could Bring More BTC Exposure to S&P 500",
-    "link": "https://bitcoinmagazine.com/videos/spacex-tesla-merger-passive-flows-hack-could-bring-more-btc-exposure-to-sp-500",
-    "pubDate": "Thu, 22 Oct 2026 13:33:24 +0000",
-    "source": "Bitcoin Magazine",
-    "category": "crypto",
-    "content": "▶\n\nBitcoin Magazine\n\nSpaceX-Tesla Merger: Passive Flows ‘Hack’, Could Bring More BTC Exposure to S&P 500\nSean Hagan breaks down why a Tesla-SpaceX merger is a no-brainer, connecting passive index flows to Strategy's MSCI inclusion and S&P 500 entry.\nThis post SpaceX-Tesla Merger: Passive Flows ‘Hack’, Could Bring More BTC Exposure to S&P 500 first appeared on Bitcoin Magazine and is written by Patrick Green.",
-    "image": "https://img.youtube.com/vi/7_MyJy6zxX4/hqdefault.jpg",
+    "title": "The Download: testing six tech promises and biotech’s blind spots",
+    "link": "https://www.technologyreview.com/2026/10/23/1147628/the-download-testing-tech-promises-science-blind-spots/",
+    "pubDate": "Fri, 23 Oct 2026 12:10:00 +0000",
+    "source": "MIT Technology Review",
+    "category": "ai",
+    "content": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Are we there yet? A reality check on six big tech promises Some seemingly impossible feats are too good to give up on. Decoding a pet’s yowls and yips? Absolutely. Scrubbing…",
+    "image": "https://wp.technologyreview.com/wp-content/uploads/2023/06/SoundofDataFinal1f-thumb.jpeg?w=840",
     "summary": "",
     "importance": 5
   },
@@ -1023,17 +1013,6 @@
     "importance": 5
   },
   {
-    "title": "Nuclear-powered spaceships",
-    "link": "https://www.technologyreview.com/2026/10/21/1146061/nuclear-powered-spaceships-impossible-issue/",
-    "pubDate": "Wed, 21 Oct 2026 09:00:00 +0000",
-    "source": "MIT Technology Review",
-    "category": "ai",
-    "content": "Just before the Artemis II crew began its historic slingshot around the moon this past April, NASA announced plans to build Space Reactor-1 Freedom. SR-1, the first-ever nuclear-reactor-­powered interplanetary spacecraft, is meant to fly an uncrewed mission to Mars by the end of 2028, arriving in 2029. A successful mission would herald a new era…",
-    "image": "https://wp.technologyreview.com/wp-content/uploads/2026/10/purple-24.svg",
-    "summary": "",
-    "importance": 5
-  },
-  {
     "title": "Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony.ai and Nvidia",
     "link": "https://techcrunch.com/2026/10/22/uber-rival-indrive-eyes-2027-robotaxi-tests-in-central-asia-with-pony-ai-and-nvidia/",
     "pubDate": "Fri, 23 Oct 2026 04:00:00 +0000",
@@ -1078,23 +1057,23 @@
     "importance": 5
   },
   {
-    "title": "OpenAI makes its Jev competitor widely available as decision model competition heats up",
-    "link": "https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/",
-    "pubDate": "Thu, 22 Oct 2026 19:00:00 +0000",
-    "source": "TechCrunch AI",
-    "category": "ai",
-    "content": "OpenAI is launching its decision model to the world. Can it compete with the original Jev?",
-    "image": "",
-    "summary": "",
-    "importance": 5
-  },
-  {
     "title": "Canva releases its first image generation model",
     "link": "https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/",
     "pubDate": "Thu, 22 Oct 2026 19:00:00 +0000",
     "source": "TechCrunch AI",
     "category": "ai",
     "content": "Canva is making its new image model available to all users, promising better, more customizable performance at lower costs.",
+    "image": "",
+    "summary": "",
+    "importance": 5
+  },
+  {
+    "title": "OpenAI makes its Jev competitor widely available as decision model competition heats up",
+    "link": "https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/",
+    "pubDate": "Thu, 22 Oct 2026 19:00:00 +0000",
+    "source": "TechCrunch AI",
+    "category": "ai",
+    "content": "OpenAI is launching its decision model to the world. Can it compete with the original Jev?",
     "image": "",
     "summary": "",
     "importance": 5
@@ -1254,6 +1233,28 @@
     "importance": 5
   },
   {
+    "title": "Meta delays new business terms after publisher pushback on AI scraping",
+    "link": "https://www.theverge.com/tech/1017450/meta-business-terms-delayed-ai-scraping",
+    "pubDate": "2026-10-23T14:47:41.000Z",
+    "source": "The Verge AI",
+    "category": "ai",
+    "content": "Meta is delaying the enforcement of its new business terms after publishers raised concerns that they could allow the company to scrape news sites for AI training, as reported earlier by Fast Company. In a statement to The Verge, Meta spokesperson Daniel Roberts says the terms will go into effect on November 20th \"to allow more time for us to explain to our partners and stakeholders what's changing and what's not.\"\nThe business terms, which were originally supposed to go into effect on October 30th, appeared to give Meta permission to freely scrape the new sites that use its platforms, while using the material for AI training. Though Meta u …\nRead the full story at The Verge.",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23951350/STK043_VRG_Illo_N_Barclay_6_Meta.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "summary": "",
+    "importance": 5
+  },
+  {
+    "title": "Retro gaming is being overrun with AI",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1015430/ai-retro-games-decomp-recomp-port",
+    "pubDate": "2026-10-23T12:00:00.000Z",
+    "source": "The Verge AI",
+    "category": "ai",
+    "content": "Retro video games are everywhere lately - especially in places where they aren't supposed to be. Halo in a web browser, Wind Waker on the iPhone, Super Smash Bros. in mixed reality.  Over the past month or so, these kinds of unexpected projects have gone viral with incredible frequency thanks to new AI tools, as hobbyists take apart games and then rebuild them for new platforms. But while AI has supercharged the pace of these ports, it's also tearing apart tight-knit communities dedicated to preserving games.\nDecomps and recomps - shorthand for decompile and recompile - are a form of reverse engineering that involves breaking a game down to …\nRead the full story at The Verge.",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK465_VIDEO_GAMES_EMULATOR__CVirginia_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "summary": "",
+    "importance": 5
+  },
+  {
     "title": "Canva’s first AI image model plans designs before generating them",
     "link": "https://www.theverge.com/ai-artificial-intelligence/1017151/canva-craft-in-house-ai-model",
     "pubDate": "2026-10-22T21:51:25.000Z",
@@ -1338,28 +1339,6 @@
     "category": "ai",
     "content": "The Nintendo Switch 2 has apparently been jailbroken, and a modder has already shown the console running a custom version of Mario Kart World featuring new playable characters like Cinnamoroll, the red Angry Bird, Peter Griffin, and Steve from Minecraft.\n\n\ni jailbroke the nintendo switch 2\nso i modded cinnamoroll, peter griffin, hatsune miku, and more into Mario Kart World, a switch 2 exclusive\nnow watch my friends and i get cooked by bots\nlearn more and get the exploit https://t.co/ykjgyfrFRp pic.twitter.com/BOcFhejRz1\n- pepsipu (@pepsipu) October 22, 2026\n\nOpenAI's Codex helped make this \"ns2jb\" jailbreak, according to Sammy Hajhamid, aka \"pe …\nRead the full story at The Verge.",
     "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Screenshot-2026-10-22-at-10.19.11-AM.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "Wildwood’s director says AI is ‘antithetical to everything that we are at this studio’",
-    "link": "https://www.theverge.com/entertainment/1016647/wildwood-travis-knight-interview-ai-laika-stop-motion",
-    "pubDate": "2026-10-22T16:16:15.000Z",
-    "source": "The Verge AI",
-    "category": "ai",
-    "content": "Wildwood is the most ambitious film yet from Laika, the stop-motion studio best known for the likes of Coraline and ParaNorman. It's a sprawling fantasy adventure that took five years to complete. The process involved more 230 puppets - including 36 of the main character Prue alone - which were brought to life by a team of 49 animators. All told, more than 1,000 artists worked on the film in some form. The painstaking process that goes into making a Laika film offers a distinct counterpoint to the instant progress promised by generative AI tools.\nRecently Wildwood director and Laika CEO Travis Knight joined a chorus of influencer filmmakers …\nRead the full story at The Verge.",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/WILDWOOD-Curtis-Alexandra-Still-Credit_-LAIKA.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "OpenAI, Anthropic, and Nvidia had record lobbying quarters",
-    "link": "https://www.theverge.com/policy/1016585/openai-anthropic-nvidia-lobbying-records",
-    "pubDate": "2026-10-22T15:50:30.000Z",
-    "source": "The Verge AI",
-    "category": "ai",
-    "content": "It was a busy summer for AI lobbyists. Anthropic, OpenAI, and Nvidia each had their highest-spending lobbying quarter between July and September, federal disclosures show.\nNvidia spent the most of the group at $2.2 million, followed by Anthropic's $2.1 million and OpenAI's $1.5 million. Compared to other Big Tech companies with long-established presences in Washington, the sums aren't out of the ordinary. Microsoft, for example, has spent at least $2 million a quarter going back to 2021, and Google regularly spends over $3 million, including this quarter. But it's a clear signal that the three AI firms recognize how important shaping policy …\nRead the full story at The Verge.",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STK481_STK432_CONGRESS_GOVERNMENT_CIVRGINIA_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
     "summary": "",
     "importance": 5
   },
@@ -1605,6 +1584,18 @@
     "image": "https://cdn.sanity.io/images/s3y3vcno/production/b39a2378ae8abada053d644590080bf32ac111dd-2268x1736.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
     "summary": "Asian stocks, particularly technology shares, experienced a downturn, and Bitcoin retreated as China entered a bear market. This market instability was influenced by mixed U.S. earnings and climbing Brent crude oil prices.",
     "importance": 4,
+    "classified": true
+  },
+  {
+    "title": "Bitcoin's price is as jumpy as Nvidia's and eight times more turbulent than the euro",
+    "link": "https://www.coindesk.com/daybook-us/2026/10/23/bitcoin-s-volatility-is-well-above-euro-dollar-gyrations-though-it-has-calmed-to-rival-nvidia-s",
+    "pubDate": "Fri, 23 Oct 2026 11:22:33 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "Your day-ahead look for Oct. 23, 2026",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/382be2e9744cb8a41cd938a03779c9279af9c096-1600x900.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "summary": "The article's headline suggests a discussion on Bitcoin's price volatility, comparing its jumpiness to Nvidia's stock and its turbulence to the euro. This appears to be a market outlook dated for October 23, 2026.",
+    "importance": 2,
     "classified": true
   },
   {
