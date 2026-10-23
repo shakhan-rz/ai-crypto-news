@@ -1,5 +1,17 @@
 [
   {
+    "title": "Senate's top Democratic investigator looking into Tether payments to Bo Hines' firm",
+    "link": "https://www.coindesk.com/policy/2026/10/22/senate-s-top-democratic-investigator-looking-into-tether-payments-to-bo-hines-firm",
+    "pubDate": "Thu, 22 Oct 2026 22:43:36 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "Senator Richard Blumenthal, the ranking Democrat on the investigations subcommittee, added a probe of the ex-White House crypto adviser to his list of crypto interests.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/99dc294f833b46c672b0cdc7f4decad2cdcd8126-4030x2267.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "summary": "Senator Richard Blumenthal, a leading Democratic investigator, has initiated a probe into Tether payments made to a firm linked to Bo Hines, a former White House crypto adviser. This adds to the Senator's growing list of cryptocurrency-related investigations.",
+    "importance": 9,
+    "classified": true
+  },
+  {
     "title": "A16z is the latest VC giant to widen bets beyond crypto and into AI and emerging tech",
     "link": "https://www.coindesk.com/business/2026/10/22/a16z-is-the-latest-vc-giant-to-widen-bets-beyond-crypto-and-into-ai-and-emerging-tech",
     "pubDate": "Thu, 22 Oct 2026 18:30:57 +0000",
@@ -8,18 +20,6 @@
     "content": "The venture investor behind early bets on Coinbase, Solana and Uniswap said is broadening its focus, joining other crypto investment firms looking beyond blockchain to artificial intelligence and tech themes.",
     "image": "https://cdn.sanity.io/images/s3y3vcno/production/941dba842a1a32a077b3b9c26476efac090f9415-7081x3983.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
     "summary": "A16z, a major venture capital firm known for its early investments in prominent crypto projects like Coinbase and Solana, is now expanding its focus. The firm is diversifying its portfolio beyond blockchain to include artificial intelligence and other emerging technology themes.",
-    "importance": 9,
-    "classified": true
-  },
-  {
-    "title": "OCC's final rule to start fresh in weighing stablecoin rewards against GENIUS Act ban",
-    "link": "https://www.coindesk.com/policy/2026/10/21/occ-s-final-rule-to-start-fresh-in-weighing-stablecoin-rewards-against-genius-act-ban",
-    "pubDate": "Wed, 21 Oct 2026 11:00:00 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "The U.S. Office of the Comptroller of the Currency is the first of several federal agencies to finish writing regulations under the act.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/4c09fd387e07e818d3495ad2fd02c4cd3d460094-6000x3376.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-    "summary": "The U.S. Office of the Comptroller of the Currency (OCC) has finalized a rule concerning stablecoin rewards, initiating a new evaluation against the GENIUS Act ban. This development marks the OCC as the first federal agency to complete regulations under this act, setting a precedent for future crypto regulatory actions.",
     "importance": 9,
     "classified": true
   },
@@ -324,6 +324,50 @@
     "classified": true
   },
   {
+    "title": "Switzerland approves first spot Bitcoin ETF for retail investors",
+    "link": "https://cointelegraph.com/news/switzerland-approves-first-spot-bitcoin-etf-for-retail-investors?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Fri, 23 Oct 2026 00:59:35 +0000",
+    "source": "Cointelegraph",
+    "category": "crypto",
+    "content": "BIT Asset Management’s Bitcoin Fund ETF is expected to begin trading on SIX Swiss Exchange in November, with its public offering restricted to Switzerland.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5K495GNDHMTE3BPW7ZKE90T/bitcoin-etf-6.jpg",
+    "summary": "",
+    "importance": 5
+  },
+  {
+    "title": "Pentagon bans US forces from using military info to bet in prediction markets",
+    "link": "https://cointelegraph.com/news/pentagon-bans-us-forces-from-using-military-info-to-bet-in-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Thu, 22 Oct 2026 23:50:42 +0000",
+    "source": "Cointelegraph",
+    "category": "crypto",
+    "content": "Hegseth warned that prediction market wagers could expose military operations to adversaries.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5K096NQSA2F50PNPGJYG3Z7/soldier.jpg",
+    "summary": "",
+    "importance": 5
+  },
+  {
+    "title": "New DeepSeek ban in US, Swiss-Asia crypto ties deepen: Asia Express",
+    "link": "https://cointelegraph.com/magazine/new-deepseek-ban-in-us-swiss-asia-crypto-ties-deepen-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Thu, 22 Oct 2026 22:50:22 +0000",
+    "source": "Cointelegraph",
+    "category": "crypto",
+    "content": "DeepSeek banned from US federal civilian agencies over spying fears. Singapore firm behind Europe’s only spot Bitcoin ETF, as Switzerland partners with Vietnam on crypto tech.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5JV90GX9YTTQQZEH3XNN8PG/asia-express-1.jpg",
+    "summary": "",
+    "importance": 5
+  },
+  {
+    "title": "Circle shareholder sues Trump, World Liberty and Steve Witkoff over crypto deals",
+    "link": "https://cointelegraph.com/news/circle-shareholder-lawsuit-donald-trump-world-liberty-financial-steve-witkoff-crypto-corruption?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Thu, 22 Oct 2026 21:39:18 +0000",
+    "source": "Cointelegraph",
+    "category": "crypto",
+    "content": "According to a Circle shareholder, the US president’s “corruption” through USD1 left the company unable to compete with stablecoins, harming USDC.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5JK4F3B2YXBP85MJ4RJSMWE/judge-law-court-regulation.jpg",
+    "summary": "",
+    "importance": 5
+  },
+  {
     "title": "Bitcoin hashrate hits seven-month high as AI shift fails to ease mining competition ",
     "link": "https://cointelegraph.com/news/bitcoin-mining-difficulty-hashrate-recovery-ai-shift?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "pubDate": "Thu, 22 Oct 2026 16:50:51 +0000",
@@ -566,46 +610,24 @@
     "importance": 5
   },
   {
-    "title": "Chainlink, Cardano, other blockchain groups push SEC for clearer crypto rules ",
-    "link": "https://cointelegraph.com/news/chainlink-cardano-and-other-blockchain-groups-push-sec-for-clearer-crypto-rules?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Wed, 21 Oct 2026 16:09:26 +0000",
-    "source": "Cointelegraph",
+    "title": "Chainlink partners with LG CNS to drive Korean won stablecoin expansion",
+    "link": "https://www.theblock.co/news/business/2026-10-22-chainlink-partners-with-lg-cns-423993",
+    "pubDate": "Fri, 23 Oct 2026 02:48:13 +0000",
+    "source": "The Block",
     "category": "crypto",
-    "content": "Six major blockchain organizations urged the SEC to formally recognize digital commodities as non-securities in its proposed regulatory framework.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5FH88750HFGGVZ9ZQN6BBTV/hi-token-burning-explained-sec.png",
+    "content": "LG CNS is set to integrate Chainlink's cross-chain, data, and orchestration infrastructure into its digital asset platform.",
+    "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/10/chainlink_lgcns_won_stablecoin_1920x1080.jpg",
     "summary": "",
     "importance": 5
   },
   {
-    "title": "Bitcoin price tags $84.6K as US stocks head higher on SpaceX Q3 earnings beat ",
-    "link": "https://cointelegraph.com/markets/bitcoin-price-tags-846k-as-us-stocks-head-higher-on-spacex-q3-earnings-beat?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Wed, 21 Oct 2026 15:13:17 +0000",
-    "source": "Cointelegraph",
+    "title": "Bitcoin slides below $81,500 as tech stock sell-off spreads to Asian equities",
+    "link": "https://www.theblock.co/news/markets/2026-10-22-bitcoin-slides-tech-stock-sell-off-423990",
+    "pubDate": "Fri, 23 Oct 2026 02:21:30 +0000",
+    "source": "The Block",
     "category": "crypto",
-    "content": "Bitcoin extended gains to approach $85,000 after US stock markets reacted to higher-than-expected SpaceX earnings.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5FFNBMBTT9KJFWC3TVMA71T/hi-what-is-spacex-ipo-and-binance-1.jpg",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "Solana’s Alpenglow launches on mainnet, targets 99% faster finality ",
-    "link": "https://cointelegraph.com/news/solanas-alpenglow-launches-mainnet-99-faster-finality?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Wed, 21 Oct 2026 13:57:14 +0000",
-    "source": "Cointelegraph",
-    "category": "crypto",
-    "content": "Solana’s first major consensus upgrade is targeting 99% finality reduction, seeking to offer users near-immediate transaction settlement and more responsive applications.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5F9M5QVFXDEA42YHSF756WB/hi-despite-the-markets-being-down-the-blockchain-industry-is-still-thriving-solana.jpg",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "Big Tech’s eMudhra fixes may leave crypto bots exposed, CertiK warns",
-    "link": "https://cointelegraph.com/news/certik-warning-crypto-emudhra-flaw-risks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Wed, 21 Oct 2026 13:31:39 +0000",
-    "source": "Cointelegraph",
-    "category": "crypto",
-    "content": "CertiK says crypto trading bots and exchange applications may remain exposed to the eMudhra certificate flaw because browser fixes may not protect all software.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5F7BDZS98A483J2RAEAA5FE/hi-transactions-stopped-warning.jpg",
+    "content": "The Wall Street sell-off extended to Asian equities on Friday morning, with South Korea's Kospi down 2.3% and Japan's Nikkei 225 down 1.6%.",
+    "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/10/bitcoin-market.png",
     "summary": "",
     "importance": 5
   },
@@ -797,24 +819,24 @@
     "importance": 5
   },
   {
-    "title": "Standard Chartered signs definitive agreements to acquire Zodia Custody",
-    "link": "https://www.theblock.co/news/business/2026-10-21-standard-chartered-signs-definitive-agreements-to-acquire-zodia-custody-421535",
-    "pubDate": "Wed, 21 Oct 2026 12:44:53 +0000",
-    "source": "The Block",
+    "title": "The Sleeper Has Awakened: Pepenardo’s Sleeping Knights Return",
+    "link": "https://bitcoinmagazine.com/culture/the-sleeper-has-awakened-pepenardos-sleeping-knights-return",
+    "pubDate": "Thu, 22 Oct 2026 23:06:48 +0000",
+    "source": "Bitcoin Magazine",
     "category": "crypto",
-    "content": "Standard Chartered has signed definitive agreements to acquire Zodia Custody, subject to regulatory approval.",
-    "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/10/Screenshot-2026-10-21-at-13.31.20.png",
+    "content": "Bitcoin Magazine\n\nThe Sleeper Has Awakened: Pepenardo’s Sleeping Knights Return\nHand-altered magazine covers, one-of-one trading cards, and the evolving culture of bitcoin collectibles.\nThis post The Sleeper Has Awakened: Pepenardo’s Sleeping Knights Return first appeared on Bitcoin Magazine and is written by Dennis Koch.",
+    "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/10/The-Sleeper-Has-Awakened-Pepenardos-Sleeping-Knights-Return.png",
     "summary": "",
     "importance": 5
   },
   {
-    "title": "Dogecoin Labs launches as DOGE ecosystem seeks growth beyond meme-driven demand",
-    "link": "https://www.theblock.co/news/business/2026-10-21-dogecoin-labs-launch-mydoge-dogeos-such-app-421469",
-    "pubDate": "Wed, 21 Oct 2026 12:00:00 +0000",
-    "source": "The Block",
+    "title": "Circle Shareholder Sues Trump, Alleging Unconstitutional Profits From $2B UAE Crypto Deals",
+    "link": "https://bitcoinmagazine.com/news/trump-sued-for-alleged-crypto-corruption",
+    "pubDate": "Thu, 22 Oct 2026 21:23:58 +0000",
+    "source": "Bitcoin Magazine",
     "category": "crypto",
-    "content": "Dogecoin Labs, backed by the Dogecoin Foundation, unites MyDoge, DogeOS and Such App to push DOGE into payments and DeFi.",
-    "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2021/05/20210511_DOGE-SHIBA-SHIB-coin-2.jpg",
+    "content": "Bitcoin Magazine\n\nCircle Shareholder Sues Trump, Alleging Unconstitutional Profits From $2B UAE Crypto Deals\nA shareholder of stablecoin giant Circle has alleged the president corruptly cashed in on crypto deals. \nThis post Circle Shareholder Sues Trump, Alleging Unconstitutional Profits From $2B UAE Crypto Deals first appeared on Bitcoin Magazine and is written by Mathew Di Salvo.",
+    "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/10/Pics-22.jpg",
     "summary": "",
     "importance": 5
   },
@@ -907,24 +929,13 @@
     "importance": 5
   },
   {
-    "title": "Retail Money is “Dead” – Wall Street is how Bitcoin Actually Wins",
-    "link": "https://bitcoinmagazine.com/videos/retail-money-is-dead-wall-street-is-how-bitcoin-actually-wins",
-    "pubDate": "Thu, 22 Oct 2026 13:29:09 +0000",
-    "source": "Bitcoin Magazine",
-    "category": "crypto",
-    "content": "▶\n\nBitcoin Magazine\n\nRetail Money is “Dead” – Wall Street is how Bitcoin Actually Wins\nBitcoin is moving from the fringe to the boardroom, says Allen Helm. He details how institutions structure digital credit around BTC and record ETF inflows.\nThis post Retail Money is “Dead” – Wall Street is how Bitcoin Actually Wins first appeared on Bitcoin Magazine and is written by Patrick Green.",
-    "image": "https://img.youtube.com/vi/DWoRI7GXeMg/hqdefault.jpg",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "Matt Crosby: Bitcoin Is “Primed for a Big Move Higher”",
-    "link": "https://bitcoinmagazine.com/videos/matt-crosby-bitcoin-is-primed-for-a-big-move-higher",
-    "pubDate": "Thu, 22 Oct 2026 13:24:26 +0000",
-    "source": "Bitcoin Magazine",
-    "category": "crypto",
-    "content": "▶\n\nBitcoin Magazine\n\nMatt Crosby: Bitcoin Is “Primed for a Big Move Higher”\nBitcoin's boring price action is a spring compressing for a breakout, says Matt Crosby. ETF flows, macro, and on-chain data point to a big move higher.\nThis post Matt Crosby: Bitcoin Is “Primed for a Big Move Higher” first appeared on Bitcoin Magazine and is written by Patrick Green.",
-    "image": "https://img.youtube.com/vi/t-4JyFk14XI/hqdefault.jpg",
+    "title": "Designing an AI serving harness built to last",
+    "link": "https://www.technologyreview.com/2026/10/22/1146109/designing-an-ai-serving-harness-built-to-last/",
+    "pubDate": "Thu, 22 Oct 2026 21:17:29 +0000",
+    "source": "MIT Technology Review",
+    "category": "ai",
+    "content": "The next competitive advantage in enterprise AI has less to do with which model you choose than with what you build around it. That’s an important shift. For the past several years, much of the AI conversation has centered on model capability: bigger models, better reasoning, larger context windows, higher benchmark scores. Those advances have…",
+    "image": "https://wp.technologyreview.com/wp-content/uploads/2026/10/GettyImages-2188328005_9f1d59-e1791493652782.jpg?w=840",
     "summary": "",
     "importance": 5
   },
@@ -1028,13 +1039,24 @@
     "importance": 5
   },
   {
-    "title": "Interspecies communication",
-    "link": "https://www.technologyreview.com/2026/10/21/1146124/interspecies-communication-impossible-issue/",
-    "pubDate": "Wed, 21 Oct 2026 09:00:00 +0000",
-    "source": "MIT Technology Review",
+    "title": "Left alone with nothing to do, AI agents started playing",
+    "link": "https://techcrunch.com/2026/10/22/left-alone-with-nothing-to-do-ai-agents-started-playing/",
+    "pubDate": "Fri, 23 Oct 2026 00:45:37 +0000",
+    "source": "TechCrunch AI",
     "category": "ai",
-    "content": "Humans are far from the only species with a gift for gab, and our furry, feathered, and finned friends could have a lot to tell us. Decoding how animals communicate with one another could offer a window into the inner lives of other species and help humans realize that “animals are sentient creatures who think,…",
-    "image": "https://wp.technologyreview.com/wp-content/uploads/2026/10/purple-16.svg",
+    "content": "MIT researchers marooned 13 AIs on a virtual island, and they responded by inventing games, mourning a lost ring and, eventually, getting better at their jobs.",
+    "image": "",
+    "summary": "",
+    "importance": 5
+  },
+  {
+    "title": "OpenAI working on new $30B raise at $1.25T valuation ahead of IPO",
+    "link": "https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/",
+    "pubDate": "Thu, 22 Oct 2026 22:08:24 +0000",
+    "source": "TechCrunch AI",
+    "category": "ai",
+    "content": "Should OpenAI command an over $1 trillion valuation with this round, it would break records as the most highly valued private company ever.",
+    "image": "",
     "summary": "",
     "importance": 5
   },
@@ -1050,23 +1072,23 @@
     "importance": 5
   },
   {
-    "title": "Canva releases its first image generation model",
-    "link": "https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/",
-    "pubDate": "Thu, 22 Oct 2026 19:00:00 +0000",
-    "source": "TechCrunch AI",
-    "category": "ai",
-    "content": "Canva is making its new image model available to all users, promising better, more customizable performance at lower costs.",
-    "image": "",
-    "summary": "",
-    "importance": 5
-  },
-  {
     "title": "OpenAI makes its Jev competitor widely available as decision model competition heats up",
     "link": "https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/",
     "pubDate": "Thu, 22 Oct 2026 19:00:00 +0000",
     "source": "TechCrunch AI",
     "category": "ai",
     "content": "OpenAI is launching its decision model to the world. Can it compete with the original Jev?",
+    "image": "",
+    "summary": "",
+    "importance": 5
+  },
+  {
+    "title": "Canva releases its first image generation model",
+    "link": "https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/",
+    "pubDate": "Thu, 22 Oct 2026 19:00:00 +0000",
+    "source": "TechCrunch AI",
+    "category": "ai",
+    "content": "Canva is making its new image model available to all users, promising better, more customizable performance at lower costs.",
     "image": "",
     "summary": "",
     "importance": 5
@@ -1237,24 +1259,13 @@
     "importance": 5
   },
   {
-    "title": "AI promises productivity, but for managers, it’s mostly a headache for now",
-    "link": "https://techcrunch.com/2026/10/21/ai-promises-productivity-but-for-managers-its-mostly-a-headache-for-now-says-new-survey/",
-    "pubDate": "Wed, 21 Oct 2026 14:00:00 +0000",
-    "source": "TechCrunch AI",
+    "title": "Canva’s first AI image model plans designs before generating them",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1017151/canva-craft-in-house-ai-model",
+    "pubDate": "2026-10-22T21:51:25.000Z",
+    "source": "The Verge AI",
     "category": "ai",
-    "content": "More than 50% of managers say they're finding it harder to evaluate employees' work after adopting AI, according to a new survey.",
-    "image": "",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "Anthropic pitches AI safety bill that may block a model if 50+ people could be killed",
-    "link": "https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/",
-    "pubDate": "Tue, 20 Oct 2026 23:01:23 +0000",
-    "source": "TechCrunch AI",
-    "category": "ai",
-    "content": "The proposed policy seems to offer protections against AI running amok but actually forbids federal agencies from blocking a model's release without the permission of a judge.",
-    "image": "",
+    "content": "Canva is diving even deeper into AI with the launch of an image generation model that competes directly with those from OpenAI, Microsoft, and Google. The model, called Canva Craft, uses a two-stage architecture that allows it to plan a design before generating an image, allowing for \"greater precision, consistency and control,\" according to an announcement on Thursday.\nCanva Craft can generate images at up to 2K resolution and in more than 30 aspect ratios. In addition to generating social media posts and marketing content, it's also supposed to create realistic scenes, digital art, environmental imagery, and more. The model's two-stage sy …\nRead the full story at The Verge.",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/04-CRAFT-COLLAGE.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
     "summary": "",
     "importance": 5
   },
@@ -1354,17 +1365,6 @@
     "category": "ai",
     "content": "It was a busy summer for AI lobbyists. Anthropic, OpenAI, and Nvidia each had their highest-spending lobbying quarter between July and September, federal disclosures show.\nNvidia spent the most of the group at $2.2 million, followed by Anthropic's $2.1 million and OpenAI's $1.5 million. Compared to other Big Tech companies with long-established presences in Washington, the sums aren't out of the ordinary. Microsoft, for example, has spent at least $2 million a quarter going back to 2021, and Google regularly spends over $3 million, including this quarter. But it's a clear signal that the three AI firms recognize how important shaping policy …\nRead the full story at The Verge.",
     "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STK481_STK432_CONGRESS_GOVERNMENT_CIVRGINIA_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "PHP: The three little letters wreaking havoc across the web",
-    "link": "https://www.theverge.com/tech/1016574/php2shell-security-vulnerability-websites-down",
-    "pubDate": "2026-10-22T15:12:27.000Z",
-    "source": "The Verge AI",
-    "category": "ai",
-    "content": "Two vulnerabilities found in the programming language PHP put enormous swaths of the internet in danger.\nBy some accounts, up to 70 percent of websites use PHP in some capacity. It powers Wikipedia, WordPress, Drupal, and a host of other popular sites and platforms, including DeviantArt and 4Chan, which were temporarily shut down after the vulnerabilities were disclosed. Even governments weren’t immune.\nBut it’s not as simple as updating a few servers. The vulnerability exists in every version of PHP dating back roughly 20 years, many of which are no longer supported. That means some older sites and services that are no longer actively maintained are at risk, leaving them with little option but to permanently shut down.\nHere’s all the latest developments in what security firm Wiz has called “among the most severe vulnerabilities discovered … in software history.”\nThe disastrous PHP vulnerabilities were exploited days before the patch\n\t\t\t\nThe Internet Archive was briefly forced offline because of PHP.\n\t\t\t\nTwo old-school Japanese mobile games are shutting down over the PHP exploit.\n\t\t\t\nThe PHP2Shell exploit hit Cloudflare hard.\n\t\t\t\nPHP: The three letters that shut down sites all over the internet today\n\t\t\t\nGPT‑5.6 Sol was used to identify critical PHP flaw.\n\t\t\t\nA critical PHP vulnerability may take websites down today",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/VRG_ILLO_STK001_carlo_cadenas_cybersecurity_virus.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
     "summary": "",
     "importance": 5
   },
