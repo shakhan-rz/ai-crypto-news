@@ -36,6 +36,30 @@
     "classified": true
   },
   {
+    "title": "US senator probes Tether after reported deal with ex-Trump crypto adviser",
+    "link": "https://cointelegraph.com/news/us-senator-probe-bo-hines-trump-crypto-adviser-tether-deal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Fri, 23 Oct 2026 17:42:12 +0000",
+    "source": "Cointelegraph",
+    "category": "crypto",
+    "content": "The Democratic ranking member of the Senate Permanent Subcommittee on Investigations asked Paolo Ardoino for records related to a reported deal between Tether and Nxum.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5MWKYVWPGFNQZJ4EMBSGH91/hi-probe-crypto-senator.jpg",
+    "summary": "A US Senator, the Democratic ranking member of the Senate Permanent Subcommittee on Investigations, has initiated a probe into Tether, the largest stablecoin issuer. The investigation follows a reported deal between Tether and Nxum, a company linked to a former Trump crypto adviser. The senator has requested relevant records from Tether's Paolo Ardoino, highlighting ongoing regulatory scrutiny of major cryptocurrency entities.",
+    "importance": 9,
+    "classified": true
+  },
+  {
+    "title": "SEC flags tokenization as high-risk area in 2027 market examinations",
+    "link": "https://cointelegraph.com/news/sec-adds-tokenized-securities-to-2027-examination-priorities?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Fri, 23 Oct 2026 16:08:40 +0000",
+    "source": "Cointelegraph",
+    "category": "crypto",
+    "content": "The SEC’s latest priorities highlight tokenization as an emerging market risk, while cryptocurrencies remain absent as a standalone examination category.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5MP9HHR5PTKGP6MBRZ5FNFH/hi-irs-joins-the-j5-international-crypto-tax-enforcement-coming-next1.png",
+    "summary": "The SEC has identified tokenization as a high-risk area in its 2027 market examination priorities, signaling increased regulatory scrutiny. This move highlights a specific focus on blockchain-based asset representation, even though cryptocurrencies themselves are not listed as a standalone examination category.",
+    "importance": 9,
+    "classified": true
+  },
+  {
     "title": "Live updates: Bitcoin holds above $81,000 as oil prices hit six-month high",
     "link": "https://www.coindesk.com/markets/2026/10/23/live-updates-bitcoin-holds-above-usd81-000-as-the-ai-rout-fades-and-oil-climbs",
     "pubDate": "Fri, 23 Oct 2026 11:13:01 +0000",
@@ -120,6 +144,18 @@
     "classified": true
   },
   {
+    "title": "Initia halts blockchain after exploit reportedly drains over $2.6M",
+    "link": "https://cointelegraph.com/news/initia-halts-blockchain-exploit-drained?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Fri, 23 Oct 2026 18:39:02 +0000",
+    "source": "Cointelegraph",
+    "category": "crypto",
+    "content": "The blockchain suspended its layer-1 network and rollups after security researchers identified unauthorized token minting and millions in assets transferred to Ethereum.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5MZKF3C8AJPVBYK5JQWCAWW/hi-got-crypto-losses-wallet.png",
+    "summary": "The Initia blockchain has suspended its layer-1 network and rollups following a reported exploit. Security researchers identified unauthorized token minting, leading to over $2.6 million in assets being transferred to Ethereum.",
+    "importance": 8,
+    "classified": true
+  },
+  {
     "title": "Dune launches real-time data feeds covering 200 onchain trading venues ",
     "link": "https://cointelegraph.com/news/dune-launches-real-time-data-feeds-covering-200-onchain-trading-venues?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "pubDate": "Thu, 22 Oct 2026 20:36:00 +0000",
@@ -164,6 +200,18 @@
     "content": "Previous bitcoin bear-market lows followed U.S. midterms, but this year’s recovery raises the possibility that the bottom arrived months earlier.",
     "image": "https://cdn.sanity.io/images/s3y3vcno/production/0f47f825a80313923cd91c652922315576bff7a2-1920x1223.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
     "summary": "Historically, Bitcoin's bear market lows have typically followed U.S. midterm elections. However, this year's recovery suggests that the market bottom may have occurred months earlier, potentially decoupling Bitcoin from its past midterm cycle patterns.",
+    "importance": 7,
+    "classified": true
+  },
+  {
+    "title": "Cardano holders are being asked to bet $5 million on copper hitting a new record",
+    "link": "https://www.coindesk.com/markets/2026/10/23/cardano-holders-are-being-asked-to-bet-usd5-million-on-copper-hitting-a-new-record",
+    "pubDate": "Fri, 23 Oct 2026 04:36:51 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "Toto Finance wants 22 million ADA from Cardano’s treasury to buy tokenized copper, and the metal would have to trade well above its all-time high for holders to get their money back.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/d015970fe04575c3819700e01e757b872ee9ad32-1500x1000.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "summary": "Toto Finance is proposing that Cardano holders allocate 22 million ADA, valued at $5 million, from the project's treasury to invest in tokenized copper. This high-risk bet requires copper prices to significantly exceed their all-time high for Cardano holders to recoup their initial investment.",
     "importance": 7,
     "classified": true
   },
@@ -274,39 +322,6 @@
     "summary": "Underdog is partnering with zerohash to introduce crypto deposits to its prediction markets, expected to launch later this year. This new funding option will allow eligible users to deposit digital assets around the clock.",
     "importance": 6,
     "classified": true
-  },
-  {
-    "title": "Cardano holders are being asked to bet $5 million on copper hitting a new record",
-    "link": "https://www.coindesk.com/markets/2026/10/23/cardano-holders-are-being-asked-to-bet-usd5-million-on-copper-hitting-a-new-record",
-    "pubDate": "Fri, 23 Oct 2026 04:36:51 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "Toto Finance wants 22 million ADA from Cardano’s treasury to buy tokenized copper, and the metal would have to trade well above its all-time high for holders to get their money back.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/d015970fe04575c3819700e01e757b872ee9ad32-1500x1000.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "Bitcoin, gold trim early losses as yen gives up gains. Oil stays near $100",
-    "link": "https://www.coindesk.com/markets/2026/10/23/bitcoin-gold-trim-early-losses-as-yen-gives-up-gains-oil-stays-near-usd100",
-    "pubDate": "Fri, 23 Oct 2026 03:13:01 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "Bitcoin and gold pared early losses as the yen gave up gains and Asian stocks rebounded, though oil near $100 keeps inflation risks in focus.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/d45f74af3bf643e7376c8cc581b322b4ae39f779-2220x1267.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "SEC flags tokenization as high-risk area in 2027 market examinations",
-    "link": "https://cointelegraph.com/news/sec-adds-tokenized-securities-to-2027-examination-priorities?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Fri, 23 Oct 2026 16:08:40 +0000",
-    "source": "Cointelegraph",
-    "category": "crypto",
-    "content": "The SEC’s latest priorities highlight tokenization as an emerging market risk, while cryptocurrencies remain absent as a standalone examination category.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5MP9HHR5PTKGP6MBRZ5FNFH/hi-irs-joins-the-j5-international-crypto-tax-enforcement-coming-next1.png",
-    "summary": "",
-    "importance": 5
   },
   {
     "title": "Bitcoin seeks support above $81K as Brent crude oil hits highest level since March ",
@@ -562,24 +577,35 @@
     "importance": 5
   },
   {
-    "title": "Bitcoin ETF buyers are trend followers, not setters, DWF Labs says",
-    "link": "https://cointelegraph.com/news/bitcoin-etf-flows-follow-price-trends-dwf-labs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Thu, 22 Oct 2026 13:00:00 +0000",
-    "source": "Cointelegraph",
+    "title": "Netanyahu seeking blockchain plan to prepare for possible sanctions",
+    "link": "https://www.theblock.co/news/markets/2026-10-23-netanyahu-israel-blockchain-plan-possible-sanctions-427792",
+    "pubDate": "Fri, 23 Oct 2026 18:15:55 +0000",
+    "source": "The Block",
     "category": "crypto",
-    "content": "DWF Labs research finds that Bitcoin ETF flows follow past BTC price movements rather than predict future returns, with investors buying rallies and selling dips.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5H5T36QZ3A96VS2GX65FP67/bull-crypto-running-bitcoin-etf-btc.png",
+    "content": "Netanyahu says blockchain could help Israel prepare for possible sanctions targeting its banking system.",
+    "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2020/05/20200501_Israel_Ecosystem_Map-Genesis.jpg",
     "summary": "",
     "importance": 5
   },
   {
-    "title": "The UK needs a workable route to regulated DeFi access",
-    "link": "https://cointelegraph.com/opinion/uk-crypto-rules-regulated-defi-access?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Thu, 22 Oct 2026 12:00:00 +0000",
-    "source": "Cointelegraph",
+    "title": "Sen. Blumenthal seeks answers from Tether over payments to firm founded by ex-White House crypto adviser",
+    "link": "https://www.theblock.co/news/regulation/2026-10-23-sen-blumenthal-seeks-answers-tether-payments-firm-founded-ex-white-house-crypto-adviser-427785",
+    "pubDate": "Fri, 23 Oct 2026 17:46:09 +0000",
+    "source": "The Block",
     "category": "crypto",
-    "content": "The UK’s 2027 crypto rules risk a de facto ban on regulated firms providing access to DeFi, argues Coinbase’s European policy head Katie Harries.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5HHQJ6G4J091462661VC59G/hi-defi-revolution-during-a-global-crisis.png",
+    "content": "Sen. Blumenthal said he wants answers from Tether following reports that it paid millions to a firm started by a former WH crypto adviser.",
+    "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/02/image-d3d3f946-f84d-4ec0-af8e-b8e8f8da2cab-4.jpg",
+    "summary": "",
+    "importance": 5
+  },
+  {
+    "title": "Initia halts network after security incident as attacker reportedly mints tokens",
+    "link": "https://www.theblock.co/news/defi/2026-10-23-initia-halts-network-after-security-incident-attacker-reportedly-mints-tokens-427755",
+    "pubDate": "Fri, 23 Oct 2026 17:03:56 +0000",
+    "source": "The Block",
+    "category": "crypto",
+    "content": "Onchain data shows a $2.7 million ether transfer as Initia investigates the scope of a security incident.",
+    "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2024/02/Banner_02.png",
     "summary": "",
     "importance": 5
   },
@@ -760,35 +786,24 @@
     "importance": 5
   },
   {
-    "title": "Starknet community overwhelmingly backs research into becoming an independent post-quantum Layer 1",
-    "link": "https://www.theblock.co/news/ecosystems/2026-10-22-starknet-community-backs-independent-post-quantum-layer-1-421885",
-    "pubDate": "Thu, 22 Oct 2026 09:32:00 +0000",
-    "source": "The Block",
+    "title": "Bitcoin Core Ends Long Embargoes for Bugs AI Can Rediscover",
+    "link": "https://bitcoinmagazine.com/news/bitcoin-core-ends-long-embargoes",
+    "pubDate": "Fri, 23 Oct 2026 17:06:32 +0000",
+    "source": "Bitcoin Magazine",
     "category": "crypto",
-    "content": "Starknet's community backed research into becoming an independent post-quantum Layer 1, with a draft whitepaper expected in November.",
-    "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/10/Screenshot-2026-10-22-at-09.58.20.png",
+    "content": "Bitcoin Magazine\n\nBitcoin Core Ends Long Embargoes for Bugs AI Can Rediscover\nBitcoin Core now fast-tracks fixes and disclosures for vulnerabilities that AI can easily rediscover, ending the long embargoes those bugs once received.\nThis post Bitcoin Core Ends Long Embargoes for Bugs AI Can Rediscover first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
+    "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/10/Bitcoin-Core-Ends-Long-Embargoes-for-Bugs-AI-Can-Rediscover.jpg",
     "summary": "",
     "importance": 5
   },
   {
-    "title": "Layer 2 Scaling Solutions",
-    "link": "https://www.theblock.co/learn/campus/layer-2-scaling-solutions-419685",
-    "pubDate": "Thu, 22 Oct 2026 09:15:50 +0000",
-    "source": "The Block",
+    "title": "Bitcoin ETFs Lose Over $635M In One Day Following Oil Price Spike ",
+    "link": "https://bitcoinmagazine.com/news/bitcoin-etfs-lose-over-635-million",
+    "pubDate": "Fri, 23 Oct 2026 16:46:36 +0000",
+    "source": "Bitcoin Magazine",
     "category": "crypto",
-    "content": "Layer 2 scaling solutions help blockchains like Ethereum process more activity without forcing every transaction to happen directly on the base chain.\r\nEthereum’s main network is secure and decentralized, but blockspace is limited. When demand rises, fees increase and users can get priced out. Layer 2s address this by moving transaction activity to scaling systems that sit around Ethereum while still using it for settlement, security, data posting, or verification.\r\nThe most important Layer 2 designs today are rollups. Rollups process transactions off-chain, bundle them together, and post data or proofs back to Ethereum. This makes transactions cheaper and faster while keeping a connection to Ethereum’s trust foundation.",
-    "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/10/cover-16x9-2.png",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "South Korea’s crypto bill nears completion while tax debate intensifies: reports",
-    "link": "https://www.theblock.co/news/regulation/2026-10-22-south-koreas-crypto-bill-nears-completion-421880",
-    "pubDate": "Thu, 22 Oct 2026 09:11:57 +0000",
-    "source": "The Block",
-    "category": "crypto",
-    "content": "The bill seeks to establish a framework for digital assets, including licensing regimes for exchanges and rules for stablecoin issuance.",
-    "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/10/Screenshot-2026-10-22-at-10.14.49.png",
+    "content": "Bitcoin Magazine\n\nBitcoin ETFs Lose Over $635M In One Day Following Oil Price Spike \nInvestors this week were buying bitcoin ETFs but that all changed on Thursday. \nThis post Bitcoin ETFs Lose Over $635M In One Day Following Oil Price Spike  first appeared on Bitcoin Magazine and is written by Mathew Di Salvo.",
+    "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/10/Pics-23.jpg",
     "summary": "",
     "importance": 5
   },
@@ -877,28 +892,6 @@
     "category": "crypto",
     "content": "Bitcoin Magazine\n\nCircle Shareholder Sues Trump, Alleging Unconstitutional Profits From $2B UAE Crypto Deals\nA shareholder of stablecoin giant Circle has alleged the president corruptly cashed in on crypto deals. \nThis post Circle Shareholder Sues Trump, Alleging Unconstitutional Profits From $2B UAE Crypto Deals first appeared on Bitcoin Magazine and is written by Mathew Di Salvo.",
     "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/10/Pics-22.jpg",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "Blockchain Association Presses Congress on Crypto Taxes as Clarity Act Stalls",
-    "link": "https://bitcoinmagazine.com/news/blockchain-association-presses-congress",
-    "pubDate": "Thu, 22 Oct 2026 19:51:11 +0000",
-    "source": "Bitcoin Magazine",
-    "category": "crypto",
-    "content": "Bitcoin Magazine\n\nBlockchain Association Presses Congress on Crypto Taxes as Clarity Act Stalls\nThe Blockchain Association asked congressional leaders Thursday to pass bipartisan crypto tax legislation, but with the Clarity Act near dead, the House bill stripped of mining and staking relief, and Congress out until after the midterms, the ask lands with little room to move.\nThis post Blockchain Association Presses Congress on Crypto Taxes as Clarity Act Stalls first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
-    "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/02/U.S.-Treasury-Congress-Needs-to-Pass-Crypto-Legislation-This-Spring-.jpg",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "China Moves to Confiscate $5 Billion in Bitcoin From Fraudster Who Fled to UK: Report",
-    "link": "https://bitcoinmagazine.com/news/china-to-confiscate-billions-in-bitcoin",
-    "pubDate": "Thu, 22 Oct 2026 18:32:02 +0000",
-    "source": "Bitcoin Magazine",
-    "category": "crypto",
-    "content": "Bitcoin Magazine\n\nChina Moves to Confiscate $5 Billion in Bitcoin From Fraudster Who Fled to UK: Report\nThe alleged fraudster tried to run away with nearly 62,000 bitcoins. \nThis post China Moves to Confiscate $5 Billion in Bitcoin From Fraudster Who Fled to UK: Report first appeared on Bitcoin Magazine and is written by Mathew Di Salvo.",
-    "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/10/Pics-1-7.jpg",
     "summary": "",
     "importance": 5
   },
@@ -1013,12 +1006,23 @@
     "importance": 5
   },
   {
-    "title": "Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony.ai and Nvidia",
+    "title": "From Toast to Bessemer: Who founders will hear from at TechCrunch Founder Summit 2026 ",
+    "link": "https://techcrunch.com/2026/10/23/from-toast-to-bessemer-who-founders-will-hear-from-at-techcrunch-founder-summit-2026/",
+    "pubDate": "Fri, 23 Oct 2026 19:06:23 +0000",
+    "source": "TechCrunch AI",
+    "category": "ai",
+    "content": "Hosted by TechCrunch in partnership with Fidelity Private Shares, the full-day event goes beyond fundraising and AI to explore the realities of finding customers, building teams, sharpening a pitch, developing founder leadership, and scaling companies both inside and outside traditional startup hubs.",
+    "image": "",
+    "summary": "",
+    "importance": 5
+  },
+  {
+    "title": "Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony AI and Nvidia",
     "link": "https://techcrunch.com/2026/10/22/uber-rival-indrive-eyes-2027-robotaxi-tests-in-central-asia-with-pony-ai-and-nvidia/",
     "pubDate": "Fri, 23 Oct 2026 04:00:00 +0000",
     "source": "TechCrunch AI",
     "category": "ai",
-    "content": "inDrive plans to begin testing Pony.ai's robotaxis in Kazakhstan's capital in the first half of 2027.",
+    "content": "The company plans to begin testing Pony.ai's robotaxis in Kazakhstan's capital in the first half of 2027.",
     "image": "",
     "summary": "",
     "importance": 5
@@ -1222,13 +1226,35 @@
     "importance": 5
   },
   {
-    "title": "PHP Armageddon: OpenAI, Google’s Wiz find ancient holes, panicking the internet",
-    "link": "https://techcrunch.com/2026/10/21/php-armageddon-openai-googles-wiz-find-ancient-holes-panicking-the-internet/",
-    "pubDate": "Wed, 21 Oct 2026 17:59:12 +0000",
-    "source": "TechCrunch AI",
+    "title": "Jack Dorsey’s Block made an AI model that talks to you like an awkward new friend",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1017906/jack-dorsey-block-dessa-ai-voice-speech",
+    "pubDate": "2026-10-23T19:32:39.000Z",
+    "source": "The Verge AI",
     "category": "ai",
-    "content": "This is the kind of security issue that was found and prevented by AI, but is also a high risk because of AI.",
-    "image": "",
+    "content": "Jack Dorsey's Block announced an AI model called Dessa that's trained \"from scratch on nothing but human conversation,\" and to show off the model, Block shared chats it has had with humans that can occasionally be a little awkward and uncanny.\nTake this one, for example, shared by Dessa lead Ragavan Thurairatnam. The conversation between the model and the speaker does have a mostly natural back and forth (though for some reason, the model initially mistakes the speaker for somebody named \"Ronaldo\").\n\n\nWe made the first AI model you can have a realistic conversation with that was trained entirely on speech!\nDessa is a full-duplex speech-to-sp …\n\n\nRead the full story at The Verge.",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKS536_AI_HALLUCINATION_B.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "summary": "",
+    "importance": 5
+  },
+  {
+    "title": "The iPhone Duo should have been an iPad",
+    "link": "https://www.theverge.com/podcast/1017447/iphone-duo-ipad-review-score-vergecast",
+    "pubDate": "2026-10-23T17:00:18.000Z",
+    "source": "The Verge AI",
+    "category": "ai",
+    "content": "We gave the iPhone Duo a 7 /10. But that wasn't always the score we planned, and it might not be the right score forever. Such are the challenges of reviewing - and assessing - a big, new idea about the most popular smartphone in history. \nOn this episode of The Vergecast, David and Nilay debate whether the Duo deserved the score it got, and try to work through how this device might change over time. Is the outer screen, as Daring Fireball's John Gruber suggested, the worst iPhone ever? Would it be a better product if it started as an iPad rather than an iPhone? Would we feel differently about this thing if it were simply called the iPad Du …\nRead the full story at The Verge.",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/VRG_VST_102326_Site_attempt.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "summary": "",
+    "importance": 5
+  },
+  {
+    "title": "Now Google says it might use your Gmail and Google Photos data to target ads",
+    "link": "https://www.theverge.com/tech/1017600/google-personal-intelligence-privacy-policy-ads-update",
+    "pubDate": "2026-10-23T16:52:55.000Z",
+    "source": "The Verge AI",
+    "category": "ai",
+    "content": "Google has updated its privacy policy in a way that could mean you'll start seeing targeted ads based on your personal data if you're using personalized AI features. The update, spotted by Android Authority, adds an exception to its promise about not using your Drive, Gmail, or Google Photos for personalized ads. While the previous version simply said it wouldn't do that, as of October 16th, Google has added the line, \"unless you choose to make data from these services available to other Google services that support personalized ads.\"\nThat means anyone who has connected their Drive, Gmail, or Google Photos to AI Mode and other Search tools  …\nRead the full story at The Verge.",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK093_GOOGLE_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
     "summary": "",
     "importance": 5
   },
@@ -1310,35 +1336,24 @@
     "importance": 5
   },
   {
-    "title": "In Meta’s version of the future, I’ll have my Muse call your Muse",
-    "link": "https://www.theverge.com/tech/1016905/meta-earnings-fall-2026-muse-network",
-    "pubDate": "2026-10-22T18:15:00.000Z",
-    "source": "The Verge AI",
+    "title": "Updated Google privacy policy says your Gmail might be used for advertising",
+    "link": "https://arstechnica.com/gadgets/2026/10/updated-google-privacy-policy-says-your-gmail-might-be-used-for-advertising/",
+    "pubDate": "Fri, 23 Oct 2026 20:19:55 +0000",
+    "source": "Ars Technica AI",
     "category": "ai",
-    "content": "Mark Zuckerberg is barrelling toward a future in which an autonomous network of AI agents will run our lives - shopping for us, working for us, talking to other people's AI agents for us. Are humans ready for this very specific and unrelenting vision of a life in which we communicate primarily through bot proxies? Actually, don't answer that. The more urgent question coming off Meta's quarterly earnings call Wednesday night is more likely to be: \"Is he?\"\nZuckerberg is staking Meta's future on Muse, the personal AI agent it released to the general public last month. It's early days, but Zuckerberg told investors during Wednesday's call that  …\nRead the full story at The Verge.",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKB394_MUSE_AI_CVIRGINIA_D.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "content": "Turning on Personal Intelligence gives the company more data for ad targeting.",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/05/google-logo-big-g-grooves-1152x648.jpg",
     "summary": "",
     "importance": 5
   },
   {
-    "title": "Microsoft says its AI tool is better than doctors at diagnosing conditions",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1016690/suleyman-microsoft-diagnostic-orchestrator-science-medical-superintelligence",
-    "pubDate": "2026-10-22T18:00:00.000Z",
-    "source": "The Verge AI",
+    "title": "Intel gets waiver after worries fuzzy US ban on foreign-made robots may hit fabs",
+    "link": "https://arstechnica.com/ai/2026/10/intel-gets-waiver-after-worries-fuzzy-us-ban-on-foreign-made-robots-may-hit-fabs/",
+    "pubDate": "Fri, 23 Oct 2026 17:18:31 +0000",
+    "source": "Ars Technica AI",
     "category": "ai",
-    "content": "Microsoft AI chief Mustafa Suleyman. | Getty Images\t\n\nFor years, AI leaders have touted healthcare as one of the clearest examples of where their technology will improve lives. Now \"it is finally here,\" Microsoft AI CEO Mustafa Suleyman tells The Verge. The company claims to have developed an AI-powered tool it says can diagnose conditions up to four times more accurately than human doctors.\nThe findings, published Thursday in one of the world's most prestigious journals, Science, are based on tests pitting Microsoft's AI system against human physicians on a series of scenarios drawn from medical case reports and emergency department data. Microsoft compiled the cases into its own benchmark, S …\nRead the full story at The Verge.",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/gettyimages-2207866106.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "Someone hacked the Switch 2 by using an old game and AI",
-    "link": "https://www.theverge.com/games/1016862/nintendo-switch-2-jailbreak-ai",
-    "pubDate": "2026-10-22T17:21:31.000Z",
-    "source": "The Verge AI",
-    "category": "ai",
-    "content": "The Nintendo Switch 2 has apparently been jailbroken, and a modder has already shown the console running a custom version of Mario Kart World featuring new playable characters like Cinnamoroll, the red Angry Bird, Peter Griffin, and Steve from Minecraft.\n\n\ni jailbroke the nintendo switch 2\nso i modded cinnamoroll, peter griffin, hatsune miku, and more into Mario Kart World, a switch 2 exclusive\nnow watch my friends and i get cooked by bots\nlearn more and get the exploit https://t.co/ykjgyfrFRp pic.twitter.com/BOcFhejRz1\n- pepsipu (@pepsipu) October 22, 2026\n\nOpenAI's Codex helped make this \"ns2jb\" jailbreak, according to Sammy Hajhamid, aka \"pe …\nRead the full story at The Verge.",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Screenshot-2026-10-22-at-10.19.11-AM.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "content": "Company says foreign-made robotic vehicles are crucial to US chip production.",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Intel-fab-interior-1152x648.jpg",
     "summary": "",
     "importance": 5
   },
@@ -1541,28 +1556,6 @@
     "importance": 5
   },
   {
-    "title": "Report: FTC probes Anthropic, OpenAI after Trump dismissed AI fears as “hoax”",
-    "link": "https://arstechnica.com/tech-policy/2026/10/ftc-probes-if-openai-anthropic-security-incidents-harmed-americans-report-says/",
-    "pubDate": "Thu, 15 Oct 2026 15:43:24 +0000",
-    "source": "Ars Technica AI",
-    "category": "ai",
-    "content": "FTC may fine AI firms on par with companies that delay data breach reports.",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2277824748-1024x648.jpg",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "Singer or clanker? YouTube Music will tell you with new gen AI labeling.",
-    "link": "https://arstechnica.com/ai/2026/10/youtube-music-begins-labeling-ai-songs/",
-    "pubDate": "Thu, 15 Oct 2026 15:12:58 +0000",
-    "source": "Ars Technica AI",
-    "category": "ai",
-    "content": "The AI music labels are rolling out now in YouTube Music and will come to YouTube soon.",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/youtube-music-gen-ai-labels-fill2-1152x648.png",
-    "summary": "",
-    "importance": 5
-  },
-  {
     "title": "Bitcoin steadies near $81,700 as altcoins rebound, pepe climbs 13%",
     "link": "https://www.coindesk.com/markets/2026/10/23/bitcoin-steadies-near-usd81-700-as-altcoins-rebound-pepe-climbs-13",
     "pubDate": "Fri, 23 Oct 2026 10:54:41 +0000",
@@ -1607,6 +1600,18 @@
     "content": "Matthew Modabber was reportedly ousted after an internal probe of several instances of misconduct, according to the New York Post.",
     "image": "https://cdn.sanity.io/images/s3y3vcno/production/8244f5db1e6b709627e3a0daa0d726294d50e8c1-8390x5593.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
     "summary": "Polymarket has reportedly fired its marketing chief, Matthew Modabber, after an internal probe revealed several instances of misconduct. Modabber was also a close friend of the CEO.",
+    "importance": 2,
+    "classified": true
+  },
+  {
+    "title": "Bitcoin, gold trim early losses as yen gives up gains. Oil stays near $100",
+    "link": "https://www.coindesk.com/markets/2026/10/23/bitcoin-gold-trim-early-losses-as-yen-gives-up-gains-oil-stays-near-usd100",
+    "pubDate": "Fri, 23 Oct 2026 03:13:01 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "Bitcoin and gold pared early losses as the yen gave up gains and Asian stocks rebounded, though oil near $100 keeps inflation risks in focus.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/d45f74af3bf643e7376c8cc581b322b4ae39f779-2220x1267.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "summary": "Bitcoin and gold pared early losses as the yen's gains reversed and Asian stocks rebounded. Despite these market recoveries, oil prices remaining near $100 continue to highlight inflation risks.",
     "importance": 2,
     "classified": true
   }
