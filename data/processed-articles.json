@@ -264,6 +264,18 @@
     "classified": true
   },
   {
+    "title": "Malaysia, Thailand join Singapore’s cross-border stablecoin push",
+    "link": "https://cointelegraph.com/news/malaysia-thailand-join-singapores-cross-border-stablecoin-push?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Fri, 23 Oct 2026 07:15:53 +0000",
+    "source": "Cointelegraph",
+    "category": "crypto",
+    "content": "BLOOM seeks to cut costs by helping financial institutions coordinate cross-border use of stablecoins and tokenized deposits.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5KRGMT9N9EBWS5WR5Y7D3JH/hi-why-singapore-is-one-of-the-most-crypto-friendly-countries.jpg",
+    "summary": "Malaysia and Thailand have joined Singapore's BLOOM initiative, which aims to reduce costs by coordinating the cross-border use of stablecoins and tokenized deposits among financial institutions. This collaboration marks a significant push for regional integration of blockchain-based financial tools.",
+    "importance": 8,
+    "classified": true
+  },
+  {
     "title": "Dune launches real-time data feeds covering 200 onchain trading venues ",
     "link": "https://cointelegraph.com/news/dune-launches-real-time-data-feeds-covering-200-onchain-trading-venues?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "pubDate": "Thu, 22 Oct 2026 20:36:00 +0000",
@@ -478,17 +490,6 @@
     "summary": "Underdog is partnering with zerohash to introduce crypto deposits to its prediction markets, expected to launch later this year. This new funding option will allow eligible users to deposit digital assets around the clock.",
     "importance": 6,
     "classified": true
-  },
-  {
-    "title": "Malaysia, Thailand join Singapore’s cross-border stablecoin push",
-    "link": "https://cointelegraph.com/news/malaysia-thailand-join-singapores-cross-border-stablecoin-push?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Fri, 23 Oct 2026 07:15:53 +0000",
-    "source": "Cointelegraph",
-    "category": "crypto",
-    "content": "BLOOM seeks to cut costs by helping financial institutions coordinate cross-border use of stablecoins and tokenized deposits.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5KRGMT9N9EBWS5WR5Y7D3JH/hi-why-singapore-is-one-of-the-most-crypto-friendly-countries.jpg",
-    "summary": "",
-    "importance": 5
   },
   {
     "title": "Bitcoin Core changes security policy as AI makes bugs easier to find",
@@ -1151,23 +1152,23 @@
     "importance": 5
   },
   {
-    "title": "OpenAI makes its Jev competitor widely available as decision model competition heats up",
-    "link": "https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/",
-    "pubDate": "Thu, 22 Oct 2026 19:00:00 +0000",
-    "source": "TechCrunch AI",
-    "category": "ai",
-    "content": "OpenAI is launching its decision model to the world. Can it compete with the original Jev?",
-    "image": "",
-    "summary": "",
-    "importance": 5
-  },
-  {
     "title": "Canva releases its first image generation model",
     "link": "https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/",
     "pubDate": "Thu, 22 Oct 2026 19:00:00 +0000",
     "source": "TechCrunch AI",
     "category": "ai",
     "content": "Canva is making its new image model available to all users, promising better, more customizable performance at lower costs.",
+    "image": "",
+    "summary": "",
+    "importance": 5
+  },
+  {
+    "title": "OpenAI makes its Jev competitor widely available as decision model competition heats up",
+    "link": "https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/",
+    "pubDate": "Thu, 22 Oct 2026 19:00:00 +0000",
+    "source": "TechCrunch AI",
+    "category": "ai",
+    "content": "OpenAI is launching its decision model to the world. Can it compete with the original Jev?",
     "image": "",
     "summary": "",
     "importance": 5
@@ -1246,6 +1247,17 @@
     "category": "ai",
     "content": "DeepSeek has reportedly raised $15 billion in one of China's largest funding rounds, just days after the U.S. ordered federal agencies to remove its technology over national security concerns.",
     "image": "",
+    "summary": "",
+    "importance": 5
+  },
+  {
+    "title": "Blue Planet III is keeping the rough edges in the age of AI",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1018205/blue-planet-iii-authentic-organic-ai",
+    "pubDate": "2026-10-24T21:29:12.000Z",
+    "source": "The Verge AI",
+    "category": "ai",
+    "content": "BBC's Blue Planet III is looking to prove its authenticity by leaving in the less-than-perfect shots. Previous incarnations of the nature series were defined by their gorgeous, crystal-clear footage that seemed almost too good to be real. But one dead giveaway of AI is when things look too polished and seamless. To counter that, Blue Planet III goes warts and all.\nExecutive Producer Elizabeth White told The Guardian in the past, \"the amount of plankton and things\" floating in the water would have caused them to cut a shot. Or \"we might have framed out a boat or a buoy or gone: 'Oh, actually … the water conditions are not really good enough  …\nRead the full story at The Verge.",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/blue_planet_iii_episode_03_051_screengrab.avif?quality=90&#038;strip=all&#038;crop=0,0,100,100",
     "summary": "",
     "importance": 5
   },
@@ -1345,17 +1357,6 @@
     "category": "ai",
     "content": "Meta has tweaked its business terms to remove language suggesting that it could freely train its AI models on news sites, like The Verge - but legal experts say these changes aren't enough to address their concerns. \"This does nothing to restrict the 'associated with your products or services' [language] that would let Meta scrape entire sites,\" James Grimmelmann, a professor of digital and information law at Cornell Law School, tells Nieman Lab.\nInitially, Meta's new terms for business accounts appeared to give the company permission to train its AI on news sites. The terms, which go into effect October 30th, stated that Meta \"may use any  …\nRead the full story at The Verge.",
     "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK043_VRG_Illo_N_Barclay_1_Meta.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "Meta turns Muse sharing back on",
-    "link": "https://www.theverge.com/tech/1017066/meta-muse-sharing-back-on-artifiacts",
-    "pubDate": "2026-10-22T20:24:04.000Z",
-    "source": "The Verge AI",
-    "category": "ai",
-    "content": "Meta has re-enabled Muse sharing after security researchers had reported that public conversation links could be easy to find. The researchers said they had been able to find Muse pages like a marketing company's internal revenue review and a small business owner's loan application.\nResearchers at Claroc reported earlier this week that Muse the web addresses for shared conversations from Muse were named after a conversation's title and written into public DNS. Ars Technica said Tuesday that Meta paused the sharing feature after it reached out about what was going on.\nIn a post today on X, Meta's David Singleton says that \"The underlying is …\nRead the full story at The Verge.",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKB394_MUSE_AI_CVIRGINIA_C.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
     "summary": "",
     "importance": 5
   },
