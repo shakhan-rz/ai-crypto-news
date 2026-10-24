@@ -72,6 +72,42 @@
     "classified": true
   },
   {
+    "title": "Crypto under weekend pressure, bitcoin slides below $80,000 on U.S. Middle East evacuations",
+    "link": "https://www.coindesk.com/markets/2026/10/24/crypto-under-weekend-pressure-bitcoin-slides-below-usd80-000-on-u-s-middle-east-evacuations",
+    "pubDate": "Sat, 24 Oct 2026 15:11:24 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "Bitcoin has sunk to its weakest level in more than one month.",
+    "image": "",
+    "summary": "Bitcoin has fallen below $80,000, reaching its weakest point in over a month due to weekend pressure and U.S. Middle East evacuations. This marks a significant downturn for the cryptocurrency market.",
+    "importance": 8,
+    "classified": true
+  },
+  {
+    "title": "Wells Fargo, Cisco, Marvell among latest firms objecting to OKXICE's tokenized stock plan",
+    "link": "https://www.coindesk.com/business/2026/10/24/wells-fargo-cisco-marvell-among-latest-firms-objecting-to-okxice-s-tokenized-stock-plan",
+    "pubDate": "Sat, 24 Oct 2026 14:06:24 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "Six more companies have objected to listing tokenized versions of their stock on the venue, Reuters reported, bringing the total to 22.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/e73f268e229858cf3a57675d0f3f6ee3ae61a1ab-6000x4000.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "summary": "Six more major companies, including Wells Fargo, Cisco, and Marvell, have officially objected to OKXICE's plan to list tokenized versions of their stock. This brings the total number of firms opposing the initiative to 22, indicating growing resistance from traditional corporations to blockchain-based stock tokenization.",
+    "importance": 8,
+    "classified": true
+  },
+  {
+    "title": "U.S. Clarity Act failure gives Asia and Middle East a competitive edge, says Apex Group CEO",
+    "link": "https://www.coindesk.com/policy/2026/10/24/u-s-clarity-act-failure-gives-asia-and-middle-east-a-competitive-edge-says-apex-group-ceo",
+    "pubDate": "Sat, 24 Oct 2026 12:00:00 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "Apex Group CEO Peter Hughes warned that the failure of the U.S. Clarity Act will drive digital asset businesses toward faster-moving jurisdictions in Asia and the Middle East.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/cb2a91ec8eda764f9a0f74f30550a6a716563fda-2517x1416.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "summary": "Apex Group CEO Peter Hughes stated that the U.S. Clarity Act's failure will disadvantage the U.S. in the digital asset space. He believes this regulatory void will prompt digital asset businesses to seek out more progressive jurisdictions in Asia and the Middle East, giving those regions a significant competitive advantage.",
+    "importance": 8,
+    "classified": true
+  },
+  {
     "title": "Franklin Templeton adds $150 million in fund shares to XRP Ledger, all in one wallet",
     "link": "https://www.coindesk.com/markets/2026/10/24/franklin-templeton-adds-usd150-million-in-fund-shares-to-xrp-ledger-all-in-one-wallet",
     "pubDate": "Sat, 24 Oct 2026 04:45:43 +0000",
@@ -156,18 +192,6 @@
     "classified": true
   },
   {
-    "title": "Ethereum’s four-minute settlement plan could lower the cost of moving crypto",
-    "link": "https://www.coindesk.com/tech/2026/10/22/ethereum-s-four-minute-settlement-plan-could-lower-the-cost-of-moving-crypto",
-    "pubDate": "Thu, 22 Oct 2026 12:14:29 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "A new draft targets a fourfold cut in the time it takes Ethereum transactions to become final, which could free up money transfer services tie up while customers’ payments clear.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/c357579ddef2051b405b9e89f8525dd02709081d-5760x3240.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-    "summary": "Ethereum is planning a new draft to drastically cut its transaction finality time to just four minutes. This proposed fourfold reduction could significantly lower the cost of moving crypto, particularly benefiting money transfer services by freeing up funds faster.",
-    "importance": 8,
-    "classified": true
-  },
-  {
     "title": "Wells Fargo and five others object to OKX-ICE tokenized stock listings: Report",
     "link": "https://cointelegraph.com/news/nasdaq-companies-object-tokenized-stock-listings-okx-ice?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "pubDate": "Fri, 23 Oct 2026 21:32:16 +0000",
@@ -216,6 +240,18 @@
     "classified": true
   },
   {
+    "title": "HSBC launches Hong Kong dollar stablecoin for retail payments",
+    "link": "https://cointelegraph.com/news/hsbc-launches-redcoin-hong-kong-dollar-stablecoin-payme?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Fri, 23 Oct 2026 08:47:34 +0000",
+    "source": "Cointelegraph",
+    "category": "crypto",
+    "content": "HSBC is rolling out RedCoin wallets to PayMe users, with plans to support tokenized investment subscriptions and expand into institutional uses.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5KWVDV4958J4HW5KZ8FCECW/hsbc-redcoin-stablecoin.png",
+    "summary": "HSBC is launching RedCoin, a Hong Kong dollar stablecoin, for its PayMe users in Hong Kong, initially for retail payments. The bank plans to expand its use to tokenized investment subscriptions and institutional applications in the future.",
+    "importance": 8,
+    "classified": true
+  },
+  {
     "title": "Dune launches real-time data feeds covering 200 onchain trading venues ",
     "link": "https://cointelegraph.com/news/dune-launches-real-time-data-feeds-covering-200-onchain-trading-venues?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "pubDate": "Thu, 22 Oct 2026 20:36:00 +0000",
@@ -237,6 +273,30 @@
     "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5J7FAXETYN97CD5E364S7XH/hi-why-texas-crypto-reserve-move-signals-a-shift-in-government-crypto-policy.jpg",
     "summary": "A PAC launched by the Winklevoss twins, co-founders of the crypto exchange Gemini, has made an $81,000 ad buy in a Texas Senate race. This move marks one of the crypto-aligned committee's initial ventures into the state, following broader trends of increased political spending by similar groups.",
     "importance": 8,
+    "classified": true
+  },
+  {
+    "title": "Why McDonalds, Microsoft and Google saying no to tokenized stocks isn't a dealbreaker",
+    "link": "https://www.coindesk.com/business/2026/10/23/why-mcdonalds-microsoft-and-google-saying-no-to-tokenized-stocks-isn-t-a-dealbreaker",
+    "pubDate": "Sat, 24 Oct 2026 15:00:00 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "Some of the world's biggest companies objected to being listed on the first tokenized securities trading venue under the SEC's innovation exemption. But the early pushback may say more about issuer caution than about rejection of tokenization itself.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/5f5b4bcc5ab7ba1437f88bb9961bbd70e3bbb448-5624x3749.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "summary": "Major corporations including McDonalds, Microsoft, and Google initially objected to their stocks being listed on the first tokenized securities trading venue under an SEC innovation exemption. However, this pushback is interpreted as issuer caution rather than a fundamental rejection of tokenization technology itself. The article suggests this early resistance isn't a dealbreaker for the future of tokenized securities.",
+    "importance": 7,
+    "classified": true
+  },
+  {
+    "title": "Bitcoin’s wealthy holders turning to loans and yield as investment habits mature: Xapo CEO",
+    "link": "https://www.coindesk.com/",
+    "pubDate": "Sat, 24 Oct 2026 14:00:00 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "Borrowing against bitcoin and earning income to build their BTC holdings are becoming priorities for long-term investors, Xapo Bank CEO Seamus Rocca told CoinDesk.",
+    "image": "",
+    "summary": "Wealthy Bitcoin holders are increasingly using loans and yield-generating strategies to mature their investment habits and build their BTC holdings, according to Xapo Bank CEO Seamus Rocca. This indicates a shift towards more sophisticated financial approaches among long-term crypto investors.",
+    "importance": 7,
     "classified": true
   },
   {
@@ -300,42 +360,6 @@
     "classified": true
   },
   {
-    "title": "Crypto is making a splash in U.S. elections — but chiefly in jabs about industry influence",
-    "link": "https://www.coindesk.com/news-analysis/2026/10/21/crypto-is-making-a-splash-in-u-s-elections-but-chiefly-in-jabs-about-industry-influence",
-    "pubDate": "Thu, 22 Oct 2026 13:00:00 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "Boosters often say crypto voters can swing elections, but Democrats are seeking mileage out of tying crypto to Trump, corruption and attempts to buy seats in Congress.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/298fa0a6c5e0d3bff5bd629adb7e45ce1f1bc968-2618x1440.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-    "summary": "While cryptocurrency advocates assert their voters can influence elections, Democrats are actively using crypto as a tool to criticize former President Trump, alleging corruption and industry attempts to buy political seats. This strategy aims to leverage concerns about crypto's influence rather than focusing on its electoral power.",
-    "importance": 7,
-    "classified": true
-  },
-  {
-    "title": "Crypto traders seek shelter in bitcoin as altcoins slide and ETF flows wobble",
-    "link": "https://www.coindesk.com/daybook-us/2026/10/22/crypto-traders-seek-shelter-in-bitcoin-as-altcoins-slide-and-etf-flows-wobble",
-    "pubDate": "Thu, 22 Oct 2026 11:20:04 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "Your day-ahead look for Oct. 21, 2026",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/f6e1819745339cda15d7d57fba10abc701690144-3268x1838.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-    "summary": "Crypto traders are moving their investments into Bitcoin as altcoins slide and ETF flows wobble. This article provides a market outlook for October 21, 2026, highlighting a shift in investor strategy within the cryptocurrency market.",
-    "importance": 7,
-    "classified": true
-  },
-  {
-    "title": "Bitcoin slides below $82,000 as AI doubts return, with DeFi tokens leading declines",
-    "link": "https://www.coindesk.com/markets/2026/10/22/bitcoin-slides-below-usd82-000-as-ai-doubts-return-with-defi-tokens-leading-declines",
-    "pubDate": "Thu, 22 Oct 2026 10:50:04 +0000",
-    "source": "CoinDesk",
-    "category": "both",
-    "content": "Bitcoin as much as 2.9% to around $81,600 as Nasdaq futures dropped, while the CoinDesk 80 lost 3.5% and DeFi index slid 6%.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/33df524da73a71dffe5032199c51d40709a67399-1920x1080.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-    "summary": "Bitcoin fell below $82,000, dropping to around $81,600, while the broader CoinDesk 80 index lost 3.5% and the DeFi index slid 6%. This market decline is attributed to returning \"AI doubts\" and a drop in Nasdaq futures.",
-    "importance": 7,
-    "classified": true
-  },
-  {
     "title": "IRS plans lower tax disclosure penalties, including for crypto: Forbes",
     "link": "https://cointelegraph.com/news/irs-plans-lower-penalties-for-crypto-tax-disclosures-forbes-reports?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "pubDate": "Fri, 23 Oct 2026 20:54:17 +0000",
@@ -372,26 +396,14 @@
     "classified": true
   },
   {
-    "title": "Crypto traders price India telecoms company Reliance Jio's IPO at about $110 billion",
-    "link": "https://www.coindesk.com/markets/2026/10/22/crypto-traders-price-india-telecoms-company-reliance-jio-s-ipo-at-about-usd110-billion",
-    "pubDate": "Thu, 22 Oct 2026 10:18:28 +0000",
+    "title": "Argentina drops criminal probe into President Milei over crashed memecoin LIBRA",
+    "link": "https://www.coindesk.com/business/2026/10/24/argentina-drops-criminal-probe-into-president-milei-over-crashed-memecoin-libra",
+    "pubDate": "Sat, 24 Oct 2026 14:38:47 +0000",
     "source": "CoinDesk",
     "category": "crypto",
-    "content": "The pre-IPO Jio contract on Bitget is trading near $12, a roughly 4% premium on the top price band, as India’s largest public offering remains open for subscription.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/2180f062d339af02b2052281b305e8f75b13fdef-1920x1281.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-    "summary": "Pre-IPO contracts for India's Reliance Jio are trading on the crypto platform Bitget near $12, implying a valuation of approximately $110 billion for the telecom company. This activity, which reflects a 4% premium, is taking place while the country's largest public offering is still open for subscription.",
-    "importance": 6,
-    "classified": true
-  },
-  {
-    "title": "Live updates: Bitcoin falls back to $81,000, with interest rates tumbling as stocks crack",
-    "link": "https://www.coindesk.com/business/2026/10/22/live-updates-bitcoin-s-round-trip-to-usd85-000-burns-traders-on-both-sides",
-    "pubDate": "Thu, 22 Oct 2026 09:54:26 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "The Nasdaq is down more than 2% as the AI bull market trade continues to unwind. U.S. interest rates are plunging even as oil surges.",
-    "image": "",
-    "summary": "Bitcoin experienced a significant price fluctuation, retreating from an $85,000 run to below $82,500, a move attributed to weak tech earnings. This volatility impacted traders on both sides of the market, though XMR notably defied the drop with an 11% increase.",
+    "content": "The judge found that Milei's promotion of LIBRA did not constitute fraud, despite the attention his support drew to the token.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/d5be50574b7c98b10befa8ee5f9704bd3fba1aa4-960x640.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "summary": "An Argentine judge has dropped a criminal probe against President Milei concerning his promotion of the crashed memecoin LIBRA. The court ruled that Milei's support for the token did not constitute fraud, despite the significant attention his endorsement drew to it.",
     "importance": 6,
     "classified": true
   },
@@ -442,17 +454,6 @@
     "summary": "Underdog is partnering with zerohash to introduce crypto deposits to its prediction markets, expected to launch later this year. This new funding option will allow eligible users to deposit digital assets around the clock.",
     "importance": 6,
     "classified": true
-  },
-  {
-    "title": "HSBC launches Hong Kong dollar stablecoin for retail payments",
-    "link": "https://cointelegraph.com/news/hsbc-launches-redcoin-hong-kong-dollar-stablecoin-payme?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Fri, 23 Oct 2026 08:47:34 +0000",
-    "source": "Cointelegraph",
-    "category": "crypto",
-    "content": "HSBC is rolling out RedCoin wallets to PayMe users, with plans to support tokenized investment subscriptions and expand into institutional uses.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5KWVDV4958J4HW5KZ8FCECW/hsbc-redcoin-stablecoin.png",
-    "summary": "",
-    "importance": 5
   },
   {
     "title": "Malaysia, Thailand join Singapore’s cross-border stablecoin push",
@@ -1027,6 +1028,28 @@
     "importance": 5
   },
   {
+    "title": "Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats. ",
+    "link": "https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/",
+    "pubDate": "Sat, 24 Oct 2026 15:00:00 +0000",
+    "source": "TechCrunch AI",
+    "category": "ai",
+    "content": "A new study found Grok's AI overwhelmingly recommends Republican candidates while OpenAI's GPT favors Democrats, with the two AI models disagreeing in more than 90% of nearly 500 election races.",
+    "image": "",
+    "summary": "",
+    "importance": 5
+  },
+  {
+    "title": "Here are the top AI agents that can live in your text messages ",
+    "link": "https://techcrunch.com/2026/10/24/all-the-ai-agents-that-can-live-in-your-text-messages/",
+    "pubDate": "Sat, 24 Oct 2026 14:00:00 +0000",
+    "source": "TechCrunch AI",
+    "category": "ai",
+    "content": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
+    "image": "",
+    "summary": "",
+    "importance": 5
+  },
+  {
     "title": "OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”",
     "link": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/",
     "pubDate": "Fri, 23 Oct 2026 23:05:49 +0000",
@@ -1104,23 +1127,23 @@
     "importance": 5
   },
   {
-    "title": "Canva releases its first image generation model",
-    "link": "https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/",
-    "pubDate": "Thu, 22 Oct 2026 19:00:00 +0000",
-    "source": "TechCrunch AI",
-    "category": "ai",
-    "content": "Canva is making its new image model available to all users, promising better, more customizable performance at lower costs.",
-    "image": "",
-    "summary": "",
-    "importance": 5
-  },
-  {
     "title": "OpenAI makes its Jev competitor widely available as decision model competition heats up",
     "link": "https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/",
     "pubDate": "Thu, 22 Oct 2026 19:00:00 +0000",
     "source": "TechCrunch AI",
     "category": "ai",
     "content": "OpenAI is launching its decision model to the world. Can it compete with the original Jev?",
+    "image": "",
+    "summary": "",
+    "importance": 5
+  },
+  {
+    "title": "Canva releases its first image generation model",
+    "link": "https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/",
+    "pubDate": "Thu, 22 Oct 2026 19:00:00 +0000",
+    "source": "TechCrunch AI",
+    "category": "ai",
+    "content": "Canva is making its new image model available to all users, promising better, more customizable performance at lower costs.",
     "image": "",
     "summary": "",
     "importance": 5
@@ -1220,28 +1243,6 @@
     "source": "TechCrunch AI",
     "category": "ai",
     "content": "The social media giant is planning a new stock strategy to help power its broad investments in AI models and services.",
-    "image": "",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "TechCrunch Founder Summit 2026: Everything you need to know ",
-    "link": "https://techcrunch.com/2026/10/21/techcrunch-founder-summit-2026-everything-you-need-to-know/",
-    "pubDate": "Wed, 21 Oct 2026 21:16:20 +0000",
-    "source": "TechCrunch AI",
-    "category": "ai",
-    "content": "TechCrunch Founder Summit is a full-day gathering in Boston on November 4 where founders across all stages connect with top VCs and experienced entrepreneurs to gain tactical insights on building and scaling their companies.",
-    "image": "",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "Meta says Muse has over 10M users, with shopping a top activity",
-    "link": "https://techcrunch.com/2026/10/21/meta-says-muse-has-over-10m-users-with-shopping-a-top-activity/",
-    "pubDate": "Wed, 21 Oct 2026 21:14:19 +0000",
-    "source": "TechCrunch AI",
-    "category": "ai",
-    "content": "Meta Muse users are adopting the app for shopping and personal productivity, the company said during its Q3 earnings call. The AI app now has over 10M users.",
     "image": "",
     "summary": "",
     "importance": 5
