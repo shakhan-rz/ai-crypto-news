@@ -24,18 +24,6 @@
     "classified": true
   },
   {
-    "title": "A16z is the latest VC giant to widen bets beyond crypto and into AI and emerging tech",
-    "link": "https://www.coindesk.com/business/2026/10/22/a16z-is-the-latest-vc-giant-to-widen-bets-beyond-crypto-and-into-ai-and-emerging-tech",
-    "pubDate": "Thu, 22 Oct 2026 18:30:57 +0000",
-    "source": "CoinDesk",
-    "category": "both",
-    "content": "The venture investor behind early bets on Coinbase, Solana and Uniswap said is broadening its focus, joining other crypto investment firms looking beyond blockchain to artificial intelligence and tech themes.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/941dba842a1a32a077b3b9c26476efac090f9415-7081x3983.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-    "summary": "A16z, a major venture capital firm known for its early investments in prominent crypto projects like Coinbase and Solana, is now expanding its focus. The firm is diversifying its portfolio beyond blockchain to include artificial intelligence and other emerging technology themes.",
-    "importance": 9,
-    "classified": true
-  },
-  {
     "title": "US senator probes Tether after reported deal with ex-Trump crypto adviser",
     "link": "https://cointelegraph.com/news/us-senator-probe-bo-hines-trump-crypto-adviser-tether-deal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "pubDate": "Fri, 23 Oct 2026 17:42:12 +0000",
@@ -80,6 +68,18 @@
     "content": "Bitcoin Core says keeping certain vulnerabilities secret no longer offers much protection in the wake of AI-assisted bug hunting.",
     "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5KGJ7H1P06HPDXG7J0T2HX1/bitcoin-bug.jpg",
     "summary": "Bitcoin Core is changing its security policy, abandoning the practice of keeping certain vulnerabilities secret due to the rise of AI-assisted bug hunting. The project believes that AI now makes it significantly easier to discover bugs, rendering traditional secrecy ineffective.",
+    "importance": 9,
+    "classified": true
+  },
+  {
+    "title": "Keystone customers say breach exposed data the hardware wallet maker promised to delete",
+    "link": "https://www.theblock.co/news/business/2026-10-25-keystone-customers-say-breach-exposed-data-the-hardware-wallet-maker-promised-to-delete-431613",
+    "pubDate": "Sun, 25 Oct 2026 15:56:30 +0000",
+    "source": "The Block",
+    "category": "crypto",
+    "content": "Keystone has said it deletes customer information 180 days after their orders in most cases, though X users have cast doubt on that claim.",
+    "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2023/04/20230411_Hack_Generic_1.jpg",
+    "summary": "Keystone customers claim their data was exposed in a breach, despite the hardware wallet maker's assurance that it deletes customer information 180 days after orders. This incident has led X users to question the company's data deletion policies.",
     "importance": 9,
     "classified": true
   },
@@ -236,6 +236,18 @@
     "content": "Developers canceled Monday's Hoodi activation after researchers showed how new gas rules could let smart contracts permanently record failed operations.",
     "image": "https://cdn.sanity.io/images/s3y3vcno/production/c357579ddef2051b405b9e89f8525dd02709081d-5760x3240.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
     "summary": "Ethereum has canceled its Hoodi test activation, part of the Glamsterdam update, after security developers identified a critical risk. Researchers found that new gas rules could enable smart contracts to permanently record failed operations, potentially impacting existing contracts.",
+    "importance": 8,
+    "classified": true
+  },
+  {
+    "title": "ECB official sees digital euro as key to protecting EU ‘sovereignty’",
+    "link": "https://cointelegraph.com/news/ecb-official-sees-digital-euro-tool-to-protect-eu-sovereignty?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Sun, 25 Oct 2026 15:11:00 +0000",
+    "source": "Cointelegraph",
+    "category": "crypto",
+    "content": "Piero Cipollone said the bloc is on track to test real transactions in 2027 and roll out a digital euro as early as 2029, pending legislation this year.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5SRKMQRMTK1JF6KQQYDH57E/hi-european-mica-regulation-on-digital-euro-where-do-we-stand-1.jpg",
+    "summary": "Piero Cipollone, an ECB official, stated that the digital euro is essential for protecting the EU's sovereignty. He announced plans to test real transactions by 2027 and aims for a full rollout as early as 2029, contingent on legislation being passed this year.",
     "importance": 8,
     "classified": true
   },
@@ -420,6 +432,30 @@
     "classified": true
   },
   {
+    "title": "Initia halts network after security incident as attacker reportedly mints tokens",
+    "link": "https://www.theblock.co/news/defi/2026-10-23-initia-halts-network-after-security-incident-attacker-reportedly-mints-tokens-427755",
+    "pubDate": "Fri, 23 Oct 2026 17:03:56 +0000",
+    "source": "The Block",
+    "category": "crypto",
+    "content": "Onchain data shows a $2.7 million ether transfer as Initia investigates the scope of a security incident.",
+    "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2024/02/Banner_02.png",
+    "summary": "Initia has halted its network following a security incident where an attacker reportedly minted tokens. Onchain data indicates a $2.7 million ether transfer as Initia investigates the full scope of the breach.",
+    "importance": 8,
+    "classified": true
+  },
+  {
+    "title": "Singapore, Malaysia and Thailand central banks expand cross-border stablecoin initiative involving Ripple, Visa and Mastercard",
+    "link": "https://www.theblock.co/news/regulation/2026-10-23-singapore-malaysia-and-thailand-central-banks-expand-cross-border-stablecoin-initiative-involving-ripple-visa-and-mastercard-426492",
+    "pubDate": "Fri, 23 Oct 2026 12:55:26 +0000",
+    "source": "The Block",
+    "category": "crypto",
+    "content": "Malaysia and Thailand have joined Singapore's BLOOM initiative for cross-border stablecoin and tokenized deposit settlement.",
+    "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/10/Screenshot-2026-10-23-at-13.23.12.png",
+    "summary": "Singapore's BLOOM initiative for cross-border stablecoin and tokenized deposit settlement has expanded to include Malaysia and Thailand. This project involves central banks from the three nations, along with private sector players like Ripple, Visa, and Mastercard, aiming to enhance international financial transactions.",
+    "importance": 8,
+    "classified": true
+  },
+  {
     "title": "Why McDonalds, Microsoft and Google saying no to tokenized stocks isn't a dealbreaker",
     "link": "https://www.coindesk.com/business/2026/10/23/why-mcdonalds-microsoft-and-google-saying-no-to-tokenized-stocks-isn-t-a-dealbreaker",
     "pubDate": "Sat, 24 Oct 2026 15:00:00 +0000",
@@ -528,15 +564,27 @@
     "classified": true
   },
   {
-    "title": "Fireblocks disputes report of $2.5B Visa acquisition talks",
-    "link": "https://cointelegraph.com/news/fireblocks-disputes-report-of-25b-visa-acquisition-talks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Thu, 22 Oct 2026 14:41:00 +0000",
-    "source": "Cointelegraph",
+    "title": "Phantom rolls out Kalshi prediction markets to US users, says it’s ‘confident and comfortable’ amid state lawsuits",
+    "link": "https://www.theblock.co/news/markets/2026-10-23-phantom-rolls-out-kalshi-prediction-markets-us-421652",
+    "pubDate": "Fri, 23 Oct 2026 13:00:00 +0000",
+    "source": "The Block",
     "category": "crypto",
-    "content": "Fireblocks told Cointelegraph that reports of a potential $2.5 billion acquisition by Visa are “not true at present time,” while Visa declined to comment on the reported talks.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5J0A93M8W14V9Z0MG6RYGGR/fishes-shark-dolphin-new.png",
-    "summary": "Fireblocks has denied recent reports suggesting that Visa is in talks to acquire the crypto custody firm for $2.5 billion, stating that such claims are \"not true at present time.\" Visa declined to comment on the reported discussions. This news concerns a potential major acquisition in the cryptocurrency space.",
+    "content": "Phantom users will fund trades with CASH stablecoins, with market restrictions applied in Michigan, Nevada and Washington.",
+    "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2024/11/20241125_Phantom_News_2.jpg",
+    "summary": "Phantom is launching Kalshi prediction markets for its US users, enabling trades funded by CASH stablecoins. While Phantom remains confident despite ongoing state lawsuits, market restrictions are in place for Michigan, Nevada, and Washington.",
     "importance": 7,
+    "classified": true
+  },
+  {
+    "title": "Latvia targets tokenization rules in 2027 with commercial property in focus",
+    "link": "https://www.coindesk.com/business/2026/10/25/latvia-targets-tokenization-rules-in-2027-with-commercial-property-in-focus",
+    "pubDate": "Sun, 25 Oct 2026 15:00:00 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "Economics Minister Viktors Valainis says rules could arrive in the first half of next year, but an overdue assessment remains unfinished and no sovereign-bond issuance was identified.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/4884d996e19df3d06ed21ee3284515f592e3718a-1920x1280.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "summary": "Latvia aims to introduce tokenization rules for commercial property by 2027, with its Economics Minister suggesting they could be ready by the first half of next year. This regulatory initiative is still awaiting an overdue assessment.",
+    "importance": 6,
     "classified": true
   },
   {
@@ -634,39 +682,6 @@
     "summary": "Bitcoin experienced daily losses of 3% as US stocks declined. This market pressure stemmed from President Donald Trump's comments regarding potential military action against Iran.",
     "importance": 5,
     "classified": true
-  },
-  {
-    "title": "Initia halts network after security incident as attacker reportedly mints tokens",
-    "link": "https://www.theblock.co/news/defi/2026-10-23-initia-halts-network-after-security-incident-attacker-reportedly-mints-tokens-427755",
-    "pubDate": "Fri, 23 Oct 2026 17:03:56 +0000",
-    "source": "The Block",
-    "category": "crypto",
-    "content": "Onchain data shows a $2.7 million ether transfer as Initia investigates the scope of a security incident.",
-    "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2024/02/Banner_02.png",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "Phantom rolls out Kalshi prediction markets to US users, says it’s ‘confident and comfortable’ amid state lawsuits",
-    "link": "https://www.theblock.co/news/markets/2026-10-23-phantom-rolls-out-kalshi-prediction-markets-us-421652",
-    "pubDate": "Fri, 23 Oct 2026 13:00:00 +0000",
-    "source": "The Block",
-    "category": "crypto",
-    "content": "Phantom users will fund trades with CASH stablecoins, with market restrictions applied in Michigan, Nevada and Washington.",
-    "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2024/11/20241125_Phantom_News_2.jpg",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "Singapore, Malaysia and Thailand central banks expand cross-border stablecoin initiative involving Ripple, Visa and Mastercard",
-    "link": "https://www.theblock.co/news/regulation/2026-10-23-singapore-malaysia-and-thailand-central-banks-expand-cross-border-stablecoin-initiative-involving-ripple-visa-and-mastercard-426492",
-    "pubDate": "Fri, 23 Oct 2026 12:55:26 +0000",
-    "source": "The Block",
-    "category": "crypto",
-    "content": "Malaysia and Thailand have joined Singapore's BLOOM initiative for cross-border stablecoin and tokenized deposit settlement.",
-    "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/10/Screenshot-2026-10-23-at-13.23.12.png",
-    "summary": "",
-    "importance": 5
   },
   {
     "title": "Bitcoin ETFs swing back to net outflows as $636 million in withdrawals erase previous day’s inflows",
@@ -786,17 +801,6 @@
     "category": "crypto",
     "content": "Fireblocks denied an Axios report that Visa is in talks to acquire the crypto custody firm for around $2.5 billion.",
     "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/10/Screenshot-2026-10-22-at-14.15.53.png",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "Dune launches onchain trading data feeds as tokenized markets expand",
-    "link": "https://www.theblock.co/news/business/2026-10-22-dune-onchain-trading-data-feeds-421889",
-    "pubDate": "Thu, 22 Oct 2026 12:00:00 +0000",
-    "source": "The Block",
-    "category": "crypto",
-    "content": "The new real-time market feeds will cover trade data from over 200 onchain venues across 12 blockchain networks.",
-    "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/10/Screenshot-2026-10-22-at-11.20.33.png",
     "summary": "",
     "importance": 5
   },
@@ -1021,6 +1025,28 @@
     "importance": 5
   },
   {
+    "title": "AI delivers ‘zero financial payoff’ to most companies, Apollo economist says",
+    "link": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/",
+    "pubDate": "Sun, 25 Oct 2026 16:57:32 +0000",
+    "source": "TechCrunch AI",
+    "category": "ai",
+    "content": "\"Despite massive investments and widespread hype around artificial intelligence, the technology has delivered zero financial payoff to corporate America outside of tech.\"",
+    "image": "",
+    "summary": "",
+    "importance": 5
+  },
+  {
+    "title": "The hottest AI wearables and gadgets you should know about",
+    "link": "https://techcrunch.com/2026/10/25/the-hottest-ai-wearables-and-gadgets-you-should-know-about/",
+    "pubDate": "Sun, 25 Oct 2026 14:10:00 +0000",
+    "source": "TechCrunch AI",
+    "category": "ai",
+    "content": "We compiled a list of all the hottest AI wearables, including Muse Charm, Bee, Friend, Plaud, and more.",
+    "image": "",
+    "summary": "",
+    "importance": 5
+  },
+  {
     "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
     "link": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
     "pubDate": "Sat, 24 Oct 2026 19:00:00 +0000",
@@ -1142,23 +1168,23 @@
     "importance": 5
   },
   {
-    "title": "Canva releases its first image generation model",
-    "link": "https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/",
-    "pubDate": "Thu, 22 Oct 2026 19:00:00 +0000",
-    "source": "TechCrunch AI",
-    "category": "ai",
-    "content": "Canva is making its new image model available to all users, promising better, more customizable performance at lower costs.",
-    "image": "",
-    "summary": "",
-    "importance": 5
-  },
-  {
     "title": "OpenAI makes its Jev competitor widely available as decision model competition heats up",
     "link": "https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/",
     "pubDate": "Thu, 22 Oct 2026 19:00:00 +0000",
     "source": "TechCrunch AI",
     "category": "ai",
     "content": "OpenAI is launching its decision model to the world. Can it compete with the original Jev?",
+    "image": "",
+    "summary": "",
+    "importance": 5
+  },
+  {
+    "title": "Canva releases its first image generation model",
+    "link": "https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/",
+    "pubDate": "Thu, 22 Oct 2026 19:00:00 +0000",
+    "source": "TechCrunch AI",
+    "category": "ai",
+    "content": "Canva is making its new image model available to all users, promising better, more customizable performance at lower costs.",
     "image": "",
     "summary": "",
     "importance": 5
@@ -1219,29 +1245,7 @@
     "importance": 5
   },
   {
-    "title": "Nirva raises $33M for a pendant that only listens to you",
-    "link": "https://techcrunch.com/2026/10/22/nirva-raises-33m-for-a-pendant-that-only-listens-to-you/",
-    "pubDate": "Thu, 22 Oct 2026 13:26:52 +0000",
-    "source": "TechCrunch AI",
-    "category": "ai",
-    "content": "Nirva will ship its $249 ambient AI pendant by the end of the year.",
-    "image": "",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "DeepSeek reportedly raises $15B days after US restrictions",
-    "link": "https://techcrunch.com/2026/10/22/deepseek-reportedly-raises-15b-days-after-us-restrictions/",
-    "pubDate": "Thu, 22 Oct 2026 13:11:13 +0000",
-    "source": "TechCrunch AI",
-    "category": "ai",
-    "content": "DeepSeek has reportedly raised $15 billion in one of China's largest funding rounds, just days after the U.S. ordered federal agencies to remove its technology over national security concerns.",
-    "image": "",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "r/opensource just banned AI, non-English speakers and more",
+    "title": "r/opensource just banned AI, non-English speakers, and more",
     "link": "https://www.theverge.com/ai-artificial-intelligence/1018217/reddit-opensource-ai-ban",
     "pubDate": "2026-10-25T13:25:32.000Z",
     "source": "The Verge AI",
