@@ -72,6 +72,18 @@
     "classified": true
   },
   {
+    "title": "Bitcoin Core changes security policy as AI makes bugs easier to find",
+    "link": "https://cointelegraph.com/news/bitcoin-core-changes-security-policy-as-ai-makes-bugs-easier-to-find?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Fri, 23 Oct 2026 04:34:14 +0000",
+    "source": "Cointelegraph",
+    "category": "both",
+    "content": "Bitcoin Core says keeping certain vulnerabilities secret no longer offers much protection in the wake of AI-assisted bug hunting.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5KGJ7H1P06HPDXG7J0T2HX1/bitcoin-bug.jpg",
+    "summary": "Bitcoin Core is changing its security policy, abandoning the practice of keeping certain vulnerabilities secret due to the rise of AI-assisted bug hunting. The project believes that AI now makes it significantly easier to discover bugs, rendering traditional secrecy ineffective.",
+    "importance": 9,
+    "classified": true
+  },
+  {
     "title": "Strategy, Strive face balancing act between bitcoin buying and preferred stock dividends",
     "link": "https://www.coindesk.com/business/2026/10/24/strategy-strive-face-balancing-act-between-bitcoin-buying-and-preferred-stock-dividends",
     "pubDate": "Sat, 24 Oct 2026 16:00:00 +0000",
@@ -490,17 +502,6 @@
     "summary": "Underdog is partnering with zerohash to introduce crypto deposits to its prediction markets, expected to launch later this year. This new funding option will allow eligible users to deposit digital assets around the clock.",
     "importance": 6,
     "classified": true
-  },
-  {
-    "title": "Bitcoin Core changes security policy as AI makes bugs easier to find",
-    "link": "https://cointelegraph.com/news/bitcoin-core-changes-security-policy-as-ai-makes-bugs-easier-to-find?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Fri, 23 Oct 2026 04:34:14 +0000",
-    "source": "Cointelegraph",
-    "category": "crypto",
-    "content": "Bitcoin Core says keeping certain vulnerabilities secret no longer offers much protection in the wake of AI-assisted bug hunting.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5KGJ7H1P06HPDXG7J0T2HX1/bitcoin-bug.jpg",
-    "summary": "",
-    "importance": 5
   },
   {
     "title": "Switzerland’s first retail spot Bitcoin ETF targets November launch",
@@ -1152,23 +1153,23 @@
     "importance": 5
   },
   {
-    "title": "Canva releases its first image generation model",
-    "link": "https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/",
-    "pubDate": "Thu, 22 Oct 2026 19:00:00 +0000",
-    "source": "TechCrunch AI",
-    "category": "ai",
-    "content": "Canva is making its new image model available to all users, promising better, more customizable performance at lower costs.",
-    "image": "",
-    "summary": "",
-    "importance": 5
-  },
-  {
     "title": "OpenAI makes its Jev competitor widely available as decision model competition heats up",
     "link": "https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/",
     "pubDate": "Thu, 22 Oct 2026 19:00:00 +0000",
     "source": "TechCrunch AI",
     "category": "ai",
     "content": "OpenAI is launching its decision model to the world. Can it compete with the original Jev?",
+    "image": "",
+    "summary": "",
+    "importance": 5
+  },
+  {
+    "title": "Canva releases its first image generation model",
+    "link": "https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/",
+    "pubDate": "Thu, 22 Oct 2026 19:00:00 +0000",
+    "source": "TechCrunch AI",
+    "category": "ai",
+    "content": "Canva is making its new image model available to all users, promising better, more customizable performance at lower costs.",
     "image": "",
     "summary": "",
     "importance": 5
