@@ -1,5 +1,17 @@
 [
   {
+    "title": "Bitcoin wallet bug let rogue servers steal funds when users tried to speed up payments",
+    "link": "https://www.coindesk.com/tech/2026/10/26/bitcoin-wallet-bug-let-rogue-servers-steal-funds-when-users-tried-to-speed-up-payments",
+    "pubDate": "Mon, 26 Oct 2026 05:15:20 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "Attackers replaced legitimate transactions with fake ones, then waited for users to approve higher fees. At least one person lost bitcoin before developers patched the flaw.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/dd1a65646bd21c2b4d0d2821fdd923999c402438-1000x667.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "summary": "A critical bug in a Bitcoin wallet allowed rogue servers to steal funds from users. Attackers exploited the flaw by replacing legitimate transactions with fake ones when users attempted to speed up payments with higher fees. At least one user lost Bitcoin before developers issued a patch for the vulnerability.",
+    "importance": 9,
+    "classified": true
+  },
+  {
     "title": "Bitcoin Core changes security rules as AI makes finding code bugs dangerously easy",
     "link": "https://www.coindesk.com/tech/2026/10/23/bitcoin-will-now-stop-hiding-bugs-an-ai-can-find-in-one-prompt",
     "pubDate": "Fri, 23 Oct 2026 12:03:53 +0000",
@@ -8,18 +20,6 @@
     "content": "Developers merged a policy change that ends the months-long embargo for flaws a chatbot could rediscover, after a summer in which AI found hundreds of bitcoin bugs before the humans did.",
     "image": "https://cdn.sanity.io/images/s3y3vcno/production/516fb9c73d621351eab5eec79a9ab7a268a7f595-1500x1000.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
     "summary": "Bitcoin Core developers have implemented a new security policy, ending a long-standing embargo on publicly disclosing rediscovered code flaws. This change was necessitated by AI chatbots, which have proven dangerously adept at finding hundreds of Bitcoin bugs much faster than human developers.",
-    "importance": 9,
-    "classified": true
-  },
-  {
-    "title": "Senate's top Democratic investigator looking into Tether payments to Bo Hines' firm",
-    "link": "https://www.coindesk.com/policy/2026/10/22/senate-s-top-democratic-investigator-looking-into-tether-payments-to-bo-hines-firm",
-    "pubDate": "Thu, 22 Oct 2026 22:43:36 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "Senator Richard Blumenthal, the ranking Democrat on the investigations subcommittee, added a probe of the ex-White House crypto adviser to his list of crypto interests.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/99dc294f833b46c672b0cdc7f4decad2cdcd8126-4030x2267.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-    "summary": "Senator Richard Blumenthal, a leading Democratic investigator, has initiated a probe into Tether payments made to a firm linked to Bo Hines, a former White House crypto adviser. This adds to the Senator's growing list of cryptocurrency-related investigations.",
     "importance": 9,
     "classified": true
   },
@@ -93,6 +93,54 @@
     "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2022/05/20220516-News-Market-Decline-3.png",
     "summary": "Crypto long positions incurred $404 million in losses within four hours as Bitcoin briefly dropped below $80,000. This market movement coincided with significant outflows from spot Bitcoin ETFs, totaling $773 million on Thursday and Friday, following a period of net inflows.",
     "importance": 9,
+    "classified": true
+  },
+  {
+    "title": "Over 11 million bitcoin has no known owner. Here's what it means",
+    "link": "https://www.coindesk.com/markets/2026/10/26/over-11-million-btc-can-t-be-linked-to-any-known-owner-even-after-wall-street-buying",
+    "pubDate": "Mon, 26 Oct 2026 07:18:24 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "The large number of coins held in unidentified wallets shows that retail investors have been in this market for years, observers said. But this interpretation comes with a caveat.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/3338fe3126e84b6bd4f59bbaf5292c3a4de4f9be-2600x1360.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "summary": "Over 11 million Bitcoin is held in unidentified wallets, suggesting a long-term presence of retail investors in the market. However, this interpretation comes with a significant caveat, according to observers.",
+    "importance": 8,
+    "classified": true
+  },
+  {
+    "title": "India's largest crypto exchange absorbs $16 million loss from internal process failure tied to retired wallet",
+    "link": "https://www.coindesk.com/markets/2026/10/26/coindcx-absorbs-usd16-million-loss-from-internal-process-failure-tied-to-retired-wallet",
+    "pubDate": "Mon, 26 Oct 2026 05:39:17 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "The Mumbai-based exchange initially dismissed reports of suspicious outflows as a false alarm. It now says it lost $16 million and will absorb the loss.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/00d356f53a801bd0f750248d0414a782fcdafaeb-1500x1000.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "summary": "India's largest crypto exchange has absorbed a $16 million loss stemming from an internal process failure related to a retired wallet. The Mumbai-based exchange initially dismissed reports of suspicious outflows but later confirmed the substantial loss.",
+    "importance": 8,
+    "classified": true
+  },
+  {
+    "title": "Bitcoin slips under $80,000 as traders de-risk ahead of Fed meeting",
+    "link": "https://www.coindesk.com/markets/2026/10/26/bitcoin-slips-under-usd80-000-as-traders-de-risk-ahead-of-fed-meeting",
+    "pubDate": "Mon, 26 Oct 2026 04:37:02 +0000",
+    "source": "CoinDesk",
+    "category": "both",
+    "content": "Ether and XRP led losses among the majors as the AI trade took another hit in Asia, where Goldman Sachs cut its Kospi target by 25%.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/f7711f978a2d69fe002fffabb76faa6278fb0b5e-1512x844.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "summary": "Bitcoin fell below $80,000, with Ether and XRP also experiencing losses, as traders reduced risk ahead of a Federal Reserve meeting. This market downturn also saw the 'AI trade' take a hit in Asia, exacerbated by Goldman Sachs cutting its Kospi target.",
+    "importance": 8,
+    "classified": true
+  },
+  {
+    "title": "Elon Musk issues a warning for 'AI neoclouds' as SpaceX borrows $40 billion for chips",
+    "link": "https://www.coindesk.com/markets/2026/10/26/elon-musk-confirms-usd40-billion-spacex-debt-deal-for-ai-chips-warns-of-neocloud-shakeout",
+    "pubDate": "Mon, 26 Oct 2026 03:11:39 +0000",
+    "source": "CoinDesk",
+    "category": "ai",
+    "content": "SpaceX has raised $40 billion in debt to buy GPUs, while Musk predicts a major shakeout among smaller AI cloud providers.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/163774b1444abc52081546c972d6d021d51f57bd-4076x2913.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "summary": "SpaceX has secured $40 billion in debt financing to acquire GPUs, which are critical for AI development. Concurrently, Elon Musk has warned of a potential shakeout among smaller AI cloud providers, anticipating significant consolidation in the sector.",
+    "importance": 8,
     "classified": true
   },
   {
@@ -228,14 +276,26 @@
     "classified": true
   },
   {
-    "title": "Ethereum delays Glamsterdam test after security devs flag risk to existing contracts",
-    "link": "https://www.coindesk.com/tech/2026/10/23/ethereum-delays-glamsterdam-test-after-security-devs-flag-risk-to-existing-contracts",
-    "pubDate": "Fri, 23 Oct 2026 04:59:34 +0000",
-    "source": "CoinDesk",
+    "title": "Bitcoin ETFs break 2-week outflow streak with $301M comeback",
+    "link": "https://cointelegraph.com/markets/bitcoin-etfs-rebound-weekly-inflow-301-million?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Mon, 26 Oct 2026 08:20:49 +0000",
+    "source": "Cointelegraph",
     "category": "crypto",
-    "content": "Developers canceled Monday's Hoodi activation after researchers showed how new gas rules could let smart contracts permanently record failed operations.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/c357579ddef2051b405b9e89f8525dd02709081d-5760x3240.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-    "summary": "Ethereum has canceled its Hoodi test activation, part of the Glamsterdam update, after security developers identified a critical risk. Researchers found that new gas rules could enable smart contracts to permanently record failed operations, potentially impacting existing contracts.",
+    "content": "US spot Bitcoin ETFs finished the week with $301 million in net inflows after a strong three-day start gave way to heavy withdrawals.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5VG5FEK5DYH3VAXH3PE69X7/bitcoin-etf-7.jpg",
+    "summary": "US spot Bitcoin ETFs ended a two-week outflow streak by recording $301 million in net inflows for the week. This positive turnaround for the funds came despite strong initial gains being followed by significant withdrawals.",
+    "importance": 8,
+    "classified": true
+  },
+  {
+    "title": "Musk warns over 200 AI neoclouds face ‘guppy-level death’",
+    "link": "https://cointelegraph.com/news/musk-warns-over-200-ai-neoclouds-face-guppy-level-death?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Mon, 26 Oct 2026 05:13:33 +0000",
+    "source": "Cointelegraph",
+    "category": "ai",
+    "content": "The warning comes as Gartner forecasts that more than 80% of specialist cloud providers will cease operating independently by 2030.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5V9QJTD4JBK5A7JDR7EG1T1/musk.jpg",
+    "summary": "Elon Musk has issued a warning that over 200 AI neoclouds face imminent failure, a concern supported by Gartner's forecast that more than 80% of specialist cloud providers will no longer operate independently by 2030. This indicates a significant consolidation and potential shake-out within the AI infrastructure market.",
     "importance": 8,
     "classified": true
   },
@@ -360,54 +420,6 @@
     "classified": true
   },
   {
-    "title": "Dune launches real-time data feeds covering 200 onchain trading venues ",
-    "link": "https://cointelegraph.com/news/dune-launches-real-time-data-feeds-covering-200-onchain-trading-venues?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Thu, 22 Oct 2026 20:36:00 +0000",
-    "source": "Cointelegraph",
-    "category": "crypto",
-    "content": "The new service aims to bring onchain trading data into institutional financial systems as tokenized stock markets expand and face growing scrutiny.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5JGN1ZK06QVTDRZ4G9H7NNP/hi-crypto-trading-basics-a-beginners-guide-to-cryptocurrency-order-types.png",
-    "summary": "Dune has launched real-time data feeds covering 200 onchain trading venues, with the goal of integrating this vital data into institutional financial systems. This initiative comes at a time when tokenized stock markets are expanding and facing increased scrutiny, facilitating a crucial link between decentralized finance and traditional institutions.",
-    "importance": 8,
-    "classified": true
-  },
-  {
-    "title": "Winklevoss PAC moves into Texas Senate race with $81K ad buy ",
-    "link": "https://cointelegraph.com/news/winklevoss-pac-texas-senate-race-media-paxton-talarico?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Thu, 22 Oct 2026 19:29:53 +0000",
-    "source": "Cointelegraph",
-    "category": "crypto",
-    "content": "While crypto-aligned PACs have stepped up spending in Ohio, a committee launched by the co-founders of crypto exchange Gemini made one of its first forays into the Lone Star State.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5J7FAXETYN97CD5E364S7XH/hi-why-texas-crypto-reserve-move-signals-a-shift-in-government-crypto-policy.jpg",
-    "summary": "A PAC launched by the Winklevoss twins, co-founders of the crypto exchange Gemini, has made an $81,000 ad buy in a Texas Senate race. This move marks one of the crypto-aligned committee's initial ventures into the state, following broader trends of increased political spending by similar groups.",
-    "importance": 8,
-    "classified": true
-  },
-  {
-    "title": "Bitcoin hashrate hits seven-month high as AI shift fails to ease mining competition ",
-    "link": "https://cointelegraph.com/news/bitcoin-mining-difficulty-hashrate-recovery-ai-shift?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Thu, 22 Oct 2026 16:50:51 +0000",
-    "source": "Cointelegraph",
-    "category": "crypto",
-    "content": "According to BlocksBridge, Bitcoin’s mining difficulty is rising despite the industry’s AI transition, with smaller operators potentially absorbing equipment abandoned by larger competitors.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4WDVRKK44RE061434J5PYP7/hi-bitcoin-miners-as-energy-buyers-ai-1.jpg",
-    "summary": "Bitcoin's mining difficulty has reached a seven-month high, indicating increased competition despite the industry's shift towards AI. This surge is attributed to smaller operators potentially acquiring equipment abandoned by larger competitors, failing to ease the competitive landscape.",
-    "importance": 8,
-    "classified": true
-  },
-  {
-    "title": "Irish cenbank fines Coinbase arm $3.6M for oversight, safeguard failures",
-    "link": "https://cointelegraph.com/news/ireland-central-bank-coinbase-oversight-safeguard-failure?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Thu, 22 Oct 2026 16:48:00 +0000",
-    "source": "Cointelegraph",
-    "category": "crypto",
-    "content": "According to the Central Bank of Ireland, Coinbase Ireland had agreed with the facts around the enforcement action and will be subject to fines and sanctions upon approval by a high court.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5J5AK9VV0TKNV4DMR09TVT7/hi-what-is-a-coinbase-transaction-ireland.jpg",
-    "summary": "The Central Bank of Ireland has fined Coinbase Ireland $3.6 million for failures in oversight and safeguarding practices. Coinbase Ireland has acknowledged the enforcement action's facts and will face sanctions pending high court approval.",
-    "importance": 8,
-    "classified": true
-  },
-  {
     "title": "Netanyahu seeking blockchain plan to prepare for possible sanctions",
     "link": "https://www.theblock.co/news/markets/2026-10-23-netanyahu-israel-blockchain-plan-possible-sanctions-427792",
     "pubDate": "Fri, 23 Oct 2026 18:15:55 +0000",
@@ -492,24 +504,12 @@
     "classified": true
   },
   {
-    "title": "Cardano holders are being asked to bet $5 million on copper hitting a new record",
-    "link": "https://www.coindesk.com/markets/2026/10/23/cardano-holders-are-being-asked-to-bet-usd5-million-on-copper-hitting-a-new-record",
-    "pubDate": "Fri, 23 Oct 2026 04:36:51 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "Toto Finance wants 22 million ADA from Cardano’s treasury to buy tokenized copper, and the metal would have to trade well above its all-time high for holders to get their money back.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/d015970fe04575c3819700e01e757b872ee9ad32-1500x1000.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-    "summary": "Toto Finance is proposing that Cardano holders allocate 22 million ADA, valued at $5 million, from the project's treasury to invest in tokenized copper. This high-risk bet requires copper prices to significantly exceed their all-time high for Cardano holders to recoup their initial investment.",
-    "importance": 7,
-    "classified": true
-  },
-  {
     "title": "AI agents help rescue ETH’s Glamsterdam fork, ‘Steal My Bitcoin’ site: Hodler’s Digest",
     "link": "https://cointelegraph.com/magazine/ai-agents-help-rescue-eths-glamsterdam-fork-steal-my-bitcoin-site-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "pubDate": "Sun, 25 Oct 2026 22:48:40 +0000",
     "source": "Cointelegraph",
     "category": "both",
-    "content": "Similar to the Hugging Face hack, Ethereum researchers have set up an AI Agent message board to help rescue the Glamsterdam fork. New site says ‘Steal My Bitcoin’... if you can.",
+    "content": "Similar to the Hugging Face hack, Ethereum researchers have set up an AI Agent message board to help rescue the Glamsterdam fork. ‘Steal My Bitcoin’ site successfully hacked.",
     "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5TEA8K047VPRWAXPGMZR148/final-collage-oct-23-png.png",
     "summary": "AI agents have been deployed on a message board to assist Ethereum researchers in rescuing the Glamsterdam fork, drawing parallels to a recent Hugging Face hack. Separately, a new website named 'Steal My Bitcoin' has emerged, challenging users to test its security.",
     "importance": 7,
@@ -624,6 +624,18 @@
     "classified": true
   },
   {
+    "title": "Here’s what happened in crypto today",
+    "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Mon, 26 Oct 2026 05:44:44 +0000",
+    "source": "Cointelegraph",
+    "category": "crypto",
+    "content": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg",
+    "summary": "This article provides a summary of the latest news and trends in the crypto space, covering Bitcoin price, blockchain, DeFi, Web3, and crypto regulation. It aims to keep readers updated on daily events impacting the cryptocurrency market. The article appears to be a general overview of the current state of the crypto industry.",
+    "importance": 6,
+    "classified": true
+  },
+  {
     "title": "Bitcoin seeks support above $81K as Brent crude oil hits highest level since March ",
     "link": "https://cointelegraph.com/markets/bitcoin-seeks-support-above-81k-as-brent-crude-oil-hits-highest-level-since-march?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "pubDate": "Fri, 23 Oct 2026 15:39:17 +0000",
@@ -632,18 +644,6 @@
     "content": "Bitcoin dipped below $81,000 as stocks fell and Brent crude hit its highest level since March, leaving the 50-day moving average in focus.",
     "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5MPBY5231GNMGE2Q9V1FYVN/hi-crypto-offers-russia-no-way-out-from-western-sanctions2-1.jpg",
     "summary": "Bitcoin dipped below $81,000 as broader stock markets fell and Brent crude oil reached its highest level since March. The cryptocurrency's 50-day moving average is now a key support level to monitor for its price action.",
-    "importance": 6,
-    "classified": true
-  },
-  {
-    "title": "Here’s what happened in crypto today",
-    "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Fri, 23 Oct 2026 13:38:53 +0000",
-    "source": "Cointelegraph",
-    "category": "crypto",
-    "content": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg",
-    "summary": "This article provides a summary of the latest news and trends in the crypto space, covering Bitcoin price, blockchain, DeFi, Web3, and crypto regulation. It aims to keep readers updated on daily events impacting the cryptocurrency market. The article appears to be a general overview of the current state of the crypto industry.",
     "importance": 6,
     "classified": true
   },
@@ -672,16 +672,37 @@
     "classified": true
   },
   {
-    "title": "Underdog taps zerohash to bring crypto deposits to prediction markets ",
-    "link": "https://cointelegraph.com/news/underdog-taps-zerohash-to-bring-crypto-deposits-to-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Thu, 22 Oct 2026 17:24:49 +0000",
+    "title": "Hong Kong names Nasdaq-listed Solana Company a strategic enterprise",
+    "link": "https://cointelegraph.com/news/hong-kong-names-nasdaq-listed-solana-company-a-strategic-enterprise?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Mon, 26 Oct 2026 03:21:26 +0000",
     "source": "Cointelegraph",
     "category": "crypto",
-    "content": "The new funding option, expected to launch later this year, will allow eligible Underdog users to deposit digital assets around the clock.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5J8K4B5TT5MGQN65E52S1DC/hi-when-will-the-prediction-market-take-place-and-what-effect-is-it-having-on-crypto-1.png",
-    "summary": "Underdog is partnering with zerohash to introduce crypto deposits to its prediction markets, expected to launch later this year. This new funding option will allow eligible users to deposit digital assets around the clock.",
-    "importance": 6,
-    "classified": true
+    "content": "The Nasdaq-listed firm said it plans to establish Solana validator operations in Hong Kong.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5V29PC31CCCR3TY3KBGFNVX/hi-an-overview-of-the-cryptocurrency-regulations-in-hong-kong.jpg",
+    "summary": "",
+    "importance": 5
+  },
+  {
+    "title": "Keystone says website breach exposed hardware wallet buyers’ addresses",
+    "link": "https://cointelegraph.com/news/keystone-says-website-breach-exposed-hardware-wallet-buyers-addresses?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Mon, 26 Oct 2026 02:24:04 +0000",
+    "source": "Cointelegraph",
+    "category": "crypto",
+    "content": "A security researcher warned that the leaked shipping details could expose crypto holders to targeted scams and physical attacks.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5V04TXMGNCT7SCNB1WB3PZF/customer-address.jpg",
+    "summary": "",
+    "importance": 5
+  },
+  {
+    "title": "Standard Chartered-led Anchorpoint says it’s not rushing retail stablecoin",
+    "link": "https://cointelegraph.com/news/standard-chartered-led-anchorpoint-says-its-not-rushing-retail-stablecoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Mon, 26 Oct 2026 00:13:29 +0000",
+    "source": "Cointelegraph",
+    "category": "crypto",
+    "content": "The Standard Chartered and Animoca Brands joint venture previously targeted retail access as early as the end of 2026, but its CEO declined to reaffirm that timeline.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5TQBHC9044ZJ3Z4XFZ9MKN2/hong-kong.jpg",
+    "summary": "",
+    "importance": 5
   },
   {
     "title": "CoinDCX confirms $16 million loss from retired wallets days after CEO called breach reports a ‘false alarm’",
@@ -1607,30 +1628,6 @@
     "content": "Your day-ahead look for Oct. 23, 2026",
     "image": "https://cdn.sanity.io/images/s3y3vcno/production/382be2e9744cb8a41cd938a03779c9279af9c096-1600x900.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
     "summary": "The article's headline suggests a discussion on Bitcoin's price volatility, comparing its jumpiness to Nvidia's stock and its turbulence to the euro. This appears to be a market outlook dated for October 23, 2026.",
-    "importance": 2,
-    "classified": true
-  },
-  {
-    "title": "Polymarket has reportedly fired its marketing chief, also a close friend of the CEO",
-    "link": "https://www.coindesk.com/markets/2026/10/23/polymarket-has-reportedly-fired-its-marketing-chief-also-a-close-friend-of-the-ceo",
-    "pubDate": "Fri, 23 Oct 2026 05:01:19 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "Matthew Modabber was reportedly ousted after an internal probe of several instances of misconduct, according to the New York Post.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/8244f5db1e6b709627e3a0daa0d726294d50e8c1-8390x5593.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-    "summary": "Polymarket has reportedly fired its marketing chief, Matthew Modabber, after an internal probe revealed several instances of misconduct. Modabber was also a close friend of the CEO.",
-    "importance": 2,
-    "classified": true
-  },
-  {
-    "title": "Bitcoin, gold trim early losses as yen gives up gains. Oil stays near $100",
-    "link": "https://www.coindesk.com/markets/2026/10/23/bitcoin-gold-trim-early-losses-as-yen-gives-up-gains-oil-stays-near-usd100",
-    "pubDate": "Fri, 23 Oct 2026 03:13:01 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "Bitcoin and gold pared early losses as the yen gave up gains and Asian stocks rebounded, though oil near $100 keeps inflation risks in focus.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/d45f74af3bf643e7376c8cc581b322b4ae39f779-2220x1267.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-    "summary": "Bitcoin and gold pared early losses as the yen's gains reversed and Asian stocks rebounded. Despite these market recoveries, oil prices remaining near $100 continue to highlight inflation risks.",
     "importance": 2,
     "classified": true
   },
