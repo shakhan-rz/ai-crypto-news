@@ -24,6 +24,18 @@
     "classified": true
   },
   {
+    "title": "Keystone breach deepens: Hackers stole key used to verify wallets as genuine",
+    "link": "https://cointelegraph.com/news/keystone-breach-deepens-hackers-stole-key-used-to-verify-wallets-as-genuine?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Tue, 27 Oct 2026 01:55:03 +0000",
+    "source": "Cointelegraph",
+    "category": "crypto",
+    "content": "Keystone initially disclosed a leak of customer information but has since disclosed that hackers also stole a key that could allow counterfeit wallets to pass authenticity checks.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5XH194AWQZA2BD0554BJQHS/hi-hardware-vs-software-wallets-key-differences-to-know.jpg",
+    "summary": "Keystone, a cryptocurrency hardware wallet maker, initially disclosed a customer data leak. The company has now revealed that hackers also stole a key used to verify the authenticity of its wallets, raising concerns that counterfeit devices could pass as genuine.",
+    "importance": 9,
+    "classified": true
+  },
+  {
     "title": "Injective launches onchain futures market tracking Nvidia GPU rental costs ",
     "link": "https://cointelegraph.com/news/injective-launches-onchain-futures-market-tracking-nvidia-gpu-rental-costs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "pubDate": "Mon, 26 Oct 2026 21:23:32 +0000",
@@ -56,18 +68,6 @@
     "content": "The SEC’s latest priorities highlight tokenization as an emerging market risk, while cryptocurrencies remain absent as a standalone examination category.",
     "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5MP9HHR5PTKGP6MBRZ5FNFH/hi-irs-joins-the-j5-international-crypto-tax-enforcement-coming-next1.png",
     "summary": "The SEC has identified tokenization as a high-risk area in its 2027 market examination priorities, signaling increased regulatory scrutiny. This move highlights a specific focus on blockchain-based asset representation, even though cryptocurrencies themselves are not listed as a standalone examination category.",
-    "importance": 9,
-    "classified": true
-  },
-  {
-    "title": "China targets 2030 for its national blockchain network buildout",
-    "link": "https://cointelegraph.com/news/china-2030-national-blockchain-network-buildout?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Fri, 23 Oct 2026 13:21:07 +0000",
-    "source": "Cointelegraph",
-    "category": "crypto",
-    "content": "China’s five-year digital development plan calls for wider blockchain use in trade and manufacturing alongside stronger technical standards.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5MEGNPQ3M8HRRFF6ZWNHZKK/chinese-blockchain-patents.jpg",
-    "summary": "China aims to complete its national blockchain network by 2030, a goal outlined in its five-year digital development plan. This initiative seeks to broaden the use of blockchain technology in trade and manufacturing sectors, alongside developing stronger technical standards.",
     "importance": 9,
     "classified": true
   },
@@ -372,18 +372,6 @@
     "classified": true
   },
   {
-    "title": "New York AG seeks $1.37B from NovaTech founders over Ponzi scheme",
-    "link": "https://cointelegraph.com/news/new-york-ag-novatech-founders-companies-crypto-ponzi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Fri, 23 Oct 2026 12:33:37 +0000",
-    "source": "Cointelegraph",
-    "category": "crypto",
-    "content": "The request follows an August 2025 default judgment, with the AG also announcing nearly $6 million in settlements with four promoters.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5M9W5Y4WRYGA8MNYB0WFHZF/hi-status-of-prediction-market-battle-3.jpg",
-    "summary": "The New York Attorney General is seeking $1.37 billion from the founders of NovaTech, following an August 2025 default judgment related to an alleged Ponzi scheme. The AG also announced nearly $6 million in settlements secured from four promoters involved in the fraudulent operation.",
-    "importance": 8,
-    "classified": true
-  },
-  {
     "title": "Netanyahu seeking blockchain plan to prepare for possible sanctions",
     "link": "https://www.theblock.co/news/markets/2026-10-23-netanyahu-israel-blockchain-plan-possible-sanctions-427792",
     "pubDate": "Fri, 23 Oct 2026 18:15:55 +0000",
@@ -468,18 +456,6 @@
     "classified": true
   },
   {
-    "title": "Phantom rolls out Kalshi prediction markets to US users, says it’s ‘confident and comfortable’ amid state lawsuits",
-    "link": "https://www.theblock.co/news/markets/2026-10-23-phantom-rolls-out-kalshi-prediction-markets-us-421652",
-    "pubDate": "Fri, 23 Oct 2026 13:00:00 +0000",
-    "source": "The Block",
-    "category": "crypto",
-    "content": "Phantom users will fund trades with CASH stablecoins, with market restrictions applied in Michigan, Nevada and Washington.",
-    "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2024/11/20241125_Phantom_News_2.jpg",
-    "summary": "Phantom is launching Kalshi prediction markets for its US users, enabling trades funded by CASH stablecoins. While Phantom remains confident despite ongoing state lawsuits, market restrictions are in place for Michigan, Nevada, and Washington.",
-    "importance": 7,
-    "classified": true
-  },
-  {
     "title": "Latvia targets tokenization rules in 2027 with commercial property in focus",
     "link": "https://www.coindesk.com/business/2026/10/25/latvia-targets-tokenization-rules-in-2027-with-commercial-property-in-focus",
     "pubDate": "Sun, 25 Oct 2026 15:00:00 +0000",
@@ -538,6 +514,17 @@
     "summary": "Bitcoin dipped below $81,000 as broader stock markets fell and Brent crude oil reached its highest level since March. The cryptocurrency's 50-day moving average is now a key support level to monitor for its price action.",
     "importance": 6,
     "classified": true
+  },
+  {
+    "title": "Ripple wins final US approval for national trust bank",
+    "link": "https://cointelegraph.com/news/ripple-wins-final-us-approval-for-national-trust-bank?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Tue, 27 Oct 2026 00:06:41 +0000",
+    "source": "Cointelegraph",
+    "category": "crypto",
+    "content": "The approval clears the way for Ripple to manage reserves backing its RLUSD stablecoin and provide digital asset custody.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5XAPPMS0KPKFXTRBD88QJZH/hi-pnc-uses-ripplenet.jpg",
+    "summary": "",
+    "importance": 5
   },
   {
     "title": "Canada opens consultation on stablecoins, citing US GENIUS Act",
@@ -694,6 +681,28 @@
     "importance": 5
   },
   {
+    "title": "Ripple gains final OCC approval to launch national trust bank and bring RLUSD under federal oversight",
+    "link": "https://www.theblock.co/news/regulation/2026-10-26-ripple-gains-final-occ-approval-rlusd-431810",
+    "pubDate": "Tue, 27 Oct 2026 02:28:18 +0000",
+    "source": "The Block",
+    "category": "crypto",
+    "content": "Ripple's structure places reserve management and custody under federal supervision while leaving issuance with the New York-regulated entity.",
+    "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/10/ripple-occ.png",
+    "summary": "",
+    "importance": 5
+  },
+  {
+    "title": "BlackRock joins SBI and Startale to link tokenized MMFs with Japanese yen stablecoins",
+    "link": "https://www.theblock.co/news/business/2026-10-26-blackrock-sbi-startale-mou-431642",
+    "pubDate": "Tue, 27 Oct 2026 01:00:00 +0000",
+    "source": "The Block",
+    "category": "crypto",
+    "content": "BlackRock, SBI Holdings, and Startale will explore connecting tokenized money market funds with SBI's Japanese yen-pegged stablecoin JPYSC.",
+    "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/10/blackrock-japan.png",
+    "summary": "",
+    "importance": 5
+  },
+  {
     "title": "CZ pitches BNB Chain’s role in AI as BNB Standard rings Nasdaq bell",
     "link": "https://www.theblock.co/news/ecosystems/2026-10-26-cz-pitches-bnb-chains-role-ai-bnb-standard-rings-nasdaq-bell-431790",
     "pubDate": "Mon, 26 Oct 2026 19:43:47 +0000",
@@ -826,6 +835,17 @@
     "importance": 5
   },
   {
+    "title": "Cold Storage Goes South: bitcoin++ Announces Antarctica Edition",
+    "link": "https://bitcoinmagazine.com/news/cold-storage-bitcoin-antarctica",
+    "pubDate": "Tue, 27 Oct 2026 00:00:04 +0000",
+    "source": "Bitcoin Magazine",
+    "category": "crypto",
+    "content": "Bitcoin Magazine\n\nCold Storage Goes South: bitcoin++ Announces Antarctica Edition\nbitcoin++ is planning its first cold-storage edition on a 13-day expedition to the Antarctic Peninsula.\nThis post Cold Storage Goes South: bitcoin++ Announces Antarctica Edition first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
+    "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/10/bitcoin-Announces-Antarctica-Edition.jpg",
+    "summary": "",
+    "importance": 5
+  },
+  {
     "title": "Blink Wallet Adds Inactivity Fee to Custodial Accounts, Accelerating Migration to Self Custody",
     "link": "https://bitcoinmagazine.com/business/blink-wallet-adds-inactivity-fee-to-custodial-accounts-accelerating-migration-to-self-custody",
     "pubDate": "Mon, 26 Oct 2026 21:14:23 +0000",
@@ -921,17 +941,6 @@
     "category": "crypto",
     "content": "▶\n\nBitcoin Magazine\n\nThe Bitcoin vs. Nasdaq Signal Has Flipped Bullish\nAs tech drops, Bitcoin holds. Sean Hagan examines the BTC/Nasdaq ratio reclaiming its 200-day MA, historical 84% median gains, and his $100K line in the sand.\nThis post The Bitcoin vs. Nasdaq Signal Has Flipped Bullish first appeared on Bitcoin Magazine and is written by Patrick Green.",
     "image": "https://img.youtube.com/vi/HP8u1Hd9No0/hqdefault.jpg",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "PHP Hack: How Bitcoin Will Respond to the “Cyber Pandemic”",
-    "link": "https://bitcoinmagazine.com/videos/php-hack-how-bitcoin-will-respond-to-the-cyber-pandemic",
-    "pubDate": "Mon, 26 Oct 2026 13:21:59 +0000",
-    "source": "Bitcoin Magazine",
-    "category": "crypto",
-    "content": "▶\n\nBitcoin Magazine\n\nPHP Hack: How Bitcoin Will Respond to the “Cyber Pandemic”\nAs global sites go offline over PHP flaws, Bitcoin Magazine's Shinobi explains memory bugs, AI-driven hacking speeds, and whether Bitcoin faces any exposure.\nThis post PHP Hack: How Bitcoin Will Respond to the “Cyber Pandemic” first appeared on Bitcoin Magazine and is written by Patrick Green.",
-    "image": "https://img.youtube.com/vi/yMxOKp7Zv7g/hqdefault.jpg",
     "summary": "",
     "importance": 5
   },
@@ -1041,6 +1050,28 @@
     "source": "MIT Technology Review",
     "category": "ai",
     "content": "How much do you know about permafrost? Maybe, like me, you’ve been aware that this layer of frozen soil is thawing, that it’s important in the global puzzle of climate change … and that’s about the extent of it.   The great news for both of us is that my colleague James Temple just published two…",
+    "image": "",
+    "summary": "",
+    "importance": 5
+  },
+  {
+    "title": "How OpenAI turned its coding tools into dots, an always-on personal assistant",
+    "link": "https://techcrunch.com/2026/10/26/how-openai-turned-its-coding-tools-into-dots-an-always-on-personal-assistant/",
+    "pubDate": "Tue, 27 Oct 2026 02:00:00 +0000",
+    "source": "TechCrunch AI",
+    "category": "ai",
+    "content": "Alexander Embiricos, the OpenAI executive responsible for dots, never wants to have a meeting with someone else's AI agent.",
+    "image": "",
+    "summary": "",
+    "importance": 5
+  },
+  {
+    "title": "Cohere says Alibaba’s Qwen model tried to send a file to Beijing",
+    "link": "https://techcrunch.com/2026/10/26/cohere-says-alibabas-qwen-model-tried-to-send-a-file-to-beijing/",
+    "pubDate": "Tue, 27 Oct 2026 01:12:21 +0000",
+    "source": "TechCrunch AI",
+    "category": "ai",
+    "content": "An AI model said it wouldn’t use any tools, then tried to send something to a server in Beijing anyway, and while researchers say it’s probably a training quirk and not espionage, the whole thing has people asking how much to trust free Chinese AI.",
     "image": "",
     "summary": "",
     "importance": 5
@@ -1244,24 +1275,13 @@
     "importance": 5
   },
   {
-    "title": "OpenAI makes its Jev competitor widely available as decision model competition heats up",
-    "link": "https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/",
-    "pubDate": "Thu, 22 Oct 2026 19:00:00 +0000",
-    "source": "TechCrunch AI",
+    "title": "OpenAI announces three big science discoveries and a new way to work with academics",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1019143/openai-eth-kaseya-science-math-physics",
+    "pubDate": "2026-10-26T23:34:58.000Z",
+    "source": "The Verge AI",
     "category": "ai",
-    "content": "OpenAI is launching its decision model to the world. Can it compete with the original Jev?",
-    "image": "",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "Canva releases its first image generation model",
-    "link": "https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/",
-    "pubDate": "Thu, 22 Oct 2026 19:00:00 +0000",
-    "source": "TechCrunch AI",
-    "category": "ai",
-    "content": "Canva is making its new image model available to all users, promising better, more customizable performance at lower costs.",
-    "image": "",
+    "content": "Less than a month after its mass release of hundreds of manuscripts that it said contained solutions to long-standing mathematics questions, OpenAI is back with three more \"major\" discoveries in math, computer science, and physics. What's different this time is the choice to have external experts that OpenAI describes as \"shepherds\" guiding the results in computer science and physics, while for the math problem it says that they advised it to release the AI output for researchers to work through their own explanations. \nOpenAI results added to GitHub today:\nLocal smoothing for the Euclidean wave equation. The proof uses an auxiliary par …\n\nRead the full story at The Verge.",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STKS537_AI_MATH_2.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
     "summary": "",
     "importance": 5
   },
@@ -1361,17 +1381,6 @@
     "category": "ai",
     "content": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more about AI's impact on the web, follow Emma Roth. The Stepback arrives in our subscribers' inboxes on Sunday at 8AM ET. Opt in for The Stepback here.\nHow it started\nThe digital publishing industry has relied on Google for a very long time. Many outlets spent time and money optimizing their webpages to show up at the top of the search engine, with the goal of getting readers to click on their articles or discover their websites for the first time. For years, the relationship between Google and publishers was largely reciprocal; online pub …\nRead the full story at The Verge.",
     "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STK414_STK480_AI_DIS_MISINFO_CVIRGINIA_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "Blue Planet III is keeping the rough edges in the age of AI",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1018205/blue-planet-iii-authentic-organic-ai",
-    "pubDate": "2026-10-24T21:29:12.000Z",
-    "source": "The Verge AI",
-    "category": "ai",
-    "content": "BBC's Blue Planet III is looking to prove its authenticity by leaving in the less-than-perfect shots. Previous incarnations of the nature series were defined by their gorgeous, crystal-clear footage that seemed almost too good to be real. But one dead giveaway of AI is when things look too polished and seamless. To counter that, Blue Planet III goes warts and all.\nExecutive Producer Elizabeth White told The Guardian in the past, \"the amount of plankton and things\" floating in the water would have caused them to cut a shot. Or \"we might have framed out a boat or a buoy or gone: 'Oh, actually … the water conditions are not really good enough  …\nRead the full story at The Verge.",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/blue_planet_iii_episode_03_051_screengrab.avif?quality=90&#038;strip=all&#038;crop=0,0,100,100",
     "summary": "",
     "importance": 5
   },
