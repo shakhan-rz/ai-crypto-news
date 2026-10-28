@@ -12,6 +12,30 @@
     "classified": true
   },
   {
+    "title": "Nasdaq-100 comes onchain as Janus Henderson and Centrifuge launch first licensed fund",
+    "link": "https://www.coindesk.com/business/2026/10/27/nasdaq-100-comes-onchain-as-janus-henderson-and-centrifuge-launch-first-licensed-fund",
+    "pubDate": "Tue, 27 Oct 2026 14:21:10 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "The $500 billion asset manager is launching an issuer-sponsored fund on Stellar, taking a different approach from third-party stock tokens.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/60d78c8a6f29390ee0f01e24c3716375d109cf64-4428x2990.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "summary": "Asset manager Janus Henderson is launching an issuer-sponsored fund on the Stellar blockchain, bringing the Nasdaq-100 on-chain. This initiative marks the first licensed fund of its kind, taking a novel approach compared to third-party stock tokenization.",
+    "importance": 9,
+    "classified": true
+  },
+  {
+    "title": "Bitcoin miners' move into AI is creating a new market for trading computing power",
+    "link": "https://www.coindesk.com/business/2026/10/27/bitcoin-miners-move-into-ai-is-creating-a-new-market-for-trading-computing-power",
+    "pubDate": "Tue, 27 Oct 2026 13:13:50 +0000",
+    "source": "CoinDesk",
+    "category": "both",
+    "content": "Luxor raised $16 million to expand into AI hardware and trading, betting that computing power will become a market where companies can hedge costs and prices.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/aee234db418da001bf5ae613c8da62131873c838-1330x998.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "summary": "Bitcoin miners, exemplified by Luxor's recent $16 million funding, are diversifying into AI hardware and trading, aiming to create a new market for computing power. This initiative allows companies to hedge costs and prices for compute resources, leveraging infrastructure typically used for crypto mining for AI applications.",
+    "importance": 9,
+    "classified": true
+  },
+  {
     "title": "Keystone breach deepens: Hackers stole key used to verify wallets as genuine",
     "link": "https://cointelegraph.com/news/keystone-breach-deepens-hackers-stole-key-used-to-verify-wallets-as-genuine?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "pubDate": "Tue, 27 Oct 2026 01:55:03 +0000",
@@ -72,6 +96,18 @@
     "classified": true
   },
   {
+    "title": "CF Benchmarks brings Wall Street pricing infrastructure onchain, including data used by BlackRock",
+    "link": "https://www.coindesk.com/markets/2026/10/27/cf-benchmarks-brings-wall-street-pricing-infrastructure-onchain-including-data-used-by-blackrock",
+    "pubDate": "Tue, 27 Oct 2026 14:00:00 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "The new service could help developers build blockchain-based index funds, tokenized portfolios and derivatives using established financial benchmarks.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/e323b7080401f0161d1fb73f5e6a4395d3e1ec16-6000x4000.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "summary": "CF Benchmarks is integrating Wall Street pricing infrastructure, including data utilized by BlackRock, onto the blockchain. This new service aims to empower developers to create blockchain-based financial products like index funds, tokenized portfolios, and derivatives using established financial benchmarks.",
+    "importance": 8,
+    "classified": true
+  },
+  {
     "title": "Crypto wallet maker Keystone to destroy almost 19,000 devices after security breach ",
     "link": "https://www.coindesk.com/business/2026/10/27/crypto-wallet-maker-keystone-to-destroy-almost-19-000-devices-after-security-breach",
     "pubDate": "Tue, 27 Oct 2026 11:13:54 +0000",
@@ -120,18 +156,6 @@
     "classified": true
   },
   {
-    "title": "South Korea weighs fourth delay on its crypto gains tax, pushing it to 2029",
-    "link": "https://www.coindesk.com/policy/2026/10/26/south-korea-weighs-fourth-delay-on-its-crypto-gains-tax-pushing-it-to-2029",
-    "pubDate": "Mon, 26 Oct 2026 14:51:07 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "Officials are concerned users of domestic exchanges would bear the tax burden because the U.S. won’t share crypto trading data until 2029.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/d02365f898383e63bd7d71439d04e193ccd52d12-1920x1281.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-    "summary": "South Korea is considering its fourth delay for a cryptocurrency gains tax, potentially pushing its implementation to 2029. This delay is due to concerns that domestic exchange users would unfairly bear the tax burden, as the U.S. will not share crypto trading data until that year.",
-    "importance": 8,
-    "classified": true
-  },
-  {
     "title": "US OCC calls on community banks to become payment stablecoin issuers",
     "link": "https://cointelegraph.com/news/occ-community-banks-stablecoin-issuers-genius-act?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "pubDate": "Mon, 26 Oct 2026 21:38:30 +0000",
@@ -141,6 +165,18 @@
     "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5WZ9ZYBPWXY53Q33BECCJE8/hi-coin-entering-bank.png",
     "summary": "The US OCC is encouraging community banks to become issuers of payment stablecoins. This move follows the finalization of rules for the GENIUS Act, a stablecoin law slated for implementation in January.",
     "importance": 8,
+    "classified": true
+  },
+  {
+    "title": "Coinbase says user funds are safe after third-party vendor exposes customer contact info",
+    "link": "https://www.coindesk.com/tech/2026/10/28/coinbase-says-customer-funds-are-safe-after-third-party-vendor-exposes-customer-contact-info",
+    "pubDate": "Wed, 28 Oct 2026 03:11:14 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "The crypto exchange says an incident at analytics firm Amplitude exposed some customer contact information, but insists its own systems were not breached.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/6e8ed1cd0f17a1509349ad7cb7c31b8324847527-1920x1280.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "summary": "Coinbase, a prominent crypto exchange, confirmed that some customer contact information was exposed due to a security incident at its third-party analytics vendor, Amplitude. The exchange reassured users that its own systems were not breached and all user funds remain secure.",
+    "importance": 7,
     "classified": true
   },
   {
@@ -216,61 +252,6 @@
     "classified": true
   },
   {
-    "title": "Nasdaq-100 comes onchain as Janus Henderson and Centrifuge launch first licensed fund",
-    "link": "https://www.coindesk.com/business/2026/10/27/nasdaq-100-comes-onchain-as-janus-henderson-and-centrifuge-launch-first-licensed-fund",
-    "pubDate": "Tue, 27 Oct 2026 14:21:10 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "The $500 billion asset manager is launching an issuer-sponsored fund on Stellar, taking a different approach from third-party stock tokens.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/60d78c8a6f29390ee0f01e24c3716375d109cf64-4428x2990.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "CF Benchmarks brings Wall Street pricing infrastructure onchain, including data used by BlackRock",
-    "link": "https://www.coindesk.com/markets/2026/10/27/cf-benchmarks-brings-wall-street-pricing-infrastructure-onchain-including-data-used-by-blackrock",
-    "pubDate": "Tue, 27 Oct 2026 14:00:00 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "The new service could help developers build blockchain-based index funds, tokenized portfolios and derivatives using established financial benchmarks.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/e323b7080401f0161d1fb73f5e6a4395d3e1ec16-6000x4000.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "Bitcoin miners' move into AI is creating a new market for trading computing power",
-    "link": "https://www.coindesk.com/business/2026/10/27/bitcoin-miners-move-into-ai-is-creating-a-new-market-for-trading-computing-power",
-    "pubDate": "Tue, 27 Oct 2026 13:13:50 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "Luxor raised $16 million to expand into AI hardware and trading, betting that computing power will become a market where companies can hedge costs and prices.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/aee234db418da001bf5ae613c8da62131873c838-1330x998.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "Bitcoin shows signs of weakness while Ripple's bank win fails to bolster XRP",
-    "link": "https://www.coindesk.com/daybook-us/2026/10/27/bitcoin-shows-signs-of-weakness-while-ripple-s-bank-win-fails-to-bolster-xrp",
-    "pubDate": "Tue, 27 Oct 2026 12:00:39 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "Your day-ahead look for Oct. 27, 2026",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/caff288a8b43cf1d97d81ebe16d87f4bdde60b22-1500x1000.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "Live updates: Bitcoin edges higher as Nasdaq surges 1.2%",
-    "link": "https://www.coindesk.com/tech/2026/10/27/live-updates-bitcoin-holds-below-usd80-000-as-ai-buildout-draws-more-capital",
-    "pubDate": "Tue, 27 Oct 2026 11:40:50 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "The Fed is expected to hold rates steady on Wednesday, but markets will be looking for clues about future policy moves.",
-    "image": "",
-    "summary": "",
-    "importance": 5
-  },
-  {
     "title": "Japan's top yen stablecoin falls short of its target in a disappointing first year",
     "link": "https://www.coindesk.com/business/2026/10/27/japan-s-top-yen-stablecoin-falls-short-of-its-target-in-a-disappointing-first-year",
     "pubDate": "Tue, 27 Oct 2026 11:37:52 +0000",
@@ -322,6 +303,28 @@
     "category": "crypto",
     "content": "The Office of the Comptroller of the Currency has approved Ripple National Trust Bank (RNTB), Ripple's CEO Brad Garlinghouse announced on X.",
     "image": "https://cdn.sanity.io/images/s3y3vcno/production/08996a3dca840a6a70f04df3ee9284ea39cc0a81-3579x2013.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "summary": "",
+    "importance": 5
+  },
+  {
+    "title": "Bithumb discloses data leak after internal system breach: Report",
+    "link": "https://cointelegraph.com/news/bithumb-discloses-data-leak-after-internal-system-breach-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Wed, 28 Oct 2026 02:18:47 +0000",
+    "source": "Cointelegraph",
+    "category": "crypto",
+    "content": "The breach impacted its in-house mobile system, used by employees for work and information sharing.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3ANFG8K9N6H2586MPQRV7KT/hi-got-crypto-losses-wallet-1.jpg",
+    "summary": "",
+    "importance": 5
+  },
+  {
+    "title": "Discord is making public chats searchable on Google: How to opt out",
+    "link": "https://cointelegraph.com/news/discord-is-making-public-chats-searchable-on-google-how-to-opt-out?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Wed, 28 Oct 2026 00:47:04 +0000",
+    "source": "Cointelegraph",
+    "category": "crypto",
+    "content": "Discord conversations on large public servers will soon reach audiences far beyond their communities, raising privacy concerns.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5ZZEMKGWAD6V4EFK256AYBC/hi-hack-overview-discord.jpg",
     "summary": "",
     "importance": 5
   },
@@ -590,24 +593,13 @@
     "importance": 5
   },
   {
-    "title": "Strategy skips Bitcoin purchases, spends $205M on STRC buybacks",
-    "link": "https://cointelegraph.com/news/strategy-skips-btc-buy-205-million-strc-buyback?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Mon, 26 Oct 2026 13:27:38 +0000",
-    "source": "Cointelegraph",
+    "title": "Datavault AI stock plummets 50% after firm says it cannot withdraw bitcoin tied to $150 million deal",
+    "link": "https://www.theblock.co/news/business/2026-10-27-datavault-ai-stock-plummets-bitcoin-deal-431962",
+    "pubDate": "Wed, 28 Oct 2026 03:00:33 +0000",
+    "source": "The Block",
     "category": "crypto",
-    "content": "Strategy made no Bitcoin purchases or sales last week, as its STRC preferred stock buybacks reduced its USD Cash balance by 46% to $242.4 million.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5W4P12K292NZBRSP8W9DG6M/michael-saylors-big-bet-institutional-investments-role-in-bitcoins-price3-1.jpg",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "HOOD’s prediction markets to add $1.7B to revenue, exceed crypto by 2028: Bernstein",
-    "link": "https://cointelegraph.com/news/prediction-markets-17b-robinhood-exceed-crypto-revenue-2028-bernstein?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Mon, 26 Oct 2026 13:12:41 +0000",
-    "source": "Cointelegraph",
-    "category": "crypto",
-    "content": "Bernstein analysts raised Robinhood’s revenue estimates through 2026 and 2028, while maintaining their HOOD price target unchanged at $160.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5W2DRTH9GX1TGHSRAAGJBW5/hi-japan-robin-hood-join-trading-platform-2.jpg",
+    "content": "The issue centers on a deal with Scilex, under which Scilex agreed to buy shares of Datavault AI for $150 million, payable in bitcoin.",
+    "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/10/1920×1080@2x-scaled.png",
     "summary": "",
     "importance": 5
   },
@@ -817,17 +809,6 @@
     "category": "crypto",
     "content": "Bernstein cuts Coinbase’s target while raising Circle’s as new products shift their earnings outlook.",
     "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/06/20260612_Coinbase_News_2.jpg",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "NBA becomes third league to sign CFTC prediction market pact, taps Kalshi and Polymarket",
-    "link": "https://www.theblock.co/news/regulation/2026-10-26-nba-cftc-memorandum-of-understanding-prediction-markets-kalshi-polymarket-431764",
-    "pubDate": "Mon, 26 Oct 2026 16:27:37 +0000",
-    "source": "The Block",
-    "category": "crypto",
-    "content": "The CFTC and NBA have agreed to put in place standards to protect the integrity of the game when it comes to prediction markets.",
-    "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2020/06/20200626_CFTC_-Daily.jpg",
     "summary": "",
     "importance": 5
   },
@@ -1052,6 +1033,39 @@
     "importance": 5
   },
   {
+    "title": "VCs will make billions on Anthropic’s IPO, but Amazon is set to make much (much) more",
+    "link": "https://techcrunch.com/2026/10/27/vcs-will-make-billions-on-anthropics-ipo-but-amazon-is-set-to-make-much-much-more/",
+    "pubDate": "Wed, 28 Oct 2026 01:15:28 +0000",
+    "source": "TechCrunch AI",
+    "category": "ai",
+    "content": "Massive note conversions reveal the true extent of Amazon's ownership in Anthropic.",
+    "image": "",
+    "summary": "",
+    "importance": 5
+  },
+  {
+    "title": "Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medication",
+    "link": "https://techcrunch.com/2026/10/27/parents-sue-openai-alleging-gpt-4o-coached-their-daughter-off-seizure-medication/",
+    "pubDate": "Tue, 27 Oct 2026 23:34:27 +0000",
+    "source": "TechCrunch AI",
+    "category": "ai",
+    "content": "A family is suing OpenAI, saying ChatGPT coached their daughter to quietly taper off her seizure medication and keep it from her doctors before she died in February.",
+    "image": "",
+    "summary": "",
+    "importance": 5
+  },
+  {
+    "title": "The data center boom has an upside: innovation for the US grid",
+    "link": "https://techcrunch.com/2026/10/27/the-data-center-boom-has-an-upside-innovation-for-the-us-grid/",
+    "pubDate": "Tue, 27 Oct 2026 22:55:41 +0000",
+    "source": "TechCrunch AI",
+    "category": "ai",
+    "content": "As the AI boom stresses the existing power grid, all sorts of new opportunities for grid modernization are also emerging as a result, industry insiders say.",
+    "image": "",
+    "summary": "",
+    "importance": 5
+  },
+  {
     "title": "Bank of America kindly asks that you don’t share your banking password with your AI assistant",
     "link": "https://techcrunch.com/2026/10/27/bank-of-america-kindly-asks-that-you-dont-share-your-banking-password-with-your-ai-assistant/",
     "pubDate": "Tue, 27 Oct 2026 21:44:34 +0000",
@@ -1239,39 +1253,6 @@
     "importance": 5
   },
   {
-    "title": "The hottest AI wearables and gadgets you should know about",
-    "link": "https://techcrunch.com/2026/10/25/the-hottest-ai-wearables-and-gadgets-you-should-know-about/",
-    "pubDate": "Sun, 25 Oct 2026 14:10:00 +0000",
-    "source": "TechCrunch AI",
-    "category": "ai",
-    "content": "We compiled a list of all the hottest AI wearables, including Muse Charm, Bee, Friend, Plaud, and more.",
-    "image": "",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "Will AI expose the rickety infrastructure of the internet?",
-    "link": "https://techcrunch.com/2026/10/24/will-ai-expose-the-rickety-infrastructure-of-the-internet/",
-    "pubDate": "Sat, 24 Oct 2026 20:15:33 +0000",
-    "source": "TechCrunch AI",
-    "category": "ai",
-    "content": "The moment you realize the internet is \"held together by glue and dreams.\"",
-    "image": "",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
-    "link": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
-    "pubDate": "Sat, 24 Oct 2026 19:00:00 +0000",
-    "source": "TechCrunch AI",
-    "category": "ai",
-    "content": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
-    "image": "",
-    "summary": "",
-    "importance": 5
-  },
-  {
     "title": "Researchers are getting tired of OpenAI gatekeeping its breakthroughs",
     "link": "https://www.theverge.com/ai-artificial-intelligence/1019921/openai-breakthrough-math-computer-science-physics",
     "pubDate": "2026-10-27T20:48:58.000Z",
@@ -1378,6 +1359,17 @@
     "category": "ai",
     "content": "The RealReal, a secondhand luxury fashion consignment retailer, said it's updating its bot defense system, effectively making it harder for AI agents to shop on its site.\nThe change comes days after The Verge reported that an AI agent could be used to take advantage of The RealReal's item reserve system. On the retailer's website, an item goes \"on hold\" and is unavailable for other customers to buy for 20 minutes once it's placed in a user's shopping cart. Using Meta's Muse, The Verge was able to instruct the AI agent to continuously re-add The RealReal listings in a shopping cart as soon as the 20-minute hold had expired, effectively block …\nRead the full story at The Verge.",
     "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STKS539_AI_AGENTS_SHOPPING_E.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "summary": "",
+    "importance": 5
+  },
+  {
+    "title": "\"No human at the helm\": Delaware plan would let AI agents run entire businesses",
+    "link": "https://arstechnica.com/tech-policy/2026/10/no-human-at-the-helm-delaware-plan-would-let-ai-agents-run-entire-businesses/",
+    "pubDate": "Tue, 27 Oct 2026 21:50:04 +0000",
+    "source": "Ars Technica AI",
+    "category": "ai",
+    "content": "Owners of AI-run firms would evade liability for \"reckless\" AI, US Rep. Comer says.",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/robot-phone-headset-1152x648.jpg",
     "summary": "",
     "importance": 5
   },
@@ -1591,15 +1583,28 @@
     "importance": 5
   },
   {
-    "title": "Accused OpenAI spy had folder called “Saudi Gov Docs,” FBI says",
-    "link": "https://arstechnica.com/tech-policy/2026/10/accused-openai-spy-had-folder-called-saudi-gov-docs-fbi-says/",
-    "pubDate": "Mon, 19 Oct 2026 20:21:53 +0000",
-    "source": "Ars Technica AI",
-    "category": "ai",
-    "content": "US fears Saudi government will help ex-OpenAI engineer flee spying charges.",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2214263510-1024x648.jpg",
-    "summary": "",
-    "importance": 5
+    "title": "Live updates: Bitcoin edges higher as Nasdaq surges 1.2%",
+    "link": "https://www.coindesk.com/tech/2026/10/27/live-updates-bitcoin-holds-below-usd80-000-as-ai-buildout-draws-more-capital",
+    "pubDate": "Tue, 27 Oct 2026 11:40:50 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "The Fed is expected to hold rates steady on Wednesday, but markets will be looking for clues about future policy moves.",
+    "image": "",
+    "summary": "Bitcoin saw a slight increase as the Nasdaq surged 1.2%. Markets are anticipating the Federal Reserve's decision to likely maintain current interest rates, while closely watching for signals regarding future monetary policy.",
+    "importance": 4,
+    "classified": true
+  },
+  {
+    "title": "Bitcoin shows signs of weakness while Ripple's bank win fails to bolster XRP",
+    "link": "https://www.coindesk.com/daybook-us/2026/10/27/bitcoin-shows-signs-of-weakness-while-ripple-s-bank-win-fails-to-bolster-xrp",
+    "pubDate": "Tue, 27 Oct 2026 12:00:39 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "Your day-ahead look for Oct. 27, 2026",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/caff288a8b43cf1d97d81ebe16d87f4bdde60b22-1500x1000.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "summary": "This article provides a market update for October 27, 2026, noting that Bitcoin is showing signs of weakness. It also highlights that Ripple's recent bank win has failed to boost XRP's performance.",
+    "importance": 3,
+    "classified": true
   },
   {
     "title": "NBA joins pro sports leagues on CFTC prediction markets bandwagon while NFL balks",
