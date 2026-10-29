@@ -1,14 +1,38 @@
 [
   {
-    "title": "AI found a way to crash bitcoin nodes on Windows and Macs. It's now public",
-    "link": "https://www.coindesk.com/tech/2026/10/29/ai-found-a-way-to-crash-bitcoin-nodes-on-windows-and-macs-it-s-now-public",
-    "pubDate": "Thu, 29 Oct 2026 05:54:39 +0000",
+    "title": "Binance loses $5.7 billion in largest crypto hack to date",
+    "link": "https://www.coindesk.com/business/2026/10/29/potential-multi-billion-binance-hack-hitting-crypto-markets",
+    "pubDate": "Thu, 29 Oct 2026 21:12:45 +0000",
     "source": "CoinDesk",
-    "category": "both",
-    "content": "Three flaws a language-model scan dug up are the first disclosed under Core’s new rules for bugs that are easy to find.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/0fd512cd2b3b63152562fab784b9d94b8b8b56ea-1500x994.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-    "summary": "An AI language model has discovered three critical flaws in Bitcoin nodes that can crash them on Windows and Macs. These vulnerabilities are now public and mark the first disclosures under Core's new rules for easily detectable bugs.",
-    "importance": 9,
+    "category": "crypto",
+    "content": "Crypto prices are sliding on the news, with bitcoin falling back to $79,000.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/277c4c1674f76f2f693443584d008e1b02dc6bfb-1418x1086.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "summary": "Binance has experienced the largest cryptocurrency hack in history, losing an astounding $5.7 billion. This significant event has caused a downturn in the crypto market, with Bitcoin's value notably falling to $79,000.",
+    "importance": 10,
+    "classified": true
+  },
+  {
+    "title": "Polymarket suspends trading after third-party breach leads to user losses",
+    "link": "https://www.coindesk.com/markets/2026/10/29/polymarket-suspends-trading-after-third-party-breach-leads-to-user-losses",
+    "pubDate": "Thu, 29 Oct 2026 18:55:35 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "Polymarket said one of its third-party providers was breached after users reported seeing their accounts drained.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/1336be5f04368968b919876af2286e534602b7ac-3803x2139.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "summary": "Polymarket, a prediction market platform, has suspended trading after a third-party provider experienced a breach. This security incident led to users reporting that their accounts were drained, prompting the platform to halt all trading activities.",
+    "importance": 8,
+    "classified": true
+  },
+  {
+    "title": "Stanley Druckenmiller's first X post backs Hyperliquid venture after $23 million indirect investment",
+    "link": "https://www.coindesk.com/business/2026/10/29/stanley-druckenmiller-s-first-x-post-backs-hyperliquid-venture-after-usd23-million-indirect-investment",
+    "pubDate": "Thu, 29 Oct 2026 17:04:19 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "The billionaire investor disclosed an investment in Trade[XYZ] as the platform teams up with the NYSE's parent company. His family office previously reported owning shares in a HYPE-focused treasury company.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/946dceb465036cf8f4975520a5a2bd414745cd3c-3000x2000.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "summary": "Billionaire investor Stanley Druckenmiller has publicly backed Trade[XYZ], a Hyperliquid venture, following an indirect $23 million investment by his family office. This endorsement comes as the platform announces a partnership with the NYSE's parent company.",
+    "importance": 8,
     "classified": true
   },
   {
@@ -32,6 +56,18 @@
     "content": "The former Huobi exchange has stopped accepting deposits from British customers and agreed not to target them with crypto promotions.",
     "image": "https://cdn.sanity.io/images/s3y3vcno/production/5f8af86c32513ff0a30bc4f06c53977acbd1bf59-2102x1184.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
     "summary": "Crypto exchange HTX, formerly Huobi, has ceased operations in the UK market. The move follows an agreement with the Financial Conduct Authority (FCA) to stop accepting deposits from British customers and refrain from targeting them with crypto promotions.",
+    "importance": 8,
+    "classified": true
+  },
+  {
+    "title": "Polymarket brings ultra-short crypto prediction markets to U.S. platform",
+    "link": "https://www.coindesk.com/markets/2026/10/29/polymarket-brings-ultra-short-crypto-prediction-markets-to-u-s-platform",
+    "pubDate": "Thu, 29 Oct 2026 14:55:47 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "Polymarket’s new Up/Down crypto contracts come as the CFTC renews scrutiny of the prediction market’s compliance with its 2022 U.S. onboarding terms.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/1336be5f04368968b919876af2286e534602b7ac-3803x2139.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "summary": "Polymarket is launching new ultra-short 'Up/Down crypto contracts' on its U.S. platform, expanding its offerings for crypto prediction markets. This development occurs as the CFTC has renewed its scrutiny of Polymarket's compliance with its 2022 U.S. onboarding terms.",
     "importance": 8,
     "classified": true
   },
@@ -60,41 +96,6 @@
     "classified": true
   },
   {
-    "title": "Security failure at Indian certificate firm bites Ethereum as developers rush out fixes",
-    "link": "https://www.coindesk.com/tech/2026/10/29/ethereum-clients-patch-flaw-that-could-let-attackers-redirect-eth-rewards",
-    "pubDate": "Thu, 29 Oct 2026 05:30:34 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "A key blunder at Indian certificate issuer eMudhra left some Teku and Besu setups trusting forged certificates. Default mainnet nodes weren’t exposed.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/c357579ddef2051b405b9e89f8525dd02709081d-5760x3240.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-    "summary": "A security flaw at Indian certificate issuer eMudhra caused some Teku and Besu Ethereum setups to trust forged certificates, prompting developers to rush out fixes. While default mainnet nodes were not exposed, this incident represents a significant security concern for parts of the Ethereum ecosystem.",
-    "importance": 7,
-    "classified": true
-  },
-  {
-    "title": "Here’s what happened in crypto today",
-    "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Thu, 29 Oct 2026 13:51:06 +0000",
-    "source": "Cointelegraph",
-    "category": "crypto",
-    "content": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg",
-    "summary": "This article provides a summary of the latest news and trends in the crypto space, covering Bitcoin price, blockchain, DeFi, Web3, and crypto regulation. It aims to keep readers updated on daily events impacting the cryptocurrency market. The article appears to be a general overview of the current state of the crypto industry.",
-    "importance": 6,
-    "classified": true
-  },
-  {
-    "title": "Stanley Druckenmiller's first X post backs Hyperliquid venture after $23 million indirect investment",
-    "link": "https://www.coindesk.com/business/2026/10/29/stanley-druckenmiller-s-first-x-post-backs-hyperliquid-venture-after-usd23-million-indirect-investment",
-    "pubDate": "Thu, 29 Oct 2026 17:04:19 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "The billionaire investor disclosed an investment in Trade[XYZ] as the platform teams up with the NYSE's parent company. His family office previously reported owning shares in a HYPE-focused treasury company.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/946dceb465036cf8f4975520a5a2bd414745cd3c-3000x2000.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-    "summary": "",
-    "importance": 5
-  },
-  {
     "title": "KuCoin exits Russia and Belarus as crypto exchanges withdraw from Western-sanctioned markets",
     "link": "https://www.coindesk.com/policy/2026/10/29/kucoin-exits-russia-and-belarus-as-crypto-exchanges-withdraw-from-western-sanctioned-markets",
     "pubDate": "Thu, 29 Oct 2026 16:51:18 +0000",
@@ -102,19 +103,9 @@
     "category": "crypto",
     "content": "The exchange is closing accounts in both countries after MEXC and Bitget announced similar moves earlier this month.",
     "image": "https://cdn.sanity.io/images/s3y3vcno/production/806d7ce68f19ff2bc0d9b450ad3a379e7e4b0dd1-1440x810.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "Polymarket brings ultra-short crypto prediction markets to U.S. platform",
-    "link": "https://www.coindesk.com/markets/2026/10/29/polymarket-brings-ultra-short-crypto-prediction-markets-to-u-s-platform",
-    "pubDate": "Thu, 29 Oct 2026 14:55:47 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "Polymarket’s new Up/Down crypto contracts come as the CFTC renews scrutiny of the prediction market’s compliance with its 2022 U.S. onboarding terms.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/1336be5f04368968b919876af2286e534602b7ac-3803x2139.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-    "summary": "",
-    "importance": 5
+    "summary": "KuCoin is exiting Russia and Belarus by closing accounts in both countries. This move follows similar withdrawals from these Western-sanctioned markets by other crypto exchanges like MEXC and Bitget earlier this month.",
+    "importance": 7,
+    "classified": true
   },
   {
     "title": "Crypto for Advisors: Only 1 in 5 Americans say the financial system is secure",
@@ -124,8 +115,21 @@
     "category": "crypto",
     "content": "",
     "image": "https://cdn.sanity.io/images/s3y3vcno/production/fb0997cf9857313590b77682edc76974d5360383-5616x3744.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-    "summary": "",
-    "importance": 5
+    "summary": "A recent report highlights that only 20% of Americans trust the security of the traditional financial system. This finding is presented in a context for financial advisors, suggesting a potential role for cryptocurrency in client portfolios.",
+    "importance": 7,
+    "classified": true
+  },
+  {
+    "title": "Here’s what happened in crypto today",
+    "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Thu, 29 Oct 2026 19:58:57 +0000",
+    "source": "Cointelegraph",
+    "category": "crypto",
+    "content": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg",
+    "summary": "This article provides a summary of the latest news and trends in the crypto space, covering Bitcoin price, blockchain, DeFi, Web3, and crypto regulation. It aims to keep readers updated on daily events impacting the cryptocurrency market. The article appears to be a general overview of the current state of the crypto industry.",
+    "importance": 6,
+    "classified": true
   },
   {
     "title": "Why Switzerland’s first genuine spot bitcoin ETF could soon attract overseas banks and brokers",
@@ -260,7 +264,7 @@
     "importance": 5
   },
   {
-    "title": "Live updates: Bitcoin gives up gains as Nasdaq slides to session low",
+    "title": "Live updates: Crypto falls amid report of multi-billion Binance hack",
     "link": "https://www.coindesk.com/business/2026/10/29/live-updates-bitcoin-clings-to-usd80-000-as-strategy-s-cushion-thins-before-earnings",
     "pubDate": "Thu, 29 Oct 2026 10:41:39 +0000",
     "source": "CoinDesk",
@@ -289,6 +293,39 @@
     "category": "crypto",
     "content": "Bermuda chose WalletConnect to bring crypto payments to local merchants, starting with ticketing platform PTIX in the second quarter of 2027.",
     "image": "https://cdn.sanity.io/images/s3y3vcno/production/ee34b4a3429f67db131e32eb7e4347246d2c995c-3277x2185.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "summary": "",
+    "importance": 5
+  },
+  {
+    "title": "Binance hacked for over $5.8B in massive crypto exploit",
+    "link": "https://cointelegraph.com/news/binance-linked-wallet-faces-possible-exploit-blockchain-researcher-warns?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Thu, 29 Oct 2026 21:24:36 +0000",
+    "source": "Cointelegraph",
+    "category": "crypto",
+    "content": "Binance is investigating a multibillion-dollar security breach involving its Ethereum wallets, with Tether and Circle freezing more than $2.36 billion in stablecoins.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M64RM2NG4HTR1FTZN6XKT10N/trying-to-open-monitor.jpg",
+    "summary": "",
+    "importance": 5
+  },
+  {
+    "title": "Public companies double share of blockchain revenue since 2022: Report ",
+    "link": "https://cointelegraph.com/news/public-companies-double-share-of-blockchain-revenue-since-2022-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Thu, 29 Oct 2026 19:53:14 +0000",
+    "source": "Cointelegraph",
+    "category": "crypto",
+    "content": "A new 1kx report finds that public companies are capturing a larger share of blockchain revenue, driven by institutional adoption and real-world applications.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M64KJ64YRMXTP1BG2ZXATA10/wallet-crypto-savings-digital-assets.jpg",
+    "summary": "",
+    "importance": 5
+  },
+  {
+    "title": "Polymarket suspended trading amid reports of user funds being drained",
+    "link": "https://cointelegraph.com/news/polymarket-suspends-trading-user-funds-compromised?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Thu, 29 Oct 2026 19:23:03 +0000",
+    "source": "Cointelegraph",
+    "category": "crypto",
+    "content": "The prediction markets platform halted trading on Thursday after it reported one of its third party providers had been compromised.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M64FW4X54T1VWYMX6B1PR4H5/hi-you-are-once-again-banning-crypto-content-polymarket-1.jpg",
     "summary": "",
     "importance": 5
   },
@@ -579,35 +616,35 @@
     "importance": 5
   },
   {
-    "title": "Crypto PAC spending before midterms possibly obscured after reported FEC hack",
-    "link": "https://cointelegraph.com/news/crypto-pac-spending-midterms-fec-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Wed, 28 Oct 2026 17:05:42 +0000",
-    "source": "Cointelegraph",
+    "title": "Binance investigating hack as suspicious outflows reach up to $5.8 billion",
+    "link": "https://www.theblock.co/news/markets/2026-10-29-binance-investigating-hack-suspicious-outflows-5-billion-432171",
+    "pubDate": "Thu, 29 Oct 2026 21:49:16 +0000",
+    "source": "The Block",
     "category": "crypto",
-    "content": "The FEC reported an “electronic filing system outage” on Tuesday as groups are expected to ramp up spending before the US midterm elections.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M61JZDJN7WGW76Y3DV75013F/magnifier-coin-bitcoin-search-21.jpg",
+    "content": "Tether and Circle froze $1.79 billion in USDT and USDC after billions moved out of Binance hot wallets. Binance says it is investigating.",
+    "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2023/04/20230418_Binance_Generic_3.jpg",
     "summary": "",
     "importance": 5
   },
   {
-    "title": "Bitcoin price bounce rejected at 50-day trend line ahead of FOMC, earnings",
-    "link": "https://cointelegraph.com/markets/bitcoin-price-bounce-rejected-at-50-day-trend-line-ahead-of-fomc-earnings?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Wed, 28 Oct 2026 16:53:26 +0000",
-    "source": "Cointelegraph",
+    "title": "Strategy reports $19.5 billion in Q3 net income as preferred shareholders approve daily dividends",
+    "link": "https://www.theblock.co/news/business/2026-10-29-strategy-q3-net-income-preferred-daily-dividends-432141",
+    "pubDate": "Thu, 29 Oct 2026 20:58:35 +0000",
+    "source": "The Block",
     "category": "crypto",
-    "content": "Bitcoin failed to move past its 50-day simple moving average as market participants awaited the outcome of the FOMC meeting and key tech earnings.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M61J85J966F70S7471SPHK17/hi-us-bitcoin-reserve-asset-bill-explained-960x639.webp",
+    "content": "Strategy reported $19.53B in Q3 net income on a $20.91B bitcoin gain, holds 848,517 BTC, and moves preferreds to daily dividends.",
+    "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/10/Screenshot-2026-10-19-at-10.10.02.png",
     "summary": "",
     "importance": 5
   },
   {
-    "title": "Phantom launches Kalshi-powered prediction markets for US users ",
-    "link": "https://cointelegraph.com/news/phantom-launches-kalshi-powered-prediction-markets-for-us-users?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Wed, 28 Oct 2026 16:40:02 +0000",
-    "source": "Cointelegraph",
+    "title": "Polymarket resumes trading after $2.65 million exploit, says third-party provider was compromised",
+    "link": "https://www.theblock.co/news/defi/2026-10-29-polymarket-exploit-2-5-million-cancel-only-mode-432158",
+    "pubDate": "Thu, 29 Oct 2026 19:00:06 +0000",
+    "source": "The Block",
     "category": "crypto",
-    "content": "The crypto wallet’s new integration offers CFTC-regulated event contracts through Kalshi, as prediction markets face growing legal challenges in the US.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M61K25H2E5TR4HTCQ50BH6GF/hi-polymarkets-lawsuit-could-decide-who-regulates-us-prediction-markets-1.png",
+    "content": "After over $2.5 million was lost within minutes on Polymarket, the platform said it has since placed its exchange in cancel-only mode.",
+    "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2024/11/20241111_Polymarket_News_2.jpg",
     "summary": "",
     "importance": 5
   },
@@ -799,35 +836,13 @@
     "importance": 5
   },
   {
-    "title": "SoFi discloses 503,000 crypto products as gross crypto revenue hits $162 million",
-    "link": "https://www.theblock.co/news/markets/2026-10-27-sofi-discloses-503000-crypto-products-as-gross-crypto-revenue-hits-162-million-431897",
-    "pubDate": "Tue, 27 Oct 2026 15:35:32 +0000",
-    "source": "The Block",
+    "title": "FutureBit Apollo Solo Miner Finds Bitcoin Block 973262, Earning 3.154 BTC",
+    "link": "https://bitcoinmagazine.com/featured/futurebit-apollo-solo-miner-finds-bitcoin-block-973262-earning-3-154-btc",
+    "pubDate": "Thu, 29 Oct 2026 17:57:52 +0000",
+    "source": "Bitcoin Magazine",
     "category": "crypto",
-    "content": "SoFi broke out crypto products for the first time. Gross crypto revenue rose 20%, while total net revenue hit a record $1.39 billion.",
-    "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/10/Screenshot-2026-10-21-at-18.43.15.png",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "Ripple, BNY explore using the XRP Ledger to finance approved invoices",
-    "link": "https://www.theblock.co/news/business/2026-10-27-ripple-bny-explore-using-xrp-ledger-finance-approved-invoices-431891",
-    "pubDate": "Tue, 27 Oct 2026 15:01:12 +0000",
-    "source": "The Block",
-    "category": "crypto",
-    "content": "BNY adds XRP and RLUSD to its custody platform, as Ripple and C2FO test settling invoice payments on the XRP Ledger.",
-    "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/01/20260108_Ripple_News_3.jpg",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "Galaxy Digital swings to $323 million quarterly profit, announces new $200 million share buyback",
-    "link": "https://www.theblock.co/news/business/2026-10-27-galaxy-digital-323-million-quarterly-profit-new-200-million-share-buyback-431860",
-    "pubDate": "Tue, 27 Oct 2026 14:39:22 +0000",
-    "source": "The Block",
-    "category": "crypto",
-    "content": "Galaxy returned to profitability in the third quarter as trading volumes and lending increased, with a new $200 million buyback authorized.",
-    "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/10/Screenshot-2026-10-27-at-14.10.43.png",
+    "content": "Bitcoin Magazine\n\nFutureBit Apollo Solo Miner Finds Bitcoin Block 973262, Earning 3.154 BTC\nA miner running FutureBit’s Apollo Solo setup found Bitcoin block 973,262 on Oct. 26, collecting the full 3.154 BTC subsidy-plus-fees reward from 2,477 transactions.\nThis post FutureBit Apollo Solo Miner Finds Bitcoin Block 973262, Earning 3.154 BTC first appeared on Bitcoin Magazine and is written by Juan Galt.",
+    "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/10/tn-7.webp",
     "summary": "",
     "importance": 5
   },
@@ -927,17 +942,6 @@
     "category": "crypto",
     "content": "Bitcoin Magazine\n\nCentralized Exchange and DeFi Losses Dominate 2026 Crypto Hacks Despite Hardware Wallet Failures\nLightning.news data shared with Bitcoin Magazine puts net 2026 crypto hack losses at roughly $2.35 billion after freezes and returns. September alone accounted for about $768 million, led by Bitget’s September 24 hot-and-warm wallet drain and Liquid Network’s Elements bug.\nThis post Centralized Exchange and DeFi Losses Dominate 2026 Crypto Hacks Despite Hardware Wallet Failures first appeared on Bitcoin Magazine and is written by Juan Galt.",
     "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/10/tn-6.webp",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "Google Debuting a Bank-Grade Crypto Custody Tool Built on Split Keys: Report",
-    "link": "https://bitcoinmagazine.com/news/google-debuting-a-bank-grade-crypto-tool",
-    "pubDate": "Wed, 28 Oct 2026 17:26:10 +0000",
-    "source": "Bitcoin Magazine",
-    "category": "crypto",
-    "content": "Bitcoin Magazine\n\nGoogle Debuting a Bank-Grade Crypto Custody Tool Built on Split Keys: Report\nGoogle is previewing a crypto custody system that splits private keys across separate environments, with several banks testing it ahead of a planned early 2027 launch.\nThis post Google Debuting a Bank-Grade Crypto Custody Tool Built on Split Keys: Report first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
-    "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/10/Google-Debuting-a-Bank-Grade-Crypto-Custody-Tool-Built-on-Split-Keys-Report.jpg",
     "summary": "",
     "importance": 5
   },
@@ -1052,12 +1056,67 @@
     "importance": 5
   },
   {
+    "title": "As search traffic dries up, Reddit announces it’s shifting to a logged-in experience",
+    "link": "https://techcrunch.com/2026/10/29/as-search-traffic-dries-up-reddit-announces-its-shifting-to-a-logged-in-experience/",
+    "pubDate": "Thu, 29 Oct 2026 20:08:31 +0000",
+    "source": "TechCrunch AI",
+    "category": "ai",
+    "content": "As AI transforms how people find information online, Reddit is rethinking its open-web roots to protect its audience and business.",
+    "image": "",
+    "summary": "",
+    "importance": 5
+  },
+  {
+    "title": "Rivian expands joint venture with VW to include AI assistant",
+    "link": "https://techcrunch.com/2026/10/29/rivian-expands-joint-venture-with-vw-to-include-ai-assistant/",
+    "pubDate": "Thu, 29 Oct 2026 20:05:47 +0000",
+    "source": "TechCrunch AI",
+    "category": "ai",
+    "content": "Rivian doesn't disclose if the value of its $5.8 billion joint venture will expand as a result.",
+    "image": "",
+    "summary": "",
+    "importance": 5
+  },
+  {
+    "title": "OpenAI-backed Thrive Holdings acquires ADT",
+    "link": "https://techcrunch.com/2026/10/29/openai-backed-thrive-holdings-acquires-adt/",
+    "pubDate": "Thu, 29 Oct 2026 19:56:19 +0000",
+    "source": "TechCrunch AI",
+    "category": "ai",
+    "content": "OpenAI-backed Thrive Holdings is buying ADT in a $15.3 billion deal, with plans to bring AI to the home security business.",
+    "image": "",
+    "summary": "",
+    "importance": 5
+  },
+  {
+    "title": "Meta quietly launches an AI fashion app called Style Sketch",
+    "link": "https://techcrunch.com/2026/10/29/meta-quietly-launches-an-ai-fashion-app-called-style-sketch/",
+    "pubDate": "Thu, 29 Oct 2026 19:14:36 +0000",
+    "source": "TechCrunch AI",
+    "category": "ai",
+    "content": "The app connects to Instagram to build a virtual closet from photos you’ve already shared, or lets you add items manually by snapping a photo, recording a quick video, or uploading images from your camera roll.",
+    "image": "",
+    "summary": "",
+    "importance": 5
+  },
+  {
     "title": "Granola crunches up a dictation feature to compete with Wispr",
     "link": "https://techcrunch.com/2026/10/29/granola-crunches-up-a-dictation-feature-to-compete-with-wispr/",
     "pubDate": "Thu, 29 Oct 2026 17:54:38 +0000",
     "source": "TechCrunch AI",
     "category": "ai",
     "content": "Uno reverse! After Wispr added meeting notes to its dictation app, Granola is adding dictation to its meeting notetaker. The voice AI wars are getting interesting.",
+    "image": "",
+    "summary": "",
+    "importance": 5
+  },
+  {
+    "title": "Mistral releases weights for its trillion-parameter AI model, targeting cybersecurity",
+    "link": "https://techcrunch.com/2026/10/29/mistral-releases-weights-for-its-trillion-parameter-ai-model-targeting-cybersecurity/",
+    "pubDate": "Thu, 29 Oct 2026 17:00:00 +0000",
+    "source": "TechCrunch AI",
+    "category": "ai",
+    "content": "Mistral says its new model can afford organizations a kind of control over its cyber defenses that closed models can't.",
     "image": "",
     "summary": "",
     "importance": 5
@@ -1091,17 +1150,6 @@
     "source": "TechCrunch AI",
     "category": "ai",
     "content": "On Thursday, AI app Wabi, now describing itself as a \"personal agent,\" said it has raised $55 million at a $1.25 billion valuation.",
-    "image": "",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "Mistral releases weights for its trillion-parameter AI model, targeting cybersecurity",
-    "link": "https://techcrunch.com/2026/10/29/mistral-releases-weights-for-its-trillion-parameter-ai-model-targeting-cybersecurity/",
-    "pubDate": "Thu, 29 Oct 2026 14:00:00 +0000",
-    "source": "TechCrunch AI",
-    "category": "ai",
-    "content": "Mistral says its new model can afford organizations a kind of control over its cyber defenses that closed models can't.",
     "image": "",
     "summary": "",
     "importance": 5
@@ -1228,46 +1276,13 @@
     "importance": 5
   },
   {
-    "title": "AI execs may be too out of touch to build for the general public",
-    "link": "https://techcrunch.com/2026/10/28/ai-execs-may-be-too-out-of-touch-to-build-for-the-general-public/",
-    "pubDate": "Wed, 28 Oct 2026 15:53:52 +0000",
-    "source": "TechCrunch AI",
+    "title": "You can generate and edit Google Docs files directly in Gemini chats now",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1022519/google-gemini-file-editing-documents-pdfs",
+    "pubDate": "2026-10-29T18:45:31.000Z",
+    "source": "The Verge AI",
     "category": "ai",
-    "content": "Tech leaders are flaunting how out of touch they are when they brag about using AI to connect with their families.",
-    "image": "",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "South Korea’s financial industry hit by fresh wave of cyberattacks",
-    "link": "https://techcrunch.com/2026/10/28/south-koreas-financial-industry-hit-by-fresh-wave-of-cyberattacks/",
-    "pubDate": "Wed, 28 Oct 2026 15:41:18 +0000",
-    "source": "TechCrunch AI",
-    "category": "ai",
-    "content": "South Korea’s financial institutions have been hit by another wave of cyberattacks, highlighting the growing risk of AI-driven hacking in Asia.",
-    "image": "",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "Voice AI in vogue: Nvidia releases new open transcription model",
-    "link": "https://techcrunch.com/2026/10/28/voice-ai-in-vogue-nvidia-releases-new-open-transcription-model/",
-    "pubDate": "Wed, 28 Oct 2026 15:00:00 +0000",
-    "source": "TechCrunch AI",
-    "category": "ai",
-    "content": "Nvidia just released a free speech-to-text model that can transcribe up to 40 languages, but it only works on recordings, not live audio, so it’s a big step for meeting and medical transcription tools while still leaving real-time use to rivals like ElevenLabs.",
-    "image": "",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "7 days until TechCrunch Founder Summit: Save up to $100 on your pass before doors open",
-    "link": "https://techcrunch.com/2026/10/28/7-days-until-techcrunch-founder-summit-save-up-to-100-before-doors-open/",
-    "pubDate": "Wed, 28 Oct 2026 13:00:00 +0000",
-    "source": "TechCrunch AI",
-    "category": "ai",
-    "content": "In just 7 days, TechCrunch Founder Summit takes over Boston’s SoWa Power Station on November 4. Your chance to save up to $100 on tickets is running out, and the opportunity to learn and connect directly with experienced founders, investors, and startup leaders is almost here.",
-    "image": "",
+    "content": "Now you can generate, preview, and edit PDFs, Google Docs, Google Sheets, slide decks, Markdown files, TXT files, and code directly within Google Gemini. The new file editing capabilities are available starting today for all Gemini users, and while PDF previews/editing works on both the web and mobile, all other file formats are only in the web version for now.\nGoogle added support for generating and downloading files in Gemini earlier this year, but now you can tweak those files without leaving the Gemini app. Google says you can expand documents to edit them in full-screen mode and highlight text in files to ask Gemini questions or prompt …\nRead the full story at The Verge.",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK255_Google_Gemini_B_474198.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
     "summary": "",
     "importance": 5
   },
@@ -1371,13 +1386,13 @@
     "importance": 5
   },
   {
-    "title": "Chrome’s enhanced autofill can now pull info from Gmail to help you fill out forms",
-    "link": "https://www.theverge.com/tech/1020626/chrome-enhanced-autofill-gmail-forms-gemini-personal-intelligence",
-    "pubDate": "2026-10-28T17:00:00.000Z",
-    "source": "The Verge AI",
+    "title": "Trump declares robot imports a national security threat",
+    "link": "https://arstechnica.com/gadgets/2026/10/trump-declares-robot-imports-a-national-security-threat/",
+    "pubDate": "Thu, 29 Oct 2026 19:07:53 +0000",
+    "source": "Ars Technica AI",
     "category": "ai",
-    "content": "Following improvements made to Chrome's enhanced autofill last year that included your name, passport number, email address, and physical addresses sourced from your Google Accounts and services like Google Wallet, the feature is now expanding. Starting today, Chrome's enhanced autofill will use Gemini with Personal Intelligence to suggest information sourced from your Gmail, potentially saving you from having to search for confirmation emails, receipts, or shipping updates yourself.\nThe expanded autofill capabilities can retrieve details such as a shipment's tracking number, travel details like a flight booking number or hotel reservation, …\nRead the full story at The Verge.",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/chrome.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "content": "President orders trade talks on foreign-made factory robots, threatens tariffs.",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/6k_quick_delivery_robots-1152x648.jpg",
     "summary": "",
     "importance": 5
   },
@@ -1587,17 +1602,6 @@
     "category": "ai",
     "content": "Meta changes AI scraping policy but won’t add language respecting robots.txt.",
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2299491134-1152x648.jpg",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "Gemini's Personal Intelligence is coming to cars",
-    "link": "https://arstechnica.com/google/2026/10/geminis-personal-intelligence-is-coming-to-cars/",
-    "pubDate": "Tue, 20 Oct 2026 20:00:33 +0000",
-    "source": "Ars Technica AI",
-    "category": "ai",
-    "content": "It's probably time to audit your Gemini settings.",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/google-gemini-android-auto-1152x648.png",
     "summary": "",
     "importance": 5
   }
