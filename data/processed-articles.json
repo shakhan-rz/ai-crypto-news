@@ -24,6 +24,18 @@
     "classified": true
   },
   {
+    "title": "Kospi surges 7% as SK Hynix earnings fuel AI stock rebound",
+    "link": "https://www.coindesk.com/markets/2026/10/28/kospi-surges-7-as-sk-hynix-earnings-fuel-ai-stock-rebound",
+    "pubDate": "Wed, 28 Oct 2026 09:59:25 +0000",
+    "source": "CoinDesk",
+    "category": "ai",
+    "content": "South Korean chipmakers led a broader AI recovery after SK Hynix reported a sevenfold profit surge and announced another $45 billion in shareholder returns.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/6a0c51cace524074c11166ebc658daf776ae51bc-1542x969.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "summary": "South Korean chipmakers, led by SK Hynix, drove an AI stock market recovery on the Kospi. This rebound followed SK Hynix's report of a sevenfold profit surge and an announcement of $45 billion in shareholder returns, highlighting strong performance in the AI sector.",
+    "importance": 9,
+    "classified": true
+  },
+  {
     "title": "Treasury's Bessent sees crypto as America's next tool for keeping the U.S. dollar on top",
     "link": "https://www.coindesk.com/policy/2026/10/27/treasury-s-bessent-sees-crypto-as-america-s-next-tool-for-keeping-the-u-s-dollar-on-top",
     "pubDate": "Tue, 27 Oct 2026 20:41:33 +0000",
@@ -36,6 +48,30 @@
     "classified": true
   },
   {
+    "title": "Bitcoin-backed mortgages are coming to Canada, but borrowers are still unaware of the cost",
+    "link": "https://www.coindesk.com/markets/2026/10/28/bitcoin-backed-mortgages-are-coming-to-canada-but-borrowers-are-still-unaware-of-the-cost",
+    "pubDate": "Wed, 28 Oct 2026 21:13:44 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "Prospective borrowers face collateral liquidation risks if bitcoin prices drop, though APX said property and crypto collateral will be handled distinctly.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/bdee87b4e57880085d6c7a31248d46ba5eb6907e-7165x4779.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "summary": "Bitcoin-backed mortgages are being introduced in Canada, despite concerns over potential collateral liquidation risks for borrowers if bitcoin prices decline. APX, the company behind these mortgages, stated that property and crypto collateral would be handled distinctly to mitigate some of these risks.",
+    "importance": 8,
+    "classified": true
+  },
+  {
+    "title": "CFTC chief poses questions about policing AI but calls it a road to 'autonomous trading'",
+    "link": "https://www.coindesk.com/policy/2026/10/28/cftc-chief-poses-questions-about-policing-ai-but-calls-it-a-road-to-autonomous-trading",
+    "pubDate": "Wed, 28 Oct 2026 19:01:53 +0000",
+    "source": "CoinDesk",
+    "category": "ai",
+    "content": "The U.S. Commodity Futures Trading Commission held a forum in which the chairman, Mike Selig, suggested AI agents may usher in a financial revolution.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/5b447737cbb37b580c1293c8d94722780d032652-4928x2772.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "summary": "The U.S. Commodity Futures Trading Commission chairman, Mike Selig, discussed the implications of policing AI at a recent forum. He suggested that AI agents could lead to a financial revolution, ushering in an era of 'autonomous trading.'",
+    "importance": 8,
+    "classified": true
+  },
+  {
     "title": "Coinbase earnings: Wall Street divided on trading rebound after Robinhood crypto revenue sinks 55%",
     "link": "https://www.coindesk.com/markets/2026/10/28/coinbase-earnings-wall-street-divided-on-trading-rebound-as-robinhood-crypto-revenue-sinks-55",
     "pubDate": "Wed, 28 Oct 2026 17:02:57 +0000",
@@ -44,6 +80,18 @@
     "content": "Coinbase faces a key earnings test as analysts debate the strength of its trading rebound following a sharp drop in Robinhood's crypto revenue.",
     "image": "https://cdn.sanity.io/images/s3y3vcno/production/6e8ed1cd0f17a1509349ad7cb7c31b8324847527-1920x1280.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
     "summary": "Coinbase is approaching a critical earnings report amidst analyst debate over the potential for a trading rebound. This uncertainty is amplified by Robinhood's recent report of a significant 55% drop in its crypto revenue.",
+    "importance": 8,
+    "classified": true
+  },
+  {
+    "title": "JPMorgan, Coca-Cola, Dell also say 'no' to OKX-ICE tokenized stock trading plan",
+    "link": "https://www.coindesk.com/business/2026/10/28/jpmorgan-coca-cola-dell-also-say-no-to-okx-ice-tokenized-tock-trading-plan",
+    "pubDate": "Wed, 28 Oct 2026 12:59:36 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "Nearly half the companies on the venture’s original roster have now objected to their shares trading on the planned blockchain-based venue.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/e73f268e229858cf3a57675d0f3f6ee3ae61a1ab-6000x4000.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "summary": "Major companies including JPMorgan, Coca-Cola, and Dell have rejected a plan for their shares to be traded on a blockchain-based venue. This decision means nearly half of the venture's original roster has now objected to the tokenized stock trading initiative.",
     "importance": 8,
     "classified": true
   },
@@ -96,14 +144,14 @@
     "classified": true
   },
   {
-    "title": "Intel, Oracle, IBM join growing list of firms objecting to OKX–ICE tokenized stock plans",
-    "link": "https://www.coindesk.com/business/2026/10/27/intel-oracle-ibm-join-growing-list-of-firms-objecting-to-okx-ice-tokenized-stock-plans",
-    "pubDate": "Tue, 27 Oct 2026 18:13:02 +0000",
+    "title": "Brazil’s largest lender becomes first bank to formalize crypto brokerage under new rules",
+    "link": "https://www.coindesk.com/policy/2026/10/28/brazil-s-largest-lender-becomes-first-bank-to-formalize-crypto-brokerage-under-new-rules",
+    "pubDate": "Wed, 28 Oct 2026 10:07:54 +0000",
     "source": "CoinDesk",
     "category": "crypto",
-    "content": "The latest notice added four objections, bringing the total to 26 as the joint venture prepares to test the SEC’s new framework for blockchain-based stock trading.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/a9b26344db1a2e831d85b66e9c4b8f8de6f3eb54-4000x2667.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-    "summary": "Major tech companies including Intel, Oracle, and IBM have joined a growing list of firms objecting to tokenized stock plans proposed by a joint venture involving OKX and ICE. This brings the total number of objections to 26, as the venture prepares to test the SEC’s new framework for blockchain-based stock trading.",
+    "content": "Itaú Unibanco notified Brazil’s central bank of its crypto trading and custody operations on Tuesday, ahead of an Oct. 30 deadline.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/6d46ba6649c1aae115103732eff1cb5d1d02aaf6-960x720.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "summary": "Itaú Unibanco, Brazil's largest lender, has become the first bank to formalize its crypto trading and custody operations with the country's central bank. This move, made ahead of an October 30 deadline, signifies a major step for institutional crypto adoption under Brazil's new regulatory framework.",
     "importance": 8,
     "classified": true
   },
@@ -180,61 +228,6 @@
     "classified": true
   },
   {
-    "title": "CFTC chief poses questions about policing AI but calls it a road to 'autonomous trading'",
-    "link": "https://www.coindesk.com/policy/2026/10/28/cftc-chief-poses-questions-about-policing-ai-but-calls-it-a-road-to-autonomous-trading",
-    "pubDate": "Wed, 28 Oct 2026 19:01:53 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "The U.S. Commodity Futures Trading Commission held a forum in which the chairman, Mike Selig, suggested AI agents may usher in a financial revolution.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/5b447737cbb37b580c1293c8d94722780d032652-4928x2772.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "Fed leaves interest rates unchanged, as expected",
-    "link": "https://www.coindesk.com/markets/2026/10/28/fed-leaves-interest-rates-unchanged-as-expected",
-    "pubDate": "Wed, 28 Oct 2026 18:00:42 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "A rate hike in December remains likely as the U.S. central bank continues to focus on inflation, which remains well above its 2% target.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/122c7325c0be35556b3113612a0e2dbc323846f5-1920x980.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "JPMorgan, Coca-Cola, Dell also say 'no' to OKX-ICE tokenized stock trading plan",
-    "link": "https://www.coindesk.com/business/2026/10/28/jpmorgan-coca-cola-dell-also-say-no-to-okx-ice-tokenized-tock-trading-plan",
-    "pubDate": "Wed, 28 Oct 2026 12:59:36 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "Nearly half the companies on the venture’s original roster have now objected to their shares trading on the planned blockchain-based venue.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/e73f268e229858cf3a57675d0f3f6ee3ae61a1ab-6000x4000.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "Brazil’s largest lender becomes first bank to formalize crypto brokerage under new rules",
-    "link": "https://www.coindesk.com/policy/2026/10/28/brazil-s-largest-lender-becomes-first-bank-to-formalize-crypto-brokerage-under-new-rules",
-    "pubDate": "Wed, 28 Oct 2026 10:07:54 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "Itaú Unibanco notified Brazil’s central bank of its crypto trading and custody operations on Tuesday, ahead of an Oct. 30 deadline.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/6d46ba6649c1aae115103732eff1cb5d1d02aaf6-960x720.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "Kospi surges 7% as SK Hynix earnings fuel AI stock rebound",
-    "link": "https://www.coindesk.com/markets/2026/10/28/kospi-surges-7-as-sk-hynix-earnings-fuel-ai-stock-rebound",
-    "pubDate": "Wed, 28 Oct 2026 09:59:25 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "South Korean chipmakers led a broader AI recovery after SK Hynix reported a sevenfold profit surge and announced another $45 billion in shareholder returns.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/6a0c51cace524074c11166ebc658daf776ae51bc-1542x969.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-    "summary": "",
-    "importance": 5
-  },
-  {
     "title": "Here's how much bitcoin and the S&P 500 could rally after midterms",
     "link": "https://www.coindesk.com/markets/2026/10/28/bitcoin-averages-over-50-in-the-12-months-after-midterms-s-and-p-500-gains-15",
     "pubDate": "Wed, 28 Oct 2026 09:15:22 +0000",
@@ -286,6 +279,17 @@
     "category": "crypto",
     "content": "Majors outpaced bitcoin across the board as tech stocks extended a climb.",
     "image": "https://cdn.sanity.io/images/s3y3vcno/production/7e48c395545734f88a8940a71375c640cc1d8b21-1516x852.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "summary": "",
+    "importance": 5
+  },
+  {
+    "title": "Canadian ‘crypto king’ case to go to jury as criminal trial winds down ",
+    "link": "https://cointelegraph.com/news/canada-crypto-king-jury-criminal-trial-closing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Wed, 28 Oct 2026 21:35:52 +0000",
+    "source": "Cointelegraph",
+    "category": "crypto",
+    "content": "Aiden Pleterski, facing fraud charges in Canada over his alleged role in a digital asset Ponzi scheme, said that he was innocent at closing.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3MQWPR3MTCT9E31PTGCN3TH/court-law-judge-flags-canada.jpg",
     "summary": "",
     "importance": 5
   },
@@ -598,17 +602,6 @@
     "importance": 5
   },
   {
-    "title": "Zcash co-founder calls to stop funding ‘over $125M’ grants program",
-    "link": "https://cointelegraph.com/news/zcash-co-founder-ending-zcg-funding-125m?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Tue, 27 Oct 2026 10:00:31 +0000",
-    "source": "Cointelegraph",
-    "category": "crypto",
-    "content": "Sean Bowe says ZCG has enough money to keep funding projects and wants its share of new ZEC redirected to a reserve for the network.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5YAV7RDWSCT55YSE6J17RKG/hi-update-overview-of-software-wallets-the-easy-way-to-store-crypto-zcash-1.jpg",
-    "summary": "",
-    "importance": 5
-  },
-  {
     "title": "Robinhood earnings miss, crypto weakness fail to shake Wall Street’s bullish outlook",
     "link": "https://www.theblock.co/news/business/2026-10-28-robinhood-earnings-miss-crypto-weakness-wall-street-bullish-outlook-432011",
     "pubDate": "Wed, 28 Oct 2026 17:06:24 +0000",
@@ -829,6 +822,17 @@
     "importance": 5
   },
   {
+    "title": "Bitcoin Price Trades Above $81,500 as Fed Keeps Rates Steady in Split Vote",
+    "link": "https://bitcoinmagazine.com/markets/bitcoin-price-trades-near-81500-fed",
+    "pubDate": "Wed, 28 Oct 2026 20:03:08 +0000",
+    "source": "Bitcoin Magazine",
+    "category": "crypto",
+    "content": "Bitcoin Magazine\n\nBitcoin Price Trades Above $81,500 as Fed Keeps Rates Steady in Split Vote\nBitcoin price held near $81,000 after the Federal Reserve kept rates at 3.75% to 4% in a 10-2 vote.\nThis post Bitcoin Price Trades Above $81,500 as Fed Keeps Rates Steady in Split Vote first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
+    "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/10/Bitcoin-Price-Trades-Near-81500-as-Fed-Keeps-Rates-Steady-in-Split-Vote.jpg",
+    "summary": "",
+    "importance": 5
+  },
+  {
     "title": "Centralized Exchange and DeFi Losses Dominate 2026 Crypto Hacks Despite Hardware Wallet Failures",
     "link": "https://bitcoinmagazine.com/technical/centralized-exchange-and-defi-losses-dominate-2026-crypto-hacks-despite-hardware-wallet-failures",
     "pubDate": "Wed, 28 Oct 2026 17:43:02 +0000",
@@ -928,13 +932,13 @@
     "importance": 5
   },
   {
-    "title": "Bitcoin Price “Climbing the Wall of Worry” – Early Signs of Bull Market | Michael Sullivan",
-    "link": "https://bitcoinmagazine.com/videos/bitcoin-price-climbing-the-wall-of-worry-early-signs-of-bull-market-michael-sullivan",
-    "pubDate": "Wed, 28 Oct 2026 13:24:57 +0000",
-    "source": "Bitcoin Magazine",
-    "category": "crypto",
-    "content": "▶\n\nBitcoin Magazine\n\nBitcoin Price “Climbing the Wall of Worry” – Early Signs of Bull Market | Michael Sullivan\nHolding $80K amid washed-out sentiment mimics 2015's disbelief rally, explains Michael Sullivan as language-based data reveals a hidden bullish setup.\nThis post Bitcoin Price “Climbing the Wall of Worry” – Early Signs of Bull Market | Michael Sullivan first appeared on Bitcoin Magazine and is written by Patrick Green.",
-    "image": "https://img.youtube.com/vi/CFF3Ps0K6xI/hqdefault.jpg",
+    "title": "Creating AI value with enterprise context",
+    "link": "https://www.technologyreview.com/2026/10/28/1147709/creating-ai-value-with-enterprise-context/",
+    "pubDate": "Wed, 28 Oct 2026 20:32:02 +0000",
+    "source": "MIT Technology Review",
+    "category": "ai",
+    "content": "Across a business, any number of AI platforms, systems, and tools may be at work simultaneously—for example, AI-powered customer platforms, conversational assistants, and workflow and process automation tools. Each one is sophisticated, advanced, and quick to respond. But, when set to work, the outcomes and actions that emerge may be wrong, confused, or lacking a…",
+    "image": "https://wp.technologyreview.com/wp-content/uploads/2026/10/MIT_Atlan-Cover-28-26.png?w=840",
     "summary": "",
     "importance": 5
   },
@@ -1038,12 +1042,45 @@
     "importance": 5
   },
   {
-    "title": "In the biotech world, you can’t see everything",
-    "link": "https://www.technologyreview.com/2026/10/23/1147610/biotech-you-can-see-everything-theranos-holmes/",
-    "pubDate": "Fri, 23 Oct 2026 09:00:00 +0000",
-    "source": "MIT Technology Review",
+    "title": "Microsoft just shared Azure’s actual revenue in dollars: $33.2 billion",
+    "link": "https://techcrunch.com/2026/10/28/microsoft-just-shared-azures-actual-revenue-in-dollars-33-2-billion/",
+    "pubDate": "Wed, 28 Oct 2026 21:58:32 +0000",
+    "source": "TechCrunch AI",
     "category": "ai",
-    "content": "Earlier this week, I attended a screening of You Can See Everything, the buzzy new documentary about the disgraced former biotech CEO Elizabeth Holmes.  I went in not really knowing what to expect. I’d avoided spoilers (and won’t be giving anything away here, either!). I was wondering what new information this film could reveal, given…",
+    "content": "Microsoft has never disclosed Azure's quarterly revenue in dollars. But for the first time, we can see just how close it is getting to besting the biggest competitor in the market, AWS.",
+    "image": "",
+    "summary": "",
+    "importance": 5
+  },
+  {
+    "title": "Google expands AI Search ads globally as core ad growth slows",
+    "link": "https://techcrunch.com/2026/10/28/google-expands-ai-search-ads-globally-as-core-ad-growth-slows/",
+    "pubDate": "Wed, 28 Oct 2026 21:48:37 +0000",
+    "source": "TechCrunch AI",
+    "category": "ai",
+    "content": "The announcement came alongside parent company Alphabet's third-quarter earnings report, which saw revenue grow 25% year over year to $127.6 billion.",
+    "image": "",
+    "summary": "",
+    "importance": 5
+  },
+  {
+    "title": "Microsoft recorded $10 billion in revenue from OpenAI",
+    "link": "https://techcrunch.com/2026/10/28/microsoft-recorded-10-billion-in-revenue-from-openai/",
+    "pubDate": "Wed, 28 Oct 2026 21:34:30 +0000",
+    "source": "TechCrunch AI",
+    "category": "ai",
+    "content": "Microsoft said it made $10 billion in revenue from commercial arrangements with OpenAI, including revenue-sharing payments, in the quarter ending September 30. It underscores the still-enormous financial dependency of the partnership.",
+    "image": "",
+    "summary": "",
+    "importance": 5
+  },
+  {
+    "title": "Microsoft hits 10 quarters of record-breaking revenue in a row",
+    "link": "https://techcrunch.com/2026/10/28/microsoft-hits-10-quarters-of-record-breaking-revenue-in-a-row/",
+    "pubDate": "Wed, 28 Oct 2026 21:25:30 +0000",
+    "source": "TechCrunch AI",
+    "category": "ai",
+    "content": "Whatever the future of AI might be, the current situation is still very good for Microsoft. The tech giant reported yet another record for quarterly revenue on Wednesday: $92.3 billion, a 19% increase over the year-ago quarter.",
     "image": "",
     "summary": "",
     "importance": 5
@@ -1225,46 +1262,35 @@
     "importance": 5
   },
   {
-    "title": "Google’s Genie 4 world model adds audio, more realistic worlds, and real-time steering",
-    "link": "https://techcrunch.com/2026/10/27/googles-genie-4-world-model-adds-audio-more-realistic-worlds-and-real-time-steering/",
-    "pubDate": "Tue, 27 Oct 2026 16:30:57 +0000",
-    "source": "TechCrunch AI",
+    "title": "Adam Mosseri says negativity around AI is ‘going to get worse’",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1021644/adam-mosseri-instagram-ai-negativity",
+    "pubDate": "2026-10-28T23:05:39.000Z",
+    "source": "The Verge AI",
     "category": "ai",
-    "content": "Genie 4 can maintain a consistent scene for up to two minutes, double Genie 3's limit, and offers better physics and more humanlike characters.",
-    "image": "",
+    "content": "Asked about AI and the trend of college students booing tech CEOs at graduation ceremonies, Instagram head Adam Mosseri acknowledged in an interview that a lot of people really don't like AI, and it's not just young people and creatives. Appearing on the Colin and Samir podcast to talk about the launch of widescreen and long-form video for Instagram, Mosseri said he thinks there's a trend of \"more anxiety and more frustration and more anger about AI,\" particularly in creative industries:\nIt's not only getting worse, it's going to continue to get worse. I think we're going to see more frustration and anger, some of it founded, some of it un …\n\nRead the full story at The Verge.",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2239561028.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
     "summary": "",
     "importance": 5
   },
   {
-    "title": "Meta AI director Rohit Patel leaves to take on Microsoft Office and Google Workspace",
-    "link": "https://techcrunch.com/2026/10/27/meta-ai-director-rohit-patel-leaves-to-take-on-microsoft-office-and-google-workspace/",
-    "pubDate": "Tue, 27 Oct 2026 14:59:09 +0000",
-    "source": "TechCrunch AI",
+    "title": "Akai is embracing vibe-coded mods with an open-source MPC",
+    "link": "https://www.theverge.com/gadgets/1021405/akai-open-source-mpc-sample-key",
+    "pubDate": "2026-10-28T21:34:04.000Z",
+    "source": "The Verge AI",
     "category": "ai",
-    "content": "Rohit Patel is departing Meta after eight years working on AI evaluations and reinforcement learning, TechCrunch has exclusively learned. His startup, Ndoc, aims to take on Microsoft Office Suite.",
-    "image": "",
+    "content": "The MPC Sample Key looks like the MPC Sample just with keys instead of pads. | Image: Akai\t\n\nThe MPC Sample Key isn't even formally announced yet, but Akai is already showing off what the modding community is cooking up through vibe coding. Akai has decided to embrace the explosion of hackers and custom firmware developers by giving them early access to the device, which will have open-source firmware. \nIt will likely run some version of the same software found on the MPC Sample, but with tweaks to accommodate the traditional keyboard, pitch, and mod wheels. Unlike the higher-end MPC Key 37, however, the Sample Key doesn't have pads. Instead, you play back samples with the keys.\n\n\n  \n \n  \n \n\n\n \n\n View this post on Instagram\n\n \n \n \n \n\n \n \n\n \n \n \n\n \n \n \n\n\n\nI …\nRead the full story at The Verge.",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Akai-MPC-Sample-Key.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
     "summary": "",
     "importance": 5
   },
   {
-    "title": "Japan internet giant GMO says hackers posted stolen customer data",
-    "link": "https://techcrunch.com/2026/10/27/japan-internet-giant-gmo-says-hackers-posted-stolen-customer-data/",
-    "pubDate": "Tue, 27 Oct 2026 13:32:57 +0000",
-    "source": "TechCrunch AI",
+    "title": "Google launches Gemini 4 Carbon with a ‘significant leap’ in cybersecurity",
+    "link": "https://www.theverge.com/tech/1021339/google-gemini-4-carbon-cybersecurity-frontier",
+    "pubDate": "2026-10-28T20:03:00.000Z",
+    "source": "The Verge AI",
     "category": "ai",
-    "content": "Japan's GMO Internet is verifying alleged customer data posted by suspected hackers following a cloud service breach.",
-    "image": "",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "Opera introduces a new web standard to let users deploy AI locally in their browser",
-    "link": "https://techcrunch.com/2026/10/27/opera-introduces-a-new-web-standard-to-let-users-deploy-ai-locally-in-their-browser/",
-    "pubDate": "Tue, 27 Oct 2026 13:00:00 +0000",
-    "source": "TechCrunch AI",
-    "category": "ai",
-    "content": "The new standard, WebAI, is designed to work with a variety of AI models.",
-    "image": "",
+    "content": "Google has released its latest frontier model, Gemini 4 Carbon, offering \"significant gains\" in coding, agentic tasks, and cybersecurity. In an announcement on Wednesday, Google highlights Carbon's top spot on the Artificial Analysis Intelligence Index (v5.0) benchmark, with Claude Opus 5.5 and GPT-6 Astra trailing behind.\nThe new Gemini 4 Carbon model offers improvements over Argon, which Google released earlier this month. It's currently only available to a select group of cybersecurity defense companies, but it will eventually expand to other partners in its Fairwind Program.\nThe company says Carbon reflects the \"pace at which we're pus …\nRead the full story at The Verge.",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STK255_Google_Gemini_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
     "summary": "",
     "importance": 5
   },
@@ -1342,39 +1368,6 @@
     "category": "ai",
     "content": "On Monday, OpenAI announced impressive breakthroughs in mathematics, computer science, and physics, along with what the company says is an evolving approach to communicating its findings. But despite its apparent course correction, researchers who spoke to The Verge are growing increasingly tired of the company's antics.\nIt has been a turbulent few months between OpenAI and mathematicians, who are still grappling with the hundreds of preprints unceremoniously dumped on them at the start of October. This time, OpenAI says it is working with expert \"shepherds\" to decide how best to share its latest breakthroughs.\nAll three results conc …\nRead the full story at The Verge.",
     "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STKS537_AI_MATH_7.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "VisionQuest is what happens when AI really goes rogue",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1017064/visionquest-marvel-rogue-ai",
-    "pubDate": "2026-10-27T17:30:00.000Z",
-    "source": "The Verge AI",
-    "category": "ai",
-    "content": "In Marvel's VisionQuest, a superpowered robot tries to better understand humanity by getting lost in elaborate, digital daydreams in which he and other artificial intelligence-powered beings live together in a home. The series is deeply fantastical, yet it plays with some of the ideas that have come to dominate the conversation about real-world generative artificial intelligence, exploring whether we should look at thinking machines as people and if AI truly poses the kind of existential danger that should keep us up at night. It's also a reminder how aggressively Silicon Valley has used the trappings of science fiction to sell us on its AI  …\nRead the full story at The Verge.",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/107-90190_RC.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "Anthropic’s elaborate plan to keep Wall Street at bay",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1019470/anthropic-ipo-resist-investor-pressure-cut-corners-safety",
-    "pubDate": "2026-10-27T16:51:22.000Z",
-    "source": "The Verge AI",
-    "category": "ai",
-    "content": "Anthropic cofounder and CEO Dario Amodei. | Bloomberg via Getty Images\t\n\nAnthropic wants to have it both ways. With its impending IPO, it wants to tap the vast riches of the public markets and insists it doesn't want to compromise its core mission of developing AI safely and for the benefit of humanity. But greater model capabilities bring greater risks, and shareholders eager for returns may have little patience for costly safety measures that slow products on their way to market.\nSam Altman, the CEO of Anthropic's archrival, OpenAI, has cited investor pressures as one reason the company is not pursuing an IPO this year. Anthropic hopes it can resist investor pressures with a mind-boggling governance structure.\n …\nRead the full story at The Verge.",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2280291188.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "Firefox’s Smart Window adds AI form filling and webpage monitoring",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1019551/firefox-smart-window-ai-fill-forms",
-    "pubDate": "2026-10-27T16:14:18.000Z",
-    "source": "The Verge AI",
-    "category": "ai",
-    "content": "Mozilla is updating Smart Window - Firefox's AI-powered browsing experience - with a new feature that can help you fill out online forms based on your open tabs. As an example, Mozilla says Smart Window can pull information from your online portfolio or LinkedIn page to paste your work history into a job application.\nYou can try out this feature by clicking into a form with at least four text fields. From there, you'll see an option to \"Fill from sources,\" which will show all of the tabs Firefox will draw from. You can then select or deselect tabs that you want Firefox to use, and the browser will generate suggestions based on the informati …\nRead the full story at The Verge.",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/firefox-fill.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
     "summary": "",
     "importance": 5
   },
@@ -1597,6 +1590,18 @@
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Ukraine-drone-evacuation-1152x648.jpg",
     "summary": "",
     "importance": 5
+  },
+  {
+    "title": "Fed leaves interest rates unchanged, as expected",
+    "link": "https://www.coindesk.com/markets/2026/10/28/fed-leaves-interest-rates-unchanged-as-expected",
+    "pubDate": "Wed, 28 Oct 2026 18:00:42 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "A rate hike in December remains likely as the U.S. central bank continues to focus on inflation, which remains well above its 2% target.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/122c7325c0be35556b3113612a0e2dbc323846f5-1920x980.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "summary": "The Federal Reserve maintained interest rates at their current level, a move that was widely expected. Despite this, a December rate hike remains probable as the U.S. central bank continues its efforts to combat inflation, which is still significantly above its 2% target.",
+    "importance": 1,
+    "classified": true
   },
   {
     "title": "Dissent and more: 3 things to watch for at the Fed meeting",
