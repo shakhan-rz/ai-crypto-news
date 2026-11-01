@@ -12,6 +12,18 @@
     "classified": true
   },
   {
+    "title": "FBI confirms North Korea's role in $6 billion Binance hack, asks DeFi community to block BTC, ETH, SOL addresses",
+    "link": "https://www.coindesk.com/policy/2026/10/31/fbi-confirms-north-korea-s-role-in-usd6-billion-binance-hack-asks-defi-community-to-block-btc-eth-sol-addresses",
+    "pubDate": "Sun, 01 Nov 2026 01:10:05 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "While the FBI listed hundreds of addresses in its notice, Chainalysis said the Binance attackers have already used \"thousands addresses,\" and expects this number to continue growing.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/e19ac69728db0aaf4a7c50f5de21b8156dfeb30f-3600x2631.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "summary": "The FBI has confirmed North Korea's involvement in a massive $6 billion Binance hack and urged the DeFi community to block hundreds of associated BTC, ETH, and SOL addresses. Chainalysis, however, noted that the attackers have already utilized thousands of addresses and anticipate this number to increase as they try to launder funds.",
+    "importance": 9,
+    "classified": true
+  },
+  {
     "title": "Binance says it has replaced 90% of stolen crypto after massive $6.3 billion breach",
     "link": "https://www.coindesk.com/business/2026/10/31/binance-says-it-has-replaced-90-of-stolen-crypto-after-massive-usd6-3-billion-breach",
     "pubDate": "Sat, 31 Oct 2026 15:24:10 +0000",
@@ -32,6 +44,18 @@
     "content": "The Binance hack has revived debates about whether decentralization is the digital asset industry’s greatest security advantage or its biggest point of weakness.",
     "image": "https://cdn.sanity.io/images/s3y3vcno/production/6e0794b53fab4b04d9e3fdbc0f3d1a70cdf36125-1920x1283.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
     "summary": "The Binance hack, involving $6.3 billion with $3 billion recovered, has reignited discussions within the digital asset industry about the paradox of centralization. While centralization enabled the hack, it also facilitated the recovery of a significant portion of the stolen funds. This incident challenges whether decentralization is ultimately the greatest security advantage or weakness for digital assets.",
+    "importance": 9,
+    "classified": true
+  },
+  {
+    "title": "Bitcoin stolen from Binance tops Tesla’s holdings and is over twice El Salvador’s reserve",
+    "link": "https://www.coindesk.com/markets/2026/10/31/bitcoin-stolen-from-binance-tops-tesla-s-holdings-and-is-over-twice-el-salvador-s-reserve",
+    "pubDate": "Sat, 31 Oct 2026 05:01:32 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "The 18,270 BTC haul is worth about $1.4 billion and comes within 442 coins of SpaceX’s disclosed holdings. Blockchain investigators link the attack to North Korea.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/d9828d5a1dcf4e1f9551968a3a6c2c75a4fc3166-3657x2057.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "summary": "North Korean hackers are believed to be responsible for stealing 18,270 BTC, valued at approximately $1.4 billion, from Binance. This significant theft surpasses Tesla's Bitcoin holdings and is more than double El Salvador's cryptocurrency reserves.",
     "importance": 9,
     "classified": true
   },
@@ -310,28 +334,6 @@
     "summary": "Companies are offering individuals access to bitcoin mining without the operational hassle, but high costs and the impending 2028 reward halving create significant uncertainty regarding profitability. Despite these challenges, the situation is presented as a renewed opportunity for individuals to earn bitcoin rewards.",
     "importance": 5,
     "classified": true
-  },
-  {
-    "title": "Bitcoin stolen from Binance tops Tesla’s holdings and is over twice El Salvador’s reserve",
-    "link": "https://www.coindesk.com/markets/2026/10/31/bitcoin-stolen-from-binance-tops-tesla-s-holdings-and-is-over-twice-el-salvador-s-reserve",
-    "pubDate": "Sat, 31 Oct 2026 05:01:32 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "The 18,270 BTC haul is worth about $1.4 billion and comes within 442 coins of SpaceX’s disclosed holdings. Blockchain investigators link the attack to North Korea.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/d9828d5a1dcf4e1f9551968a3a6c2c75a4fc3166-3657x2057.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "Binance hack bites India's largest crypto exchange as it curbs futures trading",
-    "link": "https://www.coindesk.com/markets/2026/10/30/coindcx-halts-new-crypto-futures-bets-as-binance-incident-disrupts-liquidity",
-    "pubDate": "Fri, 30 Oct 2026 05:43:07 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "CoinDCX has restricted new futures positions after Binance’s security incident disrupted a key liquidity provider. Deposits, withdrawals and customer funds remain unaffected, the exchange said.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/7f7ef13317cdfd77bf7ecbfc1b784d3d087b9720-1500x915.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-    "summary": "",
-    "importance": 5
   },
   {
     "title": "Binance says 90% of stolen assets replenished, targets Sunday withdrawals",
