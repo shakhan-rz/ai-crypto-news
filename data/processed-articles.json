@@ -12,7 +12,7 @@
     "classified": true
   },
   {
-    "title": "What is TraderTraitor, the hacking squad behind the $6.3 billion Binance heist",
+    "title": "What is TraderTraitor, the hacking squad behind the $6.3 billion Binance heist?",
     "link": "https://www.coindesk.com/business/2026/11/05/what-is-tradertraitor-the-hacking-squad-behind-the-usd6-3-billion-binance-heist",
     "pubDate": "Thu, 05 Nov 2026 16:58:21 +0000",
     "source": "CoinDesk",
@@ -20,6 +20,30 @@
     "content": "The hacking group has been behind some of the crypto industry's most recent high-profile thefts.",
     "image": "https://cdn.sanity.io/images/s3y3vcno/production/46896a614298dcf705810c12a113e9dab6ce84fb-4416x2488.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
     "summary": "TraderTraitor is a notorious hacking group responsible for several high-profile thefts in the cryptocurrency industry. Their most notable action includes a massive $6.3 billion heist targeting Binance.",
+    "importance": 9,
+    "classified": true
+  },
+  {
+    "title": "Google could take stake in bitcoin miner TeraWulf’s $19 billion AI project if Anthropic defaults",
+    "link": "https://www.coindesk.com/tech/2026/11/05/google-could-take-ownership-stake-in-bitcoin-miner-terawulf-s-ai-project-if-anthropic-defaults",
+    "pubDate": "Thu, 05 Nov 2026 13:29:40 +0000",
+    "source": "CoinDesk",
+    "category": "both",
+    "content": "A $19 billion data-center agreement includes an unusual provision allowing Google to acquire part of the project if Anthropic fails to pay its rent.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/1b60f0ad8fb01131abb6c4eae334bffffef79cc4-5760x3840.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "summary": "Google has an unusual provision in a $19 billion data-center agreement, allowing it to acquire a stake in bitcoin miner TeraWulf’s AI project. This would occur if AI company Anthropic defaults on its rent for the data center. This highlights a significant financial intersection between big tech, AI development, and the cryptocurrency mining industry.",
+    "importance": 9,
+    "classified": true
+  },
+  {
+    "title": "Live updates: Bitcoin drops more than 5% as stocks close out worst day since April 2025",
+    "link": "https://www.coindesk.com/business/2026/11/05/live-updates-bitcoin-steady-around-usd80-000-as-markets-rally-after-democratic-sweep",
+    "pubDate": "Thu, 05 Nov 2026 10:57:11 +0000",
+    "source": "CoinDesk",
+    "category": "both",
+    "content": "The continued blowup of the AI trade led markets lower, with Nvidia losing 9.3% and many other chip names down double-digit percentages.",
+    "image": "",
+    "summary": "Bitcoin dropped over 5% as the stock market experienced its worst day since April 2025, primarily driven by a significant downturn in the AI trade. This market blowup led to Nvidia losing 9.3% and other chip-related stocks seeing double-digit percentage declines.",
     "importance": 9,
     "classified": true
   },
@@ -60,6 +84,18 @@
     "classified": true
   },
   {
+    "title": "Bitcoin miners are oversold following 35% October rout, VanEck says",
+    "link": "https://www.coindesk.com/markets/2026/11/05/bitcoin-miners-are-oversold-following-35-october-rout-says-vaneck",
+    "pubDate": "Thu, 05 Nov 2026 11:49:23 +0000",
+    "source": "CoinDesk",
+    "category": "both",
+    "content": "Investors dumped AI infrastructure providers across the board in October, treating companies in very different sectors as one monolithic trade.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/2f8f0af7ccc034c06cbbfaf318c734fc0eb012fe-1069x719.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "summary": "VanEck reports that Bitcoin miners are oversold following a 35% decline in October. Concurrently, investors broadly sold off AI infrastructure providers, treating companies from various sectors as a single investment category.",
+    "importance": 8,
+    "classified": true
+  },
+  {
     "title": "Tokenization and stablecoins may weather Democrats' sweep as broader crypto rules face uncertainty",
     "link": "https://www.coindesk.com/policy/2026/11/04/tokenization-and-stablecoins-may-weather-democrats-sweep-as-broader-crypto-rules-face-uncertainty",
     "pubDate": "Wed, 04 Nov 2026 22:55:00 +0000",
@@ -72,7 +108,7 @@
     "classified": true
   },
   {
-    "title": "Bitcoin, crypto stocks caught in AI trade meltdown, but Wintermute trader sees 'glass half full'",
+    "title": "Bitcion tumbles to $76,000 as collapsing AI trade drags stocks sharply lower",
     "link": "https://www.coindesk.com/markets/2026/11/05/bitcoin-crypto-stocks-caught-in-ai-trade-meltdown-but-wintermute-trader-sees-glass-half-full",
     "pubDate": "Thu, 05 Nov 2026 18:48:40 +0000",
     "source": "CoinDesk",
@@ -108,6 +144,30 @@
     "classified": true
   },
   {
+    "title": "Binance cuts SignalPlus access after security warning, urges users to check accounts",
+    "link": "https://www.coindesk.com/tech/2026/11/05/binance-cuts-signalplus-access-after-security-warning-urges-users-to-check-accounts",
+    "pubDate": "Thu, 05 Nov 2026 12:55:03 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "The exchange says its systems are unaffected but has removed trading connections to the third-party platform as a precaution.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/fadd44ea64cc18b26239fc7651fefaf2d2a62fe3-1920x1080.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "summary": "Binance has cut access to the third-party trading platform SignalPlus after a security warning, urging its users to check their accounts. The crypto exchange emphasized that its own systems remain unaffected and the action was taken purely as a precaution.",
+    "importance": 7,
+    "classified": true
+  },
+  {
+    "title": "Ukraine’s central bank opposes crypto bill, citing monetary sovereignty concerns",
+    "link": "https://www.coindesk.com/business/2026/11/05/ukraine-s-central-bank-opposes-crypto-bill-citing-monetary-sovereignty-concerns",
+    "pubDate": "Thu, 05 Nov 2026 12:50:57 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "Ukraine’s central bank won’t back a crypto legalization bill in its current form and wants lawmakers to revise it before a final vote.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/3cce92a0af48494a2126025022b398babc564bcf-1920x1200.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "summary": "Ukraine's central bank has stated its opposition to the current version of a crypto legalization bill, urging lawmakers to revise it before a final vote. The central bank's concerns primarily revolve around issues of monetary sovereignty.",
+    "importance": 7,
+    "classified": true
+  },
+  {
     "title": "Zcash is about to freeze $16 million in its oldest privacy pool",
     "link": "https://www.coindesk.com/tech/2026/11/05/zcash-is-about-to-freeze-usd16-million-in-its-oldest-privacy-pool",
     "pubDate": "Thu, 05 Nov 2026 05:47:01 +0000",
@@ -122,7 +182,7 @@
   {
     "title": "Here’s what happened in crypto today",
     "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Thu, 05 Nov 2026 13:46:01 +0000",
+    "pubDate": "Thu, 05 Nov 2026 23:03:41 +0000",
     "source": "Cointelegraph",
     "category": "crypto",
     "content": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
@@ -132,72 +192,6 @@
     "classified": true
   },
   {
-    "title": "Google could take stake in bitcoin miner TeraWulf’s $19 billion AI project if Anthropic defaults",
-    "link": "https://www.coindesk.com/tech/2026/11/05/google-could-take-ownership-stake-in-bitcoin-miner-terawulf-s-ai-project-if-anthropic-defaults",
-    "pubDate": "Thu, 05 Nov 2026 13:29:40 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "A $19 billion data-center agreement includes an unusual provision allowing Google to acquire part of the project if Anthropic fails to pay its rent.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/1b60f0ad8fb01131abb6c4eae334bffffef79cc4-5760x3840.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "Binance cuts SignalPlus access after security warning, urges users to check accounts",
-    "link": "https://www.coindesk.com/tech/2026/11/05/binance-cuts-signalplus-access-after-security-warning-urges-users-to-check-accounts",
-    "pubDate": "Thu, 05 Nov 2026 12:55:03 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "The exchange says its systems are unaffected but has removed trading connections to the third-party platform as a precaution.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/fadd44ea64cc18b26239fc7651fefaf2d2a62fe3-1920x1080.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "Ukraine’s central bank opposes crypto bill, citing monetary sovereignty concerns",
-    "link": "https://www.coindesk.com/business/2026/11/05/ukraine-s-central-bank-opposes-crypto-bill-citing-monetary-sovereignty-concerns",
-    "pubDate": "Thu, 05 Nov 2026 12:50:57 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "Ukraine’s central bank won’t back a crypto legalization bill in its current form and wants lawmakers to revise it before a final vote.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/3cce92a0af48494a2126025022b398babc564bcf-1920x1200.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "Bitcoin is resilient, but leverage is missing and demand still tepid",
-    "link": "https://www.coindesk.com/daybook-us/2026/11/05/bitcoin-is-resilient-but-leverage-is-missing-and-demand-still-tepid",
-    "pubDate": "Thu, 05 Nov 2026 12:27:04 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "Your day-ahead look for Nov. 5, 2026",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/a68d267c5e108d7e2dd30957a746ee54840b53ad-2048x1365.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "Bitcoin miners are oversold following 35% October rout, VanEck says",
-    "link": "https://www.coindesk.com/markets/2026/11/05/bitcoin-miners-are-oversold-following-35-october-rout-says-vaneck",
-    "pubDate": "Thu, 05 Nov 2026 11:49:23 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "Investors dumped AI infrastructure providers across the board in October, treating companies in very different sectors as one monolithic trade.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/2f8f0af7ccc034c06cbbfaf318c734fc0eb012fe-1069x719.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "Trump-linked American Bitcoin swings to $126 million profit but misses revenue estimates",
-    "link": "https://www.coindesk.com/business/2026/11/05/trump-linked-american-bitcoin-swings-to-usd126-million-profit-in-q3-2026",
-    "pubDate": "Thu, 05 Nov 2026 11:45:54 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "Revenue fell to $63.4 million in the third quarter and missed analysts’ forecasts as bitcoin production declined and higher summer electricity prices pushed mining costs up.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/87e4902bfb4d36401e2e19cdf71ed52e9f9e20c6-3265x1837.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-    "summary": "",
-    "importance": 5
-  },
-  {
     "title": "Bitcoin holds above $80,000 after Wednesday’s jump as injective rallies on staked ETF listing",
     "link": "https://www.coindesk.com/markets/2026/11/05/bitcoin-holds-above-usd80-000-after-wednesday-s-jump-as-injective-rallies-on-staked-etf-listing",
     "pubDate": "Thu, 05 Nov 2026 11:30:00 +0000",
@@ -205,19 +199,9 @@
     "category": "crypto",
     "content": "Bitcoin slipped 0.2% to around $80,250 since midnight UTC, holding above $80,000 after Wednesday’s jump, as spot ETFs ended a three-day outflow streak.",
     "image": "https://cdn.sanity.io/images/s3y3vcno/production/b6b7adbd2d46e62c55e664bc16b7bdfb7912d532-1920x1080.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "Live updates: Bitcoin plunges as Nasdaq falls 4% in panicky selloff",
-    "link": "https://www.coindesk.com/business/2026/11/05/live-updates-bitcoin-steady-around-usd80-000-as-markets-rally-after-democratic-sweep",
-    "pubDate": "Thu, 05 Nov 2026 10:57:11 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "There's been no letup in the selling of the AI chip stocks, with Micron and AMD among those suffering double-digit percentage declines; Nvidia is down 8%.",
-    "image": "",
-    "summary": "",
-    "importance": 5
+    "summary": "Bitcoin is holding above the $80,000 mark despite a slight overnight dip, following a recent price jump. This sustained level coincides with Bitcoin spot ETFs concluding a three-day streak of outflows.",
+    "importance": 5,
+    "classified": true
   },
   {
     "title": "Mercado Bitcoin hack continued hours after exchange said attack was contained, report finds",
@@ -282,6 +266,50 @@
     "category": "crypto",
     "content": "A wallet supposedly linked to Trump Media has made a large BTC transfer to Crypto.com, data tracked by Arkham show.",
     "image": "https://cdn.sanity.io/images/s3y3vcno/production/de278a5c492ab4bde63167f3534082ff55913519-1577x1233.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "summary": "",
+    "importance": 5
+  },
+  {
+    "title": "Core Scientific to quit Bitcoin mining by year-end as AI business surges",
+    "link": "https://cointelegraph.com/news/core-scientific-to-quit-bitcoin-mining-by-year-end-as-ai-business-surges?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Fri, 06 Nov 2026 00:19:49 +0000",
+    "source": "Cointelegraph",
+    "category": "crypto",
+    "content": "The former Bitcoin mining heavyweight plans to become a pure-play data center provider in 2027, with mining now accounting for just 7.5% of quarterly revenue.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6Q3CQMWTQJT7XAQTHW92TAX/bitcoin-5.jpg",
+    "summary": "",
+    "importance": 5
+  },
+  {
+    "title": "American Bitcoin’s $126M profit masks mining pressure as rivals turn to AI",
+    "link": "https://cointelegraph.com/news/american-bitcoins-126m-profit-masks-mining-pressure-ai?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Thu, 05 Nov 2026 22:43:18 +0000",
+    "source": "Cointelegraph",
+    "category": "crypto",
+    "content": "The Eric Trump-backed miner reported $126 million in quarterly net income, largely driven by gains on its Bitcoin holdings, despite rising mining costs and shrinking margins.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6PN518266V0HS41TJ9DPJYP/make-bitcoin-great-again2.png",
+    "summary": "",
+    "importance": 5
+  },
+  {
+    "title": "Asian crypto exchanges batten down the hatches as hacks surge: Asia Express  ",
+    "link": "https://cointelegraph.com/magazine/asian-crypto-exchanges-bunker-down-as-hacks-surge-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Thu, 05 Nov 2026 22:18:42 +0000",
+    "source": "Cointelegraph",
+    "category": "crypto",
+    "content": "Asian crypto exchanges are scrambling to tighten security on fears of a wave of potentially AI-assisted hacks, even as regional governments embrace tokenization and stablecoins.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2RR0R87D4ZNY7FB45GN96P2/magazineasia-expressriver.jpg",
+    "summary": "",
+    "importance": 5
+  },
+  {
+    "title": "Crypto ally French Hill wins reelection but set to lose House chair",
+    "link": "https://cointelegraph.com/news/crypto-ally-french-hill-wins-reelection-arkansas?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Thu, 05 Nov 2026 21:39:19 +0000",
+    "source": "Cointelegraph",
+    "category": "crypto",
+    "content": "Republican French Hill secured another term in Congress but will lose his leadership of the House Financial Services Committee when Democrats take control in January.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6PRB5HN8051MQNHPJKXZT9K/fortune-glass-for-vote-prediction.jpg",
     "summary": "",
     "importance": 5
   },
@@ -561,46 +589,35 @@
     "importance": 5
   },
   {
-    "title": "France backs reporting for self-custodied crypto worth 100K euros or more",
-    "link": "https://cointelegraph.com/news/france-approves-amendment-self-custodied-crypto-wallets-100k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Wed, 04 Nov 2026 13:44:52 +0000",
-    "source": "Cointelegraph",
+    "title": "Hyperliquid Strategies files to become CFTC-registered FCM, posts $13.3 million in quaterly revenue",
+    "link": "https://www.theblock.co/news/markets/2026-11-05-hyperliquid-strategies-files-become-cftc-registered-fcm-posts-13-3-million-quaterly-revenue-435455",
+    "pubDate": "Thu, 05 Nov 2026 22:09:14 +0000",
+    "source": "The Block",
     "category": "crypto",
-    "content": "The amendment would require taxpayers to report holdings worth at least $112,000, but the measure still needs to survive the budget process.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6K96JSQT5CQ67R1T193FAYM/hi-guide-on-crypto-french-regulation.jpg",
+    "content": "Hyperliquid Strategies posted $13.3M in revenue and $620.6M net income, and filed with the CFTC to become an FCM for U.S. HIP-3 perp markets.",
+    "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2025/05/hyperliquid-hype.jpg",
     "summary": "",
     "importance": 5
   },
   {
-    "title": "Canton’s CC rises 4% as SEC staff view it as ‘digital commodity’",
-    "link": "https://cointelegraph.com/markets/cantons-cc-rises-sec-no-action-letter-digital-commodity?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Wed, 04 Nov 2026 12:12:15 +0000",
-    "source": "Cointelegraph",
+    "title": "Bitcoin erases post-election gains as Wall Street selloff triggers over $1 billion in crypto liquidations",
+    "link": "https://www.theblock.co/news/markets/2026-11-05-bitcoin-erases-post-election-gains-wall-street-selloff-liquidations-435434",
+    "pubDate": "Thu, 05 Nov 2026 20:11:02 +0000",
+    "source": "The Block",
     "category": "crypto",
-    "content": "SEC staff’s no-action letter covers CC earned by running infrastructure and applications, but is not a binding ruling on its legal status.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6K35HFSNDXKSZPYH2YBQQTR/hi-interest-in-crypto-derivatives-rising-on-the-back-of-a-bullish-crypto-rally.jpg",
+    "content": "Bitcoin fell 6% to $75,700 and ether 7% as a Nasdaq selloff hit crypto, triggering $1.03 billion in liquidations.",
+    "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/10/bitcoin.png",
     "summary": "",
     "importance": 5
   },
   {
-    "title": "Binance hack may be ‘temporary setback’ for crypto, Grayscale’s Pandl says",
-    "link": "https://cointelegraph.com/markets/crypto-market-recovery-grayscale-binance-hack-temporary-setback?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Wed, 04 Nov 2026 11:11:57 +0000",
-    "source": "Cointelegraph",
+    "title": "Base deploys Denim upgrade on mainnet, replacing Flashblocks with 200ms block times",
+    "link": "https://www.theblock.co/news/ecosystems/2026-11-05-base-deploys-denim-upgrade-on-mainnet-replacing-flashblocks-with-200ms-block-times-434433",
+    "pubDate": "Thu, 05 Nov 2026 19:00:00 +0000",
+    "source": "The Block",
     "category": "crypto",
-    "content": "Zach Pandl highlighted institutional custody safeguards as crypto markets recovered some losses following the record $6.3 billion Binance hack.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6JYK2EH5NQHTWBFQ5A01VV5/hi-biggest-disappointments-in-crypto-in-2021.jpg",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "Justin Sun seeks $264K sanctions over World Liberty’s UAE disclosure",
-    "link": "https://cointelegraph.com/news/justin-sun-world-liberty-264k-sanctions-uae-disclosure?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Wed, 04 Nov 2026 10:30:42 +0000",
-    "source": "Cointelegraph",
-    "category": "crypto",
-    "content": "Sun plans to refile his token-freeze lawsuit in California state court after the sanctions motion is resolved. A hearing is set for Dec. 10.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6JZ76E41HGCE63NNNV8S1QH/justin-sun-wlfi-lawsuit.jpg",
+    "content": "Base activated its fourth network upgrade, Denim, introducing five canonical blocks per second at 200ms intervals.",
+    "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/Screenshot-2026-11-05-at-14.20.34.png",
     "summary": "",
     "importance": 5
   },
@@ -792,35 +809,24 @@
     "importance": 5
   },
   {
-    "title": "French bank Crédit Mutuel Arkéa exploited for over $133 million, ZachXBT says",
-    "link": "https://www.theblock.co/news/web3/2026-11-03-french-bank-credit-mutuel-arkea-exploited-zachxbt-432607",
-    "pubDate": "Wed, 04 Nov 2026 04:57:41 +0000",
-    "source": "The Block",
+    "title": "Bitcoin Price Trades Near $76,000 as Nasdaq Tumbles into Correction",
+    "link": "https://bitcoinmagazine.com/markets/bitcoin-price-trades-near-76000-nasdaq",
+    "pubDate": "Thu, 05 Nov 2026 21:46:35 +0000",
+    "source": "Bitcoin Magazine",
     "category": "crypto",
-    "content": "ZachXBT said he has a 'high degree of confidence' that the attacker is not associated with North Korea's Lazarus Group.",
-    "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/arkea_zachxbt_hack_1920x1080.jpg",
+    "content": "Bitcoin Magazine\n\nBitcoin Price Trades Near $76,000 as Nasdaq Tumbles into Correction\nBitcoin price held near $76,000 Thursday afternoon as the Nasdaq sank deeper into a correction, crypto liquidations topped $1 billion and Strategy, Coinbase and bitcoin miners sold off in double digits.\nThis post Bitcoin Price Trades Near $76,000 as Nasdaq Tumbles into Correction first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
+    "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/11/Bitcoin-Price-Trades-Near-76000-Nasdaq-Correction.jpg",
     "summary": "",
     "importance": 5
   },
   {
-    "title": "Former Sen. Sherrod Brown defeats Jon Husted, dealing a blow to crypto PAC Fairshake",
-    "link": "https://www.theblock.co/news/regulation/2026-11-03-sherrod-brown-defeats-jon-husted-432495",
-    "pubDate": "Wed, 04 Nov 2026 04:35:48 +0000",
-    "source": "The Block",
+    "title": "Core Scientific (CORZ) to Exit Bitcoin Mining by Year-End as Colocation Hits $215 Million",
+    "link": "https://bitcoinmagazine.com/news/core-scientific-exits-bitcoin-year-end",
+    "pubDate": "Thu, 05 Nov 2026 20:39:27 +0000",
+    "source": "Bitcoin Magazine",
     "category": "crypto",
-    "content": "Former Democratic Sen. Sherrod Brown is taking back his spot in the Senate, leaving crypto political action committee Fairshake with the bag.",
-    "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2022/05/20220513-News-Sherrod-Brown.jpg",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "Block Inc. shares rise 6% after-hours as it raises full-year profit forecast",
-    "link": "https://www.theblock.co/news/business/2026-11-03-block-q3-earnings-shares-rise-432585",
-    "pubDate": "Wed, 04 Nov 2026 04:13:10 +0000",
-    "source": "The Block",
-    "category": "crypto",
-    "content": "Block raised its full-year gross profit forecast to $12.63 billion, which would represent a 22% year-on-year growth.",
-    "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2021/07/20210723_jack_Dorsey.jpg",
+    "content": "Bitcoin Magazine\n\nCore Scientific (CORZ) to Exit Bitcoin Mining by Year-End as Colocation Hits $215 Million\nCore Scientific will finish winding down bitcoin mining in the fourth quarter and enter 2027 as a pure-play AI colocation landlord, with self-mining revenue already down to $12.3 million.\nThis post Core Scientific (CORZ) to Exit Bitcoin Mining by Year-End as Colocation Hits $215 Million first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
+    "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/11/Core-Scientific-CORZ-to-Exit-Bitcoin-Mining-by-Year-End-as-Colocation-Hits-215-Million.jpg",
     "summary": "",
     "importance": 5
   },
@@ -909,28 +915,6 @@
     "category": "crypto",
     "content": "Bitcoin Magazine\n\nFed and OCC Quiz U.S. Banks After $6.3 Billion Binance Hack\nFederal Reserve and OCC supervisors contacted U.S. banks this week to check for vulnerabilities after the Binance hack.\nThis post Fed and OCC Quiz U.S. Banks After $6.3 Billion Binance Hack first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
     "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/11/Fed-OCC-Banks-Binance-Hack.jpg",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "Tether and Tron Quietly Scrapped T3 Crime Unit Two Months Before $6.3 Billion Binance Hack",
-    "link": "https://bitcoinmagazine.com/news/tether-tron-scrap-t3-crime-unit",
-    "pubDate": "Thu, 05 Nov 2026 13:57:43 +0000",
-    "source": "Bitcoin Magazine",
-    "category": "crypto",
-    "content": "Bitcoin Magazine\n\nTether and Tron Quietly Scrapped T3 Crime Unit Two Months Before $6.3 Billion Binance Hack\nThe T3 Financial Crime Unit, which said it froze more than $450 million in illicit USDT with authorities in 23 jurisdictions, wound down in late August.\nThis post Tether and Tron Quietly Scrapped T3 Crime Unit Two Months Before $6.3 Billion Binance Hack first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
-    "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/07/BlackRock-Coinbase-Strategy-Among-Nine-Firms-Launching-the-Bitcoin-Security-Consortium-Pledging-15-Million-To-BTC-Security-Development.jpg",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "Riot (RIOT) Names Anthropic as Tenant in $28 Billion Texas Lease, Could Owe It 12% Interest",
-    "link": "https://bitcoinmagazine.com/news/riot-names-anthropic-texas-lease",
-    "pubDate": "Thu, 05 Nov 2026 13:52:53 +0000",
-    "source": "Bitcoin Magazine",
-    "category": "crypto",
-    "content": "Bitcoin Magazine\n\nRiot (RIOT) Names Anthropic as Tenant in $28 Billion Texas Lease, Could Owe It 12% Interest\nRiot's 10-Q identifies Anthropic as the AI lab behind its 910 MW Corsicana lease and shows Riot could owe the tenant 12% interest on up to $3.6 billion in build costs.\nThis post Riot (RIOT) Names Anthropic as Tenant in $28 Billion Texas Lease, Could Owe It 12% Interest first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
-    "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/11/Riot-Anthropic-Texas-Lease.jpg",
     "summary": "",
     "importance": 5
   },
@@ -1045,7 +1029,29 @@
     "importance": 5
   },
   {
-    "title": "Meta’s warns that election backlash against data centers could make AI expansion harder",
+    "title": "Airbnb says it’s launching an AI travel agent in the first half of 2027",
+    "link": "https://techcrunch.com/2026/11/05/airbnb-says-its-launching-an-ai-travel-agent-in-the-first-half-of-2027/",
+    "pubDate": "Thu, 05 Nov 2026 22:40:55 +0000",
+    "source": "TechCrunch AI",
+    "category": "ai",
+    "content": "Airbnb says its upcoming AI agent will help travelers plan trips, compare options, manage bookings, and get assistance throughout their stay.",
+    "image": "",
+    "summary": "",
+    "importance": 5
+  },
+  {
+    "title": "Meta says US users can now video chat with their Muse AI avatar",
+    "link": "https://techcrunch.com/2026/11/05/meta-says-us-users-can-now-video-chat-with-their-muse-ai-avatar/",
+    "pubDate": "Thu, 05 Nov 2026 19:48:28 +0000",
+    "source": "TechCrunch AI",
+    "category": "ai",
+    "content": "Meta's AI agent can now take calls as a customizable animated avatar, ahead of the launch of a Tamagotchi-like wearable designed to bring Muse to life.",
+    "image": "",
+    "summary": "",
+    "importance": 5
+  },
+  {
+    "title": "Meta warns that election backlash against data centers could make AI expansion harder",
     "link": "https://techcrunch.com/2026/11/05/metas-warns-that-election-backlash-against-data-centers-could-make-ai-expansion-harder/",
     "pubDate": "Thu, 05 Nov 2026 19:12:39 +0000",
     "source": "TechCrunch AI",
@@ -1072,7 +1078,7 @@
     "pubDate": "Thu, 05 Nov 2026 18:02:27 +0000",
     "source": "TechCrunch AI",
     "category": "ai",
-    "content": "OpenAI president Greg Brockman says the company could be ready to go public in 2027, pointing to accelerating enterprise revenue and a turnaround in its business.",
+    "content": "Speaking at a Wall Street Journal tech conference on Wednesday, the executive touted how the company had been gaining ground in the enterprise market, where rival Anthropic had already successfully made inroads.",
     "image": "",
     "summary": "",
     "importance": 5
@@ -1243,24 +1249,46 @@
     "importance": 5
   },
   {
-    "title": "DuckDuckGo pitches itself to schools amid backlash over Google’s AI policy",
-    "link": "https://techcrunch.com/2026/11/04/duckduckgo-pitches-itself-to-schools-amid-backlash-over-googles-ai-policy/",
-    "pubDate": "Wed, 04 Nov 2026 19:29:52 +0000",
-    "source": "TechCrunch AI",
+    "title": "OpenAI is stepping back from NDAs for data center projects",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1028454/openai-data-center-nda",
+    "pubDate": "2026-11-06T00:37:56.000Z",
+    "source": "The Verge AI",
     "category": "ai",
-    "content": "DuckDuckGo is courting schools frustrated by Google's AI restrictions, pointing educators to its search engine and options to disable AI features.",
-    "image": "",
+    "content": "Following this week's midterms where voters resoundingly voiced their opposition to data center expansion, OpenAI today announced new commitments to communities where it is working on data center projects, including that it won't use non-disclosure agreements (NDAs) with public officials.\nMany data center projects have come under scrutiny for relying on NDAs to hide discussions between developers and local officials. However, OpenAI says it is now allowing \"only narrow protections covering legitimate security information, trade secrets, or proprietary or competitively sensitive information.\" In October, Amazon announced it would no longer u …\nRead the full story at The Verge.",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKS528_DATA_CENTERS2_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
     "summary": "",
     "importance": 5
   },
   {
-    "title": "Building on open source AI? Hugging Face’s policy chief on the costs, risks, and trade-offs",
-    "link": "https://techcrunch.com/podcast/building-on-open-source-ai-hugging-faces-policy-chief-on-the-costs-risks-and-trade-offs/",
-    "pubDate": "Wed, 04 Nov 2026 18:44:57 +0000",
-    "source": "TechCrunch AI",
+    "title": "Airbnb is working on an AI travel agent",
+    "link": "https://www.theverge.com/tech/1028412/airbnb-ai-travel-agent-q3-2026-earnings",
+    "pubDate": "2026-11-06T00:06:12.000Z",
+    "source": "The Verge AI",
     "category": "ai",
-    "content": "Open source models are becoming more mainstream as enterprises, governments and startups alike rely on the promise of lower costs, more control, and more flexibility. But as increasingly capable models become more freely available, how do companies capture value? And with Chinese open models gaining ground, can American players keep up?  On this episode of […]",
-    "image": "",
+    "content": "Airbnb plans to roll out an AI agent in the first half of 2027 that will help users plan and book travel, the company said in its Q3 2026 earnings shareholder letter released today.\n\"Today's AI agents are good at simple, routine tasks, like making a restaurant reservation or scheduling an appointment,\" Airbnb said. \"But planning a trip on Airbnb is different.\" The company argued that its experience matching hosts and guests, its current role in being part of reservations already, and a \"new interface\" built \"specifically for travel\" gives it an edge.\nHere's how Airbnb says that new interface will work:\nWe don't think a traditional chatbo …\n\nRead the full story at The Verge.",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/acastro_STK090_06.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "summary": "",
+    "importance": 5
+  },
+  {
+    "title": "Perplexity launches its own take on AI agents for work",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1028302/perplexity-teammates-ai-agents-work",
+    "pubDate": "2026-11-05T22:26:50.000Z",
+    "source": "The Verge AI",
+    "category": "ai",
+    "content": "Perplexity is taking on OpenAI and Anthropic with its own work-focused AI agents. The startup's new always-on \"Teammates\" can take on multiple roles within a workspace, while pulling existing projects, skills, and memory from the Perplexity tools you already use.\nTeammates integrate with Perplexity Computer, an AI system that can deploy agents on your device to complete tasks. But Perplexity says Teammates \"build on top\" of Computer by offering the ability to collaborate and complete \"ongoing, large-scale work.\" You can assign each Teammate different jobs that they can perform simultaneously - much like OpenAI's Dots and Claude Duet. Perple …\nRead the full story at The Verge.",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25472503/STK271_PERPLEXITY_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "summary": "",
+    "importance": 5
+  },
+  {
+    "title": "Muse has a voice mode now",
+    "link": "https://www.theverge.com/tech/1028015/meta-muse-ai-voice-mode-expressive-avatar",
+    "pubDate": "2026-11-05T19:03:04.000Z",
+    "source": "The Verge AI",
+    "category": "ai",
+    "content": "Meta now lets you have voice conversations with your Muse AI agent in real time, CEO Mark Zuckerberg announced today.\nThe feature has been rolled out to me, and I gave it a spin on the iOS app while writing this article. As you chat with your Muse agent, the avatar at the top of your conversation animates in time with the words that it's saying. You can also change the tone of the voice by just asking your agent about what you want and letting it decide or by browsing through a bunch of options in the avatar settings.\n\n\n\n\n\nIn my brief tests, my Muse agent responds quickly over voice, though it occasionally pauses while it's looking up infor …\nRead the full story at The Verge.",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STKB394_MUSE_AI_CVIRGINIA_D.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
     "summary": "",
     "importance": 5
   },
@@ -1331,46 +1359,24 @@
     "importance": 5
   },
   {
-    "title": "Big Tech’s big AI buildout will not end until someone stops it",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1027344/amazon-microsoft-alphabet-google-meta-data-centers-earnings-q3",
-    "pubDate": "2026-11-05T10:45:00.000Z",
-    "source": "The Verge AI",
+    "title": "Google: Schools can keep search while skipping Gemini, but AI search is non-negotiable",
+    "link": "https://arstechnica.com/ai/2026/11/google-schools-can-keep-search-while-skipping-gemini-but-ai-search-is-non-negotiable/",
+    "pubDate": "Thu, 05 Nov 2026 21:40:36 +0000",
+    "source": "Ars Technica AI",
     "category": "ai",
-    "content": "After four of the biggest competitors in the AI race held quarterly earnings calls late last month, two things are clear: Big Tech is not done spending record amounts on the AI data center buildout, and the AI data center buildout is not any closer to yielding its promised returns.\nA third thing is also starting to become clear - Big Tech will not be slowing down, at least not on its own.\nAmazon, Microsoft, Alphabet, and Meta told investors they're planning to spend at least $720 billion on CapEx this year alone. Most of that will go toward AI infrastructure. That's on top of at least $1 trillion in spending commitments that have bee …\nRead the full story at The Verge.",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKS528_DATA_CENTERS2_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "content": "Google is technically offering schools more choice but not the choices anyone wants.",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/05/Google-sign-IO-1152x648.jpg",
     "summary": "",
     "importance": 5
   },
   {
-    "title": "Qualcomm is betting big on data centers as smartphone sales sink",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1026867/qualcomm-earnings-data-centers",
-    "pubDate": "2026-11-04T22:42:15.000Z",
-    "source": "The Verge AI",
+    "title": "Lawsuit: Man introduced his wife to ChatGPT. She used it to plan his murder.",
+    "link": "https://arstechnica.com/tech-policy/2026/11/lawsuit-man-introduced-his-wife-to-chatgpt-she-used-it-to-plan-his-murder/",
+    "pubDate": "Thu, 05 Nov 2026 21:39:40 +0000",
+    "source": "Ars Technica AI",
     "category": "ai",
-    "content": "With smartphone sales tanking by around 20 percent compared to 2025, Qualcomm is looking to data centers to help boost its bottom line. During its Q4 2026 earnings call, the company laid out its plans to make a splash in the AI data center business, through partnerships with companies like Amazon and Meta announced earlier this year. The company expects that portion of its business to grow quickly, forecasting around $650 million in data center revenue during the first quarter of 2027. But it anticipates that will reach $5 billion by the end of 2027 and $15 billion by 2029.\nConsidering the company's total revenue for 2026 was $10.4 billion, …\nRead the full story at The Verge.",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24007992/acastro_STK082_qualcomm_02.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "17 better ways Elon Musk could have wasted $446 million",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1026878/not-even-good-at-being-rich",
-    "pubDate": "2026-11-04T21:45:00.000Z",
-    "source": "The Verge AI",
-    "category": "ai",
-    "content": "Dream bigger, babe. | Image: Cath Virginia / The Verge, Getty Images\t\n\nOne of the basic problems of spending too much time on social media is that you are cooking your brain by reading posts from a pack of attention-seeking lunatics. If your social media of choice is the site formerly known as Twitter, and it is your main source of contact with the outside world, you may delusionally throw away nearly $500 million dollars on midterm elections, just like Elon Musk.\nIn particular, $47 million of that money from Musk's America PAC was aimed at defeating Texas Democrat James Talarico, who trounced Musk's preferred Senate candidate, Ken Paxton, with 55 percent of the vote. Talarico even made Musk's influence a cent …\nRead the full story at The Verge.",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/268859_How_the_tech_right_could_have_spent_all_the_money_they_burned_on_the_midterms_CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "Gemini for Home now plugs into AT&#038;T’s smart security system",
-    "link": "https://www.theverge.com/tech/1026787/att-gemini-for-home-connected-life-security-system",
-    "pubDate": "2026-11-04T20:23:24.000Z",
-    "source": "The Verge AI",
-    "category": "ai",
-    "content": "AT&T's smart home security system now integrates with Gemini for Home. The company says its Connected Life system is the \"first\" home security product to integrate with Google Home Premium, enabling a bunch of Gemini-powered features that can summarize home events, search your video history, and more.\nWith the update, Gemini for Home can provide detailed descriptions about events captured by your security cameras, such as who delivered a package and how many items they dropped off. You can also search recorded video footage using natural language questions, like \"What dug up the yard last night?\" or \"Who let the dogs out?\", as well as revie …\nRead the full story at The Verge.",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/att-connected-life.webp?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "content": "Bitter energy drinks turned out to be ChatGPT-steered poisoning, lawsuit says.",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2240656304-1024x648.jpg",
     "summary": "",
     "importance": 5
   },
@@ -1573,26 +1579,16 @@
     "importance": 5
   },
   {
-    "title": "Vibe genes? Natural(ish) language comes to protein, genome design software",
-    "link": "https://arstechnica.com/science/2026/10/vibe-genes-naturalish-language-comes-to-protein-genome-design-software/",
-    "pubDate": "Tue, 27 Oct 2026 18:49:08 +0000",
-    "source": "Ars Technica AI",
-    "category": "ai",
-    "content": "You can apparently now tell AI tools what sort of protein you want them to make.",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/GettyImages-615307388-832x648.jpg",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "DeepMind unveils Genie 4 world model promising more realistic physics and humans",
-    "link": "https://arstechnica.com/google/2026/10/deepminds-genie-4-world-model-adds-audio-and-more-realistic-people-to-simulations/",
-    "pubDate": "Tue, 27 Oct 2026 16:00:22 +0000",
-    "source": "Ars Technica AI",
-    "category": "ai",
-    "content": "Genie 4 will roll out to developers and Google AI Ultra subscribers soon.",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/vlcsnap-2026-10-27-10h06m52s461-1152x648.png",
-    "summary": "",
-    "importance": 5
+    "title": "Trump-linked American Bitcoin swings to $126 million profit but misses revenue estimates",
+    "link": "https://www.coindesk.com/business/2026/11/05/trump-linked-american-bitcoin-swings-to-usd126-million-profit-in-q3-2026",
+    "pubDate": "Thu, 05 Nov 2026 11:45:54 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "Revenue fell to $63.4 million in the third quarter and missed analysts’ forecasts as bitcoin production declined and higher summer electricity prices pushed mining costs up.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/87e4902bfb4d36401e2e19cdf71ed52e9f9e20c6-3265x1837.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "summary": "Trump-linked American Bitcoin reported a $126 million profit in the third quarter, but missed revenue estimates. Revenue fell to $63.4 million due to declining bitcoin production and increased mining costs from higher summer electricity prices.",
+    "importance": 4,
+    "classified": true
   },
   {
     "title": "The pile of lawsuits against Kalshi just grew by one",
@@ -1604,6 +1600,18 @@
     "image": "https://cdn.sanity.io/images/s3y3vcno/production/25deab562fefe405fbe634578dcaba46f54198d5-4032x2268.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
     "summary": "Arkansas has filed a lawsuit against the prediction market Kalshi, accusing it of operating illegal gambling activities. This legal action adds to a growing list of criminal or civil charges already brought against Kalshi by Utah and several other U.S. states.",
     "importance": 4,
+    "classified": true
+  },
+  {
+    "title": "Bitcoin is resilient, but leverage is missing and demand still tepid",
+    "link": "https://www.coindesk.com/daybook-us/2026/11/05/bitcoin-is-resilient-but-leverage-is-missing-and-demand-still-tepid",
+    "pubDate": "Thu, 05 Nov 2026 12:27:04 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "Your day-ahead look for Nov. 5, 2026",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/a68d267c5e108d7e2dd30957a746ee54840b53ad-2048x1365.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "summary": "This article provides a brief day-ahead market update for November 5, 2026, noting that Bitcoin is currently showing resilience. However, it highlights concerns that leverage is missing and demand for the cryptocurrency remains tepid.",
+    "importance": 3,
     "classified": true
   }
 ]
