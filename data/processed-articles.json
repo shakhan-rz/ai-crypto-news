@@ -1,5 +1,17 @@
 [
   {
+    "title": "Gnosis Pay breach exposes card numbers, home addresses and linked crypto wallets",
+    "link": "https://www.coindesk.com/business/2026/11/07/gnosis-pay-breach-exposes-card-numbers-home-addresses-and-linked-crypto-wallets",
+    "pubDate": "Sat, 07 Nov 2026 16:51:00 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "One user said the exposed data tied his home address and card number to every crypto wallet linked to his account, raising the risk of targeted scams.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/422bf0c58d3c5d984b8ee7f8a379b85250db7bc2-6016x4016.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "summary": "Gnosis Pay experienced a data breach, exposing sensitive user information such as card numbers, home addresses, and linked crypto wallets. This breach creates a significant risk of targeted scams by connecting users' physical identities with their cryptocurrency holdings.",
+    "importance": 9,
+    "classified": true
+  },
+  {
     "title": "Over $1 billion in bullish bets liquidated while ETF flows suggest no help in spot market",
     "link": "https://www.coindesk.com/daybook-us/2026/11/06/over-usd1-billion-in-bullish-bets-liquidated-while-etf-flows-suggest-no-help-in-spot-market",
     "pubDate": "Fri, 06 Nov 2026 12:30:00 +0000",
@@ -69,6 +81,30 @@
     "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6SANJYQTNY4SS6GASXKN37C/hi-cover-imagereview-of-mexc.png",
     "summary": "The US Treasury's FinCEN has ordered US financial institutions to stop processing transfers involving MEXC Global. This action is due to allegations that the cryptocurrency exchange handled $16 billion in illicit transactions.",
     "importance": 9,
+    "classified": true
+  },
+  {
+    "title": "Binance hackers had 8-week intrusion window before $6.3B exploit: SEAL",
+    "link": "https://cointelegraph.com/news/binance-hackers-8-weeks-access-63b-exploit-security-alliance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Fri, 06 Nov 2026 11:26:30 +0000",
+    "source": "Cointelegraph",
+    "category": "crypto",
+    "content": "The cybersecurity company flagged similar multi-stage intrusion patterns behind other high-profile crypto heists, including the $388 million Bitget hack.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6R6HFGR0ZQXJ31EX11P2NV5/hi-how-zachxbt-traced-a-31m-bitcoin-donation-to-a-flagged-wallet.jpg",
+    "summary": "Cybersecurity firm SEAL reported that hackers responsible for the $6.3 billion Binance exploit had an 8-week window of intrusion before the attack. The company noted that this multi-stage intrusion pattern is consistent with other significant crypto heists, such as the $388 million Bitget hack.",
+    "importance": 9,
+    "classified": true
+  },
+  {
+    "title": "U.S. Treasury moves to cut off crypto exchange MEXC over $16 billion in alleged illicit flows",
+    "link": "https://www.coindesk.com/business/2026/11/07/u-s-treasury-moves-to-cut-off-crypto-exchange-mexc-over-usd16-billion-in-alleged-illicit-flows",
+    "pubDate": "Sat, 07 Nov 2026 17:36:46 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "Treasury billed the move as part of its campaign against Iran, but the order rests on MEXC's alleged role in Russian illicit finance.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/9b6c50614a95b8691bb96a1027e2c050c8f9b64c-960x720.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "summary": "The U.S. Treasury is taking action to cut off the crypto exchange MEXC, citing $16 billion in alleged illicit financial flows. While framed as part of its campaign against Iran, the primary basis for the order is MEXC's alleged involvement in Russian illicit finance.",
+    "importance": 8,
     "classified": true
   },
   {
@@ -240,6 +276,42 @@
     "classified": true
   },
   {
+    "title": "Bitcoin holds $75K as AI regulation fears see KOSPI halted after 8% crash",
+    "link": "https://cointelegraph.com/markets/bitcoin-holds-ai-regulation-fears-kospi-halted?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Fri, 06 Nov 2026 11:16:53 +0000",
+    "source": "Cointelegraph",
+    "category": "both",
+    "content": "Bitcoin consolidated as fears over US AI regulation spread to Asia, causing South Korea to announce measures to calm stock-market volatility.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4T82Y5Q89Y3M191FB9H1S1C/article-covers-262292-ex-treasury-chief-warns-us-treasurys-crash-calls-emergency-debt-plan-1280x853.webp",
+    "summary": "Bitcoin consolidated its position as fears concerning US AI regulation spread to Asia, prompting South Korea to announce measures to calm stock market volatility, which included halting the KOSPI after an 8% crash.",
+    "importance": 8,
+    "classified": true
+  },
+  {
+    "title": "GOPAX halts crypto trading, withdrawals to move all assets to cold storage",
+    "link": "https://cointelegraph.com/news/gopax-halts-crypto-trading-withdrawals-cold-storage?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Fri, 06 Nov 2026 10:47:33 +0000",
+    "source": "Cointelegraph",
+    "category": "crypto",
+    "content": "South Korea’s GOPAX suspended trading, deposits and standard withdrawals after a hacking threat, with manual withdrawals available through support.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6R5FQT9G760GWMQ4WKS1P1T/storage-crypto-tokens.png",
+    "summary": "South Korean cryptocurrency exchange GOPAX has suspended trading, deposits, and standard withdrawals due to a hacking threat. The exchange is moving all assets to cold storage, though manual withdrawals are still accessible via customer support.",
+    "importance": 8,
+    "classified": true
+  },
+  {
+    "title": "Binance users in some European countries told to pull crypto before fees kick in, with accounts closing by year end",
+    "link": "https://www.coindesk.com/business/2026/11/07/binance-users-in-some-european-countries-told-to-pull-crypto-before-fees-kick-in-with-accounts-closing-by-year-end",
+    "pubDate": "Sat, 07 Nov 2026 19:13:16 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "Affected accounts are reportedly set to close on Dec. 31. Users in Spain, France, and Poland say they've received similar notices.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/6afa7aee3dd3e7c1e37e3929a4ac24b7cebaccdd-6000x4000.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "summary": "Binance is notifying users in Spain, France, and Poland to withdraw their cryptocurrencies before new fees are implemented, with accounts reportedly set to close by December 31st. This move will impact Binance users in these European countries, requiring them to transfer their digital assets.",
+    "importance": 7,
+    "classified": true
+  },
+  {
     "title": "Apple, Meta reject OKX–ICE tokenized stock plans, leaving crypto firms as the ones to watch",
     "link": "https://www.coindesk.com/policy/2026/11/06/apple-meta-reject-okx-ice-tokenized-stock-plans-leaving-crypto-firms-as-the-ones-to-watch",
     "pubDate": "Fri, 06 Nov 2026 20:09:18 +0000",
@@ -312,30 +384,6 @@
     "classified": true
   },
   {
-    "title": "Binance cuts SignalPlus access after security warning, urges users to check accounts",
-    "link": "https://www.coindesk.com/tech/2026/11/05/binance-cuts-signalplus-access-after-security-warning-urges-users-to-check-accounts",
-    "pubDate": "Thu, 05 Nov 2026 12:55:03 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "The exchange says its systems are unaffected but has removed trading connections to the third-party platform as a precaution.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/fadd44ea64cc18b26239fc7651fefaf2d2a62fe3-1920x1080.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-    "summary": "Binance has cut access to the third-party trading platform SignalPlus after a security warning, urging its users to check their accounts. The crypto exchange emphasized that its own systems remain unaffected and the action was taken purely as a precaution.",
-    "importance": 7,
-    "classified": true
-  },
-  {
-    "title": "Ukraine’s central bank opposes crypto bill, citing monetary sovereignty concerns",
-    "link": "https://www.coindesk.com/business/2026/11/05/ukraine-s-central-bank-opposes-crypto-bill-citing-monetary-sovereignty-concerns",
-    "pubDate": "Thu, 05 Nov 2026 12:50:57 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "Ukraine’s central bank won’t back a crypto legalization bill in its current form and wants lawmakers to revise it before a final vote.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/3cce92a0af48494a2126025022b398babc564bcf-1920x1200.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-    "summary": "Ukraine's central bank has stated its opposition to the current version of a crypto legalization bill, urging lawmakers to revise it before a final vote. The central bank's concerns primarily revolve around issues of monetary sovereignty.",
-    "importance": 7,
-    "classified": true
-  },
-  {
     "title": "Ex-FBI counterintelligence agent stole almost $2.5M in crypto",
     "link": "https://cointelegraph.com/news/ex-fbi-counterintelligence-agent-stole-almost-25m-in-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "pubDate": "Sat, 07 Nov 2026 14:16:00 +0000",
@@ -380,6 +428,18 @@
     "content": "Solana’s promotional campaigns through domestic entities allegedly violated China’s crypto-related restrictions, an unidentified PBOC official told China’s Financial News.",
     "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6RC2EEQZ9TEP1YJMEKS9NF7/hi-solana-changes-the-crypto-world-already.jpg",
     "summary": "Solana's promotional campaigns and an event in Shanghai have reportedly been halted due to alleged violations of China's crypto-related restrictions. An unidentified official from China's central bank indicated that domestic entities promoting Solana were acting without authorization.",
+    "importance": 7,
+    "classified": true
+  },
+  {
+    "title": "Greece approves 10% tax on crypto gains starting in 2027",
+    "link": "https://cointelegraph.com/news/greece-approves-10-tax-crypto-gains-2027?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Fri, 06 Nov 2026 11:05:36 +0000",
+    "source": "Cointelegraph",
+    "category": "crypto",
+    "content": "Greece has approved a 10% tax on cryptocurrency gains starting in 2027, with an exemption for investors whose annual net gains do not exceed 500 euros.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6R5Q2DQ5AGNG7X8S492C0S3/hi-how-to-use-the-greeks-in-options-trading.jpg",
+    "summary": "Greece has approved a new 10% tax on cryptocurrency gains, set to take effect starting in 2027. This legislation includes an exemption for investors whose annual net gains from crypto assets do not exceed 500 euros.",
     "importance": 7,
     "classified": true
   },
@@ -430,61 +490,6 @@
     "summary": "Suspicious betting activity was observed on prediction markets shortly before the public release of two recent New York Times/Siena political polls. This suggests potential use of insider information to place bets.",
     "importance": 6,
     "classified": true
-  },
-  {
-    "title": "Gnosis Pay breach exposes card numbers, home addresses and linked crypto wallets",
-    "link": "https://www.coindesk.com/business/2026/11/07/gnosis-pay-breach-exposes-card-numbers-home-addresses-and-linked-crypto-wallets",
-    "pubDate": "Sat, 07 Nov 2026 16:51:00 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "One user said the exposed data tied his home address and card number to every crypto wallet linked to his account, raising the risk of targeted scams.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/422bf0c58d3c5d984b8ee7f8a379b85250db7bc2-6016x4016.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "Binance hackers had 8-week intrusion window before $6.3B exploit: SEAL",
-    "link": "https://cointelegraph.com/news/binance-hackers-8-weeks-access-63b-exploit-security-alliance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Fri, 06 Nov 2026 11:26:30 +0000",
-    "source": "Cointelegraph",
-    "category": "crypto",
-    "content": "The cybersecurity company flagged similar multi-stage intrusion patterns behind other high-profile crypto heists, including the $388 million Bitget hack.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6R6HFGR0ZQXJ31EX11P2NV5/hi-how-zachxbt-traced-a-31m-bitcoin-donation-to-a-flagged-wallet.jpg",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "Bitcoin holds $75K as AI regulation fears see KOSPI halted after 8% crash",
-    "link": "https://cointelegraph.com/markets/bitcoin-holds-ai-regulation-fears-kospi-halted?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Fri, 06 Nov 2026 11:16:53 +0000",
-    "source": "Cointelegraph",
-    "category": "crypto",
-    "content": "Bitcoin consolidated as fears over US AI regulation spread to Asia, causing South Korea to announce measures to calm stock-market volatility.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4T82Y5Q89Y3M191FB9H1S1C/article-covers-262292-ex-treasury-chief-warns-us-treasurys-crash-calls-emergency-debt-plan-1280x853.webp",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "Greece approves 10% tax on crypto gains starting in 2027",
-    "link": "https://cointelegraph.com/news/greece-approves-10-tax-crypto-gains-2027?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Fri, 06 Nov 2026 11:05:36 +0000",
-    "source": "Cointelegraph",
-    "category": "crypto",
-    "content": "Greece has approved a 10% tax on cryptocurrency gains starting in 2027, with an exemption for investors whose annual net gains do not exceed 500 euros.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6R5Q2DQ5AGNG7X8S492C0S3/hi-how-to-use-the-greeks-in-options-trading.jpg",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "GOPAX halts crypto trading, withdrawals to move all assets to cold storage",
-    "link": "https://cointelegraph.com/news/gopax-halts-crypto-trading-withdrawals-cold-storage?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Fri, 06 Nov 2026 10:47:33 +0000",
-    "source": "Cointelegraph",
-    "category": "crypto",
-    "content": "South Korea’s GOPAX suspended trading, deposits and standard withdrawals after a hacking threat, with manual withdrawals available through support.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6R5FQT9G760GWMQ4WKS1P1T/storage-crypto-tokens.png",
-    "summary": "",
-    "importance": 5
   },
   {
     "title": "Binance’s $6.3B hack leaves questions over hot wallet safeguards",
@@ -582,6 +587,17 @@
     "category": "crypto",
     "content": "Asian crypto exchanges are scrambling to tighten security on fears of a wave of potentially AI-assisted hacks, even as regional governments embrace tokenization and stablecoins.",
     "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2RR0R87D4ZNY7FB45GN96P2/magazineasia-expressriver.jpg",
+    "summary": "",
+    "importance": 5
+  },
+  {
+    "title": "Ex-FBI agent pleads guilty to stealing $2.47 million in crypto from wallets tied to 35 investigations",
+    "link": "https://www.theblock.co/news/regulation/2026-11-07-ex-fbi-agent-pleads-guilty-to-stealing-2-47-million-in-crypto-from-wallets-tied-to-35-investigations-435988",
+    "pubDate": "Sat, 07 Nov 2026 20:59:47 +0000",
+    "source": "The Block",
+    "category": "crypto",
+    "content": "Yaroch will pay at least $2.4 million in restitution and will forfeit any profits he would earn in the future from telling his story.",
+    "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/FBI-and-Bitcoin-Vineyard-Investigation_clean.png",
     "summary": "",
     "importance": 5
   },
@@ -791,17 +807,6 @@
     "category": "crypto",
     "content": "Base activated its fourth network upgrade, Denim, introducing five canonical blocks per second at 200ms intervals.",
     "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/Screenshot-2026-11-05-at-14.20.34.png",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "Canary’s Injective ETF debuts on Nasdaq with exposure to staking rewards",
-    "link": "https://www.theblock.co/news/markets/2026-11-05-canary-staked-inj-etf-launches-nasdaq-injc-435115",
-    "pubDate": "Thu, 05 Nov 2026 16:53:56 +0000",
-    "source": "The Block",
-    "category": "crypto",
-    "content": "Canary Capital's Staked INJ ETF debuts on Nasdaq, giving investors exposure to Injective's INJ token plus staking rewards reflected in NAV.",
-    "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/10/injective_logo_1920x1080.jpg",
     "summary": "",
     "importance": 5
   },
@@ -1026,6 +1031,17 @@
     "importance": 5
   },
   {
+    "title": "Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence memo",
+    "link": "https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo/",
+    "pubDate": "Sat, 07 Nov 2026 21:17:08 +0000",
+    "source": "TechCrunch AI",
+    "category": "ai",
+    "content": "A memo circulated earlier this year reportedly claimed that China’s Ministry of State Security recruited a female technology executive to spy on Nvidia's CEO.",
+    "image": "",
+    "summary": "",
+    "importance": 5
+  },
+  {
     "title": "Crusoe sells troubled Wyoming data center project to Google",
     "link": "https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/",
     "pubDate": "Sat, 07 Nov 2026 01:40:28 +0000",
@@ -1230,17 +1246,6 @@
     "source": "TechCrunch AI",
     "category": "ai",
     "content": "The deal is expected to support the development of DBX Agent Cloud, a new storage platform aimed at developers building AI models and agents.",
-    "image": "",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "Aina’s smart ring has a screen, a joystick, and a mic so you can talk to AI agents",
-    "link": "https://techcrunch.com/2026/11/05/ainas-smart-ring-has-a-screen-a-joystick-and-a-mic-so-you-can-talk-to-ai-agents/",
-    "pubDate": "Thu, 05 Nov 2026 14:42:00 +0000",
-    "source": "TechCrunch AI",
-    "category": "ai",
-    "content": "Aina's ring can also take calls and help you dictate notes on your Mac.",
     "image": "",
     "summary": "",
     "importance": 5
