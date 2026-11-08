@@ -60,18 +60,6 @@
     "classified": true
   },
   {
-    "title": "Google could take stake in bitcoin miner TeraWulf’s $19 billion AI project if Anthropic defaults",
-    "link": "https://www.coindesk.com/tech/2026/11/05/google-could-take-ownership-stake-in-bitcoin-miner-terawulf-s-ai-project-if-anthropic-defaults",
-    "pubDate": "Thu, 05 Nov 2026 13:29:40 +0000",
-    "source": "CoinDesk",
-    "category": "both",
-    "content": "A $19 billion data-center agreement includes an unusual provision allowing Google to acquire part of the project if Anthropic fails to pay its rent.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/1b60f0ad8fb01131abb6c4eae334bffffef79cc4-5760x3840.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-    "summary": "Google has an unusual provision in a $19 billion data-center agreement, allowing it to acquire a stake in bitcoin miner TeraWulf’s AI project. This would occur if AI company Anthropic defaults on its rent for the data center. This highlights a significant financial intersection between big tech, AI development, and the cryptocurrency mining industry.",
-    "importance": 9,
-    "classified": true
-  },
-  {
     "title": "US Treasury cuts off MEXC over alleged $16B in illicit transactions",
     "link": "https://cointelegraph.com/news/us-treasury-bans-mexc-over-alleged-16b-illicit-transactions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "pubDate": "Fri, 06 Nov 2026 21:05:25 +0000",
@@ -104,6 +92,30 @@
     "content": "Experts say blockchain records show repeated wallet drains but cannot establish Binance’s internal signing controls or transaction limits.",
     "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6NZZB32AAV4WA4BCAVB6M4R/hi-how-to-migrate-crypto-from-an-exchange-to-ledger-1.jpg",
     "summary": "Binance experienced a $6.3 billion hack, with blockchain records showing repeated drains from its hot wallets. Experts are now questioning the exchange's internal security controls, including its signing mechanisms and transaction limits.",
+    "importance": 9,
+    "classified": true
+  },
+  {
+    "title": "Vitalik Buterin says ETH should be valued as a store of value, not a fee-burning token",
+    "link": "https://www.theblock.co/news/ecosystems/2026-11-08-vitalik-buterin-says-eth-should-be-valued-as-a-store-of-value-not-a-fee-burning-token-436022",
+    "pubDate": "Sun, 08 Nov 2026 15:52:17 +0000",
+    "source": "The Block",
+    "category": "crypto",
+    "content": "A recent controversial proposal to burn a rising share of validator rewards as more ETH is staked was withdrawn last month after facing pushback.",
+    "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/Vitalik-Amidst-Crimson-Geometric-Waves-unmarker.jpg",
+    "summary": "Vitalik Buterin advocates for valuing Ethereum (ETH) as a store of value rather than a fee-burning token. This statement follows the recent withdrawal of a controversial proposal to burn an increasing share of validator rewards from staked ETH, which faced significant community pushback.",
+    "importance": 9,
+    "classified": true
+  },
+  {
+    "title": "Treasury cuts off MEXC Global over alleged $16 billion in transactions linked to Iran, North Korea and Russia",
+    "link": "https://www.theblock.co/news/regulation/2026-11-06-treasury-cuts-off-mexc-global-over-alleged-16-billion-in-transactions-linked-to-iran-north-korea-and-russia-435957",
+    "pubDate": "Fri, 06 Nov 2026 21:02:30 +0000",
+    "source": "The Block",
+    "category": "crypto",
+    "content": "Treasury says it has severed MEXC Global from the U.S. after it allegedly supported $16 billion in transactions connected to Iran.",
+    "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2025/06/cropped-6.jpg",
+    "summary": "The U.S. Treasury has severed cryptocurrency exchange MEXC Global from its financial system. This action follows allegations that MEXC Global processed $16 billion in transactions connected to Iran, North Korea, and Russia, violating sanctions.",
     "importance": 9,
     "classified": true
   },
@@ -188,6 +200,18 @@
     "content": "The investment follows talks first reported by CoinDesk in June that included a proposed equity stake in Aave Group.",
     "image": "https://cdn.sanity.io/images/s3y3vcno/production/60eaa4392d735a85d254d5ac89ec08baf0b7a62e-2048x1152.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
     "summary": "Kraken's parent company, Payward, along with its clients, is investing in AAVE tokens as part of a push into decentralized finance (DeFi). This investment follows earlier reports regarding potential talks about an equity stake in Aave Group.",
+    "importance": 8,
+    "classified": true
+  },
+  {
+    "title": "Binance France emails announce closure of its users’ accounts on Dec. 31",
+    "link": "https://cointelegraph.com/news/binance-france-emails-announce-closure-of-its-users-accounts-on-dec-31?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Sun, 08 Nov 2026 12:57:51 +0000",
+    "source": "Cointelegraph",
+    "category": "crypto",
+    "content": "Any assets left on the exchange will be charged monthly fees starting on Nov. 29, company says.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6XKMA4GCCY02X2C5H5XBVBP/hi-consortium-open-doors-binance.jpg",
+    "summary": "Binance France has announced the closure of its users' accounts on December 31. The company also stated that any assets remaining on the exchange will begin to incur monthly fees starting November 29.",
     "importance": 8,
     "classified": true
   },
@@ -344,6 +368,54 @@
     "content": "Chainalysis disclosed password hashes and live tokens were exposed after initially reporting only non-sensitive customer data was accessed.",
     "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2005NQRX5E6SV5DN6KN3Z8T/hi-how-great-big-companies-use-blockchain3.jpg",
     "summary": "Chainalysis, a prominent blockchain analytics firm, disclosed a data breach that exposed password hashes and live tokens, revising its earlier report which claimed only non-sensitive customer data was accessed. This update reveals a more severe security compromise for its users.",
+    "importance": 8,
+    "classified": true
+  },
+  {
+    "title": "Web3Auth says it frontran hackers by moving $5.6 million out of exposed Keplr wallets",
+    "link": "https://www.theblock.co/news/defi/2026-11-08-web3auth-says-it-frontran-hackers-by-moving-5-6-million-out-of-exposed-keplr-wallets-436029",
+    "pubDate": "Sun, 08 Nov 2026 18:32:11 +0000",
+    "source": "The Block",
+    "category": "crypto",
+    "content": "Web3Auth's communications also referred to an \"original attacker,\" suggesting some funds were stolen, but did not elaborate.",
+    "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/keplr-web3auth-art.jpg",
+    "summary": "Web3Auth announced it successfully frontran hackers by transferring $5.6 million from exposed Keplr wallets to prevent a potential theft. The company's communications hinted at an \"original attacker\" potentially stealing some funds, though no further details on such losses were elaborated.",
+    "importance": 8,
+    "classified": true
+  },
+  {
+    "title": "Binance CFO steps down nine days after record hack; co-CEO says transition was planned six months ago",
+    "link": "https://www.theblock.co/news/business/2026-11-07-binance-cfo-steps-down-nine-days-after-record-hack-co-ceo-says-transition-was-planned-six-months-ago-435992",
+    "pubDate": "Sat, 07 Nov 2026 21:57:58 +0000",
+    "source": "The Block",
+    "category": "crypto",
+    "content": "Co-CEO Yi He said Ng is departing to pursue a new venture, under a transition plan put in place over the past six months.",
+    "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/Grayscale-Crypto-Leaders-with-Binance-Gold_clean.png",
+    "summary": "Binance's CFO, Wei Zhou, has stepped down from his position, a move co-CEO Yi He states was planned six months ago as part of a transition for him to pursue a new venture. This departure occurred just nine days after the cryptocurrency exchange experienced a significant hack.",
+    "importance": 8,
+    "classified": true
+  },
+  {
+    "title": "Ex-FBI agent pleads guilty to stealing $2.47 million in crypto from wallets tied to 35 investigations",
+    "link": "https://www.theblock.co/news/regulation/2026-11-07-ex-fbi-agent-pleads-guilty-to-stealing-2-47-million-in-crypto-from-wallets-tied-to-35-investigations-435988",
+    "pubDate": "Sat, 07 Nov 2026 20:59:47 +0000",
+    "source": "The Block",
+    "category": "crypto",
+    "content": "Yaroch will pay at least $2.4 million in restitution and will forfeit any profits he would earn in the future from telling his story.",
+    "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/FBI-and-Bitcoin-Vineyard-Investigation_clean.png",
+    "summary": "An ex-FBI agent pleaded guilty to stealing $2.47 million in cryptocurrency from wallets linked to 35 investigations. He is ordered to pay at least $2.4 million in restitution and forfeit any future earnings from sharing his story.",
+    "importance": 8,
+    "classified": true
+  },
+  {
+    "title": "Bitcoin ETFs flip negative for 2026 after $1.28 billion outflow week, worst since June",
+    "link": "https://www.theblock.co/news/markets/2026-11-07-bitcoin-etfs-flip-negative-for-2026-after-1-28-billion-outflow-week-worst-since-june-435984",
+    "pubDate": "Sat, 07 Nov 2026 16:46:02 +0000",
+    "source": "The Block",
+    "category": "crypto",
+    "content": "BlackRock's IBIT accounted for 98% of Friday's outflows, with $403 million leaving the industry-leading fund.",
+    "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/Neon-Liquid-Bitcoin-and-Ethereum-Flow_clean.png",
+    "summary": "Bitcoin ETFs experienced a significant $1.28 billion outflow this past week, marking their worst performance since June and pushing them negative for 2026. BlackRock's IBIT fund was a major contributor to this decline, accounting for 98% of Friday's outflows with $403 million.",
     "importance": 8,
     "classified": true
   },
@@ -530,7 +602,7 @@
   {
     "title": "Here’s what happened in crypto today",
     "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Sat, 07 Nov 2026 14:22:00 +0000",
+    "pubDate": "Sun, 08 Nov 2026 13:33:00 +0000",
     "source": "Cointelegraph",
     "category": "crypto",
     "content": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
@@ -559,61 +631,18 @@
     "category": "crypto",
     "content": "Coinbase says it keeps more than 99% of customer assets offline, while Gate reports 88.26% of its total assets are kept in cold storage.",
     "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6QCQ9E3FBH5XSMVA720JM6M/cold-storage.jpg",
-    "summary": "",
-    "importance": 5
+    "summary": "Following an attack on Binance, major crypto exchanges are emphasizing their commitment to securing customer assets through cold storage. Coinbase reports keeping over 99% of customer assets offline, while Gate states 88.26% of its total assets are held in cold storage to enhance security.",
+    "importance": 6,
+    "classified": true
   },
   {
-    "title": "Core Scientific to quit Bitcoin mining by year-end as AI business surges",
-    "link": "https://cointelegraph.com/news/core-scientific-to-quit-bitcoin-mining-by-year-end-as-ai-business-surges?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Fri, 06 Nov 2026 00:19:49 +0000",
-    "source": "Cointelegraph",
+    "title": "These Finland homes get free heat from bitcoin miners (as long as BTC stays above $70,000)",
+    "link": "https://www.coindesk.com/markets/2026/11/08/these-finland-homes-get-free-heat-from-bitcoin-miners-as-long-as-btc-stays-above-usd70-000",
+    "pubDate": "Sun, 08 Nov 2026 12:55:59 +0000",
+    "source": "CoinDesk",
     "category": "crypto",
-    "content": "The former Bitcoin mining heavyweight plans to become a pure-play data center provider in 2027, with mining now accounting for just 7.5% of quarterly revenue.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6Q3CQMWTQJT7XAQTHW92TAX/bitcoin-5.jpg",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "Binance CFO steps down nine days after record hack; co-CEO says transition was planned six months ago",
-    "link": "https://www.theblock.co/news/business/2026-11-07-binance-cfo-steps-down-nine-days-after-record-hack-co-ceo-says-transition-was-planned-six-months-ago-435992",
-    "pubDate": "Sat, 07 Nov 2026 21:57:58 +0000",
-    "source": "The Block",
-    "category": "crypto",
-    "content": "Co-CEO Yi He said Ng is departing to pursue a new venture, under a transition plan put in place over the past six months.",
-    "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/Grayscale-Crypto-Leaders-with-Binance-Gold_clean.png",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "Ex-FBI agent pleads guilty to stealing $2.47 million in crypto from wallets tied to 35 investigations",
-    "link": "https://www.theblock.co/news/regulation/2026-11-07-ex-fbi-agent-pleads-guilty-to-stealing-2-47-million-in-crypto-from-wallets-tied-to-35-investigations-435988",
-    "pubDate": "Sat, 07 Nov 2026 20:59:47 +0000",
-    "source": "The Block",
-    "category": "crypto",
-    "content": "Yaroch will pay at least $2.4 million in restitution and will forfeit any profits he would earn in the future from telling his story.",
-    "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/FBI-and-Bitcoin-Vineyard-Investigation_clean.png",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "Bitcoin ETFs flip negative for 2026 after $1.28 billion outflow week, worst since June",
-    "link": "https://www.theblock.co/news/markets/2026-11-07-bitcoin-etfs-flip-negative-for-2026-after-1-28-billion-outflow-week-worst-since-june-435984",
-    "pubDate": "Sat, 07 Nov 2026 16:46:02 +0000",
-    "source": "The Block",
-    "category": "crypto",
-    "content": "BlackRock's IBIT accounted for 98% of Friday's outflows, with $403 million leaving the industry-leading fund.",
-    "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/Neon-Liquid-Bitcoin-and-Ethereum-Flow_clean.png",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "Treasury cuts off MEXC Global over alleged $16 billion in transactions linked to Iran, North Korea and Russia",
-    "link": "https://www.theblock.co/news/regulation/2026-11-06-treasury-cuts-off-mexc-global-over-alleged-16-billion-in-transactions-linked-to-iran-north-korea-and-russia-435957",
-    "pubDate": "Fri, 06 Nov 2026 21:02:30 +0000",
-    "source": "The Block",
-    "category": "crypto",
-    "content": "Treasury says it has severed MEXC Global from the U.S. after it allegedly supported $16 billion in transactions connected to Iran.",
-    "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2025/06/cropped-6.jpg",
+    "content": "A Finnish startup has 30 bitcoin mining systems working as central heating, and at today’s prices each one earns slightly more than the electricity it burns.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/aee234db418da001bf5ae613c8da62131873c838-1330x998.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
     "summary": "",
     "importance": 5
   },
@@ -768,28 +797,6 @@
     "category": "crypto",
     "content": "Cathie Wood's Ark Invest bought $2.44 million worth of Coinbase on Thursday as the stock plunged 9.69% amid a broader sell-off.",
     "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/coinbase_cathie_wood_1920x1080.png",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "Hyperliquid Strategies files to become CFTC-registered FCM, posts $13.3 million in quaterly revenue",
-    "link": "https://www.theblock.co/news/markets/2026-11-05-hyperliquid-strategies-files-become-cftc-registered-fcm-posts-13-3-million-quaterly-revenue-435455",
-    "pubDate": "Thu, 05 Nov 2026 22:09:14 +0000",
-    "source": "The Block",
-    "category": "crypto",
-    "content": "Hyperliquid Strategies posted $13.3M in revenue and $620.6M net income, and filed with the CFTC to become an FCM for U.S. HIP-3 perp markets.",
-    "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2025/05/hyperliquid-hype.jpg",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "Bitcoin erases post-election gains as Wall Street selloff triggers over $1 billion in crypto liquidations",
-    "link": "https://www.theblock.co/news/markets/2026-11-05-bitcoin-erases-post-election-gains-wall-street-selloff-liquidations-435434",
-    "pubDate": "Thu, 05 Nov 2026 20:11:02 +0000",
-    "source": "The Block",
-    "category": "crypto",
-    "content": "Bitcoin fell 6% to $75,700 and ether 7% as a Nasdaq selloff hit crypto, triggering $1.03 billion in liquidations.",
-    "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/10/bitcoin.png",
     "summary": "",
     "importance": 5
   },
@@ -1234,6 +1241,17 @@
     "importance": 5
   },
   {
+    "title": "Elvis and Eminem rights holders are suing Suno",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1029533/elvis-eminem-suno-ai-music-clone-lawsuit",
+    "pubDate": "2026-11-08T17:23:19.000Z",
+    "source": "The Verge AI",
+    "category": "ai",
+    "content": "Suno is facing yet another pair of lawsuits. A group of rights holders of Elvis Presley's music and the publisher of some of Eminem's biggest records are suing the AI music company, claiming it illegally generates music and lyrics that mimic those artists. The lawyers in the Presley suit claim that Suno has violated Tennessee's Ensuring Likeness Voice and Image Security (ELVIS) Act, which makes it illegal for an AI company to clone a singer's voice.\nIn the suit, lawyers representing Presley's rights holders argue that \"Suno has mechanically encoded itself with artists' identities, hard-work, creativity, and time, and harnessed them all for  …\nRead the full story at The Verge.",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/22202367/517216004.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "summary": "",
+    "importance": 5
+  },
+  {
     "title": "NYT Cooking’s AI assistant saved my weeknight chicken, but almost ruined my cake",
     "link": "https://www.theverge.com/tech/1029489/nyt-cooking-ai-assistant-review",
     "pubDate": "2026-11-07T15:50:00.000Z",
@@ -1329,17 +1347,6 @@
     "category": "ai",
     "content": "When Irene moved to San Francisco last year, she started using dating apps as a way to meet new people, get to know her new city, and connect with others who care about the things she does. After the 25-year-old analyst downloaded Hinge and started swiping, she noticed a trend.\n\"Hinge has a prompt where you can say, 'We'll get along if'',\" she recalls. \"Sometimes people will be like, 'Fuck AI.'\"\nUsually, the people who include this kind of value statement on their profile work in the arts, nursing, maybe graphic design. Within the span of a few minutes of sitting down and swiping, Irene shows me a second profile where this happened once mo …\nRead the full story at The Verge.",
     "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/268841_When_it_comes_to_dating_is_AI_the_new_politics__CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "Big Tech lost big in the 2026 election",
-    "link": "https://www.theverge.com/podcast/1028731/2026-midterms-tech-ai-vergecast",
-    "pubDate": "2026-11-06T16:38:02.000Z",
-    "source": "The Verge AI",
-    "category": "ai",
-    "content": "On Tuesday, millions of American voters went to the polls and voted overwhelmingly for Democrats and against AI. The fight against Big Tech is about to come roaring back, and the fight over data centers is looking even harder for the folks trying to build them. \nOn this episode of The Vergecast, Nilay and David discuss what the 2026 midterms mean for the tech industry going forward. They dig into the self-quarantining echo chamber that is X, the congressional energy likely to be pointed at tech CEOs and AI regulation, and whether anything is actually likely to get done in the next two years.\nAfter that, the hosts turn to AI. Specifically,  …\nRead the full story at The Verge.",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/VRG_VST_110626_Site.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
     "summary": "",
     "importance": 5
   },
