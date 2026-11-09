@@ -1,5 +1,17 @@
 [
   {
+    "title": "SpaceX proposes a $24 billion Texas supercomputer worth 17 times its bitcoin pile",
+    "link": "https://www.coindesk.com/markets/2026/11/09/spacex-proposes-a-usd24-billion-texas-supercomputer-worth-17-times-its-bitcoin-pile",
+    "pubDate": "Mon, 09 Nov 2026 06:54:41 +0000",
+    "source": "CoinDesk",
+    "category": "ai",
+    "content": "The $24 billion project, which includes an AI supercomputer in Texas with its own gas-fired power plant, is about 17 times the value of SpaceX's bitcoin holdings.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/83d0912d3450cbd9352755a8558ea6c425c541a8-3000x2000.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "summary": "SpaceX is proposing a massive $24 billion project in Texas, which includes an AI supercomputer powered by its own gas-fired plant. This substantial investment is valued at approximately 17 times the worth of SpaceX's bitcoin holdings.",
+    "importance": 9,
+    "classified": true
+  },
+  {
     "title": "Gnosis Pay breach exposes card numbers, home addresses and linked crypto wallets",
     "link": "https://www.coindesk.com/business/2026/11/07/gnosis-pay-breach-exposes-card-numbers-home-addresses-and-linked-crypto-wallets",
     "pubDate": "Sat, 07 Nov 2026 16:51:00 +0000",
@@ -36,30 +48,6 @@
     "classified": true
   },
   {
-    "title": "U.S. Justice Department assembles force to shield against foreign AI threats",
-    "link": "https://www.coindesk.com/policy/2026/11/05/u-s-justice-department-assembles-force-to-shield-against-foreign-ai-threats",
-    "pubDate": "Thu, 05 Nov 2026 18:59:45 +0000",
-    "source": "CoinDesk",
-    "category": "ai",
-    "content": "The new DOJ task force will aid the recently designated U.S. \"SI Force\" by warding off bad actors backed by other nations, criminal groups or corporate fraud.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/564bac7203c6e38e89eb4093ecb221b0bbe4e205-3200x1800.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-    "summary": "The U.S. Justice Department has created a new task force aimed at protecting against foreign AI threats. This force will assist the U.S. \"SI Force\" by countering malicious actors backed by other nations, criminal groups, or corporate fraud.",
-    "importance": 9,
-    "classified": true
-  },
-  {
-    "title": "What is TraderTraitor, the hacking squad behind the $6.3 billion Binance heist?",
-    "link": "https://www.coindesk.com/business/2026/11/05/what-is-tradertraitor-the-hacking-squad-behind-the-usd6-3-billion-binance-heist",
-    "pubDate": "Thu, 05 Nov 2026 16:58:21 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "The hacking group has been behind some of the crypto industry's most recent high-profile thefts.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/46896a614298dcf705810c12a113e9dab6ce84fb-4416x2488.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-    "summary": "TraderTraitor is a notorious hacking group responsible for several high-profile thefts in the cryptocurrency industry. Their most notable action includes a massive $6.3 billion heist targeting Binance.",
-    "importance": 9,
-    "classified": true
-  },
-  {
     "title": "US Treasury cuts off MEXC over alleged $16B in illicit transactions",
     "link": "https://cointelegraph.com/news/us-treasury-bans-mexc-over-alleged-16b-illicit-transactions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "pubDate": "Fri, 06 Nov 2026 21:05:25 +0000",
@@ -80,18 +68,6 @@
     "content": "The cybersecurity company flagged similar multi-stage intrusion patterns behind other high-profile crypto heists, including the $388 million Bitget hack.",
     "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6R6HFGR0ZQXJ31EX11P2NV5/hi-how-zachxbt-traced-a-31m-bitcoin-donation-to-a-flagged-wallet.jpg",
     "summary": "Cybersecurity firm SEAL reported that hackers responsible for the $6.3 billion Binance exploit had an 8-week window of intrusion before the attack. The company noted that this multi-stage intrusion pattern is consistent with other significant crypto heists, such as the $388 million Bitget hack.",
-    "importance": 9,
-    "classified": true
-  },
-  {
-    "title": "Binance’s $6.3B hack leaves questions over hot wallet safeguards",
-    "link": "https://cointelegraph.com/news/binances-hack-questions-hot-wallet-risk-controls?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Fri, 06 Nov 2026 10:40:57 +0000",
-    "source": "Cointelegraph",
-    "category": "crypto",
-    "content": "Experts say blockchain records show repeated wallet drains but cannot establish Binance’s internal signing controls or transaction limits.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6NZZB32AAV4WA4BCAVB6M4R/hi-how-to-migrate-crypto-from-an-exchange-to-ledger-1.jpg",
-    "summary": "Binance experienced a $6.3 billion hack, with blockchain records showing repeated drains from its hot wallets. Experts are now questioning the exchange's internal security controls, including its signing mechanisms and transaction limits.",
     "importance": 9,
     "classified": true
   },
@@ -117,6 +93,42 @@
     "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2025/06/cropped-6.jpg",
     "summary": "The U.S. Treasury has severed cryptocurrency exchange MEXC Global from its financial system. This action follows allegations that MEXC Global processed $16 billion in transactions connected to Iran, North Korea, and Russia, violating sanctions.",
     "importance": 9,
+    "classified": true
+  },
+  {
+    "title": "Coinbase gets full U.S. trust charter from federal banking regulator",
+    "link": "https://www.coindesk.com/policy/2026/11/09/coinbase-gets-full-u-s-trust-charter-from-federal-banking-regulator",
+    "pubDate": "Mon, 09 Nov 2026 10:00:00 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "The Office of the Comptroller of the Currency elevated the biggest U.S. exchange's trust status from conditional to a full-fledged charter, the company said.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/73ff5902b975f54122994ceeb39606463e975438-2732x1535.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "summary": "Coinbase, the largest cryptocurrency exchange in the U.S., has been granted a full trust charter by the Office of the Comptroller of the Currency (OCC). This upgrade signifies a full-fledged regulatory status, moving beyond its previous conditional charter.",
+    "importance": 8,
+    "classified": true
+  },
+  {
+    "title": "Solana moves to scrap the transaction feature used in the $270 million Drift hack",
+    "link": "https://www.coindesk.com/tech/2026/11/09/solana-moves-to-scrap-the-transaction-feature-used-in-the-usd270-million-drift-hack",
+    "pubDate": "Mon, 09 Nov 2026 06:36:45 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "A draft proposal would end the 'durable nonces' feature no earlier than May 5, 2027, forcing custodians that sign offline to rebuild how they move coins.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/54c0f3b41e62df4cdf774aab4c7d68c64e5e976c-1920x1080.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "summary": "Solana is proposing to remove its 'durable nonces' transaction feature, which was implicated in the recent $270 million Drift hack. This change, projected for no earlier than May 5, 2027, will necessitate offline-signing custodians to overhaul their coin transfer processes.",
+    "importance": 8,
+    "classified": true
+  },
+  {
+    "title": "Binance's bitcoin mining pool finds just one block in a week as shutdown nears",
+    "link": "https://www.coindesk.com/tech/2026/11/09/binance-s-bitcoin-mining-pool-finds-just-one-block-in-a-week-as-shutdown-nears",
+    "pubDate": "Mon, 09 Nov 2026 04:54:39 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "The exchange's once significant mining operation has nearly disappeared from Bitcoin's block-production rankings ahead of its November 10 closure.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/54bd04de039305784bf732dce245207bcc75ba21-7008x3942.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "summary": "Binance's once prominent Bitcoin mining pool has nearly vanished from block-production rankings as its November 10 shutdown date approaches. This marks the near-complete disappearance of the exchange's significant mining operation.",
+    "importance": 8,
     "classified": true
   },
   {
@@ -176,42 +188,6 @@
     "content": "NU7 cuts the target time between blocks to 25 seconds, reduces the work wallets must do to find private payments and sets aside fees for future miners.",
     "image": "https://cdn.sanity.io/images/s3y3vcno/production/6359a9ff83ee7ba7465c0ff2289cb8ae23e7ac43-1500x1000.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
     "summary": "Zcash has launched its NU7 upgrade, which significantly enhances the speed of private payments. This upgrade reduces the target time between blocks to 25 seconds and streamlines the process for wallets to find private transactions. Additionally, it reserves fees for future miners, contributing to network efficiency and incentivization.",
-    "importance": 8,
-    "classified": true
-  },
-  {
-    "title": "Hyperliquid treasury firm seeking U.S. regulatory nod as a domestic futures platform",
-    "link": "https://www.coindesk.com/policy/2026/11/05/hyperliquid-treasury-firm-seeking-u-s-regulatory-nod-as-a-domestic-futures-platform",
-    "pubDate": "Fri, 06 Nov 2026 02:24:23 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "The company said it's trying to establish a U.S. \"futures commission merchant\" with full compliance for activity with U.S. clients, though the timing is uncertain.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/2bd4417e83546ed86774ac8307c343cb1c9e17c0-3495x1966.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-    "summary": "Hyperliquid is actively seeking U.S. regulatory approval to establish itself as a \"futures commission merchant\" to serve domestic clients. This move aims for full compliance with U.S. regulations for its activities, although the exact timing for this approval is currently uncertain.",
-    "importance": 8,
-    "classified": true
-  },
-  {
-    "title": "Bitcoin developer proposes ‘landmines’ to make quantum thieves lose their own BTC",
-    "link": "https://www.coindesk.com/tech/2026/11/05/bitcoin-developer-proposes-landmines-to-make-quantum-thieves-lose-their-own-btc",
-    "pubDate": "Fri, 06 Nov 2026 01:30:00 +0000",
-    "source": "CoinDesk",
-    "category": "both",
-    "content": "Anyone trying to move vulnerable bitcoin would have to put up matching collateral, giving prepared owners a chance to take both.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/dbaaf4ee09d542d601779598bea948f38611ee01-1184x678.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-    "summary": "A Bitcoin developer has proposed a 'landmine' mechanism to protect Bitcoin from quantum theft. This system would require anyone attempting to move vulnerable BTC to post matching collateral, giving prepared owners a chance to claim both the original Bitcoin and the collateral.",
-    "importance": 8,
-    "classified": true
-  },
-  {
-    "title": "Standard Chartered and SBI back crypto insurer Soter as funding reaches $23.5 million",
-    "link": "https://www.coindesk.com/business/2026/11/05/soter-raises-usd23-5m-plus-btc-and-eth-as-banks-demand-theft-protection",
-    "pubDate": "Thu, 05 Nov 2026 16:49:08 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "Soter also received backing of 500 BTC and 2000 ETH, worth another $43 million at current prices.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/22cc5bf76c4ce39c3877a108b37d147f91546421-1500x1000.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-    "summary": "Crypto insurer Soter has secured $23.5 million in funding from major financial institutions, including Standard Chartered and SBI. Additionally, Soter received substantial cryptocurrency backing, totaling 500 BTC and 2000 ETH, valued at an extra $43 million.",
     "importance": 8,
     "classified": true
   },
@@ -360,42 +336,6 @@
     "classified": true
   },
   {
-    "title": "Zcash NU7 upgrade goes live, leaves 12,224 ZEC stranded in Sprout pool",
-    "link": "https://cointelegraph.com/news/zcash-nu7-upgrade-15m-sprout-funds-unspendable?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Fri, 06 Nov 2026 09:00:36 +0000",
-    "source": "Cointelegraph",
-    "category": "crypto",
-    "content": "Zcash’s NU7 upgrade has rendered about $15 million in legacy Sprout funds unspendable, although a future network upgrade could potentially restore access.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2QZ8PA38PE2N6K2QE0N13TT/hi-top-5-biggest-mining-farms-zcash-2.jpg",
-    "summary": "The Zcash NU7 upgrade has rendered about $15 million in legacy Sprout funds unspendable, as they are now stranded in the Sprout pool. There is a possibility that a future network upgrade could restore access to these funds.",
-    "importance": 8,
-    "classified": true
-  },
-  {
-    "title": "Bitcoin, Ether ETFs post $530M outflows as election gains evaporate",
-    "link": "https://cointelegraph.com/markets/bitcoin-ether-etfs-lose-post-election-gains-erased?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Fri, 06 Nov 2026 08:19:18 +0000",
-    "source": "Cointelegraph",
-    "category": "crypto",
-    "content": "US spot Bitcoin and Ether ETFs shed a combined $530 million Thursday as Bitcoin fell below $76,000 and US stocks tumbled.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3KK0Y54WJHFMWNR7WW9P8FT/hi-crypto-trading-basics-a-beginners-guide-to-cryptocurrency-order-types1-4.jpg",
-    "summary": "US spot Bitcoin and Ether ETFs experienced a combined $530 million in outflows on Thursday. This occurred as Bitcoin's price fell below $76,000 and US stock markets also tumbled.",
-    "importance": 8,
-    "classified": true
-  },
-  {
-    "title": "Chainalysis says breach exposed password hashes and live tokens",
-    "link": "https://cointelegraph.com/news/chainalysis-cyberattack-password-hashes-live-tokens-exposed?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Fri, 06 Nov 2026 06:54:34 +0000",
-    "source": "Cointelegraph",
-    "category": "crypto",
-    "content": "Chainalysis disclosed password hashes and live tokens were exposed after initially reporting only non-sensitive customer data was accessed.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2005NQRX5E6SV5DN6KN3Z8T/hi-how-great-big-companies-use-blockchain3.jpg",
-    "summary": "Chainalysis, a prominent blockchain analytics firm, disclosed a data breach that exposed password hashes and live tokens, revising its earlier report which claimed only non-sensitive customer data was accessed. This update reveals a more severe security compromise for its users.",
-    "importance": 8,
-    "classified": true
-  },
-  {
     "title": "Web3Auth says it frontran hackers by moving $5.6 million out of exposed Keplr wallets",
     "link": "https://www.theblock.co/news/defi/2026-11-08-web3auth-says-it-frontran-hackers-by-moving-5-6-million-out-of-exposed-keplr-wallets-436029",
     "pubDate": "Sun, 08 Nov 2026 18:32:11 +0000",
@@ -456,6 +396,30 @@
     "classified": true
   },
   {
+    "title": "Two rival Ethereum proposals aim to stop Glamsterdam breaking old contracts",
+    "link": "https://www.coindesk.com/tech/2026/11/09/two-rival-ethereum-proposals-aim-to-stop-glamsterdam-breaking-old-contracts",
+    "pubDate": "Mon, 09 Nov 2026 05:16:54 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "The proposals aim to keep Ethereum’s planned gas changes from breaking existing contracts, using different approaches to what contracts see and what users pay.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/c357579ddef2051b405b9e89f8525dd02709081d-5760x3240.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "summary": "Two rival proposals for Ethereum are being developed to prevent upcoming gas changes, possibly related to \"Glamsterdam,\" from breaking existing smart contracts. These proposals differ in their approaches to what information contracts perceive and how users are charged for transactions.",
+    "importance": 7,
+    "classified": true
+  },
+  {
+    "title": "Bitcoin drops, then pops as Nvidia cheating scandal and failed Iran talks trigger volatility",
+    "link": "https://www.coindesk.com/markets/2026/11/09/bitcoin-drops-then-pops-as-nvidia-cheating-scandal-and-failed-iran-talks-trigger-volatility",
+    "pubDate": "Mon, 09 Nov 2026 03:21:49 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "Volatile price action has once again liquidated leveraged bullish plays worth millions.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/aaf31685777923cc92bb49f7710d8a49c418ab90-2228x1021.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "summary": "Bitcoin experienced significant price volatility, dropping then recovering, which resulted in the liquidation of millions in leveraged bullish positions. This turbulence was reportedly triggered by external factors such as an Nvidia cheating scandal and failed Iran talks.",
+    "importance": 7,
+    "classified": true
+  },
+  {
     "title": "These Finland homes get free heat from bitcoin miners (as long as BTC stays above $70,000)",
     "link": "https://www.coindesk.com/markets/2026/11/08/these-finland-homes-get-free-heat-from-bitcoin-miners-as-long-as-btc-stays-above-usd70-000",
     "pubDate": "Sun, 08 Nov 2026 12:55:59 +0000",
@@ -512,30 +476,6 @@
     "content": "The crypto venture may use fees from its USD1 stablecoin reserves to fund token purchases as it seeks to boost governance.",
     "image": "https://cdn.sanity.io/images/s3y3vcno/production/87e4902bfb4d36401e2e19cdf71ed52e9f9e20c6-3265x1837.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
     "summary": "Trump-backed World Liberty Financial is planning a token buyback following a significant 66% year-to-date decline in its token value. The crypto venture aims to boost governance by potentially utilizing fees from its USD1 stablecoin reserves to fund these purchases.",
-    "importance": 7,
-    "classified": true
-  },
-  {
-    "title": "Bitcoin tumbles to $76,000 as collapsing AI trade drags stocks sharply lower",
-    "link": "https://www.coindesk.com/markets/2026/11/05/bitcoin-crypto-stocks-caught-in-ai-trade-meltdown-but-wintermute-trader-sees-glass-half-full",
-    "pubDate": "Thu, 05 Nov 2026 18:48:40 +0000",
-    "source": "CoinDesk",
-    "category": "both",
-    "content": "The post-election rally quickly reversed as AI stocks plunged, but cryptocurrencies held up relatively better despite a $1 billion liquidation wave.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/902f86932e61568cce872eb7808f9c9ef9044d93-5123x3415.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-    "summary": "Following a post-election rally, AI stocks experienced a sharp downturn, which also impacted Bitcoin and other crypto stocks. Despite a substantial $1 billion liquidation wave in the crypto market, cryptocurrencies demonstrated relative resilience compared to the plunging AI sector.",
-    "importance": 7,
-    "classified": true
-  },
-  {
-    "title": "Crypto for Advisors: Where investors stake crypto shapes how much of the reward they keep",
-    "link": "https://www.coindesk.com/coindesk-indices/2026/11/05/crypto-for-advisors-where-investors-stake-crypto-shapes-how-much-of-the-reward-they-keep",
-    "pubDate": "Thu, 05 Nov 2026 16:13:32 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/823d276a9a2836ca80874c550bd4c43a890c41d0-3000x2001.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-    "summary": "The article, titled \"Crypto for Advisors,\" appears to discuss how the specific platform or method chosen by investors for staking their cryptocurrency directly impacts the amount of staking rewards they ultimately retain. It seems to be an advisory piece highlighting financial implications of staking decisions.",
     "importance": 7,
     "classified": true
   },
@@ -600,18 +540,6 @@
     "classified": true
   },
   {
-    "title": "Hyperliquid Strategies seeks futures registration for perps ",
-    "link": "https://cointelegraph.com/news/nasdaq-hyperliquid-strategies-futures-broker-license-onchain-perps?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Fri, 06 Nov 2026 08:42:54 +0000",
-    "source": "Cointelegraph",
-    "category": "crypto",
-    "content": "The HYPE treasury company spent $785 million on tokens during the quarter and wants to bring Hyperliquid-based perpetual futures to the US.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6QXFT81EJZ5FY6966J6NXJE/hiblockchain-powered-prediction-platforms-hyperliquid-2.jpg",
-    "summary": "Hyperliquid Strategies, operating as the HYPE treasury company, has spent $785 million on tokens this quarter. The company is now seeking futures registration to introduce Hyperliquid-based perpetual futures to the US market.",
-    "importance": 7,
-    "classified": true
-  },
-  {
     "title": "Onchain data casts doubt on insider-trading theory in NYT’s ‘suspicious’ election betting story",
     "link": "https://www.theblock.co/news/defi/2026-11-08-onchain-data-casts-doubt-on-insider-trading-theory-in-nyts-suspicious-election-betting-story-436034",
     "pubDate": "Sun, 08 Nov 2026 23:07:02 +0000",
@@ -662,7 +590,7 @@
   {
     "title": "Here’s what happened in crypto today",
     "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Sun, 08 Nov 2026 13:33:00 +0000",
+    "pubDate": "Mon, 09 Nov 2026 05:44:53 +0000",
     "source": "Cointelegraph",
     "category": "crypto",
     "content": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
@@ -682,6 +610,116 @@
     "summary": "Suspicious betting activity was observed on prediction markets shortly before the public release of two recent New York Times/Siena political polls. This suggests potential use of insider information to place bets.",
     "importance": 6,
     "classified": true
+  },
+  {
+    "title": "BTC price eyes $73K amid Nvidia volatility: Three things to know in Bitcoin this week",
+    "link": "https://cointelegraph.com/markets/btc-price-nvidia-volatility-three-things-bitcoin-this-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Mon, 09 Nov 2026 10:03:40 +0000",
+    "source": "Cointelegraph",
+    "category": "crypto",
+    "content": "Bitcoin price action fell to its lowest levels since mid-August as Nvidia reports added to sell-side pressure across stock-market futures.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6ZPZ3XN7CEBDWKGJCADW5H6/ai-falling-stock-prices-960x644-960x644.webp",
+    "summary": "",
+    "importance": 5
+  },
+  {
+    "title": "Binance, Tether and Trump crypto firms face Senate records deadline",
+    "link": "https://cointelegraph.com/news/binance-tether-wlfi-senate-crypto-investigation-records-deadline?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Mon, 09 Nov 2026 09:00:17 +0000",
+    "source": "Cointelegraph",
+    "category": "crypto",
+    "content": "Sen. Richard Blumenthal asked four crypto firms to start sending records by Nov. 30 and warned of further action if they miss the Jan. 4 deadline.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6ZMS02Q1MEXVDRE9TMMRDPD/hi-the-evolution-of-crypto-regulations-in-2024-what-it-means-for-2026.jpg",
+    "summary": "",
+    "importance": 5
+  },
+  {
+    "title": "Bitcoin ETFs shed $1.3B in biggest weekly outflow since late June",
+    "link": "https://cointelegraph.com/markets/bitcoin-etfs-13b-biggest-weekly-outflow-late-june?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Mon, 09 Nov 2026 08:17:35 +0000",
+    "source": "Cointelegraph",
+    "category": "crypto",
+    "content": "Investors pulled a net $1.21 billion from BlackRock’s IBIT last week as Bitcoin fell below $76,000 and US technology stocks sold off.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2M5WQHM74XV1CTRDCQ9ZXS3/bitcoin-etf-4.jpg",
+    "summary": "",
+    "importance": 5
+  },
+  {
+    "title": "Zcash devs propose another block time cut days after NU7 upgrade",
+    "link": "https://cointelegraph.com/news/zcash-developers-propose-20-second-blocks-nu7-upgrade?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Mon, 09 Nov 2026 05:36:08 +0000",
+    "source": "Cointelegraph",
+    "category": "crypto",
+    "content": "The proposed reduction aims to shorten transaction confirmation times and improve the user experience for point-of-sale payments, exchange deposits and cross-chain swaps.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6ZCTV693BR2130FJ37YTBT0/hi-bounties-and-do-they-work-zcash-2.jpg",
+    "summary": "",
+    "importance": 5
+  },
+  {
+    "title": "tBTC bridge partially resumes as $120M Aave reserve remains frozen",
+    "link": "https://cointelegraph.com/news/tbtc-bridge-resumes-aave-120m-reserve-frozen?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Mon, 09 Nov 2026 04:03:08 +0000",
+    "source": "Cointelegraph",
+    "category": "crypto",
+    "content": "Threshold halted its tBTC bridge on Oct. 30 as operators addressed a critical Linux kernel vulnerability that could allow attackers to execute code on unpatched servers.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6Z7HEM0J3VD1G6Q7DHXMEMM/bitcoin-bridge-paused.png",
+    "summary": "",
+    "importance": 5
+  },
+  {
+    "title": "Crypto-friendly Robinhood brings US IPO access to UK retail investors",
+    "link": "https://www.theblock.co/news/business/2026-11-09-crypto-friendly-robinhood-brings-us-ipo-access-to-uk-retail-investors-436089",
+    "pubDate": "Mon, 09 Nov 2026 10:48:31 +0000",
+    "source": "The Block",
+    "category": "crypto",
+    "content": "Robinhood has launched commission-free IPO Access in the UK, allowing retail investors to request shares in eligible U.S. listings",
+    "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/Screenshot-2026-11-09-at-10.08.56.png",
+    "summary": "",
+    "importance": 5
+  },
+  {
+    "title": "Trump says he knows ‘nothing’ about UAE-linked investment in his crypto firm",
+    "link": "https://www.theblock.co/news/business/2026-11-09-trump-says-he-knows-nothing-about-uae-linked-investment-in-his-crypto-firm-436079",
+    "pubDate": "Mon, 09 Nov 2026 10:33:55 +0000",
+    "source": "The Block",
+    "category": "crypto",
+    "content": "Trump said he \"knows nothing\" about the UAE-linked investment in the crypto firm he co-owns, and that his sons run the business.",
+    "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/Screenshot-2026-11-09-at-13.02.38-1.png",
+    "summary": "",
+    "importance": 5
+  },
+  {
+    "title": "Zama spin-off Raycash launches confidential stablecoin payments and private yield on Ethereum",
+    "link": "https://www.theblock.co/news/defi/2026-11-09-zama-spin-off-raycash-launches-confidential-stablecoin-payments-private-yield-ethereum-435909",
+    "pubDate": "Mon, 09 Nov 2026 09:05:02 +0000",
+    "source": "The Block",
+    "category": "crypto",
+    "content": "Raycash has launched its app on Ethereum, enabling private stablecoin payments and Morpho yield on idle balances.",
+    "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/raycash-zama-protocol.png",
+    "summary": "",
+    "importance": 5
+  },
+  {
+    "title": "Nvidia perps slide as market reacts to CEO Jensen Huang’s Chinese spy scandal",
+    "link": "https://www.theblock.co/news/defi/2026-11-08-nvidia-perps-slide-jensen-huang-436047",
+    "pubDate": "Mon, 09 Nov 2026 03:36:16 +0000",
+    "source": "The Block",
+    "category": "crypto",
+    "content": "Nvidia said its board of directors is investigating Huang's relationship with a woman identified by intelligence officials as a Chinese spy.",
+    "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/nvidia_jensen_editorial_1920x1080_2jpg.jpg",
+    "summary": "",
+    "importance": 5
+  },
+  {
+    "title": "What is Zcash (ZEC)? How shielded transactions work",
+    "link": "https://www.theblock.co/learn/ecosystems/what-is-zcash-zec-435779",
+    "pubDate": "Mon, 09 Nov 2026 02:36:01 +0000",
+    "source": "The Block",
+    "category": "crypto",
+    "content": "Zcash (ZEC) is a privacy coin and blockchain launched in 2016. It allows users to make both public and private transactions. The latter — called “shielded transactions” on the network — make use of zero-knowledge proofs called zk-SNARKs to verify payments without revealing the sender, recipient or amount. Zcash has emerged as one of the […]",
+    "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/zcash-glyph-16x9-1.png",
+    "summary": "",
+    "importance": 5
   },
   {
     "title": "Trump administration moves closer to allowing crypto in 401(k) retirement plans",
@@ -746,61 +784,6 @@
     "category": "crypto",
     "content": "Trading is expected to begin Monday, with calls, puts and more complex strategies available in select non-US jurisdictions.",
     "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2021/07/20210712_Finance_Crypto_Move.jpg",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "Crypto ETFs see over half a billion dollars in outflows amid post-midterm market slide",
-    "link": "https://www.theblock.co/news/markets/2026-11-06-crypto-etfs-see-over-half-a-billion-dollars-in-outflows-amid-post-midterm-market-slide-435873",
-    "pubDate": "Fri, 06 Nov 2026 12:33:31 +0000",
-    "source": "The Block",
-    "category": "crypto",
-    "content": "U.S. spot crypto ETFs slumped back to net outflows on Thursday, with more than $540 million in withdrawals across major products.",
-    "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/Screenshot-2026-11-06-at-11.04.48.png",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "Nigeria’s central bank introduces stablecoin licensing rules, bans algorithmic versions",
-    "link": "https://www.theblock.co/news/regulation/2026-11-06-nigerias-central-bank-introduces-stablecoin-licensing-rules-bans-algorithmic-versions-435867",
-    "pubDate": "Fri, 06 Nov 2026 11:43:44 +0000",
-    "source": "The Block",
-    "category": "crypto",
-    "content": "Nigeria's central bank issued new virtual asset regulations requiring stablecoin issuers and other service providers to obtain local licenses.",
-    "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/Screenshot-2026-11-06-at-14.13.09.png",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "Kalshi hit with injunction over sports contracts on California tribal lands",
-    "link": "https://www.theblock.co/news/business/2026-11-06-kalshi-injunction-california-tribal-lands-435813",
-    "pubDate": "Fri, 06 Nov 2026 08:34:02 +0000",
-    "source": "The Block",
-    "category": "crypto",
-    "content": "A federal judge has granted the preliminary injunction to bar Kalshi from offering sports contracts on the lands of two California tribes.",
-    "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/kalshi_editorial_1920x1080.png",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "Zcash’s major network upgrade NU7 goes live on mainnet, cutting block time by threefold",
-    "link": "https://www.theblock.co/news/defi/2026-11-06-zcashs-nu7-goes-live-435807",
-    "pubDate": "Fri, 06 Nov 2026 07:36:42 +0000",
-    "source": "The Block",
-    "category": "crypto",
-    "content": "NU7 also activates the Network Sustainability Mechanism, which removes 60% of each block's transaction fees from circulation.",
-    "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/zcash-3.png",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "IREN’s bitcoin mining revenue drops 58% as firm plans full exit by year-end",
-    "link": "https://www.theblock.co/news/business/2026-11-05-irens-mining-revenue-drops-435783",
-    "pubDate": "Fri, 06 Nov 2026 04:29:14 +0000",
-    "source": "The Block",
-    "category": "crypto",
-    "content": "IREN has been shifting its focus to the AI infrastructure business, and its AI cloud revenue rose 182% in the past quarter to $200 million.",
-    "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/iren.png",
     "summary": "",
     "importance": 5
   },
@@ -915,6 +898,17 @@
     "importance": 5
   },
   {
+    "title": "The climate case for AI has not been made",
+    "link": "https://www.technologyreview.com/2026/11/09/1148166/the-climate-case-for-ai-has-not-been-made/",
+    "pubDate": "Mon, 09 Nov 2026 10:00:00 +0000",
+    "source": "MIT Technology Review",
+    "category": "ai",
+    "content": "This week, as countries meet in Antalya, Turkey for the United Nations climate conference, one topic likely to dominate the conversation is artificial intelligence. The host has already called on countries to commit to ensuring that AI is designed, powered, and deployed in ways that support climate action. But so far, industries around the world…",
+    "image": "",
+    "summary": "",
+    "importance": 5
+  },
+  {
     "title": "The Download: a humanoid cleans house and Samsung builds for the AI boom",
     "link": "https://www.technologyreview.com/2026/11/06/1148154/the-download-humanoid-robot-cleaner-samsung-ai-chip-boom/",
     "pubDate": "Fri, 06 Nov 2026 13:10:00 +0000",
@@ -1014,13 +1008,13 @@
     "importance": 5
   },
   {
-    "title": "The Download: controlling AI agents and “Super Intelligence” loyalty tests",
-    "link": "https://www.technologyreview.com/2026/11/03/1147940/the-download-controlling-ai-agents-trump-super-intelligence/",
-    "pubDate": "Tue, 03 Nov 2026 13:10:00 +0000",
-    "source": "MIT Technology Review",
+    "title": "Is Jensen Huang’s job on the line? Yale’s Jeffrey Sonnenfeld estimates it’s “about a 50-50”",
+    "link": "https://techcrunch.com/2026/11/08/is-jensen-huangs-job-on-the-line-yales-jeffrey-sonnenfeld-estimates-its-about-a-50-50/",
+    "pubDate": "Mon, 09 Nov 2026 05:26:29 +0000",
+    "source": "TechCrunch AI",
     "category": "ai",
-    "content": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. How “reverse game theory” could keep AI agents in check A new approach known as “reverse game theory” aims to control powerful AI models by designing systems that incentivize them to…",
-    "image": "https://wp.technologyreview.com/wp-content/uploads/2026/04/GettyImages-546444524.jpg?w=2667",
+    "content": "Nvidia’s board is investigating Jensen Huang over his relationship with a suspected Chinese spy, and Yale’s Jeffrey Sonnenfeld thinks it’s roughly a coin flip whether Huang stays on as CEO.",
+    "image": "",
     "summary": "",
     "importance": 5
   },
@@ -1234,17 +1228,6 @@
     "importance": 5
   },
   {
-    "title": "Claude can now analyze your spending with its new Personal Finance tool",
-    "link": "https://techcrunch.com/2026/11/05/claude-can-now-analyze-your-spending-with-its-new-personal-finance-tool/",
-    "pubDate": "Thu, 05 Nov 2026 18:00:00 +0000",
-    "source": "TechCrunch AI",
-    "category": "ai",
-    "content": "With Personal Finance in Claude, users can connect their bank and card accounts through Plaid and ask questions about their finances.",
-    "image": "",
-    "summary": "",
-    "importance": 5
-  },
-  {
     "title": "Here’s the full text of Jensen Huang’s memo to Nvidia",
     "link": "https://www.theverge.com/ai-artificial-intelligence/1029595/full-text-jensen-huang-affair-memo-nvidia",
     "pubDate": "2026-11-08T22:54:50.000Z",
@@ -1256,7 +1239,7 @@
     "importance": 5
   },
   {
-    "title": "Nvidia is investigating Jensen Huang’s relationship with a Chinese spy",
+    "title": "Nvidia is investigating Jensen Huang’s relationship with an alleged Chinese spy",
     "link": "https://www.theverge.com/ai-artificial-intelligence/1029562/nvidia-investigating-jensen-huang-relationship-chinese-spy",
     "pubDate": "2026-11-08T20:22:39.000Z",
     "source": "The Verge AI",
@@ -1608,6 +1591,18 @@
     "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6TF8XXVHRYCKDRNDMW19WCP/analys-analytics-bisiness-man-woman-down-city-crash-nvidia.jpg",
     "summary": "A report indicates that Nvidia, despite CEO Jensen Huang's ties to Donald Trump, is anticipated to encounter a more adversarial political climate in Washington following the upcoming election. This shift could lead to increased challenges for the chipmaker.",
     "importance": 4,
+    "classified": true
+  },
+  {
+    "title": "U.S. inflation, corporate earnings: Crypto Week Ahead",
+    "link": "https://www.coindesk.com/markets/2026/11/09/u-s-inflation-corporate-earnings-crypto-week-ahead",
+    "pubDate": "Mon, 09 Nov 2026 09:33:27 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "Your look at what’s coming in the week starting Nov. 9.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/86094ea78f944f140cc21b29434392b1d1380382-1920x1080.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "summary": "This article serves as a brief preview for the upcoming week, starting November 9th, highlighting anticipated economic events such as U.S. inflation data and corporate earnings. It frames these updates as part of a \"Crypto Week Ahead\" outlook.",
+    "importance": 3,
     "classified": true
   },
   {
