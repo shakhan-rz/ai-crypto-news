@@ -12,6 +12,18 @@
     "classified": true
   },
   {
+    "title": "North Korea's Binance hack faces U.S. crackdown as DOJ targets $1.2 billion in stolen crypto",
+    "link": "https://www.coindesk.com/policy/2026/11/12/north-korea-s-binance-hack-faces-u-s-crackdown-as-doj-targets-usd1-2-billion-in-stolen-crypto",
+    "pubDate": "Thu, 12 Nov 2026 22:55:52 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "Federal authorities say they've taken infrastructure used in the FaceStealer scheme used to steal as much as $400 million in crypto assets.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/801c568ca77ca8b74a5f2ebc71165d5955c34070-5307x3538.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "summary": "U.S. federal authorities are cracking down on North Korea's involvement in a Binance hack, targeting $1.2 billion in stolen cryptocurrency. They have seized infrastructure used in the FaceStealer scheme, which was responsible for stealing up to $400 million in crypto assets.",
+    "importance": 9,
+    "classified": true
+  },
+  {
     "title": "DTCC adds Solana to Wall Street tokenization plans, targeting 2027 rollout",
     "link": "https://www.coindesk.com/business/2026/11/12/dtcc-adds-solana-to-wall-street-tokenization-plans-targeting-2027-rollout",
     "pubDate": "Thu, 12 Nov 2026 15:45:48 +0000",
@@ -60,27 +72,15 @@
     "classified": true
   },
   {
-    "title": "Deutsche Bank launches crypto custody for companies and institutions",
-    "link": "https://cointelegraph.com/news/deutsche-bank-debuts-digital-asset-custody-services-eu?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Wed, 11 Nov 2026 14:02:18 +0000",
-    "source": "Cointelegraph",
+    "title": "Bitcoin dips below $70,000 as Dollar Index hits 19-month high",
+    "link": "https://www.coindesk.com/markets/2026/11/13/bitcoin-dips-below-usd70-000-as-selloff-gathers-pace",
+    "pubDate": "Fri, 13 Nov 2026 03:37:00 +0000",
+    "source": "CoinDesk",
     "category": "crypto",
-    "content": "Clients can store and transfer Bitcoin, Ether and select stablecoins through the bank, which manages their wallets and private keys.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M75D0RVNVRMGT5GMDFRH6PZQ/hi-us-banks-have-deeper-interest-in-digital-than-previously-thought.jpg",
-    "summary": "Deutsche Bank has launched a crypto custody service for companies and institutional clients, allowing them to store and transfer Bitcoin, Ether, and select stablecoins. The bank will manage clients' wallets and private keys as part of the new offering.",
-    "importance": 9,
-    "classified": true
-  },
-  {
-    "title": "Bitcoin Covenants Part 5: MATT and OP_CHECKCONTRACTVERIFY — How Bitcoin could carry state across transactions",
-    "link": "https://cointelegraph.com/research/bitcoin-covenants-part-5-matt-op-ccv?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Wed, 11 Nov 2026 13:26:18 +0000",
-    "source": "Cointelegraph",
-    "category": "crypto",
-    "content": "OP_CCV embeds contract state directly into Taproot output keys and enforces valid state transitions onchain. This makes it possible to achieve stateful contracts and compact fraud proofs.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5YMN410HHB04XQCTHZ2P4NF/crypto-bitcoin-storage.jpg",
-    "summary": "OP_CHECKCONTRACTVERIFY (OP_CCV) allows Bitcoin to carry state across transactions by embedding contract state directly into Taproot output keys and enforcing valid state transitions on-chain. This innovation enables stateful contracts and more compact fraud proofs, significantly enhancing Bitcoin's smart contract capabilities.",
-    "importance": 9,
+    "content": "The crypto market selloff gathered pace early Friday. Bitcoin dropped below $70,000 and ether traded below $2,000, triggering large liquidations in futures market.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/6ebed0b7b5c5b2a54b1277814829038951640f5e-2220x1200.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "summary": "The crypto market experienced a significant selloff early Friday, with Bitcoin dropping below $70,000 and Ether falling below $2,000. This downturn triggered substantial liquidations in the futures market, coinciding with the Dollar Index reaching a 19-month high.",
+    "importance": 8,
     "classified": true
   },
   {
@@ -92,6 +92,30 @@
     "content": "The legal battle to head off the crypto transaction tax in Illinois has drawn up a hefty roster of industry opposition, and they're saying the tax won't work.",
     "image": "https://cdn.sanity.io/images/s3y3vcno/production/e33b3fcac1c0e8c98ef703b71e95d78b3237411a-8192x5464.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
     "summary": "The crypto industry is challenging Illinois's proposed crypto transaction tax in court, arguing that the tax is impossible to enforce as written. A significant number of industry players have joined the legal opposition to prevent its implementation.",
+    "importance": 8,
+    "classified": true
+  },
+  {
+    "title": "India’s financial crimes watchdog raids crypto exchanges CoinDCX and Delta over alleged illegal cross-border trades",
+    "link": "https://www.coindesk.com/policy/2026/11/12/india-s-financial-crimes-watchdog-raids-crypto-exchanges-coindcx-and-delta-over-alleged-illegal-cross-border-trades",
+    "pubDate": "Thu, 12 Nov 2026 10:10:48 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "The Enforcement Directorate alleged illegal cross-border flows that violated India's foreign exchange laws.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/a3eceb8aeec24d03372ed17e149a9e6c5b546972-2304x1296.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "summary": "India's financial crimes watchdog, the Enforcement Directorate, has raided crypto exchanges CoinDCX and Delta. The raids are in connection with alleged illegal cross-border trades that violated India's foreign exchange laws.",
+    "importance": 8,
+    "classified": true
+  },
+  {
+    "title": "Live updates: Bitcoin slumps below $72,000 as Nvidia's Huang resigns, interest rates surge",
+    "link": "https://www.coindesk.com/tech/2026/11/12/live-news-strategy-kicked-out-of-msci-indexes-as-nvidia-slump-rattles-markets",
+    "pubDate": "Thu, 12 Nov 2026 09:15:04 +0000",
+    "source": "CoinDesk",
+    "category": "both",
+    "content": "The Fed continued amping up its hawkishness on Thursday; meanwhile, existing home sales fell to their weakest level in 16 years.",
+    "image": "",
+    "summary": "Bitcoin fell below $72,000 as the Federal Reserve maintained its hawkish stance, leading to surging interest rates and a significant drop in existing home sales. These market shifts also coincided with the resignation of Nvidia's CEO.",
     "importance": 8,
     "classified": true
   },
@@ -120,30 +144,6 @@
     "classified": true
   },
   {
-    "title": "OKXICE to debut tokenized stock trading with Strategy, Coinbase, Circle this month",
-    "link": "https://www.coindesk.com/business/2026/11/10/okxice-to-debut-tokenized-stock-trading-with-strategy-coinbase-circle-this-month",
-    "pubDate": "Wed, 11 Nov 2026 13:00:00 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "After initial issuer pushback, the blockchain venue is set to start trading on Nov. 23 and said will list over 70 assets, including Strategy’s common and preferred shares and 59 of Direxion's ETFs.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/5edaabfa8b7541835109ec0ac755c451f9b8f2c4-2760x1518.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-    "summary": "OKXICE is set to launch tokenized stock trading on November 23rd, despite prior issuer pushback. The blockchain venue will initially list over 70 assets, including Strategy's common and preferred shares and 59 of Direxion's ETFs.",
-    "importance": 8,
-    "classified": true
-  },
-  {
-    "title": "Meet Spiko, the largest tokenized fund in the world you’ve probably never heard about",
-    "link": "https://www.coindesk.com/business/2026/11/11/meet-spiko-the-largest-tokenized-fund-in-the-world-you-ve-probably-never-heard-about",
-    "pubDate": "Wed, 11 Nov 2026 12:57:36 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "The firm’s flagship Spiko Amundi Overnight Swap Fund (SAFO) held $2.39 billion in assets under management as of late last month.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/b0389aa1104b7ab4b6ec57687b8eaf3039d9ce76-2048x1365.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-    "summary": "The article introduces Spiko, identified as the world's largest tokenized fund, which manages $2.39 billion in assets under its flagship Spiko Amundi Overnight Swap Fund (SAFO). This highlights a significant and largely unrecognized player in the tokenized asset market.",
-    "importance": 8,
-    "classified": true
-  },
-  {
     "title": "Uncalled US House races could send more crypto allies to Congress",
     "link": "https://cointelegraph.com/news/uncalled-midterm-races-add-more-crypto-supporters-congress?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "pubDate": "Wed, 11 Nov 2026 22:05:17 +0000",
@@ -152,30 +152,6 @@
     "content": "The remaining races feature pro-crypto candidates and others without a stated position, giving advocacy groups what they see as “an opportunity” for outreach.",
     "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M75XNMPSEVD2H0XM5RBPTJMR/different-crypto-logos.png",
     "summary": "Unresolved US House races present an opportunity for crypto advocacy groups to increase the number of pro-crypto allies in Congress. The remaining candidates either openly support cryptocurrency or have not stated a position, making them targets for outreach.",
-    "importance": 8,
-    "classified": true
-  },
-  {
-    "title": "OKXICE moves ahead with tokenized stocks as blue chips push back",
-    "link": "https://cointelegraph.com/news/okxice-tokenized-stocks-blue-chips-push-back?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Wed, 11 Nov 2026 18:30:43 +0000",
-    "source": "Cointelegraph",
-    "category": "crypto",
-    "content": "The Nov. 23 debut puts a new SEC exemption to the test as Nasdaq pursues its own tokenized stock plans after warning that trading across platforms could fragment liquidity.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M75S911M6Z2QY1MHSS3BEKGB/hi-how-binance-plans-to-bring-tokenized-us-stocks-5.png",
-    "summary": "OKXICE is moving forward with the debut of tokenized stocks on November 23, utilizing a new SEC exemption. This initiative faces a backdrop of Nasdaq pursuing its own tokenized stock plans while simultaneously cautioning that trading across multiple platforms could fragment liquidity.",
-    "importance": 8,
-    "classified": true
-  },
-  {
-    "title": "Paraguay bank collapse shows stablecoins can offer a lifeline... of sorts",
-    "link": "https://cointelegraph.com/magazine/paraguay-bank-collapse-shows-stablecoins-can-offer-a-lifeline-of-sorts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Wed, 11 Nov 2026 13:30:00 +0000",
-    "source": "Cointelegraph",
-    "category": "crypto",
-    "content": "Ueno’s collapse exposed the fragility of digital banking in Paraguay, as customers scrambled for access to their money and stablecoins offered a lifeline.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M72P50QB7YYQYFYB7ABTSVZ2/magazineai-banking-the-unbanked-in-africa-1.png",
-    "summary": "The collapse of Ueno bank in Paraguay exposed the fragility of digital banking, prompting customers to scramble for their funds. In this crisis, stablecoins provided a critical lifeline for those impacted.",
     "importance": 8,
     "classified": true
   },
@@ -228,14 +204,26 @@
     "classified": true
   },
   {
-    "title": "Crypto Long & Short: The GENIUS Act’s guarantees don’t cover DeFi lending",
-    "link": "https://www.coindesk.com/coindesk-indices/2026/11/11/crypto-long-and-short-the-genius-act-s-guarantees-don-t-cover-defi-lending",
-    "pubDate": "Wed, 11 Nov 2026 16:00:45 +0000",
+    "title": "Gemini sells UK and European operations to stablecoin payments firm KAST for under $10 million",
+    "link": "https://www.coindesk.com/business/2026/11/12/gemini-sells-uk-and-european-operations-to-stablecoin-payments-firm-kast-for-under-usd10-million",
+    "pubDate": "Thu, 12 Nov 2026 09:07:00 +0000",
     "source": "CoinDesk",
     "category": "crypto",
-    "content": "Institutions weighing DeFi lending tend to ask which markets are safest. Mike Hathaway and Joseph Quintilian of Ajna argue the better question is who can change a loan’s terms after the money is lent, and why a fully backed stablecoin offers no protection against a token vote or a faulty price feed.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/b997b6fce8b36ab68140a325baf99f71a6118eec-1280x853.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-    "summary": "This article discusses the inherent risks in DeFi lending, suggesting that the critical concern isn't market safety but rather who can alter a loan's terms post-lending. Mike Hathaway and Joseph Quintilian of Ajna argue that even fully backed stablecoins provide no protection against token votes or faulty price feeds, exposing vulnerabilities in decentralized finance.",
+    "content": "The sale follows the Winklevoss-founded crypto exchange’s retreat from several overseas markets as it restructures its business.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/8e7f143de173398091d41beb177dbda33ae0dcfa-4208x2367.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "summary": "Gemini, the crypto exchange founded by the Winklevoss twins, is selling its UK and European operations to stablecoin payments firm KAST for less than $10 million. This sale is part of Gemini's business restructuring and retreat from several overseas markets.",
+    "importance": 7,
+    "classified": true
+  },
+  {
+    "title": "Canaan may sell more bitcoin for stock buybacks as mining-rig revenue falls 96%",
+    "link": "https://www.coindesk.com/markets/2026/11/12/canaan-may-sell-more-bitcoin-for-stock-buybacks-as-mining-rig-revenue-falls-96",
+    "pubDate": "Thu, 12 Nov 2026 07:41:18 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "The Avalon maker has launched a $20 million repurchase program, while most of its bitcoin holdings were pledged or placed in a fixed-term product at September’s end.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/ff5cb9a14368e0ec679deae2d9127d7d94dd804e-5700x3800.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "summary": "Canaan, a major bitcoin mining rig manufacturer, has seen its mining-rig revenue plummet by 96%. To counter this, the company has initiated a $20 million stock repurchase program and may need to sell more bitcoin for buybacks, as most of its existing holdings were already pledged or locked in fixed-term products.",
     "importance": 7,
     "classified": true
   },
@@ -260,18 +248,6 @@
     "content": "As US voters push back against new data centers, Bitcoin miners already expanding into AI could benefit from their existing facilities.",
     "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M73MEN38K2N8NDYPGWJFZGPZ/hi-bitcoin-nodes-vs-miners-protection.jpg",
     "summary": "As US voters increasingly oppose new data centers, Bitcoin miners who are already expanding into AI could gain a significant advantage. Their existing data center facilities might provide a competitive edge in housing AI operations amidst growing restrictions on new developments.",
-    "importance": 7,
-    "classified": true
-  },
-  {
-    "title": "CoreWeave stock jumps 15% premarket after Q3 revenue beats estimates",
-    "link": "https://cointelegraph.com/markets/coreweave-stock-surges-pre-market-q3-revenue?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Wed, 11 Nov 2026 13:02:30 +0000",
-    "source": "Cointelegraph",
-    "category": "ai",
-    "content": "CoreWeave’s third-quarter revenue rose 168% to $3.66 billion, beating analyst estimates by 3.4%. Its revenue backlog reached $132.5 billion.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7572VRXC31WERWWDCXZ6ZM2/hi-how-wall-street-is-using-ethereum-without-talking-about-ethereum-1.jpg",
-    "summary": "CoreWeave reported a significant beat in its third-quarter revenue, which surged 168% to $3.66 billion, surpassing analyst estimates by 3.4%. This strong financial performance led to a 15% premarket jump in its stock price. The company also announced a substantial revenue backlog totaling $132.5 billion.",
     "importance": 7,
     "classified": true
   },
@@ -336,18 +312,6 @@
     "classified": true
   },
   {
-    "title": "Bitcoin hovers near $74K as stocks rise despite US bond yield rebound",
-    "link": "https://cointelegraph.com/markets/bitcoin-74k-stocks-us-bond-yield-inflation-cpi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Wed, 11 Nov 2026 16:26:00 +0000",
-    "source": "Cointelegraph",
-    "category": "crypto",
-    "content": "Bitcoin traded in a narrow range as investors bought the dip in tech stocks and US bond yields climbed on high CPI inflation data.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M75N52D7VC58F2MJTGJCRMV1/bungee-jumping-bitcoin-1-960x640.webp",
-    "summary": "Bitcoin traded in a narrow range, hovering near $74K, as investors responded to rising tech stocks and climbing US bond yields. This movement occurred despite new CPI inflation data.",
-    "importance": 6,
-    "classified": true
-  },
-  {
     "title": "Bitcoin weakness erases September's bullish signal",
     "link": "https://www.coindesk.com/daybook-us/2026/11/12/bitcoin-weakness-erases-september-s-bullish-signal",
     "pubDate": "Thu, 12 Nov 2026 12:15:00 +0000",
@@ -358,50 +322,6 @@
     "summary": "The news reports on Bitcoin's recent price performance, indicating that its current weakness has invalidated a previously bullish signal observed in September. This suggests a potential shift in market sentiment or technical indicators for the cryptocurrency.",
     "importance": 5,
     "classified": true
-  },
-  {
-    "title": "India’s financial crimes watchdog raids crypto exchanges CoinDCX and Delta over alleged illegal cross-border trades",
-    "link": "https://www.coindesk.com/policy/2026/11/12/india-s-financial-crimes-watchdog-raids-crypto-exchanges-coindcx-and-delta-over-alleged-illegal-cross-border-trades",
-    "pubDate": "Thu, 12 Nov 2026 10:10:48 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "The Enforcement Directorate alleged illegal cross-border flows that violated India's foreign exchange laws.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/a3eceb8aeec24d03372ed17e149a9e6c5b546972-2304x1296.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "Live updates: Bitcoin slumps below $72,000 as Nvidia's Huang resigns, interest rates surge",
-    "link": "https://www.coindesk.com/tech/2026/11/12/live-news-strategy-kicked-out-of-msci-indexes-as-nvidia-slump-rattles-markets",
-    "pubDate": "Thu, 12 Nov 2026 09:15:04 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "The Fed continued amping up its hawkishness on Thursday; meanwhile, existing home sales fell to their weakest level in 16 years.",
-    "image": "",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "Gemini sells UK and European operations to stablecoin payments firm KAST for under $10 million",
-    "link": "https://www.coindesk.com/business/2026/11/12/gemini-sells-uk-and-european-operations-to-stablecoin-payments-firm-kast-for-under-usd10-million",
-    "pubDate": "Thu, 12 Nov 2026 09:07:00 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "The sale follows the Winklevoss-founded crypto exchange’s retreat from several overseas markets as it restructures its business.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/8e7f143de173398091d41beb177dbda33ae0dcfa-4208x2367.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "Canaan may sell more bitcoin for stock buybacks as mining-rig revenue falls 96%",
-    "link": "https://www.coindesk.com/markets/2026/11/12/canaan-may-sell-more-bitcoin-for-stock-buybacks-as-mining-rig-revenue-falls-96",
-    "pubDate": "Thu, 12 Nov 2026 07:41:18 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "The Avalon maker has launched a $20 million repurchase program, while most of its bitcoin holdings were pledged or placed in a fixed-term product at September’s end.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/ff5cb9a14368e0ec679deae2d9127d7d94dd804e-5700x3800.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-    "summary": "",
-    "importance": 5
   },
   {
     "title": "MSCI is dropping Strategy from its index, and the exclusion could hit its bitcoin-buying machine",
@@ -422,6 +342,95 @@
     "category": "crypto",
     "content": "The proposal would remove more than half of Zcash Community Grants' ZEC holdings from circulation and redirect its future block rewards into a new development and legal-defense fund.",
     "image": "https://cdn.sanity.io/images/s3y3vcno/production/6359a9ff83ee7ba7465c0ff2289cb8ae23e7ac43-1500x1000.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "summary": "",
+    "importance": 5
+  },
+  {
+    "title": "Trump nominates Hester Peirce successor among SEC, CFTC picks",
+    "link": "https://cointelegraph.com/news/trump-nominates-hester-peirce-successor-among-sec-cftc-picks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Fri, 13 Nov 2026 02:29:27 +0000",
+    "source": "Cointelegraph",
+    "category": "crypto",
+    "content": "The White House also named a former CFTC commissioner and two CLARITY Act veterans as nominees to fill vacancies at the SEC and CFTC.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M79AVSJ6NY5RD5MSVWPM12XB/white-house-stablecoin-trump.jpg",
+    "summary": "",
+    "importance": 5
+  },
+  {
+    "title": "Former Nvidia CEO Huang had third alleged affair: Reuters",
+    "link": "https://cointelegraph.com/news/former-nvidia-ceo-huang-had-third-alleged-affair-reuters?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Fri, 13 Nov 2026 01:26:27 +0000",
+    "source": "Cointelegraph",
+    "category": "crypto",
+    "content": "Reuters reported that Jensen Huang had a relationship with another Nvidia employee, hours after he resigned as CEO.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6TF8XXVHRYCKDRNDMW19WCP/analys-analytics-bisiness-man-woman-down-city-crash-nvidia.jpg",
+    "summary": "",
+    "importance": 5
+  },
+  {
+    "title": "Gemini’s quarterly retail trading volume sinks to 3-year low",
+    "link": "https://cointelegraph.com/markets/geminis-quarterly-retail-trading-volume-sinks-to-3-year-low?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Fri, 13 Nov 2026 00:52:42 +0000",
+    "source": "Cointelegraph",
+    "category": "crypto",
+    "content": "Gemini’s third-quarter trading rebound masked a deepening retail slump.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M79668CQYKG39DW60CKNSTF0/hi-gemini-review-2025-secure-regulated-and-feature-rich.jpg",
+    "summary": "",
+    "importance": 5
+  },
+  {
+    "title": "Maple Finance’s strategy rift sends co-founder, COO to the exits",
+    "link": "https://cointelegraph.com/news/maple-finance-strategy-rift-co-founder-coo-exit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Thu, 12 Nov 2026 23:12:55 +0000",
+    "source": "Cointelegraph",
+    "category": "crypto",
+    "content": "Maple Finance co-founder Joe Flanagan and COO Ryan O’Shea are leaving over disagreements about the firm’s direction as SYRUP falls despite revenue growth.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M78W1BXY18T2XKFJB5NNN63C/image-1.png",
+    "summary": "",
+    "importance": 5
+  },
+  {
+    "title": "NK hackers join memecoin trenches, xStocks adds Hong Kong equities: Asia Express",
+    "link": "https://cointelegraph.com/magazine/nk-hackers-join-memecoin-trenches-xstocks-adds-hong-kong-equities-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Thu, 12 Nov 2026 22:29:58 +0000",
+    "source": "Cointelegraph",
+    "category": "crypto",
+    "content": "North Korean hackers launch memecoins to launder funds stolen in the Binance hack, while xStocks plans to add hundreds of Hong Kong-listed equities in the coming weeks.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M26Q2WGDD8GDA5QMCWQF3GB3/magazineasia-expresssnow.jpg",
+    "summary": "",
+    "importance": 5
+  },
+  {
+    "title": "Here’s what happened in crypto today",
+    "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Thu, 12 Nov 2026 22:11:41 +0000",
+    "source": "Cointelegraph",
+    "category": "crypto",
+    "content": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg",
+    "summary": "This article serves as a daily briefing on the cryptocurrency market, offering an overview of the latest trends and events. It covers various aspects including Bitcoin price movements, developments in blockchain, DeFi, Web3, and crypto regulation.",
+    "importance": 5,
+    "classified": true
+  },
+  {
+    "title": "Kalshi ends Donald Trump Jr. advisory role over Polymarket investment: Reuters",
+    "link": "https://cointelegraph.com/news/kalshi-ends-donald-trump-jr-advisory-role-polymarket-investment?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Thu, 12 Nov 2026 22:05:01 +0000",
+    "source": "Cointelegraph",
+    "category": "crypto",
+    "content": "The prediction market operator said the decision was mutual and followed 1789 Capital’s investment in rival Polymarket, denying political considerations.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M78TX3PGYGRAKFVQT1WR50MD/hi-paying-the-price-kalshi-banned-politician-for-insider-trading.png",
+    "summary": "",
+    "importance": 5
+  },
+  {
+    "title": "Strategy stock sheds 5% amid MSCI index removal, Bitcoin sell-off",
+    "link": "https://cointelegraph.com/markets/strategy-shares-fall-5-msci-index-removal-bitcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Thu, 12 Nov 2026 21:52:04 +0000",
+    "source": "Cointelegraph",
+    "category": "crypto",
+    "content": "Strategy shares declined Thursday following MSCI’s decision to remove the company from its indexes, as Bitcoin also fell amid a broader crypto market decline.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M78SKXFN30X2QXCVG2NCJ1VY/hi-how-strategyb-turned-k-into-m-using-a-high-risk-high-precision-strategy.png",
     "summary": "",
     "importance": 5
   },
@@ -580,18 +589,6 @@
     "importance": 5
   },
   {
-    "title": "Here’s what happened in crypto today",
-    "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Thu, 12 Nov 2026 06:00:00 +0000",
-    "source": "Cointelegraph",
-    "category": "crypto",
-    "content": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg",
-    "summary": "This article serves as a daily briefing on the cryptocurrency market, offering an overview of the latest trends and events. It covers various aspects including Bitcoin price movements, developments in blockchain, DeFi, Web3, and crypto regulation.",
-    "importance": 5,
-    "classified": true
-  },
-  {
     "title": "South Korea to permit crypto withdrawal freezes during hacking threats",
     "link": "https://cointelegraph.com/news/south-korea-crypto-withdrawal-freezes-suspected-hacks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "pubDate": "Thu, 12 Nov 2026 05:54:48 +0000",
@@ -615,13 +612,35 @@
     "classified": true
   },
   {
-    "title": "FSB urges Turkey to tighten crypto oversight, set stablecoin rules",
-    "link": "https://cointelegraph.com/news/fsb-turkey-crypto-oversight-stablecoin-regulation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Wed, 11 Nov 2026 12:44:10 +0000",
-    "source": "Cointelegraph",
+    "title": "DOJ moves to seize $1.2 billion from Binance hack, disrupts North Korean deepfake scheme",
+    "link": "https://www.theblock.co/news/business/2026-11-12-doj-seize-1-2-billion-binance-hack-north-korea-facestealer-439065",
+    "pubDate": "Thu, 12 Nov 2026 22:40:22 +0000",
+    "source": "The Block",
     "category": "crypto",
-    "content": "The Financial Stability Board cited progress on crypto licensing and urged stronger enforcement and cooperation with foreign regulators.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7578X1R0G4ARNS1V00H1SJF/regulation-office-document-paper-turkey.jpg",
+    "content": "DOJ got court approval to seize $1.2B stolen from Binance by North Korea's TraderTraitor & took down the FaceStealer deepfake scam.",
+    "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2019/06/department-of-justice-e1584354675491.jpg",
+    "summary": "",
+    "importance": 5
+  },
+  {
+    "title": "Gemini trading volume drops 73% as Q3 revenue falls to $41 million",
+    "link": "https://www.theblock.co/news/markets/2026-11-12-gemini-trading-volume-drops-q3-revenue-falls-to-41-million-439050",
+    "pubDate": "Thu, 12 Nov 2026 22:18:10 +0000",
+    "source": "The Block",
+    "category": "crypto",
+    "content": "Gemini shares rose more than 6% after hours, though the stock remains down around 75% since the year began.",
+    "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2023/03/20230301_BankruptCompanies_Gemini.jpg",
+    "summary": "",
+    "importance": 5
+  },
+  {
+    "title": "Louisiana sues Kalshi, Robinhood and other prediction markets in escalating regulatory fight",
+    "link": "https://www.theblock.co/news/regulation/2026-11-12-louisiana-sues-kalshi-robinhood-other-prediction-markets-escalating-regulatory-fight-439052",
+    "pubDate": "Thu, 12 Nov 2026 21:44:30 +0000",
+    "source": "The Block",
+    "category": "crypto",
+    "content": "Louisiana is the latest state to take on prediction market platforms, joining a legal battle between states and the federal government.",
+    "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/01/20260120_Prediction-Markets_News_2.jpg",
     "summary": "",
     "importance": 5
   },
@@ -813,35 +832,68 @@
     "importance": 5
   },
   {
-    "title": "Bitcoin traders raise odds of sub-$70,000 Christmas, Bitmine reports $6.3 billion annual net loss, and more",
-    "link": "https://www.theblock.co/newsletters/the-daily/2026-11-11-bitcoin-outlook-christmas-bitmine-net-loss-more-crypto-news-438430",
-    "pubDate": "Thu, 12 Nov 2026 04:55:00 +0000",
-    "source": "The Block",
+    "title": "DOJ Wins Court Authority to Seize $1.2 Billion of North Korea’s Stolen Binance Crypto as Freezes Top $2.7 Billion",
+    "link": "https://bitcoinmagazine.com/news/doj-north-korea-binance-1-2-billion-seize",
+    "pubDate": "Fri, 13 Nov 2026 00:15:00 +0000",
+    "source": "Bitcoin Magazine",
     "category": "crypto",
-    "content": "In today's newsletter, bitcoin 'ripe for a squeeze' as traders raise odds of sub-$70,000 Christmas; Bitmine reports $6.3 billion annual net loss as ether falls 44%; and more.",
-    "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/Screenshot-2026-11-09-at-12.21.14.png",
+    "content": "Bitcoin Magazine\n\nDOJ Wins Court Authority to Seize $1.2 Billion of North Korea’s Stolen Binance Crypto as Freezes Top $2.7 Billion\nThe DOJ won court authority to seize $1.2 billion of North Korea's stolen Binance crypto and took down a $400 million deepfake theft scheme.\nThis post DOJ Wins Court Authority to Seize $1.2 Billion of North Korea’s Stolen Binance Crypto as Freezes Top $2.7 Billion first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
+    "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/11/DOJ-Wins-Court-Authority-to-Seize-1.2-Billion-of-North-Koreas-Stolen-Binance-Crypto-as-Freezes-Top-2.7-Billion.jpg",
     "summary": "",
     "importance": 5
   },
   {
-    "title": "‘Milestone quarter’: Solana Company reports Q3 revenue growth driven by staking rewards",
-    "link": "https://www.theblock.co/news/business/2026-11-11-solana-company-reports-q3-revenue-growth-438448",
-    "pubDate": "Thu, 12 Nov 2026 02:25:14 +0000",
-    "source": "The Block",
+    "title": "Bitcoin Price Trades Near $71,200 After a Fresh Session Low as the 10-Year Yield Holds Above 5%",
+    "link": "https://bitcoinmagazine.com/markets/bitcoin-price-trades-near-71200-yields",
+    "pubDate": "Thu, 12 Nov 2026 23:52:59 +0000",
+    "source": "Bitcoin Magazine",
     "category": "crypto",
-    "content": "The digital asset treasury firm posted $3.4 million in quarterly revenue, compared with $697,000 in the same period last year.",
-    "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/solana-company-1920.png",
+    "content": "Bitcoin Magazine\n\nBitcoin Price Trades Near $71,200 After a Fresh Session Low as the 10-Year Yield Holds Above 5%\nBitcoin price traded near $71,200 Thursday evening after slipping to a fresh session low near $71,000, its weakest level since Aug. 20.\nThis post Bitcoin Price Trades Near $71,200 After a Fresh Session Low as the 10-Year Yield Holds Above 5% first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
+    "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/09/Pics-17.jpg",
     "summary": "",
     "importance": 5
   },
   {
-    "title": "Nvidia perps plunge 10% on Hyperliquid as board reportedly weighs ousting Jensen Huang",
-    "link": "https://www.theblock.co/news/business/2026-11-11-nvidia-perps-board-weighs-ousting-jensen-huang-438447",
-    "pubDate": "Thu, 12 Nov 2026 02:23:45 +0000",
-    "source": "The Block",
+    "title": "Jane Street Lifts Its Strategy (MSTR) Stake 54% to 4.1 Million Shares",
+    "link": "https://bitcoinmagazine.com/news/jane-street-lifts-strategy-mstr-stake",
+    "pubDate": "Thu, 12 Nov 2026 23:30:47 +0000",
+    "source": "Bitcoin Magazine",
     "category": "crypto",
-    "content": "The Wall Street Journal reported that Nvidia's board is preparing to oust CEO Jensen Huang over two extramarital affairs.",
-    "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/nvidia_jensen_huang_1920x1080.jpg",
+    "content": "Bitcoin Magazine\n\nJane Street Lifts Its Strategy (MSTR) Stake 54% to 4.1 Million Shares\nA 13F filed Thursday shows Jane Street held 4,119,097 Strategy shares as of Sept. 30, up 53.8%.\nThis post Jane Street Lifts Its Strategy (MSTR) Stake 54% to 4.1 Million Shares first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
+    "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/11/Jane-Street-Lifts-Its-Strategy-MSTR-Stake-54-to-4.1-Million-Shares.jpg",
+    "summary": "",
+    "importance": 5
+  },
+  {
+    "title": "DOJ’s Operation TorNado Arrests 354 and Seizes $234 Million in Cash and Crypto",
+    "link": "https://bitcoinmagazine.com/news/doj-europol-operation-tornado-234-million",
+    "pubDate": "Thu, 12 Nov 2026 22:35:22 +0000",
+    "source": "Bitcoin Magazine",
+    "category": "crypto",
+    "content": "Bitcoin Magazine\n\nDOJ’s Operation TorNado Arrests 354 and Seizes $234 Million in Cash and Crypto\nThe Justice Department said the sweep that ran from May 2025 to October 2026 was the sixth and most extensive JCODE action since 2018, seizing 5.7 metric tons of drugs and 209 firearms, without saying how much of the money was cryptocurrency.\nThis post DOJ’s Operation TorNado Arrests 354 and Seizes $234 Million in Cash and Crypto first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
+    "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/11/DOJs-Operation-TorNado-Arrests-354-and-Seizes-234-Million-in-Cash-and-Crypto-1.jpg",
+    "summary": "",
+    "importance": 5
+  },
+  {
+    "title": "Bitcoin Faces Two Red Years For the First Time Ever",
+    "link": "https://bitcoinmagazine.com/videos/bitcoin-faces-two-red-years-for-the-first-time-ever",
+    "pubDate": "Thu, 12 Nov 2026 22:30:06 +0000",
+    "source": "Bitcoin Magazine",
+    "category": "crypto",
+    "content": "▶\n\nBitcoin Magazine\n\nBitcoin Faces Two Red Years For the First Time Ever\nBitcoin has never posted back-to-back losing years, but 2026 could change that.\nThis post Bitcoin Faces Two Red Years For the First Time Ever first appeared on Bitcoin Magazine and is written by Patrick Green.",
+    "image": "https://img.youtube.com/vi/-6iycj8dTss/hqdefault.jpg",
+    "summary": "",
+    "importance": 5
+  },
+  {
+    "title": "Jensen Huang Steps Down: Are the Cracks Beginning to Show in Circular AI Financing",
+    "link": "https://bitcoinmagazine.com/videos/jensen-huang-steps-down-are-the-cracks-beginning-to-show-in-circular-ai-financing",
+    "pubDate": "Thu, 12 Nov 2026 21:00:13 +0000",
+    "source": "Bitcoin Magazine",
+    "category": "crypto",
+    "content": "▶\n\nBitcoin Magazine\n\nJensen Huang Steps Down: Are the Cracks Beginning to Show in Circular AI Financing\nNVIDIA CEO Jensen Huang has resigned after the company's board met to discuss possible removal, and BMTV hosts Grace Remington and Sean Hagan walk through what that means for the AI buildout.\nThis post Jensen Huang Steps Down: Are the Cracks Beginning to Show in Circular AI Financing first appeared on Bitcoin Magazine and is written by Patrick Green.",
+    "image": "https://img.youtube.com/vi/MmyeVBOsuc8/hqdefault.jpg",
     "summary": "",
     "importance": 5
   },
@@ -886,72 +938,6 @@
     "category": "crypto",
     "content": "Bitcoin Magazine\n\nIsrael Discount Bank to Let Customers Trade Bitcoin in App Starting Nov. 26\nEligible customers 18 and older can buy, hold and sell bitcoin and ether from Nov. 26, with Fireblocks custody and a six-month fee waiver.\nThis post Israel Discount Bank to Let Customers Trade Bitcoin in App Starting Nov. 26 first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
     "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/11/Israel-Discount-Bank-to-Let-Customers-Trade-Bitcoin-in-App-Starting-Nov.-26.jpg",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "JPMorgan Lifts Its Strategy (MSTR) Stake 36% and Holds $540 Million in Bitcoin ETFs",
-    "link": "https://bitcoinmagazine.com/markets/jpmorgan-lifts-strategy-mstr-stake-36",
-    "pubDate": "Thu, 12 Nov 2026 16:19:17 +0000",
-    "source": "Bitcoin Magazine",
-    "category": "crypto",
-    "content": "Bitcoin Magazine\n\nJPMorgan Lifts Its Strategy (MSTR) Stake 36% and Holds $540 Million in Bitcoin ETFs\nA 13F filed Thursday shows JPMorgan held 848,932 Strategy shares, up 36% from June, and 11.4 million IBIT shares worth $540 million at Sept. 30, weeks before MSCI's index exit.\nThis post JPMorgan Lifts Its Strategy (MSTR) Stake 36% and Holds $540 Million in Bitcoin ETFs first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
-    "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/06/JPMorgan-Bitcoin-Mining-Costs-Have-Worsened-as-BTC-Trades-Below-Production-Cost.jpg",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "Crypto Exchange Gemini Sells U.K. and EU Units to KAST for Under $10 Million",
-    "link": "https://bitcoinmagazine.com/news/gemini-said-to-sell-uk-eu-units-kast",
-    "pubDate": "Thu, 12 Nov 2026 16:07:57 +0000",
-    "source": "Bitcoin Magazine",
-    "category": "crypto",
-    "content": "Bitcoin Magazine\n\nCrypto Exchange Gemini Sells U.K. and EU Units to KAST for Under $10 Million\nA person familiar with the matter said Gemini sold its already shuttered U.K. and European operations to Singapore payments firm KAST for less than $10 million, hours before the exchange reports third-quarter results. Gemini declined to comment.\nThis post Crypto Exchange Gemini Sells U.K. and EU Units to KAST for Under $10 Million first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
-    "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/11/Crypto-Exchange-Gemini-Sells-U.K.-and-EU-Units-to-KAST-for-Under-10-Million-.jpg",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "Geopolitical Strategist: Bitcoin Is the “Third Way” Between the Dollar and Yuan",
-    "link": "https://bitcoinmagazine.com/videos/geopolitical-strategist-bitcoin-is-the-third-way-between-the-dollar-and-yuan",
-    "pubDate": "Thu, 12 Nov 2026 15:30:05 +0000",
-    "source": "Bitcoin Magazine",
-    "category": "crypto",
-    "content": "▶\n\nBitcoin Magazine\n\nGeopolitical Strategist: Bitcoin Is the “Third Way” Between the Dollar and Yuan\nVelina Tchakarova, geopolitical strategist and founder of FACE (For A Conscious Experience), argues that we're in a new Cold War and that the US and China are building two rival financial architectures.\nThis post Geopolitical Strategist: Bitcoin Is the “Third Way” Between the Dollar and Yuan first appeared on Bitcoin Magazine and is written by Patrick Green.",
-    "image": "https://img.youtube.com/vi/YSF_wkyArYY/hqdefault.jpg",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "BNY Mellon Raises Its Strive (ASST) Stake 28% to $7 Million as Monday’s 13F Deadline Nears",
-    "link": "https://bitcoinmagazine.com/news/bny-mellon-raises-strive-asst-stake-28",
-    "pubDate": "Thu, 12 Nov 2026 15:17:00 +0000",
-    "source": "Bitcoin Magazine",
-    "category": "crypto",
-    "content": "Bitcoin Magazine\n\nBNY Mellon Raises Its Strive (ASST) Stake 28% to $7 Million as Monday’s 13F Deadline Nears\nA Nov. 5 13F shows Bank of New York Mellon held 237,100 Strive shares worth $6.97 million at Sept. 30, up 51,544 shares from June, with other large filers still due Monday.\nThis post BNY Mellon Raises Its Strive (ASST) Stake 28% to $7 Million as Monday’s 13F Deadline Nears first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
-    "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/11/BNY-Mellon-Raises-Strive-ASST-Stake-28-Percent.jpg",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "Rumble (RUM) Sells Two-Thirds of Its Bitcoin as AI Cloud Business Delivers First Profitable Quarter",
-    "link": "https://bitcoinmagazine.com/news/rumble-rum-sells-two-thirds-bitcoin",
-    "pubDate": "Thu, 12 Nov 2026 14:53:00 +0000",
-    "source": "Bitcoin Magazine",
-    "category": "crypto",
-    "content": "Bitcoin Magazine\n\nRumble (RUM) Sells Two-Thirds of Its Bitcoin as AI Cloud Business Delivers First Profitable Quarter\nRUM Group held 94.68 bitcoin worth $7.9 million on Sept. 30, down from 293.14 at the end of June, as its Quake AI unit drove record revenue of $96.6 million.\nThis post Rumble (RUM) Sells Two-Thirds of Its Bitcoin as AI Cloud Business Delivers First Profitable Quarter first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
-    "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/11/Rumble-RUM-Sells-Two-Thirds-of-Its-Bitcoin-as-AI-Cloud-Business-Delivers-First-Profitable-Quarter.jpg",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "BlackRock’s IBIT Bleeds $2 Billion in Nine Straight Days of Outflows",
-    "link": "https://bitcoinmagazine.com/markets/blackrock-ibit-nine-days-outflows",
-    "pubDate": "Thu, 12 Nov 2026 14:24:00 +0000",
-    "source": "Bitcoin Magazine",
-    "category": "crypto",
-    "content": "Bitcoin Magazine\n\nBlackRock’s IBIT Bleeds $2 Billion in Nine Straight Days of Outflows\nU.S. spot bitcoin ETFs lost $299.8 million on Wednesday, their fifth straight day of outflows, with BlackRock's IBIT accounting for $269.7 million and about 94% of November's withdrawals.\nThis post BlackRock’s IBIT Bleeds $2 Billion in Nine Straight Days of Outflows first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
-    "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/11/BlackRock-IBIT-Nine-Day-Outflow-Streak.jpg",
     "summary": "",
     "importance": 5
   },
@@ -1061,6 +1047,28 @@
     "source": "MIT Technology Review",
     "category": "ai",
     "content": "As companies look to accelerate innovation with artificial intelligence, cloud computing, and advanced modeling, the primary challenge is connecting new technologies to reliable data, scientific expertise, and the practical realities of bringing products to market. For specialty chemicals manufacturer Lubrizol, digital transformation is all about giving researchers the tools to test ideas faster, make better-informed…",
+    "image": "",
+    "summary": "",
+    "importance": 5
+  },
+  {
+    "title": "Democrats launch Nvidia investigation, write scathing letter on Huang’s ‘scheme’ with Trump",
+    "link": "https://techcrunch.com/2026/11/12/democrats-launch-nvidia-investigation-write-scathing-letter-on-huangs-scheme-with-trump/",
+    "pubDate": "Thu, 12 Nov 2026 22:42:51 +0000",
+    "source": "TechCrunch AI",
+    "category": "ai",
+    "content": "This Congressional investigation into Nvidia's China sales and its dealings with Trump is the second one, so far, since news of the alleged spy affair broke.",
+    "image": "",
+    "summary": "",
+    "importance": 5
+  },
+  {
+    "title": "Muse can now place calls to US businesses — if you pay",
+    "link": "https://techcrunch.com/2026/11/12/muse-can-now-place-calls-to-u-s-businesses-if-you-pay/",
+    "pubDate": "Thu, 12 Nov 2026 22:22:28 +0000",
+    "source": "TechCrunch AI",
+    "category": "ai",
+    "content": "Muse's AI can now place outbound calls to U.S. businesses — but it's not free.",
     "image": "",
     "summary": "",
     "importance": 5
@@ -1264,24 +1272,13 @@
     "importance": 5
   },
   {
-    "title": "Nvidia’s stock drops as board reportedly preps to oust CEO Jensen Huang",
-    "link": "https://techcrunch.com/2026/11/11/nvidias-stock-drops-as-board-reportedly-preps-to-oust-ceo-jensen-huang/",
-    "pubDate": "Wed, 11 Nov 2026 23:28:45 +0000",
-    "source": "TechCrunch AI",
+    "title": "Google’s new Gemini model is better at understanding complicated questions",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1032505/google-search-ai-mode-gemini-4-hydrogen",
+    "pubDate": "2026-11-12T21:55:32.000Z",
+    "source": "The Verge AI",
     "category": "ai",
-    "content": "As soon as Wednesday evening, Nvidia's board could decide to remove its founder and CEO of 33 years.",
-    "image": "",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "Jensen Huang accused of having another affair — with an Nvidia exec",
-    "link": "https://techcrunch.com/2026/11/11/jensen-huang-accused-of-having-another-affair-with-a-nvidia-exec/",
-    "pubDate": "Wed, 11 Nov 2026 23:17:05 +0000",
-    "source": "TechCrunch AI",
-    "category": "ai",
-    "content": "Jensen Huang, who has come under fire for admitting to an affair with a woman accused of being a Chinese intelligence agent, has been accused of having a separate affair with an Nvidia subordinate.",
-    "image": "",
+    "content": "Google says its new Gemini 4 Hydrogen model can give more helpful answers to complex questions, including \"questions with multiple parts, hard-to-understand typos, or highly specific requests.\" The new model can break down your questions and address each part in its responses. It's available starting today in search, the Gemini app, all tiers of Google AI Studio, the Gemini API, Gemini for business, and in Google Antigravity for Google AI Pro and Ultra subscribers. Robby Stein, VP of product at Google Search, says it's \"now the new default model in AI Mode & being used for your hardest questions in AI Overviews.\"\nGoogle says Gemini 4 Hydrog …\nRead the full story at The Verge.",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25290329/STK255_Google_Gemini_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
     "summary": "",
     "importance": 5
   },
@@ -1368,7 +1365,7 @@
     "pubDate": "2026-11-12T15:01:31.000Z",
     "source": "The Verge AI",
     "category": "ai",
-    "content": "After the leather-jacketed CEO, president, and co-founder of Nvidia, Jensen Huang, acknowledged an affair with Megaspeed exec Alice Huang, his company initially announced an investigation. However, The New York Times reported on Wednesday that there was evidence of another affair, this time with an Nvidia executive who reported directly to him. A board meeting that night ended with Huang’s resignation, and Nvidia CFO Colette Kress was installed as the new interim CEO.\nRecent reporting noted that since last year, US intelligence reports had identified Alice Huang (no relation) as not only the exec for an AI compute company renting access to Nvidia GPUs, but also a spy for China’s Ministry of State Security. The second report focused on Huang and Nvidia vice president of healthcare Kimberly Powell, claiming that a bystander who recorded the two being “affectionate” at the hotel hosting Nvidia’s GTC developer conference in May was met by Huang’s security workers and asked to sign a non-disclosure agreement.\nIn recent years, Nvidia has become a key part of the Trump administration’s AI push, a central figure in negotiations over potential Chinese access to cutting-edge AI hardware, and a company that has used its now $4 trillion-plus market cap to finance other AI companies, including the “neoclouds” like Coreweave who have been some of its biggest customers. \n\n\n\t\t\t\t\t\nJensen Huang will still need to answer to Congress despite his resignation, Schumer says.\n\t\t\t\nJensen Huang is out. What did China want from him?\n\t\t\t\nDonald Trump says Tim Cook should replace Jensen Huang.\n\t\t\t\nRead Nvidia’s internal emails about the ‘extraordinarily difficult period’ amid CEO shakeup\n\t\t\t\nEven Jensen Huang’s jackets aren’t safe from adulteration.\n\t\t\t\nAOC chimes in on the Nvidia CEO scandal.\n\t\t\t\nIf Jensen Huang is done at Nvidia, who will be the next CEO? Johny Srouji?\n\t\t\t\nNvidia is reportedly preparing to fire Jensen Huang\n\t\t\t\nWhen I asked who else Jensen Huang was fucking, I did not expect to get answers so quickly.\n\t\t\t\nJensen Huang’s affair reportedly has Taiwan and US cabinet officials rattled.\n\t\t\t\nNvidia hires the same law firm that investigated the Clippers to look into Jensen Huang’s spy.\n\t\t\t\nThe US is winning the AI race. Jensen Huang could have blown it\n\t\t\t\nWhat could China get from Jensen Huang?\n\t\t\t\nHere’s what Trump said he knew about Jensen Huang\n\t\t\t\nThe future of AI hinges on… Jensen Huang’s sex life?\n\t\t\t\nHere’s the full text of Jensen Huang’s memo to Nvidia\n\t\t\t\nNvidia is investigating Jensen Huang’s relationship with an alleged Chinese spy\n\t\t\t\nChina reportedly recruited AI exec to spy on Jensen Huang",
+    "content": "After the leather-jacketed CEO, president, and co-founder of Nvidia, Jensen Huang, acknowledged an affair with Megaspeed exec Alice Huang, his company initially announced an investigation. However, The New York Times reported on Wednesday that there was evidence of another affair, this time with an Nvidia executive who reported directly to him. \nA board meeting that night ended with Huang’s resignation, and Nvidia CFO Colette Kress was installed as the new interim CEO.\n\nRecent reporting noted that since last year, US intelligence reports had identified Alice Huang (no relation) as not only the exec for an AI compute company renting access to Nvidia GPUs, but also a spy for China’s Ministry of State Security. The second report focused on Huang and Nvidia vice president of healthcare Kimberly Powell, claiming that a bystander who recorded the two being “affectionate” at the hotel hosting Nvidia’s GTC developer conference in May was met by Huang’s security workers and asked to sign a non-disclosure agreement.\nIn recent years, Nvidia has become a key part of the Trump administration’s AI push, a central figure in negotiations over potential Chinese access to cutting-edge AI hardware, and a company that has used its now $4 trillion-plus market cap to finance other AI companies, including the “neoclouds” like Coreweave who have been some of its biggest customers. \n\n\n\t\t\t\t\t\nDonald Trump really wants Tim Cook to run Nvidia\n\t\t\t\n‘It’s a mistake’: reactions from tech leaders on Jensen Huang’s resignation\n\t\t\t\nReuters: Jensen Huang had an “intimate relationship” with another Nvidia employee too.\n\t\t\t\nJensen Huang will still need to answer to Congress despite his resignation, Schumer says.\n\t\t\t\nToday’s Vergecast: Jensen Huang resigns, and our HomeView review.\n\t\t\t\nThe Jensen Huang scandal is hardly over\n\t\t\t\nJensen Huang is out. What did China want from him?\n\t\t\t\nDonald Trump says Tim Cook should replace Jensen Huang.\n\t\t\t\nRead Nvidia’s internal emails about the ‘extraordinarily difficult period’ amid CEO shakeup\n\t\t\t\nNvidia CEO Jensen Huang resigns amid spy, affair scandals\n\t\t\t\nEven Jensen Huang’s jackets aren’t safe from adulteration.\n\t\t\t\nAOC chimes in on the Nvidia CEO scandal.\n\t\t\t\nIf Jensen Huang is done at Nvidia, who will be the next CEO? Johny Srouji?\n\t\t\t\nNvidia is reportedly preparing to fire Jensen Huang\n\t\t\t\nWhen I asked who else Jensen Huang was fucking, I did not expect to get answers so quickly.\n\t\t\t\nJensen Huang’s affair reportedly has Taiwan and US cabinet officials rattled.\n\t\t\t\nNvidia hires the same law firm that investigated the Clippers to look into Jensen Huang’s spy.\n\t\t\t\nThe US is winning the AI race. Jensen Huang could have blown it\n\t\t\t\nWhat could China get from Jensen Huang?\n\t\t\t\nHere’s what Trump said he knew about Jensen Huang\n\t\t\t\nThe future of AI hinges on… Jensen Huang’s sex life?\n\t\t\t\nHere’s the full text of Jensen Huang’s memo to Nvidia\n\t\t\t\nNvidia is investigating Jensen Huang’s relationship with an alleged Chinese spy\n\t\t\t\nChina reportedly recruited AI exec to spy on Jensen Huang\n\t\t\t\nHere’s Jensen Huang signing a woman’s chest",
     "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STKP210_JENSEN_HUANG_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
     "summary": "",
     "importance": 5
@@ -1385,13 +1382,13 @@
     "importance": 5
   },
   {
-    "title": "Nvidia CEO Jensen Huang resigns amid spy, affair scandals",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1031689/jensen-huang-nvidia-ceo-resigns",
-    "pubDate": "2026-11-12T13:53:16.000Z",
-    "source": "The Verge AI",
+    "title": "FAA expands AI advice to manage air traffic congestion across entire US airspace",
+    "link": "https://arstechnica.com/ai/2026/11/faa-expands-ai-advice-to-manage-air-traffic-congestion-across-entire-us-airspace/",
+    "pubDate": "Thu, 12 Nov 2026 22:28:47 +0000",
+    "source": "Ars Technica AI",
     "category": "ai",
-    "content": "Jensen Huang at GTC Berlin last month. | Photo: Soeren Stache / picture alliance via Getty Images\t\n\nNvidia's board announced that Jensen Huang - its longtime co-founder, president, and CEO - has resigned after reports of two extramarital affairs, one with an alleged Chinese spy and one with an Nvidia executive who reported to Huang. Following a late Wednesday night meeting, the board accepted Huang's letter of resignation as CEO, president, and board member, effective immediately, with current CFO Colette Kress appointed interim CEO. Kress has been with Nvidia since 2013, with previous stops at Cisco and Microsoft.\nNvidia is also changing its corporate structure in Huang's absence, appointing former Synopsys CEO Harvey C. Jones as the fir …\nRead the full story at The Verge.",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2301620664.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "content": "Airlines praised the AI tool, but the air traffic controllers’ union wasn’t involved.",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Pilots-during-DFW-departure-1152x648.jpg",
     "summary": "",
     "importance": 5
   },
@@ -1605,17 +1602,6 @@
     "importance": 5
   },
   {
-    "title": "Big Tech claims voters’ AI backlash is “anti-Trump” not “anti-tech”",
-    "link": "https://arstechnica.com/tech-policy/2026/11/big-tech-claims-voters-ai-backlash-is-anti-trump-not-anti-tech/",
-    "pubDate": "Wed, 04 Nov 2026 20:55:50 +0000",
-    "source": "Ars Technica AI",
-    "category": "ai",
-    "content": "Tech industry in denial as US overwhelmingly votes to restrict AI, data centers.",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2302983449-1024x648.jpg",
-    "summary": "",
-    "importance": 5
-  },
-  {
     "title": "The next Congress will write rules for AI and emerging tech. They should use the stuff first.",
     "link": "https://www.coindesk.com/opinion/2026/11/12/the-next-congress-will-write-rules-for-ai-and-emerging-tech-they-should-use-the-stuff-first",
     "pubDate": "Thu, 12 Nov 2026 14:24:51 +0000",
@@ -1625,6 +1611,18 @@
     "image": "https://cdn.sanity.io/images/s3y3vcno/production/71aa7b9f25a4f710d01629112fe1ac64f37bf6b8-5442x3628.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
     "summary": "The article suggests that policymakers should personally experience artificial intelligence and other emerging technologies before regulating them. Allie Page, executive director of American Innovation Project, argues that industry leaders should facilitate this firsthand exposure for lawmakers.",
     "importance": 4,
+    "classified": true
+  },
+  {
+    "title": "U.S. President Trump names CFTC, SEC nominees for first time in a year",
+    "link": "https://www.coindesk.com/policy/2026/11/12/u-s-president-names-cftc-sec-nominees-for-first-time-in-a-year",
+    "pubDate": "Thu, 12 Nov 2026 22:47:41 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "U.S. President Donald Trump has named two potential commissioners each to the Securities and Exchange Commission and Commodity Futures Trading Commission.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/4d9fac63bf692475387cdfb0b3e58fb851370fe8-4032x3024.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "summary": "President Donald Trump has nominated four individuals, two each, to serve as commissioners for the Securities and Exchange Commission (SEC) and the Commodity Futures Trading Commission (CFTC). These appointments fill vacancies that have existed for a year on these key financial regulatory bodies.",
+    "importance": 2,
     "classified": true
   }
 ]
