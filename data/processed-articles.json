@@ -48,15 +48,27 @@
     "classified": true
   },
   {
-    "title": "Ethereum researchers drop faster blocks to race toward quantum defenses in 2027",
-    "link": "https://www.coindesk.com/tech/2026/11/12/ethereum-researchers-drop-faster-blocks-to-race-toward-quantum-defenses-in-2027",
-    "pubDate": "Thu, 12 Nov 2026 11:43:41 +0000",
+    "title": "Satoshi-era wallet served in a $260 billion lawsuit moves 75 BTC it held since 2011",
+    "link": "https://www.coindesk.com/markets/2026/11/13/satoshi-era-wallet-served-in-a-usd260-billion-lawsuit-moves-75-btc-it-held-since-2011",
+    "pubDate": "Sat, 14 Nov 2026 04:30:00 +0000",
     "source": "CoinDesk",
     "category": "crypto",
-    "content": "Ethlabs wants quantum-resistant accounts targeted for next year, even if wallet holders still have to switch signing methods themselves.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/c357579ddef2051b405b9e89f8525dd02709081d-5760x3240.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-    "summary": "Ethereum researchers are accelerating efforts to develop quantum-resistant accounts, targeting implementation as early as next year. This initiative, led by Ethlabs, aims to bolster defenses against future quantum computing threats, though wallet holders will likely need to update their signing methods.",
-    "importance": 9,
+    "content": "The roughly $5 million transfer also spent the tiny payment used to deliver a court notice to the address in May.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/1015dde522ef326b0be42591a52370d74f450a3f-6070x4047.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "summary": "A Satoshi-era Bitcoin wallet, which had been dormant since 2011 and was involved in a $260 billion lawsuit, recently moved 75 BTC valued at approximately $5 million. The transfer also spent a small payment that was sent to the address in May to deliver a court notice.",
+    "importance": 8,
+    "classified": true
+  },
+  {
+    "title": "Bitcoin miners pay Paraguay $350 million a year, but AI is pushing them out",
+    "link": "https://www.coindesk.com/tech/2026/11/13/bitcoin-miners-pay-paraguay-usd350-million-a-year-but-ai-is-pushing-them-out",
+    "pubDate": "Fri, 13 Nov 2026 23:30:00 +0000",
+    "source": "CoinDesk",
+    "category": "both",
+    "content": "Contracts that sell power to a 4% slice of the world’s bitcoin mining at $44 a megawatt-hour expire on Dec. 31, 2027. Paraguay’s state utility calls the date final, and it has just signed a 15-year deal to power a Founders Fund-backed AI campus.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/e48e3a851a85964cf01b2cf00f38b3063685e0e8-800x508.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "summary": "Paraguay's state utility is ending power contracts for Bitcoin miners by late 2027, despite their substantial $350 million annual contribution, to make way for a new 15-year deal to power a Founders Fund-backed AI campus. This move signals a significant shift in energy allocation, prioritizing AI over cryptocurrency mining. The impending expiration impacts 4% of the world's Bitcoin mining capacity.",
+    "importance": 8,
     "classified": true
   },
   {
@@ -144,6 +156,30 @@
     "classified": true
   },
   {
+    "title": "OpenAI launches AI payments in ChatGPT with Visa, Mastercard and Amex",
+    "link": "https://cointelegraph.com/news/openai-ai-payments-chatgpt-wallet-visa-mastercard-amex?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Fri, 13 Nov 2026 22:01:03 +0000",
+    "source": "Cointelegraph",
+    "category": "ai",
+    "content": "OpenAI’s new payment wallet lets AI agents complete purchases using existing card networks, with plans to eventually allow preauthorized transactions.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7BD90N5TZ75ZZMC6V10AW2D/hi-what-is-elon-musk-and-openai.png",
+    "summary": "OpenAI has introduced a new payment wallet within ChatGPT, enabling AI agents to complete purchases directly using existing card networks like Visa, Mastercard, and Amex. The feature aims to streamline AI-driven transactions, with future plans to support preauthorized payments.",
+    "importance": 8,
+    "classified": true
+  },
+  {
+    "title": "Adam Back makes case for simpler security as Blockstream launches Bitcoin custody system",
+    "link": "https://cointelegraph.com/news/adam-back-simpler-security-blockstream-bitcoin-custody-system?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Fri, 13 Nov 2026 21:49:27 +0000",
+    "source": "Cointelegraph",
+    "category": "crypto",
+    "content": "Blockstream’s new custody system, developed with Thales, uses dedicated hardware for transaction signing as Adam Back advocates for offline security to reduce cyber risks.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7BCCR5CYZHHWDA4BH24H4DA/portraitadam-back.png",
+    "summary": "Blockstream, in collaboration with Thales, has launched a new Bitcoin custody system that utilizes dedicated hardware for transaction signing. Adam Back, a prominent figure in the crypto space, advocates for this approach, emphasizing offline security to mitigate cyber risks.",
+    "importance": 8,
+    "classified": true
+  },
+  {
     "title": "US regulators move ahead on crypto trust charters as Senate scrutiny grows",
     "link": "https://cointelegraph.com/news/us-regulators-crypto-trust-charters-senate-scrutiny-grows?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "pubDate": "Fri, 13 Nov 2026 20:53:20 +0000",
@@ -216,18 +252,6 @@
     "classified": true
   },
   {
-    "title": "Bitcoin dips with Nvidia as ETF outflows reach day five",
-    "link": "https://www.coindesk.com/markets/2026/11/12/bitcoin-dips-with-nvidia-as-etf-outflows-reach-day-five",
-    "pubDate": "Thu, 12 Nov 2026 11:30:00 +0000",
-    "source": "CoinDesk",
-    "category": "both",
-    "content": "Bitcoin slips 0.7% as Nvidia falls on reports its board may oust CEO Jensen Huang, while U.S. spot bitcoin ETFs lose another $299.9 million.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/128bc68b867f06109625c6eae927136864633702-1920x1080.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-    "summary": "Bitcoin experienced a 0.7% dip, influenced by a decline in Nvidia's stock due to rumors of its CEO potentially being ousted. Concurrently, U.S. spot bitcoin ETFs recorded their fifth straight day of outflows, losing an additional $299.9 million.",
-    "importance": 7,
-    "classified": true
-  },
-  {
     "title": "Kraken parent Payward gains market share as slower trading weighs on earnings",
     "link": "https://cointelegraph.com/news/kraken-parent-payward-gains-market-share-slower-trading-earnings?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "pubDate": "Fri, 13 Nov 2026 21:01:39 +0000",
@@ -252,6 +276,42 @@
     "classified": true
   },
   {
+    "title": "Arthur Hayes ‘flattered’ as Coinbase backs US stock perps",
+    "link": "https://cointelegraph.com/news/arthur-hayes-coinbase-us-stock-perps-cftc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Fri, 13 Nov 2026 13:41:26 +0000",
+    "source": "Cointelegraph",
+    "category": "crypto",
+    "content": "Arthur Hayes said he was “flattered” by Coinbase’s defense of US stock perpetual futures, a decade after BitMEX launched perpetual swaps.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5YN0CT8F4HNHWRJS1ST7JTJ/arthur-hayes.jpg",
+    "summary": "Arthur Hayes expressed flattery over Coinbase's recent defense of US stock perpetual futures. This comes a decade after BitMEX, a platform Hayes co-founded, pioneered perpetual swaps, highlighting a shift in the mainstream discussion of such financial products.",
+    "importance": 7,
+    "classified": true
+  },
+  {
+    "title": "Israeli police arrest five in $5M WhatsApp crypto trading probe",
+    "link": "https://cointelegraph.com/news/israel-police-arrest-five-5m-whatsapp-crypto-scheme?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Fri, 13 Nov 2026 12:19:01 +0000",
+    "source": "Cointelegraph",
+    "category": "crypto",
+    "content": "Police suspect the group drew up fictitious loan agreements to disguise crypto trading proceeds it transferred directly into bank accounts.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7A9KC13WNDH9B0FYB99Y1X5/hi-fundraising-101-a-beginners-guide-on-raising-funds-using-cryptocurrencies-israel.jpg",
+    "summary": "Israeli police have arrested five individuals suspected of operating a $5 million illegal crypto trading scheme via WhatsApp. The group allegedly used fictitious loan agreements to disguise the proceeds from their cryptocurrency trades, which were then transferred directly into bank accounts.",
+    "importance": 7,
+    "classified": true
+  },
+  {
+    "title": "Unocoin keeps deposits and withdrawals halted over suspect transfers",
+    "link": "https://cointelegraph.com/news/unocoin-withdrawals-halted-bitgo-wallet-transfer-probe?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Fri, 13 Nov 2026 09:58:21 +0000",
+    "source": "Cointelegraph",
+    "category": "crypto",
+    "content": "Unocoin said the transfers were signed and broadcast outside BitGo’s platform, and BitGo said the account freeze worked as intended.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M27X18G5K0AARQBBJ0SYKFK0/regulations-india-crypto.jpg",
+    "summary": "Unocoin has halted deposits and withdrawals following suspect transfers that were reportedly signed and broadcast outside of BitGo's platform. BitGo stated that its account freeze mechanism worked as intended during this incident.",
+    "importance": 7,
+    "classified": true
+  },
+  {
     "title": "Kalshi ends Donald Trump Jr.’s advisory contract over 1789 Capital’s Polymarket investment",
     "link": "https://www.coindesk.com/policy/2026/11/12/kalshi-ends-donald-trump-jr-s-advisory-contract-over-1789-capital-s-polymarket-investment",
     "pubDate": "Thu, 12 Nov 2026 21:07:49 +0000",
@@ -272,6 +332,18 @@
     "content": "",
     "image": "https://cdn.sanity.io/images/s3y3vcno/production/71e9ecff689d1bfd457b3245a48354a150758b49-7680x4320.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
     "summary": "This article introduces a specialized blockchain platform engineered to operate financial markets. It appears to be targeted at financial advisors, outlining how this technology can be integrated into traditional financial systems.",
+    "importance": 6,
+    "classified": true
+  },
+  {
+    "title": "Nakamoto shares fall 6% premarket after Q3 revenue turns negative",
+    "link": "https://cointelegraph.com/markets/nakamoto-shares-fall-after-negative-q3-revenue?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Fri, 13 Nov 2026 13:04:19 +0000",
+    "source": "Cointelegraph",
+    "category": "crypto",
+    "content": "A $5.8 million Bitcoin options loss pushed Nakamoto’s quarterly operating revenue below zero, while the company extended repayment of $60 million in Kraken debt to 2027.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1Y8ZNSF5WMPGFQ1661WSGAG/hi-why-bitcoin-treasury-stocks-fall-faster-than-the-assets-they-hold-2.jpg",
+    "summary": "Nakamoto's third-quarter operating revenue fell below zero following a $5.8 million loss from Bitcoin options. The company also pushed back the repayment of its $60 million debt to Kraken until 2027.",
     "importance": 6,
     "classified": true
   },
@@ -302,7 +374,7 @@
   {
     "title": "Here’s what happened in crypto today",
     "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Fri, 13 Nov 2026 13:49:44 +0000",
+    "pubDate": "Fri, 13 Nov 2026 22:08:37 +0000",
     "source": "Cointelegraph",
     "category": "crypto",
     "content": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
@@ -310,50 +382,6 @@
     "summary": "This article serves as a daily briefing on the cryptocurrency market, offering an overview of the latest trends and events. It covers various aspects including Bitcoin price movements, developments in blockchain, DeFi, Web3, and crypto regulation.",
     "importance": 5,
     "classified": true
-  },
-  {
-    "title": "Arthur Hayes ‘flattered’ as Coinbase backs US stock perps",
-    "link": "https://cointelegraph.com/news/arthur-hayes-coinbase-us-stock-perps-cftc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Fri, 13 Nov 2026 13:41:26 +0000",
-    "source": "Cointelegraph",
-    "category": "crypto",
-    "content": "Arthur Hayes said he was “flattered” by Coinbase’s defense of US stock perpetual futures, a decade after BitMEX launched perpetual swaps.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5YN0CT8F4HNHWRJS1ST7JTJ/arthur-hayes.jpg",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "Nakamoto shares fall 6% premarket after Q3 revenue turns negative",
-    "link": "https://cointelegraph.com/markets/nakamoto-shares-fall-after-negative-q3-revenue?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Fri, 13 Nov 2026 13:04:19 +0000",
-    "source": "Cointelegraph",
-    "category": "crypto",
-    "content": "A $5.8 million Bitcoin options loss pushed Nakamoto’s quarterly operating revenue below zero, while the company extended repayment of $60 million in Kraken debt to 2027.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1Y8ZNSF5WMPGFQ1661WSGAG/hi-why-bitcoin-treasury-stocks-fall-faster-than-the-assets-they-hold-2.jpg",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "Israeli police arrest five in $5M WhatsApp crypto trading probe",
-    "link": "https://cointelegraph.com/news/israel-police-arrest-five-5m-whatsapp-crypto-scheme?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Fri, 13 Nov 2026 12:19:01 +0000",
-    "source": "Cointelegraph",
-    "category": "crypto",
-    "content": "Police suspect the group drew up fictitious loan agreements to disguise crypto trading proceeds it transferred directly into bank accounts.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7A9KC13WNDH9B0FYB99Y1X5/hi-fundraising-101-a-beginners-guide-on-raising-funds-using-cryptocurrencies-israel.jpg",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "Unocoin keeps deposits and withdrawals halted over suspect transfers",
-    "link": "https://cointelegraph.com/news/unocoin-withdrawals-halted-bitgo-wallet-transfer-probe?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Fri, 13 Nov 2026 09:58:21 +0000",
-    "source": "Cointelegraph",
-    "category": "crypto",
-    "content": "Unocoin said the transfers were signed and broadcast outside BitGo’s platform, and BitGo said the account freeze worked as intended.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M27X18G5K0AARQBBJ0SYKFK0/regulations-india-crypto.jpg",
-    "summary": "",
-    "importance": 5
   },
   {
     "title": "Bitcoin returns to 200-week trend line as analyst sees risk of $57.7K next",
@@ -561,28 +589,6 @@
     "category": "crypto",
     "content": "Crypto hackers stole $8.7 billion so far in 2026, surpassing the projected annual onchain revenue generated across the industry, according to ARK’s research director.",
     "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1P1ZHH851JBMYW8FC0YFCV0/hi-top-crypto-hacks-and-scams-to-beware-of-in-october-2024.jpg",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "Are Alt-L1s over? Security, costs drive smaller chains to Ethereum",
-    "link": "https://cointelegraph.com/magazine/are-alt-l1s-over-security-costs-drive-smaller-chains-to-ethereum?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Thu, 12 Nov 2026 13:30:00 +0000",
-    "source": "Cointelegraph",
-    "category": "crypto",
-    "content": "L1 blockchains Zilliqa, Gnosis and Ronin join the Ethereum ecosystem as the costs of going it alone grow, and the security and liquidity advantages become too hard to resist.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M75B6EF6HGNZVZQ0Z43SYG66/magazineback-to-ethereum-1.jpg",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "Uber’s UK banking partner Griffin raises $20M for stablecoin services",
-    "link": "https://cointelegraph.com/news/digital-bank-griffin-100m-valuation-card-stablecoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Thu, 12 Nov 2026 13:21:56 +0000",
-    "source": "Cointelegraph",
-    "category": "crypto",
-    "content": "The Series B valued Griffin at more than $100 million and will help fund stablecoin reserve services and onchain cross-border payments.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M77X80E70Q4QE80S3V89N4XY/hi-ceo-of-firm-that-blocked-customer-crypto-owns-25000-btc-may-be-liable2.jpg",
     "summary": "",
     "importance": 5
   },
@@ -807,6 +813,17 @@
     "importance": 5
   },
   {
+    "title": "Joe Carlasare on “Extreme Fear” in Bitcoin: “I’m A Buyer Here”",
+    "link": "https://bitcoinmagazine.com/videos/joe-carlasare-on-extreme-fear-in-bitcoin-im-a-buyer-here",
+    "pubDate": "Fri, 13 Nov 2026 21:00:18 +0000",
+    "source": "Bitcoin Magazine",
+    "category": "crypto",
+    "content": "▶\n\nBitcoin Magazine\n\nJoe Carlasare on “Extreme Fear” in Bitcoin: “I’m A Buyer Here”\nBitcoin went from 57,000 to 82,000 in less than 90 days earlier this year, and Joe Carlasare says that's why he rejects the idea that capital can't flood back in.\nThis post Joe Carlasare on “Extreme Fear” in Bitcoin: “I’m A Buyer Here” first appeared on Bitcoin Magazine and is written by Patrick Green.",
+    "image": "https://img.youtube.com/vi/QlieBet41X0/hqdefault.jpg",
+    "summary": "",
+    "importance": 5
+  },
+  {
     "title": "Bill Miller IV: “They’re Not Printing More Bitcoin”",
     "link": "https://bitcoinmagazine.com/videos/bill-miller-iv-theyre-not-printing-more-bitcoin",
     "pubDate": "Fri, 13 Nov 2026 20:00:39 +0000",
@@ -902,17 +919,6 @@
     "category": "crypto",
     "content": "Bitcoin Magazine\n\nDOJ Wins Court Authority to Seize $1.2 Billion of North Korea’s Stolen Binance Crypto as Freezes Top $2.7 Billion\nThe DOJ won court authority to seize $1.2 billion of North Korea's stolen Binance crypto and took down a $400 million deepfake theft scheme.\nThis post DOJ Wins Court Authority to Seize $1.2 Billion of North Korea’s Stolen Binance Crypto as Freezes Top $2.7 Billion first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
     "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/11/DOJ-Wins-Court-Authority-to-Seize-1.2-Billion-of-North-Koreas-Stolen-Binance-Crypto-as-Freezes-Top-2.7-Billion.jpg",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "Bitcoin Price Trades Near $71,200 After a Fresh Session Low as the 10-Year Yield Holds Above 5%",
-    "link": "https://bitcoinmagazine.com/markets/bitcoin-price-trades-near-71200-yields",
-    "pubDate": "Thu, 12 Nov 2026 23:52:59 +0000",
-    "source": "Bitcoin Magazine",
-    "category": "crypto",
-    "content": "Bitcoin Magazine\n\nBitcoin Price Trades Near $71,200 After a Fresh Session Low as the 10-Year Yield Holds Above 5%\nBitcoin price traded near $71,200 Thursday evening after slipping to a fresh session low near $71,000, its weakest level since Aug. 20.\nThis post Bitcoin Price Trades Near $71,200 After a Fresh Session Low as the 10-Year Yield Holds Above 5% first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
-    "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/09/Pics-17.jpg",
     "summary": "",
     "importance": 5
   },
@@ -1027,6 +1033,17 @@
     "importance": 5
   },
   {
+    "title": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
+    "link": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/",
+    "pubDate": "Fri, 13 Nov 2026 22:43:00 +0000",
+    "source": "TechCrunch AI",
+    "category": "ai",
+    "content": "Nvidia poured tens of billions into AI startups under Huang. Without him at the helm, founders and VCs are bracing for smaller checks and lower valuations.",
+    "image": "",
+    "summary": "",
+    "importance": 5
+  },
+  {
     "title": "AI agent startup LangChain hits $3B valuation",
     "link": "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/",
     "pubDate": "Fri, 13 Nov 2026 19:37:57 +0000",
@@ -1038,7 +1055,7 @@
     "importance": 5
   },
   {
-    "title": "Export-banned Nvidia chips are behind China’s most powerful AI models — uh oh, Jensen!",
+    "title": "Export-banned Nvidia chips are behind China’s most powerful AI models — uh-oh, Jensen!",
     "link": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/",
     "pubDate": "Fri, 13 Nov 2026 18:40:30 +0000",
     "source": "TechCrunch AI",
@@ -1236,13 +1253,13 @@
     "importance": 5
   },
   {
-    "title": "Five ways Jensen Huang’s ouster from Nvidia could damage the AI industry",
-    "link": "https://techcrunch.com/2026/11/12/five-ways-jensen-huangs-ouster-from-nvidia-could-damage-the-ai-industry/",
-    "pubDate": "Thu, 12 Nov 2026 16:32:33 +0000",
-    "source": "TechCrunch AI",
+    "title": "Amazon has a plan to index the world’s online shopping data",
+    "link": "https://www.theverge.com/tech/1033697/amazon-world-product-graph-ai-search",
+    "pubDate": "2026-11-13T23:49:11.000Z",
+    "source": "The Verge AI",
     "category": "ai",
-    "content": "Nvidia's ousted CEO Jensen Huang's downfall isn’t just your run-of-the-mill salacious billionaire sex scandal. He was using his influence to push the AI industry in some very specific ways.",
-    "image": "",
+    "content": "Amazon has plans to build a vault of data on every product sold anywhere on the internet, even products Amazon doesn't sell, and make the information available through its own site, according to Reuters. The project, called the \"World Product Graph,\" is meant to make it less likely that shoppers leave Amazon to do their product research on Reddit or Google, and make it more likely shoppers end up at Amazon even if they're searching for a product sold elsewhere. The same goes for AI agents - if Amazon has the largest stockpile of shopping data, AI agents may rely on its index of products over others, so even people shopping with bots will end …\nRead the full story at The Verge.",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/acastro_STK103__03.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
     "summary": "",
     "importance": 5
   },
@@ -1346,35 +1363,24 @@
     "importance": 5
   },
   {
-    "title": "More game developers are starting to use generative AI",
-    "link": "https://www.theverge.com/games/1032085/gdc-festival-of-gaming-annual-survey-ai-layoffs",
-    "pubDate": "2026-11-12T17:00:00.000Z",
-    "source": "The Verge AI",
+    "title": "FAA expands AI advice to manage air traffic congestion across entire US airspace",
+    "link": "https://arstechnica.com/features/2026/11/faa-expands-ai-advice-to-manage-air-traffic-congestion-across-entire-us-airspace/",
+    "pubDate": "Fri, 13 Nov 2026 21:20:47 +0000",
+    "source": "Ars Technica AI",
     "category": "ai",
-    "content": "A photo from the GDC Festival of Gaming 2026 event.\t\n\nMore video game developers are using generative AI tools in their jobs compared to last year, according to the GDC Festival of Gaming's latest annual industry survey. Forty percent of developers surveyed say they use it \"as part of their job,\" an increase from 36 percent in 2025. Usage was higher with game developers that work on free-to-play games at 58 percent and mobile-only studio workers at 70 percent.\nThe survey is being published as the game industry continues to reckon with generative AI tools. While many game developers, particularly indie developers, have spoken out strongly against the technology, AI is at the center of indie awa …\nRead the full story at The Verge.",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/55145037587_ac59503045_k.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "content": "Airlines praised the AI tool, but the air traffic controllers’ union wasn’t involved.",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Pilots-during-DFW-departure-1152x648.jpg",
     "summary": "",
     "importance": 5
   },
   {
     "title": "OpenAI board member worries an AI \"takeover\" of society could be months away",
-    "link": "https://arstechnica.com/features/2026/11/ai-is-the-most-likely-reason-youll-die-openai-board-member-warns/",
+    "link": "https://arstechnica.com/ai/2026/11/ai-is-the-most-likely-reason-youll-die-openai-board-member-warns/",
     "pubDate": "Fri, 13 Nov 2026 17:25:45 +0000",
     "source": "Ars Technica AI",
     "category": "ai",
     "content": "Researcher traces a path from AI reward hacking to potential human extinction.",
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/ai-destination-1152x648.jpg",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "FAA expands AI advice to manage air traffic congestion across entire US airspace",
-    "link": "https://arstechnica.com/ai/2026/11/faa-expands-ai-advice-to-manage-air-traffic-congestion-across-entire-us-airspace/",
-    "pubDate": "Thu, 12 Nov 2026 22:28:47 +0000",
-    "source": "Ars Technica AI",
-    "category": "ai",
-    "content": "Airlines praised the AI tool, but the air traffic controllers’ union wasn’t involved.",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Pilots-during-DFW-departure-1152x648.jpg",
     "summary": "",
     "importance": 5
   },
