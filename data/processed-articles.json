@@ -216,14 +216,14 @@
     "classified": true
   },
   {
-    "title": "Illinois crypto tax is impossible to enforce as written, crypto industry tells court",
-    "link": "https://www.coindesk.com/policy/2026/11/12/illinois-crypto-tax-is-impossible-to-enforce-as-written-crypto-industry-tells-court",
-    "pubDate": "Thu, 12 Nov 2026 16:45:52 +0000",
-    "source": "CoinDesk",
+    "title": "Bitcoin falls to four-month low near $62K as crypto selloff deepens",
+    "link": "https://cointelegraph.com/markets/bitcoin-four-month-low-62k-crypto-market-selloff?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Sun, 15 Nov 2026 10:23:17 +0000",
+    "source": "Cointelegraph",
     "category": "crypto",
-    "content": "The legal battle to head off the crypto transaction tax in Illinois has drawn up a hefty roster of industry opposition, and they're saying the tax won't work.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/e33b3fcac1c0e8c98ef703b71e95d78b3237411a-8192x5464.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-    "summary": "The crypto industry is challenging Illinois's proposed crypto transaction tax in court, arguing that the tax is impossible to enforce as written. A significant number of industry players have joined the legal opposition to prevent its implementation.",
+    "content": "The global cryptocurrency market capitalization fell 4% to $2.26 trillion over 24 hours, while Ether and Solana posted double-digit weekly losses.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7FBMZXNH6CNG3W9M8RNBHCN/hi-meet-the-trader-who-lost-bitcoin-bear-market.jpg",
+    "summary": "Bitcoin has fallen to a four-month low near $62,000 amidst a deepening crypto selloff. The global cryptocurrency market capitalization dropped 4% to $2.26 trillion over 24 hours, with Ether and Solana also experiencing double-digit weekly losses.",
     "importance": 8,
     "classified": true
   },
@@ -336,6 +336,42 @@
     "classified": true
   },
   {
+    "title": "Kava Lend loses roughly $3.8 million to hack, sending KAVA token down nearly 40%",
+    "link": "https://www.theblock.co/news/defi/2026-11-14-kava-lend-loses-roughly-3-8-million-to-hack-sending-kava-token-down-nearly-40-440350",
+    "pubDate": "Sat, 14 Nov 2026 23:07:35 +0000",
+    "source": "The Block",
+    "category": "crypto",
+    "content": "About 49.2 million KAVA was bridged to BNB Chain via LayerZero and sold for roughly $2.1 million in BNB and USDT.",
+    "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/keplr-web3auth-art.jpg",
+    "summary": "Kava Lend experienced a hack leading to a loss of approximately $3.8 million, which caused its native KAVA token to plummet by nearly 40%. The perpetrators reportedly bridged 49.2 million KAVA to BNB Chain via LayerZero and exchanged it for about $2.1 million in BNB and USDT.",
+    "importance": 8,
+    "classified": true
+  },
+  {
+    "title": "Louisiana AG calls CFTC chair an ‘obsequious standard bearer’ for prediction markets following agency lawsuit",
+    "link": "https://www.theblock.co/news/regulation/2026-11-14-louisiana-ag-calls-cftc-chair-an-obsequious-standard-bearer-for-prediction-markets-following-agency-lawsuit-440342",
+    "pubDate": "Sat, 14 Nov 2026 19:06:59 +0000",
+    "source": "The Block",
+    "category": "crypto",
+    "content": "The CFTC sued Louisiana Friday to block a state judge's order banning 31 prediction markets, including Kalshi and Polymarket, in the state.",
+    "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2020/06/20200630_CFTC-Daily.jpg",
+    "summary": "The U.S. Commodity Futures Trading Commission (CFTC) has sued Louisiana to block a state judge's order that banned 31 prediction markets, including Kalshi and Polymarket, within the state. Louisiana's Attorney General criticized the CFTC chair for supporting these markets amidst the legal dispute.",
+    "importance": 8,
+    "classified": true
+  },
+  {
+    "title": "Bitcoin ETFs lose $1 billion for the second week in a row as crypto funds, except one, continue bleeding",
+    "link": "https://www.theblock.co/news/markets/2026-11-14-bitcoin-etfs-lose-1-billion-for-the-second-week-in-a-row-as-crypto-funds-except-one-continue-bleeding-440337",
+    "pubDate": "Sat, 14 Nov 2026 17:50:41 +0000",
+    "source": "The Block",
+    "category": "crypto",
+    "content": "U.S. spot crypto ETFs lost about $1.55 billion combined, and Avalanche funds' $227,000 was the only weekly inflow among the 15 categories SoSoValue tracks.",
+    "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/Neon-Liquid-Bitcoin-and-Ethereum-Flow_clean.png",
+    "summary": "U.S. spot crypto exchange-traded funds (ETFs) experienced substantial outflows, totaling approximately $1.55 billion, marking the second consecutive week of significant losses. Among the 15 categories tracked, only Avalanche funds recorded a minor weekly inflow of $227,000, indicating a widespread trend of capital withdrawal from most crypto fund categories.",
+    "importance": 8,
+    "classified": true
+  },
+  {
     "title": "A behind the scenes force may amplify bitcoin and ether price volatility",
     "link": "https://www.coindesk.com/markets/2026/11/14/a-behind-the-scenes-force-may-amplify-bitcoin-and-ether-price-volatility",
     "pubDate": "Sat, 14 Nov 2026 12:57:00 +0000",
@@ -380,6 +416,18 @@
     "content": "The Nasdaq-listed company has 46,676 ETH backing its borrowings, and the loan could become eligible for liquidation if ether slides to around $1,700.",
     "image": "https://cdn.sanity.io/images/s3y3vcno/production/a710836626315dce07d8aff31fbc13778daf3541-1920x1080.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
     "summary": "Ethereum treasury firm BTCS sold a portion of its Ether holdings at a loss to keep its $64 million Aave loan healthy. The Nasdaq-listed company's loan, backed by 46,676 ETH, is at risk of liquidation if Ether's price falls to approximately $1,700.",
+    "importance": 7,
+    "classified": true
+  },
+  {
+    "title": "Enterprise blockchain is going to come back from the dead",
+    "link": "https://cointelegraph.com/opinion/enterprise-blockchain-come-back-from-dead?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Sun, 15 Nov 2026 14:30:00 +0000",
+    "source": "Cointelegraph",
+    "category": "crypto",
+    "content": "With scalability, privacy tools and onchain liquidity improving, businesses may finally have the infrastructure to make enterprise blockchain work.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6ZMF6J25WASD4RQJDF0BRKT/hi-if-blockchain-is-the-door-to-the-future-of-finance-liquidity-is-the-key.jpg",
+    "summary": "The article suggests that enterprise blockchain is poised for a resurgence, driven by significant improvements in scalability, privacy tools, and onchain liquidity. These infrastructure advancements are expected to finally provide businesses with the necessary framework to successfully implement enterprise blockchain solutions.",
     "importance": 7,
     "classified": true
   },
@@ -492,18 +540,6 @@
     "classified": true
   },
   {
-    "title": "US Justice Department, business groups and DeFi firms challenge Illinois crypto tax",
-    "link": "https://cointelegraph.com/news/us-justice-department-business-groups-defi-illinois-crypto-tax?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Thu, 12 Nov 2026 20:58:06 +0000",
-    "source": "Cointelegraph",
-    "category": "crypto",
-    "content": "Industry groups argued in court filings that Illinois’ crypto tax, which applies even when a transaction yields no profit, could raise compliance costs and violate federal law.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M78NNMK090K8VRSJK706GEH0/hi-more-irs-crypto-reporting-more-danger.png",
-    "summary": "Industry groups, including DeFi firms, and the US Justice Department are challenging Illinois' new cryptocurrency tax in court. They argue that the tax, which applies even to transactions yielding no profit, could significantly increase compliance costs and potentially violate federal law.",
-    "importance": 7,
-    "classified": true
-  },
-  {
     "title": "Kalshi ends Donald Trump Jr.’s advisory contract over 1789 Capital’s Polymarket investment",
     "link": "https://www.coindesk.com/policy/2026/11/12/kalshi-ends-donald-trump-jr-s-advisory-contract-over-1789-capital-s-polymarket-investment",
     "pubDate": "Thu, 12 Nov 2026 21:07:49 +0000",
@@ -540,6 +576,18 @@
     "classified": true
   },
   {
+    "title": "Crypto insiders aren't counting on silver linings in Congress' 'lame duck' session",
+    "link": "https://www.coindesk.com/news-analysis/2026/11/13/crypto-insiders-aren-t-counting-on-silver-linings-in-congress-lame-duck-session",
+    "pubDate": "Sun, 15 Nov 2026 14:00:00 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "With ascendent Democrats ready to pursue their own crypto and tech agendas next year, the final weeks of this session probably won't produce crypto surprises.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/fbc7e541d283d1ca139795169dd388c0890fdf2e-2854x1606.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "summary": "Crypto insiders anticipate no significant legislative developments regarding cryptocurrency during the current 'lame duck' session of Congress. This is because ascendent Democrats are preparing to implement their own tech and crypto agendas in the upcoming year.",
+    "importance": 5,
+    "classified": true
+  },
+  {
     "title": "Bitcoin's momentum gauge is turning red, could send prices back below $60,000",
     "link": "https://www.coindesk.com/daybook-us/2026/11/13/bitcoin-s-momentum-gauge-is-turning-red-could-send-prices-back-below-usd60-000",
     "pubDate": "Fri, 13 Nov 2026 12:14:22 +0000",
@@ -554,7 +602,7 @@
   {
     "title": "Here’s what happened in crypto today",
     "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Sat, 14 Nov 2026 11:28:12 +0000",
+    "pubDate": "Sun, 15 Nov 2026 11:18:48 +0000",
     "source": "Cointelegraph",
     "category": "crypto",
     "content": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
@@ -562,50 +610,6 @@
     "summary": "This article serves as a daily briefing on the cryptocurrency market, offering an overview of the latest trends and events. It covers various aspects including Bitcoin price movements, developments in blockchain, DeFi, Web3, and crypto regulation.",
     "importance": 5,
     "classified": true
-  },
-  {
-    "title": "DTCC Plans Solana Expansion as Wallet Rules Limit Access",
-    "link": "https://cointelegraph.com/news/dtcc-plans-solana-expansion-wallet-rules-limit-access?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Thu, 12 Nov 2026 20:07:41 +0000",
-    "source": "Cointelegraph",
-    "category": "crypto",
-    "content": "The US securities clearinghouse plans to bring tokenized stocks to Solana in 2027, but analysts say restrictions could limit adoption.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M78HYSFQRVZZRHHY3ZZHRTMW/hi-what-is-chainlink-dtcc.png",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "Kava Lend loses roughly $3.8 million to hack, sending KAVA token down nearly 40%",
-    "link": "https://www.theblock.co/news/defi/2026-11-14-kava-lend-loses-roughly-3-8-million-to-hack-sending-kava-token-down-nearly-40-440350",
-    "pubDate": "Sat, 14 Nov 2026 23:07:35 +0000",
-    "source": "The Block",
-    "category": "crypto",
-    "content": "About 49.2 million KAVA was bridged to BNB Chain via LayerZero and sold for roughly $2.1 million in BNB and USDT.",
-    "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/keplr-web3auth-art.jpg",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "Louisiana AG calls CFTC chair an ‘obsequious standard bearer’ for prediction markets following agency lawsuit",
-    "link": "https://www.theblock.co/news/regulation/2026-11-14-louisiana-ag-calls-cftc-chair-an-obsequious-standard-bearer-for-prediction-markets-following-agency-lawsuit-440342",
-    "pubDate": "Sat, 14 Nov 2026 19:06:59 +0000",
-    "source": "The Block",
-    "category": "crypto",
-    "content": "The CFTC sued Louisiana Friday to block a state judge's order banning 31 prediction markets, including Kalshi and Polymarket, in the state.",
-    "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2020/06/20200630_CFTC-Daily.jpg",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "Bitcoin ETFs lose $1 billion for the second week in a row as crypto funds, except one, continue bleeding",
-    "link": "https://www.theblock.co/news/markets/2026-11-14-bitcoin-etfs-lose-1-billion-for-the-second-week-in-a-row-as-crypto-funds-except-one-continue-bleeding-440337",
-    "pubDate": "Sat, 14 Nov 2026 17:50:41 +0000",
-    "source": "The Block",
-    "category": "crypto",
-    "content": "U.S. spot crypto ETFs lost about $1.55 billion combined, and Avalanche funds' $227,000 was the only weekly inflow among the 15 categories SoSoValue tracks.",
-    "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/Neon-Liquid-Bitcoin-and-Ethereum-Flow_clean.png",
-    "summary": "",
-    "importance": 5
   },
   {
     "title": "Meta tests prediction-market app, DOJ moves to seize $1.2 billion from Binance hack, and more",
@@ -1235,6 +1239,17 @@
     "importance": 5
   },
   {
+    "title": "An overview of Jensen Huang’s messy days",
+    "link": "https://www.theverge.com/column/1033943/jensen-huang-nvidia-china-spying-scandal-resignation",
+    "pubDate": "2026-11-15T13:00:00.000Z",
+    "source": "The Verge AI",
+    "category": "ai",
+    "content": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on Jensen Huang's resignation and the fallout from Nvidia's leadership crisis, follow Terrence O'Brien. The Stepback arrives in our subscribers' inboxes on Sunday at 8AM ET. Opt in for The Stepback here.\nHow it started\nOn October 29th, The New York Times reported that Nvidia co-founder and showman CEO Jensen Huang appeared to be the target of a Chinese spy plot. Any major tech CEO potentially being compromised by the Chinese government is concerning - especially Jensen Huang. \"If you could draw the network diagram of the entire US AI e …\nRead the full story at The Verge.",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2301620664.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "summary": "",
+    "importance": 5
+  },
+  {
     "title": "The OpenAI board member who fired Sam Altman says we still can&#8217;t trust AI CEOs",
     "link": "https://www.theverge.com/podcast/1032907/helen-toner-openai-cset-ai-safety-policy-interview",
     "pubDate": "2026-11-14T15:00:00.000Z",
@@ -1330,17 +1345,6 @@
     "category": "ai",
     "content": "“I woke up and checked the agents' reports. 'DAMN!' They had found lots of villages and other regular shapes that looked like structures or houses,“ Pietro Miotti wrote on his blog. | Image: Pietro Miotti\t\n\n Armed with a team of AI agents, Google researcher Pietro Miotti claimed earlier this week to have discovered a potentially unmapped Maya site in Mexico. There was just one problem: The site had already been discovered and was published in an academic journal last year. The incident, which sparked criticism among archeologists online, underscores a growing tension in science as amateurs wielding increasingly powerful AI tools parachute into specialist fields, often without the expertise needed to understand what they are looking at.\n\nLocal communities are often already well aware of sites in their area.\n\nMiotti said the idea to use AI to sea …\nRead the full story at The Verge.",
     "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/maya-sites.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "Oh, Palantir is ‘progressive’ now, is it?",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1032126/alex-baby-you-were-recorded-on-video",
-    "pubDate": "2026-11-12T18:06:54.000Z",
-    "source": "The Verge AI",
-    "category": "ai",
-    "content": "The future’s so bright, he’s gotta wear sunglasses. | Photo by Scott Olson/Getty Images\t\n\nI had other things to do today, but Alex Karp's pathetic attempt to pivot back to the left gave me no choice but to put them on hold.\nLast week's elections were a bloodbath for the right, a problem for all the wannabe fash founders who had tied their political fortunes to a \"vibe shift\" that enabled a glorious 100-year Trumpenreich. That freed up a lot of assholes to say what they actually thought. Except Donald Trump's victory was, in fact, narrow, and two years of his corrupt policies have enraged Americans.\n\"I've been a Democrat my whole life. I grew up in a far left environment. I know more about being a progressive than almost anybody …\nRead the full story at The Verge.",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/8407711/479950372.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
     "summary": "",
     "importance": 5
   },
