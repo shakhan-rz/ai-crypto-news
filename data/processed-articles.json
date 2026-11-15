@@ -36,18 +36,6 @@
     "classified": true
   },
   {
-    "title": "DTCC adds Solana to Wall Street tokenization plans, targeting 2027 rollout",
-    "link": "https://www.coindesk.com/business/2026/11/12/dtcc-adds-solana-to-wall-street-tokenization-plans-targeting-2027-rollout",
-    "pubDate": "Thu, 12 Nov 2026 15:45:48 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "The securities infrastructure giant plans to bring tokenized stocks, ETFs and U.S. Treasuries to Solana as it expands next year's roadmap beyond Stellar and Arc.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/017c04b0a6f702fccd76ffd5aa923321e5b66146-2048x1152.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-    "summary": "The DTCC, a major securities infrastructure provider, is expanding its tokenization plans to include Solana, targeting a 2027 rollout. This initiative aims to bring tokenized stocks, ETFs, and U.S. Treasuries to the Solana blockchain, augmenting existing plans with Stellar and Arc.",
-    "importance": 9,
-    "classified": true
-  },
-  {
     "title": "DOJ moves to seize $1.2B from Binance hack, disrupts FaceStealer scam",
     "link": "https://cointelegraph.com/news/doj-12b-north-korean-crypto-seizure-400m-facestealer-scheme?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "pubDate": "Fri, 13 Nov 2026 09:27:14 +0000",
@@ -72,7 +60,19 @@
     "classified": true
   },
   {
-    "title": "Bitcoin crashes to 3-month low below $64,000 as analyst flags fourth capitulation wave",
+    "title": "XRP crashes to its lowest since November 2024 as money leaves crypto",
+    "link": "https://www.coindesk.com/markets/2026/11/15/xrp-crashes-to-its-lowest-since-november-2024-as-money-leaves-crypto",
+    "pubDate": "Sun, 15 Nov 2026 02:50:57 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "XRP tanked to its lowest level since November 2024 as ETF outflows and shrinking stablecoin supply add to pressure on crypto markets.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/f5ebb4afb940e3439b9bd9944fc26aaedb49540b-2213x1011.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "summary": "XRP has fallen to its lowest level since November 2024, reflecting a broader downturn in the crypto markets. This decline is largely attributed to significant ETF outflows and a shrinking stablecoin supply, which are increasing pressure on digital assets.",
+    "importance": 8,
+    "classified": true
+  },
+  {
+    "title": "Bitcoin crashes to 3-month low below $63,000 as analyst flags fourth capitulation wave",
     "link": "https://www.coindesk.com/markets/2026/11/14/bitcoin-drifts-back-to-usd65-000-deep-value-zone-says-analyst",
     "pubDate": "Sat, 14 Nov 2026 16:33:29 +0000",
     "source": "CoinDesk",
@@ -224,6 +224,30 @@
     "content": "The legal battle to head off the crypto transaction tax in Illinois has drawn up a hefty roster of industry opposition, and they're saying the tax won't work.",
     "image": "https://cdn.sanity.io/images/s3y3vcno/production/e33b3fcac1c0e8c98ef703b71e95d78b3237411a-8192x5464.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
     "summary": "The crypto industry is challenging Illinois's proposed crypto transaction tax in court, arguing that the tax is impossible to enforce as written. A significant number of industry players have joined the legal opposition to prevent its implementation.",
+    "importance": 8,
+    "classified": true
+  },
+  {
+    "title": "Coinone warns of phishing, identity theft after customer data breach",
+    "link": "https://cointelegraph.com/news/coinone-data-breach-phishing-identity-theft-customer-information?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Sun, 15 Nov 2026 08:07:58 +0000",
+    "source": "Cointelegraph",
+    "category": "crypto",
+    "content": "The South Korean crypto exchange said potentially exposed information includes passwords, bank account numbers, national identification numbers and crypto wallet addresses.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7F3YVA7631KKAGKFRGDJWMH/coinone.png",
+    "summary": "South Korean crypto exchange Coinone has issued a warning about phishing and identity theft following a customer data breach. The breach potentially exposed sensitive information including passwords, bank account numbers, national identification numbers, and crypto wallet addresses.",
+    "importance": 8,
+    "classified": true
+  },
+  {
+    "title": "RWA protocol stUSDT winds down three years after $2.3B TVL peak",
+    "link": "https://cointelegraph.com/news/rwa-protocol-stusdt-winds-down-three-years-after-23b-tvl-peak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Sun, 15 Nov 2026 06:27:26 +0000",
+    "source": "Cointelegraph",
+    "category": "crypto",
+    "content": "The stUSDT team did not disclose a reason for winding down the RWA protocol but assured holders that all underlying assets remain fully backed.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4STR9GPNQXV18RZ1XBHZJV9/hi-coinflares-exit-and-the-future-of-cloud-mining-3.jpg",
+    "summary": "The Real World Asset (RWA) protocol stUSDT is winding down, three years after it achieved a peak Total Value Locked (TVL) of $2.3 billion. Although the team did not disclose a reason for the shutdown, they reassured holders that all underlying assets remain fully backed.",
     "importance": 8,
     "classified": true
   },
@@ -444,6 +468,42 @@
     "classified": true
   },
   {
+    "title": "Maple Finance’s strategy rift sends co-founder, COO to the exits",
+    "link": "https://cointelegraph.com/news/maple-finance-strategy-rift-co-founder-coo-exit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Thu, 12 Nov 2026 23:12:55 +0000",
+    "source": "Cointelegraph",
+    "category": "crypto",
+    "content": "Maple Finance co-founder Joe Flanagan and COO Ryan O’Shea are leaving over disagreements about the firm’s direction as SYRUP falls despite revenue growth.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M78W1BXY18T2XKFJB5NNN63C/image-1.png",
+    "summary": "Maple Finance co-founder Joe Flanagan and COO Ryan O’Shea are departing the firm due to disagreements over its strategic direction. Their exit occurs as the SYRUP token experiences a decline, despite the company reporting revenue growth.",
+    "importance": 7,
+    "classified": true
+  },
+  {
+    "title": "NK hackers join memecoin trenches, xStocks adds Hong Kong equities: Asia Express",
+    "link": "https://cointelegraph.com/magazine/nk-hackers-join-memecoin-trenches-xstocks-adds-hong-kong-equities-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Thu, 12 Nov 2026 22:29:58 +0000",
+    "source": "Cointelegraph",
+    "category": "crypto",
+    "content": "North Korean hackers launch memecoins to launder funds stolen in the Binance hack, while xStocks plans to add hundreds of Hong Kong-listed equities in the coming weeks.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M26Q2WGDD8GDA5QMCWQF3GB3/magazineasia-expresssnow.jpg",
+    "summary": "North Korean hackers are reportedly launching memecoins as a method to launder funds previously stolen in the Binance hack. Separately, xStocks plans to expand its platform by adding hundreds of Hong Kong-listed equities in the coming weeks.",
+    "importance": 7,
+    "classified": true
+  },
+  {
+    "title": "US Justice Department, business groups and DeFi firms challenge Illinois crypto tax",
+    "link": "https://cointelegraph.com/news/us-justice-department-business-groups-defi-illinois-crypto-tax?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Thu, 12 Nov 2026 20:58:06 +0000",
+    "source": "Cointelegraph",
+    "category": "crypto",
+    "content": "Industry groups argued in court filings that Illinois’ crypto tax, which applies even when a transaction yields no profit, could raise compliance costs and violate federal law.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M78NNMK090K8VRSJK706GEH0/hi-more-irs-crypto-reporting-more-danger.png",
+    "summary": "Industry groups, including DeFi firms, and the US Justice Department are challenging Illinois' new cryptocurrency tax in court. They argue that the tax, which applies even to transactions yielding no profit, could significantly increase compliance costs and potentially violate federal law.",
+    "importance": 7,
+    "classified": true
+  },
+  {
     "title": "Kalshi ends Donald Trump Jr.’s advisory contract over 1789 Capital’s Polymarket investment",
     "link": "https://www.coindesk.com/policy/2026/11/12/kalshi-ends-donald-trump-jr-s-advisory-contract-over-1789-capital-s-polymarket-investment",
     "pubDate": "Thu, 12 Nov 2026 21:07:49 +0000",
@@ -504,61 +564,6 @@
     "classified": true
   },
   {
-    "title": "Maple Finance’s strategy rift sends co-founder, COO to the exits",
-    "link": "https://cointelegraph.com/news/maple-finance-strategy-rift-co-founder-coo-exit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Thu, 12 Nov 2026 23:12:55 +0000",
-    "source": "Cointelegraph",
-    "category": "crypto",
-    "content": "Maple Finance co-founder Joe Flanagan and COO Ryan O’Shea are leaving over disagreements about the firm’s direction as SYRUP falls despite revenue growth.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M78W1BXY18T2XKFJB5NNN63C/image-1.png",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "NK hackers join memecoin trenches, xStocks adds Hong Kong equities: Asia Express",
-    "link": "https://cointelegraph.com/magazine/nk-hackers-join-memecoin-trenches-xstocks-adds-hong-kong-equities-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Thu, 12 Nov 2026 22:29:58 +0000",
-    "source": "Cointelegraph",
-    "category": "crypto",
-    "content": "North Korean hackers launch memecoins to launder funds stolen in the Binance hack, while xStocks plans to add hundreds of Hong Kong-listed equities in the coming weeks.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M26Q2WGDD8GDA5QMCWQF3GB3/magazineasia-expresssnow.jpg",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "Kalshi ends Donald Trump Jr. advisory role over Polymarket investment: Reuters",
-    "link": "https://cointelegraph.com/news/kalshi-ends-donald-trump-jr-advisory-role-polymarket-investment?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Thu, 12 Nov 2026 22:05:01 +0000",
-    "source": "Cointelegraph",
-    "category": "crypto",
-    "content": "The prediction market operator said the decision was mutual and followed 1789 Capital’s investment in rival Polymarket, denying political considerations.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M78TX3PGYGRAKFVQT1WR50MD/hi-paying-the-price-kalshi-banned-politician-for-insider-trading.png",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "Strategy stock sheds 5% amid MSCI index removal, Bitcoin sell-off",
-    "link": "https://cointelegraph.com/markets/strategy-shares-fall-5-msci-index-removal-bitcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Thu, 12 Nov 2026 21:52:04 +0000",
-    "source": "Cointelegraph",
-    "category": "crypto",
-    "content": "Strategy shares declined Thursday following MSCI’s decision to remove the company from its indexes, as Bitcoin also fell amid a broader crypto market decline.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M78SKXFN30X2QXCVG2NCJ1VY/hi-how-strategyb-turned-k-into-m-using-a-high-risk-high-precision-strategy.png",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "US Justice Department, business groups and DeFi firms challenge Illinois crypto tax",
-    "link": "https://cointelegraph.com/news/us-justice-department-business-groups-defi-illinois-crypto-tax?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Thu, 12 Nov 2026 20:58:06 +0000",
-    "source": "Cointelegraph",
-    "category": "crypto",
-    "content": "Industry groups argued in court filings that Illinois’ crypto tax, which applies even when a transaction yields no profit, could raise compliance costs and violate federal law.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M78NNMK090K8VRSJK706GEH0/hi-more-irs-crypto-reporting-more-danger.png",
-    "summary": "",
-    "importance": 5
-  },
-  {
     "title": "DTCC Plans Solana Expansion as Wallet Rules Limit Access",
     "link": "https://cointelegraph.com/news/dtcc-plans-solana-expansion-wallet-rules-limit-access?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "pubDate": "Thu, 12 Nov 2026 20:07:41 +0000",
@@ -566,28 +571,6 @@
     "category": "crypto",
     "content": "The US securities clearinghouse plans to bring tokenized stocks to Solana in 2027, but analysts say restrictions could limit adoption.",
     "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M78HYSFQRVZZRHHY3ZZHRTMW/hi-what-is-chainlink-dtcc.png",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "Bitcoin slides toward $71K as Nvidia stock tumbles after Huang steps down",
-    "link": "https://cointelegraph.com/markets/bitcoin-price-drops-71k-stocks-nvidia-huang-resignation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Thu, 12 Nov 2026 15:46:06 +0000",
-    "source": "Cointelegraph",
-    "category": "crypto",
-    "content": "Bitcoin fell to its lowest leve since Aug. 20 as tech stocks slid following the resignation of Nvidia CEO Jensen Huang.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7859A9F3JFAC903AM8D1SAR/hi-beyond-bitcoin-the-future-of-digital-assets-bitcoin-price-us-iran-960x640.webp",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "Jensen Huang resigns as Nvidia CEO, exits board; shares plunge",
-    "link": "https://cointelegraph.com/news/jensen-huang-resigns-nvidia-ceo-board-member?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Thu, 12 Nov 2026 13:59:02 +0000",
-    "source": "Cointelegraph",
-    "category": "crypto",
-    "content": "Colette Kress will remain Nvidia’s chief financial officer while serving as interim CEO as the board searches for a permanent successor.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M78FFGSYBN954VJZWS39264X/jensen-with-exact-cointelegraph-branding-1.png",
     "summary": "",
     "importance": 5
   },
@@ -1582,6 +1565,18 @@
     "importance": 5
   },
   {
+    "title": "Strategy stock sheds 5% amid MSCI index removal, Bitcoin sell-off",
+    "link": "https://cointelegraph.com/markets/strategy-shares-fall-5-msci-index-removal-bitcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Thu, 12 Nov 2026 21:52:04 +0000",
+    "source": "Cointelegraph",
+    "category": "crypto",
+    "content": "Strategy shares declined Thursday following MSCI’s decision to remove the company from its indexes, as Bitcoin also fell amid a broader crypto market decline.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M78SKXFN30X2QXCVG2NCJ1VY/hi-how-strategyb-turned-k-into-m-using-a-high-risk-high-precision-strategy.png",
+    "summary": "Strategy stock fell by 5% on Thursday after MSCI decided to remove the company from its indexes. This decline coincided with a broader cryptocurrency market downturn, including a significant sell-off in Bitcoin.",
+    "importance": 4,
+    "classified": true
+  },
+  {
     "title": "U.S. Senate Banking Committee races toward hearing on new SEC nominations",
     "link": "https://www.coindesk.com/policy/2026/11/13/u-s-senate-banking-committee-races-toward-hearing-on-new-sec-nominations",
     "pubDate": "Fri, 13 Nov 2026 17:05:43 +0000",
@@ -1602,6 +1597,18 @@
     "content": "Bitcoin was down about 4% on the day amid a tepid market reaction to October’s US PPI reading, which came in below expected levels.",
     "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7AS165R9P1Y8G39SM0M5CFQ/bitcoin-crypto-desk-graph-chart-1280x853.webp",
     "summary": "Bitcoin experienced a roughly 4% drop today, trading below $70,000. This decline occurred despite a lower-than-expected US Producer Price Index (PPI) reading for October, which led to a subdued market reaction.",
+    "importance": 3,
+    "classified": true
+  },
+  {
+    "title": "Kalshi ends Donald Trump Jr. advisory role over Polymarket investment: Reuters",
+    "link": "https://cointelegraph.com/news/kalshi-ends-donald-trump-jr-advisory-role-polymarket-investment?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Thu, 12 Nov 2026 22:05:01 +0000",
+    "source": "Cointelegraph",
+    "category": "crypto",
+    "content": "The prediction market operator said the decision was mutual and followed 1789 Capital’s investment in rival Polymarket, denying political considerations.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M78TX3PGYGRAKFVQT1WR50MD/hi-paying-the-price-kalshi-banned-politician-for-insider-trading.png",
+    "summary": "Kalshi ended Donald Trump Jr.'s advisory role, stating the mutual decision was prompted by 1789 Capital's investment in rival prediction market Polymarket. The prediction market operator explicitly denied any political motivations behind the termination.",
     "importance": 3,
     "classified": true
   },
