@@ -36,6 +36,18 @@
     "classified": true
   },
   {
+    "title": "Jensen Huang weighs Nvidia comeback days after shock exit: FT",
+    "link": "https://cointelegraph.com/news/jensen-huang-weighs-nvidia-comeback-days-after-shock-exit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Sun, 15 Nov 2026 23:47:45 +0000",
+    "source": "Cointelegraph",
+    "category": "ai",
+    "content": "Silicon Valley executives are reportedly organizing a campaign to bring Huang back and are looking to gain White House support.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7GS2G61SYB3FQX1TYFRT8TR/nvidia-knock.jpg",
+    "summary": "Jensen Huang is reportedly considering a comeback to Nvidia just days after his unexpected departure. This follows a campaign by Silicon Valley executives who are seeking White House support to bring him back to the company.",
+    "importance": 9,
+    "classified": true
+  },
+  {
     "title": "DOJ moves to seize $1.2B from Binance hack, disrupts FaceStealer scam",
     "link": "https://cointelegraph.com/news/doj-12b-north-korean-crypto-seizure-400m-facestealer-scheme?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "pubDate": "Fri, 13 Nov 2026 09:27:14 +0000",
@@ -336,6 +348,30 @@
     "classified": true
   },
   {
+    "title": "CZ denies Binance sold crypto as Bitcoin bounces from four-month low near $62,000",
+    "link": "https://www.theblock.co/news/markets/2026-11-15-cz-denies-binance-sold-crypto-as-bitcoin-bounces-from-four-month-low-near-62000-440807",
+    "pubDate": "Sun, 15 Nov 2026 21:57:53 +0000",
+    "source": "The Block",
+    "category": "crypto",
+    "content": "The price moves across the market led to $2 billion in crypto liquidations in a single 24-hour period over the weekend.",
+    "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/10/bitcoin-market.png",
+    "summary": "Changpeng Zhao (CZ) has denied rumors that Binance sold crypto assets, as Bitcoin recovered from a four-month low near $62,000. This market volatility led to $2 billion in crypto liquidations over a single 24-hour period during the weekend.",
+    "importance": 8,
+    "classified": true
+  },
+  {
+    "title": "Traders claim $6 million profit by spotting BitGo’s public pull request and frontrunning memecoin listing",
+    "link": "https://www.theblock.co/news/defi/2026-11-15-traders-claim-6-million-profit-by-spotting-bitgos-public-pull-request-and-frontrunning-memecoin-listing-440363",
+    "pubDate": "Sun, 15 Nov 2026 20:33:17 +0000",
+    "source": "The Block",
+    "category": "crypto",
+    "content": "A public BitGo code change on July 27 added support for Cash Cat on Robinhood Chain ten days before Robinhood announced the listing.",
+    "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2025/03/20250305_MemeCoin_News_2.jpg",
+    "summary": "Traders reportedly made $6 million by identifying a public BitGo code change on July 27 that added support for Cash Cat on Robinhood Chain. This allowed them to \"frontrun\" the memecoin's official listing announcement by Robinhood ten days later, profiting from the subsequent price surge.",
+    "importance": 8,
+    "classified": true
+  },
+  {
     "title": "Kava Lend loses roughly $3.8 million to hack, sending KAVA token down nearly 40%",
     "link": "https://www.theblock.co/news/defi/2026-11-14-kava-lend-loses-roughly-3-8-million-to-hack-sending-kava-token-down-nearly-40-440350",
     "pubDate": "Sat, 14 Nov 2026 23:07:35 +0000",
@@ -540,14 +576,26 @@
     "classified": true
   },
   {
-    "title": "Kalshi ends Donald Trump Jr.’s advisory contract over 1789 Capital’s Polymarket investment",
-    "link": "https://www.coindesk.com/policy/2026/11/12/kalshi-ends-donald-trump-jr-s-advisory-contract-over-1789-capital-s-polymarket-investment",
-    "pubDate": "Thu, 12 Nov 2026 21:07:49 +0000",
+    "title": "Did prediction markets call the U.S. midterm election?: State of Crypto ",
+    "link": "https://www.coindesk.com/policy/2026/11/15/did-prediction-markets-call-the-u-s-midterm-election-state-of-crypto",
+    "pubDate": "Sun, 15 Nov 2026 19:30:00 +0000",
     "source": "CoinDesk",
     "category": "crypto",
-    "content": "Trump Jr. joined Kalshi as a strategic adviser in January 2025, helping the prediction market expand its customer base and strengthen its market presence.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/017ae420df17014d529112047b085c51b85faf81-2048x1152.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-    "summary": "Kalshi has terminated its strategic advisory contract with Donald Trump Jr., which was scheduled to begin in January 2025. The decision was made due to 1789 Capital's investment in Polymarket, a competitor in the prediction market space.",
+    "content": "Prediction markets and polls largely aligned by the end of the 2026 election cycle, and both had notable misses.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/ada78f5ec4fd71c667ef42b2dfcc0255712c872e-1920x1080.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "summary": "This article examines the performance of prediction markets during the U.S. midterm election, noting that they largely aligned with traditional polls by the election cycle's end. However, both prediction markets and polls also experienced notable misses.",
+    "importance": 6,
+    "classified": true
+  },
+  {
+    "title": "US sellers drive Bitcoin crash, Jensen plots Nvidia comeback: Hodler’s Digest",
+    "link": "https://cointelegraph.com/magazine/us-sellers-drive-bitcoin-crash-jensen-plots-comeback-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Sun, 15 Nov 2026 22:50:59 +0000",
+    "source": "Cointelegraph",
+    "category": "both",
+    "content": "Anchorage Digital data suggests the Bitcoin selloff is being driven by US investors. A “war room” has been set up by supporters to reinstate Nvidia boss Jensen Huang.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7GHDR0B3KQVHBYYPZ3528NV/jensen-in-flames.png",
+    "summary": "New data suggests that US investors are the primary drivers of the recent Bitcoin selloff. Separately, supporters of Nvidia CEO Jensen Huang have reportedly formed a 'war room' to facilitate his reinstatement.",
     "importance": 6,
     "classified": true
   },
@@ -777,28 +825,6 @@
     "importance": 5
   },
   {
-    "title": "TRM Labs launches new service to help police seize stolen crypto in minutes",
-    "link": "https://www.theblock.co/news/defi/2026-11-13-trm-labs-beacon-concierge-439609",
-    "pubDate": "Fri, 13 Nov 2026 05:08:25 +0000",
-    "source": "The Block",
-    "category": "crypto",
-    "content": "The new service is built on the Beacon Network, which has more than 200 members covering 80% of crypto trading volume.",
-    "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/trm-beacon.png",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "White House sends crypto-relevant picks to fill SEC and CFTC seats",
-    "link": "https://www.theblock.co/news/regulation/2026-11-12-white-house-crypto-picks-sec-cftc-439175",
-    "pubDate": "Fri, 13 Nov 2026 04:56:47 +0000",
-    "source": "The Block",
-    "category": "crypto",
-    "content": "Crypto Council for Innovation's Ji Kim said this bipartisan lineup could develop durable rules that safeguard markets and support innovation.",
-    "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/whitehouse-nomination.png",
-    "summary": "",
-    "importance": 5
-  },
-  {
     "title": "Bitcoin Price Falls 14% in a Week to $65,000 as Weekend Selling Breaks Friday’s Low",
     "link": "https://bitcoinmagazine.com/markets/bitcoin-price-crashes-13-percent-65600",
     "pubDate": "Sat, 14 Nov 2026 15:27:33 +0000",
@@ -1019,6 +1045,39 @@
     "importance": 5
   },
   {
+    "title": "Indian chip startup Bharat Semi lands $24M seed round as it eyes global AI sensor market",
+    "link": "https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market/",
+    "pubDate": "Sun, 15 Nov 2026 23:30:00 +0000",
+    "source": "TechCrunch AI",
+    "category": "ai",
+    "content": "Bharat Semi says it has secured design wins for its AI-enabled sensor technology with companies including General Atomics.",
+    "image": "",
+    "summary": "",
+    "importance": 5
+  },
+  {
+    "title": "Is bad news for Jensen Huang also bad news for the AI industry?",
+    "link": "https://techcrunch.com/2026/11/15/is-bad-news-for-jensen-huang-also-bad-news-for-the-ai-industry/",
+    "pubDate": "Sun, 15 Nov 2026 21:56:35 +0000",
+    "source": "TechCrunch AI",
+    "category": "ai",
+    "content": "\"Jensen is Nvidia, right? And so much of this economy is riding on Nvidia.\"",
+    "image": "",
+    "summary": "",
+    "importance": 5
+  },
+  {
+    "title": "SNL gathers all the tech tycoons for a lesson in dating and spycraft",
+    "link": "https://techcrunch.com/2026/11/15/snl-gathers-all-the-tech-tycoons-for-a-lesson-in-dating-and-spycraft/",
+    "pubDate": "Sun, 15 Nov 2026 20:20:57 +0000",
+    "source": "TechCrunch AI",
+    "category": "ai",
+    "content": "While awkward, creepy tech executives have become a recurring theme on Saturday Night Live, this week’s episode gave the cast a chance to show off all their impressions at once.",
+    "image": "",
+    "summary": "",
+    "importance": 5
+  },
+  {
     "title": "Where was Nvidia’s security team?",
     "link": "https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/",
     "pubDate": "Sun, 15 Nov 2026 00:08:07 +0000",
@@ -1206,35 +1265,24 @@
     "importance": 5
   },
   {
-    "title": "Nectar launches an AI agent to automate creator discovery and outreach for brands",
-    "link": "https://techcrunch.com/2026/11/12/nectar-launches-an-ai-agent-to-automate-creator-discovery-and-outreach-for-brands/",
-    "pubDate": "Thu, 12 Nov 2026 19:11:00 +0000",
-    "source": "TechCrunch AI",
+    "title": "Jensen Huang might be plotting a return and more of the latest Nvidia drama",
+    "link": "https://www.theverge.com/tech/1033999/jensen-huang-return-nvidia-megaspeed",
+    "pubDate": "2026-11-15T20:43:49.000Z",
+    "source": "The Verge AI",
     "category": "ai",
-    "content": "Nectar's new AI agent automates influencer marketing, helping brands discover creators, manage outreach and partnerships, and track campaign results.",
-    "image": "",
+    "content": "The drama around Nvidia co-founder and former CEO Jensen Huang is evolving quickly. The latest edition of our  Stepback newsletter should get you up to speed, but there have already been a number of new developments since this morning. That includes rumors that Jensen Huang might be trying to find a path back to CEO, and a statement from Megaspeed claiming that Alice Huang hasn't worked for the company since August of 2025, which raises more questions than it answers.\nSome big names, including Elon Musk and Epic Games CEO Tim Sweeney, have publicly thrown their support behind a public letter demanding Nvidia \"bring Jensen back.\"\nThe pub …\n\nRead the full story at The Verge.",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Nvidia_Jensen_huang_03.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
     "summary": "",
     "importance": 5
   },
   {
-    "title": "Jensen Huang’s exit puts Nvidia’s support for open source in question",
-    "link": "https://techcrunch.com/2026/11/12/jensen-huangs-exit-puts-nvidias-support-for-open-source-in-question/",
-    "pubDate": "Thu, 12 Nov 2026 18:39:23 +0000",
-    "source": "TechCrunch AI",
+    "title": "Congress wants to tighten export rules on AI chips after Nvidia spy scandal",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1033984/congress-export-rules-ai-chips-china",
+    "pubDate": "2026-11-15T19:15:43.000Z",
+    "source": "The Verge AI",
     "category": "ai",
-    "content": "Jensen Huang’s resignation raises questions about Nvidia’s commitment to open source AI, including its Hugging Face acquisition, open-weight models, and advocacy against restrictions, as the company navigates a leadership transition.",
-    "image": "",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "Hugging Face CEO vows to keep fighting for open source AI after Jensen Huang’s exit",
-    "link": "https://techcrunch.com/2026/11/12/hugging-face-ceo-vows-to-keep-fighting-for-open-source-ai-after-jensen-huangs-exit/",
-    "pubDate": "Thu, 12 Nov 2026 17:36:40 +0000",
-    "source": "TechCrunch AI",
-    "category": "ai",
-    "content": "Hugging Face's CEO pledged to keep fighting for open source AI after Huang's exit, raising questions about Nvidia's $12.9 billion acquisition.",
-    "image": "",
+    "content": "Unsurprisingly, following the scandal involving now-former Nvidia CEO Jensen Huang and a suspected Chinese spy, Congress is looking to further restrict exports of AI chips. Both Democrats and Republicans have voiced support for various measures and bills that would tighten rules and have demanded that Huang and other Nvidia leaders testify before Congress.\nSenate Minority Leader Chuck Schumer has already said that Huang and the Trump administration need to answer to Congress. Senate Banking Committee Chairman Tim Scott has also sent letters to both Huang and Commerce Secretary Howard Lutnick calling on them to publicly testify to the commit …\nRead the full story at The Verge.",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25545717/STK481_STK432_CONGRESS_GOVERNMENT_CIVRGINIA_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
     "summary": "",
     "importance": 5
   },
@@ -1323,28 +1371,6 @@
     "category": "ai",
     "content": "Usually, we'd be offering to answer your questions about a news event, but honestly we don't really have any answers about what the hell is going on over at Nvidia. I can't speak for Nilay but at the rate Jensen Huang's new mistresses are dropping, I am concerned we are approaching an affair Singularity. If things don't decelerate soon, we may be looking at existential risk. Maybe the future of AI really does depend on Jensen's sex life, but not in the way I was thinking!\nAs much fun (?) as we are having with all the assorted ladies, it's important to stay focused on what's really important: Chips and China. President Donald Trump was repor …\nRead the full story at The Verge.",
     "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25835739/STKP210_JENSEN_HUANG_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "Google’s new Gemini model is better at understanding complicated questions",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1032505/google-search-ai-mode-gemini-4-hydrogen",
-    "pubDate": "2026-11-12T21:55:32.000Z",
-    "source": "The Verge AI",
-    "category": "ai",
-    "content": "Google says its new Gemini 4 Hydrogen model can give more helpful answers to complex questions, including \"questions with multiple parts, hard-to-understand typos, or highly specific requests.\" The new model can break down your questions and address each part in its responses. It's available starting today in search, the Gemini app, all tiers of Google AI Studio, the Gemini API, Gemini for business, and in Google Antigravity for Google AI Pro and Ultra subscribers. Robby Stein, VP of product at Google Search, says it's \"now the new default model in AI Mode & being used for your hardest questions in AI Overviews.\"\nGoogle says Gemini 4 Hydrog …\nRead the full story at The Verge.",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25290329/STK255_Google_Gemini_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "No, AI agents did not discover a previously unknown Maya site",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1032125/ai-agents-maya-site-archeology-discovery",
-    "pubDate": "2026-11-12T19:42:40.000Z",
-    "source": "The Verge AI",
-    "category": "ai",
-    "content": "“I woke up and checked the agents' reports. 'DAMN!' They had found lots of villages and other regular shapes that looked like structures or houses,“ Pietro Miotti wrote on his blog. | Image: Pietro Miotti\t\n\n Armed with a team of AI agents, Google researcher Pietro Miotti claimed earlier this week to have discovered a potentially unmapped Maya site in Mexico. There was just one problem: The site had already been discovered and was published in an academic journal last year. The incident, which sparked criticism among archeologists online, underscores a growing tension in science as amateurs wielding increasingly powerful AI tools parachute into specialist fields, often without the expertise needed to understand what they are looking at.\n\nLocal communities are often already well aware of sites in their area.\n\nMiotti said the idea to use AI to sea …\nRead the full story at The Verge.",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/maya-sites.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
     "summary": "",
     "importance": 5
   },
@@ -1569,18 +1595,6 @@
     "importance": 5
   },
   {
-    "title": "Strategy stock sheds 5% amid MSCI index removal, Bitcoin sell-off",
-    "link": "https://cointelegraph.com/markets/strategy-shares-fall-5-msci-index-removal-bitcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Thu, 12 Nov 2026 21:52:04 +0000",
-    "source": "Cointelegraph",
-    "category": "crypto",
-    "content": "Strategy shares declined Thursday following MSCI’s decision to remove the company from its indexes, as Bitcoin also fell amid a broader crypto market decline.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M78SKXFN30X2QXCVG2NCJ1VY/hi-how-strategyb-turned-k-into-m-using-a-high-risk-high-precision-strategy.png",
-    "summary": "Strategy stock fell by 5% on Thursday after MSCI decided to remove the company from its indexes. This decline coincided with a broader cryptocurrency market downturn, including a significant sell-off in Bitcoin.",
-    "importance": 4,
-    "classified": true
-  },
-  {
     "title": "U.S. Senate Banking Committee races toward hearing on new SEC nominations",
     "link": "https://www.coindesk.com/policy/2026/11/13/u-s-senate-banking-committee-races-toward-hearing-on-new-sec-nominations",
     "pubDate": "Fri, 13 Nov 2026 17:05:43 +0000",
@@ -1601,18 +1615,6 @@
     "content": "Bitcoin was down about 4% on the day amid a tepid market reaction to October’s US PPI reading, which came in below expected levels.",
     "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7AS165R9P1Y8G39SM0M5CFQ/bitcoin-crypto-desk-graph-chart-1280x853.webp",
     "summary": "Bitcoin experienced a roughly 4% drop today, trading below $70,000. This decline occurred despite a lower-than-expected US Producer Price Index (PPI) reading for October, which led to a subdued market reaction.",
-    "importance": 3,
-    "classified": true
-  },
-  {
-    "title": "Kalshi ends Donald Trump Jr. advisory role over Polymarket investment: Reuters",
-    "link": "https://cointelegraph.com/news/kalshi-ends-donald-trump-jr-advisory-role-polymarket-investment?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Thu, 12 Nov 2026 22:05:01 +0000",
-    "source": "Cointelegraph",
-    "category": "crypto",
-    "content": "The prediction market operator said the decision was mutual and followed 1789 Capital’s investment in rival Polymarket, denying political considerations.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M78TX3PGYGRAKFVQT1WR50MD/hi-paying-the-price-kalshi-banned-politician-for-insider-trading.png",
-    "summary": "Kalshi ended Donald Trump Jr.'s advisory role, stating the mutual decision was prompted by 1789 Capital's investment in rival prediction market Polymarket. The prediction market operator explicitly denied any political motivations behind the termination.",
     "importance": 3,
     "classified": true
   },
