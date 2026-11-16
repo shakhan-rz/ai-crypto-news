@@ -1,5 +1,17 @@
 [
   {
+    "title": "Vitalik Buterin flips to ‘total bull’ on a faster route to quantum-safe Ethereum",
+    "link": "https://www.coindesk.com/tech/2026/11/16/vitalik-buterin-flips-to-total-bull-on-a-faster-route-to-quantum-safe-ethereum",
+    "pubDate": "Mon, 16 Nov 2026 08:18:03 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "A proposed system would combine bulky digital signatures into a shared proof, helping protect wallets without making every payment much more expensive.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/fc25947f1bdd54e21669cfeb4f95b3a58f436d2c-1500x919.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "summary": "Vitalik Buterin has expressed strong support for a new system designed to make Ethereum quantum-safe more efficiently. This proposed method would combine digital signatures into a shared proof, securing wallets against future quantum attacks without significantly increasing transaction expenses. The initiative aims to provide a faster and more affordable route to long-term blockchain security.",
+    "importance": 9,
+    "classified": true
+  },
+  {
     "title": "UK, Singapore, and Thailand central banks test cross-border FX settlement as stablecoins gain ground",
     "link": "https://www.coindesk.com/policy/2026/11/14/uk-singapore-and-thailand-central-banks-test-cross-border-fx-settlement-as-stablecoins-gain-ground",
     "pubDate": "Sat, 14 Nov 2026 15:00:00 +0000",
@@ -8,30 +20,6 @@
     "content": "Project Meridian FX APAC said it demonstrated how transactions can be coordinated across conventional settlement systems and those built using blockchain technology.",
     "image": "https://cdn.sanity.io/images/s3y3vcno/production/c3b2b5c1d4640f31fd55291b5060600217e305cb-1000x726.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
     "summary": "Central banks from the UK, Singapore, and Thailand successfully tested a cross-border foreign exchange settlement system. Project Meridian FX APAC demonstrated how transactions can be coordinated between conventional and blockchain-based settlement technologies, highlighting the growing relevance of stablecoins in this space.",
-    "importance": 9,
-    "classified": true
-  },
-  {
-    "title": "Live updates: Bitcoin eyes bear market lows as late summer rally mostly wiped out",
-    "link": "https://www.coindesk.com/tech/2026/11/13/live-news-bitcoin-drops-below-200-week-moving-average-as-dollar-strength-pressures-risk-assets",
-    "pubDate": "Fri, 13 Nov 2026 09:16:58 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "Equity markets are falling as well, with interest rates and the dollar surging amid an increasingly hawkish Federal Reserve.",
-    "image": "",
-    "summary": "Bitcoin experienced a significant price drop, falling below its 200-week moving average and wiping out its late summer rally. This decline is attributed to surging interest rates and a strong dollar.",
-    "importance": 9,
-    "classified": true
-  },
-  {
-    "title": "North Korea's Binance hack faces U.S. crackdown as DOJ targets $1.2 billion in stolen crypto",
-    "link": "https://www.coindesk.com/policy/2026/11/12/north-korea-s-binance-hack-faces-u-s-crackdown-as-doj-targets-usd1-2-billion-in-stolen-crypto",
-    "pubDate": "Thu, 12 Nov 2026 22:55:52 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "Federal authorities say they've taken infrastructure used in the FaceStealer scheme used to steal as much as $400 million in crypto assets.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/801c568ca77ca8b74a5f2ebc71165d5955c34070-5307x3538.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-    "summary": "U.S. federal authorities are cracking down on North Korea's involvement in a Binance hack, targeting $1.2 billion in stolen cryptocurrency. They have seized infrastructure used in the FaceStealer scheme, which was responsible for stealing up to $400 million in crypto assets.",
     "importance": 9,
     "classified": true
   },
@@ -60,15 +48,27 @@
     "classified": true
   },
   {
-    "title": "Trump nominates Hester Peirce successor among SEC, CFTC picks",
-    "link": "https://cointelegraph.com/news/trump-nominates-hester-peirce-successor-among-sec-cftc-picks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Fri, 13 Nov 2026 02:29:27 +0000",
-    "source": "Cointelegraph",
+    "title": "Live news: Bitcoin posts sixth weekly loss as tech stocks and metals slide",
+    "link": "https://www.coindesk.com/tech/2026/11/16/live-news-bitcoin-posts-sixth-weekly-loss-as-tech-stocks-and-metals-slide",
+    "pubDate": "Mon, 16 Nov 2026 09:34:18 +0000",
+    "source": "CoinDesk",
     "category": "crypto",
-    "content": "The White House also named a former CFTC commissioner and two CLARITY Act veterans as nominees to fill vacancies at the SEC and CFTC.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M79AVSJ6NY5RD5MSVWPM12XB/white-house-stablecoin-trump.jpg",
-    "summary": "The White House has nominated a successor to Hester Peirce and other individuals to fill vacancies at the Securities and Exchange Commission (SEC) and the Commodity Futures Trading Commission (CFTC). These appointments are for key regulatory bodies.",
-    "importance": 9,
+    "content": "Strategy and Strive fall sharply in premarket trading as a strong dollar and elevated Treasury yields add pressure on risk assets.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/6285ca18b516e7f58992440d81dd86fe7a6f6759-1000x694.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "summary": "Bitcoin has posted its sixth consecutive weekly loss, with tech stocks and metals also declining. This broader slide in risk assets, including Strategy and Strive in premarket trading, is driven by a strong dollar and elevated Treasury yields.",
+    "importance": 8,
+    "classified": true
+  },
+  {
+    "title": "JPMorgan and DBS let clients move dollars across borders on weekends",
+    "link": "https://www.coindesk.com/business/2026/11/16/j-p-morgan-and-dbs-let-clients-move-dollars-across-borders-on-weekends",
+    "pubDate": "Mon, 16 Nov 2026 08:46:00 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "DBS and JPMorgan have connected their blockchain-based deposit networks, letting approved clients move tokenized U.S. dollars between Singapore and the U.S. at any time, including weekends.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/3733fe37d72e4e20a3f958e5caa214e522aaefb2-5184x3456.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "summary": "DBS and JPMorgan have integrated their blockchain-based deposit networks to facilitate cross-border transfers. This new system allows approved clients to move tokenized U.S. dollars between Singapore and the U.S. at any time, including weekends, improving payment efficiency.",
+    "importance": 8,
     "classified": true
   },
   {
@@ -168,67 +168,7 @@
     "classified": true
   },
   {
-    "title": "Bitcoin hits 12-week low as dollar rallies on interest-rate outlook, liquidations top $1.6 billion",
-    "link": "https://www.coindesk.com/markets/2026/11/13/bitcoin-hits-12-week-low-as-dollar-rallies-on-interest-rate-outlook-liquidations-top-usd1-6-billion",
-    "pubDate": "Fri, 13 Nov 2026 11:52:25 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "Bitcoin (BTC) fell below $70,000 for the first time since August and is down 3.5% since midnight UTC, as the dollar climbs and liquidations top $1.6 billion.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/08b632a654251b193a137eced80be2bec14bb635-1920x1080.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-    "summary": "Bitcoin (BTC) has fallen below $70,000 for the first time since August, marking a 12-week low and a 3.5% drop since midnight UTC. This decline coincides with a rallying dollar due to interest-rate outlooks and has triggered over $1.6 billion in liquidations.",
-    "importance": 8,
-    "classified": true
-  },
-  {
-    "title": "Bitcoin firm Nakamoto pushes $60 million Kraken loan repayment to 2027 to extend its 'runway'",
-    "link": "https://www.coindesk.com/markets/2026/11/13/bitcoin-firm-nakamoto-owes-kraken-usd165-million-more-than-its-entire-market-value",
-    "pubDate": "Fri, 13 Nov 2026 06:03:41 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "The company has deferred a $60 million repayment until December 2027, while its bitcoin collateral remains worth more than the outstanding loan.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/3e653e6039ba6c6faf851d6e0638d3b242e6345b-1920x1080.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-    "summary": "Bitcoin firm Nakamoto owes the exchange Kraken $165 million, a debt exceeding its entire market value. Roughly 70% of Nakamoto's bitcoin treasury is pledged to Kraken, having been purchased at approximately $118,000 per coin, while Bitcoin now trades below $69,000.",
-    "importance": 8,
-    "classified": true
-  },
-  {
-    "title": "Bitcoin ETFs are now down over $1.5 billion in net outflows for the year",
-    "link": "https://www.coindesk.com/markets/2026/11/13/bitcoin-etfs-are-now-down-over-usd1-5-billion-in-net-outflows-for-the-year",
-    "pubDate": "Fri, 13 Nov 2026 05:45:26 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "Recent rapid redemptions explain the market swoon. Bitcoin's spot price fell below $70,000 on Friday, the lowest since August.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/87bf3907a2c884b1e8a3a175c78f262519a2a9fe-1600x900.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-    "summary": "Bitcoin Exchange-Traded Funds (ETFs) have recorded over $1.5 billion in net outflows for the year, a figure attributed to recent rapid redemptions. This trend has coincided with a market downturn, pushing Bitcoin's spot price below $70,000 on Friday, marking its lowest point since August.",
-    "importance": 8,
-    "classified": true
-  },
-  {
-    "title": "SpaceX-Tesla merger talks put 30,000 bitcoin back in focus",
-    "link": "https://www.coindesk.com/markets/2026/11/13/spacex-tesla-merger-talks-put-30-000-bitcoin-back-in-focus",
-    "pubDate": "Fri, 13 Nov 2026 05:08:59 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "A deal could be announced as soon as December, putting $2.1 billion of bitcoin under one roof, a sliver of what the combined group would be worth.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/97bf2e29eb3c1b7bbc38861e392cdd3baacfcacf-1919x1080.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-    "summary": "Potential merger talks between SpaceX and Tesla could be announced as early as December, consolidating 30,000 bitcoin, worth $2.1 billion, under a single corporate entity. This move would bring a significant amount of cryptocurrency under one roof, albeit a small portion of the combined group's total value.",
-    "importance": 8,
-    "classified": true
-  },
-  {
-    "title": "Bitcoin dips below $70,000 as Dollar Index hits 19-month high",
-    "link": "https://www.coindesk.com/markets/2026/11/13/bitcoin-dips-below-usd70-000-as-selloff-gathers-pace",
-    "pubDate": "Fri, 13 Nov 2026 03:37:00 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "The crypto market selloff gathered pace early Friday. Bitcoin dropped below $70,000 and ether traded below $2,000, triggering large liquidations in futures market.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/6ebed0b7b5c5b2a54b1277814829038951640f5e-2220x1200.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-    "summary": "The crypto market experienced a significant selloff early Friday, with Bitcoin dropping below $70,000 and Ether falling below $2,000. This downturn triggered substantial liquidations in the futures market, coinciding with the Dollar Index reaching a 19-month high.",
-    "importance": 8,
-    "classified": true
-  },
-  {
-    "title": "Bitcoin falls to four-month low near $62K as crypto selloff deepens",
+    "title": "Bitcoin falls to 4-month low near $62K as crypto selloff deepens",
     "link": "https://cointelegraph.com/markets/bitcoin-four-month-low-62k-crypto-market-selloff?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "pubDate": "Sun, 15 Nov 2026 10:23:17 +0000",
     "source": "Cointelegraph",
@@ -252,7 +192,7 @@
     "classified": true
   },
   {
-    "title": "RWA protocol stUSDT winds down three years after $2.3B TVL peak",
+    "title": "RWA protocol stUSDT winds down 3 years after $2.3B TVL peak",
     "link": "https://cointelegraph.com/news/rwa-protocol-stusdt-winds-down-three-years-after-23b-tvl-peak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "pubDate": "Sun, 15 Nov 2026 06:27:26 +0000",
     "source": "Cointelegraph",
@@ -408,6 +348,18 @@
     "classified": true
   },
   {
+    "title": "FOMC minutes, Nvidia earnings, Russia’s retail crypto rules: Crypto Week Ahead",
+    "link": "https://www.coindesk.com/markets/2026/11/16/fomc-minutes-nvidia-earnings-russia-s-retail-crypto-rules-crypto-week-ahead",
+    "pubDate": "Mon, 16 Nov 2026 09:23:07 +0000",
+    "source": "CoinDesk",
+    "category": "both",
+    "content": "Your look at what’s coming in the week starting Nov. 16.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/abfc53cb8936b0ca235301bd25a7729a38804863-4928x3264.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "summary": "This article outlines the key events for the week starting November 16, including the release of FOMC minutes, Nvidia's earnings report, and Russia's forthcoming retail cryptocurrency regulations. These topics signal potential market-moving news for both the cryptocurrency space and the AI sector.",
+    "importance": 7,
+    "classified": true
+  },
+  {
     "title": "A behind the scenes force may amplify bitcoin and ether price volatility",
     "link": "https://www.coindesk.com/markets/2026/11/14/a-behind-the-scenes-force-may-amplify-bitcoin-and-ether-price-volatility",
     "pubDate": "Sat, 14 Nov 2026 12:57:00 +0000",
@@ -440,18 +392,6 @@
     "content": "While earnings and the company’s newly introduced financial performance measure remained below year-earlier levels, there are signs of improvement from the second quarter.",
     "image": "https://cdn.sanity.io/images/s3y3vcno/production/c6a8d9e5fa0a7902d01bc64094e514fa9a1ac32b-2048x1152.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
     "summary": "Kraken parent company Payward reports that diversifying outside of core crypto trading is helping to cushion a decline in revenue. While earnings remain below year-earlier levels, the company is showing signs of improvement from the second quarter.",
-    "importance": 7,
-    "classified": true
-  },
-  {
-    "title": "Ethereum treasury firm BTCS sold ether at a loss to keep $64 million Aave loan healthy",
-    "link": "https://www.coindesk.com/markets/2026/11/13/ethereum-treasury-firm-btcs-sold-ether-at-a-loss-to-keep-usd64-million-aave-loan-healthy",
-    "pubDate": "Fri, 13 Nov 2026 07:05:29 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "The Nasdaq-listed company has 46,676 ETH backing its borrowings, and the loan could become eligible for liquidation if ether slides to around $1,700.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/a710836626315dce07d8aff31fbc13778daf3541-1920x1080.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-    "summary": "Ethereum treasury firm BTCS sold a portion of its Ether holdings at a loss to keep its $64 million Aave loan healthy. The Nasdaq-listed company's loan, backed by 46,676 ETH, is at risk of liquidation if Ether's price falls to approximately $1,700.",
     "importance": 7,
     "classified": true
   },
@@ -552,27 +492,27 @@
     "classified": true
   },
   {
-    "title": "Maple Finance’s strategy rift sends co-founder, COO to the exits",
-    "link": "https://cointelegraph.com/news/maple-finance-strategy-rift-co-founder-coo-exit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Thu, 12 Nov 2026 23:12:55 +0000",
-    "source": "Cointelegraph",
+    "title": "Bitcoin miners were hijacked and their BTC rewards redirected to an attacker",
+    "link": "https://www.coindesk.com/tech/2026/11/16/bitcoin-miners-were-hijacked-and-their-btc-rewards-redirected-to-an-attacker",
+    "pubDate": "Mon, 16 Nov 2026 07:51:15 +0000",
+    "source": "CoinDesk",
     "category": "crypto",
-    "content": "Maple Finance co-founder Joe Flanagan and COO Ryan O’Shea are leaving over disagreements about the firm’s direction as SYRUP falls despite revenue growth.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M78W1BXY18T2XKFJB5NNN63C/image-1.png",
-    "summary": "Maple Finance co-founder Joe Flanagan and COO Ryan O’Shea are departing the firm due to disagreements over its strategic direction. Their exit occurs as the SYRUP token experiences a decline, despite the company reporting revenue growth.",
-    "importance": 7,
+    "content": "Luxor said just over a dozen customers were affected and will be reimbursed after their machines were redirected to another mining pool.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/24d3f69befbaee5d806b9369ad2fb160ee40d9e0-1900x1268.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "summary": "Bitcoin miners belonging to just over a dozen Luxor customers were hijacked, resulting in their BTC rewards being redirected to an attacker. Luxor confirmed that the affected customers will be reimbursed after their machines were maliciously redirected to another mining pool.",
+    "importance": 6,
     "classified": true
   },
   {
-    "title": "NK hackers join memecoin trenches, xStocks adds Hong Kong equities: Asia Express",
-    "link": "https://cointelegraph.com/magazine/nk-hackers-join-memecoin-trenches-xstocks-adds-hong-kong-equities-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Thu, 12 Nov 2026 22:29:58 +0000",
-    "source": "Cointelegraph",
+    "title": "Cardano holders vote down $5 million bid to buy warehouse copper",
+    "link": "https://www.coindesk.com/markets/2026/11/16/cardano-holders-vote-down-usd5-million-bid-to-buy-warehouse-copper",
+    "pubDate": "Mon, 16 Nov 2026 06:27:42 +0000",
+    "source": "CoinDesk",
     "category": "crypto",
-    "content": "North Korean hackers launch memecoins to launder funds stolen in the Binance hack, while xStocks plans to add hundreds of Hong Kong-listed equities in the coming weeks.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M26Q2WGDD8GDA5QMCWQF3GB3/magazineasia-expresssnow.jpg",
-    "summary": "North Korean hackers are reportedly launching memecoins as a method to launder funds previously stolen in the Binance hack. Separately, xStocks plans to expand its platform by adding hundreds of Hong Kong-listed equities in the coming weeks.",
-    "importance": 7,
+    "content": "Toto Finance’s 22 million ADA treasury request expired Sunday with about 20 million ADA in favor, and none of Cardano’s seven constitutional committee members voted yes.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/a7ecc9b1c3dbe306ed510a4dfecc0218e9d5fdcb-1440x1080.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "summary": "Cardano holders rejected Toto Finance's $5 million bid to acquire warehouse copper, as the treasury request expired with sufficient ADA in favor, but none of the seven constitutional committee members voted yes. This marks a significant governance decision within the Cardano ecosystem regarding its treasury funds.",
+    "importance": 6,
     "classified": true
   },
   {
@@ -612,16 +552,26 @@
     "classified": true
   },
   {
-    "title": "Gemini’s quarterly retail trading volume sinks to 3-year low",
-    "link": "https://cointelegraph.com/markets/geminis-quarterly-retail-trading-volume-sinks-to-3-year-low?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Fri, 13 Nov 2026 00:52:42 +0000",
-    "source": "Cointelegraph",
+    "title": "Trump administration to name Nvidia, OpenAI and several others as AI national champions",
+    "link": "https://www.coindesk.com/markets/2026/11/16/trump-administration-to-name-nvidia-openai-and-several-others-as-u-s-ai-national-champions",
+    "pubDate": "Mon, 16 Nov 2026 06:01:41 +0000",
+    "source": "CoinDesk",
     "category": "crypto",
-    "content": "Gemini’s third-quarter trading rebound masked a deepening retail slump.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M79668CQYKG39DW60CKNSTF0/hi-gemini-review-2025-secure-regulated-and-feature-rich.jpg",
-    "summary": "Gemini's third-quarter retail trading volume plunged to a three-year low, indicating a significant slump among individual investors. This decline occurred despite an overall trading rebound for the exchange, which effectively masked the severity of the retail downturn.",
-    "importance": 6,
-    "classified": true
+    "content": "The Wall Street Journal reported that the move aims to help the firms expand overseas and compete with global rivals, though nothing has been confirmed.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/728f1c4d7d3e3ad57795074a8f7602efad6c0fb7-5636x3170.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "summary": "",
+    "importance": 5
+  },
+  {
+    "title": "Bitcoin’s biggest bet is now a drop below $60,000, not a rally above $100,000",
+    "link": "https://www.coindesk.com/markets/2026/11/16/bitcoin-s-biggest-bet-is-now-a-drop-below-usd60-000-not-a-rally-above-usd100-000",
+    "pubDate": "Mon, 16 Nov 2026 05:01:17 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "The $60,000 put has replaced the $100,000 call as bitcoin’s biggest options bet on Deribit, with $900 million in open interest after the recent slide.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/1faa0efcc61bdd97c1f9445e77972c18db9f5803-2608x903.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "summary": "",
+    "importance": 5
   },
   {
     "title": "Crypto insiders aren't counting on silver linings in Congress' 'lame duck' session",
@@ -636,6 +586,17 @@
     "classified": true
   },
   {
+    "title": "Changing of Lagarde: How the candidates to be next ECB president view bitcoin, stablecoins and CBDCs",
+    "link": "https://www.coindesk.com/policy/2026/11/14/changing-of-lagarde-how-the-candidates-to-be-next-ecb-president-view-bitcoin-stablecoins-and-cbdcs",
+    "pubDate": "Sun, 15 Nov 2026 07:00:00 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "ECB President Christine Lagarde will step down from her post in February 2027, and none of the primary candidates to succeed her are great fans of crypto.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/26cccb22ec392aed75fa716d72a469596e1faf75-6048x4032.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "summary": "",
+    "importance": 5
+  },
+  {
     "title": "Bitcoin's momentum gauge is turning red, could send prices back below $60,000",
     "link": "https://www.coindesk.com/daybook-us/2026/11/13/bitcoin-s-momentum-gauge-is-turning-red-could-send-prices-back-below-usd60-000",
     "pubDate": "Fri, 13 Nov 2026 12:14:22 +0000",
@@ -648,9 +609,31 @@
     "classified": true
   },
   {
+    "title": "DBS, JPMorgan’s Kinexys launch 24/7 transfers of tokenized deposits",
+    "link": "https://cointelegraph.com/news/dbs-jpmorgans-kinexys-launch-tokenized-transfers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Mon, 16 Nov 2026 08:50:50 +0000",
+    "source": "Cointelegraph",
+    "category": "crypto",
+    "content": "Ant International is the first customer to use the service, which lets clients transfer US dollar deposits between Singapore and the US.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7HQDZG97Z39GHB9PREQ9EAS/hi-open-finance-vs-decentralized-finance-dbs-bank.jpg",
+    "summary": "",
+    "importance": 5
+  },
+  {
+    "title": "Harvard, Dartmouth keep Bitcoin ETF stakes steady as fund gains 42% in Q3",
+    "link": "https://cointelegraph.com/news/harvard-dartmouth-bitcoin-etf-ibit-up-q3?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Mon, 16 Nov 2026 08:27:39 +0000",
+    "source": "Cointelegraph",
+    "category": "crypto",
+    "content": "Harvard’s gold ETF share count rose nearly 20-fold in Q3, while Dartmouth kept its positions in Solana and Ether staking ETFs unchanged.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7HJNRJ2VQQN7Q5P88574B90/studentbitcoin-etfwoman.jpg",
+    "summary": "",
+    "importance": 5
+  },
+  {
     "title": "Here’s what happened in crypto today",
     "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Sun, 15 Nov 2026 11:18:48 +0000",
+    "pubDate": "Mon, 16 Nov 2026 06:00:00 +0000",
     "source": "Cointelegraph",
     "category": "crypto",
     "content": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
@@ -658,6 +641,94 @@
     "summary": "This article serves as a daily briefing on the cryptocurrency market, offering an overview of the latest trends and events. It covers various aspects including Bitcoin price movements, developments in blockchain, DeFi, Web3, and crypto regulation.",
     "importance": 5,
     "classified": true
+  },
+  {
+    "title": "Aster CEO suspects foul play after token plunges 32% in minutes",
+    "link": "https://cointelegraph.com/markets/aster-ceo-suspects-foul-play-after-token-plunges-32-in-minutes?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Mon, 16 Nov 2026 05:28:40 +0000",
+    "source": "Cointelegraph",
+    "category": "crypto",
+    "content": "Aster’s CEO attributed the extreme volatility to highly leveraged liquidations but said the exchange remained operational.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7HCTKP0DY9SJ6Z1XG7SGW4T/aquapark-falling-market-red.jpg",
+    "summary": "",
+    "importance": 5
+  },
+  {
+    "title": "Asian chip stocks tumble ahead of Nvidia Q3 earnings",
+    "link": "https://cointelegraph.com/markets/asian-chip-stocks-tumble-ahead-of-nvidia-q3-earnings?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Mon, 16 Nov 2026 04:42:07 +0000",
+    "source": "Cointelegraph",
+    "category": "crypto",
+    "content": "The weakness came amid a wider sell-off in regional equity markets, with Japan’s Nikkei 225 down 2% and South Korea’s Kospi losing 2.6%.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7HAG95YKRDAYZ26YFMBK4VQ/stocks-1.jpg",
+    "summary": "",
+    "importance": 5
+  },
+  {
+    "title": "Luxor CEO warns of AI ‘dark forest’ following Bitcoin miner hijack",
+    "link": "https://cointelegraph.com/news/luxor-ceo-warns-of-ai-dark-forest-after-bitcoin-miner-hijack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Mon, 16 Nov 2026 02:33:07 +0000",
+    "source": "Cointelegraph",
+    "category": "crypto",
+    "content": "Attackers redirected customers’ Bitcoin mining power through Luxor’s Commander platform over the weekend, prompting its CEO to issue a warning to crypto businesses.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1JT29BT8ARQ99J5C2455XSJ/hi-ai-is-now-paying-bitcoin-miners-more-than-mining-1.jpg",
+    "summary": "",
+    "importance": 5
+  },
+  {
+    "title": "Vitalik Buterin backs higher gas costs for creating accounts and deploying smart contracts to help Ethereum scale",
+    "link": "https://www.theblock.co/news/ecosystems/2026-11-16-vitalik-buterin-backs-higher-gas-costs-for-creating-accounts-and-deploying-smart-contracts-to-help-ethereum-scale-440870",
+    "pubDate": "Mon, 16 Nov 2026 10:29:30 +0000",
+    "source": "The Block",
+    "category": "crypto",
+    "content": "Buterin defended Ethereum's proposed gas repricing, citing the need to increase transaction capacity without compromising decentralization.",
+    "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/GettyImages-1238606759-scaled-e1794823855150.jpg",
+    "summary": "",
+    "importance": 5
+  },
+  {
+    "title": "DBS, JPMorgan launch instant tokenized deposit transfers between US and Singapore",
+    "link": "https://www.theblock.co/news/business/2026-11-16-dbs-jpmorgan-launch-tokenized-deposit-transfers-440854",
+    "pubDate": "Mon, 16 Nov 2026 09:26:39 +0000",
+    "source": "The Block",
+    "category": "crypto",
+    "content": "Ant International is their first client, deploying the service for treasury and liquidity management across its entities in both markets.",
+    "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2024/05/20240501_JPMorgan_News.jpg",
+    "summary": "",
+    "importance": 5
+  },
+  {
+    "title": "CoW Swap goes live on Solana with intent-based trading",
+    "link": "https://www.theblock.co/news/defi/2026-11-16-cow-swap-goes-live-solana-440840",
+    "pubDate": "Mon, 16 Nov 2026 09:05:02 +0000",
+    "source": "The Block",
+    "category": "crypto",
+    "content": "CoW Swap has launched trading directly on Solana after previously supporting cross-chain swaps into the network.",
+    "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/Screenshot-2026-11-16-at-08.09.16.png",
+    "summary": "",
+    "importance": 5
+  },
+  {
+    "title": "South Korean fintech giant Toss to launch in-app non-custodial crypto wallet: report",
+    "link": "https://www.theblock.co/news/business/2026-11-16-toss-non-custodial-crypto-wallet-440847",
+    "pubDate": "Mon, 16 Nov 2026 08:52:33 +0000",
+    "source": "The Block",
+    "category": "crypto",
+    "content": "The firm is also said to be preparing for a VASP license for a business expansion to support stablecoin payments.",
+    "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/oss.png",
+    "summary": "",
+    "importance": 5
+  },
+  {
+    "title": "Luxor hit by AI-enabled attack that redirected client hashrate, says vulnerability patched",
+    "link": "https://www.theblock.co/news/business/2026-11-15-luxor-attack-client-hashrate-440810",
+    "pubDate": "Mon, 16 Nov 2026 04:35:34 +0000",
+    "source": "The Block",
+    "category": "crypto",
+    "content": "The company said it patched the vulnerability within two hours and that no data was leaked or exfiltrated.",
+    "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/luxor-3-scaled.png",
+    "summary": "",
+    "importance": 5
   },
   {
     "title": "Meta tests prediction-market app, DOJ moves to seize $1.2 billion from Binance hack, and more",
@@ -770,57 +841,13 @@
     "importance": 5
   },
   {
-    "title": "UK, Singapore, and Thailand central banks complete foreign exchange settlement trial linking traditional and tokenized systems",
-    "link": "https://www.theblock.co/news/regulation/2026-11-13-uk-singapore-and-thailand-central-banks-complete-foreign-exchange-settlement-trial-linking-traditional-and-tokenized-systems-439692",
-    "pubDate": "Fri, 13 Nov 2026 12:27:41 +0000",
-    "source": "The Block",
+    "title": "Peruvian Bull: The Yen Carry Trade and Bitcoin’s Road to $300k",
+    "link": "https://bitcoinmagazine.com/videos/peruvian-bull-the-yen-carry-trade-and-bitcoins-road-to-300k",
+    "pubDate": "Sun, 15 Nov 2026 15:00:05 +0000",
+    "source": "Bitcoin Magazine",
     "category": "crypto",
-    "content": "Three central banks published findings from a cross-border FX settlement trial using Partior's synchronization prototype.",
-    "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/Screenshot-2026-11-13-at-14.59.24.png",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "Thailand seeks $148,000 daily cap on certain stablecoin transfers to curb money laundering",
-    "link": "https://www.theblock.co/news/regulation/2026-11-13-thailand-seeks-daily-stablecoin-cap-439676",
-    "pubDate": "Fri, 13 Nov 2026 10:16:04 +0000",
-    "source": "The Block",
-    "category": "crypto",
-    "content": "The draft rules also require that stablecoins be transferred only between accounts or wallets belonging to the same person.",
-    "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/thailand.png",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "JPMorgan reports 36% rise in Strategy share holdings and $540 million in BlackRock’s bitcoin ETF",
-    "link": "https://www.theblock.co/news/business/2026-11-13-jpmorgan-reports-36-rise-in-strategy-share-holdings-and-540-million-in-blackrocks-bitcoin-etf-439671",
-    "pubDate": "Fri, 13 Nov 2026 09:59:16 +0000",
-    "source": "The Block",
-    "category": "crypto",
-    "content": "JPMorgan reported 224,545 more Strategy shares in the third quarter as its BlackRock bitcoin ETF holdings climbed to 11.4 million shares.",
-    "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/Screenshot-2026-11-13-at-12.11.30.png",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "DOJ, CFTC sue Arkansas to block state enforcement action against Kalshi",
-    "link": "https://www.theblock.co/news/regulation/2026-11-13-doj-cftc-sue-arkansas-to-block-state-enforcement-action-against-kalshi-439669",
-    "pubDate": "Fri, 13 Nov 2026 09:32:39 +0000",
-    "source": "The Block",
-    "category": "crypto",
-    "content": "Arkansas previously sued Kalshi on Nov. 4, alleging that it operated an illegal gambling platform in the state.",
-    "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/kalshi_cftc_arkansas_1920x1080.jpg",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "Bitcoin tumbles below $69,000 as Nvidia turmoil adds to Fed-driven market jitters",
-    "link": "https://www.theblock.co/news/markets/2026-11-13-bitcoin-tumbles-below-69000-439643",
-    "pubDate": "Fri, 13 Nov 2026 06:23:43 +0000",
-    "source": "The Block",
-    "category": "crypto",
-    "content": "A total of $798 million in crypto positions has been liquidated over the past four hours, including $718.5 million in long positions.",
-    "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/bitcoin_nvidia_fed_1920x1080.jpg",
+    "content": "▶\n\nBitcoin Magazine\n\nPeruvian Bull: The Yen Carry Trade and Bitcoin’s Road to $300k\nRoberto Rios, the Peruvian Bull and author of the Dollar End Game Substack, joins Spencer Nickels to explain how the yen carry trade connects to Bitcoin's road to $300,000.\nThis post Peruvian Bull: The Yen Carry Trade and Bitcoin’s Road to $300k first appeared on Bitcoin Magazine and is written by Mark Mason.",
+    "image": "https://img.youtube.com/vi/RsPBmLb6tTY/hqdefault.jpg",
     "summary": "",
     "importance": 5
   },
@@ -920,17 +947,6 @@
     "category": "crypto",
     "content": "Bitcoin Magazine\n\nBitcoin Price Briefly Crashes to $67,500, Lowest Since August, as Dollar Holds 19-Month High\nBitcoin price briefly crashed to about $67,555 around midnight Eastern, its lowest level since August, then recovered near $69,800 on Friday after October producer prices rose less than expected.\nThis post Bitcoin Price Briefly Crashes to $67,500, Lowest Since August, as Dollar Holds 19-Month High first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
     "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/06/Bitcoin-Stocks-Led-By-Strategy-MSTR-Take-a-Beating-as-BTC-Price-Sells-Off-.jpg",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "Digital Credit: Comparing The Six Bitcoin Preferred Stocks",
-    "link": "https://bitcoinmagazine.com/bitcoin-for-corporations/digital-credit-comparing-the-six-bitcoin-preferred-stocks",
-    "pubDate": "Fri, 13 Nov 2026 12:03:47 +0000",
-    "source": "Bitcoin Magazine",
-    "category": "crypto",
-    "content": "Bitcoin Magazine\n\nDigital Credit: Comparing The Six Bitcoin Preferred Stocks\nA simple four-part investor framework for evaluating Digital Credit. \nThis post Digital Credit: Comparing The Six Bitcoin Preferred Stocks first appeared on Bitcoin Magazine and is written by Allard Peng.",
-    "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/11/fe4171d8-fca4-4028-b84e-511e4b7d04fb.png",
     "summary": "",
     "importance": 5
   },
@@ -1040,6 +1056,17 @@
     "source": "MIT Technology Review",
     "category": "ai",
     "content": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. As voters went to the polls across the US last week, I was in Ashburn, Virginia, part of what’s known as Data Center Alley—the world’s largest data center hub. It’s also where…",
+    "image": "",
+    "summary": "",
+    "importance": 5
+  },
+  {
+    "title": "Apple launches new app to study how people use AI for health",
+    "link": "https://techcrunch.com/2026/11/15/apple-launches-new-app-to-study-how-people-use-ai-for-health/",
+    "pubDate": "Mon, 16 Nov 2026 01:30:00 +0000",
+    "source": "TechCrunch AI",
+    "category": "ai",
+    "content": "Apple's new app for a study will answer everyday medical questions",
     "image": "",
     "summary": "",
     "importance": 5
@@ -1254,13 +1281,13 @@
     "importance": 5
   },
   {
-    "title": "Google’s latest Search upgrade promises better answers to your most complicated questions",
-    "link": "https://techcrunch.com/2026/11/12/googles-latest-search-upgrade-promises-better-answers-to-your-most-complicated-questions/",
-    "pubDate": "Thu, 12 Nov 2026 19:27:45 +0000",
-    "source": "TechCrunch AI",
+    "title": "Apple’s new study looks to improve the effectiveness of AI health tools",
+    "link": "https://www.theverge.com/tech/1033355/apples-new-study-looks-to-improve-the-effectiveness-of-ai-health-tools",
+    "pubDate": "2026-11-16T01:26:56.000Z",
+    "source": "The Verge AI",
     "category": "ai",
-    "content": "Powered by Gemini 4 Hydrogen, Google's AI Mode is getting better at understanding complex queries, surfacing relevant links, and delivering richer visual responses.",
-    "image": "",
+    "content": "Apple announced a new study today with the goal of better understanding how people interact with conversational AI health tools and how useful their responses actually are. The company is conducting the Apple Health AI Usage Study in collaboration with OpenEvidence, a clinical AI platform used by healthcare professionals that generates answers based on medical information from sources like The New England Journal of Medicine. Participants will use a new iOS app to ask medical questions and then rate the responses based on criteria including accuracy, detail, and relevance.\nThe app is now available for download, and enrollment starts today,  …\nRead the full story at The Verge.",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/applestudy1b.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
     "summary": "",
     "importance": 5
   },
@@ -1360,17 +1387,6 @@
     "category": "ai",
     "content": "Let’s get to work. | Photo: Allison Johnson / The Verge\t\n\nNormally, the products I test don't offer to help me write up my experience with them. Duet is different.\nClaude Duet is Anthropic's AI agent for consumers, the latest attempt by an AI company to try to convince us that agents can be useful for people who don't write code. It's been an interesting couple of months: Instinct gave us an impressive text-based assistant, Meta offered us its cute little guy, Muse, to help us buy things, and OpenAI gave us the more work-oriented Dots. Claude Duet is even more focused on work than those. It's also more consumer-friendly than Claude Cowork, which was more consumer-friendly than Claude Code - the co …\nRead the full story at The Verge.",
     "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/DSC04398_processed.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "Let’s talk about Jensen Huang’s many affairs!",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1032339/lets-talk-about-the-nvidia-shitshow",
-    "pubDate": "2026-11-13T12:00:00.000Z",
-    "source": "The Verge AI",
-    "category": "ai",
-    "content": "Usually, we'd be offering to answer your questions about a news event, but honestly we don't really have any answers about what the hell is going on over at Nvidia. I can't speak for Nilay but at the rate Jensen Huang's new mistresses are dropping, I am concerned we are approaching an affair Singularity. If things don't decelerate soon, we may be looking at existential risk. Maybe the future of AI really does depend on Jensen's sex life, but not in the way I was thinking!\nAs much fun (?) as we are having with all the assorted ladies, it's important to stay focused on what's really important: Chips and China. President Donald Trump was repor …\nRead the full story at The Verge.",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25835739/STKP210_JENSEN_HUANG_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
     "summary": "",
     "importance": 5
   },
@@ -1616,30 +1632,6 @@
     "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7AS165R9P1Y8G39SM0M5CFQ/bitcoin-crypto-desk-graph-chart-1280x853.webp",
     "summary": "Bitcoin experienced a roughly 4% drop today, trading below $70,000. This decline occurred despite a lower-than-expected US Producer Price Index (PPI) reading for October, which led to a subdued market reaction.",
     "importance": 3,
-    "classified": true
-  },
-  {
-    "title": "U.S. President Trump names CFTC, SEC nominees for first time in a year",
-    "link": "https://www.coindesk.com/policy/2026/11/12/u-s-president-names-cftc-sec-nominees-for-first-time-in-a-year",
-    "pubDate": "Thu, 12 Nov 2026 22:47:41 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "U.S. President Donald Trump has named two potential commissioners each to the Securities and Exchange Commission and Commodity Futures Trading Commission.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/4d9fac63bf692475387cdfb0b3e58fb851370fe8-4032x3024.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-    "summary": "President Donald Trump has nominated four individuals, two each, to serve as commissioners for the Securities and Exchange Commission (SEC) and the Commodity Futures Trading Commission (CFTC). These appointments fill vacancies that have existed for a year on these key financial regulatory bodies.",
-    "importance": 2,
-    "classified": true
-  },
-  {
-    "title": "Former Nvidia CEO Huang had third alleged affair: Reuters",
-    "link": "https://cointelegraph.com/news/former-nvidia-ceo-huang-had-third-alleged-affair-reuters?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Fri, 13 Nov 2026 01:26:27 +0000",
-    "source": "Cointelegraph",
-    "category": "ai",
-    "content": "Reuters reported that Jensen Huang had a relationship with another Nvidia employee, hours after he resigned as CEO.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6TF8XXVHRYCKDRNDMW19WCP/analys-analytics-bisiness-man-woman-down-city-crash-nvidia.jpg",
-    "summary": "Reuters reported that former Nvidia CEO Jensen Huang allegedly had a relationship with another Nvidia employee. This news surfaced hours after his resignation from the CEO position.",
-    "importance": 2,
     "classified": true
   },
   {
