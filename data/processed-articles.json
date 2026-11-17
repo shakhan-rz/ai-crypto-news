@@ -1,5 +1,17 @@
 [
   {
+    "title": "Singapore, Germany test cross-border payments to reduce settlement risk",
+    "link": "https://www.coindesk.com/business/2026/11/16/singapore-germany-test-cross-border-payments-to-reduce-settlement-risk",
+    "pubDate": "Mon, 16 Nov 2026 11:47:12 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "Zero-knowledge proofs let each ledger verify the other leg was locked, so neither currency settled unless both did, with no shared ledger or intermediary.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/396fee9fa61b67f9e1e4910772815314cadeb26e-1920x1281.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "summary": "Singapore and Germany are conducting a trial for cross-border payments aimed at reducing settlement risk. The system employs zero-knowledge proofs, allowing each ledger to verify the other transaction leg was locked, ensuring atomic settlement without requiring a shared ledger or intermediary.",
+    "importance": 9,
+    "classified": true
+  },
+  {
     "title": "Vitalik Buterin flips to ‘total bull’ on a faster route to quantum-safe Ethereum",
     "link": "https://www.coindesk.com/tech/2026/11/16/vitalik-buterin-flips-to-total-bull-on-a-faster-route-to-quantum-safe-ethereum",
     "pubDate": "Mon, 16 Nov 2026 08:18:03 +0000",
@@ -8,6 +20,18 @@
     "content": "A proposed system would combine bulky digital signatures into a shared proof, helping protect wallets without making every payment much more expensive.",
     "image": "https://cdn.sanity.io/images/s3y3vcno/production/fc25947f1bdd54e21669cfeb4f95b3a58f436d2c-1500x919.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
     "summary": "Vitalik Buterin has expressed strong support for a new system designed to make Ethereum quantum-safe more efficiently. This proposed method would combine digital signatures into a shared proof, securing wallets against future quantum attacks without significantly increasing transaction expenses. The initiative aims to provide a faster and more affordable route to long-term blockchain security.",
+    "importance": 9,
+    "classified": true
+  },
+  {
+    "title": "Trump administration to name Nvidia, OpenAI and several others as AI national champions",
+    "link": "https://www.coindesk.com/markets/2026/11/16/trump-administration-to-name-nvidia-openai-and-several-others-as-u-s-ai-national-champions",
+    "pubDate": "Mon, 16 Nov 2026 06:01:41 +0000",
+    "source": "CoinDesk",
+    "category": "ai",
+    "content": "The Wall Street Journal reported that the move aims to help the firms expand overseas and compete with global rivals, though nothing has been confirmed.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/728f1c4d7d3e3ad57795074a8f7602efad6c0fb7-5636x3170.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "summary": "The Trump administration is reportedly planning to designate Nvidia, OpenAI, and several other companies as \"AI national champions.\" This unconfirmed move, as reported by The Wall Street Journal, aims to facilitate their overseas expansion and bolster competition against global rivals.",
     "importance": 9,
     "classified": true
   },
@@ -21,6 +45,42 @@
     "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7GS2G61SYB3FQX1TYFRT8TR/nvidia-knock.jpg",
     "summary": "Jensen Huang is reportedly considering a comeback to Nvidia just days after his unexpected departure. This follows a campaign by Silicon Valley executives who are seeking White House support to bring him back to the company.",
     "importance": 9,
+    "classified": true
+  },
+  {
+    "title": "Wells Fargo's reported BlackRock bitcoin ETF holdings double to $2.35 billion",
+    "link": "https://www.coindesk.com/markets/2026/11/17/wells-fargo-s-reported-blackrock-bitcoin-etf-holdings-double-to-usd2-35-billion",
+    "pubDate": "Tue, 17 Nov 2026 05:37:23 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "The bank's reported BlackRock bitcoin ETF position doubled to $2.35 billion in the third quarter, giving it exposure to roughly 28,000 BTC.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/c0a2bccf27d71bccd61bcb055118531547dc2957-8256x4644.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "summary": "Wells Fargo has significantly increased its reported BlackRock bitcoin ETF holdings in the third quarter, doubling its position to $2.35 billion. This investment now gives the bank exposure to approximately 28,000 BTC, signaling growing institutional adoption of Bitcoin.",
+    "importance": 8,
+    "classified": true
+  },
+  {
+    "title": "Ripple-backed Evernorth has written down its pre-listing XRP holdings by 60%",
+    "link": "https://www.coindesk.com/markets/2026/11/17/ripple-backed-evernorth-has-written-down-its-pre-listing-xrp-holdings-by-60",
+    "pubDate": "Tue, 17 Nov 2026 05:02:05 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "The company’s accounting policy requires it to record price declines without reversing those write-downs when XRP recovers.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/b7ab3adea84221d8026972fcd65e9dd2a434b424-1500x900.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "summary": "Ripple-backed Evernode has written down its pre-listing XRP holdings by 60% due to an accounting policy that requires recording price declines without reversing them. This means the company cannot revalue its assets upward even if XRP's price recovers.",
+    "importance": 8,
+    "classified": true
+  },
+  {
+    "title": "Former Robinhood engineer pleads guilty to insider trading scheme on Hyperliquid",
+    "link": "https://www.coindesk.com/markets/2026/11/16/former-robinhood-engineer-pleads-guilty-to-insider-trading-scheme-on-hyperliquid",
+    "pubDate": "Mon, 16 Nov 2026 21:51:04 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "Huaisong Xiang admitted using confidential crypto listing information to make $125,523 trading perpetual futures on Hyperliquid.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/f11975329dd01123cc1f9509e592571e6e20430b-1500x1000.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "summary": "A former Robinhood engineer, Huaisong Xiang, has pleaded guilty to insider trading. He admitted to using confidential cryptocurrency listing information to make $125,523 by trading perpetual futures on Hyperliquid. This case underscores the ongoing issues of market integrity within the crypto space.",
+    "importance": 8,
     "classified": true
   },
   {
@@ -108,42 +168,6 @@
     "classified": true
   },
   {
-    "title": "Bitcoin crashes to 3-month low below $63,000 as analyst flags fourth capitulation wave",
-    "link": "https://www.coindesk.com/markets/2026/11/14/bitcoin-drifts-back-to-usd65-000-deep-value-zone-says-analyst",
-    "pubDate": "Sat, 14 Nov 2026 16:33:29 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "\"They are now selling at the very price they wish they had taken advantage of three months ago,\" wrote James Check.",
-    "image": "",
-    "summary": "Bitcoin has dropped to a three-month low of $65,000, signaling what one analyst describes as a 'fourth capitulation wave.' This downturn sees investors selling at prices they previously wished they had bought, indicating significant market panic.",
-    "importance": 8,
-    "classified": true
-  },
-  {
-    "title": "Ethereum scaling project MegaETH slashes staff by 20% as it pursues AI business",
-    "link": "https://www.coindesk.com/business/2026/11/14/ethereum-scaling-project-megaeth-slashes-staff-by-20-as-it-pursues-ai-business",
-    "pubDate": "Sat, 14 Nov 2026 16:33:23 +0000",
-    "source": "CoinDesk",
-    "category": "both",
-    "content": "Decentralized Finance total value locked on MegaETH dropped significantly from over $245 million to $8.8 million.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/2cf1692a573ca1ba4ffb9090bf7fede6b3cb53e3-1920x1080.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-    "summary": "MegaETH, an Ethereum scaling project, has laid off 20% of its staff as it pivots its business focus towards artificial intelligence. This strategic shift follows a significant drop in its Total Value Locked, which plunged from over $245 million to $8.8 million.",
-    "importance": 8,
-    "classified": true
-  },
-  {
-    "title": "Kazakhstan plans tokenized government bonds in first quarter after $22 million note sale",
-    "link": "https://www.coindesk.com/business/2026/11/14/kazakhstan-plans-tokenized-government-bonds-in-first-quarter-after-usd22-million-note-sale",
-    "pubDate": "Sat, 14 Nov 2026 15:38:27 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "The plan follows Kazakhstan's first sale of tokenized central bank notes as the country expands its crypto market.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/f848ee6dd7e6ff1afdc488982529261469645ec0-6708x4472.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-    "summary": "Kazakhstan intends to issue tokenized government bonds in the first quarter of the year, building on a recent $22 million sale of tokenized central bank notes. This move is part of the country's broader strategy to expand its cryptocurrency market and integrate blockchain technology into its financial systems.",
-    "importance": 8,
-    "classified": true
-  },
-  {
     "title": "Bitcoin falls to 4-month low near $62K as crypto selloff deepens",
     "link": "https://cointelegraph.com/markets/bitcoin-four-month-low-62k-crypto-market-selloff?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "pubDate": "Sun, 15 Nov 2026 10:23:17 +0000",
@@ -152,54 +176,6 @@
     "content": "The global cryptocurrency market capitalization fell 4% to $2.26 trillion over 24 hours, while Ether and Solana posted double-digit weekly losses.",
     "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7FBMZXNH6CNG3W9M8RNBHCN/hi-meet-the-trader-who-lost-bitcoin-bear-market.jpg",
     "summary": "Bitcoin has fallen to a four-month low near $62,000 amidst a deepening crypto selloff. The global cryptocurrency market capitalization dropped 4% to $2.26 trillion over 24 hours, with Ether and Solana also experiencing double-digit weekly losses.",
-    "importance": 8,
-    "classified": true
-  },
-  {
-    "title": "Coinone warns of phishing, identity theft after customer data breach",
-    "link": "https://cointelegraph.com/news/coinone-data-breach-phishing-identity-theft-customer-information?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Sun, 15 Nov 2026 08:07:58 +0000",
-    "source": "Cointelegraph",
-    "category": "crypto",
-    "content": "The South Korean crypto exchange said potentially exposed information includes passwords, bank account numbers, national identification numbers and crypto wallet addresses.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7F3YVA7631KKAGKFRGDJWMH/coinone.png",
-    "summary": "South Korean crypto exchange Coinone has issued a warning about phishing and identity theft following a customer data breach. The breach potentially exposed sensitive information including passwords, bank account numbers, national identification numbers, and crypto wallet addresses.",
-    "importance": 8,
-    "classified": true
-  },
-  {
-    "title": "RWA protocol stUSDT winds down 3 years after $2.3B TVL peak",
-    "link": "https://cointelegraph.com/news/rwa-protocol-stusdt-winds-down-three-years-after-23b-tvl-peak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Sun, 15 Nov 2026 06:27:26 +0000",
-    "source": "Cointelegraph",
-    "category": "crypto",
-    "content": "The stUSDT team did not disclose a reason for winding down the RWA protocol but assured holders that all underlying assets remain fully backed.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4STR9GPNQXV18RZ1XBHZJV9/hi-coinflares-exit-and-the-future-of-cloud-mining-3.jpg",
-    "summary": "The Real World Asset (RWA) protocol stUSDT is winding down, three years after it achieved a peak Total Value Locked (TVL) of $2.3 billion. Although the team did not disclose a reason for the shutdown, they reassured holders that all underlying assets remain fully backed.",
-    "importance": 8,
-    "classified": true
-  },
-  {
-    "title": "Bitcoin ETFs shed $2.35B in 2 weeks, BlackRock’s losing streak hits 11",
-    "link": "https://cointelegraph.com/markets/bitcoin-etf-outflows-2-35-billion-blackrock-11-session-streak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Sat, 14 Nov 2026 06:33:13 +0000",
-    "source": "Cointelegraph",
-    "category": "crypto",
-    "content": "US spot Bitcoin ETFs recorded $185.4 million in net outflows Friday, with BlackRock’s IBIT accounting for $143.5 million and Fidelity’s FBTC shedding $41.9 million.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4FQAANP3H5Z0XYV77PNYB10/hi-will-the-blockchain-stop-leaks-of-crypto.jpg",
-    "summary": "US spot Bitcoin ETFs recorded $185.4 million in net outflows on Friday, with BlackRock's IBIT and Fidelity's FBTC being the primary contributors. This event contributes to a broader trend of $2.35 billion in outflows over two weeks and marks an 11-day losing streak for BlackRock's IBIT.",
-    "importance": 8,
-    "classified": true
-  },
-  {
-    "title": "OpenAI launches AI payments in ChatGPT with Visa, Mastercard and Amex",
-    "link": "https://cointelegraph.com/news/openai-ai-payments-chatgpt-wallet-visa-mastercard-amex?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Fri, 13 Nov 2026 22:01:03 +0000",
-    "source": "Cointelegraph",
-    "category": "ai",
-    "content": "OpenAI’s new payment wallet lets AI agents complete purchases using existing card networks, with plans to eventually allow preauthorized transactions.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7BD90N5TZ75ZZMC6V10AW2D/hi-what-is-elon-musk-and-openai.png",
-    "summary": "OpenAI has introduced a new payment wallet within ChatGPT, enabling AI agents to complete purchases directly using existing card networks like Visa, Mastercard, and Amex. The feature aims to streamline AI-driven transactions, with future plans to support preauthorized payments.",
     "importance": 8,
     "classified": true
   },
@@ -264,18 +240,6 @@
     "classified": true
   },
   {
-    "title": "MegaETH parent cuts 20% of staff amid restructuring, AI push",
-    "link": "https://cointelegraph.com/news/megaeth-parent-cuts-20-percent-staff-ai-push?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Sat, 14 Nov 2026 08:12:30 +0000",
-    "source": "Cointelegraph",
-    "category": "both",
-    "content": "MegaETH co-founder Shuyao Kong said the restructuring affected employees who helped build the project’s blockchain, wallet and ecosystem.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7CHQ8H5VMWGN9MBP9CQVNVC/layoffs-fired-human-resource-hr-leaving-quit-people-ai-2.jpg",
-    "summary": "MegaETH's parent company has laid off 20% of its staff as part of a restructuring effort that includes an \"AI push.\" Co-founder Shuyao Kong confirmed that the affected employees were involved in developing the project's blockchain, wallet, and broader ecosystem.",
-    "importance": 7,
-    "classified": true
-  },
-  {
     "title": "U.S. Senate Democrats tell CFTC to back off its demand prediction markets defy bans",
     "link": "https://www.coindesk.com/policy/2026/11/16/u-s-senate-democrats-tell-cftc-to-back-off-its-demand-prediction-markets-defy-bans",
     "pubDate": "Mon, 16 Nov 2026 18:54:19 +0000",
@@ -336,39 +300,6 @@
     "classified": true
   },
   {
-    "title": "Singapore, Germany test cross-border payments to reduce settlement risk",
-    "link": "https://www.coindesk.com/business/2026/11/16/singapore-germany-test-cross-border-payments-to-reduce-settlement-risk",
-    "pubDate": "Mon, 16 Nov 2026 11:47:12 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "Zero-knowledge proofs let each ledger verify the other leg was locked, so neither currency settled unless both did, with no shared ledger or intermediary.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/396fee9fa61b67f9e1e4910772815314cadeb26e-1920x1281.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "Bitcoin slips after rebounding from July 14 low that triggered $2 billion of liquidations",
-    "link": "https://www.coindesk.com/markets/2026/11/16/bitcoin-slips-to-usd64-000-after-usd2-billion-weekend-flush",
-    "pubDate": "Mon, 16 Nov 2026 11:03:14 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "Bitcoin (BTC) is down 1.6% since midnight UTC at around $64,300, after falling to $62,100 on Sunday, its lowest since July 14, as traders await Nvidia earnings.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/99275e65a09f45a355f488dc07959ff17f416731-1920x1080.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "Trump administration to name Nvidia, OpenAI and several others as AI national champions",
-    "link": "https://www.coindesk.com/markets/2026/11/16/trump-administration-to-name-nvidia-openai-and-several-others-as-u-s-ai-national-champions",
-    "pubDate": "Mon, 16 Nov 2026 06:01:41 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "The Wall Street Journal reported that the move aims to help the firms expand overseas and compete with global rivals, though nothing has been confirmed.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/728f1c4d7d3e3ad57795074a8f7602efad6c0fb7-5636x3170.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-    "summary": "",
-    "importance": 5
-  },
-  {
     "title": "Bitcoin’s biggest bet is now a drop below $60,000, not a rally above $100,000",
     "link": "https://www.coindesk.com/markets/2026/11/16/bitcoin-s-biggest-bet-is-now-a-drop-below-usd60-000-not-a-rally-above-usd100-000",
     "pubDate": "Mon, 16 Nov 2026 05:01:17 +0000",
@@ -399,6 +330,84 @@
     "category": "crypto",
     "content": "ECB President Christine Lagarde will step down from her post in February 2027, and none of the primary candidates to succeed her are great fans of crypto.",
     "image": "https://cdn.sanity.io/images/s3y3vcno/production/26cccb22ec392aed75fa716d72a469596e1faf75-6048x4032.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "summary": "",
+    "importance": 5
+  },
+  {
+    "title": "Here’s what happened in crypto today",
+    "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Tue, 17 Nov 2026 06:00:00 +0000",
+    "source": "Cointelegraph",
+    "category": "crypto",
+    "content": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg",
+    "summary": "This article serves as a daily briefing on the cryptocurrency market, offering an overview of the latest trends and events. It covers various aspects including Bitcoin price movements, developments in blockchain, DeFi, Web3, and crypto regulation.",
+    "importance": 5,
+    "classified": true
+  },
+  {
+    "title": "Trezor customer data exposed in 3rd partner breach this year",
+    "link": "https://cointelegraph.com/news/trezor-customer-data-exposed-in-3rd-partner-breach-this-year?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Tue, 17 Nov 2026 03:46:22 +0000",
+    "source": "Cointelegraph",
+    "category": "crypto",
+    "content": "Trezor warned an attacker has been able to access customer names, phone numbers and delivery addresses linked to 27,000 orders from one of its shipping providers.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7KSMV6VXD8X0C6CPDG5WCNC/trezor.jpg",
+    "summary": "",
+    "importance": 5
+  },
+  {
+    "title": "Hackers inject credit card, crypto-stealing malware into 178 major websites",
+    "link": "https://cointelegraph.com/news/hackers-inject-malware-into-178-major-websites?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Tue, 17 Nov 2026 01:02:05 +0000",
+    "source": "Cointelegraph",
+    "category": "crypto",
+    "content": "Ledger and Coinpass were among the businesses whose websites served malware designed to steal visitors’ crypto and credit card details, according to security researchers.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7KGB8P723WG4K1R3Q3WMM6J/hi-how-cybercriminals-use-youtube-and-github-to-spread-crypto-malware.jpg",
+    "summary": "",
+    "importance": 5
+  },
+  {
+    "title": "Nvidia shares fall 4% as board reportedly rules out Huang return",
+    "link": "https://cointelegraph.com/news/nvidia-shares-fall-4-as-board-reportedly-rules-out-huang-return?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Mon, 16 Nov 2026 23:50:41 +0000",
+    "source": "Cointelegraph",
+    "category": "crypto",
+    "content": "The chipmaker’s board is reportedly focused on investigating Huang’s conduct, even as a petition calling for his reinstatement gathers more than 187,000 signatures.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7KABBJFAJNZZ9Y5F7TA19N8/ripping-paper-white-hands.jpg",
+    "summary": "",
+    "importance": 5
+  },
+  {
+    "title": "Custodia Bank loses Supreme Court bid for direct Fed payment access",
+    "link": "https://cointelegraph.com/news/custodia-bank-loses-supreme-court-bid-for-direct-fed-payment-access?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Mon, 16 Nov 2026 22:54:57 +0000",
+    "source": "Cointelegraph",
+    "category": "crypto",
+    "content": "The Supreme Court refused to hear Custodia Bank’s appeal, meaning a lower court ruling allowing the Fed to reject account applications will stand.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7K7K4XWRM18K351JQ17SMMQ/hi-traditional-bank-account-vs-bitcoin-custodial-storage.jpg",
+    "summary": "",
+    "importance": 5
+  },
+  {
+    "title": "German lawmakers back crypto freezes outside criminal cases",
+    "link": "https://cointelegraph.com/news/german-lawmakers-back-crypto-freezes-outside-criminal-cases?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Mon, 16 Nov 2026 22:46:44 +0000",
+    "source": "Cointelegraph",
+    "category": "crypto",
+    "content": "Customs authorities could hold “suspicious” assets for 30 days under the bill, with court oversight for extensions and disputed confiscation.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M236GTB6R3NKE0V3DBECZ26A/hi-here-is-why-germany-leads-the-crypto-friendly-countries-ranking3.jpg",
+    "summary": "",
+    "importance": 5
+  },
+  {
+    "title": "Binance hack may push institutions to outside custody, FalconX exec says",
+    "link": "https://cointelegraph.com/news/binance-hack-institutional-crypto-custody-falconx?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Mon, 16 Nov 2026 22:19:41 +0000",
+    "source": "Cointelegraph",
+    "category": "crypto",
+    "content": "FalconX’s Joshua Lim says the Binance hack could push institutions to keep crypto off exchanges and change how large investors trade in 2027.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7JYN3X9NPASHKCFA1BBHM7P/bank-building-hall-entrance-door-binance-2.png",
     "summary": "",
     "importance": 5
   },
@@ -489,18 +498,6 @@
     "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7J8N3NZM3XQTBBET43XGEQG/hi-the-role-of-cryptocurrencies-in-the-rise-of-ransomware2-1.jpg",
     "summary": "",
     "importance": 5
-  },
-  {
-    "title": "Here’s what happened in crypto today",
-    "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Mon, 16 Nov 2026 13:31:49 +0000",
-    "source": "Cointelegraph",
-    "category": "crypto",
-    "content": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg",
-    "summary": "This article serves as a daily briefing on the cryptocurrency market, offering an overview of the latest trends and events. It covers various aspects including Bitcoin price movements, developments in blockchain, DeFi, Web3, and crypto regulation.",
-    "importance": 5,
-    "classified": true
   },
   {
     "title": "Banks are banning AI agents over security... and competition concerns",
@@ -620,6 +617,39 @@
     "category": "crypto",
     "content": "Attackers redirected customers’ Bitcoin mining power through Luxor’s Commander platform over the weekend, prompting its CEO to issue a warning to crypto businesses.",
     "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1JT29BT8ARQ99J5C2455XSJ/hi-ai-is-now-paying-bitcoin-miners-more-than-mining-1.jpg",
+    "summary": "",
+    "importance": 5
+  },
+  {
+    "title": "CZ denies Binance sold crypto, Bitwise sees Solana at $1,100 by 2031, and more",
+    "link": "https://www.theblock.co/newsletters/the-daily/2026-11-17-cz-binance-bitwise-solana-more-crypto-news-441584",
+    "pubDate": "Tue, 17 Nov 2026 05:45:00 +0000",
+    "source": "The Block",
+    "category": "crypto",
+    "content": "In today's newsletter, CZ denies Binance sold crypto as bitcoin rebounds from four-month low; Bitwise sees Solana reaching $1,100 by 2031 in bull case; and more.",
+    "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2023/04/20230419_CZ_Generic.jpg",
+    "summary": "",
+    "importance": 5
+  },
+  {
+    "title": "CFTC backs blockchain-based derivatives infrastructure as Backpack, tZERO win approvals",
+    "link": "https://www.theblock.co/news/regulation/2026-11-16-cftc-blockchain-derivatives-exchange-approval-backpack-tzero-441591",
+    "pubDate": "Mon, 16 Nov 2026 23:27:15 +0000",
+    "source": "The Block",
+    "category": "crypto",
+    "content": "The CFTC has approved the first set of applications to establish regulated derivatives and exchange clearing operations that use blockchain.",
+    "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2020/04/CFTC.jpg",
+    "summary": "",
+    "importance": 5
+  },
+  {
+    "title": "Trezor hit by another shipping partner data leak, affecting 27,000 Skladon orders",
+    "link": "https://www.theblock.co/news/business/2026-11-16-trezor-hit-another-shipping-partner-data-leak-affecting-27000-skladon-orders-441524",
+    "pubDate": "Mon, 16 Nov 2026 21:44:25 +0000",
+    "source": "The Block",
+    "category": "crypto",
+    "content": "Trezor warns of scam calls and physical security risks after customer addresses leak at shipping partner.",
+    "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2023/02/20230222_Trezor.jpg",
     "summary": "",
     "importance": 5
   },
@@ -811,35 +841,13 @@
     "importance": 5
   },
   {
-    "title": "DBS, JPMorgan launch instant tokenized deposit transfers between US and Singapore",
-    "link": "https://www.theblock.co/news/business/2026-11-16-dbs-jpmorgan-launch-tokenized-deposit-transfers-440854",
-    "pubDate": "Mon, 16 Nov 2026 09:26:39 +0000",
-    "source": "The Block",
+    "title": "Why Bitcoin’s June Low May Not Be the Bottom — $58K the Key Test",
+    "link": "https://bitcoinmagazine.com/videos/why-bitcoins-june-low-may-not-be-the-bottom-58k-the-key-test",
+    "pubDate": "Mon, 16 Nov 2026 21:43:56 +0000",
+    "source": "Bitcoin Magazine",
     "category": "crypto",
-    "content": "Ant International is their first client, deploying the service for treasury and liquidity management across its entities in both markets.",
-    "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2024/05/20240501_JPMorgan_News.jpg",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "CoW Swap goes live on Solana with intent-based trading",
-    "link": "https://www.theblock.co/news/defi/2026-11-16-cow-swap-goes-live-solana-440840",
-    "pubDate": "Mon, 16 Nov 2026 09:05:02 +0000",
-    "source": "The Block",
-    "category": "crypto",
-    "content": "CoW Swap has launched trading directly on Solana after previously supporting cross-chain swaps into the network.",
-    "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/Screenshot-2026-11-16-at-08.09.16.png",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "South Korean fintech giant Toss to launch in-app non-custodial crypto wallet: report",
-    "link": "https://www.theblock.co/news/business/2026-11-16-toss-non-custodial-crypto-wallet-440847",
-    "pubDate": "Mon, 16 Nov 2026 08:52:33 +0000",
-    "source": "The Block",
-    "category": "crypto",
-    "content": "The firm is also said to be preparing for a VASP license for a business expansion to support stablecoin payments.",
-    "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/oss.png",
+    "content": "▶\n\nBitcoin Magazine\n\nWhy Bitcoin’s June Low May Not Be the Bottom — $58K the Key Test\nSean breaks down Bitcoin's MVRV on today's Chart of the Day.\nThis post Why Bitcoin’s June Low May Not Be the Bottom — $58K the Key Test first appeared on Bitcoin Magazine and is written by Patrick Green.",
+    "image": "https://img.youtube.com/vi/vh17bWcjDQM/hqdefault.jpg",
     "summary": "",
     "importance": 5
   },
@@ -862,6 +870,17 @@
     "category": "crypto",
     "content": "Bitcoin Magazine\n\nSenate Agriculture Committee to Hear Trump’s CFTC Nominees Tuesday\nThe Senate Agriculture Committee will hear Nathan Anonick and Matthew Rowland on Tuesday, President Trump's bipartisan picks to join CFTC Chairman Michael Selig, currently the agency's only sitting commissioner.\nThis post Senate Agriculture Committee to Hear Trump’s CFTC Nominees Tuesday first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
     "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/02/Senate-Democrats-Press-DOJ-Treasury-to-Probe-Binance-Over-Trump-Ties-Iran-Sanctions-Allegations.jpg",
+    "summary": "",
+    "importance": 5
+  },
+  {
+    "title": "Rob Hamilton: The AI “Black Hole” is Pulling Liquidity Away from Bitcoin",
+    "link": "https://bitcoinmagazine.com/videos/rob-hamilton-the-ai-black-hole-is-pulling-liquidity-away-from-bitcoin",
+    "pubDate": "Mon, 16 Nov 2026 20:35:17 +0000",
+    "source": "Bitcoin Magazine",
+    "category": "crypto",
+    "content": "▶\n\nBitcoin Magazine\n\nRob Hamilton: The AI “Black Hole” is Pulling Liquidity Away from Bitcoin\nAnchorWatch CEO Rob Hamilton is bullish on Bitcoin in the long run, even as he watches liquidity get pulled toward the Anthropic IPO and the AI trade, which he compares to a black hole.\nThis post Rob Hamilton: The AI “Black Hole” is Pulling Liquidity Away from Bitcoin first appeared on Bitcoin Magazine and is written by Patrick Green.",
+    "image": "https://img.youtube.com/vi/9EE3F91J1vo/hqdefault.jpg",
     "summary": "",
     "importance": 5
   },
@@ -928,28 +947,6 @@
     "category": "crypto",
     "content": "Bitcoin Magazine\n\nSupreme Court Ends Custodia Bank’s Fight for a Fed Master Account, Leaving the Fed Free to Deny Crypto Banks Access\nThe Supreme Court denied Custodia Bank's petition in No. 26-62 on Monday, leaving in place a Tenth Circuit ruling that Federal Reserve Banks may reject even eligible applicants for master accounts.\nThis post Supreme Court Ends Custodia Bank’s Fight for a Fed Master Account, Leaving the Fed Free to Deny Crypto Banks Access first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
     "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/11/Supreme-Court-Ends-Custodia-Banks-Fight-for-a-Fed-Master-Account-Leaving-the-Fed-Free-to-Deny-Crypto-Banks-Access.jpg",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "Hong Kong to License Crypto Dealers and Custodians by Year-End",
-    "link": "https://bitcoinmagazine.com/news/hong-kong-license-crypto-dealers-custodian",
-    "pubDate": "Mon, 16 Nov 2026 14:45:00 +0000",
-    "source": "Bitcoin Magazine",
-    "category": "crypto",
-    "content": "Bitcoin Magazine\n\nHong Kong to License Crypto Dealers and Custodians by Year-End\nFinancial Secretary Paul Chan said Hong Kong will introduce a bill by year-end to license crypto dealers, advisers, managers and custodians, after only two of 36 first-round stablecoin applicants received licenses in April.\nThis post Hong Kong to License Crypto Dealers and Custodians by Year-End first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
-    "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/11/Hong-Kong-to-License-Crypto-Dealers-and-Custodians-by-Year-End.jpg",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "Sweden’s H100 Taps Coinbase Prime and Deribit for Its 3,506 Bitcoin Treasury as It Courts Family Offices",
-    "link": "https://bitcoinmagazine.com/news/h100-coinbase-prime-bitcoin-treasury",
-    "pubDate": "Mon, 16 Nov 2026 14:15:00 +0000",
-    "source": "Bitcoin Magazine",
-    "category": "crypto",
-    "content": "Bitcoin Magazine\n\nSweden’s H100 Taps Coinbase Prime and Deribit for Its 3,506 Bitcoin Treasury as It Courts Family Offices\nH100 Group will use Coinbase Prime and Deribit for custody, trading and financing of its roughly 3,506 BTC, worth about $226 million, as it builds bitcoin services for family offices and wealthy investors.\nThis post Sweden’s H100 Taps Coinbase Prime and Deribit for Its 3,506 Bitcoin Treasury as It Courts Family Offices first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
-    "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/03/H100-Eyes-Strategic-Bitcoin-Acquisition-to-Triple-its-BTC-Holdings-and-Expand-Institutional-Scale.jpg",
     "summary": "",
     "importance": 5
   },
@@ -1064,12 +1061,34 @@
     "importance": 5
   },
   {
+    "title": "Cybersecurity AI startup Corma reaches $1B valuation in about 3 months",
+    "link": "https://techcrunch.com/2026/11/16/cybersecurity-ai-startup-corma-reaches-1b-valuation-in-about-3-months/",
+    "pubDate": "Mon, 16 Nov 2026 23:32:32 +0000",
+    "source": "TechCrunch AI",
+    "category": "ai",
+    "content": "Three months since introducing its product, AI cybersecurity startup Corba has raised a $125 million Series A at a $1 billion valuation led by NEA.",
+    "image": "",
+    "summary": "",
+    "importance": 5
+  },
+  {
+    "title": "All the questions Nvidia should answer on Tuesday — but probably won’t",
+    "link": "https://techcrunch.com/2026/11/16/all-the-questions-nvidia-should-answer-on-tuesday-but-probably-wont/",
+    "pubDate": "Mon, 16 Nov 2026 22:03:02 +0000",
+    "source": "TechCrunch AI",
+    "category": "ai",
+    "content": "Nvidia interim CEO and longtime CFO Colette Kress is about to have one of the biggest days of her career on Tuesday when the company reports its third-quarter results. Given the turmoil Nvidia is in, there are a number of questions that Nvidia should answer.",
+    "image": "",
+    "summary": "",
+    "importance": 5
+  },
+  {
     "title": "California state AG sues OpenAI over rogue agent incidents",
     "link": "https://techcrunch.com/2026/11/16/california-state-ag-sues-openai-over-rogue-agent-incidents/",
     "pubDate": "Mon, 16 Nov 2026 20:07:13 +0000",
     "source": "TechCrunch AI",
     "category": "ai",
-    "content": "The California lawsuit represents one of the first attempts to hold an AI lab legally accountable for a rogue agent incident",
+    "content": "The California lawsuit represents one of the first attempts to hold an AI lab legally accountable for a rogue agent incident.",
     "image": "",
     "summary": "",
     "importance": 5
@@ -1086,7 +1105,7 @@
     "importance": 5
   },
   {
-    "title": "Sam Altman on Nvidia without Jensen Huang: the industry will be ‘fine’",
+    "title": "Sam Altman on Nvidia without Jensen Huang: The industry will be ‘fine’",
     "link": "https://techcrunch.com/2026/11/16/sam-altman-on-nvidia-without-jensen-huang-the-industry-will-be-fine/",
     "pubDate": "Mon, 16 Nov 2026 18:11:10 +0000",
     "source": "TechCrunch AI",
@@ -1097,12 +1116,12 @@
     "importance": 5
   },
   {
-    "title": "FBI says Artex AI open-source hacking tool used to breach networks in ‘under three hours’",
+    "title": "FBI says Artex AI open source hacking tool used to breach networks in ‘under three hours’",
     "link": "https://techcrunch.com/2026/11/16/fbi-says-artex-ai-open-source-hacking-tool-used-to-breach-networks-in-under-three-hours/",
     "pubDate": "Mon, 16 Nov 2026 17:36:43 +0000",
     "source": "TechCrunch AI",
     "category": "ai",
-    "content": "The FBI says that the open-source hacking tool was used in cyberattacks targeting a U.S. IT giant and the South Korean financial industry.",
+    "content": "The FBI says that the open source hacking tool was used in cyberattacks targeting a U.S. IT giant and the South Korean financial industry.",
     "image": "",
     "summary": "",
     "importance": 5
@@ -1262,24 +1281,13 @@
     "importance": 5
   },
   {
-    "title": "Asian governments react to Nvidia CEO Jensen Huang’s exit",
-    "link": "https://techcrunch.com/2026/11/14/asian-governments-react-to-nvidia-ceo-jensen-huangs-exit/",
-    "pubDate": "Sat, 14 Nov 2026 16:34:15 +0000",
-    "source": "TechCrunch AI",
+    "title": "Tech leaders are convinced that Jensen Huang’s exit was a plot against him",
+    "link": "https://www.theverge.com/tech/1035027/tech-leaders-nvidia-jensen-huang-theories",
+    "pubDate": "2026-11-16T23:17:34.000Z",
+    "source": "The Verge AI",
     "category": "ai",
-    "content": "Some governments moved to confirm chip supply commitments, while others are monitoring the impact on local projects or addressing ongoing investigations.",
-    "image": "",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
-    "link": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/",
-    "pubDate": "Fri, 13 Nov 2026 22:43:00 +0000",
-    "source": "TechCrunch AI",
-    "category": "ai",
-    "content": "Nvidia poured tens of billions into AI startups under Huang. Without him at the helm, founders and VCs are bracing for smaller checks and lower valuations.",
-    "image": "",
+    "content": "Jensen Huang's stunning resignation from Nvidia after more than 33 years has sent shockwaves throughout the tech industry. Now prominent figures are calling for Huang's reinstatement, and many are also hopping on board with a theory spreading throughout Silicon Valley: that the scandal is the result of a plot against the former CEO.\nAt the center of this theory is the reporting from The New York Times that former Megaspeed executive Alice Huang, one of multiple women Huang is accused of having an affair with, is a Chinese spy. US agencies haven't confirmed whether this is the case, and President Donald Trump claims he was unaware of any spy …\nRead the full story at The Verge.",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2299645290.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
     "summary": "",
     "importance": 5
   },
@@ -1289,7 +1297,7 @@
     "pubDate": "2026-11-16T20:46:01.000Z",
     "source": "The Verge AI",
     "category": "ai",
-    "content": "California is suing OpenAI after its AI agents broke out of their testing environment and hacked other companies, including Hugging Face. In a lawsuit on Monday, Attorney General Rob Bonta accuses OpenAI of violating consumer safety law by knowingly developing a \"dangerous product without proper oversight,\" as reported earlier by Reuters.\nThe lawsuit claims the cyberattack on Hugging Face \"was the predictable result of an internal culture at OpenAI that prioritizes growth and rapid model development over safety and accountability.\" It alleges that OpenAI recently told the attorney general's office that it \"lost control\" of its AI agents mor …\nRead the full story at The Verge.",
+    "content": "California is suing OpenAI after its AI agents broke out of their testing environment and hacked other companies, including Hugging Face. In a lawsuit filed Monday, Attorney General Rob Bonta accuses OpenAI of violating consumer safety law by knowingly developing a \"dangerous product without proper oversight,\" as reported earlier by Reuters.\nThe lawsuit claims the cyberattack on Hugging Face \"was the predictable result of an internal culture at OpenAI that prioritizes growth and rapid model development over safety and accountability.\" It alleges that OpenAI recently told the attorney general's office that it \"lost control\" of its AI agents  …\nRead the full story at The Verge.",
     "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/STK155_OPEN_AI_4_CVirginia_D.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
     "summary": "",
     "importance": 5
@@ -1300,7 +1308,7 @@
     "pubDate": "2026-11-16T20:41:28.000Z",
     "source": "The Verge AI",
     "category": "ai",
-    "content": "OpenAI CEO Sam Altman is once again addressing his controversial comments on PC RAM purchases. \"I want to be clear, I want people to have a lot of RAM, I think everybody should be able to buy a lot of RAM for their own computer,\" Altman said today. \"I think the home tinkering is great.\"\nThe comments were made on stage at Semafor's Silicon Valley & The World summit on Monday.\nAltman's remarks on RAM stirred up controversy last month. In an appearance on the Cheeky Pint podcast, Altman said that it's \"quite terrible\" for everyone to have RAM in personal computers rather than in data centers. He later followed up on those comments in posts on …\nRead the full story at The Verge.",
+    "content": "Sam… thank you. | Image: Getty Images\t\n\nOpenAI CEO Sam Altman is once again addressing his controversial comments on PC RAM purchases. \"I want to be clear, I want people to have a lot of RAM, I think everybody should be able to buy a lot of RAM for their own computer,\" Altman said today. \"I think the home tinkering is great.\"\nThe comments were made onstage at Semafor's Silicon Valley & The World summit on Monday.\nAltman's remarks on RAM stirred up controversy last month. In an appearance on the Cheeky Pint podcast, Altman said that it's \"quite terrible\" for everyone to have RAM in personal computers rather than in data centers. He later followed up on those comments in posts on  …\nRead the full story at The Verge.",
     "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/gettyimages-1778705436.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
     "summary": "",
     "importance": 5
@@ -1383,13 +1391,13 @@
     "importance": 5
   },
   {
-    "title": "The Nvidia scandal isn’t slowing down",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1031740/jensen-huang-nvidia-scandal-isnt-slowing-down",
-    "pubDate": "2026-11-16T13:00:00.000Z",
-    "source": "The Verge AI",
+    "title": "Robo-soldier startup backed by Eric Trump misses payroll, may collapse",
+    "link": "https://arstechnica.com/ai/2026/11/robo-soldier-startup-backed-by-eric-trump-misses-payroll-may-collapse/",
+    "pubDate": "Mon, 16 Nov 2026 22:58:27 +0000",
+    "source": "Ars Technica AI",
     "category": "ai",
-    "content": "For years, Jensen Huang has had an almost unprecedented power to shape AI's advancement as Nvidia's CEO, cofounder, and president. As The Verge wrote last week, Nvidia's chips are \"the bedrock upon which advanced AI technology in the US is being built.\" Ever-increasing demand has consistently outpaced supply, leading AI CEOs to essentially bow at Huang's feet as they vie for more compute ahead of their much-hyped IPOs. Nvidia also has a varied investment portfolio of up-and-coming AI companies from neoclouds to infrastructure firms, worth nearly $100 billion, and Huang has President Donald Trump's ear. He's even been called Trump's \"most inf …\nRead the full story at The Verge.",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/STKP210_JENSEN_HUANG_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "content": "Robotics startup misses payroll a year after CEO used funds for luxury home.",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Foundation-Phantom-MK-1-mortar-demo-1152x648.jpg",
     "summary": "",
     "importance": 5
   },
@@ -1603,26 +1611,15 @@
     "importance": 5
   },
   {
-    "title": "Could potential AI clones of GTA VI force a quicker official port?",
-    "link": "https://arstechnica.com/gaming/2026/11/could-potential-ai-clones-of-gta-vi-force-a-quicker-official-port/",
-    "pubDate": "Fri, 06 Nov 2026 16:19:12 +0000",
-    "source": "Ars Technica AI",
-    "category": "ai",
-    "content": "A former Rockstar tech director thinks the developer is facing new time pressures.",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/gta6-1152x648.jpg",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "Microsoft confirms global outage resolved, rules out cyberattack",
-    "link": "https://cointelegraph.com/news/microsoft-365-outage-resolved-cyberattack-ruled-out?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Sat, 14 Nov 2026 10:34:06 +0000",
-    "source": "Cointelegraph",
-    "category": "ai",
-    "content": "Microsoft attributed the outage to a network capacity upgrade issue, confirming that the disruption was unrelated to cyberattacks or AI agents.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6X8JFEEG972QNHB7E2TQ63J/hi-the-rise-of-major-institutions-is-inevitable-microsoft.jpg",
-    "summary": "Microsoft has resolved a global outage, attributing the disruption to a network capacity upgrade issue. The company confirmed that the incident was unrelated to cyberattacks or AI agents.",
-    "importance": 1,
+    "title": "Bitcoin slips after rebounding from July 14 low that triggered $2 billion of liquidations",
+    "link": "https://www.coindesk.com/markets/2026/11/16/bitcoin-slips-to-usd64-000-after-usd2-billion-weekend-flush",
+    "pubDate": "Mon, 16 Nov 2026 11:03:14 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "Bitcoin (BTC) is down 1.6% since midnight UTC at around $64,300, after falling to $62,100 on Sunday, its lowest since July 14, as traders await Nvidia earnings.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/99275e65a09f45a355f488dc07959ff17f416731-1920x1080.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "summary": "Bitcoin experienced a slight downturn, falling to $62,100, its lowest since July 14, after triggering $2 billion in liquidations. The cryptocurrency has since rebounded slightly to around $64,300, as traders await Nvidia's earnings report.",
+    "importance": 4,
     "classified": true
   }
 ]
