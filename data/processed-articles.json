@@ -48,6 +48,18 @@
     "classified": true
   },
   {
+    "title": "Fairmint plans tokenized stock venue on Canton, Ethereum under SEC experiment",
+    "link": "https://www.coindesk.com/business/2026/11/20/fairmint-plans-tokenized-stock-venue-on-canton-ethereum-under-sec-experiment",
+    "pubDate": "Fri, 20 Nov 2026 22:05:31 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "The firm is the latest to join in building blockchain-based stock markets under the agency’s five-year \"innovation exemption\" for tokenized trading.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/6ff9d25e2511cf90cd7a62c4980664ef0585d6c3-4096x2754.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "summary": "Fairmint is developing a tokenized stock trading platform on Canton and Ethereum, operating under a five-year \"innovation exemption\" granted by the SEC. This initiative positions Fairmint as the latest firm to build blockchain-based stock markets as part of the agency's experimental program.",
+    "importance": 8,
+    "classified": true
+  },
+  {
     "title": "Bitcoin plunges below $59,000 as rush to cash puts new bear market lows back in play ",
     "link": "https://www.coindesk.com/markets/2026/11/20/bitcoin-plunges-below-usd59-000-as-rush-to-cash-puts-new-bear-market-lows-back-in-play",
     "pubDate": "Fri, 20 Nov 2026 18:13:52 +0000",
@@ -84,7 +96,7 @@
     "classified": true
   },
   {
-    "title": "Live news: Bitcoin slips to fresh lows below $60,000 as Anthropic slides after Nasdaq debut",
+    "title": "Live news: Bitcoin slips to fresh lows below $59,000 as Anthropic slides after Nasdaq debut",
     "link": "https://www.coindesk.com/tech/2026/11/20/live-news-bitcoin-hovers-just-above-usd61-000-as-anthropic-slides-13-after-nasdaq-debut",
     "pubDate": "Fri, 20 Nov 2026 13:35:33 +0000",
     "source": "CoinDesk",
@@ -104,6 +116,18 @@
     "content": "University of Liège researchers put a few dollars into deliberately vulnerable bitcoin addresses and watched rival bots race for the money within seconds.",
     "image": "https://cdn.sanity.io/images/s3y3vcno/production/dd1a65646bd21c2b4d0d2821fdd923999c402438-1000x667.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
     "summary": "Researchers from the University of Liège deliberately exposed vulnerable Bitcoin wallet keys containing small amounts of money. They observed rival bots quickly pouncing on and stealing the funds within seconds of the exposure.",
+    "importance": 8,
+    "classified": true
+  },
+  {
+    "title": "ECB’s Lagarde warns Europe could lose control of growing tokenized asset market",
+    "link": "https://www.coindesk.com/policy/2026/11/20/ecb-s-largarde-warns-europe-could-lose-control-of-growing-tokenized-asset-market",
+    "pubDate": "Fri, 20 Nov 2026 13:11:49 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "The ECB president called for common rules as the EU's new blockchain settlement system handled a 1 billion-euro ($1.1 billion) digital bond transaction.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/26cccb22ec392aed75fa716d72a469596e1faf75-6048x4032.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "summary": "ECB President Christine Lagarde has warned that Europe risks losing control of its expanding tokenized asset market. She called for common rules after the EU's new blockchain settlement system processed a 1 billion-euro digital bond transaction.",
     "importance": 8,
     "classified": true
   },
@@ -144,18 +168,6 @@
     "classified": true
   },
   {
-    "title": "Binance wins $6.5 billion feezing order against hackers behind crypto's largest theft",
-    "link": "https://www.coindesk.com/business/2026/11/19/binance-wins-usd6-5-billion-feezing-order-against-hackers-behind-crypto-s-largest-theft",
-    "pubDate": "Thu, 19 Nov 2026 15:20:38 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "The crypto exchange said it has already replaced the stolen assets using its own funds and insurance reserves.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/6afa7aee3dd3e7c1e37e3929a4ac24b7cebaccdd-6000x4000.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-    "summary": "Binance has successfully secured a $6.5 billion freezing order against the hackers responsible for what is described as the largest theft in cryptocurrency history. The crypto exchange confirmed that it has already reimbursed all stolen assets using its internal funds and insurance reserves.",
-    "importance": 8,
-    "classified": true
-  },
-  {
     "title": "No special rules for Hyperliquid or other onchain trading platforms, CFTC says",
     "link": "https://www.coindesk.com/markets/2026/11/20/cftc-tells-hyperliquid-and-crypto-rivals-no-special-rules-for-onchain-trading",
     "pubDate": "Fri, 20 Nov 2026 10:02:03 +0000",
@@ -164,6 +176,18 @@
     "content": "Hyperliquid and other onchain exchanges can offer derivatives to U.S. traders if they obtain the required licenses or work with a registered exchange, the CFTC chairman said.",
     "image": "https://cdn.sanity.io/images/s3y3vcno/production/2ea663e27b7a8aedacb15a99a17ec144f1ef72ac-4928x2772.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
     "summary": "The CFTC chairman has clarified that onchain trading platforms, such as Hyperliquid, are not subject to special rules for offering derivatives to U.S. traders. These platforms can operate in the U.S. provided they secure the necessary licenses or collaborate with an already registered exchange.",
+    "importance": 7,
+    "classified": true
+  },
+  {
+    "title": "This Bitcoin miner sold 267 BTC to clear $22 million debt. It still may not survive",
+    "link": "https://www.coindesk.com/markets/2026/11/20/this-bitcoin-miner-sold-267-btc-to-clear-usd22-million-debt-it-still-may-not-survive",
+    "pubDate": "Fri, 20 Nov 2026 05:32:25 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "PowerCompute had its lender sell 267 pledged bitcoin in September, wiping out most of its debt, and ended the month with about $650,000 in cash and a going-concern warning.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/54bd04de039305784bf732dce245207bcc75ba21-7008x3942.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "summary": "Bitcoin miner PowerCompute sold 267 pledged BTC in September to clear $22 million in debt. While this wiped out most of its obligations, the company ended the month with limited cash and a 'going-concern' warning. This raises questions about its long-term survival despite the significant debt reduction.",
     "importance": 7,
     "classified": true
   },
@@ -192,6 +216,18 @@
     "classified": true
   },
   {
+    "title": "Kalshi races to get ahead of New York order that could shut down exchange",
+    "link": "https://www.coindesk.com/policy/2026/11/20/kalshi-races-to-get-ahead-of-new-york-order-that-could-shut-down-exchange",
+    "pubDate": "Fri, 20 Nov 2026 22:51:14 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "The U.S. prediction market firm asked a New York court to give the company a chance to argue against a pending restraining order stemming from a new court loss.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/6d7901aa6391850923b865dba6e93d85d7542d76-6000x4001.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "summary": "Kalshi, a U.S. prediction market firm, is urgently seeking a New York court hearing to argue against a pending restraining order that could lead to its shutdown. This move follows a recent court loss, as the company aims to prevent the order from taking effect. The firm is racing against time to challenge the potential closure of its exchange.",
+    "importance": 6,
+    "classified": true
+  },
+  {
     "title": "U.S. Senate passes bill to ban prediction market bets on war and death",
     "link": "https://www.coindesk.com/policy/2026/11/20/u-s-senated-passes-bill-to-ban-prediction-market-best-on-war-and-death",
     "pubDate": "Fri, 20 Nov 2026 14:25:57 +0000",
@@ -202,28 +238,6 @@
     "summary": "The U.S. Senate has passed a bill to ban prediction market bets on sensitive events like war, assassinations, and military operations. This legislative action addresses concerns that traders could profit from insider information, a scenario that has reportedly already taken place.",
     "importance": 6,
     "classified": true
-  },
-  {
-    "title": "ECB’s Lagarde warns Europe could lose control of growing tokenized asset market",
-    "link": "https://www.coindesk.com/policy/2026/11/20/ecb-s-largarde-warns-europe-could-lose-control-of-growing-tokenized-asset-market",
-    "pubDate": "Fri, 20 Nov 2026 13:11:49 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "The ECB president called for common rules as the EU's new blockchain settlement system handled a 1 billion-euro ($1.1 billion) digital bond transaction.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/26cccb22ec392aed75fa716d72a469596e1faf75-6048x4032.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "Bitcoin, stocks and gold traders getting nervous, and volatility gauges are surging",
-    "link": "https://www.coindesk.com/daybook-us/2026/11/20/bitcoin-stocks-and-gold-traders-getting-nervous-and-volatility-gauges-are-surging",
-    "pubDate": "Fri, 20 Nov 2026 12:15:08 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "Your day-ahead look for Nov. 20, 2026",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/82891e39741f8ee1cf03244dc64580d21202c017-1600x900.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-    "summary": "",
-    "importance": 5
   },
   {
     "title": "Bitcoin drops for third straight day as Asian tech shares slide",
@@ -247,17 +261,6 @@
     "summary": "Gold experienced a significant drop, reaching its lowest point since September 2025, due to a specific catalyst. This same factor is also believed to be negatively impacting Bitcoin's price, suggesting a shared market influence.",
     "importance": 5,
     "classified": true
-  },
-  {
-    "title": "This Bitcoin miner sold 267 BTC to clear $22 million debt. It still may not survive",
-    "link": "https://www.coindesk.com/markets/2026/11/20/this-bitcoin-miner-sold-267-btc-to-clear-usd22-million-debt-it-still-may-not-survive",
-    "pubDate": "Fri, 20 Nov 2026 05:32:25 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "PowerCompute had its lender sell 267 pledged bitcoin in September, wiping out most of its debt, and ended the month with about $650,000 in cash and a going-concern warning.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/54bd04de039305784bf732dce245207bcc75ba21-7008x3942.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-    "summary": "",
-    "importance": 5
   },
   {
     "title": "Big money bought a net $4 billion of bitcoin funds in Q3, ending 9 months of selling",
@@ -315,13 +318,13 @@
     "importance": 5
   },
   {
-    "title": "Crypto for Advisors: Falling prices drove October’s 10% drop in institutional crypto exposure",
-    "link": "https://www.coindesk.com/coindesk-indices/2026/11/19/crypto-for-advisors-falling-prices-drove-october-s-10-drop-in-institutional-crypto-exposure",
-    "pubDate": "Thu, 19 Nov 2026 16:09:28 +0000",
-    "source": "CoinDesk",
+    "title": "Wrapped Monero token crashes 99.8% amid suspected $13.5M exploit",
+    "link": "https://cointelegraph.com/news/wrapped-monero-token-crashes-998-amid-suspected-135m-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Fri, 20 Nov 2026 19:37:27 +0000",
+    "source": "Cointelegraph",
     "category": "crypto",
-    "content": "",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/920a08914439fa23e0b80f679bab0e55bdd3bb38-3840x2160.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "content": "Bitquery traced $13.5 million in suspicious sales of the wrapped Monero token, as its operator blamed a security breach and promised to reimburse affected traders.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7X4D1A62D3GQT3E2RD261Q4/hi-company-hits-vulnerability-2.png",
     "summary": "",
     "importance": 5
   },
@@ -613,13 +616,24 @@
     "importance": 5
   },
   {
-    "title": "Bitcoin ETF assets fall to three-month low as 2026 net outflows top $2.5B",
-    "link": "https://cointelegraph.com/markets/bitcoin-etf-assets-three-month-low-78-billion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Thu, 19 Nov 2026 08:26:19 +0000",
-    "source": "Cointelegraph",
+    "title": "DCG’s Zcash miner Fortitude clears vote for Nasdaq listing as ZEC retreats from all-time high",
+    "link": "https://www.theblock.co/news/business/2026-11-20-dcgs-zcash-miner-fortitude-clears-vote-nasdaq-listing-zec-retreats-all-time-high-444784",
+    "pubDate": "Fri, 20 Nov 2026 21:40:01 +0000",
+    "source": "The Block",
     "category": "crypto",
-    "content": "US spot Bitcoin ETFs lost $306.4 million Wednesday, pushing their combined assets to $77.7 billion as Bitcoin briefly traded below $63,000.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7SA53P2GHC309QBB97B4KW6/lost-bitcoins-etf-hack-hacking-falling-jeans-1.jpg",
+    "content": "Fortitude wins shareholder backing for its planned Nasdaq debut as ZEC trades 55% below its record high.",
+    "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/10/zcash.png",
+    "summary": "",
+    "importance": 5
+  },
+  {
+    "title": "Rep. Casten seeks to curb prediction market insider trading with DOJ whistleblower program",
+    "link": "https://www.theblock.co/news/regulation/2026-11-20-rep-casten-seeks-curb-prediction-market-insider-trading-doj-whistleblower-program-444779",
+    "pubDate": "Fri, 20 Nov 2026 19:41:52 +0000",
+    "source": "The Block",
+    "category": "crypto",
+    "content": "Rep. Sean Casten, who could have a top spot in Congress next year, is clamping down on insider trading in prediction markets.",
+    "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2019/07/congress-outside-2-alt.jpg",
     "summary": "",
     "importance": 5
   },
@@ -822,24 +836,35 @@
     "importance": 5
   },
   {
-    "title": "US launches cybercrime center with TRM Labs to help trace crypto tied to scams",
-    "link": "https://www.theblock.co/news/regulation/2026-11-19-us-launches-cybercrime-center-with-trm-labs-to-help-trace-crypto-tied-to-scams-443599",
-    "pubDate": "Thu, 19 Nov 2026 11:55:06 +0000",
-    "source": "The Block",
+    "title": "Tracy Schuchart: Bitcoin Trading “Like a Risk Asset” as Fed Hikes Loom",
+    "link": "https://bitcoinmagazine.com/videos/tracy-schuchart-bitcoin-trading-like-a-risk-asset-as-fed-hikes-loom",
+    "pubDate": "Fri, 20 Nov 2026 22:10:11 +0000",
+    "source": "Bitcoin Magazine",
     "category": "crypto",
-    "content": "The Threat Disruption Center will help investigators trace victims’ funds and identify crypto wallets used by scammers.",
-    "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/capitol.png",
+    "content": "▶\n\nBitcoin Magazine\n\nTracy Schuchart: Bitcoin Trading “Like a Risk Asset” as Fed Hikes Loom\nTracy Shuchart says Bitcoin's biggest long-term argument is its monetary scarcity, but investors need to separate the long-term thesis from how it's trading today.\nThis post Tracy Schuchart: Bitcoin Trading “Like a Risk Asset” as Fed Hikes Loom first appeared on Bitcoin Magazine and is written by Patrick Green.",
+    "image": "https://img.youtube.com/vi/8ZLlc6cnmDs/hqdefault.jpg",
     "summary": "",
     "importance": 5
   },
   {
-    "title": "1inch integrates Hyperliquid’s perpetual futures contracts into its dApp and wallet platform",
-    "link": "https://www.theblock.co/news/web3/2026-11-19-1inch-integrates-hyperliquid-perpetual-futures-443574",
-    "pubDate": "Thu, 19 Nov 2026 11:00:00 +0000",
-    "source": "The Block",
+    "title": "Bitcoin Price Slips to Lows Not Seen Since 2024, Nasdaq Plunges 5%",
+    "link": "https://bitcoinmagazine.com/markets/bitcoin-price-slips-58300-nasdaq",
+    "pubDate": "Fri, 20 Nov 2026 21:08:02 +0000",
+    "source": "Bitcoin Magazine",
     "category": "crypto",
-    "content": "Users can fund a position with a token they already hold on 1inch, which will be routed to USDC and deposited to a balance on Hyperliquid.",
-    "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/1inch.png",
+    "content": "Bitcoin Magazine\n\nBitcoin Price Slips to Lows Not Seen Since 2024, Nasdaq Plunges 5%\nThe bitcoin price slipped to near $58,300 on Friday afternoon, briefly dipping under its summer low, as a chip-led selloff sent the Nasdaq down about 5% and dragged crypto stocks and miners sharply lower.\nThis post Bitcoin Price Slips to Lows Not Seen Since 2024, Nasdaq Plunges 5% first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
+    "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/11/Bitcoin-Price-Falls-Below-72000-as-Nvidia-CEO-Jensen-Huang-Steps-Down-and-Strategy-MSTR-Slides.jpg",
+    "summary": "",
+    "importance": 5
+  },
+  {
+    "title": "MSTR Head of Investor Relations Addresses Bitcoin Pullback, Equity Performance",
+    "link": "https://bitcoinmagazine.com/videos/mstr-head-of-investor-relations-addresses-bitcoin-pullback-equity-performance",
+    "pubDate": "Fri, 20 Nov 2026 19:24:55 +0000",
+    "source": "Bitcoin Magazine",
+    "category": "crypto",
+    "content": "▶\n\nBitcoin Magazine\n\nMSTR Head of Investor Relations Addresses Bitcoin Pullback, Equity Performance\nChaitanya \"CJ\" Jain, Head of Investor Relations at Strategy, joins Bitcoin Magazine TV as Bitcoin trades below Strategy's average cost.\nThis post MSTR Head of Investor Relations Addresses Bitcoin Pullback, Equity Performance first appeared on Bitcoin Magazine and is written by Patrick Green.",
+    "image": "https://img.youtube.com/vi/ctWQsAPySls/hqdefault.jpg",
     "summary": "",
     "importance": 5
   },
@@ -917,39 +942,6 @@
     "category": "crypto",
     "content": "Bitcoin Magazine\n\nBitcoin Price Slips Near $61,500 as Tech Selloff Spreads to Asia\nThe bitcoin price slipped to near $61,500 on Friday morning, its lowest level since July, as the tech selloff spread to Asia and IBIT posted a record outflow.\nThis post Bitcoin Price Slips Near $61,500 as Tech Selloff Spreads to Asia first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
     "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/08/Bitcoin-Price-May-Be-Battered-but-Analysts-See-Structural-Adoption-Story-Still-Intact.jpg",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "Inside Bukele’s Casa Presidencial Dinner: Bitcoiners Discuss Energy, Immigration, and El Salvador’s Future",
-    "link": "https://bitcoinmagazine.com/news/inside-bukeles-casa-presidencial-dinner-bitcoiners-discuss-energy-immigration-and-el-salvadors-future",
-    "pubDate": "Thu, 19 Nov 2026 22:20:01 +0000",
-    "source": "Bitcoin Magazine",
-    "category": "crypto",
-    "content": "Bitcoin Magazine\n\nInside Bukele’s Casa Presidencial Dinner: Bitcoiners Discuss Energy, Immigration, and El Salvador’s Future\nOn November 10, 2026, President Nayib Bukele hosted roughly 30 Bitcoiners at Casa Presidencial during Bitcoin Histórico. Guests included Ricardo Salinas Pliego, Parker Lewis, Mike Peterson, and miners; discussions covered power generation for compute and immigration.\nThis post Inside Bukele’s Casa Presidencial Dinner: Bitcoiners Discuss Energy, Immigration, and El Salvador’s Future first appeared on Bitcoin Magazine and is written by Juan Galt.",
-    "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/11/Screenshot-2026-11-19-at-5.14.53-PM.png",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "Strategy (MSTR) Shares Tumble for Sixth Straight Day to $86 as Bitcoin Slides",
-    "link": "https://bitcoinmagazine.com/markets/strategy-stock-sinks-62000",
-    "pubDate": "Thu, 19 Nov 2026 21:53:36 +0000",
-    "source": "Bitcoin Magazine",
-    "category": "crypto",
-    "content": "Bitcoin Magazine\n\nStrategy (MSTR) Shares Tumble for Sixth Straight Day to $86 as Bitcoin Slides\nStrategy shares fell 4.6% to $86.13 on Thursday, their sixth straight decline, as bitcoin dipped below $62,000. The company's 850,849 BTC are now worth about $11 billion less than it paid.\nThis post Strategy (MSTR) Shares Tumble for Sixth Straight Day to $86 as Bitcoin Slides first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
-    "image": "https://bitcoinmagazine.com/wp-content/uploads/2025/12/Strategy-Urges-MSCI-to-Keep-Digital-Asset-Treasury-Companies-in-Global-Indexes.jpg",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "SEC Charges Eight Colorado Firms in $37 Million Fake Crypto Platform Scam",
-    "link": "https://bitcoinmagazine.com/news/sec-charges-eight-colorado-firms-scam",
-    "pubDate": "Thu, 19 Nov 2026 21:45:00 +0000",
-    "source": "Bitcoin Magazine",
-    "category": "crypto",
-    "content": "Bitcoin Magazine\n\nSEC Charges Eight Colorado Firms in $37 Million Fake Crypto Platform Scam\nThe SEC charged eight Colorado-based entities, likely run from overseas, with taking more than $37 million from U.S. investors through fake advisers, fake crypto trading platforms and fake SEC certificates.\nThis post SEC Charges Eight Colorado Firms in $37 Million Fake Crypto Platform Scam first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
-    "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/02/U.S.-Government-Seizes-Over-580-Million-in-Crypto-Linked-to-Southeast-Asian-Scams.jpg",
     "summary": "",
     "importance": 5
   },
@@ -1064,12 +1056,23 @@
     "importance": 5
   },
   {
-    "title": "AI claimed a solution to the 167 year-old Riemann Hypothesis — and a human did, too",
+    "title": "Daniel Ek backs AI researcher’s fusion power startup. Here’s what they’re building.",
+    "link": "https://techcrunch.com/2026/11/20/daniel-ek-backs-ai-researchers-fusion-power-startup-heres-what-theyre-building/",
+    "pubDate": "Fri, 20 Nov 2026 19:53:41 +0000",
+    "source": "TechCrunch AI",
+    "category": "ai",
+    "content": "Spotify founder Daniel Ek is backing Europa Fusion, a fusion power startup founded by an AI researcher. Here's what the startup is building.",
+    "image": "",
+    "summary": "",
+    "importance": 5
+  },
+  {
+    "title": "AI claimed a solution to the 167-year-old Riemann hypothesis — and a human did, too",
     "link": "https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too/",
     "pubDate": "Fri, 20 Nov 2026 19:32:08 +0000",
     "source": "TechCrunch AI",
     "category": "ai",
-    "content": "Mathematicians are having their minds blown by the latest AI-driven result—and there's a competing human solution, too.",
+    "content": "Mathematicians are having their minds blown by the latest AI-driven result — and there's a competing human solution, too.",
     "image": "",
     "summary": "",
     "importance": 5
@@ -1273,17 +1276,6 @@
     "importance": 5
   },
   {
-    "title": "Elon Musk says ousting Jensen Huang is like ‘kicking Michael Jordan off your team’",
-    "link": "https://techcrunch.com/2026/11/18/elon-musk-says-ousting-jensen-huang-is-like-kicking-michael-jordan-off-your-team/",
-    "pubDate": "Wed, 18 Nov 2026 23:25:17 +0000",
-    "source": "TechCrunch AI",
-    "category": "ai",
-    "content": "“I don’t think [Huang is] disloyal to the United States,\" Musk said.",
-    "image": "",
-    "summary": "",
-    "importance": 5
-  },
-  {
     "title": "Trump threatens ‘tremendous tax’ for moving AI data centers outside the US",
     "link": "https://www.theverge.com/policy/1038892/trump-foreign-data-centers-tax",
     "pubDate": "2026-11-20T18:50:19.000Z",
@@ -1390,6 +1382,39 @@
     "category": "ai",
     "content": "Anthropic CEO Dario Amodei speaks at the Nasdaq ahead of his company’s public debut. | Photo: Michael Nagle / Bloomberg via Getty Images\t\n\nAnthropic has officially gone public. It began trading on the Nasdaq under the ticker symbol \"ANT\" at $111.50 per share, up from its initial $83 per share price that put company's value at around $1.5 trillion.\nThe listing comes nearly a month after Anthropic revealed its plans to go public. In its lengthy S-1 filing, the AI company reported recording an $80.7 billion net loss in the first half of this year, most of which comes from an accounting charge that doesn't reflect its business, along with $16.3 billion in revenue. The filing outlines plans that Anthropic says will help it develop AI for the benefit of humanity, which includes a go …\nRead the full story at The Verge.",
     "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2305334560.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "summary": "",
+    "importance": 5
+  },
+  {
+    "title": "Google rolls out new search homepage with AI chat history and no search button",
+    "link": "https://arstechnica.com/ai/2026/11/googles-latest-search-page-redesign-drops-the-search-button-adds-ai-sidebar/",
+    "pubDate": "Fri, 20 Nov 2026 21:58:29 +0000",
+    "source": "Ars Technica AI",
+    "category": "ai",
+    "content": "Google search is making it even easier to access AI tools on the search page.",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/google-sign-logo-1152x648.jpg",
+    "summary": "",
+    "importance": 5
+  },
+  {
+    "title": "Meta reconsiders 2030 net-zero goal amid record emissions from AI data centers",
+    "link": "https://arstechnica.com/ai/2026/11/meta-reconsiders-2030-net-zero-goal-amid-record-emissions-from-ai-data-centers/",
+    "pubDate": "Fri, 20 Nov 2026 21:47:10 +0000",
+    "source": "Ars Technica AI",
+    "category": "ai",
+    "content": "Meta is “re-evaluating” 2030 sustainability goals. Will others follow?",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Meta-El-Paso-data-center-1152x648.jpg",
+    "summary": "",
+    "importance": 5
+  },
+  {
+    "title": "Researcher plants 2m canaries into the AI supply chain. A privacy disaster surfaced.",
+    "link": "https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/",
+    "pubDate": "Fri, 20 Nov 2026 20:59:08 +0000",
+    "source": "Ars Technica AI",
+    "category": "ai",
+    "content": "Test using prompts with unique, trackable secrets proves that data doesn't stay private.",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/ai-privacy-leakage-1152x648.jpg",
     "summary": "",
     "importance": 5
   },
@@ -1581,36 +1606,15 @@
     "importance": 5
   },
   {
-    "title": "Big Walk used AI to fix a bug. Now the indie gaming world is having a reckoning.",
-    "link": "https://arstechnica.com/gaming/2026/11/big-walk-used-ai-to-fix-a-bug-now-the-indie-gaming-world-is-having-a-reckoning/",
-    "pubDate": "Wed, 11 Nov 2026 17:37:32 +0000",
-    "source": "Ars Technica AI",
-    "category": "ai",
-    "content": "Any amount of AI coding is too much for many Independent Games Festival judges.",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/bigwalkdebate-1152x648.png",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "Google DeepMind just mathematically verified key parts of Signal",
-    "link": "https://arstechnica.com/ai/2026/11/signals-encryption-just-passed-an-ai-powered-mathematical-checkup/",
-    "pubDate": "Wed, 11 Nov 2026 14:08:57 +0000",
-    "source": "Ars Technica AI",
-    "category": "ai",
-    "content": "The four-week project hints that AI could make formal verification far more practical.",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/signal_icon-1024x648.jpg",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "Ring cameras go mobile as Amazon debuts AI-powered security drone and robot",
-    "link": "https://arstechnica.com/ai/2026/11/ring-cameras-go-mobile-as-amazon-debuts-ai-powered-security-drone-and-robot/",
-    "pubDate": "Tue, 10 Nov 2026 22:35:01 +0000",
-    "source": "Ars Technica AI",
-    "category": "ai",
-    "content": "Amazon's roaming Ring Robotics devices will debut in late 2026 and early 2027.",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Ring-Drone-1152x648.jpeg",
-    "summary": "",
-    "importance": 5
+    "title": "Bitcoin, stocks and gold traders getting nervous, and volatility gauges are surging",
+    "link": "https://www.coindesk.com/daybook-us/2026/11/20/bitcoin-stocks-and-gold-traders-getting-nervous-and-volatility-gauges-are-surging",
+    "pubDate": "Fri, 20 Nov 2026 12:15:08 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "Your day-ahead look for Nov. 20, 2026",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/82891e39741f8ee1cf03244dc64580d21202c017-1600x900.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "summary": "Traders in Bitcoin, stocks, and gold are reportedly experiencing nervousness as volatility gauges show a significant surge across these markets. This brief update serves as a day-ahead outlook for November 20, 2026.",
+    "importance": 2,
+    "classified": true
   }
 ]
