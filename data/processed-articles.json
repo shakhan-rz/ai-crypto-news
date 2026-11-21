@@ -12,30 +12,6 @@
     "classified": true
   },
   {
-    "title": "Trump's Democratic SEC pick suggests tokenization policy deserves full rule process",
-    "link": "https://www.coindesk.com/policy/2026/11/19/trump-s-democratic-sec-pick-suggests-tokenization-policy-deserves-full-rule-process",
-    "pubDate": "Thu, 19 Nov 2026 18:15:56 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "The U.S. Senate Banking Committee held a confirmation hearing for the two nominees — one from each party — as the administration rebuilds the markets regulators.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/62f74ec6452b6d450e9b40f533eae3445ab31f4e-1255x687.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-    "summary": "A Democratic SEC nominee, chosen by Trump, suggested during a Senate Banking Committee confirmation hearing that tokenization policy should undergo a full rulemaking process. This indicates potential future regulatory developments for digital assets as the administration rebuilds market regulators.",
-    "importance": 9,
-    "classified": true
-  },
-  {
-    "title": "Anthropic gains after IPO, but pulls off highest levels",
-    "link": "https://www.coindesk.com/markets/2026/11/19/anthropic-opens-for-trade-at-usd11-50-up-34-from-ipo-price",
-    "pubDate": "Thu, 19 Nov 2026 17:01:47 +0000",
-    "source": "CoinDesk",
-    "category": "ai",
-    "content": "After opening at $111.50, ANT quickly slipped back under $100, still above its $83 offering price.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/821262fb4f697ff07420d4aa3b5969e9eb886658-5424x3616.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-    "summary": "Anthropic, a leading AI company, has commenced trading with its shares opening at $111.50, marking a 34% increase from its IPO price. This strong debut values the company at an astounding figure of over $2 trillion.",
-    "importance": 9,
-    "classified": true
-  },
-  {
     "title": "Anthropic shares open at $111.50, 34.3% above $83 IPO price",
     "link": "https://cointelegraph.com/markets/anthropic-shares-expected-to-open-above-83-ipo-price?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "pubDate": "Thu, 19 Nov 2026 16:07:51 +0000",
@@ -45,6 +21,30 @@
     "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7T8ETDTK3X1WT0HPSKQE0AH/hi-the-company-launches-pre-ipo-markets.jpg",
     "summary": "Anthropic, the maker of the Claude chatbot, began trading publicly under the ticker ANT, with shares opening at $111.50. This price represents a 34.3% increase above its $83 IPO price, valuing the company at approximately $2 trillion.",
     "importance": 9,
+    "classified": true
+  },
+  {
+    "title": "Bitcoin nodes could be stalled by repeating one ID 50,000 times. AI found the bug",
+    "link": "https://www.coindesk.com/markets/2026/11/21/bitcoin-nodes-could-be-stalled-by-repeating-one-id-50-000-times-ai-found-the-bug",
+    "pubDate": "Sat, 21 Nov 2026 06:16:42 +0000",
+    "source": "CoinDesk",
+    "category": "both",
+    "content": "Bitcoin Core shipped fixes on Friday for a bug flagged by Loupe, an open-source scanner from Block’s Spiral that uses AI agents to examine bitcoin code.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/0fd512cd2b3b63152562fab784b9d94b8b8b56ea-1500x994.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "summary": "Bitcoin Core recently implemented fixes for a critical bug identified by Loupe, an open-source scanner developed by Block’s Spiral. This scanner employs AI agents to examine the Bitcoin codebase, demonstrating AI's increasing role in enhancing blockchain security and identifying vulnerabilities.",
+    "importance": 8,
+    "classified": true
+  },
+  {
+    "title": "Bitcoin tanks below $57,000 for the first time in two years, and its not alone",
+    "link": "https://www.coindesk.com/markets/2026/11/21/bitcoin-tanks-below-usd57-000-for-the-first-time-in-two-years-and-its-not-alone",
+    "pubDate": "Sat, 21 Nov 2026 04:10:07 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "BTC's sell-off deepened on Saturday, with prices hitting two-year lows under $57,000.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/c4a0fdccd8d94e89522ad3903cb55ceb60c5e3d6-2158x1102.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "summary": "Bitcoin experienced a significant sell-off, with its price falling below $57,000 for the first time in two years. This drop represents a new two-year low for BTC and occurred amidst a broader market sell-off.",
+    "importance": 8,
     "classified": true
   },
   {
@@ -132,6 +132,18 @@
     "classified": true
   },
   {
+    "title": "Bitcoin drops for third straight day as Asian tech shares slide",
+    "link": "https://www.coindesk.com/markets/2026/11/20/bitcoin-drops-for-third-straight-day-as-asian-tech-shares-slide",
+    "pubDate": "Fri, 20 Nov 2026 11:42:02 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "BlackRock’s spot bitcoin ETF recorded the largest single-day outflow since its introduction more than two years ago as investors continued to flee the sector.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/700cd9d3046653dc5416b989eea0257568914257-1920x1080.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "summary": "Bitcoin experienced its third consecutive daily drop, coinciding with a slide in Asian tech shares. BlackRock's spot bitcoin ETF recorded its largest single-day outflow since its introduction, indicating investors are continuing to exit the sector.",
+    "importance": 8,
+    "classified": true
+  },
+  {
     "title": "Coinbase targets first-half 2027 for its own prediction market contracts",
     "link": "https://www.coindesk.com/business/2026/11/20/coinbase-targets-first-half-2027-for-its-own-prediction-market-contracts",
     "pubDate": "Fri, 20 Nov 2026 10:48:04 +0000",
@@ -164,6 +176,30 @@
     "content": "About $1.7 billion traded through a Hyperliquid contract on the AI company’s shares in 24 hours, and the biggest position heading into Friday’s Nasdaq open is a $30 million short.",
     "image": "https://cdn.sanity.io/images/s3y3vcno/production/e1c6b75a8b74bc87b66e15947b85122a0ef80c34-960x640.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
     "summary": "Crypto futures suggest that Anthropic shares may decline by 5% at Friday's market open, following $1.7 billion in trading volume on a Hyperliquid contract within 24 hours. The largest position heading into the open is a $30 million short on the AI company's shares.",
+    "importance": 8,
+    "classified": true
+  },
+  {
+    "title": "Big money bought a net $4 billion of bitcoin funds in Q3, ending 9 months of selling",
+    "link": "https://www.coindesk.com/markets/2026/11/20/big-money-bought-a-net-usd4-billion-of-bitcoin-funds-in-q3-ending-9-months-of-selling",
+    "pubDate": "Fri, 20 Nov 2026 05:20:51 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "Wall Street piled into Bitcoin funds in the third quarter, ending a three-quarter selling streak, according to Galaxy Research. But the buying has given way to renewed selling this quarter.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/e8d7b672b5e76d65b87b9cfd2ed2de8728a530fb-7740x6192.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "summary": "Wall Street ended a nine-month selling streak by buying a net $4 billion of Bitcoin funds in the third quarter, according to Galaxy Research. This significant influx of capital, however, has been followed by renewed selling in the current quarter.",
+    "importance": 8,
+    "classified": true
+  },
+  {
+    "title": "Ethereum’s next big upgrade is pushed into 2027 by apps it would break",
+    "link": "https://www.coindesk.com/tech/2026/11/20/ethereum-s-next-big-upgrade-is-pushed-into-2027-by-apps-it-would-break",
+    "pubDate": "Fri, 20 Nov 2026 04:58:08 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "Glamsterdam was originally targeted for December, but developers now say January is the earliest possible date as companies work to fix affected smart contracts.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/c357579ddef2051b405b9e89f8525dd02709081d-5760x3240.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "summary": "Ethereum's \"Glamsterdam\" upgrade, originally targeted for December, has been postponed until at least January, with the title suggesting a push into 2027. This delay is attributed to the fact that the upgrade would break numerous existing smart contracts, requiring companies to implement fixes.",
     "importance": 8,
     "classified": true
   },
@@ -240,15 +276,16 @@
     "classified": true
   },
   {
-    "title": "Bitcoin drops for third straight day as Asian tech shares slide",
-    "link": "https://www.coindesk.com/markets/2026/11/20/bitcoin-drops-for-third-straight-day-as-asian-tech-shares-slide",
-    "pubDate": "Fri, 20 Nov 2026 11:42:02 +0000",
+    "title": "XRP falls 10% as long bets unwind and ETF assets slip below $1 billion",
+    "link": "https://www.coindesk.com/markets/2026/11/21/xrp-falls-10-as-long-bets-unwind-and-etf-assets-slip-below-usd1-billion",
+    "pubDate": "Sat, 21 Nov 2026 05:59:19 +0000",
     "source": "CoinDesk",
     "category": "crypto",
-    "content": "BlackRock’s spot bitcoin ETF recorded the largest single-day outflow since its introduction more than two years ago as investors continued to flee the sector.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/700cd9d3046653dc5416b989eea0257568914257-1920x1080.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-    "summary": "",
-    "importance": 5
+    "content": "The token broke its previous November lows during Saturday's crypto selloff, with long positions accounting for most XRP liquidations and technical indicators showing further weakness.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/e801fab0ba43b1fac7d53b2dde06f85232d5e766-1506x830.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "summary": "XRP experienced a 10% decline, falling below its previous November lows during a recent Saturday crypto market selloff. The drop was largely attributed to the unwinding of long positions, with technical indicators suggesting further price weakness for the token.",
+    "importance": 5,
+    "classified": true
   },
   {
     "title": "Here's what's crashing gold and likely weighing on bitcoin too",
@@ -261,28 +298,6 @@
     "summary": "Gold experienced a significant drop, reaching its lowest point since September 2025, due to a specific catalyst. This same factor is also believed to be negatively impacting Bitcoin's price, suggesting a shared market influence.",
     "importance": 5,
     "classified": true
-  },
-  {
-    "title": "Big money bought a net $4 billion of bitcoin funds in Q3, ending 9 months of selling",
-    "link": "https://www.coindesk.com/markets/2026/11/20/big-money-bought-a-net-usd4-billion-of-bitcoin-funds-in-q3-ending-9-months-of-selling",
-    "pubDate": "Fri, 20 Nov 2026 05:20:51 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "Wall Street piled into Bitcoin funds in the third quarter, ending a three-quarter selling streak, according to Galaxy Research. But the buying has given way to renewed selling this quarter.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/e8d7b672b5e76d65b87b9cfd2ed2de8728a530fb-7740x6192.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "Ethereum’s next big upgrade is pushed into 2027 by apps it would break",
-    "link": "https://www.coindesk.com/tech/2026/11/20/ethereum-s-next-big-upgrade-is-pushed-into-2027-by-apps-it-would-break",
-    "pubDate": "Fri, 20 Nov 2026 04:58:08 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "Glamsterdam was originally targeted for December, but developers now say January is the earliest possible date as companies work to fix affected smart contracts.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/c357579ddef2051b405b9e89f8525dd02709081d-5760x3240.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-    "summary": "",
-    "importance": 5
   },
   {
     "title": "VanEck drops Gemini as custodian of its bitcoin, ether and SOL ETFs",
@@ -307,13 +322,35 @@
     "importance": 5
   },
   {
-    "title": "Sky's USDS stablecoin shrinks 35% as $1.5 billion exits reserves after illicit-finance report",
-    "link": "https://www.coindesk.com/business/2026/11/19/sky-s-usds-stablecoin-shrinks-35-as-usd1-5-billion-exits-reserves-after-illicit-finance-report",
-    "pubDate": "Thu, 19 Nov 2026 19:53:42 +0000",
-    "source": "CoinDesk",
+    "title": "ECB seeks industry partners for tokenized deposits, securities experiments",
+    "link": "https://cointelegraph.com/news/ecb-tokenized-deposits-securities-experiments-appia?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Sat, 21 Nov 2026 09:48:56 +0000",
+    "source": "Cointelegraph",
     "category": "crypto",
-    "content": "USDS held its $1 peg as a large holder linked to Poloniex withdrew much of decentralized protocol Sky's USDC liquidity backing its stablecoins.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/68cca7099bc4c4f1be04587d54e876e9da8719ee-1440x1080.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "content": "Industry groups have until Dec. 11 to apply for the ECB’s first experimental exercises under its Appia initiative, with later submissions reviewed on a rolling basis.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M34BTQXP52VJEXVV822SS5QM/hi-what-is-a-decentralized-money-market-and-eu-stablecoin-2.jpg",
+    "summary": "",
+    "importance": 5
+  },
+  {
+    "title": "US lawmakers propose up to 30% rewards for prediction market whistleblowers",
+    "link": "https://cointelegraph.com/news/us-prediction-market-whistleblower-rewards-30-percent?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Sat, 21 Nov 2026 07:51:47 +0000",
+    "source": "Cointelegraph",
+    "category": "crypto",
+    "content": "Whistleblowers could receive 10% to 30% of monetary sanctions in qualifying prediction market fraud cases exceeding $1 million in penalties.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M3TG0M8S1BAV7KN2AJ34JJE9/prediction-market.jpg",
+    "summary": "",
+    "importance": 5
+  },
+  {
+    "title": "Hong Kong pushes to bring crypto custodians, advisers under licensing rules",
+    "link": "https://cointelegraph.com/news/hong-kong-crypto-custody-advisory-licensing-bill?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Sat, 21 Nov 2026 05:40:35 +0000",
+    "source": "Cointelegraph",
+    "category": "crypto",
+    "content": "Hong Kong’s securities regulator says the proposal would strengthen investor protections, with the bill set for its first reading in the Legislative Council on Dec. 2.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7Y9VC5TT6XQ46DCK68VGC0X/regulation-hong-kong.jpg",
     "summary": "",
     "importance": 5
   },
@@ -583,35 +620,13 @@
     "importance": 5
   },
   {
-    "title": "Sweden’s H100 could tap Bitcoin trading pool to fund share buybacks",
-    "link": "https://cointelegraph.com/news/swedens-h100-13m-q3-loss-share-buyback-approval?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Thu, 19 Nov 2026 11:19:58 +0000",
-    "source": "Cointelegraph",
+    "title": "JPMorgan says bitcoin’s price drop pressures miners, Senate passes ‘Death Bets Act’, and more",
+    "link": "https://www.theblock.co/newsletters/the-daily/2026-11-20-jpmorgan-bitcoin-price-drop-miners-senate-passes-death-bets-act-more-crypto-news-444786",
+    "pubDate": "Sat, 21 Nov 2026 04:30:00 +0000",
+    "source": "The Block",
     "category": "crypto",
-    "content": "Shareholders will vote Dec. 7 on whether H100 can buy back up to 10% of its shares, potentially using a Bitcoin pool that lost about 30 BTC in Q3.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7SNB5B19MZXHBMWJSW6SVAN/hi-coinbase-seeks-ipo-1.png",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "IOSCO warns quantum upgrades could slow blockchains, leave security gaps",
-    "link": "https://cointelegraph.com/news/iosco-quantum-blockchain-upgrades-security-risks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Thu, 19 Nov 2026 10:32:05 +0000",
-    "source": "Cointelegraph",
-    "category": "crypto",
-    "content": "A Solana test network ran about 90% slower with quantum-resistant signatures, and wallets that keep using older keys could remain vulnerable.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7SM359KWG92A5Y8EAMD2EM8/hi-a-simple-breakdown-bitcoins-post-quantum-migration.jpg",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "Singapore settles $77.5M tokenized bill sale with wholesale CBDC",
-    "link": "https://cointelegraph.com/news/mas-issues-77m-tokenized-bills-singapore-dollar-test-network?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Thu, 19 Nov 2026 08:54:58 +0000",
-    "source": "Cointelegraph",
-    "category": "crypto",
-    "content": "MAS issued the bills directly on its test network, which it plans to rename SG Digital Ledger and use for settlement beyond the trials.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7SBSNHRTPW4ZMZ1E8HFB32H/news-crypto-studio-breaking-news-2.jpg",
+    "content": "In today's newsletter, JPMorgan says bitcoin's price drop puts more pressure on miners; Senate passes bill to ban prediction markets tied to death and war; and more.",
+    "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2024/05/20240501_JPMorgan_News.jpg",
     "summary": "",
     "importance": 5
   },
@@ -821,17 +836,6 @@
     "category": "crypto",
     "content": "Hill and Moreno fault Clarity Act delays but disagree on how much crypto regulators can accomplish.",
     "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/06/Clarity-Act-Learn-scaled.jpg",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "Bitcoin finance protocol Hashi goes live on Sui mainnet",
-    "link": "https://www.theblock.co/news/defi/2026-11-19-bitcoin-finance-protocol-hashi-goes-live-on-sui-mainnet-443608",
-    "pubDate": "Thu, 19 Nov 2026 14:00:00 +0000",
-    "source": "The Block",
-    "category": "crypto",
-    "content": "Hashi is processing bitcoin deposits on Sui mainnet, with hBTC used for Fluid loans and HoneyB vaults on Upshift.",
-    "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/GettyImages-461203600-scaled.jpg",
     "summary": "",
     "importance": 5
   },
