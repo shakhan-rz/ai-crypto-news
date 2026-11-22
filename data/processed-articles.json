@@ -12,6 +12,18 @@
     "classified": true
   },
   {
+    "title": "OpenAI, Anthropic and rivals seek AI agent rules to prevent commerce chaos",
+    "link": "https://www.coindesk.com/tech/2026/11/21/openai-anthropic-and-rivals-seek-ai-agent-rules-to-prevent-commerce-chaos",
+    "pubDate": "Sat, 21 Nov 2026 14:00:00 +0000",
+    "source": "CoinDesk",
+    "category": "ai",
+    "content": "OpenAI, Anthropic, and other technology giants are backing standards designed to enable agents to work together without putting any one company in control.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/1bd48a3fe18062fee7cb925250ccc088b0e73dc9-2312x1264.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "summary": "Major tech companies including OpenAI and Anthropic are supporting the development of new standards for AI agents. The goal is to enable these agents to work together seamlessly and collaboratively. This initiative aims to prevent any single company from controlling the interoperability of these advanced AI systems.",
+    "importance": 9,
+    "classified": true
+  },
+  {
     "title": "Wrapped Monero token plunges 99% as issuer-linked wallet sells $13.5 million",
     "link": "https://www.coindesk.com/markets/2026/11/20/wrapped-monero-token-plunges-99-as-issuer-linked-wallet-sells-usd13-5-million",
     "pubDate": "Fri, 20 Nov 2026 08:04:40 +0000",
@@ -72,15 +84,15 @@
     "classified": true
   },
   {
-    "title": "Anthropic shares open at $111.50, 34.3% above $83 IPO price",
-    "link": "https://cointelegraph.com/markets/anthropic-shares-expected-to-open-above-83-ipo-price?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Thu, 19 Nov 2026 16:07:51 +0000",
-    "source": "Cointelegraph",
-    "category": "ai",
-    "content": "The Claude chatbot maker began trading under the ticker ANT, with the company’s valuation at around $2 trillion at the opening price.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7T8ETDTK3X1WT0HPSKQE0AH/hi-the-company-launches-pre-ipo-markets.jpg",
-    "summary": "Anthropic, the maker of the Claude chatbot, began trading publicly under the ticker ANT, with shares opening at $111.50. This price represents a 34.3% increase above its $83 IPO price, valuing the company at approximately $2 trillion.",
-    "importance": 9,
+    "title": "Bitcoin's quantum security challenge extends to bridges, custodians and millions of coins",
+    "link": "https://www.coindesk.com/tech/2026/11/22/bitcoin-s-quantum-security-challenge-extends-to-bridges-custodians-and-millions-of-coins",
+    "pubDate": "Sun, 22 Nov 2026 14:00:00 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "Quantum computers can’t break Bitcoin network’s security yet, but Leo Fan warns that upgrading it and moving funds could take longer than expected.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/aeeabe28669425a95b4918b55a4680c3e968c1c7-6002x4001.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "summary": "An expert warns that while quantum computers don't currently threaten Bitcoin's security, the process of upgrading the network and migrating funds to quantum-resistant addresses could take much longer than anticipated. This significant challenge extends to crucial infrastructure like bridges, custodians, and millions of existing coins, potentially causing substantial future disruption.",
+    "importance": 8,
     "classified": true
   },
   {
@@ -252,18 +264,6 @@
     "classified": true
   },
   {
-    "title": "Big money bought a net $4 billion of bitcoin funds in Q3, ending 9 months of selling",
-    "link": "https://www.coindesk.com/markets/2026/11/20/big-money-bought-a-net-usd4-billion-of-bitcoin-funds-in-q3-ending-9-months-of-selling",
-    "pubDate": "Fri, 20 Nov 2026 05:20:51 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "Wall Street piled into Bitcoin funds in the third quarter, ending a three-quarter selling streak, according to Galaxy Research. But the buying has given way to renewed selling this quarter.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/e8d7b672b5e76d65b87b9cfd2ed2de8728a530fb-7740x6192.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-    "summary": "Wall Street ended a nine-month selling streak by buying a net $4 billion of Bitcoin funds in the third quarter, according to Galaxy Research. This significant influx of capital, however, has been followed by renewed selling in the current quarter.",
-    "importance": 8,
-    "classified": true
-  },
-  {
     "title": "Chainflip confirms $12M hack, offers attacker 10% bounty",
     "link": "https://cointelegraph.com/news/chainflip-12m-crypto-hack-10-percent-bounty?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "pubDate": "Sun, 22 Nov 2026 05:28:43 +0000",
@@ -372,6 +372,30 @@
     "classified": true
   },
   {
+    "title": "Anthropic’s $81B IPO draws half the net retail buying of SpaceX’s",
+    "link": "https://cointelegraph.com/markets/anthropic-ipo-spacex-retail-buying-first-day-gains?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Fri, 20 Nov 2026 06:24:41 +0000",
+    "source": "Cointelegraph",
+    "category": "ai",
+    "content": "Retail investors traded $772 million in Anthropic shares on Thursday, the most Vanda Research has recorded for a market debut since 2012.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7VR4SBEADEQX33JBG2WPEJD/hi-ipo-market-september-overview.jpg",
+    "summary": "Anthropic, a major AI company, saw $772 million in retail investor trading on its debut, marking the highest volume recorded for a market debut since 2012. This substantial activity, however, was half the net retail buying attracted by SpaceX's debut.",
+    "importance": 8,
+    "classified": true
+  },
+  {
+    "title": "Institutions pile back into US Bitcoin ETFs in Q3 after selling streak",
+    "link": "https://cointelegraph.com/markets/institutional-bitcoin-etf-holdings-clock-record-quarter-after-selling-streak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Fri, 20 Nov 2026 03:33:22 +0000",
+    "source": "Cointelegraph",
+    "category": "crypto",
+    "content": "Asset managers added the equivalent of 49,229 Bitcoin to their US Bitcoin ETF holdings in the third quarter, reversing three quarters of net selling.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M399X14JGMZWTWX9787D6BTC/hi-what-are-inflows-and-outflows-on-crypto-exchanges-bitcoin-etf.jpg",
+    "summary": "Institutional asset managers significantly increased their holdings in US Bitcoin ETFs during the third quarter, adding the equivalent of 49,229 Bitcoin. This marks a notable reversal after three consecutive quarters of net selling, indicating renewed institutional interest in the cryptocurrency market.",
+    "importance": 8,
+    "classified": true
+  },
+  {
     "title": "Bitcoin rebounds above $60,000 after $1.8 billion crypto liquidation wave",
     "link": "https://www.coindesk.com/markets/2026/11/21/bitcoin-bounces-9-from-two-year-low-to-retake-usd60-000-as-traders-eye-monday-s-stock-open",
     "pubDate": "Sat, 21 Nov 2026 17:50:00 +0000",
@@ -396,14 +420,14 @@
     "classified": true
   },
   {
-    "title": "This Bitcoin miner sold 267 BTC to clear $22 million debt. It still may not survive",
-    "link": "https://www.coindesk.com/markets/2026/11/20/this-bitcoin-miner-sold-267-btc-to-clear-usd22-million-debt-it-still-may-not-survive",
-    "pubDate": "Fri, 20 Nov 2026 05:32:25 +0000",
-    "source": "CoinDesk",
+    "title": "The future of onchain FX could start with users, not institutional liquidity",
+    "link": "https://cointelegraph.com/opinion/future-onchain-fx-could-start-with-users-not-institutional-liquidity?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Sun, 22 Nov 2026 14:30:00 +0000",
+    "source": "Cointelegraph",
     "category": "crypto",
-    "content": "PowerCompute had its lender sell 267 pledged bitcoin in September, wiping out most of its debt, and ended the month with about $650,000 in cash and a going-concern warning.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/54bd04de039305784bf732dce245207bcc75ba21-7008x3942.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-    "summary": "Bitcoin miner PowerCompute sold 267 pledged BTC in September to clear $22 million in debt. While this wiped out most of its obligations, the company ended the month with limited cash and a 'going-concern' warning. This raises questions about its long-term survival despite the significant debt reduction.",
+    "content": "Onchain FX does not need to recreate the trillion-dollar institutional market to become useful. Real demand can make smaller markets work first.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7HXR8PX0V9ND83QRBCRCYJB/hi-international-association-of-trusted-blockchain-applications-dollar.jpg",
+    "summary": "This article posits that the development of onchain foreign exchange (FX) markets doesn't require replicating large institutional liquidity. Instead, it suggests that genuine user demand can effectively drive the initial success and utility of smaller, more accessible onchain FX markets.",
     "importance": 7,
     "classified": true
   },
@@ -428,6 +452,30 @@
     "content": "The Senate-approved bill would ban prediction market contracts tied to war, assassination and death amid concerns over potential insider trading on military events.",
     "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7WS7SH44A7MXA0Q21TD4GY8/hi-when-will-the-prediction-market-take-place-and-what-effect-is-it-having-on-crypto-2.png",
     "summary": "The US Senate has advanced the DEATH BETS Act, a bill that would ban prediction market contracts tied to war, assassination, and death. This legislative action is motivated by concerns over potential insider trading, particularly in relation to military events.",
+    "importance": 7,
+    "classified": true
+  },
+  {
+    "title": "Ledger CTO Charles Guillemet to leave after nine years at company",
+    "link": "https://cointelegraph.com/news/ledger-cto-charles-guillemet-to-leave-after-nine-years-at-company?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Thu, 19 Nov 2026 23:44:02 +0000",
+    "source": "Cointelegraph",
+    "category": "crypto",
+    "content": "Guillemet helped establish Ledger’s Donjon security lab and says his departure has been planned for months.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7V13YNHJY11MWW37WA0R9X8/hi-can-locked-liquidity-still-put-defi-users-at-risk.jpg",
+    "summary": "Ledger's Chief Technology Officer, Charles Guillemet, is departing the company after nine years of service. He was instrumental in establishing Ledger’s Donjon security lab, and his exit has been planned for several months.",
+    "importance": 7,
+    "classified": true
+  },
+  {
+    "title": "Binance’s $6.5B freeze order, Hong Kong ‘suspicious’ of HYPE: Asia Express",
+    "link": "https://cointelegraph.com/magazine/binances-65b-freeze-order-hong-kong-suspicious-of-hype-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Thu, 19 Nov 2026 22:25:18 +0000",
+    "source": "Cointelegraph",
+    "category": "crypto",
+    "content": "Binance obtains court orders freezing assets stolen in October’s hack. Hong Kong warns citizens about Hyperliquid, and Thai police arrest four foreigners linked to a crypto scam.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7TW6KD0H9BEVC27QRWR5CP8/asia-express-jacket.png",
+    "summary": "Binance has successfully obtained court orders to freeze assets that were stolen in an October hack. Concurrently, Hong Kong has issued a warning to its citizens regarding Hyperliquid, while Thai police have arrested four foreign nationals in connection with a cryptocurrency scam.",
     "importance": 7,
     "classified": true
   },
@@ -530,7 +578,7 @@
   {
     "title": "Here’s what happened in crypto today",
     "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Sat, 21 Nov 2026 11:18:52 +0000",
+    "pubDate": "Sun, 22 Nov 2026 11:25:27 +0000",
     "source": "Cointelegraph",
     "category": "crypto",
     "content": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
@@ -550,50 +598,6 @@
     "summary": "VanEck plans to terminate its custody agreements with Gemini for three crypto ETFs, effective February 2027. While Gemini will no longer serve as custodian, Coinbase will continue in its role as custodian for these funds.",
     "importance": 5,
     "classified": true
-  },
-  {
-    "title": "Anthropic’s $81B IPO draws half the net retail buying of SpaceX’s",
-    "link": "https://cointelegraph.com/markets/anthropic-ipo-spacex-retail-buying-first-day-gains?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Fri, 20 Nov 2026 06:24:41 +0000",
-    "source": "Cointelegraph",
-    "category": "crypto",
-    "content": "Retail investors traded $772 million in Anthropic shares on Thursday, the most Vanda Research has recorded for a market debut since 2012.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7VR4SBEADEQX33JBG2WPEJD/hi-ipo-market-september-overview.jpg",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "Institutions pile back into US Bitcoin ETFs in Q3 after selling streak",
-    "link": "https://cointelegraph.com/markets/institutional-bitcoin-etf-holdings-clock-record-quarter-after-selling-streak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Fri, 20 Nov 2026 03:33:22 +0000",
-    "source": "Cointelegraph",
-    "category": "crypto",
-    "content": "Asset managers added the equivalent of 49,229 Bitcoin to their US Bitcoin ETF holdings in the third quarter, reversing three quarters of net selling.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M399X14JGMZWTWX9787D6BTC/hi-what-are-inflows-and-outflows-on-crypto-exchanges-bitcoin-etf.jpg",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "Ledger CTO Charles Guillemet to leave after nine years at company",
-    "link": "https://cointelegraph.com/news/ledger-cto-charles-guillemet-to-leave-after-nine-years-at-company?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Thu, 19 Nov 2026 23:44:02 +0000",
-    "source": "Cointelegraph",
-    "category": "crypto",
-    "content": "Guillemet helped establish Ledger’s Donjon security lab and says his departure has been planned for months.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7V13YNHJY11MWW37WA0R9X8/hi-can-locked-liquidity-still-put-defi-users-at-risk.jpg",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "Binance’s $6.5B freeze order, Hong Kong ‘suspicious’ of HYPE: Asia Express",
-    "link": "https://cointelegraph.com/magazine/binances-65b-freeze-order-hong-kong-suspicious-of-hype-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Thu, 19 Nov 2026 22:25:18 +0000",
-    "source": "Cointelegraph",
-    "category": "crypto",
-    "content": "Binance obtains court orders freezing assets stolen in October’s hack. Hong Kong warns citizens about Hyperliquid, and Thai police arrest four foreigners linked to a crypto scam.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7TW6KD0H9BEVC27QRWR5CP8/asia-express-jacket.png",
-    "summary": "",
-    "importance": 5
   },
   {
     "title": "MoonPay seeks US bank charter for stablecoin, custody services",
@@ -1080,6 +1084,17 @@
     "importance": 5
   },
   {
+    "title": "Why data centers are at the center of the Big Tech backlash",
+    "link": "https://techcrunch.com/2026/11/22/why-data-centers-are-at-the-center-of-the-big-tech-backlash/",
+    "pubDate": "Sun, 22 Nov 2026 18:08:43 +0000",
+    "source": "TechCrunch AI",
+    "category": "ai",
+    "content": "Journalist Paris Marx unpacks his new book \"Hyperscale.\"",
+    "image": "",
+    "summary": "",
+    "importance": 5
+  },
+  {
     "title": "Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance",
     "link": "https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/",
     "pubDate": "Sat, 21 Nov 2026 21:37:10 +0000",
@@ -1289,13 +1304,24 @@
     "importance": 5
   },
   {
-    "title": "At Nasdaq opening bell, Anthropic CEO recommits to pacing AI development",
-    "link": "https://techcrunch.com/2026/11/19/at-nasdaq-opening-bell-anthropic-ceo-recommits-to-pacing-ai-development/",
-    "pubDate": "Thu, 19 Nov 2026 16:19:41 +0000",
-    "source": "TechCrunch AI",
+    "title": "Binding of Isaac developer removes AI music from Repentance Plus",
+    "link": "https://www.theverge.com/games/1039770/binding-of-isaac-ai-music",
+    "pubDate": "2026-11-22T17:25:20.000Z",
+    "source": "The Verge AI",
     "category": "ai",
-    "content": "In his Nasdaq opening bell speech, Dario Amodei reiterated Anthropic's commitment to pacing AI development, regardless of business or political pressure.",
-    "image": "",
+    "content": "The Binding of Isaac: Repentance Plus has spent the last few days getting review-bombed on Steam after it was discovered that a particular segment of the game used AI music. Reddit user ShweetsStuff discovered the songs used during a Grand Theft Auto-themed section. They found several audio files with Suno metadata that pointed back to the tracks on Suno's site.\nCreator Edmund McMillen took to X to apologize and claimed he \"had no idea\" the in-game GTA parody used generative AI music. Adding to the drama, Valve requires developers to disclose how and when they use generative AI in the development process, and Nicalis, Inc., the studio behin …\nRead the full story at The Verge.",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/j7yPmbNCP4I-HD.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "summary": "",
+    "importance": 5
+  },
+  {
+    "title": "The vibe-coding revolution is coming to all the gadgets",
+    "link": "https://www.theverge.com/column/1039139/vibe-coding-gadgets-tv-camera",
+    "pubDate": "2026-11-22T13:00:00.000Z",
+    "source": "The Verge AI",
+    "category": "ai",
+    "content": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on the vibe-hacking of everything, follow David Pierce. The Stepback arrives in our subscribers' inboxes on Sunday at 8AM ET. Opt in for The Stepback here.\nHow it started\nLike so many things with AI, it's not that large language models opened up some wholly new capability. For as long as there have been gadgets, a few users have been hacking, modding, jailbreaking, and tweaking them to their liking. What is new is that it's easy now. People all over the world are discovering that they can use large language models to hack their hardwar …\nRead the full story at The Verge.",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/AI_vibe_coding_hacker_hardware.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
     "summary": "",
     "importance": 5
   },
@@ -1384,28 +1410,6 @@
     "category": "ai",
     "content": "Apple is working on its own AI agent that can perform a range of tasks for you, including browsing the web, working across apps, writing code, and calling services. That's according to a now-removed job listing spotted by Bloomberg, which said Apple is looking for an engineer to lead the creation of an agentic AI assistant.\nAn AI agent from Apple would put the iPhone maker in the running to compete with the likes of Meta's Muse, OpenAI's Dots, Anthropic's Duet, and Google's Tasks. Muse, ChatGPT, and Perplexity can already take control of a computer through their Mac apps, while Google just started letting Gemini do the same.\nApple began ro …\nRead the full story at The Verge.",
     "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/DSC04239.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "A brief history of Nvidia’s recent stock fluctuations",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1038063/nvidia-stock-market-price-earnings",
-    "pubDate": "2026-11-19T21:59:35.000Z",
-    "source": "The Verge AI",
-    "category": "ai",
-    "content": "Traders work on the floor of the New York Stock Exchange during morning trading on November 18, 2026 in New York City. | Image: Getty Images\t\n\n\"We've got this,\" Colette Kress, interim CEO of Nvidia, said Tuesday night as she closed out the embattled chip company's third quarter earnings call.\nBy Thursday, the company's stock price was hovering at around $150 per share, a nearly 40 percent drop from its all-time high on October 6th, and wiping out a brief post-earnings pop on Tuesday night. Meanwhile, Wall Street was paying up for one of Nvidia's biggest customers as Anthropic made its Nasdaq debut at $111.50 per share - 34 percent higher than expected.\nLooking at the earnings report numbers alone, Nvidia had a blockbuster quarter. Q3 revenue more than doubled from the same period …\nRead the full story at The Verge.",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2305716823.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "Meta’s Muse Charm might cost $300",
-    "link": "https://www.theverge.com/tech/1038087/meta-muse-charm-ai-price",
-    "pubDate": "2026-11-19T20:22:17.000Z",
-    "source": "The Verge AI",
-    "category": "ai",
-    "content": "Meta is planning to price the Muse Charm, a little gadget with a screen that lets you chat with your Muse AI agent, at $300, according to The Information. CEO Mark Zuckerberg revealed the gadget earlier this year and said the company expected to ship the Charm \"in time for the holidays in December,\" but he didn't provide a price at the time.\nWhen he announced the Muse Charm, Zuckerberg said that the company had \"packed the whole Muse experience,\" including real-time voice and avatar technology, into the gadget. It has a fingerprint sensor, and you can tap it to be able to talk to a Muse AI agent without unlocking a phone or opening an app.  …\nRead the full story at The Verge.",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/lcimg-3879511d-dd3d-430c-8072-616e2dfb3484.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
     "summary": "",
     "importance": 5
   },
