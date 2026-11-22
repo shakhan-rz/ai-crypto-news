@@ -36,6 +36,18 @@
     "classified": true
   },
   {
+    "title": "Wrapped Monero token crashes 99.8% amid suspected $13.5M exploit",
+    "link": "https://cointelegraph.com/news/wrapped-monero-token-crashes-998-amid-suspected-135m-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Fri, 20 Nov 2026 19:37:27 +0000",
+    "source": "Cointelegraph",
+    "category": "crypto",
+    "content": "Bitquery traced $13.5 million in suspicious sales of the wrapped Monero token, as its operator blamed a security breach and promised to reimburse affected traders.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7X4D1A62D3GQT3E2RD261Q4/hi-company-hits-vulnerability-2.png",
+    "summary": "The wrapped Monero token crashed by 99.8% after a suspected $13.5 million exploit was traced through suspicious sales. Its operator confirmed a security breach and pledged to reimburse affected traders for their losses.",
+    "importance": 9,
+    "classified": true
+  },
+  {
     "title": "Anthropic shares open at $111.50, 34.3% above $83 IPO price",
     "link": "https://cointelegraph.com/markets/anthropic-shares-expected-to-open-above-83-ipo-price?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "pubDate": "Thu, 19 Nov 2026 16:07:51 +0000",
@@ -240,13 +252,61 @@
     "classified": true
   },
   {
-    "title": "Bitcoin bounces 9% from two-year low to retake $60,000 as traders eye Monday’s stock open",
+    "title": "Sky Protocol sees $2 billion in stablecoin withdrawals, disputes illicit fund claims",
+    "link": "https://cointelegraph.com/news/sky-protocol-sees-2b-in-stablecoin-withdrawals-disputes-illicit-fund-claims?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Fri, 20 Nov 2026 18:37:10 +0000",
+    "source": "Cointelegraph",
+    "category": "crypto",
+    "content": "Sky says its USDS stablecoin held its $1 value despite more than $2 billion in withdrawals, as it disputes a report linking the protocol to illicit activity.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7X2CXDXB4B5SGSAMFZAXXE0/hi-kraken-ipo-1.png",
+    "summary": "Sky Protocol is disputing claims linking it to illicit activities after experiencing over $2 billion in withdrawals of its USDS stablecoin. The protocol asserts that its stablecoin successfully maintained its $1 peg throughout the significant withdrawal event.",
+    "importance": 8,
+    "classified": true
+  },
+  {
+    "title": "Bitcoin price drops to $60K as Anthropic drops to $87 in tech sell-off",
+    "link": "https://cointelegraph.com/markets/bitcoin-hits-new-20-week-low-anthropic-drops-87-tech-sell-off?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Fri, 20 Nov 2026 15:52:06 +0000",
+    "source": "Cointelegraph",
+    "category": "both",
+    "content": "Bitcoin price strength felt pressure from falling US equities as traders reassessed AI prospects after Anthropic’s IPO.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7WQNA6474S1X1PQY3N7WJMX/hi-bollinger-band-explained2-960x640.webp",
+    "summary": "Bitcoin's price dropped to $60K amidst a broader tech sell-off, as traders reassessed AI prospects following Anthropic's IPO, which saw its stock fall to $87. This market movement illustrates pressure on Bitcoin from falling US equities due to AI sector concerns.",
+    "importance": 8,
+    "classified": true
+  },
+  {
+    "title": "DBS bets it can lose the deposit and keep the client",
+    "link": "https://cointelegraph.com/news/dbs-bets-it-can-lose-the-deposit-and-keep-the-client?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Fri, 20 Nov 2026 15:32:30 +0000",
+    "source": "Cointelegraph",
+    "category": "crypto",
+    "content": "The Singapore bank earned a record $208 million in transaction services fees in the third quarter — now it’s helping companies turn deposits into stablecoins they can spend without it.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7WNFYH0FRWPZX615E3RNKNQ/sponsored-marina-bay-sand-singapore-light-water11-1.jpg",
+    "summary": "DBS Bank is enabling companies to convert their traditional deposits into stablecoins for spending, even though this move could result in funds leaving the bank. Despite earning record transaction services fees, the Singaporean bank is making this strategic bet to retain clients by facilitating direct stablecoin utility.",
+    "importance": 8,
+    "classified": true
+  },
+  {
+    "title": "Lagarde warns Europe could miss chance to unify tokenized markets",
+    "link": "https://cointelegraph.com/news/lagarde-europe-limited-window-tokenization-rules?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Fri, 20 Nov 2026 13:21:39 +0000",
+    "source": "Cointelegraph",
+    "category": "crypto",
+    "content": "The ECB president said Europe’s market for tokenized securities could split into platforms that cannot settle trades with one another.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7WGQEQ57ZB4C6X8Y2M5KYTQ/christine-lagarde-imf.jpg",
+    "summary": "ECB President Christine Lagarde has warned that Europe's market for tokenized securities is at risk of fragmentation. This could result in different platforms being unable to settle trades with one another, hindering market efficiency.",
+    "importance": 8,
+    "classified": true
+  },
+  {
+    "title": "Bitcoin rebounds above $60,000 after $1.8 billion crypto liquidation wave",
     "link": "https://www.coindesk.com/markets/2026/11/21/bitcoin-bounces-9-from-two-year-low-to-retake-usd60-000-as-traders-eye-monday-s-stock-open",
     "pubDate": "Sat, 21 Nov 2026 17:50:00 +0000",
     "source": "CoinDesk",
     "category": "crypto",
-    "content": "The sell-off wiped out $1.8 billion in leveraged crypto positions, mostly from bullish bets on rising prices.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/6a50d7f76698cadd3cc56a5abf007eb4039d9d74-1163x450.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "content": "The selloff wiped out $1.8 billion in leveraged crypto positions, mostly from bullish bets on rising prices.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/4fde67fb13ec22194f44b21fc8ca9b85ce2f9481-1520x856.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
     "summary": "Bitcoin rebounded by 9% to reclaim $60,000 after hitting a two-year low, with traders now anticipating Monday's stock open. This bounce occurred after a significant sell-off that liquidated $1.8 billion in leveraged crypto positions, largely from bullish bets.",
     "importance": 7,
     "classified": true
@@ -272,6 +332,18 @@
     "content": "PowerCompute had its lender sell 267 pledged bitcoin in September, wiping out most of its debt, and ended the month with about $650,000 in cash and a going-concern warning.",
     "image": "https://cdn.sanity.io/images/s3y3vcno/production/54bd04de039305784bf732dce245207bcc75ba21-7008x3942.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
     "summary": "Bitcoin miner PowerCompute sold 267 pledged BTC in September to clear $22 million in debt. While this wiped out most of its obligations, the company ended the month with limited cash and a 'going-concern' warning. This raises questions about its long-term survival despite the significant debt reduction.",
+    "importance": 7,
+    "classified": true
+  },
+  {
+    "title": "US Senate advances prediction market restrictions with DEATH BETS Act",
+    "link": "https://cointelegraph.com/news/us-senate-advances-prediction-market-restrictions-with-death-bets-act?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Fri, 20 Nov 2026 15:55:22 +0000",
+    "source": "Cointelegraph",
+    "category": "crypto",
+    "content": "The Senate-approved bill would ban prediction market contracts tied to war, assassination and death amid concerns over potential insider trading on military events.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7WS7SH44A7MXA0Q21TD4GY8/hi-when-will-the-prediction-market-take-place-and-what-effect-is-it-having-on-crypto-2.png",
+    "summary": "The US Senate has advanced the DEATH BETS Act, a bill that would ban prediction market contracts tied to war, assassination, and death. This legislative action is motivated by concerns over potential insider trading, particularly in relation to military events.",
     "importance": 7,
     "classified": true
   },
@@ -336,6 +408,18 @@
     "classified": true
   },
   {
+    "title": "Bitcoin falls below $60K for first time since July amid broader market selloff",
+    "link": "https://cointelegraph.com/markets/bitcoin-falls-below-60k-for-first-time-since-july-amid-broader-market-selloff?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Fri, 20 Nov 2026 16:55:51 +0000",
+    "source": "Cointelegraph",
+    "category": "crypto",
+    "content": "Bitcoin fell nearly 6% as US stocks declined, with the Nasdaq dropping more than 2% and Anthropic shares losing almost 10%.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M79N7DA5EN5QTEX2W50DFFNH/hi-so-what-is-happening-to-bitcoin-bear-market-1.jpg",
+    "summary": "Bitcoin experienced a nearly 6% drop, falling below $60,000 for the first time since July. This decline was part of a broader market selloff that also saw US stocks fall and AI company Anthropic's shares lose almost 10%.",
+    "importance": 6,
+    "classified": true
+  },
+  {
     "title": "XRP falls 10% as long bets unwind and ETF assets slip below $1 billion",
     "link": "https://www.coindesk.com/markets/2026/11/21/xrp-falls-10-as-long-bets-unwind-and-etf-assets-slip-below-usd1-billion",
     "pubDate": "Sat, 21 Nov 2026 05:59:19 +0000",
@@ -370,83 +454,6 @@
     "summary": "This article serves as a daily briefing on the cryptocurrency market, offering an overview of the latest trends and events. It covers various aspects including Bitcoin price movements, developments in blockchain, DeFi, Web3, and crypto regulation.",
     "importance": 5,
     "classified": true
-  },
-  {
-    "title": "Wrapped Monero token crashes 99.8% amid suspected $13.5M exploit",
-    "link": "https://cointelegraph.com/news/wrapped-monero-token-crashes-998-amid-suspected-135m-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Fri, 20 Nov 2026 19:37:27 +0000",
-    "source": "Cointelegraph",
-    "category": "crypto",
-    "content": "Bitquery traced $13.5 million in suspicious sales of the wrapped Monero token, as its operator blamed a security breach and promised to reimburse affected traders.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7X4D1A62D3GQT3E2RD261Q4/hi-company-hits-vulnerability-2.png",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "Sky Protocol sees $2 billion in stablecoin withdrawals, disputes illicit fund claims",
-    "link": "https://cointelegraph.com/news/sky-protocol-sees-2b-in-stablecoin-withdrawals-disputes-illicit-fund-claims?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Fri, 20 Nov 2026 18:37:10 +0000",
-    "source": "Cointelegraph",
-    "category": "crypto",
-    "content": "Sky says its USDS stablecoin held its $1 value despite more than $2 billion in withdrawals, as it disputes a report linking the protocol to illicit activity.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7X2CXDXB4B5SGSAMFZAXXE0/hi-kraken-ipo-1.png",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "Bitcoin falls below $60K for first time since July amid broader market selloff",
-    "link": "https://cointelegraph.com/markets/bitcoin-falls-below-60k-for-first-time-since-july-amid-broader-market-selloff?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Fri, 20 Nov 2026 16:55:51 +0000",
-    "source": "Cointelegraph",
-    "category": "crypto",
-    "content": "Bitcoin fell nearly 6% as US stocks declined, with the Nasdaq dropping more than 2% and Anthropic shares losing almost 10%.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M79N7DA5EN5QTEX2W50DFFNH/hi-so-what-is-happening-to-bitcoin-bear-market-1.jpg",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "US Senate advances prediction market restrictions with DEATH BETS Act",
-    "link": "https://cointelegraph.com/news/us-senate-advances-prediction-market-restrictions-with-death-bets-act?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Fri, 20 Nov 2026 15:55:22 +0000",
-    "source": "Cointelegraph",
-    "category": "crypto",
-    "content": "The Senate-approved bill would ban prediction market contracts tied to war, assassination and death amid concerns over potential insider trading on military events.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7WS7SH44A7MXA0Q21TD4GY8/hi-when-will-the-prediction-market-take-place-and-what-effect-is-it-having-on-crypto-2.png",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "Bitcoin price drops to $60K as Anthropic drops to $87 in tech sell-off",
-    "link": "https://cointelegraph.com/markets/bitcoin-hits-new-20-week-low-anthropic-drops-87-tech-sell-off?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Fri, 20 Nov 2026 15:52:06 +0000",
-    "source": "Cointelegraph",
-    "category": "crypto",
-    "content": "Bitcoin price strength felt pressure from falling US equities as traders reassessed AI prospects after Anthropic’s IPO.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7WQNA6474S1X1PQY3N7WJMX/hi-bollinger-band-explained2-960x640.webp",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "DBS bets it can lose the deposit and keep the client",
-    "link": "https://cointelegraph.com/news/dbs-bets-it-can-lose-the-deposit-and-keep-the-client?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Fri, 20 Nov 2026 15:32:30 +0000",
-    "source": "Cointelegraph",
-    "category": "crypto",
-    "content": "The Singapore bank earned a record $208 million in transaction services fees in the third quarter — now it’s helping companies turn deposits into stablecoins they can spend without it.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7WNFYH0FRWPZX615E3RNKNQ/sponsored-marina-bay-sand-singapore-light-water11-1.jpg",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "Lagarde warns Europe could miss chance to unify tokenized markets",
-    "link": "https://cointelegraph.com/news/lagarde-europe-limited-window-tokenization-rules?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Fri, 20 Nov 2026 13:21:39 +0000",
-    "source": "Cointelegraph",
-    "category": "crypto",
-    "content": "The ECB president said Europe’s market for tokenized securities could split into platforms that cannot settle trades with one another.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7WGQEQ57ZB4C6X8Y2M5KYTQ/christine-lagarde-imf.jpg",
-    "summary": "",
-    "importance": 5
   },
   {
     "title": "Binance hacker moves nearly $600M in ETH, routes funds through THORChain, Chainflip",
@@ -621,6 +628,28 @@
     "category": "crypto",
     "content": "Tokenized Take-Two shares drew $249.5 million in DEX volume Wednesday, nearly three times the $88.1 million for tokenized Nvidia shares.",
     "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7SPBXY6CFFGCX5R0FEQQY76/gta111111.png",
+    "summary": "",
+    "importance": 5
+  },
+  {
+    "title": "Kalshi faces Monday hearing on New York order it says would shut down its exchange nationwide",
+    "link": "https://www.theblock.co/news/regulation/2026-11-21-kalshi-faces-monday-hearing-on-new-york-order-it-says-would-shut-down-its-exchange-nationwide-444813",
+    "pubDate": "Sat, 21 Nov 2026 21:17:36 +0000",
+    "source": "The Block",
+    "category": "crypto",
+    "content": "Kalshi, which is headquartered in New York, has said the order would shut it down nationwide, though NY's AG said that's not her goal.",
+    "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/ChatGPT-Image-Nov-21-2026-04_05_31-PM-unmarker.jpg",
+    "summary": "",
+    "importance": 5
+  },
+  {
+    "title": "Cyber investigating suspected $1 million bridge exploit as Upbit, Bithumb freeze transfers",
+    "link": "https://www.theblock.co/news/defi/2026-11-21-cyber-investigating-suspected-1-million-bridge-exploit-as-upbit-bithumb-freeze-transfers-444810",
+    "pubDate": "Sat, 21 Nov 2026 18:51:14 +0000",
+    "source": "The Block",
+    "category": "crypto",
+    "content": "South Korean exchanges Upbit and Bithumb both suspended CYBER deposits and withdrawals, citing a suspected security incident.",
+    "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2021/04/20210402_Cybercrime_Generic_G.jpg",
     "summary": "",
     "importance": 5
   },
@@ -819,28 +848,6 @@
     "category": "crypto",
     "content": "Ripple’s Alderoty backs durable agency rules as hopes for crypto market structure legislation fade.",
     "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2019/07/Elizabeth-Warren-1.jpg",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "CFTC Chair Selig outlines how Hyperliquid and other onchain venues could enter the US",
-    "link": "https://www.theblock.co/news/regulation/2026-11-19-cftc-chair-selig-hyperliquid-onchain-venues-the-us-444106",
-    "pubDate": "Thu, 19 Nov 2026 18:04:15 +0000",
-    "source": "The Block",
-    "category": "crypto",
-    "content": "Michael Selig said platforms like Hyperliquid have two ways to enter the U.S. retail market and must follow the same rules as other exchanges",
-    "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/selig-cftc-scaled.jpg",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "Tokenized Stocks Shrug Off the Crypto Selloff",
-    "link": "https://www.theblock.co/newsletters/tokenization-briefing/2026-11-19-tokenized-stocks-shrug-off-crypto-selloff-442829",
-    "pubDate": "Thu, 19 Nov 2026 17:12:00 +0000",
-    "source": "The Block",
-    "category": "crypto",
-    "content": "Tokenized Stocks Shrug Off the Crypto Selloff Bitcoin fell as low as $62k late Saturday, its sixth straight weekly decline. Meanwhile, tokenized stocks crossed $4 billion in onchain value for the first time on Nov 11. Tokenized stocks are now roughly five times their value on January 1. Tokenized stocks track equity prices, not crypto, […]",
-    "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/untitled_Resize_2026-11-18_17-29-43.png",
     "summary": "",
     "importance": 5
   },
@@ -1065,6 +1072,28 @@
     "importance": 5
   },
   {
+    "title": "Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance",
+    "link": "https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/",
+    "pubDate": "Sat, 21 Nov 2026 21:37:10 +0000",
+    "source": "TechCrunch AI",
+    "category": "ai",
+    "content": "Signal is limiting users' ability to take screenshots in both its Android and iOS apps.",
+    "image": "",
+    "summary": "",
+    "importance": 5
+  },
+  {
+    "title": "A tale of two Nvidias",
+    "link": "https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias/",
+    "pubDate": "Sat, 21 Nov 2026 21:07:42 +0000",
+    "source": "TechCrunch AI",
+    "category": "ai",
+    "content": "We got two very different pictures of Nvidia —  the company’s latest earnings report vs. the tech executives loudly calling for Jensen Huang’s return.",
+    "image": "",
+    "summary": "",
+    "importance": 5
+  },
+  {
     "title": "Here are the top AI agents that can live in your text messages ",
     "link": "https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/",
     "pubDate": "Sat, 21 Nov 2026 17:00:00 +0000",
@@ -1263,24 +1292,13 @@
     "importance": 5
   },
   {
-    "title": "Anthropic’s IPO puts AI’s circular financing boom to the test",
-    "link": "https://techcrunch.com/2026/11/19/anthropics-ipo-puts-ais-circular-financing-boom-to-the-test/",
-    "pubDate": "Thu, 19 Nov 2026 14:54:39 +0000",
-    "source": "TechCrunch AI",
+    "title": "The UN fails to agree on rules regulating ‘killer robots’",
+    "link": "https://www.theverge.com/tech/1039554/un-regulations-killer-robots",
+    "pubDate": "2026-11-21T20:03:37.000Z",
+    "source": "The Verge AI",
     "category": "ai",
-    "content": "Anthropic faces enormous compute commitments as it goes public, but its biggest infrastructure partners, including Amazon and Google, could continue profiting from AI even if Anthropic loses its lead.",
-    "image": "",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "Superhuman pushes its Go assistant everywhere",
-    "link": "https://techcrunch.com/2026/11/19/superhuman-pushes-its-go-assistant-everywhere/",
-    "pubDate": "Thu, 19 Nov 2026 14:00:00 +0000",
-    "source": "TechCrunch AI",
-    "category": "ai",
-    "content": "Superhuman is making Go its central agent and making it available in Docs and Mail.",
-    "image": "",
+    "content": "One of the items on the agenda for UN diplomats meeting in Geneva this week was working towards rules regarding the use of autonomous weapons, or so-called \"killer robots.\" Eventually, representatives left the meetings agreeing to \"start discussing options\" after a largely fruitless week of negotiations. \nAccording to NPR:\nBefore the negotiations got underway, the International Committee of the Red Cross, the guardian of the Geneva Conventions, said it was urgent for legally binding rules to be drafted within a year. That call was backed by the U.N. secretary-general and by Pope Leo.\nThe compromise reached was that countries would inste …\nRead the full story at The Verge.",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/13611631/503831564.jpg.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
     "summary": "",
     "importance": 5
   },
@@ -1380,17 +1398,6 @@
     "category": "ai",
     "content": "Meta is planning to price the Muse Charm, a little gadget with a screen that lets you chat with your Muse AI agent, at $300, according to The Information. CEO Mark Zuckerberg revealed the gadget earlier this year and said the company expected to ship the Charm \"in time for the holidays in December,\" but he didn't provide a price at the time.\nWhen he announced the Muse Charm, Zuckerberg said that the company had \"packed the whole Muse experience,\" including real-time voice and avatar technology, into the gadget. It has a fingerprint sensor, and you can tap it to be able to talk to a Muse AI agent without unlocking a phone or opening an app.  …\nRead the full story at The Verge.",
     "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/lcimg-3879511d-dd3d-430c-8072-616e2dfb3484.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "Google is putting AI chats right on the homepage",
-    "link": "https://www.theverge.com/tech/1038059/google-search-homepage-ai-chats",
-    "pubDate": "2026-11-19T20:05:06.000Z",
-    "source": "The Verge AI",
-    "category": "ai",
-    "content": "Google is updating its homepage to include AI searches. In a post on X, Google's vice president of product, Robby Stein, shows how you can now open a collapsible sidebar to view and continue your AI chats.\nBased on the GIF shared by Stein, it looks like you can open the sidebar by clicking the gray bar that appears on the left side of your screen. From there, Google will show a list of the searches you've made using AI Mode, along with the ability to start a new thread, search your threads, or connect a Gemini Notebook.\n\n\nNew on the Google desktop homepage globally: we're rolling out a collapsible sidebar to easily find & jump back into you …\n\n\nRead the full story at The Verge.",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK093_GOOGLE_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
     "summary": "",
     "importance": 5
   },
