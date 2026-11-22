@@ -24,6 +24,18 @@
     "classified": true
   },
   {
+    "title": "South Korean exchanges halt CYBER transfers amid suspected bridge exploit",
+    "link": "https://cointelegraph.com/news/upbit-bithumb-suspend-cyber-transfers-bridge-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Sun, 22 Nov 2026 07:24:05 +0000",
+    "source": "Cointelegraph",
+    "category": "crypto",
+    "content": "Cyber reported unexpected minting of CYBER tokens on Solana, followed by tokens moving out of its Ethereum bridge lockbox, prompting an investigation.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M8127PW0MX9AKGQ6Y4GQ51JX/hand-laptop-coin.png",
+    "summary": "Cyber reported an unexpected minting of CYBER tokens on Solana and subsequent unauthorized movement from its Ethereum bridge lockbox. This suspected bridge exploit prompted South Korean exchanges to halt all CYBER transfers.",
+    "importance": 9,
+    "classified": true
+  },
+  {
     "title": "ECB seeks industry partners for tokenized deposits, securities experiments",
     "link": "https://cointelegraph.com/news/ecb-tokenized-deposits-securities-experiments-appia?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "pubDate": "Sat, 21 Nov 2026 09:48:56 +0000",
@@ -44,6 +56,18 @@
     "content": "Bitquery traced $13.5 million in suspicious sales of the wrapped Monero token, as its operator blamed a security breach and promised to reimburse affected traders.",
     "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7X4D1A62D3GQT3E2RD261Q4/hi-company-hits-vulnerability-2.png",
     "summary": "The wrapped Monero token crashed by 99.8% after a suspected $13.5 million exploit was traced through suspicious sales. Its operator confirmed a security breach and pledged to reimburse affected traders for their losses.",
+    "importance": 9,
+    "classified": true
+  },
+  {
+    "title": "Binance hacker moves nearly $600M in ETH, routes funds through THORChain, Chainflip",
+    "link": "https://cointelegraph.com/news/binance-hacker-600m-eth-routes-thorchain-chainflip?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Fri, 20 Nov 2026 11:31:41 +0000",
+    "source": "Cointelegraph",
+    "category": "crypto",
+    "content": "OnChain Lens tracked nearly $600 million in ETH transfers over two days as the Binance hackers moved the stolen funds through fresh wallets and cross-chain protocols to obscure their trail.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5KZARS72JZC0FSMD8WX2PAG/aml-money-laundering-crypto-1.jpg",
+    "summary": "A hacker responsible for the Binance exploit recently moved nearly $600 million in stolen Ethereum over two days. These significant transfers involved routing the funds through fresh wallets and utilizing cross-chain protocols such as THORChain and Chainflip, likely in an attempt to obscure the transaction trail.",
     "importance": 9,
     "classified": true
   },
@@ -240,6 +264,18 @@
     "classified": true
   },
   {
+    "title": "Chainflip confirms $12M hack, offers attacker 10% bounty",
+    "link": "https://cointelegraph.com/news/chainflip-12m-crypto-hack-10-percent-bounty?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Sun, 22 Nov 2026 05:28:43 +0000",
+    "source": "Cointelegraph",
+    "category": "crypto",
+    "content": "Chainflip offered the attacker a 10% bounty to return 90% of the stolen funds by Nov. 23, promising to treat the return as a white-hat recovery and withdraw law enforcement complaints.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M80VMG116PQ22VH13YJ5ANN8/hacky-hack-2.png",
+    "summary": "Chainflip has confirmed a $12 million hack and offered the perpetrator a 10% bounty if they return 90% of the stolen funds by November 23rd. The company stated it would consider the return a white-hat recovery and withdraw all law enforcement complaints if the funds are returned.",
+    "importance": 8,
+    "classified": true
+  },
+  {
     "title": "Hong Kong pushes to bring crypto custodians, advisers under licensing rules",
     "link": "https://cointelegraph.com/news/hong-kong-crypto-custody-advisory-licensing-bill?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "pubDate": "Sat, 21 Nov 2026 05:40:35 +0000",
@@ -300,6 +336,42 @@
     "classified": true
   },
   {
+    "title": "Bitcoin nears repeat of chart pattern that preceded 2023’s $25K retest",
+    "link": "https://cointelegraph.com/markets/bitcoin-first-death-cross-repeat-2023-bottom-25k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Fri, 20 Nov 2026 10:29:10 +0000",
+    "source": "Cointelegraph",
+    "category": "crypto",
+    "content": "Bitcoin’s 21-day moving average fell below its 200-day average, and analyst Keith Alan expects a second bearish crossover by Sunday.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7W5JM0BJ0Z5FQEW9GD5YQE3/article-covers-252484-bitcoin-price-chart-death-cross-back-late-cycle-fears-960x640.webp",
+    "summary": "Bitcoin's 21-day moving average has fallen below its 200-day average, with analyst Keith Alan anticipating a second bearish crossover by Sunday. This chart pattern previously preceded a $25,000 retest in 2023.",
+    "importance": 8,
+    "classified": true
+  },
+  {
+    "title": "BlackRock’s IBIT loses record $541M amid Anthropic market debut",
+    "link": "https://cointelegraph.com/markets/blackrock-ibit-record-single-day-outflow?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Fri, 20 Nov 2026 08:18:42 +0000",
+    "source": "Cointelegraph",
+    "category": "crypto",
+    "content": "BlackRock’s IBIT posted its largest daily outflow on record, taking three-session outflows near $900 million as BTC dipped amid a broader market selloff.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7VWM2HDCADQ2AM2AK506KFS/btc-1.png",
+    "summary": "BlackRock's IBIT recorded its largest daily outflow of $541 million, contributing to a total of nearly $900 million in outflows over three sessions. This significant capital movement occurred as Bitcoin prices dipped amid a broader market selloff.",
+    "importance": 8,
+    "classified": true
+  },
+  {
+    "title": "SEC charges 8 firms over fake crypto platforms tied to $37M fraud",
+    "link": "https://cointelegraph.com/news/sec-charges-eight-fake-crypto-platforms-37m-fraud?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Fri, 20 Nov 2026 08:03:34 +0000",
+    "source": "Cointelegraph",
+    "category": "crypto",
+    "content": "The SEC says the operators showed investors fake certificates and pointed them to filings on the agency’s website as proof of regulatory approval.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7VWVJFSAZCDB7METDY1P77G/hi-otc-over-the-counter-trade-fraud.jpg",
+    "summary": "The SEC has charged eight firms in connection with a $37 million cryptocurrency fraud scheme. Operators allegedly showed investors fake certificates and misrepresented SEC filings as proof of regulatory approval for their fictitious crypto platforms.",
+    "importance": 8,
+    "classified": true
+  },
+  {
     "title": "Bitcoin rebounds above $60,000 after $1.8 billion crypto liquidation wave",
     "link": "https://www.coindesk.com/markets/2026/11/21/bitcoin-bounces-9-from-two-year-low-to-retake-usd60-000-as-traders-eye-monday-s-stock-open",
     "pubDate": "Sat, 21 Nov 2026 17:50:00 +0000",
@@ -332,6 +404,18 @@
     "content": "PowerCompute had its lender sell 267 pledged bitcoin in September, wiping out most of its debt, and ended the month with about $650,000 in cash and a going-concern warning.",
     "image": "https://cdn.sanity.io/images/s3y3vcno/production/54bd04de039305784bf732dce245207bcc75ba21-7008x3942.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
     "summary": "Bitcoin miner PowerCompute sold 267 pledged BTC in September to clear $22 million in debt. While this wiped out most of its obligations, the company ended the month with limited cash and a 'going-concern' warning. This raises questions about its long-term survival despite the significant debt reduction.",
+    "importance": 7,
+    "classified": true
+  },
+  {
+    "title": "Bitcoin briefly drops to $17K on Kraken, exchange upholds trades",
+    "link": "https://cointelegraph.com/news/bitcoin-17k-kraken-canadian-dollar-market-trades-stand?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Sun, 22 Nov 2026 09:33:06 +0000",
+    "source": "Cointelegraph",
+    "category": "crypto",
+    "content": "Kraken said all orders were processed correctly and found no evidence of a security breach or compromised accounts.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M819JW0D1CC9W3NZY32KQ4A0/hi-kraken2-1.jpg",
+    "summary": "Bitcoin briefly experienced a flash crash on the Kraken exchange, dropping to $17,000 before quickly recovering. Kraken confirmed that all orders were processed correctly and found no evidence of a security breach or compromised accounts, upholding the executed trades.",
     "importance": 7,
     "classified": true
   },
@@ -456,17 +540,6 @@
     "classified": true
   },
   {
-    "title": "Binance hacker moves nearly $600M in ETH, routes funds through THORChain, Chainflip",
-    "link": "https://cointelegraph.com/news/binance-hacker-600m-eth-routes-thorchain-chainflip?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Fri, 20 Nov 2026 11:31:41 +0000",
-    "source": "Cointelegraph",
-    "category": "crypto",
-    "content": "OnChain Lens tracked nearly $600 million in ETH transfers over two days as the Binance hackers moved the stolen funds through fresh wallets and cross-chain protocols to obscure their trail.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5KZARS72JZC0FSMD8WX2PAG/aml-money-laundering-crypto-1.jpg",
-    "summary": "",
-    "importance": 5
-  },
-  {
     "title": "VanEck to end Gemini ETF custody deals, keeps Coinbase",
     "link": "https://cointelegraph.com/news/vaneck-gemini-etf-custody-end-keep-coinbase?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "pubDate": "Fri, 20 Nov 2026 10:54:38 +0000",
@@ -474,41 +547,9 @@
     "category": "crypto",
     "content": "VanEck plans to end Gemini’s custody agreements for three crypto ETFs in February 2027, while Coinbase will continue serving as a custodian for the funds.",
     "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7W70S79VWG5A9Q3C9MCT7R8/vvv.png",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "Bitcoin nears repeat of chart pattern that preceded 2023’s $25K retest",
-    "link": "https://cointelegraph.com/markets/bitcoin-first-death-cross-repeat-2023-bottom-25k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Fri, 20 Nov 2026 10:29:10 +0000",
-    "source": "Cointelegraph",
-    "category": "crypto",
-    "content": "Bitcoin’s 21-day moving average fell below its 200-day average, and analyst Keith Alan expects a second bearish crossover by Sunday.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7W5JM0BJ0Z5FQEW9GD5YQE3/article-covers-252484-bitcoin-price-chart-death-cross-back-late-cycle-fears-960x640.webp",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "BlackRock’s IBIT loses record $541M amid Anthropic market debut",
-    "link": "https://cointelegraph.com/markets/blackrock-ibit-record-single-day-outflow?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Fri, 20 Nov 2026 08:18:42 +0000",
-    "source": "Cointelegraph",
-    "category": "crypto",
-    "content": "BlackRock’s IBIT posted its largest daily outflow on record, taking three-session outflows near $900 million as BTC dipped amid a broader market selloff.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7VWM2HDCADQ2AM2AK506KFS/btc-1.png",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "SEC charges 8 firms over fake crypto platforms tied to $37M fraud",
-    "link": "https://cointelegraph.com/news/sec-charges-eight-fake-crypto-platforms-37m-fraud?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Fri, 20 Nov 2026 08:03:34 +0000",
-    "source": "Cointelegraph",
-    "category": "crypto",
-    "content": "The SEC says the operators showed investors fake certificates and pointed them to filings on the agency’s website as proof of regulatory approval.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7VWVJFSAZCDB7METDY1P77G/hi-otc-over-the-counter-trade-fraud.jpg",
-    "summary": "",
-    "importance": 5
+    "summary": "VanEck plans to terminate its custody agreements with Gemini for three crypto ETFs, effective February 2027. While Gemini will no longer serve as custodian, Coinbase will continue in its role as custodian for these funds.",
+    "importance": 5,
+    "classified": true
   },
   {
     "title": "Anthropic’s $81B IPO draws half the net retail buying of SpaceX’s",
@@ -595,39 +636,6 @@
     "category": "crypto",
     "content": "Ethereum developers are weighing changes to gas pricing proposals that could disrupt existing smart contracts, after contacting at least 50 affected companies.",
     "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7T8797NST8JEDN3F6EH12SR/hi-can-crypto-exchanges-be-trusted-with-hard-forks.png",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "Ethereum’s new DeFi security tool raises questions over censorship",
-    "link": "https://cointelegraph.com/magazine/ethereums-new-defi-security-tool-raises-questions-over-censorship?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Thu, 19 Nov 2026 13:30:00 +0000",
-    "source": "Cointelegraph",
-    "category": "crypto",
-    "content": "Phylax’s system lets decentralized protocols block potentially harmful transactions, but raises questions about potential censorship and Ethereum’s concentrated builder market.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7Q178B6E75WCCC6M7HFQ7YG/magazine-ethereum-pectra-upgrade.png",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "Hong Kong adds Hyperliquid to list of ‘suspicious’ crypto platforms",
-    "link": "https://cointelegraph.com/news/hyperliquid-hong-kong-regulators-alert-list?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Thu, 19 Nov 2026 12:44:06 +0000",
-    "source": "Cointelegraph",
-    "category": "crypto",
-    "content": "Hong Kong’s securities regulator said Hyperliquid has no local license and may have promoted its trading services to investors in the city.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7SSXM07R00FXVHJM9C31XXF/wall-warning-hyperliquid-2.jpg",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "GTA VI publisher racks up nearly 3x Nvidia’s tokenized stock volume",
-    "link": "https://cointelegraph.com/news/gta-vi-launch-tokenized-ttwo-trade-triple-nvidia?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Thu, 19 Nov 2026 12:33:46 +0000",
-    "source": "Cointelegraph",
-    "category": "crypto",
-    "content": "Tokenized Take-Two shares drew $249.5 million in DEX volume Wednesday, nearly three times the $88.1 million for tokenized Nvidia shares.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7SPBXY6CFFGCX5R0FEQQY76/gta111111.png",
     "summary": "",
     "importance": 5
   },
