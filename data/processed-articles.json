@@ -24,42 +24,6 @@
     "classified": true
   },
   {
-    "title": "South Korean exchanges halt CYBER transfers amid suspected bridge exploit",
-    "link": "https://cointelegraph.com/news/upbit-bithumb-suspend-cyber-transfers-bridge-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Sun, 22 Nov 2026 07:24:05 +0000",
-    "source": "Cointelegraph",
-    "category": "crypto",
-    "content": "Cyber reported unexpected minting of CYBER tokens on Solana, followed by tokens moving out of its Ethereum bridge lockbox, prompting an investigation.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M8127PW0MX9AKGQ6Y4GQ51JX/hand-laptop-coin.png",
-    "summary": "Cyber reported an unexpected minting of CYBER tokens on Solana and subsequent unauthorized movement from its Ethereum bridge lockbox. This suspected bridge exploit prompted South Korean exchanges to halt all CYBER transfers.",
-    "importance": 9,
-    "classified": true
-  },
-  {
-    "title": "ECB seeks industry partners for tokenized deposits, securities experiments",
-    "link": "https://cointelegraph.com/news/ecb-tokenized-deposits-securities-experiments-appia?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Sat, 21 Nov 2026 09:48:56 +0000",
-    "source": "Cointelegraph",
-    "category": "crypto",
-    "content": "Industry groups have until Dec. 11 to apply for the ECB’s first experimental exercises under its Appia initiative, with later submissions reviewed on a rolling basis.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M34BTQXP52VJEXVV822SS5QM/hi-what-is-a-decentralized-money-market-and-eu-stablecoin-2.jpg",
-    "summary": "The European Central Bank (ECB) is inviting industry partners to participate in experimental exercises focused on tokenized deposits and securities under its Appia initiative. The initial deadline for applications is December 11, with subsequent submissions reviewed on a rolling basis.",
-    "importance": 9,
-    "classified": true
-  },
-  {
-    "title": "A $2 million exploit leads to a $3.7 million free-for-all as traders empty Fusionist’s ACE bridge",
-    "link": "https://www.theblock.co/news/defi/2026-11-22-a-2-million-exploit-leads-to-a-3-7-million-free-for-all-as-traders-empty-fusionists-ace-bridge-444838",
-    "pubDate": "Sun, 22 Nov 2026 23:17:08 +0000",
-    "source": "The Block",
-    "category": "crypto",
-    "content": "One trader managed to turn about $50 into nearly $17,700 in the wake of the exploit, according to The Block's analysis.",
-    "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/ChatGPT-Image-Nov-22-2026-06_14_06-PM_clean.png",
-    "summary": "An initial $2 million exploit on Fusionist's ACE bridge quickly escalated into a $3.7 million \"free-for-all\" as opportunistic traders emptied the platform. One trader famously turned about $50 into nearly $17,700 in the chaotic aftermath of the security breach.",
-    "importance": 9,
-    "classified": true
-  },
-  {
     "title": "Binance hackers push $247 million through transactions designed to cloud the source",
     "link": "https://www.coindesk.com/business/2026/11/23/binance-hackers-push-usd247-million-through-transactions-designed-to-cloud-the-source",
     "pubDate": "Mon, 23 Nov 2026 15:29:01 +0000",
@@ -92,42 +56,6 @@
     "content": "A malicious ad campaign known as MoldyRoost can compromise vulnerable iPhones with a single tap, putting cryptocurrency wallet seed phrases at risk, according to cybersecurity firm Confiant.",
     "image": "https://cdn.sanity.io/images/s3y3vcno/production/47ccc66f5c6894c604f9dba63a76866c92f528a2-1500x1000.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
     "summary": "A malicious ad campaign named MoldyRoost is compromising vulnerable iPhones with a single tap via online ads. This threat, identified by cybersecurity firm Confiant, puts cryptocurrency wallet seed phrases at significant risk.",
-    "importance": 8,
-    "classified": true
-  },
-  {
-    "title": "Bitcoin's quantum security challenge extends to bridges, custodians and millions of coins",
-    "link": "https://www.coindesk.com/tech/2026/11/22/bitcoin-s-quantum-security-challenge-extends-to-bridges-custodians-and-millions-of-coins",
-    "pubDate": "Sun, 22 Nov 2026 14:00:00 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "Quantum computers can’t break Bitcoin network’s security yet, but Leo Fan warns that upgrading it and moving funds could take longer than expected.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/aeeabe28669425a95b4918b55a4680c3e968c1c7-6002x4001.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-    "summary": "An expert warns that while quantum computers don't currently threaten Bitcoin's security, the process of upgrading the network and migrating funds to quantum-resistant addresses could take much longer than anticipated. This significant challenge extends to crucial infrastructure like bridges, custodians, and millions of existing coins, potentially causing substantial future disruption.",
-    "importance": 8,
-    "classified": true
-  },
-  {
-    "title": "Chainflip confirms $12M hack, offers attacker 10% bounty",
-    "link": "https://cointelegraph.com/news/chainflip-12m-crypto-hack-10-percent-bounty?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Sun, 22 Nov 2026 05:28:43 +0000",
-    "source": "Cointelegraph",
-    "category": "crypto",
-    "content": "Chainflip offered the attacker a 10% bounty to return 90% of the stolen funds by Nov. 23, promising to treat the return as a white-hat recovery and withdraw law enforcement complaints.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M80VMG116PQ22VH13YJ5ANN8/hacky-hack-2.png",
-    "summary": "Chainflip has confirmed a $12 million hack and offered the perpetrator a 10% bounty if they return 90% of the stolen funds by November 23rd. The company stated it would consider the return a white-hat recovery and withdraw all law enforcement complaints if the funds are returned.",
-    "importance": 8,
-    "classified": true
-  },
-  {
-    "title": "Hong Kong pushes to bring crypto custodians, advisers under licensing rules",
-    "link": "https://cointelegraph.com/news/hong-kong-crypto-custody-advisory-licensing-bill?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Sat, 21 Nov 2026 05:40:35 +0000",
-    "source": "Cointelegraph",
-    "category": "crypto",
-    "content": "Hong Kong’s securities regulator says the proposal would strengthen investor protections, with the bill set for its first reading in the Legislative Council on Dec. 2.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7Y9VC5TT6XQ46DCK68VGC0X/regulation-hong-kong.jpg",
-    "summary": "Hong Kong's securities regulator is proposing new licensing rules to bring crypto custodians and advisers under regulation. This initiative aims to strengthen investor protections, with the bill set for its first reading in the Legislative Council on December 2.",
     "importance": 8,
     "classified": true
   },
@@ -276,16 +204,15 @@
     "classified": true
   },
   {
-    "title": "US lawmakers propose up to 30% rewards for prediction market whistleblowers",
-    "link": "https://cointelegraph.com/news/us-prediction-market-whistleblower-rewards-30-percent?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Sat, 21 Nov 2026 07:51:47 +0000",
-    "source": "Cointelegraph",
+    "title": "U.S. CFTC sets policies on event contract data, using crypto to check financial boxes",
+    "link": "https://www.coindesk.com/policy/2026/11/23/u-s-cftc-sets-policies-on-event-contract-data-using-crypto-to-check-financial-boxes",
+    "pubDate": "Tue, 24 Nov 2026 00:25:04 +0000",
+    "source": "CoinDesk",
     "category": "crypto",
-    "content": "Whistleblowers could receive 10% to 30% of monetary sanctions in qualifying prediction market fraud cases exceeding $1 million in penalties.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M3TG0M8S1BAV7KN2AJ34JJE9/prediction-market.jpg",
-    "summary": "US lawmakers are proposing a new whistleblower program for prediction market fraud, offering rewards of 10% to 30% of monetary sanctions. This applies to cases where penalties exceed $1 million, incentivizing individuals to report illicit activities in these markets.",
-    "importance": 6,
-    "classified": true
+    "content": "The derivatives regulator issues a rule on data reporting for event contracts and new guidance for how crypto assets can be used to meet regulatory requirements.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/2ea663e27b7a8aedacb15a99a17ec144f1ef72ac-4928x2772.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "summary": "",
+    "importance": 5
   },
   {
     "title": "Bitcoin's 5-year return is nearly zero, great narratives are fading and what's left is the Fed",
@@ -376,9 +303,20 @@
     "importance": 5
   },
   {
+    "title": "Bitcoin ETFs keep bleeding as BlackRock’s IBIT shares gain nearly 5%",
+    "link": "https://cointelegraph.com/markets/bitcoin-etfs-bleed-ibit-shares-gain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Tue, 24 Nov 2026 07:41:50 +0000",
+    "source": "Cointelegraph",
+    "category": "crypto",
+    "content": "BlackRock’s IBIT shares gained 4.85% on Monday despite continued Bitcoin ETF withdrawals that pushed November’s net outflows to $4.71 billion.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3PB1SXVHKJ0HQNAKV23AYKN/hi-blackrocks-bitcoin-etf-how-it-works-benefits-and-opportunities-1.jpg",
+    "summary": "",
+    "importance": 5
+  },
+  {
     "title": "Here’s what happened in crypto today",
     "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Mon, 23 Nov 2026 21:40:44 +0000",
+    "pubDate": "Tue, 24 Nov 2026 06:00:00 +0000",
     "source": "Cointelegraph",
     "category": "crypto",
     "content": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
@@ -386,6 +324,50 @@
     "summary": "This article serves as a daily briefing on the cryptocurrency market, offering an overview of the latest trends and events. It covers various aspects including Bitcoin price movements, developments in blockchain, DeFi, Web3, and crypto regulation.",
     "importance": 5,
     "classified": true
+  },
+  {
+    "title": "Why 42 Macro says it’s waiting to buy the Bitcoin dip",
+    "link": "https://cointelegraph.com/markets/why-42-macro-says-its-waiting-to-buy-the-bitcoin-dip?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Tue, 24 Nov 2026 05:07:30 +0000",
+    "source": "Cointelegraph",
+    "category": "crypto",
+    "content": "The independent macro research company warns the Bitcoin sell-off may not have yet run its course.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M85YYTJRN4ETCCWEDBRCEMFH/hi-bitcoin-forecast-what-will-be-the-price-of-bitcoin-in-2020-according-to-experts.jpg",
+    "summary": "",
+    "importance": 5
+  },
+  {
+    "title": "Google wants to make you the star of your own AI slop movies",
+    "link": "https://cointelegraph.com/news/google-wants-make-you-star-your-own-ai-slop-movies?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Tue, 24 Nov 2026 03:13:22 +0000",
+    "source": "Cointelegraph",
+    "category": "crypto",
+    "content": "Viewers could find their AI-doppelgangers inserted into the crowd during the Cricket World Cup, or take a leading role in their very own romantic comedy.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M85RH0KQ622Q81DNQTWRWR22/ai-google.jpg",
+    "summary": "",
+    "importance": 5
+  },
+  {
+    "title": "Ethereum Foundation doubles protocol security team ahead of overhaul",
+    "link": "https://cointelegraph.com/news/ethereum-foundation-doubles-protocol-security-team-amid-ai-quantum-overhaul?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Tue, 24 Nov 2026 00:36:26 +0000",
+    "source": "Cointelegraph",
+    "category": "crypto",
+    "content": "The foundation said its next upgrade will be harder than the Merge, and the required pace of development will make it easier to ship bugs.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M85DS27NQE002XJJS1QRWYQV/hi-eth-dragon-fire.jpg",
+    "summary": "",
+    "importance": 5
+  },
+  {
+    "title": "CFTC staff say exchanges can count Bitcoin toward operating reserves",
+    "link": "https://cointelegraph.com/news/cftc-staff-say-exchanges-can-count-bitcoin-toward-operating-reserves?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Mon, 23 Nov 2026 23:43:34 +0000",
+    "source": "Cointelegraph",
+    "category": "crypto",
+    "content": "The staff guidance allows Bitcoin, Ether and payment stablecoins to count towards operating reserves.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M85B9CDHGAHS6MHGSVMX0BWZ/hi-report-suggests-women-underrepresented-on-memecoin-market-structure-cftc.jpg",
+    "summary": "",
+    "importance": 5
   },
   {
     "title": "US seeks to recover $1.1B in crypto stolen in North Korea-linked Binance hack",
@@ -608,6 +590,61 @@
     "importance": 5
   },
   {
+    "title": "Bitcoin slips back toward $60,000 as Jensen Huang’s Nvidia return rally fizzles",
+    "link": "https://www.theblock.co/news/markets/2026-11-24-bitcoin-60000-jensen-huang-fizzles-445472",
+    "pubDate": "Tue, 24 Nov 2026 06:21:34 +0000",
+    "source": "The Block",
+    "category": "crypto",
+    "content": "Analysts said Huang's return was a reflex rally that did not resolve the macro headwinds bitcoin is facing as a risk asset.",
+    "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/Jensen-Huang-1-scaled.jpg",
+    "summary": "",
+    "importance": 5
+  },
+  {
+    "title": "DOJ moves to recover $1.17 billion from Binance hack, Strategy buys another 457 BTC, and more",
+    "link": "https://www.theblock.co/newsletters/the-daily/2026-11-24-doj-binance-hack-strategy-bitcoin-more-crypto-news-445430",
+    "pubDate": "Tue, 24 Nov 2026 05:40:00 +0000",
+    "source": "The Block",
+    "category": "crypto",
+    "content": "In today's newsletter, DOJ moves to recover $1.17 billion from Binance hack; Strategy buys another 457 BTC as Saylor says 'the dots aren't done'; and more.",
+    "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/GettyImages-2302659435-scaled.jpg",
+    "summary": "",
+    "importance": 5
+  },
+  {
+    "title": "Kalshi halts operations in Utah while dodging immediate ban in New York",
+    "link": "https://www.theblock.co/news/regulation/2026-11-23-kalshi-pauses-operations-utah-dodging-ban-new-york-445456",
+    "pubDate": "Tue, 24 Nov 2026 04:28:02 +0000",
+    "source": "The Block",
+    "category": "crypto",
+    "content": "Kalshi has suspended operations in Utah after a federal judge allowed the state to enforce its gambling laws.",
+    "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/Kalshi-crop-getty-scaled.jpg",
+    "summary": "",
+    "importance": 5
+  },
+  {
+    "title": "California court terminates lawsuit against Coinbase over TerraUSD purchases",
+    "link": "https://www.theblock.co/news/markets/2026-11-23-california-court-terminates-lawsuit-coinbase-terrausd-445448",
+    "pubDate": "Tue, 24 Nov 2026 03:05:45 +0000",
+    "source": "The Block",
+    "category": "crypto",
+    "content": "Plaintiff Larry Pearl purchased TerraUSD on Coinbase shortly before the token collapsed and accused Coinbase of misrepresentation.",
+    "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/coinbase-scaled-e1795487940754.jpg",
+    "summary": "",
+    "importance": 5
+  },
+  {
+    "title": "CFTC staff say bitcoin, ether can count toward derivatives firms’ operating expenses",
+    "link": "https://www.theblock.co/news/regulation/2026-11-23-cftc-staff-bitcoin-ether-count-toward-derivatives-firms-operating-expenses-445435",
+    "pubDate": "Tue, 24 Nov 2026 00:33:22 +0000",
+    "source": "The Block",
+    "category": "crypto",
+    "content": "Staff at the CFTC issued an advisory saying certain regulated firms may count crypto such as bitcoin and ether toward operating costs.",
+    "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/Screenshot-2026-11-23-at-7.28.52 PM.png",
+    "summary": "",
+    "importance": 5
+  },
+  {
     "title": "Grayscale says bitcoin and major altcoins look ‘oversold’ as AI risks cloud near-term outlook",
     "link": "https://www.theblock.co/news/markets/2026-11-23-grayscale-bitcoin-altcoins-oversold-ai-risks-crypto-outlook-445418",
     "pubDate": "Mon, 23 Nov 2026 22:18:02 +0000",
@@ -769,50 +806,6 @@
     "category": "crypto",
     "content": "The draft is expected to include a licensing regime for crypto businesses and a bank-centered issuance system for local stablecoins.",
     "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/korea-flag-scaled-e1795426962703.jpg",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "Singapore’s OCBC, StraitsX launch pilot for cross-border business stablecoin payments",
-    "link": "https://www.theblock.co/news/business/2026-11-23-ocbc-straitsx-pilot-stablecoin-payments-444880",
-    "pubDate": "Mon, 23 Nov 2026 10:04:03 +0000",
-    "source": "The Block",
-    "category": "crypto",
-    "content": "The setup uses StraitsX's infrastructure for onchain collection and compliance, while OCBC handles the fiat off-ramp.",
-    "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/singapore-unsplash-2-scaled.jpg",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "Ark buys $146 million in Anthropic shares last week, trims Ethereum and Solana Staking ETF holdings",
-    "link": "https://www.theblock.co/news/business/2026-11-23-ark-buys-146-million-worth-anthropic-since-debut-444866",
-    "pubDate": "Mon, 23 Nov 2026 07:12:52 +0000",
-    "source": "The Block",
-    "category": "crypto",
-    "content": "Cathie Wood's Ark Invest has bought 1.64 million shares in Anthropic, worth $145.9 million, since its Thursday IPO.",
-    "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/cathie-wood-scaled.jpg",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "Spot bitcoin ETFs shed $1.8 billion in past week as outflows become ‘structural’: analysts",
-    "link": "https://www.theblock.co/news/markets/2026-11-23-spot-bitcoin-etfs-shed-1-79-billion-in-past-week-444857",
-    "pubDate": "Mon, 23 Nov 2026 05:47:21 +0000",
-    "source": "The Block",
-    "category": "crypto",
-    "content": "Risk-averse investors are moving further away from crypto products as they expect the another interest rate hike in December, analysts said.",
-    "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/cropped-bitcoin-.jpg",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "Trump to host second memecoin dinner tonight with TRUMP down 99% from peak",
-    "link": "https://www.theblock.co/news/ecosystems/2026-11-22-trump-to-host-second-memecoin-dinner-tonight-with-trump-down-99-from-peak-444828",
-    "pubDate": "Sun, 22 Nov 2026 20:58:33 +0000",
-    "source": "The Block",
-    "category": "crypto",
-    "content": "Boxer Floyd Mayweather, \"Shark Tank\" investor Kevin O'Leary and NBA champion Tristan Thompson are scheduled to appear at the dinner.",
-    "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2024/05/20240528_Trump_News_2.jpg",
     "summary": "",
     "importance": 5
   },
