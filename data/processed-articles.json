@@ -120,6 +120,42 @@
     "classified": true
   },
   {
+    "title": "Ripple's lending plan moves closer to tapping XRP Ledger's $800 million in stablecoins",
+    "link": "https://www.coindesk.com/markets/2026/11/27/ripple-s-lending-plan-moves-closer-to-tapping-xrp-ledger-s-usd950-million-in-stablecoins",
+    "pubDate": "Fri, 27 Nov 2026 05:06:32 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "The vaults that would hold lenders' money are on track to switch on Dec. 9. The loan system that draws from them still needs one more validator to start its own two-week clock.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/7062083f3eac875ac832f0c15d78be2612e57afe-1440x810.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "summary": "Ripple's lending initiative is advancing towards utilizing $800 million in stablecoins from the XRP Ledger. The vaults designed to hold lenders' funds are slated to become active on December 9, with the full loan system awaiting final validator approval.",
+    "importance": 8,
+    "classified": true
+  },
+  {
+    "title": "Binance says customer withdrawals are fully restored, four weeks after the $6.3 billion hack",
+    "link": "https://www.coindesk.com/markets/2026/11/27/binance-says-its-withdrawal-suspension-is-over-four-weeks-after-a-usd6-3-billion-hack",
+    "pubDate": "Fri, 27 Nov 2026 04:45:47 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "Binance says it has fully lifted withdrawal suspensions imposed after October’s $6.3 billion hack, though a small number of networks remain paused for unrelated maintenance.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/6afa7aee3dd3e7c1e37e3929a4ac24b7cebaccdd-6000x4000.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "summary": "Binance has announced the full restoration of customer withdrawals, approximately four weeks after a significant $6.3 billion hack in October. While a small number of networks remain paused, this is attributed to unrelated maintenance and not lingering issues from the security breach.",
+    "importance": 8,
+    "classified": true
+  },
+  {
+    "title": "Ethereum's much-awaited Glamsterdam upgrade cleared for December test. Here's what to know",
+    "link": "https://www.coindesk.com/tech/2026/11/27/ethereum-s-much-awaited-glamsterdam-upgrade-cleared-for-december-test-here-s-what-to-know",
+    "pubDate": "Fri, 27 Nov 2026 04:29:47 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "Developers have agreed to keep the planned storage charges despite concerns about some existing smart contracts, ending seven weeks of delays to the next major test.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/c357579ddef2051b405b9e89f8525dd02709081d-5760x3240.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "summary": "Ethereum developers have cleared the \"Glamsterdam\" upgrade for a December test, ending a seven-week delay. They decided to proceed with planned storage charges despite concerns regarding some existing smart contracts.",
+    "importance": 8,
+    "classified": true
+  },
+  {
     "title": "Bitcoin ETFs are bleeding cash and the Fed is unlikely to help",
     "link": "https://www.coindesk.com/daybook-us/2026/11/26/bitcoin-etfs-are-bleeding-cash-and-the-fed-is-unlikely-to-help",
     "pubDate": "Thu, 26 Nov 2026 12:14:46 +0000",
@@ -152,6 +188,18 @@
     "content": "Bitcoin options positioning has flipped bearish ahead of Friday’s $7 billion expiry, with traders piling into downside protection as volatility rises.",
     "image": "https://cdn.sanity.io/images/s3y3vcno/production/7df47bc493288e9906477fe85bd7ea2906e4e186-3200x1800.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
     "summary": "Approximately $7 billion worth of Bitcoin options are set to expire this Friday. Market positioning has turned bearish, with traders increasingly buying downside protection amidst rising volatility.",
+    "importance": 8,
+    "classified": true
+  },
+  {
+    "title": "Bitcoin whales pile into BTC despite shrinking profit cushion",
+    "link": "https://cointelegraph.com/markets/bitcoin-whales-pile-btc-despite-shrinking-profit-cushion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Fri, 27 Nov 2026 19:23:00 +0000",
+    "source": "Cointelegraph",
+    "category": "crypto",
+    "content": "CryptoQuant data shows Bitcoin whales are breaking with historical fourth-quarter selling patterns despite a market downturn.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M8EZRZTWET1C6FPBGDJZHHK2/diamond-encased-bitcoins.png",
+    "summary": "CryptoQuant data indicates that Bitcoin whales are defying historical fourth-quarter selling patterns by accumulating BTC. This accumulation is occurring despite a current market downturn and shrinking profit cushions, signaling a notable shift in whale behavior.",
     "importance": 8,
     "classified": true
   },
@@ -216,6 +264,18 @@
     "classified": true
   },
   {
+    "title": "Monero suffers biggest single-day slide in over 5 months. Here’s why",
+    "link": "https://www.coindesk.com/markets/2026/11/27/monero-suffers-biggest-single-day-slide-in-over-5-months-here-s-why",
+    "pubDate": "Fri, 27 Nov 2026 07:33:01 +0000",
+    "source": "CoinDesk",
+    "category": "crypto",
+    "content": "Monero (XMR) crashed over 11% on Thursday, its biggest drop since early June. Back-to-back exchange delistings seem to have catalyzed the price slide.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/f456c8ffc9ab2b603ddbba9f8613cb0a168723e2-1280x853.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "summary": "Monero (XMR) experienced an over 11% price drop on Thursday, marking its largest single-day slide in over five months. This significant decline was reportedly catalyzed by back-to-back exchange delistings of the privacy coin.",
+    "importance": 7,
+    "classified": true
+  },
+  {
     "title": "Bitcoin’s dormant supply rises, a behavior seen during previous bear-market bottoming phases",
     "link": "https://www.coindesk.com/markets/2026/11/26/bitcoin-s-dormant-supply-rises-a-behavior-seen-during-previous-bear-market-bottoming-phases",
     "pubDate": "Thu, 26 Nov 2026 16:50:23 +0000",
@@ -264,6 +324,18 @@
     "classified": true
   },
   {
+    "title": "Franklin Templeton makes room for HYPE in crypto index ETF",
+    "link": "https://cointelegraph.com/news/franklin-templeton-hype-crypto-index-etf?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Fri, 27 Nov 2026 21:15:29 +0000",
+    "source": "Cointelegraph",
+    "category": "crypto",
+    "content": "The addition comes as US spot investment products tracking Hyperliquid’s native token reach $266.5 million in assets under management.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3AEQ9Y8JV78QH3H8M1G3403/analitycs2021-hype-1.jpg",
+    "summary": "Franklin Templeton is incorporating HYPE, Hyperliquid's native token, into its crypto index ETF. This decision follows a significant increase in demand for investment products tracking HYPE, which have reached $266.5 million in assets under management.",
+    "importance": 7,
+    "classified": true
+  },
+  {
     "title": "AI is driving a flood of crypto bug reports. Now it’s helping sort them",
     "link": "https://cointelegraph.com/news/ai-driving-flood-of-crypto-bug-reports-now-helping-sort-them?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "pubDate": "Fri, 27 Nov 2026 01:47:38 +0000",
@@ -288,58 +360,48 @@
     "classified": true
   },
   {
-    "title": "Live updates: Bitcoin drops below $60,000 as Nasdaq 100 gives up most of its early gains",
+    "title": "Live updates: Bitcoin's Thanksgiving gains prove fleeting",
     "link": "https://www.coindesk.com/tech/2026/11/27/live-news-bitcoin-rebounds-above-usd61-000-as-ai-stocks-lead-premarket-gains",
     "pubDate": "Fri, 27 Nov 2026 11:34:37 +0000",
     "source": "CoinDesk",
     "category": "crypto",
-    "content": "The Nasdaq 100 rose just 0.8% after futures gained about 3% before the open, while Nvidia fell more than 2% and bitcoin briefly slipped below $60,000.",
+    "content": "Stocks are broadly higher, but bitcoin has slipped back near $60,000, reversing a turkey day advance.",
     "image": "",
     "summary": "Bitcoin briefly dropped below $60,000, while the Nasdaq 100 significantly pared its early gains, rising only 0.8% after futures indicated a 3% open. Nvidia's stock also fell more than 2% during this period.",
     "importance": 6,
     "classified": true
   },
   {
-    "title": "Monero suffers biggest single-day slide in over 5 months. Here’s why",
-    "link": "https://www.coindesk.com/markets/2026/11/27/monero-suffers-biggest-single-day-slide-in-over-5-months-here-s-why",
-    "pubDate": "Fri, 27 Nov 2026 07:33:01 +0000",
-    "source": "CoinDesk",
+    "title": "Here’s what happened in crypto today",
+    "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Fri, 27 Nov 2026 22:12:51 +0000",
+    "source": "Cointelegraph",
     "category": "crypto",
-    "content": "Monero (XMR) crashed over 11% on Thursday, its biggest drop since early June. Back-to-back exchange delistings seem to have catalyzed the price slide.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/f456c8ffc9ab2b603ddbba9f8613cb0a168723e2-1280x853.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "content": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg",
+    "summary": "This article serves as a daily briefing on the cryptocurrency market, offering an overview of the latest trends and events. It covers various aspects including Bitcoin price movements, developments in blockchain, DeFi, Web3, and crypto regulation.",
+    "importance": 5,
+    "classified": true
+  },
+  {
+    "title": "China sets March 2027 rollout for blockchain identity regulations",
+    "link": "https://cointelegraph.com/news/china-march-2027-rollout-blockchain-identity-regulations?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Fri, 27 Nov 2026 17:37:23 +0000",
+    "source": "Cointelegraph",
+    "category": "crypto",
+    "content": "China has issued new regulations governing blockchain-based digital identities, setting rules for cross-platform verification and data privacy.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M8EVTBT6HP6DPAEHWFE95N9V/stronger-china-flag-overlay.jpeg",
     "summary": "",
     "importance": 5
   },
   {
-    "title": "Ripple's lending plan moves closer to tapping XRP Ledger's $800 million in stablecoins",
-    "link": "https://www.coindesk.com/markets/2026/11/27/ripple-s-lending-plan-moves-closer-to-tapping-xrp-ledger-s-usd950-million-in-stablecoins",
-    "pubDate": "Fri, 27 Nov 2026 05:06:32 +0000",
-    "source": "CoinDesk",
+    "title": "Bitcoin price drops below $59K as Anthropic joins tech stock rebound",
+    "link": "https://cointelegraph.com/markets/bitcoin-price-below-59k-anthropic-tech-stock-rebound?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "pubDate": "Fri, 27 Nov 2026 16:48:51 +0000",
+    "source": "Cointelegraph",
     "category": "crypto",
-    "content": "The vaults that would hold lenders' money are on track to switch on Dec. 9. The loan system that draws from them still needs one more validator to start its own two-week clock.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/7062083f3eac875ac832f0c15d78be2612e57afe-1440x810.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "Binance says customer withdrawals are fully restored, four weeks after the $6.3 billion hack",
-    "link": "https://www.coindesk.com/markets/2026/11/27/binance-says-its-withdrawal-suspension-is-over-four-weeks-after-a-usd6-3-billion-hack",
-    "pubDate": "Fri, 27 Nov 2026 04:45:47 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "Binance says it has fully lifted withdrawal suspensions imposed after October’s $6.3 billion hack, though a small number of networks remain paused for unrelated maintenance.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/6afa7aee3dd3e7c1e37e3929a4ac24b7cebaccdd-6000x4000.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "Ethereum's much-awaited Glamsterdam upgrade cleared for December test. Here's what to know",
-    "link": "https://www.coindesk.com/tech/2026/11/27/ethereum-s-much-awaited-glamsterdam-upgrade-cleared-for-december-test-here-s-what-to-know",
-    "pubDate": "Fri, 27 Nov 2026 04:29:47 +0000",
-    "source": "CoinDesk",
-    "category": "crypto",
-    "content": "Developers have agreed to keep the planned storage charges despite concerns about some existing smart contracts, ending seven weeks of delays to the next major test.",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/c357579ddef2051b405b9e89f8525dd02709081d-5760x3240.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "content": "Bitcoin price volatility returned at the Wall Street open as BTC/USD dropped to local lows of $58,700 while stocks and gold headed higher.",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M8ESH2B3W3M02NVS1RNS6AQH/crypto-bitcoin-btc-price-960x640-960x640.webp",
     "summary": "",
     "importance": 5
   },
@@ -364,18 +426,6 @@
     "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M8EJFC8H3G5TK8AK4NXK7WYY/he-yi.jpg",
     "summary": "",
     "importance": 5
-  },
-  {
-    "title": "Here’s what happened in crypto today",
-    "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Fri, 27 Nov 2026 13:28:26 +0000",
-    "source": "Cointelegraph",
-    "category": "crypto",
-    "content": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg",
-    "summary": "This article serves as a daily briefing on the cryptocurrency market, offering an overview of the latest trends and events. It covers various aspects including Bitcoin price movements, developments in blockchain, DeFi, Web3, and crypto regulation.",
-    "importance": 5,
-    "classified": true
   },
   {
     "title": "Brazil’s stock exchange pushes stablecoin launch back to 2027",
@@ -565,46 +615,13 @@
     "importance": 5
   },
   {
-    "title": "Bitcoin price eyes $61K as Talos warns of thin Thanksgiving liquidity",
-    "link": "https://cointelegraph.com/markets/bitcoin-price-talos-warns-thin-thanksgiving-liquidity?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Thu, 26 Nov 2026 11:22:59 +0000",
-    "source": "Cointelegraph",
+    "title": "CryptoQuant says bitcoin price recovery needs USDT supply growth",
+    "link": "https://www.theblock.co/news/markets/2026-11-27-cryptoquant-bitcoin-price-recovery-usdt-supply-growth-447560",
+    "pubDate": "Fri, 27 Nov 2026 18:13:45 +0000",
+    "source": "The Block",
     "category": "crypto",
-    "content": "Bitcoin joined US stock futures in a modest relief rally as Talos questioned crypto demand and the broader outlook for the AI trade.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M8BQ97HCB2ACESRYJR5JD6PP/article-covers-233023-bitcoin-bounces-seven-day-high-can-btc-break-95k-thanksgiving-960x640.webp",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "Zcash devs urge users to migrate 2% of ZEC supply to accelerate Sapling pool retirement",
-    "link": "https://cointelegraph.com/news/zcash-users-migrate-zec-supply-sapling-pool-retirement?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Thu, 26 Nov 2026 10:15:28 +0000",
-    "source": "Cointelegraph",
-    "category": "crypto",
-    "content": "Zcash developers urged users to move funds out of an older shielded transaction pool over concerns that AI advances could compromise its cryptography.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M8BMN3WHTV269AC5GQXT90JH/hi-staking-explained-zcash-1.jpg",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "Bitcoin ETF November outflows top $5B, Morgan Stanley bucks trend",
-    "link": "https://cointelegraph.com/markets/morgan-stanley-bitcoin-etf-trend-outflows-november?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Thu, 26 Nov 2026 09:42:34 +0000",
-    "source": "Cointelegraph",
-    "category": "crypto",
-    "content": "The Morgan Stanley Bitcoin Trust drew $114.1 million in monthly net inflows through Wednesday, while US spot Bitcoin ETF outflows reached $5.39 billion.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M25BCMVHPH5H5NSCSEW4N3JQ/hi-what-is-a-bitcoin-node-a-beginners-guide-on-blockchain-nodes-etf-1.jpg",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "Switzerland’s first spot Bitcoin ETF ticks up 0.6% in opening hour",
-    "link": "https://cointelegraph.com/markets/bit-debuts-switzerlands-first-spot-bitcoin-etf?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "pubDate": "Thu, 26 Nov 2026 09:18:15 +0000",
-    "source": "Cointelegraph",
-    "category": "crypto",
-    "content": "The spot Bitcoin ETF will be backed by Bitcoin held in cold storage at a Swiss bank, unlike prior Bitcoin ETPs structured as debt securities.",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5CM5K1VY11KXJASBKDSS5M2/hi-inside-the-swiss-city-where-you-can-pay-for-almost-everything-in-bitcoin.jpg",
+    "content": "Bitcoin needs USDT supply to start growing again for a sustained price recovery, according to CryptoQuant.",
+    "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/GettyImages-2090417937.jpg",
     "summary": "",
     "importance": 5
   },
@@ -818,13 +835,35 @@
     "importance": 5
   },
   {
-    "title": "Justice Department takes aim at billions in crypto fraud proceeds in historic ‘largest ever crackdown’",
-    "link": "https://www.theblock.co/news/regulation/2026-11-25-justice-department-takes-aim-billions-crypto-fraud-proceeds-largest-ever-crackdown-446711",
-    "pubDate": "Wed, 25 Nov 2026 18:05:18 +0000",
-    "source": "The Block",
+    "title": "Binance Fully Lifts Withdrawal Suspension a Month After $6.3 Billion Hack",
+    "link": "https://bitcoinmagazine.com/news/binance-lifts-withdrawal-suspension-hack",
+    "pubDate": "Fri, 27 Nov 2026 18:00:00 +0000",
+    "source": "Bitcoin Magazine",
     "category": "crypto",
-    "content": "Following President Trump’s directive to crack down on fraud, the Justice Department announced what it called its “largest-ever crackdown.\"",
-    "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/gettyimages-2306567079-594x594-1.jpg",
+    "content": "Bitcoin Magazine\n\nBinance Fully Lifts Withdrawal Suspension a Month After $6.3 Billion Hack\nBinance said its withdrawal recovery work is complete and the suspension tied to the Oct. 29 hack has been fully lifted, as researchers track North Korean launderers moving the stolen funds.\nThis post Binance Fully Lifts Withdrawal Suspension a Month After $6.3 Billion Hack first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
+    "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/11/Binance-Says-6.34-Billion-Hack-Began-With-Fake-Job-Interview-.jpg",
+    "summary": "",
+    "importance": 5
+  },
+  {
+    "title": "Russia’s VTB Opens Bitcoin Trading as Central Bank Finalizes Crypto Test",
+    "link": "https://bitcoinmagazine.com/news/russia-vtb-bitcoin-trading-crypto-test",
+    "pubDate": "Fri, 27 Nov 2026 17:06:12 +0000",
+    "source": "Bitcoin Magazine",
+    "category": "crypto",
+    "content": "Bitcoin Magazine\n\nRussia’s VTB Opens Bitcoin Trading as Central Bank Finalizes Crypto Test\nVTB began letting qualified investors trade bitcoin in its app on Friday, a day after the Bank of Russia approved the knowledge test every crypto buyer must pass. SPB Exchange plans to open spot trading Dec. 1.\nThis post Russia’s VTB Opens Bitcoin Trading as Central Bank Finalizes Crypto Test first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
+    "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/11/U.S.-Sanctioned-Moscow-Exchange-Will-List-Bitcoin-on-Dec.-1-as-Russia-Pulls-Crypto-Trading-Home.jpg",
+    "summary": "",
+    "importance": 5
+  },
+  {
+    "title": "New York Wins $1.37 Billion Judgment Against NovaTech Crypto Ponzi Founders",
+    "link": "https://bitcoinmagazine.com/news/new-york-novatech-judgment-1-37-billion",
+    "pubDate": "Fri, 27 Nov 2026 16:15:00 +0000",
+    "source": "Bitcoin Magazine",
+    "category": "crypto",
+    "content": "Bitcoin Magazine\n\nNew York Wins $1.37 Billion Judgment Against NovaTech Crypto Ponzi Founders\nA New York judge ordered NovaTech founders Cynthia and Eddy Petion to pay more than $1.37 billion over a crypto Ponzi scheme that targeted Haitian communities.\nThis post New York Wins $1.37 Billion Judgment Against NovaTech Crypto Ponzi Founders first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
+    "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/11/New-York-Wins-1.37-Billion-Judgment-Against-NovaTech-Crypto-Ponzi-Founders.jpg",
     "summary": "",
     "importance": 5
   },
@@ -902,39 +941,6 @@
     "category": "crypto",
     "content": "▶\n\nBitcoin Magazine\n\nBitcoin is Vanishing into “Deep Storage” Faster than Miners Make It\nMiners produce about 450 new Bitcoin a day, but over the past year about 630 a day moved into wallets dormant for 10 years.\nThis post Bitcoin is Vanishing into “Deep Storage” Faster than Miners Make It first appeared on Bitcoin Magazine and is written by Patrick Green.",
     "image": "https://img.youtube.com/vi/rWfTVQTY8vU/hqdefault.jpg",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "Stanford Professor Reveals “Praxis” Bitcoin Cryptography Breakthrough",
-    "link": "https://bitcoinmagazine.com/videos/stanford-professor-reveals-praxis-bitcoin-cryptography-breakthrough",
-    "pubDate": "Wed, 25 Nov 2026 22:15:26 +0000",
-    "source": "Bitcoin Magazine",
-    "category": "crypto",
-    "content": "▶\n\nBitcoin Magazine\n\nStanford Professor Reveals “Praxis” Bitcoin Cryptography Breakthrough\nBitcoin developers have tried for five to 10 years to add covenants through a soft fork, and every effort has stalled.\nThis post Stanford Professor Reveals “Praxis” Bitcoin Cryptography Breakthrough first appeared on Bitcoin Magazine and is written by Patrick Green.",
-    "image": "https://img.youtube.com/vi/YL4q0VJ2HRQ/hqdefault.jpg",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "Matt Hougan: $1.6 MILLION Bitcoin Price Target “Conservative”",
-    "link": "https://bitcoinmagazine.com/videos/matt-hougan-1-6-million-bitcoin-price-target-conservative",
-    "pubDate": "Wed, 25 Nov 2026 21:22:24 +0000",
-    "source": "Bitcoin Magazine",
-    "category": "crypto",
-    "content": "▶\n\nBitcoin Magazine\n\nMatt Hougan: $1.6 MILLION Bitcoin Price Target “Conservative”\nBitwise just raised its 10-year Bitcoin forecast from $1.\nThis post Matt Hougan: $1.6 MILLION Bitcoin Price Target “Conservative” first appeared on Bitcoin Magazine and is written by Patrick Green.",
-    "image": "https://img.youtube.com/vi/l4GRgbXyQJU/hqdefault.jpg",
-    "summary": "",
-    "importance": 5
-  },
-  {
-    "title": "Strategic Bitcoin Reserve Bill Clears House Committee, Heads to Floor",
-    "link": "https://bitcoinmagazine.com/news/strategic-bitcoin-reserve-bill-house-floor",
-    "pubDate": "Wed, 25 Nov 2026 19:50:00 +0000",
-    "source": "Bitcoin Magazine",
-    "category": "crypto",
-    "content": "Bitcoin Magazine\n\nStrategic Bitcoin Reserve Bill Clears House Committee, Heads to Floor\nRep. Nick Begich's bill to write the Strategic Bitcoin Reserve into law, with a 20-year ban on selling its bitcoin, is now eligible for a House floor vote.\nThis post Strategic Bitcoin Reserve Bill Clears House Committee, Heads to Floor first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
-    "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/11/Strategic-Bitcoin-Reserve-Bill-Clears-House-Committee-Heads-to-Floor.jpg",
     "summary": "",
     "importance": 5
   },
